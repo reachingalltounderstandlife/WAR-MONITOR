@@ -1,0 +1,103 @@
+name: Fetch conflict news
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch news from NewsAPI
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: |
+          FROM=$(date -u -d '2 days ago' +%Y-%m-%d)
+          mkdir -p /tmp/news
+
+          fetch_query() {
+            local SLUG="$1"
+            local QUERY="$2"
+            local ENCODED=$(python3 -c "import urllib.parse; print(urllib.parse.quote('$QUERY'))")
+            curl -sf "https://newsapi.org/v2/everything?q=${ENCODED}&language=en&sortBy=publishedAt&pageSize=10&from=${FROM}&apiKey=${NEWS_API_KEY}" \
+              -o "/tmp/news/${SLUG}.json" || echo '{"articles":[]}' > "/tmp/news/${SLUG}.json"
+            echo "Fetched $SLUG"
+          }
+
+          fetch_query "iran"    "Iran war Israel US strikes military"
+          fetch_query "ukraine" "Ukraine Russia war NATO military"
+          fetch_query "lebanon" "Lebanon Hezbollah Israel strikes"
+          fetch_query "taiwan"  "Taiwan China military strait PLA"
+          fetch_query "korea"   "North Korea nuclear Kim Jong Un"
+          fetch_query "nuclear" "nuclear weapons war threat proliferation"
+
+          python3 << 'PYEOF'
+          import json, os
+
+          CATS = {
+            "iran":    "Iran War",
+            "ukraine": "Ukraine",
+            "lebanon": "Lebanon",
+            "taiwan":  "Taiwan",
+            "korea":   "N. Korea",
+            "nuclear": "Nuclear",
+          }
+
+          all_articles = []
+
+          for slug, label in CATS.items():
+              path = f"/tmp/news/{slug}.json"
+              try:
+                  with open(path) as f:
+                      data = json.load(f)
+                  articles = data.get("articles", [])
+                  print(f"{slug}: {len(articles)} articles")
+                  for a in articles:
+                      all_articles.append({
+                          "title":       a.get("title", "") or "",
+                          "url":         a.get("url", "") or "",
+                          "source":      (a.get("source") or {}).get("name", "") or "",
+                          "publishedAt": a.get("publishedAt", "") or "",
+                          "_cat":        slug,
+                          "_label":      label
+                      })
+              except Exception as e:
+                  print(f"Error reading {slug}: {e}")
+
+          seen = set()
+          deduped = []
+          for a in all_articles:
+              url = a["url"]
+              if url and url not in seen:
+                  seen.add(url)
+                  deduped.append(a)
+
+          deduped.sort(key=lambda x: x.get("publishedAt", ""), reverse=True)
+
+          from datetime import datetime, timezone
+          output = {
+              "updated":  datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+              "count":    len(deduped),
+              "articles": deduped
+          }
+
+          with open("data.json", "w", encoding="utf-8") as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
+
+          print(f"\nWrote {len(deduped)} total articles to data.json")
+          PYEOF
+
+      - name: Commit data.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "chore: update news data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push

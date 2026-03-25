@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Conflict Monitor — Live War Report</title>
+<meta name="description" content="Auto-updating global conflict tracker. WW3 risk analysis, live news feeds, nuclear watch. Updated every 6 hours.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Barlow+Condensed:wght@300;400;600;700&family=Barlow:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:    #080c0a;
+  --bg2:   #0d1410;
+  --bg3:   #111a14;
+  --b:     #1e2e22;
+  --b2:    #2a3f2e;
+  --green: #00ff6a;
+  --g2:    #00cc55;
+  --g3:    #007733;
+  --gdim:  rgba(0,255,106,.1);
+  --red:   #ff3c3c;
+  --rdim:  rgba(255,60,60,.1);
+  --r2:    #aa2222;
+  --amb:   #ffaa00;
+  --adim:  rgba(255,170,0,.1);
+  --a2:    #886600;
+  --blue:  #3399ff;
+  --bdim:  rgba(51,153,255,.1);
+  --txt:   #c4dcc8;
+  --txt2:  #6e9474;
+  --txt3:  #3d5e42;
+  --mono:  'Share Tech Mono', monospace;
+  --head:  'Barlow Condensed', sans-serif;
+  --body:  'Barlow', sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  background:var(--bg);
+  color:var(--txt);
+  font-family:var(--body);
+  font-size:14px;
+  line-height:1.55;
+  min-height:100vh;
+}
+/* scanlines */
+body::after{
+  content:'';
+  position:fixed;inset:0;pointer-events:none;z-index:999;
+  background:repeating-linear-gradient(0deg,transparent,transparent 3px,rgba(0,255,106,.008) 3px,rgba(0,255,106,.008) 4px);
+}
+
+a{color:var(--g2);text-decoration:none}
+a:hover{text-decoration:underline}
+
+/* ── LAYOUT ── */
+.page{max-width:960px;margin:0 auto;padding:28px 24px 60px}
+
+/* ── HEADER ── */
+.header{
+  display:flex;align-items:flex-start;justify-content:space-between;
+  margin-bottom:22px;gap:16px;flex-wrap:wrap;
+}
+.brand{
+  font-family:var(--head);font-size:34px;font-weight:700;
+  letter-spacing:3px;color:#fff;line-height:1;
+}
+.brand em{color:var(--green);font-style:normal}
+.brand-sub{
+  font-family:var(--mono);font-size:10px;color:var(--txt3);
+  letter-spacing:2px;margin-top:5px;
+}
+.hright{text-align:right}
+.live-pill{
+  display:inline-flex;align-items:center;gap:6px;
+  font-family:var(--mono);font-size:10px;color:var(--green);
+  letter-spacing:1.5px;margin-bottom:4px;
+}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--green);animation:blink 1.4s ease-in-out infinite}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.15}}
+.clock{font-family:var(--mono);font-size:22px;color:#fff;line-height:1}
+.lastup{font-family:var(--mono);font-size:10px;color:var(--txt3);margin-top:2px}
+
+/* ── ALERT BANNER ── */
+.alert{
+  display:flex;align-items:center;gap:10px;
+  background:var(--rdim);border:1px solid var(--r2);
+  border-radius:2px;padding:10px 14px;
+  font-family:var(--mono);font-size:11px;color:var(--red);
+  margin-bottom:16px;letter-spacing:.5px;
+}
+
+/* ── METRICS ── */
+.metrics{
+  display:grid;grid-template-columns:repeat(4,1fr);
+  gap:1px;background:var(--b);
+  border:1px solid var(--b);border-radius:2px;
+  margin-bottom:18px;overflow:hidden;
+}
+.mcard{background:var(--bg2);padding:14px 16px}
+.mlbl{font-family:var(--mono);font-size:9px;color:var(--txt3);letter-spacing:1.5px;text-transform:uppercase;margin-bottom:5px}
+.mval{font-family:var(--head);font-size:28px;font-weight:700;line-height:1;margin-bottom:2px}
+.mdelta{font-family:var(--mono);font-size:9px;color:var(--txt3)}
+.red{color:var(--red)}.amb{color:var(--amb)}.grn{color:var(--green)}
+
+/* ── RISK METER ── */
+.risk{
+  background:var(--bg2);border:1px solid var(--b2);
+  border-radius:2px;padding:16px 18px;margin-bottom:18px;
+}
+.risk-top{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+.risk-lbl{font-family:var(--mono);font-size:10px;color:var(--txt3);letter-spacing:1.5px;text-transform:uppercase}
+.risk-score{font-family:var(--head);font-size:24px;font-weight:700}
+.bar-bg{height:9px;border-radius:1px;background:var(--bg3);border:1px solid var(--b);overflow:hidden;margin-bottom:5px}
+.bar-fill{height:100%;background:linear-gradient(90deg,#007733 0%,#886600 38%,#cc2222 68%,#881111 100%);transition:width 1s ease}
+.bar-ticks{display:flex;justify-content:space-between;font-family:var(--mono);font-size:9px;color:var(--txt3)}
+.risk-note{font-size:12px;color:var(--txt2);margin-top:9px;line-height:1.5}
+
+/* ── TABS ── */
+.tabs{display:flex;border-bottom:1px solid var(--b2);margin-bottom:16px;overflow-x:auto}
+.tab{
+  font-family:var(--mono);font-size:11px;letter-spacing:1px;
+  text-transform:uppercase;padding:10px 20px;
+  border:none;background:transparent;color:var(--txt3);
+  cursor:pointer;transition:color .15s;white-space:nowrap;
+  border-bottom:2px solid transparent;margin-bottom:-1px;
+}
+.tab:hover{color:var(--txt2)}
+.tab.on{color:var(--green);border-bottom-color:var(--green)}
+.panel{display:none}.panel.on{display:block}
+
+/* ── CONFLICT CARDS ── */
+.ccard{
+  border:1px solid var(--b);border-radius:2px;
+  margin-bottom:8px;background:var(--bg2);
+  overflow:hidden;transition:border-color .15s;
+}
+.ccard:hover{border-color:var(--b2)}
+.chead{
+  padding:13px 16px;cursor:pointer;
+  display:flex;align-items:center;gap:10px;
+}
+.badge{
+  font-family:var(--mono);font-size:9px;padding:3px 8px;
+  border-radius:1px;letter-spacing:.8px;flex-shrink:0;
+  text-transform:uppercase;
+}
+.bhot {background:var(--rdim);color:var(--red);border:1px solid var(--r2)}
+.bwarm{background:var(--adim);color:var(--amb);border:1px solid var(--a2)}
+.btns {background:var(--bdim);color:var(--blue);border:1px solid #224488}
+.bmon {background:var(--gdim);color:var(--g2);border:1px solid var(--g3)}
+.cname{font-family:var(--head);font-size:16px;font-weight:600;color:#ddd;flex:1;letter-spacing:.5px}
+.ccount{font-family:var(--mono);font-size:10px;color:var(--txt3);flex-shrink:0}
+.chev{font-size:11px;color:var(--txt3);transition:transform .2s;flex-shrink:0}
+.ccard.open .chev{transform:rotate(180deg)}
+.cbody{display:none;border-top:1px solid var(--b)}
+.ccard.open .cbody{display:block}
+
+.facts{padding:12px 16px;border-bottom:1px solid var(--b)}
+.facts ul{padding-left:14px}
+.facts li{font-size:12px;color:var(--txt2);margin-bottom:4px;line-height:1.55}
+
+.newssec{padding:12px 16px}
+.nsec-lbl{
+  font-family:var(--mono);font-size:9px;color:var(--txt3);
+  letter-spacing:1.5px;text-transform:uppercase;margin-bottom:10px;
+}
+.nitem{padding:9px 0;border-bottom:1px solid var(--b)}
+.nitem:last-child{border-bottom:none}
+.nhead{font-size:13px;font-weight:500;color:var(--txt);margin-bottom:3px;line-height:1.4}
+.nhead a{color:var(--txt)}
+.nhead a:hover{color:var(--g2)}
+.nmeta{font-family:var(--mono);font-size:10px;color:var(--txt3);display:flex;gap:10px}
+.nloading{font-family:var(--mono);font-size:11px;color:var(--txt3);padding:18px 0;text-align:center}
+
+/* ── ESCALATION ── */
+.epath{
+  background:var(--bg2);border:1px solid var(--b);
+  border-radius:2px;padding:14px 16px;margin-bottom:8px;
+}
+.ep-top{display:flex;align-items:center;gap:10px;margin-bottom:8px}
+.ep-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+.ep-name{font-family:var(--head);font-size:15px;font-weight:600;color:#ddd;flex:1}
+.ep-pct{font-family:var(--mono);font-size:10px}
+.ep-bar{height:3px;background:var(--bg3);border-radius:1px;overflow:hidden;margin-bottom:8px}
+.ep-fill{height:100%;border-radius:1px;transition:width 1s ease}
+.ep-desc{font-size:12px;color:var(--txt2);line-height:1.6}
+
+/* ── FEED ── */
+.feed{
+  display:flex;flex-direction:column;gap:1px;
+  background:var(--b);border:1px solid var(--b);
+  border-radius:2px;overflow:hidden;
+}
+.fitem{
+  background:var(--bg2);padding:12px 16px;
+  display:flex;gap:12px;align-items:flex-start;
+  transition:background .12s;
+}
+.fitem:hover{background:var(--bg3)}
+.ftag{
+  font-family:var(--mono);font-size:9px;padding:2px 7px;
+  border-radius:1px;flex-shrink:0;margin-top:2px;
+  text-transform:uppercase;letter-spacing:.5px;
+}
+.fcontent{flex:1;min-width:0}
+.fhead{font-size:13px;font-weight:500;color:var(--txt);margin-bottom:3px;line-height:1.4}
+.fhead a{color:var(--txt)}
+.fhead a:hover{color:var(--g2)}
+.fmeta{font-family:var(--mono);font-size:10px;color:var(--txt3);display:flex;gap:10px}
+.fmeta span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:200px}
+
+/* ── NUCLEAR ── */
+.ngrid{
+  display:grid;grid-template-columns:repeat(3,1fr);
+  gap:1px;background:var(--b);
+  border:1px solid var(--b);border-radius:2px;
+  overflow:hidden;margin-bottom:12px;
+}
+.ncard{background:var(--bg2);padding:14px 16px}
+.nflag{font-size:20px;margin-bottom:6px}
+.nname{font-family:var(--mono);font-size:9px;color:var(--txt3);letter-spacing:1.5px;margin-bottom:4px;text-transform:uppercase}
+.nval{font-family:var(--head);font-size:24px;font-weight:700;line-height:1;margin-bottom:2px}
+.nsub{font-family:var(--mono);font-size:9px;color:var(--txt3);margin-bottom:7px}
+.nnote{font-size:11px;color:var(--txt2);line-height:1.45}
+.nbox{
+  background:var(--bg2);border:1px solid var(--b);
+  border-radius:2px;padding:14px 16px;margin-bottom:8px;
+}
+.nbox-t{font-family:var(--mono);font-size:9px;color:var(--txt3);letter-spacing:1.5px;text-transform:uppercase;margin-bottom:8px}
+.nbox-b{font-size:12px;color:var(--txt2);line-height:1.7}
+
+/* ── TIMELINE ── */
+.tl{position:relative;padding-left:20px}
+.tl::before{content:'';position:absolute;left:4px;top:0;bottom:0;width:1px;background:var(--b2)}
+.tli{position:relative;margin-bottom:16px}
+.tl-dot{position:absolute;left:-17px;top:5px;width:8px;height:8px;border-radius:50%;border:2px solid}
+.tl-date{font-family:var(--mono);font-size:10px;color:var(--txt3);margin-bottom:3px}
+.tl-txt{font-size:12px;color:var(--txt2);line-height:1.6}
+.tl-txt strong{color:#ddd;font-weight:600}
+
+/* ── FOOTER ── */
+.footer{
+  margin-top:32px;padding-top:16px;
+  border-top:1px solid var(--b);
+  display:flex;justify-content:space-between;align-items:center;
+  flex-wrap:wrap;gap:10px;
+}
+.footer-l{font-family:var(--mono);font-size:10px;color:var(--txt3);line-height:1.6}
+.footer-r{font-family:var(--mono);font-size:10px;color:var(--txt3)}
+
+/* ── RESPONSIVE ── */
+@media(max-width:640px){
+  .metrics{grid-template-columns:repeat(2,1fr)}
+  .ngrid{grid-template-columns:repeat(2,1fr)}
+  .brand{font-size:26px}
+  .tab{padding:8px 12px}
+}
+@media(max-width:400px){
+  .metrics{grid-template-columns:1fr}
+  .ngrid{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header">
+    <div>
+      <div class="brand">CONFLICT<em>MONITOR</em></div>
+      <div class="brand-sub">GLOBAL WAR REPORT · AUTO-UPDATING EVERY 6 HOURS</div>
+    </div>
+    <div class="hright">
+      <div class="live-pill"><span class="dot"></span>LIVE DATA</div>
+      <div class="clock" id="clock">--:--:--</div>
+      <div class="lastup" id="lastup">LAST UPDATED: —</div>
+    </div>
+  </div>
+
+  <!-- ALERT -->
+  <div class="alert">
+    <span class="dot"></span>
+    ELEVATED GLOBAL ALERT — US–IRAN WAR ACTIVE (DAY <span id="iran-day">—</span>) · OIL $108+/BBL · POST-COLD WAR RECORD RISK LEVEL
+  </div>
+
+  <!-- METRICS -->
+  <div class="metrics">
+    <div class="mcard">
+      <div class="mlbl">Active conflicts</div>
+      <div class="mval red">9+</div>
+      <div class="mdelta">Highest in decades</div>
+    </div>
+    <div class="mcard">
+      <div class="mlbl">Iran war — day</div>
+      <div class="mval red" id="m-iranday">—</div>
+      <div class="mdelta">Since Feb 28, 2026</div>
+    </div>
+    <div class="mcard">
+      <div class="mlbl">Articles loaded</div>
+      <div class="mval amb" id="m-count">—</div>
+      <div class="mdelta" id="m-delta">Loading...</div>
+    </div>
+    <div class="mcard">
+      <div class="mlbl">WW3 risk score</div>
+      <div class="mval red" id="m-risk">—</div>
+      <div class="mdelta">Calculated from live data</div>
+    </div>
+  </div>
+
+  <!-- RISK METER -->
+  <div class="risk">
+    <div class="risk-top">
+      <span class="risk-lbl">GLOBAL WW3 RISK METER</span>
+      <span class="risk-score red" id="r-score">— / 100</span>
+    </div>
+    <div class="bar-bg"><div class="bar-fill" id="r-bar" style="width:0%"></div></div>
+    <div class="bar-ticks"><span>LOW</span><span>ELEVATED</span><span>CRITICAL</span><span>IMMINENT</span></div>
+    <div class="risk-note" id="r-note">Loading live data...</div>
+  </div>
+
+  <!-- TABS -->
+  <div class="tabs">
+    <button class="tab on" onclick="showTab(this,'conflicts')">CONFLICTS</button>
+    <button class="tab" onclick="showTab(this,'escalation')">ESCALATION</button>
+    <button class="tab" onclick="showTab(this,'feed')">LIVE FEED</button>
+    <button class="tab" onclick="showTab(this,'timeline')">TIMELINE</button>
+    <button class="tab" onclick="showTab(this,'nuclear')">NUCLEAR</button>
+  </div>
+
+  <!-- ═══════════ CONFLICTS ═══════════ -->
+  <div class="panel on" id="p-conflicts">
+
+    <div class="ccard" id="cc-iran">
+      <div class="chead" onclick="toggle('cc-iran')">
+        <span class="badge bhot">ACTIVE · HOT</span>
+        <span class="cname">US–Israel vs Iran</span>
+        <span class="ccount" id="cnt-iran">— articles</span>
+        <span class="chev">▼</span>
+      </div>
+      <div class="cbody">
+        <div class="facts"><ul>
+          <li>Feb 28, 2026: Massive US–Israel strikes on Iran. Supreme Leader Khamenei killed Day 1.</li>
+          <li>Mojtaba Khamenei elected new Supreme Leader March 8. Trump called him "lightweight."</li>
+          <li>Iran fired 500+ ballistic missiles and ~2,000 drones. Death toll: 1,444+ killed, 18,551+ injured.</li>
+          <li>Iran struck South Pars gas field, Qatar LNG terminal, Gulf energy sites across Saudi Arabia, UAE, Kuwait, Jordan.</li>
+          <li>Oil topped $108/bbl. Trump threatened to destroy South Pars. Asian markets fell 2–3%.</li>
+          <li>US dropped 5,000-lb deep-penetrator bombs on Strait of Hormuz missile sites.</li>
+          <li>Senior Trump official Joe Kent resigned, citing intelligence was "largely stifled" before war.</li>
+        </ul></div>
+        <div class="newssec">
+          <div class="nsec-lbl">LATEST HEADLINES</div>
+          <div id="news-iran"><div class="nloading">Loading...</div></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="ccard" id="cc-ukraine">
+      <div class="chead" onclick="toggle('cc-ukraine')">
+        <span class="badge bhot">ACTIVE · HOT</span>
+        <span class="cname">Russia–Ukraine War (Year 4+)</span>
+        <span class="ccount" id="cnt-ukraine">— articles</span>
+        <span class="chev">▼</span>
+      </div>
+      <div class="cbody">
+        <div class="facts"><ul>
+          <li>War in its 4th year. Zelenskyy (Feb 23, 2026): Putin "already started WW3."</li>
+          <li>Sep 2025: Russian drones entered Polish airspace. Polish PM Tusk: closest to large-scale war since WWII.</li>
+          <li>Trump accused Zelenskyy of "gambling with WW3." Macron: "That's Putin."</li>
+          <li>US issued 30-day Russia oil sanctions waiver during Iran war. Russia benefiting from $108+ oil.</li>
+          <li>Ukraine sharing Iranian Shahed drone interception expertise with Gulf states and US military.</li>
+          <li>CFR 2026: "Russia provocations against non-NATO states" on watchlist for the first time.</li>
+        </ul></div>
+        <div class="newssec">
+          <div class="nsec-lbl">LATEST HEADLINES</div>
+          <div id="news-ukraine"><div class="nloading">Loading...</div></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="ccard" id="cc-lebanon">
+      <div class="chead" onclick="toggle('cc-lebanon')">
+        <span class="badge bwarm">ACTIVE · ESCALATING</span>
+        <span class="cname">Lebanon / Hezbollah Front</span>
+        <span class="ccount" id="cnt-lebanon">— articles</span>
+        <span class="chev">▼</span>
+      </div>
+      <div class="cbody">
+        <div class="facts"><ul>
+          <li>Hezbollah entered war March 2, attacking Israel in solidarity with Iran.</li>
+          <li>Israel launched intense airstrikes on Lebanon and ground operations in the south.</li>
+          <li>Syria has stayed out of the war so far. 4+ Syrians killed in spillover.</li>
+          <li>Kataib Hezbollah offered 5-day pause on Baghdad embassy attacks under conditions.</li>
+        </ul></div>
+        <div class="newssec">
+          <div class="nsec-lbl">LATEST HEADLINES</div>
+          <div id="news-lebanon"><div class="nloading">Loading...</div></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="ccard" id="cc-taiwan">
+      <div class="chead" onclick="toggle('cc-taiwan')">
+        <span class="badge btns">TENSE · WATCHING</span>
+        <span class="cname">Taiwan Strait</span>
+        <span class="ccount" id="cnt-taiwan">— articles</span>
+        <span class="chev">▼</span>
+      </div>
+      <div class="cbody">
+        <div class="facts"><ul>
+          <li>Cooled short-term after Trump–Xi summit. Structural military buildup continues.</li>
+          <li>CFR: if US drawn into Caribbean conflicts, China may seize the distraction window.</li>
+          <li>US wargames consistently show significant American losses in Taiwan scenarios.</li>
+          <li>China controls invasion timing. PLA exercises continue at elevated frequency.</li>
+        </ul></div>
+        <div class="newssec">
+          <div class="nsec-lbl">LATEST HEADLINES</div>
+          <div id="news-taiwan"><div class="nloading">Loading...</div></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="ccard" id="cc-korea">
+      <div class="chead" onclick="toggle('cc-korea')">
+        <span class="badge btns">TENSE</span>
+        <span class="cname">Korean Peninsula</span>
+        <span class="ccount" id="cnt-korea">— articles</span>
+        <span class="chev">▼</span>
+      </div>
+      <div class="cbody">
+        <div class="facts"><ul>
+          <li>CFR 2026: resumption of North Korean nuclear tests is a top-tier risk scenario.</li>
+          <li>North Korea supplied munitions and personnel to Russia during Ukraine war.</li>
+          <li>Risk of armed confrontation involving South Korea, Japan, and the US remains active.</li>
+        </ul></div>
+        <div class="newssec">
+          <div class="nsec-lbl">LATEST HEADLINES</div>
+          <div id="news-korea"><div class="nloading">Loading...</div></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ═══════════ ESCALATION ═══════════ -->
+  <div class="panel" id="p-escalation">
+    <div style="font-family:var(--mono);font-size:9px;color:var(--txt3);letter-spacing:1.5px;margin-bottom:14px">ANALYST-ASSESSED ESCALATION SCENARIOS · SOURCES: RAND, CFR, STIMSON CENTER</div>
+
+    <div class="epath">
+      <div class="ep-top">
+        <div class="ep-dot" style="background:var(--red)"></div>
+        <span class="ep-name">Iran war expands — Gulf states drawn in</span>
+        <span class="ep-pct red">ACTIVE NOW · 82%</span>
+      </div>
+      <div class="ep-bar"><div class="ep-fill" style="width:82%;background:var(--red)"></div></div>
+      <div class="ep-desc">Iran is striking Saudi Arabia, Qatar, UAE, Kuwait, and Jordan. IRGC issued Gulf evacuation orders March 18. If a major Gulf state suffers catastrophic infrastructure damage, a broader Arab–Iran war becomes likely. Russia, financially benefiting from soaring oil prices, has no incentive to de-escalate.</div>
+    </div>
+
+    <div class="epath">
+      <div class="ep-top">
+        <div class="ep-dot" style="background:var(--red)"></div>
+        <span class="ep-name">NATO–Russia direct clash in Eastern Europe</span>
+        <span class="ep-pct red">ELEVATED · 62%</span>
+      </div>
+      <div class="ep-bar"><div class="ep-fill" style="width:62%;background:var(--red)"></div></div>
+      <div class="ep-desc">Russian drones entered Polish airspace (Sep 2025). CFR added "Russia provocations against non-NATO states" to 2026 watchlist for the first time. One incident involving a NATO member triggers Article 5. NATO is distracted by Middle East commitments and strained US-ally relations.</div>
+    </div>
+
+    <div class="epath">
+      <div class="ep-top">
+        <div class="ep-dot" style="background:var(--amb)"></div>
+        <span class="ep-name">China–Taiwan — opportunistic invasion window</span>
+        <span class="ep-pct amb">MODERATE · 45%</span>
+      </div>
+      <div class="ep-bar"><div class="ep-fill" style="width:45%;background:var(--amb)"></div></div>
+      <div class="ep-desc">China controls the invasion timing. US military stretched across the Middle East. Xi–Trump summit cooled rhetoric short-term but structural buildup continues. Most US wargame scenarios show significant American losses in any Taiwan conflict.</div>
+    </div>
+
+    <div class="epath">
+      <div class="ep-top">
+        <div class="ep-dot" style="background:var(--amb)"></div>
+        <span class="ep-name">Iran nuclear breakout — proliferation cascade</span>
+        <span class="ep-pct amb">MODERATE · 38%</span>
+      </div>
+      <div class="ep-bar"><div class="ep-fill" style="width:38%;background:var(--amb)"></div></div>
+      <div class="ep-desc">DNI Gabbard said Iran's enrichment was "obliterated" in 2025 strikes. New Supreme Leader Mojtaba Khamenei is untested. If Iran restarts enrichment, Saudi Arabia and others may pursue their own programs, triggering a Middle East nuclear cascade.</div>
+    </div>
+
+    <div class="epath">
+      <div class="ep-top">
+        <div class="ep-dot" style="background:var(--g2)"></div>
+        <span class="ep-name">Cyber war triggers kinetic escalation</span>
+        <span class="ep-pct grn">PERSISTENT · 25%</span>
+      </div>
+      <div class="ep-bar"><div class="ep-fill" style="width:25%;background:var(--g2)"></div></div>
+      <div class="ep-desc">Cyberwarfare is endemic across all active theaters. A crippling attack on power grids, financial systems, or nuclear plant controls could be misidentified as a conventional act of war and trigger kinetic retaliation by a nuclear-armed state.</div>
+    </div>
+  </div>
+
+  <!-- ═══════════ LIVE FEED ═══════════ -->
+  <div class="panel" id="p-feed">
+    <div style="font-family:var(--mono);font-size:9px;color:var(--txt3);letter-spacing:1.5px;margin-bottom:10px">ALL CONFLICT HEADLINES · LIVE FROM NEWSAPI · SORTED BY RECENCY</div>
+    <div class="feed" id="global-feed">
+      <div class="fitem"><div class="nloading" style="width:100%">Loading feed...</div></div>
+    </div>
+  </div>
+
+  <!-- ═══════════ TIMELINE ═══════════ -->
+  <div class="panel" id="p-timeline">
+    <div style="font-family:var(--mono);font-size:9px;color:var(--txt3);letter-spacing:1.5px;margin-bottom:16px">KEY 2026 CONFLICT EVENTS — MOST RECENT FIRST</div>
+    <div class="tl">
+      <div class="tli">
+        <div class="tl-dot" style="border-color:var(--red);background:#1a0808"></div>
+        <div class="tl-date">March 18–19, 2026</div>
+        <div class="tl-txt"><strong>Iran strikes Gulf energy infrastructure.</strong> IRGC evacuation orders for Qatar, Saudi Arabia, UAE. Iran hit Qatar's LNG terminal. Israel struck South Pars gas field. Oil topped $108/bbl. Asian markets fell 2–3%.</div>
+      </div>
+      <div class="tli">
+        <div class="tl-dot" style="border-color:var(--red);background:#1a0808"></div>
+        <div class="tl-date">March 17, 2026</div>
+        <div class="tl-txt"><strong>Three senior Iranian leaders killed in 24 hours.</strong> Intelligence Minister Khatib, security chief Larijani, Basij commander Soleimani. Iran vowed intense revenge. US Embassy Baghdad hit by rockets. Senior Trump official Joe Kent resigned over war decision.</div>
+      </div>
+      <div class="tli">
+        <div class="tl-dot" style="border-color:var(--red);background:#1a0808"></div>
+        <div class="tl-date">March 8, 2026</div>
+        <div class="tl-txt"><strong>Mojtaba Khamenei elected Iran's new Supreme Leader.</strong> Trump called him "lightweight." Iran's political system reconstituted under wartime conditions.</div>
+      </div>
+      <div class="tli">
+        <div class="tl-dot" style="border-color:var(--red);background:#1a0808"></div>
+        <div class="tl-date">March 2, 2026</div>
+        <div class="tl-txt"><strong>Hezbollah enters the war.</strong> Attacked Israel in solidarity with Iran. Israel launched intense airstrikes and ground operations in Lebanon.</div>
+      </div>
+      <div class="tli">
+        <div class="tl-dot" style="border-color:var(--red);background:#1a0808"></div>
+        <div class="tl-date">February 28, 2026</div>
+        <div class="tl-txt"><strong>Trump announces "major combat operations" against Iran.</strong> Joint US–Israel strikes. Supreme Leader Khamenei killed Day 1. Interim Leadership Council established.</div>
+      </div>
+      <div class="tli">
+        <div class="tl-dot" style="border-color:var(--amb);background:#1a1000"></div>
+        <div class="tl-date">February 27, 2026</div>
+        <div class="tl-txt"><strong>Peace "within reach" — then war.</strong> Oman FM declared Iran had agreed to IAEA verification and no enrichment. Talks expected March 2. Strikes began that night instead.</div>
+      </div>
+      <div class="tli">
+        <div class="tl-dot" style="border-color:var(--amb);background:#1a1000"></div>
+        <div class="tl-date">February 23, 2026</div>
+        <div class="tl-txt"><strong>Zelenskyy says Putin "already started WW3."</strong> 4th anniversary of Russia's full-scale invasion of Ukraine.</div>
+      </div>
+      <div class="tli">
+        <div class="tl-dot" style="border-color:var(--blue);background:#080e1a"></div>
+        <div class="tl-date">September 9, 2025</div>
+        <div class="tl-txt"><strong>Russian drones enter Polish airspace.</strong> NATO fighters shot some down; others crashed in Poland. Polish PM Tusk: closest to large-scale war since WWII.</div>
+      </div>
+      <div class="tli">
+        <div class="tl-dot" style="border-color:var(--blue);background:#080e1a"></div>
+        <div class="tl-date">February 2025</div>
+        <div class="tl-txt"><strong>Trump–Zelenskyy clash at the White House.</strong> Trump accused Zelenskyy of "gambling with WW3." Macron: "That's Putin."</div>
+      </div>
+      <div class="tli">
+        <div class="tl-dot" style="border-color:var(--blue);background:#080e1a"></div>
+        <div class="tl-date">November 2024</div>
+        <div class="tl-txt"><strong>Putin warns Ukraine war has "elements of a global character."</strong> Said Russia entitled to strike NATO states supplying weapons to Ukraine.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ═══════════ NUCLEAR ═══════════ -->
+  <div class="panel" id="p-nuclear">
+    <div class="alert" style="margin-bottom:14px">
+      <span class="dot"></span>
+      ELEVATED NUCLEAR ALERT — HIGHEST POST-COLD WAR RISK LEVEL (DEFCON LEVEL, MARCH 2026)
+    </div>
+    <div class="ngrid">
+      <div class="ncard">
+        <div class="nflag">🇷🇺</div>
+        <div class="nname">Russia</div>
+        <div class="nval red">~5,580</div>
+        <div class="nsub">WARHEADS · MODERNIZING</div>
+        <div class="nnote">Putin Nov 2024: Ukraine war has "elements of a global character."</div>
+      </div>
+      <div class="ncard">
+        <div class="nflag">🇺🇸</div>
+        <div class="nname">USA</div>
+        <div class="nval amb">~5,044</div>
+        <div class="nsub">WARHEADS · ACTIVE IN REGION</div>
+        <div class="nnote">Actively striking Iran. Carriers deployed. 5,000-lb bunker busters used on Strait of Hormuz.</div>
+      </div>
+      <div class="ncard">
+        <div class="nflag">🇨🇳</div>
+        <div class="nname">China</div>
+        <div class="nval amb">~500+</div>
+        <div class="nsub">WARHEADS · RAPID EXPANSION</div>
+        <div class="nnote">Watching Taiwan window as US is distracted. Arsenal doubling vs 2020 levels.</div>
+      </div>
+      <div class="ncard">
+        <div class="nflag">🇮🇱</div>
+        <div class="nname">Israel</div>
+        <div class="nval">~90</div>
+        <div class="nsub">EST. WARHEADS · UNDECLARED</div>
+        <div class="nnote">Active combatant in Iran war. Nuclear ambiguity doctrine maintained.</div>
+      </div>
+      <div class="ncard">
+        <div class="nflag">🇵🇰</div>
+        <div class="nname">Pakistan</div>
+        <div class="nval amb">~170</div>
+        <div class="nsub">WARHEADS · INDIA TENSIONS</div>
+        <div class="nnote">India–Pakistan border simmering. Afghan refugee crisis adds instability.</div>
+      </div>
+      <div class="ncard">
+        <div class="nflag">🇰🇵</div>
+        <div class="nname">N. Korea</div>
+        <div class="nval red">~50+</div>
+        <div class="nsub">EST. WARHEADS · UNPREDICTABLE</div>
+        <div class="nnote">CFR 2026: nuclear test resumption is top Korean Peninsula risk.</div>
+      </div>
+    </div>
+    <div class="nbox">
+      <div class="nbox-t">KEY DETERRENCE ANALYSIS</div>
+      <div class="nbox-b">Mutually Assured Destruction (MAD) remains the primary brake on nuclear escalation. Expert consensus: WW3 is more likely to begin with conventional, cyber, or regional engagements. The greatest danger is <em>accidental escalation</em> — a miscalculation or rogue-commander scenario — not a deliberate first strike. Iran's nuclear enrichment was "obliterated" in 2025 US–Israel strikes (DNI Gabbard, March 2026). New Supreme Leader Khamenei's nuclear doctrine remains unknown. RAND, Chatham House, and Brookings place global conflict risk by end of decade at 20–30%.</div>
+    </div>
+    <div class="nbox">
+      <div class="nbox-t">LATEST NUCLEAR & WEAPONS NEWS</div>
+      <div id="news-nuclear"><div class="nloading">Loading...</div></div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div class="footer">
+    <div class="footer-l">
+      NEWS DATA: NEWSAPI.ORG · UPDATED EVERY 6H VIA GITHUB ACTIONS<br>
+      STATIC FACTS: CFR, RAND, STIMSON CENTER, REUTERS, AL JAZEERA
+    </div>
+    <div class="footer-r" id="f-updated"></div>
+  </div>
+
+</div><!-- /page -->
+
+<script>
+// ── CONSTANTS ──
+const WAR_START = new Date('2026-02-28T00:00:00Z');
+
+const CAT_BADGE = {
+  iran:    'bhot',
+  ukraine: 'bhot',
+  lebanon: 'bwarm',
+  taiwan:  'btns',
+  korea:   'btns',
+  nuclear: 'bwarm'
+};
+
+// ── CLOCK ──
+function tick() {
+  const t = new Date();
+  document.getElementById('clock').textContent =
+    t.toLocaleTimeString('en-IN', {hour12:false, timeZone:'Asia/Kolkata'}) + ' IST';
+}
+setInterval(tick, 1000); tick();
+
+// ── IRAN DAY COUNTER ──
+function iranDay() {
+  return Math.max(0, Math.floor((Date.now() - WAR_START) / 86400000));
+}
+document.getElementById('iran-day').textContent   = iranDay();
+document.getElementById('m-iranday').textContent  = iranDay();
+
+// ── LOAD DATA.JSON ──
+async function load() {
+  let data;
+  try {
+    const res = await fetch('data.json?t=' + Date.now());
+    data = await res.json();
+  } catch(e) {
+    document.getElementById('r-note').textContent = 'Could not load data.json. Check GitHub Actions ran successfully.';
+    return;
+  }
+
+  const articles = data.articles || [];
+
+  // Update timestamp
+  if (data.updated) {
+    const d = new Date(data.updated);
+    const ts = d.toLocaleString('en-IN', {timeZone:'Asia/Kolkata'});
+    document.getElementById('lastup').textContent  = 'LAST UPDATED: ' + ts + ' IST';
+    document.getElementById('f-updated').textContent = 'DATA FETCHED: ' + ts;
+  }
+
+  // Metrics
+  document.getElementById('m-count').textContent = articles.length;
+  const recent = articles.filter(a => new Date(a.publishedAt) > new Date(Date.now() - 6*3600*1000));
+  document.getElementById('m-delta').textContent = recent.length + ' in last 6h';
+
+  // Risk score
+  const base = 68;
+  const boost = Math.min(12, Math.floor(articles.length / 4));
+  const recBoost = Math.min(5, recent.length);
+  const score = Math.min(96, base + boost + recBoost);
+  document.getElementById('m-risk').textContent  = score + '/100';
+  document.getElementById('r-score').textContent = score + ' / 100';
+  document.getElementById('r-bar').style.width   = score + '%';
+
+  let note = '';
+  if      (score >= 85) note = 'CRITICAL: Multiple simultaneous active conflicts with nuclear-armed state involvement.';
+  else if (score >= 70) note = 'ELEVATED: Active US–Iran war (Day ' + iranDay() + '), Russia–Ukraine Year 4, Hezbollah front active. Post-Cold War record risk.';
+  else                  note = 'MONITORED: Active conflicts ongoing. Global escalation risk is elevated but currently contained.';
+  document.getElementById('r-note').textContent = note;
+
+  // Render conflict news
+  ['iran','ukraine','lebanon','taiwan','korea'].forEach(cat => {
+    const items = articles.filter(a => a._cat === cat);
+    document.getElementById('cnt-' + cat).textContent = items.length + ' articles';
+    renderNews('news-' + cat, items, 6);
+  });
+
+  // Render nuclear news
+  const nucItems = articles.filter(a => a._cat === 'nuclear');
+  renderNews('news-nuclear', nucItems, 8);
+
+  // Render global feed
+  renderFeed(articles.slice(0, 40));
+}
+
+function renderNews(elId, items, max) {
+  const el = document.getElementById(elId);
+  if (!el) return;
+  if (!items.length) {
+    el.innerHTML = '<div class="nloading">No recent articles found for this topic.</div>';
+    return;
+  }
+  el.innerHTML = items.slice(0, max).map(a => `
+    <div class="nitem">
+      <div class="nhead"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></div>
+      <div class="nmeta"><span>${esc(a.source)}</span><span>${ago(a.publishedAt)}</span></div>
+    </div>
+  `).join('');
+}
+
+function renderFeed(items) {
+  const el = document.getElementById('global-feed');
+  if (!items.length) {
+    el.innerHTML = '<div class="fitem"><div class="nloading" style="width:100%">No articles loaded yet — check GitHub Actions.</div></div>';
+    return;
+  }
+  el.innerHTML = items.map(a => `
+    <div class="fitem">
+      <span class="badge ${CAT_BADGE[a._cat] || 'bmon'}">${esc(a._label || a._cat)}</span>
+      <div class="fcontent">
+        <div class="fhead"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></div>
+        <div class="fmeta"><span>${esc(a.source)}</span><span>${ago(a.publishedAt)}</span></div>
+      </div>
+    </div>
+  `).join('');
+}
+
+// ── HELPERS ──
+function esc(s) {
+  if (!s) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function ago(iso) {
+  if (!iso) return '—';
+  const ms = Date.now() - new Date(iso);
+  if (ms < 3600000)  return Math.floor(ms/60000) + 'm ago';
+  if (ms < 86400000) return Math.floor(ms/3600000) + 'h ago';
+  return Math.floor(ms/86400000) + 'd ago';
+}
+function showTab(btn, name) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('on'));
+  document.querySelectorAll('.panel').forEach(p => p.classList.remove('on'));
+  btn.classList.add('on');
+  document.getElementById('p-' + name).classList.add('on');
+}
+function toggle(id) {
+  document.getElementById(id).classList.toggle('open');
+}
+
+// ── BOOT ──
+load();
+</script>
+</body>
+</html>

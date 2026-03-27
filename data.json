@@ -1,54 +1,150 @@
 {
-  "updated": "2026-03-27T15:10:25Z",
-  "count": 33,
+  "updated": "2026-03-27T19:53:35Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Israel Has Nuclear Weapons?",
+      "url": "https://www.antiwar.com/blog/2026/03/26/israel-has-nuclear-weapons/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-03-26T19:28:40Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "‘Appalling’ Video Shows Protesters Cheer American Troops Returning Home From Iran War ‘In Caskets’",
+      "url": "https://dailycaller.com/2026/03/26/appalling-video-shows-protesters-cheer-american-troops-returning-home-from-iran-war-in-caskets/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-03-26T18:27:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelensky Unnecessarily Involves Ukraine in the Middle East Crisis",
+      "url": "https://www.globalresearch.ca/zelensky-unnecessarily-involves-ukraine-middle-east-crisis/5920159",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-03-26T18:26:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran and the U.S. harden their positions as Tehran tightens its grip on the Strait of Hormuz",
+      "url": "https://www.pbs.org/newshour/world/iran-and-the-u-s-harden-their-positions-as-tehran-tightens-its-grip-on-the-strait-of-hormuz",
+      "source": "PBS",
+      "publishedAt": "2026-03-26T18:00:04Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The US-Israeli War on Iran Is Incentivizing Nuclear Proliferation",
+      "url": "https://truthout.org/articles/the-us-israeli-war-on-iran-is-incentivizing-nuclear-proliferation/",
+      "source": "Truthout",
+      "publishedAt": "2026-03-26T17:53:25Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran pummels Israel with cluster bombs — wounding 9 and sending car flying",
+      "url": "https://nypost.com/2026/03/26/world-news/iran-pummels-israel-with-cluster-bombs-sending-car-flying-and-leaving-9-injured/",
+      "source": "New York Post",
+      "publishedAt": "2026-03-26T17:52:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What happens if the US launches an invasion of Iran’s Kharg Island?",
+      "url": "https://www.thejournal.ie/what-happens-if-the-us-launches-a-ground-invasion-of-irans-kharg-island-6995572-Mar2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-03-26T17:44:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Watch: Raids, eliminations, and strikes on terror targets in Lebanon",
+      "url": "https://www.israelnationalnews.com/news/424643",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-03-26T17:38:47Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Thank you, Iran!",
+      "url": "https://www.globalresearch.ca/thank-you-iran/5920268",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-03-26T17:38:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "“Ludicrous nonsense”: Col Douglas Macgregor on Pakistan bid; says India better placed to mediate West Asia conflict",
+      "url": "https://economictimes.indiatimes.com/news/defence/ludicrous-nonsense-col-douglas-macgregor-on-pakistan-bid-says-india-better-placed-to-mediate-west-asia-conflict/articleshow/129830035.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-26T16:59:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO’s Terrible Position",
+      "url": "https://www.theatlantic.com/national-security/2026/03/nato-iran-war-trump-russia/686546/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-03-26T16:08:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Defiant as U.S. Pushes Deal to End Expanding Conflict",
+      "url": "https://oilprice.com/Energy/Energy-General/Iran-Defiant-as-US-Pushes-Deal-to-End-Expanding-Conflict.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-03-26T16:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How the US Became the Most Dangerous Country in the World",
+      "url": "https://tomdispatch.com/the-most-dangerous-country/",
+      "source": "Tomdispatch.com",
+      "publishedAt": "2026-03-26T15:47:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "European NATO defense spending rose by almost 20% in 2025",
+      "url": "https://www.dw.com/en/european-nato-defense-spending-rose-by-almost-20-in-2025/a-76544678",
+      "source": "DW (English)",
+      "publishedAt": "2026-03-26T15:43:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanese fear another occupation as Israel threatens to use Gaza tactics in the south - AP News",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181107772",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-03-26T15:12:52Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "The U.S. and Israel’s diverging interests will prolong the war, but Iran will determine its outcome",
       "url": "https://mondoweiss.net/2026/03/the-u-s-and-israels-diverging-interests-will-prolong-the-war-but-iran-will-determine-its-outcome/",
       "source": "Mondoweiss",
       "publishedAt": "2026-03-26T14:55:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Is the Iran-US conflict taking a new turn? Here’s what has happened so far",
-      "url": "https://economictimes.indiatimes.com/news/defence/is-the-iran-us-conflict-taking-a-new-turn-heres-what-has-happened-so-far/articleshow/129827457.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-26T14:52:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel Claims Iranian Navy Commander Blocking Strait of Hormuz Killed",
-      "url": "https://www.breitbart.com/middle-east/2026/03/26/israel-claims-iranian-navy-commander-blocking-strait-hormuz-killed/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-03-26T14:44:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war's environmental toll could leave damage and health risks for decades, experts say",
-      "url": "https://www.thestar.com/news/world/iran-wars-environmental-toll-could-leave-damage-and-health-risks-for-decades-experts-say/article_583d87b8-7384-5cbf-8f5a-c20d4af28315.html",
-      "source": "Toronto Star",
-      "publishedAt": "2026-03-26T14:43:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump warns Iran to ‘get serious’ on war talks",
       "url": "https://punchng.com/trump-warns-iran-to-get-serious-on-war-talks/",
       "source": "The Punch",
       "publishedAt": "2026-03-26T14:38:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Ukraine: US tied guarantees to Donbas withdrawal — Zelenskyy",
       "url": "https://www.dw.com/en/ukraine-us-tied-guarantees-to-donbas-withdrawal-zelenskyy/a-76544649",
       "source": "DW (English)",
       "publishedAt": "2026-03-26T14:36:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Netanyahu declares Israeli military efforts to dismantle Hezbollah in ‘full swing’",
@@ -59,52 +155,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Pentagon Mulling Diverting Weapons From Ukraine to Mideast Amid Depleting Stocks - Reports",
-      "url": "https://sputnikglobe.com/20260326/pentagon-mulling-diverting-weapons-from-ukraine-to-mideast-amid-depleting-stocks---reports-1123900946.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-03-26T14:21:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Most dangerous countries for American tourists revealed in State Department map",
-      "url": "https://nypost.com/2026/03/26/lifestyle/most-dangerous-countries-for-american-tourists-revealed/",
-      "source": "New York Post",
-      "publishedAt": "2026-03-26T14:05:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "US weighing diversion of Ukraine-bound arms for Iran war – WaPo",
       "url": "https://www.rt.com/news/636291-purl-supplies-iran-war/",
       "source": "RT",
       "publishedAt": "2026-03-26T13:59:09Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel kills senior Iranian naval officials, Trump continues threats to Tehran to negotiate",
-      "url": "https://www.cbc.ca/news/world/trump-iran-truce-deal-9.7142669",
-      "source": "CBC News",
-      "publishedAt": "2026-03-26T13:58:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘My phone is a brick’: Russians scramble for information as data blocked",
-      "url": "https://www.aljazeera.com/features/2026/3/26/my-phone-is-a-brick-russians-scramble-for-information-as-data-blocked",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-26T13:07:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Watch: IDF troops eliminate 30 terrorists in southern Lebanon clashs",
-      "url": "https://www.israelnationalnews.com/news/424628",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-03-26T13:06:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "North Korea’s Kim meets Lukashenko, slams ‘pressure ​on Belarus from West’",
@@ -115,68 +171,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Trump administration doing all it can to get Hungary's Orban re-elected",
-      "url": "https://www.cbc.ca/news/world/us-hungary-election-april-13-9.7141189",
-      "source": "CBC News",
-      "publishedAt": "2026-03-26T12:01:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran And U.S. Harden Their Positions As Tehran Tightens Its Grip On The Strait Of Hormuz",
-      "url": "https://www.huffpost.com/entry/iran-us-harden-positions-war_n_69c51c01e4b0e447525c5cb1",
-      "source": "HuffPost",
-      "publishedAt": "2026-03-26T11:53:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Thursday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/03/26/thursday-hili-dialogue-581/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-03-26T11:45:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran and the US harden their positions as Tehran tightens its grip on the Strait of Hormuz",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-and-the-us-harden-their-positions-as-tehran-tightens-its-grip-on-the-strait-of-hormuz/articleshow/129823461.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-26T11:38:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Are we witnessing a 'Persian Spring'? Will the media notice?",
       "url": "https://www.israelnationalnews.com/news/424618",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-03-26T11:35:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "NATO says Europe, Canada spent 20% more on defence in 2025",
-      "url": "https://financialpost.com/news/economy/nato-europe-canada-spent-more-defence-2025",
-      "source": "Financial Post",
-      "publishedAt": "2026-03-26T11:24:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UN peacekeepers in Lebanon fired upon 20 times amid Israel-Hezbollah fight: Official",
-      "url": "https://abcnews.com/International/peacekeepers-lebanon-fired-20-times-amid-israel-hezbollah/story?id=131387034",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-03-26T10:53:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Friendly Fire: British Army to Punish Soldiers Writing Satirical Songs as Morale Plunges",
-      "url": "https://www.breitbart.com/europe/2026/03/26/friendly-fire-british-army-to-punish-soldiers-writing-satirical-songs-as-morale-plunges/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-03-26T10:40:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea, Belarus leaders meet in Pyongyang, sign friendship treaty",
@@ -231,14 +231,6 @@
       "url": "https://www.aljazeera.com/news/2026/3/25/belaruss-lukashenko-makes-first-visit-to-north-korea-in-bid-to-deepen-ties",
       "source": "Al Jazeera English",
       "publishedAt": "2026-03-25T09:23:36Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Belarus leader visits North Korea for first time",
-      "url": "https://www.hurriyetdailynews.com/belarus-leader-visits-north-korea-for-first-time-220306",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-03-25T07:04:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
     },

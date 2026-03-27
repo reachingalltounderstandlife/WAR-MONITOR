@@ -1,7 +1,183 @@
 {
-  "updated": "2026-03-27T08:09:43Z",
-  "count": 42,
+  "updated": "2026-03-27T15:10:25Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "The U.S. and Israel’s diverging interests will prolong the war, but Iran will determine its outcome",
+      "url": "https://mondoweiss.net/2026/03/the-u-s-and-israels-diverging-interests-will-prolong-the-war-but-iran-will-determine-its-outcome/",
+      "source": "Mondoweiss",
+      "publishedAt": "2026-03-26T14:55:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Is the Iran-US conflict taking a new turn? Here’s what has happened so far",
+      "url": "https://economictimes.indiatimes.com/news/defence/is-the-iran-us-conflict-taking-a-new-turn-heres-what-has-happened-so-far/articleshow/129827457.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-26T14:52:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel Claims Iranian Navy Commander Blocking Strait of Hormuz Killed",
+      "url": "https://www.breitbart.com/middle-east/2026/03/26/israel-claims-iranian-navy-commander-blocking-strait-hormuz-killed/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-03-26T14:44:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war's environmental toll could leave damage and health risks for decades, experts say",
+      "url": "https://www.thestar.com/news/world/iran-wars-environmental-toll-could-leave-damage-and-health-risks-for-decades-experts-say/article_583d87b8-7384-5cbf-8f5a-c20d4af28315.html",
+      "source": "Toronto Star",
+      "publishedAt": "2026-03-26T14:43:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump warns Iran to ‘get serious’ on war talks",
+      "url": "https://punchng.com/trump-warns-iran-to-get-serious-on-war-talks/",
+      "source": "The Punch",
+      "publishedAt": "2026-03-26T14:38:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine: US tied guarantees to Donbas withdrawal — Zelenskyy",
+      "url": "https://www.dw.com/en/ukraine-us-tied-guarantees-to-donbas-withdrawal-zelenskyy/a-76544649",
+      "source": "DW (English)",
+      "publishedAt": "2026-03-26T14:36:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu declares Israeli military efforts to dismantle Hezbollah in ‘full swing’",
+      "url": "https://nypost.com/2026/03/26/world-news/israeli-pm-netanyahu-says-country-is-focusing-on-dismantling-hezbollah/",
+      "source": "New York Post",
+      "publishedAt": "2026-03-26T14:22:45Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Pentagon Mulling Diverting Weapons From Ukraine to Mideast Amid Depleting Stocks - Reports",
+      "url": "https://sputnikglobe.com/20260326/pentagon-mulling-diverting-weapons-from-ukraine-to-mideast-amid-depleting-stocks---reports-1123900946.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-03-26T14:21:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Most dangerous countries for American tourists revealed in State Department map",
+      "url": "https://nypost.com/2026/03/26/lifestyle/most-dangerous-countries-for-american-tourists-revealed/",
+      "source": "New York Post",
+      "publishedAt": "2026-03-26T14:05:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US weighing diversion of Ukraine-bound arms for Iran war – WaPo",
+      "url": "https://www.rt.com/news/636291-purl-supplies-iran-war/",
+      "source": "RT",
+      "publishedAt": "2026-03-26T13:59:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel kills senior Iranian naval officials, Trump continues threats to Tehran to negotiate",
+      "url": "https://www.cbc.ca/news/world/trump-iran-truce-deal-9.7142669",
+      "source": "CBC News",
+      "publishedAt": "2026-03-26T13:58:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘My phone is a brick’: Russians scramble for information as data blocked",
+      "url": "https://www.aljazeera.com/features/2026/3/26/my-phone-is-a-brick-russians-scramble-for-information-as-data-blocked",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-26T13:07:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Watch: IDF troops eliminate 30 terrorists in southern Lebanon clashs",
+      "url": "https://www.israelnationalnews.com/news/424628",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-03-26T13:06:54Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "North Korea’s Kim meets Lukashenko, slams ‘pressure ​on Belarus from West’",
+      "url": "https://www.aljazeera.com/news/2026/3/26/north-koreas-kim-meets-lukashenko-slams-pressure-on-belarus-from-west",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-26T12:12:55Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump administration doing all it can to get Hungary's Orban re-elected",
+      "url": "https://www.cbc.ca/news/world/us-hungary-election-april-13-9.7141189",
+      "source": "CBC News",
+      "publishedAt": "2026-03-26T12:01:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran And U.S. Harden Their Positions As Tehran Tightens Its Grip On The Strait Of Hormuz",
+      "url": "https://www.huffpost.com/entry/iran-us-harden-positions-war_n_69c51c01e4b0e447525c5cb1",
+      "source": "HuffPost",
+      "publishedAt": "2026-03-26T11:53:39Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Thursday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/03/26/thursday-hili-dialogue-581/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-03-26T11:45:38Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran and the US harden their positions as Tehran tightens its grip on the Strait of Hormuz",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-and-the-us-harden-their-positions-as-tehran-tightens-its-grip-on-the-strait-of-hormuz/articleshow/129823461.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-26T11:38:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Are we witnessing a 'Persian Spring'? Will the media notice?",
+      "url": "https://www.israelnationalnews.com/news/424618",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-03-26T11:35:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "NATO says Europe, Canada spent 20% more on defence in 2025",
+      "url": "https://financialpost.com/news/economy/nato-europe-canada-spent-more-defence-2025",
+      "source": "Financial Post",
+      "publishedAt": "2026-03-26T11:24:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UN peacekeepers in Lebanon fired upon 20 times amid Israel-Hezbollah fight: Official",
+      "url": "https://abcnews.com/International/peacekeepers-lebanon-fired-20-times-amid-israel-hezbollah/story?id=131387034",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-03-26T10:53:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Friendly Fire: British Army to Punish Soldiers Writing Satirical Songs as Morale Plunges",
+      "url": "https://www.breitbart.com/europe/2026/03/26/friendly-fire-british-army-to-punish-soldiers-writing-satirical-songs-as-morale-plunges/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-03-26T10:40:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "North Korea, Belarus leaders meet in Pyongyang, sign friendship treaty",
       "url": "https://abcnews.com/International/wireStory/north-korea-belarus-leaders-meet-pyongyang-sign-friendship-131423611",
@@ -9,126 +185,6 @@
       "publishedAt": "2026-03-26T08:07:10Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Electronic warfare in the Persian Gulf: How GPS interference is disrupting the Middle East",
-      "url": "https://www.cnbc.com/2026/03/26/how-gps-interference-is-disrupting-the-middle-east.html",
-      "source": "CNBC",
-      "publishedAt": "2026-03-26T08:01:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran, US harden their positions as Tehran keeps its grip on Strait of Hormuz",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-us-harden-their-positions-as-tehran-keeps-its-grip-on-strait-of-hormuz/article70787208.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-03-26T07:59:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Two teenagers killed in Shiraz, two dead in Abu Dhabi as Iran war expands",
-      "url": "https://www.aljazeera.com/news/2026/3/26/us-israel-launch-extensive-strikes-on-central-iran-two-teenagers-killed",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-26T07:47:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran rejects US proposal, lays out five conditions for ending imposed war: Source to Press TV",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-presstv11.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-26T07:42:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "White House Says Trump Ready To 'Unleash Hell'",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-26T07:42:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran says US officials misleading public, manipulating media to justify 'illegal war'",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-presstv08.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-26T07:42:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Gulf war 'out of control', Guterres warns, as UN appoints envoy to push for peace",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260325-unnews01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-26T07:42:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Not Holding Talks With US - Foreign Ministry",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-sputnik07.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-26T07:42:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia Hopes US Ground Operation on Kharg Island Will Not Take Place - MFA Spokeswoman",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-sputnik03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-26T07:42:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran's Bushehr Nuclear Power Plant comes under attack again",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-presstv15.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-26T07:42:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran says no talks with US, vows to continue defending itself",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-presstv16.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-26T07:42:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran considers any threat or ultimatum as 'act of war': IRGC Aerospace chief",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-presstv07.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-26T07:42:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "10 Ukrainians Humbled Two NATO Battalions. When Will NATO Wake Up?",
-      "url": "https://warontherocks.com/2026/03/10-ukrainians-humbled-two-nato-battalions-when-will-nato-wake-up/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-03-26T07:30:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Rules of war ‘increasingly abandoned’ in Middle East conflict: Doctors Without Borders president",
-      "url": "https://www.channelnewsasia.com/world/rules-war-abandoned-middle-east-conflict-doctors-without-borders-msf-6018076",
-      "source": "CNA",
-      "publishedAt": "2026-03-26T07:10:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel strikes Iran as Trump says Tehran wants deal to end war",
-      "url": "https://punchng.com/israel-strikes-iran-as-trump-says-tehran-wants-deal-to-end-war/",
-      "source": "The Punch",
-      "publishedAt": "2026-03-26T07:00:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Iran, Trump and Strait of Hormuz – Who Is the “Bad Guy”?",
@@ -139,76 +195,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "US-Israel war on Iran: What’s happening on day 27 of attacks?",
-      "url": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-26T06:53:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "In southern Lebanon, conflict with Israel has become an 'existential war'",
-      "url": "https://www.abc.net.au/news/2026-03-26/israel-lebanon-war-in-middle-east-displaced-flee-to-sidon/106479570",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-03-26T06:52:42Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump: Iran really wants a deal but is afraid to say so — Injuries after barrage of missile attacks on Israel (Update)",
-      "url": "https://en.protothema.gr/2026/03/26/iran-sets-strict-conditions-for-returning-to-talks-you-are-negotiating-with-yourself-tehran-tells-trump/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-03-26T06:48:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Boots on the Ground as Israel Sabotages Trump’s 15-Point Peace Plan",
-      "url": "https://www.globalresearch.ca/boots-ground-israel-sabotages-trump-15-point-peace-plan/5920144",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-03-26T06:46:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "'Business As Usual' As Attacks Go On Amid Uncertainty Over Iran Peace Plans",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260326-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-26T06:02:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Mapped: Military activity in the Irish AOR in southern Lebanon",
-      "url": "https://www.rte.ie/news/primetime/2026/0326/1565251-irish-aor-lebanon/",
-      "source": "RTE",
-      "publishedAt": "2026-03-26T06:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel announces occupation of southern Lebanon up to Litani River, bars displaced civilians from returning",
-      "url": "https://www.naturalnews.com/2026-03-26-israel-announces-occupation-of-southern-lebanon-litani-river.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-03-26T06:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Japan, South Korea and Taiwan Expand Missile Capabilities Amid Regional Tensions",
       "url": "https://www.naturalnews.com/2026-03-26-japan-south-korea-taiwan-expand-missile-capabilities.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-03-26T06:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "The United States Has Become a Rogue State",
-      "url": "http://foreignpolicy.com/2026/03/26/united-states-trump-rogue-state-iran/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-03-26T05:55:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "The Latest Big Lie About the ‘Iran War’",
@@ -219,68 +211,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Ukraine's unique role in the Iran war: From the Politics Desk",
-      "url": "https://www.nbcnews.com/politics/politics-news/ukraines-unique-role-iran-war-politics-desk-rcna265207",
-      "source": "NBC News",
-      "publishedAt": "2026-03-25T22:11:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How the US Army turned this former Nazi-base into a rapid-response war machine",
-      "url": "https://www.businessinsider.com/how-us-army-turned-german-base-rapid-response-war-machine-2026-3",
-      "source": "Business Insider",
-      "publishedAt": "2026-03-25T19:36:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How and why NZ could be drawn into the Iran war – and the high stakes involved",
-      "url": "https://www.nzherald.co.nz/world/how-and-why-nz-could-be-drawn-into-the-iran-war-and-the-high-stakes-involved/7T3RSAP4QRGCDKJXT73IW2NQDE/",
-      "source": "New Zealand Herald",
-      "publishedAt": "2026-03-25T16:57:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump turns on Starmer over Iran war: ‘What if Donald shouts at me?’",
-      "url": "https://www.irishtimes.comhttps://www.nytimes.com/2026/03/24/world/europe/trump-sours-on-british-leader-over-iran-war-what-if-donald-shouts-at-me.html",
-      "source": "Irishtimes.comhttps",
-      "publishedAt": "2026-03-25T16:55:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "No, China Doesn’t Want Spheres of Influence",
-      "url": "http://foreignpolicy.com/2026/03/25/china-us-russia-sphere-influence-geopolitics-competition/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-03-25T15:38:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Imperial Decline in the Straits of Hormuz: The Iran War as America’s Very Own Suez Crisis",
-      "url": "https://www.fairobserver.com/world-news/middle-east-news/imperial-decline-in-the-straits-of-hormuz-the-iran-war-as-americas-very-own-suez-crisis/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-03-25T14:25:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea holds lavish welcome for Belarus president",
       "url": "https://www.dw.com/en/north-korea-holds-lavish-welcome-for-belarus-president/a-76526613",
       "source": "DW (English)",
       "publishedAt": "2026-03-25T14:09:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Russia Hopes US Ground Operation on Kharg Island Will Not Take Place – MFA Spokeswoman",
-      "url": "https://sputnikglobe.com/20260325/russia-hopes-us-ground-operation-on-kharg-island-will-not-take-place--mfa-spokeswoman-1123893459.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-03-25T13:58:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Belarusian President Lukashenko arrives in North Korea for talks with Kim Jong Un",
@@ -321,14 +257,6 @@
       "publishedAt": "2026-03-25T04:27:14Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Iran's 'nuclear' option",
-      "url": "https://economictimes.indiatimes.com/news/defence/irans-nuclear-option/articleshow/129789293.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-25T00:55:28Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "2026 Worldwide Threats Hearing",

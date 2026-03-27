@@ -1,134 +1,214 @@
 {
-  "updated": "2026-03-27T05:52:29Z",
-  "count": 35,
+  "updated": "2026-03-27T08:09:43Z",
+  "count": 42,
   "articles": [
     {
-      "title": "Australian LNG Exports Hit Hardest by Iran War as Global Energy Chaos Boosts Prices but Disrupts Supply Chains",
-      "url": "https://www.ibtimes.com.au/australian-lng-exports-hit-hardest-iran-war-global-energy-chaos-boosts-prices-disrupts-supply-1864492",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-03-26T05:51:06Z",
+      "title": "North Korea, Belarus leaders meet in Pyongyang, sign friendship treaty",
+      "url": "https://abcnews.com/International/wireStory/north-korea-belarus-leaders-meet-pyongyang-sign-friendship-131423611",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-03-26T08:07:10Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Electronic warfare in the Persian Gulf: How GPS interference is disrupting the Middle East",
+      "url": "https://www.cnbc.com/2026/03/26/how-gps-interference-is-disrupting-the-middle-east.html",
+      "source": "CNBC",
+      "publishedAt": "2026-03-26T08:01:12Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "More Parleying Nonsense: Trump, Iran and Promised Negotiations",
-      "url": "https://www.counterpunch.org/2026/03/26/more-parleying-nonsense-trump-iran-and-promised-negotiations/",
-      "source": "CounterPunch",
-      "publishedAt": "2026-03-26T05:50:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "war-dashboard-data added to PyPI",
-      "url": "https://pypi.org/project/war-dashboard-data/",
-      "source": "Pypi.org",
-      "publishedAt": "2026-03-26T05:47:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran is insisting Lebanon be included in any peace deal with US and Israel",
-      "url": "https://www.independent.ie/world-news/middle-east/iran-is-insisting-lebanon-be-included-in-any-peace-deal-with-us-and-israel/a134508007.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-03-26T05:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Doubts about Israel’s shield as missiles from Iran pierce defences",
-      "url": "https://www.independent.ie/world-news/middle-east/doubts-about-israels-shield-as-missiles-from-iran-pierce-defences/a1969965189.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-03-26T05:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes",
-      "url": "https://www.aljazeera.com/economy/2026/3/26/oil-prices-rise-higher-as-iran-denies-us-talks-dimming-deescalation-hopes",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-26T05:06:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran warns US-Israel forces of “severe consequences” over possible ground operation",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-warns-us-israel-forces-of-severe-consequences-over-possible-ground-operation/article70786673.ece",
+      "title": "Iran, US harden their positions as Tehran keeps its grip on Strait of Hormuz",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-us-harden-their-positions-as-tehran-keeps-its-grip-on-strait-of-hormuz/article70787208.ece",
       "source": "BusinessLine",
-      "publishedAt": "2026-03-26T04:58:31Z",
+      "publishedAt": "2026-03-26T07:59:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "'Iran always lies': Netanyahu’s adviser skeptical of Tehran’s intentions",
-      "url": "https://www.israelnationalnews.com/news/424593",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-03-26T04:24:23Z",
+      "title": "Two teenagers killed in Shiraz, two dead in Abu Dhabi as Iran war expands",
+      "url": "https://www.aljazeera.com/news/2026/3/26/us-israel-launch-extensive-strikes-on-central-iran-two-teenagers-killed",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-26T07:47:23Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Israeli Officials Vow Stepped-Up Atrocities in Lebanon",
-      "url": "https://www.juancole.com/2026/03/israeli-officials-atrocities.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-03-26T04:06:46Z",
+      "title": "Iran rejects US proposal, lays out five conditions for ending imposed war: Source to Press TV",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-presstv11.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-26T07:42:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "White House Says Trump Ready To 'Unleash Hell'",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-26T07:42:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran says US officials misleading public, manipulating media to justify 'illegal war'",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-presstv08.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-26T07:42:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Gulf war 'out of control', Guterres warns, as UN appoints envoy to push for peace",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260325-unnews01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-26T07:42:41Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Middle East Conflict: Rhetoric, Actions Flout Laws of War",
-      "url": "https://www.hrw.org/news/2026/03/26/middle-east-conflict-rhetoric-actions-flout-laws-of-war",
-      "source": "Human Rights Watch",
-      "publishedAt": "2026-03-26T04:00:00Z",
+      "title": "Iran Not Holding Talks With US - Foreign Ministry",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-sputnik07.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-26T07:42:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia Hopes US Ground Operation on Kharg Island Will Not Take Place - MFA Spokeswoman",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-sputnik03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-26T07:42:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran's Bushehr Nuclear Power Plant comes under attack again",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-presstv15.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-26T07:42:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran says no talks with US, vows to continue defending itself",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-presstv16.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-26T07:42:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran considers any threat or ultimatum as 'act of war': IRGC Aerospace chief",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260325-presstv07.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-26T07:42:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "10 Ukrainians Humbled Two NATO Battalions. When Will NATO Wake Up?",
+      "url": "https://warontherocks.com/2026/03/10-ukrainians-humbled-two-nato-battalions-when-will-nato-wake-up/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-03-26T07:30:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Rules of war ‘increasingly abandoned’ in Middle East conflict: Doctors Without Borders president",
+      "url": "https://www.channelnewsasia.com/world/rules-war-abandoned-middle-east-conflict-doctors-without-borders-msf-6018076",
+      "source": "CNA",
+      "publishedAt": "2026-03-26T07:10:31Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "US-Iran War Enters Day 27 as Tehran Rejects Talks, Trump Pushes 15-Point Plan",
-      "url": "https://www.ibtimes.com.au/us-iran-war-enters-day-27-tehran-rejects-talks-trump-pushes-15-point-plan-1864472",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-03-26T03:51:48Z",
+      "title": "Israel strikes Iran as Trump says Tehran wants deal to end war",
+      "url": "https://punchng.com/israel-strikes-iran-as-trump-says-tehran-wants-deal-to-end-war/",
+      "source": "The Punch",
+      "publishedAt": "2026-03-26T07:00:35Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Wall Street Journal: Trump tells aides to wrap up Iran conflict in coming weeks",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-03-26/ty-article-live/wall-street-journal-trump-tells-aides-to-wrap-up-iran-conflict-in-coming-weeks/0000019d-281c-d77a-a7ff-fffcacd50000",
-      "source": "Haaretz",
-      "publishedAt": "2026-03-26T03:20:31Z",
+      "title": "Iran, Trump and Strait of Hormuz – Who Is the “Bad Guy”?",
+      "url": "https://www.globalresearch.ca/iran-trump-strait-hormuz/5920136",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-03-26T06:56:47Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "US-Israel war on Iran: What’s happening on day 27 of attacks?",
+      "url": "https://www.aljazeera.com/news/2026/3/26/us-israel-war-on-iran-whats-happening-on-day-27-of-attacks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-26T06:53:23Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "US-Israel-Iran War News Live Updates: Trump says Iran 'afraid' to admit it wants a deal, claims 'they'll be killed by their own people or us'",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-crude-oil/liveblog/129814585.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-26T02:30:05Z",
+      "title": "In southern Lebanon, conflict with Israel has become an 'existential war'",
+      "url": "https://www.abc.net.au/news/2026-03-26/israel-lebanon-war-in-middle-east-displaced-flee-to-sidon/106479570",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-03-26T06:52:42Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Hezbollah rejects truce talks as Israel presses Lebanon strikes",
-      "url": "https://www.hurriyetdailynews.com/negotiating-with-israel-would-be-surrender-hezbollah-chief-220334",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-03-26T02:13:00Z",
+      "title": "Trump: Iran really wants a deal but is afraid to say so — Injuries after barrage of missile attacks on Israel (Update)",
+      "url": "https://en.protothema.gr/2026/03/26/iran-sets-strict-conditions-for-returning-to-talks-you-are-negotiating-with-yourself-tehran-tells-trump/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-03-26T06:48:41Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Iran says 'no negotiations' as US warns to accept 15-point deal",
-      "url": "https://www.hurriyetdailynews.com/iran-says-no-negotiations-as-us-warns-to-accept-15-point-deal-220333",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-03-26T02:10:00Z",
+      "title": "Boots on the Ground as Israel Sabotages Trump’s 15-Point Peace Plan",
+      "url": "https://www.globalresearch.ca/boots-ground-israel-sabotages-trump-15-point-peace-plan/5920144",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-03-26T06:46:32Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Iran wants Lebanon included in any ceasefire, sources say",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-wants-lebanon-included-in-any-ceasefire-sources-say/articleshow/129813996.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-26T00:33:52Z",
+      "title": "'Business As Usual' As Attacks Go On Amid Uncertainty Over Iran Peace Plans",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260326-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-26T06:02:20Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "Mapped: Military activity in the Irish AOR in southern Lebanon",
+      "url": "https://www.rte.ie/news/primetime/2026/0326/1565251-irish-aor-lebanon/",
+      "source": "RTE",
+      "publishedAt": "2026-03-26T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel announces occupation of southern Lebanon up to Litani River, bars displaced civilians from returning",
+      "url": "https://www.naturalnews.com/2026-03-26-israel-announces-occupation-of-southern-lebanon-litani-river.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-26T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Japan, South Korea and Taiwan Expand Missile Capabilities Amid Regional Tensions",
+      "url": "https://www.naturalnews.com/2026-03-26-japan-south-korea-taiwan-expand-missile-capabilities.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-26T06:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "The United States Has Become a Rogue State",
+      "url": "http://foreignpolicy.com/2026/03/26/united-states-trump-rogue-state-iran/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-03-26T05:55:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "The Latest Big Lie About the ‘Iran War’",
@@ -199,30 +279,6 @@
       "url": "https://sputnikglobe.com/20260325/russia-hopes-us-ground-operation-on-kharg-island-will-not-take-place--mfa-spokeswoman-1123893459.html",
       "source": "Sputnikglobe.com",
       "publishedAt": "2026-03-25T13:58:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine hits major Russian port in 400-drone barrage",
-      "url": "https://www.hurriyetdailynews.com/ukraine-hits-major-russian-port-in-400-drone-barrage-220309",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-03-25T11:54:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Shock and awe is dead: What Russia understood – and Washington still doesn’t",
-      "url": "https://www.rt.com/news/636100-shock-and-awe-is-dead/",
-      "source": "RT",
-      "publishedAt": "2026-03-25T10:54:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Tsahkna at meeting with Italian Foreign Minister: we must act jointly to deter the shadow fleet",
-      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/03/russia-260324-estonia-mfa01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-25T10:44:27Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

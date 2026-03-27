@@ -1,7 +1,151 @@
 {
-  "updated": "2026-03-26T20:00:23Z",
-  "count": 46,
+  "updated": "2026-03-27T05:52:29Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "Australian LNG Exports Hit Hardest by Iran War as Global Energy Chaos Boosts Prices but Disrupts Supply Chains",
+      "url": "https://www.ibtimes.com.au/australian-lng-exports-hit-hardest-iran-war-global-energy-chaos-boosts-prices-disrupts-supply-1864492",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-03-26T05:51:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "More Parleying Nonsense: Trump, Iran and Promised Negotiations",
+      "url": "https://www.counterpunch.org/2026/03/26/more-parleying-nonsense-trump-iran-and-promised-negotiations/",
+      "source": "CounterPunch",
+      "publishedAt": "2026-03-26T05:50:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "war-dashboard-data added to PyPI",
+      "url": "https://pypi.org/project/war-dashboard-data/",
+      "source": "Pypi.org",
+      "publishedAt": "2026-03-26T05:47:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran is insisting Lebanon be included in any peace deal with US and Israel",
+      "url": "https://www.independent.ie/world-news/middle-east/iran-is-insisting-lebanon-be-included-in-any-peace-deal-with-us-and-israel/a134508007.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-03-26T05:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Doubts about Israel’s shield as missiles from Iran pierce defences",
+      "url": "https://www.independent.ie/world-news/middle-east/doubts-about-israels-shield-as-missiles-from-iran-pierce-defences/a1969965189.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-03-26T05:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil prices rise higher as Iran denies US talks, dimming deescalation hopes",
+      "url": "https://www.aljazeera.com/economy/2026/3/26/oil-prices-rise-higher-as-iran-denies-us-talks-dimming-deescalation-hopes",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-26T05:06:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran warns US-Israel forces of “severe consequences” over possible ground operation",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-warns-us-israel-forces-of-severe-consequences-over-possible-ground-operation/article70786673.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-26T04:58:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Iran always lies': Netanyahu’s adviser skeptical of Tehran’s intentions",
+      "url": "https://www.israelnationalnews.com/news/424593",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-03-26T04:24:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli Officials Vow Stepped-Up Atrocities in Lebanon",
+      "url": "https://www.juancole.com/2026/03/israeli-officials-atrocities.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-03-26T04:06:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Middle East Conflict: Rhetoric, Actions Flout Laws of War",
+      "url": "https://www.hrw.org/news/2026/03/26/middle-east-conflict-rhetoric-actions-flout-laws-of-war",
+      "source": "Human Rights Watch",
+      "publishedAt": "2026-03-26T04:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US-Iran War Enters Day 27 as Tehran Rejects Talks, Trump Pushes 15-Point Plan",
+      "url": "https://www.ibtimes.com.au/us-iran-war-enters-day-27-tehran-rejects-talks-trump-pushes-15-point-plan-1864472",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-03-26T03:51:48Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Wall Street Journal: Trump tells aides to wrap up Iran conflict in coming weeks",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-03-26/ty-article-live/wall-street-journal-trump-tells-aides-to-wrap-up-iran-conflict-in-coming-weeks/0000019d-281c-d77a-a7ff-fffcacd50000",
+      "source": "Haaretz",
+      "publishedAt": "2026-03-26T03:20:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US-Israel-Iran War News Live Updates: Trump says Iran 'afraid' to admit it wants a deal, claims 'they'll be killed by their own people or us'",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-crude-oil/liveblog/129814585.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-26T02:30:05Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hezbollah rejects truce talks as Israel presses Lebanon strikes",
+      "url": "https://www.hurriyetdailynews.com/negotiating-with-israel-would-be-surrender-hezbollah-chief-220334",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-03-26T02:13:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran says 'no negotiations' as US warns to accept 15-point deal",
+      "url": "https://www.hurriyetdailynews.com/iran-says-no-negotiations-as-us-warns-to-accept-15-point-deal-220333",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-03-26T02:10:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran wants Lebanon included in any ceasefire, sources say",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-wants-lebanon-included-in-any-ceasefire-sources-say/articleshow/129813996.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-26T00:33:52Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Latest Big Lie About the ‘Iran War’",
+      "url": "https://original.antiwar.com/david_stockman/2026/03/25/the-latest-big-lie-about-the-iran-war/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-03-26T00:01:56Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Ukraine's unique role in the Iran war: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/ukraines-unique-role-iran-war-politics-desk-rcna265207",
+      "source": "NBC News",
+      "publishedAt": "2026-03-25T22:11:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "How the US Army turned this former Nazi-base into a rapid-response war machine",
       "url": "https://www.businessinsider.com/how-us-army-turned-german-base-rapid-response-war-machine-2026-3",
@@ -9,118 +153,6 @@
       "publishedAt": "2026-03-25T19:36:43Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump’s Broken Promises: Energy and Utility Bills Surge as Families Struggle to Keep Up",
-      "url": "https://www.commondreams.org/newswire/trumps-broken-promises-energy-and-utility-bills-surge-as-families-struggle-to-keep-up",
-      "source": "Common Dreams",
-      "publishedAt": "2026-03-25T19:28:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How the US Became an International Serial Killer",
-      "url": "https://www.commondreams.org/opinion/us-government-as-serial-killer",
-      "source": "Common Dreams",
-      "publishedAt": "2026-03-25T18:33:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What we know and don't know about the Iran war negotiations",
-      "url": "https://www.abc.net.au/news/2026-03-26/what-we-know-about-iran-war-negotiations/106496052",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-03-25T18:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel Steps Up Strikes in Iran Before Possible Peace Talks",
-      "url": "https://www.newser.com/story/386109/israel-steps-up-strikes-in-iran-before-possible-peace-talks.html",
-      "source": "Newser",
-      "publishedAt": "2026-03-25T18:20:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Declares Iran War “Has Been Won” as Pentagon Deploys 3,000 Paratroopers",
-      "url": "https://truthout.org/articles/trump-declares-iran-war-has-been-won-as-pentagon-deploys-3000-paratroopers/",
-      "source": "Truthout",
-      "publishedAt": "2026-03-25T18:10:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What we know and don't know about Iran war negotiations",
-      "url": "https://www.pbs.org/newshour/world/what-we-know-and-dont-know-about-iran-war-negotiations",
-      "source": "PBS",
-      "publishedAt": "2026-03-25T18:07:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Global Energy Crisis & the Market Impact into 2028",
-      "url": "https://www.activistpost.com/the-global-energy-crisis-the-market-impact-into-2028/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-03-25T18:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pakistan Says U.S. Ceasefire Proposal Relayed to Iran",
-      "url": "https://www.breitbart.com/national-security/2026/03/25/pakistan-says-u-s-ceasefire-proposal-relayed-to-iran/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-03-25T17:59:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump wrote the tariff playbook. Now Iran is using it on the world’s most important oil route.",
-      "url": "https://fortune.com/2026/03/25/trump-iran-war-strait-hormuz-tariffs-toll-peace-talks-ceasefire-deal/",
-      "source": "Fortune",
-      "publishedAt": "2026-03-25T17:57:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran war boosts strategic significance of South Caucasus",
-      "url": "https://www.dw.com/en/iran-war-boosts-strategic-significance-of-south-caucasus/a-76518386",
-      "source": "DW (English)",
-      "publishedAt": "2026-03-25T17:38:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran reviews ceasefire plan as Gulf states say war poses ‘existential threat’",
-      "url": "https://www.abc.net.au/news/2026-03-26/iran-rejects-ceasefire-plan-as-un-orders-a-stop-to-war-crimes-/106496228",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-03-25T17:29:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran rejects American peace overture, puts five conditions to end war",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-rejects-american-peace-overture-puts-five-conditions-to-end-war/articleshow/129807940.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-25T17:26:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The silent axis: Why Iran isn’t using its allies",
-      "url": "https://www.rt.com/news/636177-silent-axis-irans-allies/",
-      "source": "RT",
-      "publishedAt": "2026-03-25T17:05:19Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Rejecting Trump Plan, Iran Calls for War Reparations in Ceasefire Counterproposal",
-      "url": "https://www.commondreams.org/news/iran-ceasefire",
-      "source": "Common Dreams",
-      "publishedAt": "2026-03-25T17:00:29Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "How and why NZ could be drawn into the Iran war – and the high stakes involved",
@@ -137,22 +169,6 @@
       "publishedAt": "2026-03-25T16:55:05Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Spain’s PM says Israel to inflict on Lebanon same destruction as in Gaza - Al Jazeera",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181102148",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-03-25T16:53:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Health Ministry: Israel Has Killed 1,094 in Lebanon in March, Including 121 Children - News From Antiwar.com",
-      "url": "https://news.antiwar.com/2026/03/25/health-ministry-israel-has-killed-1094-in-lebanon-in-march-including-121-children/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-03-25T16:43:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "No, China Doesn’t Want Spheres of Influence",
@@ -211,14 +227,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Russia Expands Legal Grounds for Military Intervention as Hybrid Pressure Rises in Baltic",
-      "url": "https://freerepublic.com/focus/f-bloggers/4372091/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-03-25T10:13:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Belarusian President Lukashenko arrives in North Korea for talks with Kim Jong Un",
       "url": "https://abcnews.com/International/wireStory/belarusian-president-lukashenko-arrives-north-korea-talks-kim-131387621",
       "source": "Abcnews.com",
@@ -271,102 +279,6 @@
       "url": "https://smallwarsjournal.com/2026/03/25/2026-worldwide-threats-hearing/",
       "source": "Smallwarsjournal.com",
       "publishedAt": "2026-03-25T00:32:51Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Xi Doubles Down on His City of the Future",
-      "url": "http://foreignpolicy.com/2026/03/24/china-xi-jinping-xiongan-beijing-capital-city-urban-planning/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-03-24T21:51:02Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Prof. Schlevogt’s Compass No. 50: Game-changing offramp for the US – Trump’s shortcut to an Iran win",
-      "url": "https://www.rt.com/news/636088-us-iran-off-ramp/",
-      "source": "RT",
-      "publishedAt": "2026-03-24T21:13:29Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Israel wants to destroy Iran’s nuclear program. But should it have nuclear weapons itself?",
-      "url": "https://theconversation.com/israel-wants-to-destroy-irans-nuclear-program-but-should-it-have-nuclear-weapons-itself-278801",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-03-24T19:08:40Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "North Korean dictator says government will keep cementing nation's 'irreversible status as a nuclear power'",
-      "url": "https://www.foxnews.com/world/north-korean-dictator-says-government-keep-cementing-nations-irreversible-status-nuclear-power",
-      "source": "Fox News",
-      "publishedAt": "2026-03-24T18:27:13Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim Jong Un says North Korea will never give up on nuclear weapons",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/24/kim-jong-un-says-north-korea-will-never-give-up-on-nuclear-weapons",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-24T18:01:06Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "As an AI Scholar, I Am Now Putting a High Probability on an AI Doomsday",
-      "url": "http://foreignpolicy.com/2026/03/24/ai-artificial-intelligence-doomsday-iran-war/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-03-24T15:51:15Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "North Korea's Kim: Iran War Proves Us Right",
-      "url": "https://www.newser.com/story/386002/kim-us-action-justifies-our-nuclear-strategy.html",
-      "source": "Newser",
-      "publishedAt": "2026-03-24T15:20:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim Jong-Un: North Korean Nukes Provide “Leverage” Against American Aggression",
-      "url": "https://www.shtfplan.com/war/kim-jong-un-north-korean-nukes-provide-leverage-against-american-aggression",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-03-24T15:00:37Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Keir Starmer’s policy on the Iran war is a recipe for catastrophe",
-      "url": "https://www.aljazeera.com/opinions/2026/3/24/keir-starmers-policy-on-the-iran-war-is-a-recipe-for-catastrophe",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-24T14:26:14Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "JFK: The Memo That Might Have Stopped Israel’s War on Iran",
-      "url": "https://www.activistpost.com/jfk-the-memo-that-might-have-stopped-israels-war-on-iran/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-03-24T14:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "China says Japan’s new 1000km Type-12 missile can create ‘kill network’, hit mainland coastal cities",
-      "url": "https://economictimes.indiatimes.com/news/defence/japans-1000km-type-12-missile-may-create-kill-network-can-strike-chinas-coastal-cities-report/articleshow/129778325.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-24T13:54:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Oil Reserves last for weeks; Solar Panels last for Decades",
-      "url": "https://www.juancole.com/2026/03/reserves-panels-decades.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-03-24T04:06:39Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
     }

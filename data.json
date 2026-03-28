@@ -1,62 +1,182 @@
 {
-  "updated": "2026-03-28T14:03:58Z",
-  "count": 37,
+  "updated": "2026-03-28T19:46:08Z",
+  "count": 38,
   "articles": [
     {
-      "title": "Tehran accuses US of 'calculated' assault on school",
-      "url": "https://www.channelnewsasia.com/world/us-strike-iran-school-calculated-assault-minab-un-human-rights-council-6021671",
-      "source": "CNA",
-      "publishedAt": "2026-03-27T14:02:14Z",
+      "title": "The race against time to destroy Iran’s illicit nuclear weapons program heats up amid fresh strikes",
+      "url": "https://www.foxnews.com/world/race-against-time-destroy-irans-illicit-nuclear-weapons-program-heats-up-amid-fresh-strikes",
+      "source": "Fox News",
+      "publishedAt": "2026-03-27T19:42:06Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran warns civilians as Trump says talks 'going well'",
-      "url": "https://www.channelnewsasia.com/world/iran-warns-civilians-trump-says-talks-going-well-6021606",
-      "source": "CNA",
-      "publishedAt": "2026-03-27T13:43:14Z",
+      "title": "Live: US-Israeli strikes hit two Iranian nuclear facilities",
+      "url": "https://www.abc.net.au/news/2026-03-28/attacks-on-iran-to-escalate-and-expand/106505482",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-03-27T19:31:20Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "US and Israel hit nuclear sites as Rubio trails end to Iran war",
-      "url": "https://www.channelnewsasia.com/world/iran-us-israel-g7-meeting-rubio-trump-strikes-nuclear-sites-6021606",
-      "source": "CNA",
-      "publishedAt": "2026-03-27T13:43:00Z",
+      "title": "US-Israeli strikes continue as talks over Strait of Hormuz stall and Iran intensifies internal crackdown",
+      "url": "https://www.longwarjournal.org/archives/2026/03/us-israeli-strikes-continue-as-talks-over-strait-of-hormuz-stall-and-iran-intensifies-internal-crackdown.php",
+      "source": "Longwarjournal.org",
+      "publishedAt": "2026-03-27T19:14:43Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes Iranian nuclear facilities after warning attacks would 'escalate and expand'",
+      "url": "https://www.thejournal.ie/israel-strikes-iran-nuclear-facilities-6997045-Mar2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-03-27T19:11:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Marco Rubio says US expects to finish Iran war in ‘next couple of weeks’",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/03/27/marco-rubio-says-us-expects-to-finish-iran-war-in-next-couple-of-weeks/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-03-27T19:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Rubio: War with Iran will end in weeks, not months",
+      "url": "https://www.israelnationalnews.com/news/424697",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-03-27T18:59:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Fears Israel could replicate its 'Gaza model' in Lebanon as satellite imagery captures destruction",
+      "url": "https://www.nbcnews.com/world/lebanon/fears-gaza-model-lebanon-satellite-imagery-destruction-rcna265242",
+      "source": "NBC News",
+      "publishedAt": "2026-03-27T18:57:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'They got it all wrong': The miscalculation the US and Israel made over Iran",
+      "url": "https://www.abc.net.au/news/2026-03-28/why-the-us-is-sending-thousands-of-marines-to-the-middle-east/106497014",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-03-27T18:49:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Is government intervention keeping LNG exporters on their 'best behaviour'?",
+      "url": "https://www.abc.net.au/news/2026-03-28/claims-gas-producers-best-behaviour-government-intervention/106501812",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-03-27T18:43:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "No risk of contamination after attack on nuclear facilities, Iran state media reports",
+      "url": "https://www.wftv.com/news/world/israel-launches-new/ER7V4C52VE233KDNK3UNZRSN5M/",
+      "source": "WFTV Orlando",
+      "publishedAt": "2026-03-27T18:42:50Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel strikes Iran’s nuclear facilities as Tehran vows retaliation ‘will no longer be an eye for an eye’",
+      "url": "https://fortune.com/2026/03/27/israel-strikes-irans-nuclear-facilities-tehran-vows-retaliation/",
+      "source": "Fortune",
+      "publishedAt": "2026-03-27T18:23:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US, Israel Hit Iran’s Nuclear Facilities as Tehran Attacks Gulf",
+      "url": "https://financialpost.com/pmn/business-pmn/us-israel-hit-irans-nuclear-facilities-as-tehran-attacks-gulf",
+      "source": "Financial Post",
+      "publishedAt": "2026-03-27T17:11:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel renews strikes on south Beirut as Hezbollah says clashed with Israeli forces in south",
+      "url": "https://www.channelnewsasia.com/world/israel-hezbollah-lebanon-strikes-beirut-iran-us-war-6021976",
+      "source": "CNA",
+      "publishedAt": "2026-03-27T17:02:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran says nuclear facilities have been targeted after Israel says attacks 'will escalate and expand'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-nuclear-facilities-have-been-targeted-after-israel-says-attacks-will-escalate-and-expand/articleshow/129851115.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-27T16:19:53Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IDF strikes major Iranian’s most central missile and naval mine production site",
+      "url": "https://www.jns.org/news/israel-news/idf-strikes-key-iranian-missile-naval-mine-production-site-in-yazd",
+      "source": "JNS.org",
+      "publishedAt": "2026-03-27T16:05:54Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IDF Uncovers Hezbollah Terror Tunnel Near Church as Ground Offensive Intensifies in South Lebanon",
+      "url": "https://legalinsurrection.com/2026/03/idf-uncovers-hezbollah-terror-tunnel-near-church-as-groud-offensive-intensifies-in-south-lebanon/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-03-27T15:49:03Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "War on Iran during nuclear negotiations undermines the US’s ability to talk peace around the world − and the effects won’t end when Trump leaves office",
+      "url": "https://theconversation.com/war-on-iran-during-nuclear-negotiations-undermines-the-uss-ability-to-talk-peace-around-the-world-and-the-effects-wont-end-when-trump-leaves-office-279079",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-03-27T14:54:06Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "The Fog of Foreknowledge Versus the Clarity of War",
+      "url": "https://www.fairobserver.com/devils-advocate/the-fog-of-foreknowledge-versus-the-clarity-of-war/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-03-27T14:33:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The First Post-Reality Political Campaign",
+      "url": "https://www.theatlantic.com/ideas/2026/03/hungary-first-post-reality-political-campaign/686565/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-03-27T14:31:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Norway to add more than $11bn to defence budget over 10 years",
+      "url": "https://www.aljazeera.com/news/2026/3/27/norway-to-add-more-than-11bn-to-defence-budget-over-10-years",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-27T14:31:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Europe’s Blackout War",
+      "url": "https://www.dailysignal.com/2026/03/27/europes-blackout-war/",
+      "source": "Daily Signal",
+      "publishedAt": "2026-03-27T14:17:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "G7 meets on Russia-Ukraine war as Rubio tries to sell U.S. strategy in Iran to skeptical allies insulted by Trump",
       "url": "https://www.pbs.org/newshour/world/g7-meets-on-russia-ukraine-war-as-rubio-tries-to-sell-u-s-strategy-in-iran-to-skeptical-allies-insulted-by-trump",
       "source": "PBS",
       "publishedAt": "2026-03-27T13:31:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Saudi, UAE, Iraq: Can three pipelines help oil escape Strait of Hormuz?",
-      "url": "https://www.aljazeera.com/economy/2026/3/27/saudi-uae-iraq-can-three-pipelines-help-oil-escape-strait-of-hormuz",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-27T13:27:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.N. Rights Chief Urges U.S. To Finish Probe Into Deadly Iran School Strike",
-      "url": "https://www.huffpost.com/entry/united-nations-rights-chief-urges-us-to-finish-probe-into-deadly-iran-school-strike_n_69c67db1e4b09f8e00510861",
-      "source": "HuffPost",
-      "publishedAt": "2026-03-27T13:02:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon at real risk of 'humanitarian catastrophe' - UN",
-      "url": "https://www.rte.ie/news/middle-east/2026/0327/1565521-lebanon-middle-east/",
-      "source": "RTE",
-      "publishedAt": "2026-03-27T12:58:44Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "UK commits £100 million air defence package for Ukraine to protect cities and critical infrastructure",
@@ -67,44 +187,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Tehran accuses US of ‘calculated’ assault on school",
-      "url": "https://www.digitaljournal.com/world/tehran-accuses-us-of-calculated-assault-on-school/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-03-27T12:52:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Lavrov explains difference between Iran and Ukraine conflicts (FULL INTERVIEW)",
       "url": "https://www.rt.com/russia/636404-lavrov-iran-ukraine-difference-full-interview/",
       "source": "RT",
       "publishedAt": "2026-03-27T12:51:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Tells Iran ‘Get Serious’ About Negotiations; WH Mulls Plans For ‘Final Blow’",
-      "url": "https://www.shtfplan.com/war/trump-tells-iran-get-serious-about-negotiations-wh-mulls-plans-for-final-blow",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-03-27T12:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "IDF spokesman: If Lebanese government will not disarm Hezbollah - the IDF will",
-      "url": "https://www.israelnationalnews.com/news/424687",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-03-27T12:25:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel launches new wave of strikes on Iran with no sign of diplomatic breakthrough",
-      "url": "https://www.thehindubusinessline.com/news/world/israel-launches-new-wave-of-strikes-on-iran-with-no-sign-of-diplomatic-breakthrough/article70792347.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-03-27T12:14:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "G7 meets on the Iran war as Rubio tries to sell US strategy to skeptical allies insulted by Trump",
@@ -115,34 +203,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Yemenis fear economic consequences of being dragged into US-Iran conflict",
-      "url": "https://www.aljazeera.com/news/2026/3/27/yemenis-fear-economic-consequences-of-being-dragged-into-us-iran-conflict",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-27T11:24:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "G7 Meets On Iran War As Rubio Tries To Sell U.S. Strategy To Skeptical Allies Insulted By Trump",
       "url": "https://www.huffpost.com/entry/g7-rubio-iran-war_n_69c6655ae4b0a6ee60c44092",
       "source": "HuffPost",
       "publishedAt": "2026-03-27T11:20:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskiy Offers Air Defense for Gulf Funds in Saudi Arabia Deal",
-      "url": "https://financialpost.com/pmn/business-pmn/zelenskiy-offers-air-defense-for-gulf-funds-in-saudi-arabia-deal",
-      "source": "Financial Post",
-      "publishedAt": "2026-03-27T11:02:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Who Needs Tanks in the Age of Drones?",
-      "url": "https://www.theatlantic.com/national-security/2026/03/who-needs-tanks-age-drones/686540/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-03-27T11:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -153,62 +217,6 @@
       "publishedAt": "2026-03-27T11:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Iran Guards warn civilians after Trump pushes Hormuz deadline",
-      "url": "https://www.digitaljournal.com/world/iran-guards-warn-civilians-after-trump-pushes-hormuz-deadline/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-03-27T10:32:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran is adopting Russian drone tactics, Ukrainian troops say",
-      "url": "https://www.defenseone.com/threats/2026/03/iran-adopting-russian-drone-tactics-ukrainian-troops-say/412434/",
-      "source": "Defense One",
-      "publishedAt": "2026-03-27T10:27:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Press conference by NATO Secretary General Mark Rutte at the launch of the 2025 Annual Report",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260326-nato02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-27T10:16:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Rubio heads to Europe to try garner support for Iran war",
-      "url": "https://www.npr.org/2026/03/27/nx-s1-5763475/iran-war-talks-rubio-markets-g7",
-      "source": "NPR",
-      "publishedAt": "2026-03-27T09:49:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran emergency workers search for survivors after deadly US-Israel attacks",
-      "url": "https://www.aljazeera.com/news/2026/3/27/rescuers-search-for-survivors-of-us-israeli-strikes-on-irans-tehran-qom",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-27T08:45:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "How extensive is Russia’s military aid to Iran?",
-      "url": "https://www.aljazeera.com/news/2026/3/27/how-extensive-is-russias-military-aid-to-iran",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-27T08:09:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Air Strikes Continue Amid Uncertainty Over Iran Peace Plans",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260326-rferl09.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-27T07:01:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "North Korea and Belarus sign treaty as Lukashenko visits Kim in Pyongyang",

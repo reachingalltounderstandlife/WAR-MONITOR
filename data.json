@@ -1,86 +1,182 @@
 {
-  "updated": "2026-03-28T05:15:36Z",
-  "count": 29,
+  "updated": "2026-03-28T07:57:50Z",
+  "count": 34,
   "articles": [
     {
-      "title": "Stock Selloff Eases as Futures Rise, Oil Slips: Markets Wrap",
-      "url": "https://financialpost.com/pmn/business-pmn/stock-selloff-eases-as-futures-rise-oil-slips-markets-wrap",
-      "source": "Financial Post",
-      "publishedAt": "2026-03-27T05:07:16Z",
+      "title": "Iran says hotels housing US soldiers in region will be targeted",
+      "url": "https://www.thejournal.ie/iran-says-hotels-housing-us-soldiers-in-region-will-be-targeted-6996284-Mar2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-03-27T07:43:45Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Trump Claims 'Talks' as Pentagon Prepares 10,000 More Troops — Reports",
-      "url": "https://sputnikglobe.com/20260327/trump-claims-talks-as-pentagon-prepares-10000-more-troops--reports-1123903549.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-03-27T05:01:59Z",
+      "title": "War in the Middle East: latest developments",
+      "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-22/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-03-27T07:30:30Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Israel launches new wave of strikes on Iran with no sign of diplomatic breakthrough",
+      "url": "https://www.thehindubusinessline.com/news/world/israel-launches-new-wave-of-strikes-on-iran-with-no-sign-of-diplomatic-breakthrough/article70791550.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-27T07:19:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran says hotels housing US soldiers in region will be targeted",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-says-hotels-housing-us-soldiers-in-region-will-be-targeted/articleshow/129841179.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-27T07:15:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Air Strikes Continue Amid Uncertainty Over Iran Peace Plans",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260326-rferl09.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-27T07:01:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump extends deadline for striking Iran's energy plants",
+      "url": "https://www.rte.ie/news/world/2026/0327/1565444-iran-conflict/",
+      "source": "RTE",
+      "publishedAt": "2026-03-27T06:44:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US mulls deploying additional 10,000 ground troops to West Asia: Report",
+      "url": "https://www.thehindubusinessline.com/news/world/us-mulls-deploying-additional-10000-ground-troops-to-west-asia-report/article70791409.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-27T06:36:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Israel war on Iran: What’s happening on day 28 of attacks?",
+      "url": "https://www.aljazeera.com/news/2026/3/27/us-israel-war-on-iran-whats-happening-on-day-28-of-attacks-2",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-27T06:35:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Rubio will try to sell Iran war to skeptical G7 diplomats after Trump insults allies",
+      "url": "https://abcnews.com/Politics/wireStory/rubio-sell-iran-war-skeptical-g7-diplomats-after-131460102",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-03-27T06:34:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran war: Trump extends pause on energy site strikes",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/03/27/iran-war-updates-live-us-trump-israel-energy-middle-east/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-03-27T06:31:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelenskyy courts Saudi support as U.S. reportedly weighs redirecting Ukraine aid to Middle East",
+      "url": "https://www.cnbc.com/2026/03/27/zelenskyy-saudi-visit-us-troops-middle-east-iran-ukraine-aid-shahed-drones.html",
+      "source": "CNBC",
+      "publishedAt": "2026-03-27T06:21:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "No risk of contamination after attack on nuclear facilities, Iran state media reports",
+      "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-27-2026-195444c54cbb7545d0a77f8ffbc0e4c0",
+      "source": "Associated Press",
+      "publishedAt": "2026-03-27T06:16:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Why did Putin ask oligarchs for defense donations? #world",
+      "url": "https://alltoc.com/world/why-did-putin-ask-oligarchs-for-defense-donations",
+      "source": "Alltoc.com",
+      "publishedAt": "2026-03-27T06:04:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lara Marlowe: Ireland’s small steps on defence are an Irish solution to an Irish problem",
+      "url": "https://www.irishtimes.com/opinion/2026/03/27/lara-marlowe-irelands-small-steps-on-defence-are-an-irish-solution-to-an-irish-problem/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-03-27T06:00:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pentagon considers diverting Ukraine weapons to Middle East as Iran war drains stockpiles",
+      "url": "https://www.naturalnews.com/2026-03-27-pentagon-considers-diverting-ukraine-weapons-middle-east.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-27T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Empire’s Final Illusion: How Failure in Iran and Russia Exposes America’s Terminal Decline",
+      "url": "https://www.naturalnews.com/2026-03-27-failure-in-iran-russia-reveals-americas-terminal-decline.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-03-27T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump calls ‘NATO a paper tiger, did nothing for us in Iran war’",
+      "url": "https://indianexpress.com/article/world/trump-calls-nato-a-paper-tiger-did-nothing-for-us-in-iran-war-10603769/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-03-27T05:34:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea and Belarus sign treaty as Lukashenko visits Kim in Pyongyang",
+      "url": "https://www.independent.ie/world-news/europe/north-korea-and-belarus-sign-treaty-as-lukashenko-visits-kim-in-pyongyang/a411002682.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-03-27T05:30:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran Guards say carried out attacks on Israel, US forces in Gulf",
+      "url": "https://www.hurriyetdailynews.com/iran-guards-say-carried-out-attacks-on-israel-us-forces-in-gulf-220368",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-03-27T05:25:28Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Rubio meets G7 ministers in France as US leads on Iran — allies under fire for tepid response",
       "url": "https://www.foxnews.com/world/rubio-meets-g7-ministers-france-us-leads-iran-allies-under-fire-tepid-response",
       "source": "Fox News",
       "publishedAt": "2026-03-27T05:00:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Iran War Day 28 Updates: Trump pauses strikes on Iran's energy sites by 10 days as Mideast conflict nears a month; Tehran says 'no entry' to Hormuz",
       "url": "https://economictimes.indiatimes.com/news/defence/iran-war-news-day-28-strait-of-hormuz-us-israel-tehran-middle-east-latest-news/articleshow/129838920.cms",
       "source": "The Times of India",
       "publishedAt": "2026-03-27T04:59:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Announces 10-Day Pause in Strikes on Iranian Energy Facilities",
-      "url": "https://sputnikglobe.com/20260327/trump-announces-10-day-pause-in-strikes-on-iranian-energy-facilities-1123903456.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-03-27T04:59:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war: Stocks sink as Trump pushes back Hormuz deadline",
-      "url": "https://www.dw.com/en/iran-war-stocks-sink-as-trump-pushes-back-hormuz-deadline/live-76555531",
-      "source": "DW (English)",
-      "publishedAt": "2026-03-27T04:44:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "In sleepy town on Strait of Hormuz, war rages just over horizon",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/in-sleepy-town-on-strait-of-hormuz-war-rages-just-over-horizon/articleshow/129838451.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-27T04:15:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Most Dangerous Country: From 2003 to 2026 and Beyond",
-      "url": "https://www.juancole.com/2026/03/dangerous-country-beyond.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-03-27T04:06:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US deploys uncrewed drone boats in conflict with Iran",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-deploys-uncrewed-drone-boats-in-strategic-military-operations-against-iran/articleshow/129837609.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-27T03:06:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "WEAPONS OF MASS DISTRACTION: How Cognitive and Influence Warfare Is Being Waged Against You",
       "url": "https://www.activistpost.com/weapons-of-mass-distraction-how-cognitive-and-influence-warfare-is-being-waged-against-you/",
       "source": "Activistpost.com",
       "publishedAt": "2026-03-27T02:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Report: Trump weighs sending another 10,000 ground troops to the Middle East",
@@ -107,60 +203,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Donald Trump Is Breaking Up with Europe",
-      "url": "https://www.newyorker.com/news/letter-from-trumps-washington/donald-trump-is-breaking-up-with-europe",
-      "source": "The New Yorker",
-      "publishedAt": "2026-03-26T22:47:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Lebanon says Israeli strikes kill five as Hezbollah claims new attacks",
-      "url": "https://japantoday.com/category/world/lebanon-says-israeli-strikes-kill-five-as-hezbollah-claims-new-attacks",
-      "source": "Japan Today",
-      "publishedAt": "2026-03-26T21:53:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran, U.S. harden their positions over talks; Trump delays Strait of Hormuz deadline",
-      "url": "https://japantoday.com/category/world/Iran-U.S.-harden-their-positions-over-talks-Trump-delays-Strait-of-Hormuz-deadline",
-      "source": "Japan Today",
-      "publishedAt": "2026-03-26T21:52:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Harvard 'indifferent to hostility' toward Jewish students: lawsuit",
-      "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-harvard-indifferent-hostility-toward-jewish-students-lawsuit",
-      "source": "Fox News",
-      "publishedAt": "2026-03-26T21:12:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "G-7 Aims to Balance Addressing Russia-Ukraine, Iran Wars",
       "url": "http://foreignpolicy.com/2026/03/26/g7-foreign-ministers-rubio-russia-ukraine-iran-wars-nato/",
       "source": "Foreign Policy",
       "publishedAt": "2026-03-26T21:07:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump extends his deadline for Iran to reopen the Strait of Hormuz to April 6",
-      "url": "https://fortune.com/2026/03/26/trump-iran-war-oil-strait-april-6-hormuz/",
-      "source": "Fortune",
-      "publishedAt": "2026-03-26T21:05:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Battle for Hungary: The Ukraine connection",
-      "url": "https://www.rt.com/news/636295-hungary-ukraine-election-spies/",
-      "source": "RT",
-      "publishedAt": "2026-03-26T20:45:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Israel Has Nuclear Weapons?",
@@ -169,14 +217,6 @@
       "publishedAt": "2026-03-26T19:28:40Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Zelensky Unnecessarily Involves Ukraine in the Middle East Crisis",
-      "url": "https://www.globalresearch.ca/zelensky-unnecessarily-involves-ukraine-middle-east-crisis/5920159",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-03-26T18:26:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "The US-Israeli War on Iran Is Incentivizing Nuclear Proliferation",

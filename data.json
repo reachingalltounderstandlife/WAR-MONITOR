@@ -1,14 +1,86 @@
 {
-  "updated": "2026-03-29T05:54:36Z",
-  "count": 28,
+  "updated": "2026-03-29T08:02:48Z",
+  "count": 27,
   "articles": [
     {
-      "title": "Who are the Houthis, Iran's allies in Yemen?",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/who-are-the-houthis-irans-allies-in-yemen/articleshow/129859661.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-28T05:53:40Z",
+      "title": "Iranian Army drones strike major Israeli military logistics site",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260327-presstv15.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-28T08:02:46Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "One month into Iran war, some Trump objectives are unfulfilled as he looks to wind down the conflict",
+      "url": "https://www.thehindubusinessline.com/news/world/one-month-into-iran-war-some-trump-objectives-are-unfulfilled-as-he-looks-to-wind-down-the-conflict/article70795369.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-28T07:48:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Attacks across Middle East as Iran war enters second month",
+      "url": "https://www.hurriyetdailynews.com/attacks-across-middle-east-as-iran-war-enters-second-month-220395",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-03-28T07:41:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Yemen’s Houthis claim responsibility for a missile attack on Israel",
+      "url": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-28T07:34:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran's IRGC claims to have targeted six tactical vessels of US military",
+      "url": "https://economictimes.indiatimes.com/news/defence/irans-irgc-claims-to-have-targeted-six-tactical-vessels-of-us-military/articleshow/129860819.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-28T07:25:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel says missile launched from Yemen; 12 US soldiers reportedly injured in Iran attack",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/03/28/israel-says-missile-launched-from-yemen-12-us-soldiers-reportedly-injured-in-iran-attack/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-03-28T07:14:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Voltaire, International Newsletter N°168",
+      "url": "https://www.voltairenet.org/article224071.html",
+      "source": "Red Voltaire",
+      "publishedAt": "2026-03-28T07:13:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel detects missile fired from Yemen as strikes on Iran continue",
+      "url": "https://www.channelnewsasia.com/world/yemen-missile-israel-houthi-iran-strikes-6022981",
+      "source": "CNA",
+      "publishedAt": "2026-03-28T06:44:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran missile strike injures US troops in Saudi Arabia #world",
+      "url": "https://alltoc.com/world/iran-missile-strike-injures-us-troops-in-saudi-arabia",
+      "source": "Alltoc.com",
+      "publishedAt": "2026-03-28T06:04:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Houthis enter the war: “We launched ballistic missiles at Israel, we will continue until the attacks stop” (Update)",
+      "url": "https://en.protothema.gr/2026/03/28/houthis-enter-the-war-we-launched-ballistic-missiles-at-israel-we-will-continue-until-the-attacks-stop-update/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-03-28T06:04:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "One month into Iran war, some Trump objectives are unfulfilled as he looks to wind down the conflict",
@@ -23,70 +95,22 @@
       "url": "https://economictimes.indiatimes.com/news/defence/iran-israel-war-news-day-29-middle-east-conflict-strait-of-hormuz-crude-oil-latest-news/articleshow/129859281.cms",
       "source": "The Times of India",
       "publishedAt": "2026-03-28T05:30:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'We Have Another 3,554 Targets Left' — Trump on Iran",
-      "url": "https://sputnikglobe.com/20260328/we-have-another-3554-targets-left--trump-on-iran-1123910530.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-03-28T04:52:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel says it identified launch of missile from Yemen",
-      "url": "https://www.rte.ie/news/world/2026/0328/1565628-yemen-strikes-houthis/",
-      "source": "RTE",
-      "publishedAt": "2026-03-28T04:48:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian Strike Hits US Air Base in Saudi Arabia, at Least 10 Troops Injured — Reports",
-      "url": "https://sputnikglobe.com/20260328/iranian-strike-hits-us-air-base-in-saudi-arabia-at-least-10-troops-injured--reports-1123910281.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-03-28T04:44:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israel flags first Yemen missile threat in expanding West Asia war",
       "url": "https://economictimes.indiatimes.com/news/defence/israel-flags-first-yemen-missile-threat-in-expanding-west-asia-war/articleshow/129858871.cms",
       "source": "The Times of India",
       "publishedAt": "2026-03-28T04:38:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "How the US-Israel war on Iran unfolded in its first four weeks",
       "url": "https://www.aljazeera.com/news/2026/3/28/how-the-us-israel-war-on-iran-unfolded-in-its-first-four-weeks",
       "source": "Al Jazeera English",
       "publishedAt": "2026-03-28T04:15:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Which key Iranian figures have been killed in US-Israeli strikes?",
-      "url": "https://www.thehindubusinessline.com/news/world/which-key-iranian-figures-have-been-killed-in-us-israeli-strikes/article70795315.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-03-28T04:09:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "As Iran War Spirals, Trump Can’t Fool Markets Forever",
-      "url": "https://www.theamericanconservative.com/as-iran-war-spirals-trump-cant-fool-markets-forever/",
-      "source": "The American Conservative",
-      "publishedAt": "2026-03-28T04:05:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran moves to assert control over Strait of Hormuz while trading strikes with Israel",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/iran-moves-to-assert-control-over-strait-of-hormuz-while-trading-strikes-with-israel/articleshow/129857834.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-28T02:46:59Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -97,30 +121,6 @@
       "publishedAt": "2026-03-28T02:17:34Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "More than 400 Hezbollah fighters killed in new war with Israel so far, sources say",
-      "url": "https://economictimes.indiatimes.com/news/defence/more-than-400-hezbollah-fighters-killed-in-new-war-with-israel-so-far-sources-say/articleshow/129857309.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-28T01:31:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran says it will 'facilitate and expedite' humanitarian aid through the Strait of Hormuz",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-says-it-will-facilitate-and-expedite-humanitarian-aid-through-the-strait-of-hormuz/articleshow/129857215.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-28T01:02:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel hits Iranian nuke facilities and Tehran strikes base in Saudi Arabia, wounding US troops",
-      "url": "https://economictimes.indiatimes.com/news/defence/israel-hits-iranian-nuke-facilities-and-tehran-strikes-base-in-saudi-arabia-wounding-us-troops/articleshow/129857129.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-28T00:37:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Iranian Missiles Target the Petrodollar",
@@ -183,14 +183,6 @@
       "url": "https://www.dailysignal.com/2026/03/27/europes-blackout-war/",
       "source": "Daily Signal",
       "publishedAt": "2026-03-27T14:17:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "G7 meets on Russia-Ukraine war as Rubio tries to sell U.S. strategy in Iran to skeptical allies insulted by Trump",
-      "url": "https://www.pbs.org/newshour/world/g7-meets-on-russia-ukraine-war-as-rubio-tries-to-sell-u-s-strategy-in-iran-to-skeptical-allies-insulted-by-trump",
-      "source": "PBS",
-      "publishedAt": "2026-03-27T13:31:56Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

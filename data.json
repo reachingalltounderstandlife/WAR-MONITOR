@@ -1,134 +1,150 @@
 {
-  "updated": "2026-03-28T19:46:08Z",
-  "count": 38,
+  "updated": "2026-03-29T05:54:36Z",
+  "count": 28,
   "articles": [
     {
-      "title": "The race against time to destroy Iran’s illicit nuclear weapons program heats up amid fresh strikes",
-      "url": "https://www.foxnews.com/world/race-against-time-destroy-irans-illicit-nuclear-weapons-program-heats-up-amid-fresh-strikes",
-      "source": "Fox News",
-      "publishedAt": "2026-03-27T19:42:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Live: US-Israeli strikes hit two Iranian nuclear facilities",
-      "url": "https://www.abc.net.au/news/2026-03-28/attacks-on-iran-to-escalate-and-expand/106505482",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-03-27T19:31:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Israeli strikes continue as talks over Strait of Hormuz stall and Iran intensifies internal crackdown",
-      "url": "https://www.longwarjournal.org/archives/2026/03/us-israeli-strikes-continue-as-talks-over-strait-of-hormuz-stall-and-iran-intensifies-internal-crackdown.php",
-      "source": "Longwarjournal.org",
-      "publishedAt": "2026-03-27T19:14:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel strikes Iranian nuclear facilities after warning attacks would 'escalate and expand'",
-      "url": "https://www.thejournal.ie/israel-strikes-iran-nuclear-facilities-6997045-Mar2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-03-27T19:11:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Marco Rubio says US expects to finish Iran war in ‘next couple of weeks’",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/03/27/marco-rubio-says-us-expects-to-finish-iran-war-in-next-couple-of-weeks/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-03-27T19:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Rubio: War with Iran will end in weeks, not months",
-      "url": "https://www.israelnationalnews.com/news/424697",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-03-27T18:59:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Fears Israel could replicate its 'Gaza model' in Lebanon as satellite imagery captures destruction",
-      "url": "https://www.nbcnews.com/world/lebanon/fears-gaza-model-lebanon-satellite-imagery-destruction-rcna265242",
-      "source": "NBC News",
-      "publishedAt": "2026-03-27T18:57:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'They got it all wrong': The miscalculation the US and Israel made over Iran",
-      "url": "https://www.abc.net.au/news/2026-03-28/why-the-us-is-sending-thousands-of-marines-to-the-middle-east/106497014",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-03-27T18:49:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Is government intervention keeping LNG exporters on their 'best behaviour'?",
-      "url": "https://www.abc.net.au/news/2026-03-28/claims-gas-producers-best-behaviour-government-intervention/106501812",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-03-27T18:43:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "No risk of contamination after attack on nuclear facilities, Iran state media reports",
-      "url": "https://www.wftv.com/news/world/israel-launches-new/ER7V4C52VE233KDNK3UNZRSN5M/",
-      "source": "WFTV Orlando",
-      "publishedAt": "2026-03-27T18:42:50Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel strikes Iran’s nuclear facilities as Tehran vows retaliation ‘will no longer be an eye for an eye’",
-      "url": "https://fortune.com/2026/03/27/israel-strikes-irans-nuclear-facilities-tehran-vows-retaliation/",
-      "source": "Fortune",
-      "publishedAt": "2026-03-27T18:23:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US, Israel Hit Iran’s Nuclear Facilities as Tehran Attacks Gulf",
-      "url": "https://financialpost.com/pmn/business-pmn/us-israel-hit-irans-nuclear-facilities-as-tehran-attacks-gulf",
-      "source": "Financial Post",
-      "publishedAt": "2026-03-27T17:11:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel renews strikes on south Beirut as Hezbollah says clashed with Israeli forces in south",
-      "url": "https://www.channelnewsasia.com/world/israel-hezbollah-lebanon-strikes-beirut-iran-us-war-6021976",
-      "source": "CNA",
-      "publishedAt": "2026-03-27T17:02:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran says nuclear facilities have been targeted after Israel says attacks 'will escalate and expand'",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-nuclear-facilities-have-been-targeted-after-israel-says-attacks-will-escalate-and-expand/articleshow/129851115.cms",
+      "title": "Who are the Houthis, Iran's allies in Yemen?",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/who-are-the-houthis-irans-allies-in-yemen/articleshow/129859661.cms",
       "source": "The Times of India",
-      "publishedAt": "2026-03-27T16:19:53Z",
+      "publishedAt": "2026-03-28T05:53:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "One month into Iran war, some Trump objectives are unfulfilled as he looks to wind down the conflict",
+      "url": "https://abcnews.com/US/wireStory/month-iran-war-trump-objectives-unfulfilled-wind-conflict-131495585",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-03-28T05:34:48Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "IDF strikes major Iranian’s most central missile and naval mine production site",
-      "url": "https://www.jns.org/news/israel-news/idf-strikes-key-iranian-missile-naval-mine-production-site-in-yazd",
-      "source": "JNS.org",
-      "publishedAt": "2026-03-27T16:05:54Z",
+      "title": "Iran-Israel War Day 29 Updates: Trump says Iran 'decimated', Tehran steps up attacks on Gulf as West Asia conflict rages",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-israel-war-news-day-29-middle-east-conflict-strait-of-hormuz-crude-oil-latest-news/articleshow/129859281.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-28T05:30:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'We Have Another 3,554 Targets Left' — Trump on Iran",
+      "url": "https://sputnikglobe.com/20260328/we-have-another-3554-targets-left--trump-on-iran-1123910530.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-03-28T04:52:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel says it identified launch of missile from Yemen",
+      "url": "https://www.rte.ie/news/world/2026/0328/1565628-yemen-strikes-houthis/",
+      "source": "RTE",
+      "publishedAt": "2026-03-28T04:48:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian Strike Hits US Air Base in Saudi Arabia, at Least 10 Troops Injured — Reports",
+      "url": "https://sputnikglobe.com/20260328/iranian-strike-hits-us-air-base-in-saudi-arabia-at-least-10-troops-injured--reports-1123910281.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-03-28T04:44:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel flags first Yemen missile threat in expanding West Asia war",
+      "url": "https://economictimes.indiatimes.com/news/defence/israel-flags-first-yemen-missile-threat-in-expanding-west-asia-war/articleshow/129858871.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-28T04:38:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How the US-Israel war on Iran unfolded in its first four weeks",
+      "url": "https://www.aljazeera.com/news/2026/3/28/how-the-us-israel-war-on-iran-unfolded-in-its-first-four-weeks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-28T04:15:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Which key Iranian figures have been killed in US-Israeli strikes?",
+      "url": "https://www.thehindubusinessline.com/news/world/which-key-iranian-figures-have-been-killed-in-us-israeli-strikes/article70795315.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-03-28T04:09:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "As Iran War Spirals, Trump Can’t Fool Markets Forever",
+      "url": "https://www.theamericanconservative.com/as-iran-war-spirals-trump-cant-fool-markets-forever/",
+      "source": "The American Conservative",
+      "publishedAt": "2026-03-28T04:05:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran moves to assert control over Strait of Hormuz while trading strikes with Israel",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/iran-moves-to-assert-control-over-strait-of-hormuz-while-trading-strikes-with-israel/articleshow/129857834.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-28T02:46:59Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "IDF Uncovers Hezbollah Terror Tunnel Near Church as Ground Offensive Intensifies in South Lebanon",
-      "url": "https://legalinsurrection.com/2026/03/idf-uncovers-hezbollah-terror-tunnel-near-church-as-groud-offensive-intensifies-in-south-lebanon/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-03-27T15:49:03Z",
+      "title": "Rubio pushes postwar plan for Strait of Hormuz after meeting G7 allies skeptical about Iran strategy",
+      "url": "https://economictimes.indiatimes.com/news/defence/rubio-pushes-postwar-plan-for-strait-of-hormuz-after-meeting-g7-allies-skeptical-about-iran-strategy/articleshow/129857581.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-28T02:17:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "More than 400 Hezbollah fighters killed in new war with Israel so far, sources say",
+      "url": "https://economictimes.indiatimes.com/news/defence/more-than-400-hezbollah-fighters-killed-in-new-war-with-israel-so-far-sources-say/articleshow/129857309.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-28T01:31:36Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "Iran says it will 'facilitate and expedite' humanitarian aid through the Strait of Hormuz",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-says-it-will-facilitate-and-expedite-humanitarian-aid-through-the-strait-of-hormuz/articleshow/129857215.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-28T01:02:43Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel hits Iranian nuke facilities and Tehran strikes base in Saudi Arabia, wounding US troops",
+      "url": "https://economictimes.indiatimes.com/news/defence/israel-hits-iranian-nuke-facilities-and-tehran-strikes-base-in-saudi-arabia-wounding-us-troops/articleshow/129857129.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-28T00:37:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iranian Missiles Target the Petrodollar",
+      "url": "https://dailyreckoning.com/iranian-missiles-target-the-petrodollar/",
+      "source": "Dailyreckoning.com",
+      "publishedAt": "2026-03-27T22:00:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Rubio: U.S.-Iran War Could Last Another 2 to 4 Weeks",
+      "url": "http://foreignpolicy.com/2026/03/27/rubio-g7-us-iran-war-two-four-weeks-nato-negotiations/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-03-27T21:10:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Rubio softens tone in trying to sell Iran strategy to skeptical G7 allies insulted by Trump",
+      "url": "https://japantoday.com/category/politics/rubio-will-try-to-sell-iran-war-to-skeptical-g7-diplomats-after-trump-insults-allies",
+      "source": "Japan Today",
+      "publishedAt": "2026-03-27T20:56:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "War on Iran during nuclear negotiations undermines the US’s ability to talk peace around the world − and the effects won’t end when Trump leaves office",
@@ -179,36 +195,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "UK commits £100 million air defence package for Ukraine to protect cities and critical infrastructure",
-      "url": "https://www.gov.uk/government/news/uk-commits-100-million-air-defence-package-for-ukraine-to-protect-cities-and-critical-infrastructure",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-03-27T12:53:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Lavrov explains difference between Iran and Ukraine conflicts (FULL INTERVIEW)",
       "url": "https://www.rt.com/russia/636404-lavrov-iran-ukraine-difference-full-interview/",
       "source": "RT",
       "publishedAt": "2026-03-27T12:51:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "G7 meets on the Iran war as Rubio tries to sell US strategy to skeptical allies insulted by Trump",
-      "url": "https://abcnews.com/International/wireStory/g7-meets-iran-war-rubio-sell-us-strategy-131460101",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-03-27T11:27:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "G7 Meets On Iran War As Rubio Tries To Sell U.S. Strategy To Skeptical Allies Insulted By Trump",
-      "url": "https://www.huffpost.com/entry/g7-rubio-iran-war_n_69c6655ae4b0a6ee60c44092",
-      "source": "HuffPost",
-      "publishedAt": "2026-03-27T11:20:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Trump’s Iran plan puts Obama’s cowardly nuke deal to shame",
@@ -231,78 +223,6 @@
       "url": "https://www.activistpost.com/weapons-of-mass-distraction-how-cognitive-and-influence-warfare-is-being-waged-against-you/",
       "source": "Activistpost.com",
       "publishedAt": "2026-03-27T02:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "G-7 Aims to Balance Addressing Russia-Ukraine, Iran Wars",
-      "url": "http://foreignpolicy.com/2026/03/26/g7-foreign-ministers-rubio-russia-ukraine-iran-wars-nato/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-03-26T21:07:22Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Israel Has Nuclear Weapons?",
-      "url": "https://www.antiwar.com/blog/2026/03/26/israel-has-nuclear-weapons/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-03-26T19:28:40Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The US-Israeli War on Iran Is Incentivizing Nuclear Proliferation",
-      "url": "https://truthout.org/articles/the-us-israeli-war-on-iran-is-incentivizing-nuclear-proliferation/",
-      "source": "Truthout",
-      "publishedAt": "2026-03-26T17:53:25Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea’s Kim meets Lukashenko, slams ‘pressure ​on Belarus from West’",
-      "url": "https://www.aljazeera.com/news/2026/3/26/north-koreas-kim-meets-lukashenko-slams-pressure-on-belarus-from-west",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-26T12:12:55Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Are we witnessing a 'Persian Spring'? Will the media notice?",
-      "url": "https://www.israelnationalnews.com/news/424618",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-03-26T11:35:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "North Korea, Belarus leaders meet in Pyongyang, sign friendship treaty",
-      "url": "https://abcnews.com/International/wireStory/north-korea-belarus-leaders-meet-pyongyang-sign-friendship-131423611",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-03-26T08:07:10Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iran, Trump and Strait of Hormuz – Who Is the “Bad Guy”?",
-      "url": "https://www.globalresearch.ca/iran-trump-strait-hormuz/5920136",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-03-26T06:56:47Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Japan, South Korea and Taiwan Expand Missile Capabilities Amid Regional Tensions",
-      "url": "https://www.naturalnews.com/2026-03-26-japan-south-korea-taiwan-expand-missile-capabilities.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-03-26T06:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The Latest Big Lie About the ‘Iran War’",
-      "url": "https://original.antiwar.com/david_stockman/2026/03/25/the-latest-big-lie-about-the-iran-war/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-03-26T00:01:56Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
     }

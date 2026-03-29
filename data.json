@@ -1,54 +1,166 @@
 {
-  "updated": "2026-03-29T08:02:48Z",
-  "count": 27,
+  "updated": "2026-03-29T14:04:16Z",
+  "count": 30,
   "articles": [
     {
-      "title": "Iranian Army drones strike major Israeli military logistics site",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260327-presstv15.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-28T08:02:46Z",
+      "title": "Israeli military kills three Palestinian men in Gaza, health officials say",
+      "url": "https://latest.neomag.pp.ua/blog/israeli-military-kills-three-palestinian-men-in-ga-israeli-military-kills-three-palestinian-134831501/",
+      "source": "Neomag.pp.ua",
+      "publishedAt": "2026-03-28T14:02:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Yemen’s Houthis Fire Ballistic Missiles at Israel, Declare War on Israel",
+      "url": "https://legalinsurrection.com/2026/03/yemens-houthis-fire-ballistic-missiles-at-israel-declare-war-on-israel/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-03-28T14:00:47Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "One month into Iran war, some Trump objectives are unfulfilled as he looks to wind down the conflict",
-      "url": "https://www.thehindubusinessline.com/news/world/one-month-into-iran-war-some-trump-objectives-are-unfulfilled-as-he-looks-to-wind-down-the-conflict/article70795369.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-03-28T07:48:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "Israeli military kills three Palestinian men in Gaza, health officials say",
+      "url": "https://www.straitstimes.com/world/middle-east/israeli-military-kills-three-palestinian-men-in-gaza-health-officials-say",
+      "source": "The Straits Times",
+      "publishedAt": "2026-03-28T13:52:38Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
-      "title": "Attacks across Middle East as Iran war enters second month",
-      "url": "https://www.hurriyetdailynews.com/attacks-across-middle-east-as-iran-war-enters-second-month-220395",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-03-28T07:41:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Yemen’s Houthis claim responsibility for a missile attack on Israel",
-      "url": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2",
+      "title": "Iran warns neighbours not to let ‘enemies run the war’ from their land",
+      "url": "https://www.aljazeera.com/news/2026/3/28/iran-warns-neighbours-not-to-let-enemies-run-the-war-from-their-land",
       "source": "Al Jazeera English",
-      "publishedAt": "2026-03-28T07:34:56Z",
+      "publishedAt": "2026-03-28T13:35:33Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran's IRGC claims to have targeted six tactical vessels of US military",
-      "url": "https://economictimes.indiatimes.com/news/defence/irans-irgc-claims-to-have-targeted-six-tactical-vessels-of-us-military/articleshow/129860819.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-28T07:25:59Z",
+      "title": "At least 15 US troops wounded in Iran strike on Saudi airbase: Reports",
+      "url": "https://www.aljazeera.com/news/2026/3/28/at-least-15-us-troops-wounded-in-iran-strike-on-saudi-airbase-reports",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-28T12:21:53Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Israel says missile launched from Yemen; 12 US soldiers reportedly injured in Iran attack",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/03/28/israel-says-missile-launched-from-yemen-12-us-soldiers-reportedly-injured-in-iran-attack/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-03-28T07:14:22Z",
+      "title": "Beware Hubris: Trump’s Iran War Has an Ozymandias Flavor",
+      "url": "https://www.fairobserver.com/world-news/middle-east-news/beware-hubris-trumps-iran-war-has-an-ozymandias-flavor/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-03-28T12:17:07Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "USS Gerald Ford Arrives in Croatia for Maintenance",
+      "url": "https://www.breitbart.com/europe/2026/03/28/uss-gerald-ford-arrives-in-croatia-for-maintenance/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-03-28T12:10:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Yemen's Houthis Enter Iran Conflict with Missile Targeting Israel",
+      "url": "https://www.breitbart.com/europe/2026/03/28/yemens-houthi-enter-iran-conflict-with-missile-targeting-israel/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-03-28T12:01:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Iran war has given Trump his best hand against China — now he shouldn’t fold",
+      "url": "https://nypost.com/2026/03/28/opinion/the-iran-war-has-given-trump-his-best-hand-against-china/",
+      "source": "New York Post",
+      "publishedAt": "2026-03-28T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Opinion: White House 'gamifying' Iran war updates",
+      "url": "https://www.npr.org/2026/03/28/nx-s1-5752219/opinion-white-house-gamifying-iran-war",
+      "source": "NPR",
+      "publishedAt": "2026-03-28T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Saturday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/03/28/saturday-hili-dialogue-577/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-03-28T11:45:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran strikes US base in Saudi Arabia; Yemen’s Houthis join the war",
+      "url": "https://www.politico.eu/article/iran-strikes-us-base-saudi-arabia-conflict-widens-middle-east-yemen-houthis-join-war/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-03-28T10:17:14Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran-backed Houthis fire missile at Israel from Yemen, risking further escalation",
+      "url": "https://www.nbcnews.com/world/iran/iran-backed-houthis-fire-missile-israel-yemen-risking-escalation-rcna265581",
+      "source": "NBC News",
+      "publishedAt": "2026-03-28T10:12:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S. troops injured in attack on Saudi base as the war reaches one month",
+      "url": "https://www.npr.org/2026/03/28/nx-s1-5764720/iran-war-one-month",
+      "source": "NPR",
+      "publishedAt": "2026-03-28T09:38:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Inside NATO's 'Sentry' missions and the urgent drive to ready for new threats",
+      "url": "https://www.businessinsider.com/inside-nato-sentry-missions-urgent-drive-ready-for-new-threats-2026-3",
+      "source": "Business Insider",
+      "publishedAt": "2026-03-28T09:32:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Where things stand 1 month into the war with Iran",
+      "url": "https://abcnews.com/International/things-stand-1-month-war-iran/story?id=131476152",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-03-28T09:21:37Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "UK commits £100 million air defence package for Ukraine to protect cities and critical infrastructure",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/03/ukraine-260327-ukmod01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-28T08:12:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Government to provide additional NOK 115 billion to strengthen Long-term Defence Plan",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260327-govno01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-28T08:12:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ministers of Defence of Poland and Estonia on security of the region and building drone capabilities",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260327-plmnd01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-28T08:11:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Secretary of State makes a statement to the media, emerging from the G7 summit amidst world leaders' outbursts.",
+      "url": "https://english.gossiplankanews.com/2026/03/us-secretary-of-state-makes-statement.html",
+      "source": "Gossiplankanews.com",
+      "publishedAt": "2026-03-28T08:10:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Voltaire, International Newsletter N°168",
@@ -57,62 +169,6 @@
       "publishedAt": "2026-03-28T07:13:31Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel detects missile fired from Yemen as strikes on Iran continue",
-      "url": "https://www.channelnewsasia.com/world/yemen-missile-israel-houthi-iran-strikes-6022981",
-      "source": "CNA",
-      "publishedAt": "2026-03-28T06:44:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran missile strike injures US troops in Saudi Arabia #world",
-      "url": "https://alltoc.com/world/iran-missile-strike-injures-us-troops-in-saudi-arabia",
-      "source": "Alltoc.com",
-      "publishedAt": "2026-03-28T06:04:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Houthis enter the war: “We launched ballistic missiles at Israel, we will continue until the attacks stop” (Update)",
-      "url": "https://en.protothema.gr/2026/03/28/houthis-enter-the-war-we-launched-ballistic-missiles-at-israel-we-will-continue-until-the-attacks-stop-update/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-03-28T06:04:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "One month into Iran war, some Trump objectives are unfulfilled as he looks to wind down the conflict",
-      "url": "https://abcnews.com/US/wireStory/month-iran-war-trump-objectives-unfulfilled-wind-conflict-131495585",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-03-28T05:34:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran-Israel War Day 29 Updates: Trump says Iran 'decimated', Tehran steps up attacks on Gulf as West Asia conflict rages",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-israel-war-news-day-29-middle-east-conflict-strait-of-hormuz-crude-oil-latest-news/articleshow/129859281.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-28T05:30:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel flags first Yemen missile threat in expanding West Asia war",
-      "url": "https://economictimes.indiatimes.com/news/defence/israel-flags-first-yemen-missile-threat-in-expanding-west-asia-war/articleshow/129858871.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-28T04:38:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "How the US-Israel war on Iran unfolded in its first four weeks",
-      "url": "https://www.aljazeera.com/news/2026/3/28/how-the-us-israel-war-on-iran-unfolded-in-its-first-four-weeks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-28T04:15:55Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Rubio pushes postwar plan for Strait of Hormuz after meeting G7 allies skeptical about Iran strategy",
@@ -153,38 +209,6 @@
       "publishedAt": "2026-03-27T14:54:06Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "The Fog of Foreknowledge Versus the Clarity of War",
-      "url": "https://www.fairobserver.com/devils-advocate/the-fog-of-foreknowledge-versus-the-clarity-of-war/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-03-27T14:33:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The First Post-Reality Political Campaign",
-      "url": "https://www.theatlantic.com/ideas/2026/03/hungary-first-post-reality-political-campaign/686565/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-03-27T14:31:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Norway to add more than $11bn to defence budget over 10 years",
-      "url": "https://www.aljazeera.com/news/2026/3/27/norway-to-add-more-than-11bn-to-defence-budget-over-10-years",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-27T14:31:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europe’s Blackout War",
-      "url": "https://www.dailysignal.com/2026/03/27/europes-blackout-war/",
-      "source": "Daily Signal",
-      "publishedAt": "2026-03-27T14:17:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Lavrov explains difference between Iran and Ukraine conflicts (FULL INTERVIEW)",

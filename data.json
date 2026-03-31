@@ -1,20 +1,156 @@
 {
-  "updated": "2026-03-31T05:57:39Z",
-  "count": 37,
+  "updated": "2026-03-31T09:46:24Z",
+  "count": 38,
   "articles": [
     {
-      "title": "Trump issues new threat to Iran's civilian infrastructure if a ceasefire isn't reached 'shortly'",
-      "url": "https://www.yahoo.com/news/articles/trump-mulls-seizing-iranian-island-055003275.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-03-30T05:50:03Z",
+      "title": "Iran’s Grip on Hormuz Is Tighter Than Ever After a Month of War",
+      "url": "https://financialpost.com/pmn/business-pmn/irans-grip-on-hormuz-is-tighter-than-ever-after-a-month-of-war",
+      "source": "Financial Post",
+      "publishedAt": "2026-03-30T09:40:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Escaping the Middle East: Inside the rush to evacuate",
+      "url": "https://abcnews.com/Politics/escaping-middle-east-inside-rush-evacuate/story?id=131525458",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-03-30T09:32:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UAE's biggest aluminum facility suffers heavy damage in Iranian strikes",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-presstv07.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-30T09:31:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IRGC strikes US-Israeli industrial sites in retaliation for infrastructure attacks",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-presstv11.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-30T09:31:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Over 500 US troops targeted in Dubai strikes; heavy casualties expected: Iran military",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-presstv16.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-30T09:31:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Israeli aggression on Iran: What happened on 29th day of the imposed war",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-30T09:31:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Israeli aggression on Iran: What happened on 28th day of the imposed war",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-presstv20.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-30T09:31:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian Strike Wounds US Troops In Saudi Arabia As Houthis Enter War",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-30T09:31:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian Army drones hit Israeli electronic warfare, radar systems in Haifa",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-presstv13.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-30T09:31:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran strikes depot of Ukrainian anti-drone systems in Dubai: Military official",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-presstv14.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-30T09:31:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Countries Attacking Iran's Nuclear Facilities Undermine Non-Proliferation Treaty — Russian MFA Spox",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-sputnik02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-30T09:31:19Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Houthis Strike Israel Again; More US Marines Arrive In Gulf Region",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260329-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-30T09:24:06Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Why have Sunni Arab states failed to defend themselves against Shiite Iran?",
-      "url": "https://www.israelnationalnews.com/news/424800",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-03-30T05:48:00Z",
+      "title": "Houthis Strike Israel Again, While Iran To Allow 'Nonhostile' Nations' Ships Through Strait",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260329-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-30T09:24:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US-Israeli aggression on Iran: What happened on 30th day of the imposed war",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260329-presstv03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-03-30T09:24:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Indonesia urges probe after UN peacekeeper killed in Lebanon",
+      "url": "https://en.antaranews.com/news/410418/indonesia-urges-probe-after-un-peacekeeper-killed-in-lebanon",
+      "source": "Antaranews.com",
+      "publishedAt": "2026-03-30T09:05:03Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump threatens to seize Kharg Island oil terminal, attacking Iran's energy infrastructure",
+      "url": "https://www.cbc.ca/news/world/iran-us-troops-israel-conflict-kharg-9.7146796",
+      "source": "CBC News",
+      "publishedAt": "2026-03-30T08:59:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran War Could Trigger Europe’s Next Refugee Crisis",
+      "url": "https://freerepublic.com/focus/f-chat/4372822/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-03-30T08:39:42Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Did Israel miscalculate in launching the war on Iran?",
+      "url": "https://www.aljazeera.com/opinions/2026/3/30/did-israel-miscalculate-in-launching-the-war-on-iran",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-30T08:13:40Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US-Israel war on Iran: What’s happening on day 31 of attacks",
+      "url": "https://www.aljazeera.com/economy/2026/3/30/us-israel-war-on-iran-whats-happening-on-day-31-of-attacks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-30T07:15:46Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -27,140 +163,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Donald Trump says he wants Iran’s oil and threatens to take Kharg Island ‘very easily’",
-      "url": "https://www.independent.ie/world-news/middle-east/donald-trump-says-he-wants-irans-oil-and-threatens-to-take-kharg-island-very-easily/a2120053173.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-03-30T05:20:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "'My Favorite Thing Is to Take the Oil in Iran' – Trump",
-      "url": "https://sputnikglobe.com/20260330/my-favorite-thing-is-to-take-the-oil-in-iran--trump-1123917174.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-03-30T05:14:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran-Israel War Day 31 Updates: Trump claims ‘regime change’ in Iran; Israel strikes Tehran as war crosses a month",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-war-news-day-31-strait-of-hormuz-us-israel-tehran-middle-east-war-latest-news/articleshow/129891754.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-30T05:10:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Troop Levels in Middle East Increase by 10,000, Surpassing 50,000 Total — Reports",
-      "url": "https://sputnikglobe.com/20260330/us-troop-levels-in-middle-east-increase-by-10000-surpassing-50000-total--reports-1123916840.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-03-30T05:01:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Middle East war raise legal questions with no clear forum for justice",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-war-legal-accountability-international-law-war-crimes-icc-limits-middle-east-conflict/articleshow/129891360.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-30T04:39:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Stock markets fall again, down 1% at open as West Asia war enters 5th week",
-      "url": "https://indianexpress.com/article/business/sensex-nifty-stock-market-bse-nse-iran-war-oil-prices-10608859/",
-      "source": "The Indian Express",
-      "publishedAt": "2026-03-30T04:08:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "G7 ministers set to tackle financial fallout of Mideast war",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/g7-ministers-set-to-tackle-financial-fallout-of-mideast-war/articleshow/129890940.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-30T04:06:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump calls Iran's current leaders 'very reasonable' as Pakistan prepares to host talks",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-calls-irans-current-leaders-very-reasonable-as-pakistan-prepares-to-host-talks/article70801683.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-03-30T04:06:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Real War Is About To Begin: Iran Enters Full-Scale Insurgency",
       "url": "https://intelnews.org/2026/03/30/01-3433/",
       "source": "Intelnews.org",
       "publishedAt": "2026-03-30T04:05:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Sensex crashes 1,100 pts, Nifty below 22,500: Brent near $120/bbl among 5 key factors behind today's Rs 7 lakh crore D-St rout",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-crashes-1100-pts-nifty-below-22500-oil-prices-near-120-among-5-key-factors-behind-todays-d-st-fall/articleshow/129890727.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-30T03:57:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Gold drops Rs 1,000/10 gms; silver falls 0.5% as Iran-US tensions boost dollar strength: What lies ahead?",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-rs-1000/10-gms-silver-falls-0-5-as-iran-us-tensions-boost-dollar-strength-what-lies-ahead/articleshow/129890990.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-30T03:56:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump calls Iran's current leaders 'very reasonable' as Pakistan prepares to host talks",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-calls-irans-current-leaders-very-reasonable-as-pakistan-prepares-to-host-talks/articleshow/129890761.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-30T03:39:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump: Direct, indirect Iran talks 'doing extremely well,' deal could be soon",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-03-30/ty-article-live/trump-direct-indirect-iran-talks-doing-extremely-well-deal-could-be-soon/0000019d-3cb9-d143-a1fd-3cbf17540000",
-      "source": "Haaretz",
-      "publishedAt": "2026-03-30T03:21:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "UN peacekeeper killed as projectile hits position in Lebanon",
-      "url": "https://www.israelnationalnews.com/news/424792",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-03-30T03:17:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump issues new warning to Iran over Strait of Hormuz",
-      "url": "https://www.rte.ie/news/middle-east/2026/0330/1565832-iran-war/",
-      "source": "RTE",
-      "publishedAt": "2026-03-30T03:09:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump calls Iran's current leaders 'very reasonable'",
-      "url": "https://www.rte.ie/news/middle-east/2026/0330/1565832-iran-israel-us/",
-      "source": "RTE",
-      "publishedAt": "2026-03-30T03:09:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Deal with Iran could be reached 'soon', says Trump",
-      "url": "https://www.rte.ie/news/middle-east/2026/0330/1565832-mid-east/",
-      "source": "RTE",
-      "publishedAt": "2026-03-30T03:09:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "After Hormuz, Is Taiwan The Next Economic Shock No One Is Ready For?",
@@ -295,8 +303,8 @@
       "url": "https://economictimes.indiatimes.com/news/international/world-news/the-war-with-iran-may-be-ushering-in-a-new-nuclear-age/articleshow/129876930.cms",
       "source": "The Times of India",
       "publishedAt": "2026-03-29T07:04:54Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "korea",
+      "_label": "N. Korea"
     }
   ]
 }

@@ -1,86 +1,230 @@
 {
-  "updated": "2026-03-31T09:46:24Z",
-  "count": 38,
+  "updated": "2026-03-31T15:53:56Z",
+  "count": 39,
   "articles": [
     {
-      "title": "Iran’s Grip on Hormuz Is Tighter Than Ever After a Month of War",
-      "url": "https://financialpost.com/pmn/business-pmn/irans-grip-on-hormuz-is-tighter-than-ever-after-a-month-of-war",
-      "source": "Financial Post",
-      "publishedAt": "2026-03-30T09:40:36Z",
+      "title": "Trump threatens to ‘blow up’ all desalination plants in Iran",
+      "url": "https://www.aljazeera.com/news/2026/3/30/trump-threatens-to-blow-up-all-desalination-plants-in-iran",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-30T15:51:18Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Escaping the Middle East: Inside the rush to evacuate",
-      "url": "https://abcnews.com/Politics/escaping-middle-east-inside-rush-evacuate/story?id=131525458",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-03-30T09:32:02Z",
+      "title": "Objective of Operation Epic Fury: Energetic Dominance",
+      "url": "https://www.globalresearch.ca/objective-operation-epic-fury-energetic-dominance/5920679",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-03-30T15:47:34Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "UAE's biggest aluminum facility suffers heavy damage in Iranian strikes",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-presstv07.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-30T09:31:19Z",
+      "title": "Trump Is Losing the War in Iran",
+      "url": "http://foreignpolicy.com/2026/03/30/trump-war-iran-israel-lebanon-gulf-winner-loser/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-03-30T15:43:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran’s oil windfall amid war with the US & Israel: How it exports up to 2.8 million barrels daily and who keeps buying",
+      "url": "https://en.protothema.gr/2026/03/30/irans-oil-windfall-amid-war-with-the-us-israel-how-it-exports-up-to-2-8-million-barrels-daily-and-who-keeps-buying/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-03-30T15:43:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "IRGC strikes US-Israeli industrial sites in retaliation for infrastructure attacks",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-presstv11.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-30T09:31:19Z",
+      "title": "‘Loyalty campaign’: Iraqi armed groups in Iran as US talks of ground war",
+      "url": "https://www.aljazeera.com/news/2026/3/30/loyalty-campaign-iraqi-armed-groups-in-iran-as-us-talks-of-ground",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-30T15:40:26Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Over 500 US troops targeted in Dubai strikes; heavy casualties expected: Iran military",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-presstv16.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-30T09:31:19Z",
+      "title": "You Can’t Judge the Iran War by Its Stats",
+      "url": "https://www.motherjones.com/politics/2026/03/iran-war-trump-bret-stephens-times-stats-bush-hussein/",
+      "source": "Mother Jones",
+      "publishedAt": "2026-03-30T15:29:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump: 'New' Iran Regime in Place and Talking, but U.S. Will Blow up Its Power Infrastructure if No Deal",
+      "url": "https://www.breitbart.com/middle-east/2026/03/30/trump-new-iran-regime-in-place-and-talking-but-u-s-will-blow-up-its-power-infrastructure-if-no-deal/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-03-30T14:51:20Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Putin’s Persian Problem",
+      "url": "http://foreignpolicy.com/2026/03/30/trump-putin-iran-war-hormuz-oil-israel-sanctions/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-03-30T14:31:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘Pakistan’s forums are their own; we didn’t participate’: Iran rejects mediation claim",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistans-forums-are-their-own-we-didnt-participate-iran-rejects-mediation-claim/articleshow/129903656.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-30T14:15:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "American-Born Israeli Killed in Combat in Lebanon",
+      "url": "https://www.newser.com/story/386345/american-born-israeli-killed-in-combat-in-lebanon.html",
+      "source": "Newser",
+      "publishedAt": "2026-03-30T14:07:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump issues new threat to Iran's energy infrastructure if a ceasefire isn't reached 'shortly'",
+      "url": "https://www.pbs.org/newshour/world/trump-issues-new-threat-to-irans-energy-infrastructure-if-a-ceasefire-isnt-reached-shortly",
+      "source": "PBS",
+      "publishedAt": "2026-03-30T14:06:07Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Floats Seizing Iran’s Oil While Predicting Imminent Deal",
+      "url": "https://oilprice.com/Energy/Energy-General/Trump-Floats-Seizing-Irans-Oil-While-Predicting-Imminent-Deal.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-03-30T14:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "HMA Moscow Nigel Casey's interview on UK-Russia relations",
+      "url": "https://www.gov.uk/government/news/hma-moscow-nigel-caseys-interview-on-uk-russia-relations",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-03-30T13:58:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli fire kills six in Gaza and the West Bank, medics say",
+      "url": "https://www.channelnewsasia.com/world/israeli-fire-kills-six-in-gaza-and-west-bank-medics-say-6025476",
+      "source": "CNA",
+      "publishedAt": "2026-03-30T13:56:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Explosive Misinformation: A Guide to Mushroom Clouds, ‘Sonic Weapons’, and Disintegration",
+      "url": "https://www.bellingcat.com/resources/2026/03/30/explosive-misinformation-a-guide-to-mushroom-clouds-sonic-weapons-and-disintegration/",
+      "source": "Bellingcat.com",
+      "publishedAt": "2026-03-30T13:46:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran calls US peace proposals 'unrealistic', oil rises amid new missile strikes",
+      "url": "https://www.channelnewsasia.com/world/iran-calls-us-peace-proposals-unrealistic-oil-rises-new-missile-strikes-6026041",
+      "source": "CNA",
+      "publishedAt": "2026-03-30T13:36:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Just 67,000 US Troops In Iran, Hanging Out And Being Bros",
+      "url": "https://www.wonkette.com/p/just-67000-us-troops-in-iran-hanging",
+      "source": "Wonkette.com",
+      "publishedAt": "2026-03-30T13:01:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "TRUMP THREATENS CIVILIAN INFRASTRUCTURE",
+      "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-30-2026-8abb0ee50be4cd8dd9ddde3a9d846ef8",
+      "source": "Associated Press",
+      "publishedAt": "2026-03-30T13:00:13Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Selected Articles: History of U.S.-NATO Wars: From Yugoslavia to Iran",
+      "url": "https://www.globalresearch.ca/selected-articles-history-us-nato-wars-yugoslavia-iran/5920561",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-03-30T12:50:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Report from Beirut: \"Hearts Are Very, Very Heavy\" After Israeli Strikes Target Journalists, Medics",
+      "url": "https://www.democracynow.org/2026/3/30/israel_lebanon",
+      "source": "Democracy Now!",
+      "publishedAt": "2026-03-30T12:46:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Senior Israeli Military Official Raises Concerns Over Troop Availability and Operational Capacity",
+      "url": "https://www.shtfplan.com/headline-news/senior-israeli-military-official-raises-concerns-over-troop-availability-and-operational-capacity",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-03-30T12:30:47Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "This is how Israel is systematically killing health workers under the cover of war in Lebanon",
+      "url": "https://www.trtworld.com/article/dbc13990fbbf",
+      "source": "TRT World",
+      "publishedAt": "2026-03-30T12:15:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "North Korea-Russia axis bolstered by Belarus",
+      "url": "https://www.dw.com/en/north-korea-russia-axis-bolstered-by-belarus/a-76591502",
+      "source": "DW (English)",
+      "publishedAt": "2026-03-30T11:30:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "How North Korea is using Belarus to deepen ties with Russia",
+      "url": "https://www.dw.com/en/how-north-korea-is-using-belarus-to-deepen-ties-with-russia/a-76591502",
+      "source": "DW (English)",
+      "publishedAt": "2026-03-30T11:30:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Cui Bono: From The Attacks That Tehran Claims It Never Carried Out?",
+      "url": "https://www.globalresearch.ca/cui-bono-attacks-tehran-claims-never-carried-out/5920537",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-03-30T11:29:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "America Is Now a Rogue Superpower",
+      "url": "https://www.theatlantic.com/international/2026/03/trump-us-power-iran/686567/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-03-30T11:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "World War III's first shots will be fired in space",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/world-war-iiis-first-shots-will-be-fired-in-space/articleshow/129897372.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-30T10:03:17Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "US-Israeli aggression on Iran: What happened on 29th day of the imposed war",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-presstv01.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-03-30T09:31:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Israeli aggression on Iran: What happened on 28th day of the imposed war",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-presstv20.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-30T09:31:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian Strike Wounds US Troops In Saudi Arabia As Houthis Enter War",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-30T09:31:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian Army drones hit Israeli electronic warfare, radar systems in Haifa",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-presstv13.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-30T09:31:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran strikes depot of Ukrainian anti-drone systems in Dubai: Military official",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260328-presstv14.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-30T09:31:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Countries Attacking Iran's Nuclear Facilities Undermine Non-Proliferation Treaty — Russian MFA Spox",
@@ -91,70 +235,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Houthis Strike Israel Again; More US Marines Arrive In Gulf Region",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260329-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-30T09:24:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Houthis Strike Israel Again, While Iran To Allow 'Nonhostile' Nations' Ships Through Strait",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260329-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-30T09:24:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US-Israeli aggression on Iran: What happened on 30th day of the imposed war",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260329-presstv03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-03-30T09:24:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Indonesia urges probe after UN peacekeeper killed in Lebanon",
-      "url": "https://en.antaranews.com/news/410418/indonesia-urges-probe-after-un-peacekeeper-killed-in-lebanon",
-      "source": "Antaranews.com",
-      "publishedAt": "2026-03-30T09:05:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump threatens to seize Kharg Island oil terminal, attacking Iran's energy infrastructure",
-      "url": "https://www.cbc.ca/news/world/iran-us-troops-israel-conflict-kharg-9.7146796",
-      "source": "CBC News",
-      "publishedAt": "2026-03-30T08:59:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran War Could Trigger Europe’s Next Refugee Crisis",
-      "url": "https://freerepublic.com/focus/f-chat/4372822/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-03-30T08:39:42Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Did Israel miscalculate in launching the war on Iran?",
-      "url": "https://www.aljazeera.com/opinions/2026/3/30/did-israel-miscalculate-in-launching-the-war-on-iran",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-30T08:13:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US-Israel war on Iran: What’s happening on day 31 of attacks",
-      "url": "https://www.aljazeera.com/economy/2026/3/30/us-israel-war-on-iran-whats-happening-on-day-31-of-attacks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-03-30T07:15:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Why are Chinese flights to North Korea resuming?",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/why-are-chinese-flights-to-north-korea-resuming/articleshow/129892368.cms",
       "source": "The Times of India",
@@ -163,36 +243,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "The Real War Is About To Begin: Iran Enters Full-Scale Insurgency",
-      "url": "https://intelnews.org/2026/03/30/01-3433/",
-      "source": "Intelnews.org",
-      "publishedAt": "2026-03-30T04:05:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "After Hormuz, Is Taiwan The Next Economic Shock No One Is Ready For?",
       "url": "https://www.tradingview.com/news/invezz:ddce851e3094b:0-after-hormuz-is-taiwan-the-next-economic-shock-no-one-is-ready-for/",
       "source": "Tradingview.com",
       "publishedAt": "2026-03-30T00:00:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "U.S. military needs to keep up as drones advance, former Marine says",
-      "url": "https://www.cbsnews.com/news/drone-military-innovation-ukraine-russia-us-iran-60-minutes/",
-      "source": "CBS News",
-      "publishedAt": "2026-03-29T23:33:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukrainians rapidly advance military drone technology in war with Russia",
-      "url": "https://www.cbsnews.com/news/ukraine-drone-innovation-helps-level-battlefield-war-with-russia-60-minutes-transcript/",
-      "source": "CBS News",
-      "publishedAt": "2026-03-29T23:33:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea conducts engine test for missile capable of reaching U.S. mainland",
@@ -207,32 +263,8 @@
       "url": "https://fortune.com/2026/03/29/iran-ukraine-wars-combatants-overlap-us-israel-russia-uae-saudi-arabia/",
       "source": "Fortune",
       "publishedAt": "2026-03-29T19:27:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Can Russia and China turn the Iran War into a long war Washington can’t win?",
-      "url": "https://freerepublic.com/focus/f-bloggers/4372756/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-03-29T18:38:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Transcript: Rep. Jim Himes on \"Face the Nation with Margaret Brennan,\" March 29, 2026",
-      "url": "https://www.cbsnews.com/news/jim-himes-connecticut-democrat-face-the-nation-transcript-03-29-2026/",
-      "source": "CBS News",
-      "publishedAt": "2026-03-29T16:08:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Is Trump about to Ditch Zelensky?",
-      "url": "https://www.globalresearch.ca/is-trump-about-to-ditch-zelensky/5920501",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-03-29T15:35:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "North Korea conducts engine test for missile capable of targeting U.S.",
@@ -275,34 +307,10 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Iran, Qatar and Trump’s New Gas Order: Was Europe’s Gas the Hidden Target?",
-      "url": "https://www.activistpost.com/iran-qatar-and-trumps-new-gas-order-was-europes-gas-the-hidden-target/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-03-29T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Punish Russia for Helping Iran Target the U.S. Military",
-      "url": "https://warontherocks.com/2026/03/punish-russia-for-helping-iran-target-the-u-s-military/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-03-29T07:30:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea conducts engine test for missile capable of targeting US mainland",
       "url": "https://nypost.com/2026/03/29/world-news/north-korea-conducts-engine-test-for-missile-capable-of-targeting-us-mainland/",
       "source": "New York Post",
       "publishedAt": "2026-03-29T07:10:45Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The war with Iran may be ushering in a new nuclear age",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/the-war-with-iran-may-be-ushering-in-a-new-nuclear-age/articleshow/129876930.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-29T07:04:54Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

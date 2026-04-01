@@ -1,54 +1,134 @@
 {
-  "updated": "2026-04-01T15:58:32Z",
-  "count": 35,
+  "updated": "2026-04-01T20:07:44Z",
+  "count": 38,
   "articles": [
+    {
+      "title": "Deterrent or danger: After Iran, are Saudi Arabia and Turkey next in line for nuclear weapons?",
+      "url": "https://www.dw.com/en/iran-war-nuclear-weapons-race-saudi-arabia-turkey-united-arab-emirates-egypt/a-76613406",
+      "source": "DW (English)",
+      "publishedAt": "2026-03-31T20:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran sets 24-hour deadline on missile threat. Here's what you should know this morning",
+      "url": "https://www.abc.net.au/news/2026-04-01/iran-israel-war-daily-news-briefing/106502926",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-03-31T19:52:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran’s military uses schools and civilian sites during US-Israeli war",
+      "url": "https://freerepublic.com/focus/f-news/4373052/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-03-31T19:06:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Post-war scenario: 'Israel to occupy border area land in south Lebanon'",
+      "url": "https://economictimes.indiatimes.com/news/defence/post-war-scenario-israel-to-occupy-border-area-land-in-south-lebanon/articleshow/129935387.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-31T18:59:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Four Ways the Iran War Could End",
+      "url": "https://www.theatlantic.com/politics/2026/03/four-ends-iran-war/686627/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-03-31T18:41:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Government needs to keep some ‘firepower’ in reserve during energy crisis, says Taoiseach",
+      "url": "https://www.irishtimes.com/politics/2026/03/31/government-needs-to-keep-some-firepower-in-reserve-during-energy-crisis-says-taoiseach/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-03-31T18:12:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Israel launch major attacks as Iranian authorities maintain defiance",
+      "url": "https://www.aljazeera.com/news/2026/3/31/us-israel-launch-major-attacks-as-iranian-authorities-maintain-defiance",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-31T18:07:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Adam Kinzinger: The Prospects in the Iran War Mess",
+      "url": "https://dianeravitch.net/2026/03/31/adam-kinzinger-the-prospects-in-the-iran-war-mess/",
+      "source": "Dianeravitch.net",
+      "publishedAt": "2026-03-31T18:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "One month of war on Iran cost Arab countries up to $194bn: UNDP",
+      "url": "https://www.aljazeera.com/news/2026/3/31/one-month-of-war-in-middle-east-cost-arab-states-up-to-194bn-undp",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-03-31T17:48:57Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Gulf allies privately make case to keep fighting until Iran is decisively defeated",
+      "url": "https://www.pbs.org/newshour/world/gulf-allies-privately-make-case-to-keep-fighting-until-iran-is-decisively-defeated",
+      "source": "PBS",
+      "publishedAt": "2026-03-31T17:43:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Threatens to Attack U.S. Tech Companies Starting April 1",
+      "url": "https://gizmodo.com/iran-threatens-to-attack-u-s-tech-companies-starting-april-1-2000740363",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-03-31T17:35:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Europe hardens opposition to Trump’s Iran war demands",
+      "url": "https://www.politico.eu/article/europe-hardens-opposition-trump-iran-war-demands/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-03-31T17:17:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel says it will occupy swathe of south Lebanon after war",
+      "url": "https://timesofmalta.com/article/israel-says-occupy-swathe-south-lebanon-war.1126302",
+      "source": "Times of Malta",
+      "publishedAt": "2026-03-31T16:40:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel To Destroy 'All Houses' Near Lebanon Border, Defence Minister Says",
+      "url": "https://www.huffpost.com/entry/israel-lebanon-border-destruction_n_69cbf783e4b039d10fc73eea",
+      "source": "HuffPost",
+      "publishedAt": "2026-03-31T16:40:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Why India is doubling down on Russian air defense systems",
       "url": "https://www.rt.com/india/636808-india-russia-air-defense-s400/",
       "source": "RT",
       "publishedAt": "2026-03-31T15:46:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "FO Exclusive: The Dangerous Implications of the New US/Israel–Iran War",
-      "url": "https://www.fairobserver.com/world-news/middle-east-news/fo-exclusive-the-dangerous-implications-of-the-new-us-israel-iran-war/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-03-31T15:09:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Marco Rubio Tells Americans to Dream of a Nation That Spends on Its People Instead of Weapons...",
-      "url": "https://www.jezebel.com/marco-rubio-tells-americans-to-dream-of-a-nation-that-spends-on-its-people-instead-of-weapons",
-      "source": "Jezebel",
-      "publishedAt": "2026-03-31T15:07:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Europe pushes back on US military operations as concerns over Iran war mount",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/europe-pushes-back-on-us-military-operations-as-concerns-over-iran-war-mount/articleshow/129929882.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-03-31T15:06:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Attack kills top Iranian general, family members: IRGC [Jamshid Eshaghi]",
       "url": "https://freerepublic.com/focus/f-news/4373016/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-03-31T14:56:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Markets cheer as Trump threatens to abandon Iran War, but Jamie Dimon sides with allies: ‘win this thing and clean up the straits’",
-      "url": "https://fortune.com/2026/03/31/nasdaq-sp-rally-iran-war-trump-strait-hormuz-gas-prices-crude-oil/",
-      "source": "Fortune",
-      "publishedAt": "2026-03-31T14:53:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "After the Iran war: 5 possible outcomes and 4 ways Canada can flex its middle-power muscle",
@@ -63,24 +143,24 @@
       "url": "https://www.nybooks.com/online/2026/03/31/timid-europe-iran-war/",
       "source": "The New York Review of Books",
       "publishedAt": "2026-03-31T14:47:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "What the State Department Got Wrong With the Iran War Evacuations",
       "url": "http://foreignpolicy.com/2026/03/31/iran-war-us-evacuations-state-department-failures/",
       "source": "Foreign Policy",
       "publishedAt": "2026-03-31T14:46:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israel’s War with Iran Reflects its New Regional Strategy",
       "url": "https://blogs.lse.ac.uk/mec/2026/03/31/israels-war-with-iran-reflects-its-new-regional-strategy/",
       "source": "Lse.ac.uk",
       "publishedAt": "2026-03-31T14:17:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Zelensky’s moves in the Middle East",
@@ -99,14 +179,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Israel’s campaign against Hezbollah is raising sectarian tensions in Lebanon",
-      "url": "https://theconversation.com/israels-campaign-against-hezbollah-is-raising-sectarian-tensions-in-lebanon-279593",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-03-31T13:20:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Moscow is profiting from the Iran war for now — but experts say Russia's economy is in the 'death zone'",
       "url": "https://www.cnbc.com/2026/03/31/russia-energy-price-revenues-windfall-economic-outlook-inflation-putin-moscow.html",
       "source": "CNBC",
@@ -115,44 +187,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran attacks Gulf, Israeli infrastructure and Trump considers a big strike to wipe out drinking water supplies",
-      "url": "https://fortune.com/2026/03/31/will-trump-attack-drinking-water-iran-infrastructure/",
-      "source": "Fortune",
-      "publishedAt": "2026-03-31T13:03:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Who Is Spying on America's Nuclear Triad?",
       "url": "https://dnyuz.com/2026/03/31/who-is-spying-on-americas-nuclear-triad/",
       "source": "Dnyuz.com",
       "publishedAt": "2026-03-31T12:40:36Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Türkiye condemns killing of three UN troops in Lebanon",
-      "url": "https://www.hurriyetdailynews.com/turkiye-condemns-killing-of-three-un-troops-in-lebanon-220500",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-03-31T12:03:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump launches scathing attack on UK and other allies: ‘The US won’t be there to help you anymore’ and warns ‘you’ll have to fight for yourself’",
-      "url": "https://www.independent.ie/world-news/middle-east/trump-launches-scathing-attack-on-uk-and-other-allies-the-us-wont-be-there-to-help-you-anymore-and-warns-youll-have-to-fight-for-yourself/a2120053173.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-03-31T11:35:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Numbers disclosed: IDF eliminated about 900 Hezbollah terrorists",
-      "url": "https://www.israelnationalnews.com/news/424880",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-03-31T11:16:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "America Needs to Get Serious About Drones",
@@ -183,22 +223,6 @@
       "url": "https://www.npr.org/2026/03/31/nx-s1-5766991/iran-war-lebanon-israel-dubai",
       "source": "NPR",
       "publishedAt": "2026-03-31T10:12:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "U.S. Must Pass Three Critical Tests To Safeguard National Security",
-      "url": "https://www.forbes.com/sites/steveforbes/2026/03/31/us-must-pass-three-critical-tests-to-safeguard-national-security/",
-      "source": "Forbes",
-      "publishedAt": "2026-03-31T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US seeks to pass the buck on Hormuz crisis",
-      "url": "https://www.rt.com/news/636812-homuz-control-coalition-rubio/",
-      "source": "RT",
-      "publishedAt": "2026-03-31T08:39:02Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

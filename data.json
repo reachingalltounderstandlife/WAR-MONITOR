@@ -1,14 +1,134 @@
 {
-  "updated": "2026-04-02T05:52:08Z",
-  "count": 26,
+  "updated": "2026-04-02T09:41:23Z",
+  "count": 30,
   "articles": [
     {
-      "title": "Trump says war will end in ‘two or three weeks’; US-Nato relationship strained",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/04/01/iran-war-latest-trump-us-news-israel-oil/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-04-01T05:49:21Z",
+      "title": "Iran Hits Tanker Off Coast Of Qatar, Kuwait Airport And Israel Kills 5 In Beirut Attack",
+      "url": "https://www.huffpost.com/entry/iran-us-war_n_69ccdd19e4b0a891ea427699",
+      "source": "HuffPost",
+      "publishedAt": "2026-04-01T09:03:37Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "One Month at War With Iran — Can Washington define victory?",
+      "url": "https://www.foxnews.com/opinion/one-month-at-war-with-iran-can-washington-define-victory",
+      "source": "Fox News",
+      "publishedAt": "2026-04-01T09:00:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Contestation, crisis and choice: The EU’s opportunity on energy",
+      "url": "https://www.iss.europa.eu/publications/commentary/contestation-crisis-and-choice-eus-opportunity-energy",
+      "source": "Europa.eu",
+      "publishedAt": "2026-04-01T08:30:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Not a very good arrangement’: Rubio warns US will rethink NATO after Iran war",
+      "url": "https://www.politico.eu/article/marco-rubio-warns-us-may-rethink-nato-after-iran-war/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-04-01T07:48:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Talks Iran War End Even as Attacks Continue Across Region",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-talks-iran-war-end-even-as-attacks-continue-across-region",
+      "source": "Financial Post",
+      "publishedAt": "2026-04-01T07:47:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Israeli aggression on Iran: What happened on 32nd day of the imposed war",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260401-presstv02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-01T07:45:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Israeli aggression on Iran: What happened on 31st day of the imposed war",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260331-presstv16.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-01T07:45:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Baiba Braže from Bucha, Ukraine: The establishment of a Special Tribunal will send a strong political signal to the aggressor, Russia - justice will always prevail, and impunity will not be tolerated",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/03/ukraine-260331-latvia-mfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-01T07:45:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "New Executions A Sign Of Growing Repression In Iran Amid War",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/03/iran-260331-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-01T07:45:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon at 'breaking point' as displacement soars and strikes intensify",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260331-unnews01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-01T07:45:04Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "UN condemns killing of two more peacekeepers in Lebanon",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/03/mil-260331-unnews03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-01T07:44:49Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran hits tanker off coast of Qatar, Kuwait airport and Israel kills 5 in Beirut attack",
+      "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-1-2026-19cf516c2d2c614eb182dbad7a6592ef",
+      "source": "Associated Press",
+      "publishedAt": "2026-04-01T07:38:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Arsenal as the Battlefield: The War on Iran and the Return of Counter-Industrial Targeting",
+      "url": "https://warontherocks.com/2026/04/the-arsenal-as-the-battlefield-the-war-on-iran-and-the-return-of-counter-industrial-targeting/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-04-01T07:15:06Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Iran launches dispersal bomb attack on central Israel as Trump signals end to conflict",
+      "url": "https://en.protothema.gr/2026/04/01/iran-launches-dispersal-bomb-attack-on-central-israel-as-trump-signals-end-to-conflict/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-04-01T07:10:32Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran war: What is happening on day 33 of US-Israel attacks?",
+      "url": "https://www.aljazeera.com/news/2026/4/1/iran-war-what-is-happening-on-day-33-of-us-israel-attacks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-01T07:01:14Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Netanyahu: Iran No Longer Existential Threat — Joint Op ‘Crushed Terror Regime’; Trump says War ‘Won’t Last Much Longer’",
+      "url": "https://www.breitbart.com/politics/2026/03/31/netanyahu-iran-no-longer-existential-threat-joint-op-crushed-terror-regime/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-04-01T05:59:44Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Lebanon says Israeli strikes on Beirut area kill at least 7",
@@ -17,46 +137,6 @@
       "publishedAt": "2026-04-01T05:45:39Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Trump lashes out at allies, says securing Strait of Hormuz is ‘not for us’",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-lashes-out-at-allies-says-securing-strait-of-hormuz-is-not-for-us/article70809913.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-04-01T05:32:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says securing Strait of Hormuz is ‘not for us’, estimates US will be finished attacking Iran in ‘two to three weeks’",
-      "url": "https://www.independent.ie/world-news/middle-east/trump-says-securing-strait-of-hormuz-is-not-for-us-estimates-us-will-be-finished-attacking-iran-in-two-to-three-weeks/a2120053173.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-01T05:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran War Day 33 Updates: Trump may call it quits on war; Tehran’s continued attacks on the Gulf as the world watches West Asia",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-israel-iran-war-news-day-33-donald-trump-strait-of-hormuz-middle-east-war-crude-oil-latest-news/articleshow/129942225.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-01T05:26:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran War Updates: Key events in the last 24 hours",
-      "url": "https://english.gossiplankanews.com/2026/04/iran-war-updates-key-events-in-last-24.html",
-      "source": "Gossiplankanews.com",
-      "publishedAt": "2026-04-01T05:20:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "'More than 4,000 targets hit, over 10,000 terror components struck': Israel Defence Forces claims targets struck in Iran",
-      "url": "https://economictimes.indiatimes.com/news/defence/more-than-4000-targets-hit-over-10000-terror-components-struck-israel-defence-forces-claims-targets-struck-in-iran/articleshow/129941652.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-01T04:49:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "The French Straw Just Broke NATO's Back",
@@ -73,38 +153,6 @@
       "publishedAt": "2026-04-01T04:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "How many people have been killed in the Iran war?",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/how-many-people-have-been-killed-in-the-iran-war/articleshow/129939871.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-01T02:46:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says U.S. could end war in Iran in two to three weeks",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-04-01/ty-article-live/trump-says-u-s-could-end-war-in-iran-in-two-to-three-weeks/0000019d-46c7-d905-a39d-d6c7eaa90000",
-      "source": "Haaretz",
-      "publishedAt": "2026-04-01T02:11:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon says Israeli strikes on Beirut area kill 7",
-      "url": "https://economictimes.indiatimes.com/news/defence/lebanon-says-israeli-strikes-on-beirut-area-kill-7/articleshow/129939408.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-01T02:10:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Rubio says US can see 'finish line' on Iran war",
-      "url": "https://economictimes.indiatimes.com/news/defence/rubio-says-us-can-see-finish-line-on-iran-war/articleshow/129939303.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-01T02:00:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Will Russia Send Its Troops To Iran To Expand Their Military Axis?",
@@ -167,22 +215,6 @@
       "url": "https://www.cnbc.com/2026/03/31/russia-energy-price-revenues-windfall-economic-outlook-inflation-putin-moscow.html",
       "source": "CNBC",
       "publishedAt": "2026-03-31T13:13:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Who Is Spying on America's Nuclear Triad?",
-      "url": "https://dnyuz.com/2026/03/31/who-is-spying-on-americas-nuclear-triad/",
-      "source": "Dnyuz.com",
-      "publishedAt": "2026-03-31T12:40:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "America Needs to Get Serious About Drones",
-      "url": "https://www.theatlantic.com/international/2026/03/nuclear-drones-spy-barksdale/686619/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-03-31T11:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

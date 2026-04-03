@@ -1,30 +1,198 @@
 {
-  "updated": "2026-04-02T20:01:36Z",
-  "count": 35,
+  "updated": "2026-04-03T05:52:03Z",
+  "count": 33,
   "articles": [
     {
-      "title": "Is the U.S. Navy ready to clear sea mines in the Persian Gulf?",
-      "url": "https://www.npr.org/2026/04/01/nx-s1-5766222/mines-persian-gulf-strait-navy-lcs",
-      "source": "NPR",
-      "publishedAt": "2026-04-01T19:54:36Z",
+      "title": "Iran says war will continue till ‘enemy’s surrender’, warns US-Israel of ‘more destructive’ actions",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-vows-war-to-continue-till-enemys-surrender-warns-us-israel-of-more-destructive-actions/articleshow/129968702.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-02T05:50:10Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Trump speech tonight: What to expect from presidential address to nation on Iran War and what time is Trump speaking today - here's the latest update",
-      "url": "https://economictimes.indiatimes.com/news/international/us/trump-speech-tonight-what-to-expect-from-presidential-address-to-nation-on-iran-war-and-what-time-is-trump-speaking-today-heres-the-latest-update/articleshow/129961401.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-01T19:49:47Z",
+      "title": "China, Pakistan Plan Focuses On Iran War Cease-Fire, Opening Strait of Hormuz",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260402-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-02T05:45:42Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "China, Pakistan Plan Focuses On Iran War Cease-Fire, Opening Strait of Hormuz",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260401-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-02T05:39:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Iran War Day 34 Updates: Trump claims victory, Iran's President addresses Americans & Gulf continues to face Tehran's wrath",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-iran-war-day-34-donald-trump-news-strait-of-hormuz-iran-israel-drone-attack-latest-news/articleshow/129968517.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-02T05:39:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump's speech was significant for what he did not say",
+      "url": "https://www.abc.net.au/news/2026-04-02/donald-trump-addresses-nation-on-iran-war-analysis/106524864",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-02T05:32:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump tells US that Iran war victory near, but vows big strikes",
+      "url": "https://www.thejournal.ie/in-an-evening-speech-from-the-white-house-the-us-president-broke-little-new-ground-on-how-the-war-would-end-7001354-Apr2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-04-02T05:32:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "5 takeaways from Donald Trump's televised address",
+      "url": "https://www.rte.ie/news/us/2026/0402/1566388-trump-takeaways/",
+      "source": "RTE",
+      "publishedAt": "2026-04-02T05:32:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s primetime speech on Iran war: Key takeaways",
+      "url": "https://www.aljazeera.com/news/2026/4/2/trumps-primetime-speech-on-iran-war-key-takeaways",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-02T05:15:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘We have all cards, they have none’ – Five takeaways from Trump's televised speech to the US",
+      "url": "https://www.independent.ie/world-news/north-america/we-have-all-cards-they-have-none-five-takeaways-from-trumps-televised-speech-to-the-us/a1746816177.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-02T05:15:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Build up some delayed courage and grab Strait of Hormuz’ – Five takeaways from Trump's televised speech to the US",
+      "url": "https://www.independent.ie/world-news/north-america/build-up-some-delayed-courage-and-grab-strait-of-hormuz-five-takeaways-from-trumps-televised-speech-to-the-us/a1746816177.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-02T05:15:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran fires missiles at Israel after Trump threatens weeks of strikes",
+      "url": "https://www.digitaljournal.com/world/iran-fires-missiles-at-israel-after-trump-threatens-weeks-of-strikes/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-02T05:12:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Transatlantic rift widens as Trump lashes out at Nato allies over Iran war",
+      "url": "https://www.independent.ie/world-news/middle-east/transatlantic-rift-widens-as-trump-lashes-out-at-nato-allies-over-iran-war/a502521781.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-02T04:30:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Making a killing: Boom times for Europe’s defence industry",
+      "url": "https://www.irishtimes.com/world/europe/2026/04/02/rapidly-expanding-czech-defence-supplier-has-done-very-well-out-of-ukraine-war/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-02T04:07:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Is this the beginning of the end of the war in Iran?",
+      "url": "https://www.vox.com/politics/484675/trump-iran-speech-war-strait-hormuz",
+      "source": "Vox",
+      "publishedAt": "2026-04-02T02:10:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel Is Making Sure Trump Can’t Find an Off-Ramp in Iran",
+      "url": "https://original.antiwar.com/cook/2026/04/01/israel-is-making-sure-trump-cant-find-an-off-ramp-in-iran/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-04-02T00:00:49Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Geopolitics of the Third World War",
+      "url": "https://www.activistpost.com/geopolitics-of-the-third-world-war/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-04-02T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "'I came, I saw, I conquered': Trump set to claim victory in Iran at primetime address",
+      "url": "https://www.businessinsider.com/trump-speech-declare-iran-war-ending-resolve-hormuz-2026-4",
+      "source": "Business Insider",
+      "publishedAt": "2026-04-01T21:54:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelenskyy says U.S. talks 'positive,' Russian response to truce offer was strikes",
+      "url": "https://japantoday.com/category/world/zelenskiy-says-us-talks-positive-russian-response-to-truce-offer-was-strikes",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-01T21:37:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump threatens NATO exit, saying he is disgusted with allies",
+      "url": "https://japantoday.com/category/world/trump-threatens-nato-exit-scaling-up-tensions-with-allies2",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-01T21:36:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Bullying Allies To Help in Iran Suggests He Knows the War Is Not Going Well",
+      "url": "https://reason.com/2026/04/01/trump-bullying-allies-to-help-in-iran-suggests-he-knows-the-war-is-not-going-well/",
+      "source": "Reason",
+      "publishedAt": "2026-04-01T21:07:25Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iranian President Clarifies: That Whole 'Death to America' Was a Misunderstanding; 'We Really Meant Health to America!' • Genesius Times",
+      "url": "https://genesiustimes.com/iranian-president-clarifies-that-whole-death-to-america-was-a-misunderstanding-we-really-meant-health-to-america/",
+      "source": "Genesiustimes.com",
+      "publishedAt": "2026-04-01T20:51:43Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump Mulls Pulling U.S. Out of NATO",
+      "url": "http://foreignpolicy.com/2026/04/01/trump-nato-iran-war-paper-tiger-starmer-strait-hormuz/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-04-01T20:50:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trans-Atlantic Rift Widens As Trump Lashes Out At NATO Allies Over Iran War",
+      "url": "https://www.huffpost.com/entry/trans-atlantic-rift-widens-trump-lashes-out-nato-allies-iran-war_n_69cd826ee4b0a891ea4350ab",
+      "source": "HuffPost",
+      "publishedAt": "2026-04-01T20:47:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Ireland among 15 European nations to say it is 'appalled by escalation of violence in Lebanon'",
       "url": "https://www.thejournal.ie/ireland-among-nations-to-say-it-is-appalled-by-escalation-of-violence-lebanon-7001208-Apr2026/",
       "source": "TheJournal.ie",
       "publishedAt": "2026-04-01T19:49:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran briefing: Trump says Iran's 'new president' asked for truce but there isn't one",
@@ -33,22 +201,6 @@
       "publishedAt": "2026-04-01T19:41:53Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Crypto faces a new risk as Iran threatens major US companies in the Middle East",
-      "url": "https://cryptoslate.com/iran-threat-us-companies-crypto-risk/",
-      "source": "CryptoSlate",
-      "publishedAt": "2026-04-01T19:40:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war may depend on who runs out of missiles and interceptors first",
-      "url": "https://www.abc.net.au/news/2026-04-02/us-israel-gulf-states-burn-through-weapons-supplies-iran-war/106489382",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-01T19:13:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Lebanese Army Withdraws from Christian Villages, Leaving Locals Exposed on Holy Week",
@@ -67,22 +219,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "WATCH LIVE: President Trump addresses the nation",
-      "url": "https://www.pbs.org/newshour/world/watch-live-president-trump-addresses-the-nation",
-      "source": "PBS",
-      "publishedAt": "2026-04-01T19:00:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Crisis mode: Western leaders demand more sacrifices from their people",
-      "url": "https://www.rt.com/news/636985-starmer-albanese-iran-energy/",
-      "source": "RT",
-      "publishedAt": "2026-04-01T18:38:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump Just Made His Harshest Threat Against NATO. Here's Why It Could Be a Game Changer.",
       "url": "https://freerepublic.com/focus/f-news/4373215/posts",
       "source": "Freerepublic.com",
@@ -91,82 +227,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Waiting for the War to End in Tehran",
-      "url": "http://foreignpolicy.com/2026/04/01/iran-war-trump-united-states-patriotism-protest-end/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-01T17:59:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Tehran’s friends are about to make life much more difficult for Iran and the US",
-      "url": "https://www.rt.com/news/636970-iran-friends-war-us-israel/",
-      "source": "RT",
-      "publishedAt": "2026-04-01T17:42:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran rejects Trump claim that it asked for a ceasefire (PHOTOS, VIDEOS)",
-      "url": "https://www.rt.com/news/636981-iran-war-us-israel-trump/",
-      "source": "RT",
-      "publishedAt": "2026-04-01T17:31:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel Eliminates Hezbollah’s Southern Front Commander, IRGC’s Master Tunnel Builder",
-      "url": "https://legalinsurrection.com/2026/04/israel-eliminates-hezbollahs-southern-front-commander-irgcs-master-tunnel-builder/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-04-01T17:00:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Western Commanders Acknowledge Russia’s Gains in NATO-occupied Ukraine. “Has Russia Already Won”?",
       "url": "https://www.globalresearch.ca/western-commanders-acknowledge-russias-gains-in-nato-occupied-ukraine-has-russia-already-won/5920793",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-04-01T16:56:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "No Kings Day: Knowing Without Feeling",
-      "url": "https://www.globalresearch.ca/no-kings-day-knowing-without-feeling/5920522",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-01T16:53:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu casts Iran war as modern Exodus in Passover address",
-      "url": "https://www.jns.org/news/israel-news/netanyahu-casts-iran-war-as-modern-exodus",
-      "source": "JNS.org",
-      "publishedAt": "2026-04-01T16:44:05Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Battle for Hungary: Could an Orban win trigger ‘Maidan on steroids’?",
-      "url": "https://www.rt.com/news/636875-hungary-ukraine-maidan-orban/",
-      "source": "RT",
-      "publishedAt": "2026-04-01T16:24:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trans-Atlantic rift widens as Trump lashes out at NATO allies over Mideast war",
-      "url": "https://abcnews.com/Business/wireStory/trans-atlantic-rift-widens-trump-lashes-nato-allies-131616096",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-01T15:36:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump’s NATO threat could be India’s biggest defence break",
-      "url": "https://economictimes.indiatimes.com/news/defence/trumps-nato-threat-could-be-indias-biggest-defence-break/articleshow/129955437.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-01T14:57:24Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -179,52 +243,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "The Trump Economic Effect: “Make America’s Billionaires Bigger Again” (MABBA)",
-      "url": "https://www.globalresearch.ca/trump-make-america-billionaires-bigger-again/5920802",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-01T14:05:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Impact of US pulling out of NATO as Trump is ‘seriously considering move’",
-      "url": "https://www.ladbible.com/news/us-news/us-pulling-out-nato-impact-trump-553026-20260401",
-      "source": "LADbible",
-      "publishedAt": "2026-04-01T13:02:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia and Ukraine Set to Intensify War as World Focuses on Iran",
-      "url": "https://www.insurancejournal.com/news/international/2026/04/01/864208.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-04-01T12:58:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Will a New Nuclear Arms Race Make Us More Secure?",
       "url": "https://www.commondreams.org/opinion/new-nuclear-arms-race-2676644499",
       "source": "Common Dreams",
       "publishedAt": "2026-04-01T11:32:01Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Trump Considering Withdrawing U.S. From 'Paper Tiger' NATO Over Europe's Failure to Reciprocate",
-      "url": "https://www.breitbart.com/europe/2026/04/01/trump-considering-withdrawing-u-s-from-paper-tiger-nato/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-04-01T11:24:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump says he's considering pulling U.S. out of 'paper tiger' NATO",
-      "url": "https://www.cnbc.com/2026/04/01/trump-says-hes-considering-pulling-us-out-of-paper-tiger-nato.html",
-      "source": "CNBC",
-      "publishedAt": "2026-04-01T10:08:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "The Arsenal as the Battlefield: The War on Iran and the Return of Counter-Industrial Targeting",
@@ -239,46 +263,6 @@
       "url": "https://www.independent.ie/world-news/north-america/andreas-kluth-why-world-war-iiis-first-shots-will-probably-be-fired-in-space/a2052534502.html",
       "source": "Independent.ie",
       "publishedAt": "2026-04-01T04:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Victor Davis Hanson: Is Iran War Legal? Yes",
-      "url": "https://www.dailysignal.com/2026/03/31/victor-davis-hanson-is-iran-war-legal-yes/",
-      "source": "Daily Signal",
-      "publishedAt": "2026-03-31T20:30:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Deterrent or danger: After Iran, are Saudi Arabia and Turkey next in line for nuclear weapons?",
-      "url": "https://www.dw.com/en/iran-war-nuclear-weapons-race-saudi-arabia-turkey-united-arab-emirates-egypt/a-76613406",
-      "source": "DW (English)",
-      "publishedAt": "2026-03-31T20:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Bring on the Iranian Nuke",
-      "url": "https://www.globalresearch.ca/bring-iranian-nuke/5920689",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-03-31T10:43:52Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The Cost of Hesitation: Why “Finishing the Mission” is Imperative in Iran",
-      "url": "https://warontherocks.com/2026/03/the-cost-of-hesitation-why-finishing-the-mission-is-imperative-in-iran/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-03-31T07:15:53Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Donald Trump issues new threat to obliterate Iran after his peace plan rejected",
-      "url": "https://www.independent.ie/world-news/north-america/donald-trump-issues-new-threat-to-obliterate-iran-after-his-peace-plan-rejected/a749696477.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-03-31T04:30:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
     }

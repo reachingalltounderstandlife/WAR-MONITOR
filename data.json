@@ -1,86 +1,118 @@
 {
-  "updated": "2026-04-03T05:52:03Z",
-  "count": 33,
+  "updated": "2026-04-03T08:36:01Z",
+  "count": 31,
   "articles": [
     {
-      "title": "Iran says war will continue till ‘enemy’s surrender’, warns US-Israel of ‘more destructive’ actions",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-vows-war-to-continue-till-enemys-surrender-warns-us-israel-of-more-destructive-actions/articleshow/129968702.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-02T05:50:10Z",
+      "title": "Iran’s ex-foreign minister Kharazi ‘gravely wounded’ in attack on his home",
+      "url": "https://www.aljazeera.com/news/2026/4/2/irans-ex-foreign-minister-kharazi-gravely-wounded-in-attack-on-his-home",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-02T08:13:39Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "China, Pakistan Plan Focuses On Iran War Cease-Fire, Opening Strait of Hormuz",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260402-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-02T05:45:42Z",
+      "title": "Iran warns against “Cycle of war and ceasefire” after Trump threatens escalation",
+      "url": "https://en.protothema.gr/2026/04/02/iran-warns-against-cycle-of-war-and-ceasefire-after-trump-threatens-escalation/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-04-02T08:02:15Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "China, Pakistan Plan Focuses On Iran War Cease-Fire, Opening Strait of Hormuz",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260401-rferl03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-02T05:39:29Z",
+      "title": "What Trump's prime-time TV pitch means for war on Iran",
+      "url": "https://www.cbc.ca/news/world/trump-iran-war-address-to-the-nation-whats-next-9.7150819",
+      "source": "CBC News",
+      "publishedAt": "2026-04-02T08:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Iran war: What is happening on day 34 of US-Israel attacks?",
+      "url": "https://www.aljazeera.com/news/2026/4/2/iran-war-what-is-happening-on-day-34-of-us-israel-attacks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-02T07:50:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "They Planned Their Escape: A Systems Architect's Guide to the Iran Trade Scandal",
+      "url": "https://60tb.tech/posts/iran-trade-scandal.html",
+      "source": "60tb.tech",
+      "publishedAt": "2026-04-02T07:43:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says Iran War May End Soon, Warns Of NATO Exit",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260401-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-02T06:44:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Yemen hits sensitive Israeli targets in third strike since joining Iran-led resistance",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260401-presstv03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-02T06:44:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon at 'breaking point' as displacement soars and strikes intensify",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260401-azertac02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-02T06:44:53Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran rejects 'American dream' of sacrificing defense to let US 'seize oil fields in 48 hours'",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260401-presstv19.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-02T06:44:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah hits Israeli bases with drones, rockets as Netanyahu unveils 'Greater Israel' scheme",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260401-presstv02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-02T06:44:28Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran fires missiles at Israel after Trump threatens weeks of strikes",
+      "url": "https://www.hurriyetdailynews.com/iran-fires-missiles-at-israel-after-trump-threatens-weeks-of-strikes-220553",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-02T06:14:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Germany’s Humiliating Capitulation Proves Western Energy Policy Is Suicide",
+      "url": "https://www.naturalnews.com/2026-04-02-germanys-capitulation-proves-western-energy-policy-is-suicide.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-02T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel Announces Expansion of Military Operations in Southern Lebanon Amid Rising Hezbollah Attacks",
+      "url": "https://www.naturalnews.com/2026-04-02-israel-announces-expansion-military-operations-southern-lebanon.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-02T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US Iran War Day 34 Updates: Trump claims victory, Iran's President addresses Americans & Gulf continues to face Tehran's wrath",
       "url": "https://economictimes.indiatimes.com/news/defence/us-iran-war-day-34-donald-trump-news-strait-of-hormuz-iran-israel-drone-attack-latest-news/articleshow/129968517.cms",
       "source": "The Times of India",
       "publishedAt": "2026-04-02T05:39:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump's speech was significant for what he did not say",
-      "url": "https://www.abc.net.au/news/2026-04-02/donald-trump-addresses-nation-on-iran-war-analysis/106524864",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-02T05:32:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump tells US that Iran war victory near, but vows big strikes",
-      "url": "https://www.thejournal.ie/in-an-evening-speech-from-the-white-house-the-us-president-broke-little-new-ground-on-how-the-war-would-end-7001354-Apr2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-04-02T05:32:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "5 takeaways from Donald Trump's televised address",
-      "url": "https://www.rte.ie/news/us/2026/0402/1566388-trump-takeaways/",
-      "source": "RTE",
-      "publishedAt": "2026-04-02T05:32:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump’s primetime speech on Iran war: Key takeaways",
-      "url": "https://www.aljazeera.com/news/2026/4/2/trumps-primetime-speech-on-iran-war-key-takeaways",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-02T05:15:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘We have all cards, they have none’ – Five takeaways from Trump's televised speech to the US",
-      "url": "https://www.independent.ie/world-news/north-america/we-have-all-cards-they-have-none-five-takeaways-from-trumps-televised-speech-to-the-us/a1746816177.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-02T05:15:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘Build up some delayed courage and grab Strait of Hormuz’ – Five takeaways from Trump's televised speech to the US",
-      "url": "https://www.independent.ie/world-news/north-america/build-up-some-delayed-courage-and-grab-strait-of-hormuz-five-takeaways-from-trumps-televised-speech-to-the-us/a1746816177.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-02T05:15:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran fires missiles at Israel after Trump threatens weeks of strikes",
@@ -155,14 +187,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump Bullying Allies To Help in Iran Suggests He Knows the War Is Not Going Well",
-      "url": "https://reason.com/2026/04/01/trump-bullying-allies-to-help-in-iran-suggests-he-knows-the-war-is-not-going-well/",
-      "source": "Reason",
-      "publishedAt": "2026-04-01T21:07:25Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Iranian President Clarifies: That Whole 'Death to America' Was a Misunderstanding; 'We Really Meant Health to America!' • Genesius Times",
       "url": "https://genesiustimes.com/iranian-president-clarifies-that-whole-death-to-america-was-a-misunderstanding-we-really-meant-health-to-america/",
       "source": "Genesiustimes.com",
@@ -187,50 +211,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Ireland among 15 European nations to say it is 'appalled by escalation of violence in Lebanon'",
-      "url": "https://www.thejournal.ie/ireland-among-nations-to-say-it-is-appalled-by-escalation-of-violence-lebanon-7001208-Apr2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-04-01T19:49:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran briefing: Trump says Iran's 'new president' asked for truce but there isn't one",
-      "url": "https://www.abc.net.au/news/2026-04-02/iran-israel-war-daily-news-briefing/106502928",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-01T19:41:53Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanese Army Withdraws from Christian Villages, Leaving Locals Exposed on Holy Week",
-      "url": "https://www.breitbart.com/national-security/2026/04/01/lebanese-army-withdraws-from-christian-villages-leaving-locals-exposed-on-holy-week/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-04-01T19:09:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon’s Litani River Water System Has Become a Militarized Hydropolitical Frontier",
-      "url": "https://www.globalresearch.ca/litani-river-militarized-hydropolitical-frontier/5920517",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-01T19:03:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Trump Just Made His Harshest Threat Against NATO. Here's Why It Could Be a Game Changer.",
       "url": "https://freerepublic.com/focus/f-news/4373215/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-04-01T18:00:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Western Commanders Acknowledge Russia’s Gains in NATO-occupied Ukraine. “Has Russia Already Won”?",
-      "url": "https://www.globalresearch.ca/western-commanders-acknowledge-russias-gains-in-nato-occupied-ukraine-has-russia-already-won/5920793",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-01T16:56:11Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

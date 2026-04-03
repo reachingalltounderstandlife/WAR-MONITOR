@@ -1,30 +1,134 @@
 {
-  "updated": "2026-04-03T14:29:25Z",
+  "updated": "2026-04-03T19:55:25Z",
   "count": 31,
   "articles": [
     {
-      "title": "Can Starmer’s 40-nation coalition open the Strait of Hormuz?",
-      "url": "https://www.aljazeera.com/news/2026/4/2/can-starmers-40-nation-coalition-open-the-strait-of-hormuz",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-02T14:26:23Z",
+      "title": "Iran briefing with Matthew Doran: Tehran promises 'crushing' attacks after 'back to the Stone Age' speech",
+      "url": "https://www.abc.net.au/news/2026-04-03/iran-israel-war-daily-news-briefing/106502930",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-02T19:47:17Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Hit List: Iran Threatens US and Israeli Corporations",
-      "url": "https://www.globalresearch.ca/hit-list-iran-threatens-us-israeli-corporations/5920974",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-02T14:10:39Z",
+      "title": "Iran Hangs 18-Year-Old Over Protests in Latest Wartime Execution, Say Activists",
+      "url": "https://freerepublic.com/focus/f-news/4373372/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-04-02T19:42:02Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "IRGC reshapes Hizbullah after heavy battlefield losses",
+      "url": "https://freerepublic.com/focus/f-news/4373368/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-04-02T19:22:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Emmanuel Macron accuses Trump of undermining Nato amid mixed messages over Iran war",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/02/emmanuel-macron-accuses-trump-of-undermining-nato-amid-mixed-messages-over-iran-war/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-02T19:08:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US military vs Iran's 'arch defence': Dangerous new phase of war looms",
+      "url": "https://www.abc.net.au/news/2026-04-03/donald-trump-warns-iran-as-more-us-assets-stream-into-war-arena/106521962",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-02T18:57:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Key petrochemical products get 3 month import duty relief",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/key-petrochemical-products-get-3-month-import-duty-relief/articleshow/129987867.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-02T18:53:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war has a ‘second front’ — and Tehran has already lost it",
+      "url": "https://nypost.com/2026/04/02/opinion/iran-war-has-a-second-front-and-tehran-has-already-lost-it/",
+      "source": "New York Post",
+      "publishedAt": "2026-04-02T18:38:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ether at risk of new 2026 lows if bulls fail to turn $2.4K into support",
+      "url": "https://cointelegraph.com/markets/ether-at-risk-of-new-2026-lows-if-bulls-fail-to-turn-dollar2-4k-into-support",
+      "source": "Cointelegraph",
+      "publishedAt": "2026-04-02T18:25:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Here's What Can Happen When the US Bombs Iran's Nuclear Sites",
+      "url": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/",
+      "source": "Wired",
+      "publishedAt": "2026-04-02T18:08:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says US Will Bomb Iran Into “Stone Ages,” Invoking Vietnam Carpet Bombing",
+      "url": "https://truthout.org/articles/trump-says-us-will-bomb-iran-into-stone-ages-invoking-vietnam-carpet-bombing/",
+      "source": "Truthout",
+      "publishedAt": "2026-04-02T17:58:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran fires missiles at Tel Aviv as Trump threatens to bomb it ‘back to the Stone Ages’",
+      "url": "https://www.nzherald.co.nz/world/iran-fires-missiles-at-tel-aviv-as-trump-threatens-to-bomb-it-back-to-the-stone-ages/F5GRIA5W3JAEBMBJEQKBXMOQUI/",
+      "source": "New Zealand Herald",
+      "publishedAt": "2026-04-02T17:04:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Gen Kellogg says NATO allies are 'cowards,' calls for new defense alliance",
+      "url": "https://www.foxnews.com/media/general-keith-kellogg-says-nato-allies-cowards-calls-brand-new-defense-alliance",
+      "source": "Fox News",
+      "publishedAt": "2026-04-02T16:41:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran War: Thirty-two Days to Unmake the World",
+      "url": "https://www.globalresearch.ca/iran-war-thirty-two-days-unmake-world/5921013",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-02T16:40:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran fires on Israel and Gulf neighbors as Trump claims threat from Tehran nearly eliminated",
+      "url": "https://www.pbs.org/newshour/world/iran-fires-on-israel-and-gulf-neighbors-as-trump-claims-threat-from-tehran-nearly-eliminated",
+      "source": "PBS",
+      "publishedAt": "2026-04-02T15:24:02Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Oil Surges on Fears of Prolonged War",
+      "url": "https://www.rigzone.com/news/wire/oil_surges_on_fears_of_prolonged_war-02-apr-2026-183362-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-04-02T14:43:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Nato has survived some serious rifts but the Iran war shows how the US has soured on the transatlantic alliance",
       "url": "https://theconversation.com/nato-has-survived-some-serious-rifts-but-the-iran-war-shows-how-the-us-has-soured-on-the-transatlantic-alliance-279799",
       "source": "The Conversation Africa",
       "publishedAt": "2026-04-02T14:10:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "How to Avoid an Accidental Nuclear War with North Korea",
@@ -35,52 +139,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "FO Talks: Will Trump and Netanyahu Accept Iran’s Demands as Peace Talks Begin?",
-      "url": "https://www.fairobserver.com/world-news/middle-east-news/fo-talks-will-trump-and-netanyahu-accept-irans-demands-as-peace-talks-begin/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-04-02T13:55:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why the Houthis Have Held Back: Yemen’s Calculated Restraint in a Regional War",
-      "url": "https://www.fairobserver.com/world-news/middle-east-news/why-the-houthis-have-held-back-yemens-calculated-restraint-in-a-regional-war/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-04-02T13:39:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How long can Iran's asymmetric strategy hold?",
-      "url": "https://www.dw.com/en/how-long-can-irans-asymmetric-strategy-hold/a-76643523",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-02T13:15:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war: How long can Tehran's asymmetric strategy hold?",
-      "url": "https://www.dw.com/en/iran-war-how-long-can-tehrans-asymmetric-strategy-hold-drones-middle-east-oil-strait-of-hormuz/a-76643523",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-02T13:15:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Oil Spikes As Trump Vows To Hit Iran “Extremely Hard Over Next 2-3 Weeks”",
       "url": "https://www.shtfplan.com/war/oil-spikes-as-trump-vows-to-hit-iran-extremely-hard-over-next-2-3-weeks",
       "source": "Shtfplan.com",
       "publishedAt": "2026-04-02T12:30:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Show HN: A daily archive of the top stories on Hacker News, organized by date",
-      "url": "https://github.com/tamnd/hn-daily-index",
-      "source": "Github.com",
-      "publishedAt": "2026-04-02T12:03:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump Might Finally Force NATO to Radically Reform",
@@ -139,74 +203,10 @@
       "_label": "Lebanon"
     },
     {
-      "title": "War in the Middle East: latest developments",
-      "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-31/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-02T10:07:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "MORNING GLORY: President Trump’s big speech on Iran — what will it do?",
       "url": "https://www.foxnews.com/opinion/morning-glory-president-trumps-big-speech-iran-what-do",
       "source": "Fox News",
       "publishedAt": "2026-04-02T09:00:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran vows ‘crushing’ attacks on US after Trump threats",
-      "url": "https://punchng.com/iran-vows-crushing-attacks-on-us-after-trump-threats/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-02T08:51:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran war: What is happening on day 34 of US-Israel attacks?",
-      "url": "https://www.aljazeera.com/news/2026/4/2/iran-war-what-is-happening-on-day-34-of-us-israel-attacks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-02T07:50:50Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Yemen hits sensitive Israeli targets in third strike since joining Iran-led resistance",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260401-presstv03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-02T06:44:53Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon at 'breaking point' as displacement soars and strikes intensify",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260401-azertac02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-02T06:44:53Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Germany’s Humiliating Capitulation Proves Western Energy Policy Is Suicide",
-      "url": "https://www.naturalnews.com/2026-04-02-germanys-capitulation-proves-western-energy-policy-is-suicide.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-02T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Transatlantic rift widens as Trump lashes out at Nato allies over Iran war",
-      "url": "https://www.independent.ie/world-news/middle-east/transatlantic-rift-widens-as-trump-lashes-out-at-nato-allies-over-iran-war/a502521781.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-02T04:30:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Making a killing: Boom times for Europe’s defence industry",
-      "url": "https://www.irishtimes.com/world/europe/2026/04/02/rapidly-expanding-czech-defence-supplier-has-done-very-well-out-of-ukraine-war/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-04-02T04:07:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

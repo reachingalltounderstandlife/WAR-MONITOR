@@ -1,22 +1,182 @@
 {
-  "updated": "2026-04-03T19:55:25Z",
-  "count": 31,
+  "updated": "2026-04-04T05:15:14Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "Iran fires on targets across Mideast while Israel and US hit Tehran as war shows no signs of slowing",
+      "url": "https://www.seattlepi.com/news/world/article/iran-fires-on-targets-across-mideast-while-israel-22186971.php",
+      "source": "seattlepi.com",
+      "publishedAt": "2026-04-03T05:09:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran shoots down second US F-35 fighter jet, says pilot survival unlikely",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-shoots-second-us-f-35-fighter-jet-says-pilot-survival-unlikely-israel-war-middle-east/articleshow/129994398.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-03T05:02:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war nears fifth week with both sides fighting and oil prices surging",
+      "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-3-2026-a6365c6123cc8a696474f576d4ce7668",
+      "source": "Associated Press",
+      "publishedAt": "2026-04-03T05:01:53Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump's anger over Iran thrusts NATO into fresh crisis",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-anger-over-iran-thrusts-nato-into-fresh-crisis/articleshow/129994450.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-03T05:01:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How war on Iran turned Pakistan’s LNG surplus into a looming shortage",
+      "url": "https://www.aljazeera.com/news/2026/4/3/how-war-on-iran-turned-pakistans-lng-surplus-into-a-looming-shortage",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-03T04:55:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hamas wants guarantees of Israeli troop withdrawal before disarmament talks, sources say",
+      "url": "https://www.thehindubusinessline.com/news/world/hamas-wants-guarantees-of-israeli-troop-withdrawal-before-disarmament-talks-sources-say/article70818602.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-03T04:53:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Live updates: Iran war; US fighter jet shot down, US sources say | CNN",
+      "url": "https://www.cnn.com/2026/04/03/world/live-news/iran-war-us-trump-oil",
+      "source": "CNN",
+      "publishedAt": "2026-04-03T04:51:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UN set to vote on watered-down proposal to open Strait of Hormuz",
+      "url": "https://www.thehindubusinessline.com/news/world/un-set-to-vote-on-watered-down-proposal-to-open-strait-of-hormuz/article70818651.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-03T04:38:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran strikes at Gulf tech sites as EU urges ceasefire to open Hormuz",
+      "url": "https://www.independent.ie/world-news/middle-east/iran-strikes-at-gulf-tech-sites-as-eu-urges-ceasefire-to-open-hormuz/a1653284426.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-03T04:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump vows to strike civilian infrastructure as Iran strikes at Gulf tech sites",
+      "url": "https://www.independent.ie/world-news/middle-east/trump-vows-to-strike-civilian-infrastructure-as-iran-strikes-at-gulf-tech-sites/a1653284426.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-03T04:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Blowback 2026: The Price of Empire and War on Iran",
+      "url": "https://www.juancole.com/2026/04/blowback-price-empire.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-04-03T04:04:19Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "CNN: Iran retains half of missile launchers and massive drone fleet, despite weeks of strikes",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-04-03/ty-article-live/cnn-iran-retains-half-of-missile-launchers-and-massive-drone-fleet/0000019d-5114-db3c-a3df-d995e3f30000",
+      "source": "Haaretz",
+      "publishedAt": "2026-04-03T02:14:27Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "France plans huge missile increase in new defense push, document shows",
+      "url": "https://www.politico.eu/article/france-eyes-huge-missile-boost-new-defense-plan-document-shows/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-04-03T02:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump insists: Iran is “eager” for a deal – At least 8 dead in bridge bombing in Tehran (updated)",
+      "url": "https://en.protothema.gr/2026/04/03/seven-million-iranians-are-waiting-for-you-ready-and-armed-tehran-tells-the-us-you-will-go-to-the-depths-of-hell-israels-foreign-minister-thre/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-04-03T00:29:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Risible Big Lie of Two Weeks to A Nuke",
+      "url": "https://original.antiwar.com/david_stockman/2026/04/02/the-risible-big-lie-of-two-weeks-to-a-nuke/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-04-03T00:01:39Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Urgent Need for Creditable Negotiations About North Korea’s Nuclear Status",
+      "url": "https://original.antiwar.com/ted_galen_carpenter/2026/04/02/urgent-need-for-creditable-negotiations-about-north-koreas-nuclear-status/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-04-03T00:00:22Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "As Trump rails against NATO, secretary general heads to Washington",
+      "url": "https://www.nbcnews.com/politics/white-house/trump-rails-nato-secretary-general-heads-dc-rcna266423",
+      "source": "NBC News",
+      "publishedAt": "2026-04-02T21:37:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "FactChecking Trump’s Prime-Time Address on Iran",
+      "url": "https://www.factcheck.org/2026/04/factchecking-trumps-prime-time-address-on-iran/",
+      "source": "FactCheck.org",
+      "publishedAt": "2026-04-02T21:29:45Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Will row over Iran conflict spell the end of Nato?",
+      "url": "https://theconversation.com/will-row-over-iran-conflict-spell-the-end-of-nato-279898",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-04-02T20:35:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanese Artist Ali Cherri Files War Crimes Complaint Against Israel After 2024 Beirut Bombing",
+      "url": "https://www.artnews.com/art-news/news/lebanese-artist-ali-cherri-files-war-crimes-complaint-against-israel-after-2024-beirut-bombing-1234779773/",
+      "source": "ARTnews",
+      "publishedAt": "2026-04-02T20:15:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Bomb Iran but Blow Up NATO?",
+      "url": "https://freerepublic.com/focus/f-news/4373378/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-04-02T20:14:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Iran briefing with Matthew Doran: Tehran promises 'crushing' attacks after 'back to the Stone Age' speech",
       "url": "https://www.abc.net.au/news/2026-04-03/iran-israel-war-daily-news-briefing/106502930",
       "source": "ABC News (AU)",
       "publishedAt": "2026-04-02T19:47:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Hangs 18-Year-Old Over Protests in Latest Wartime Execution, Say Activists",
-      "url": "https://freerepublic.com/focus/f-news/4373372/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-04-02T19:42:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "IRGC reshapes Hizbullah after heavy battlefield losses",
@@ -25,70 +185,6 @@
       "publishedAt": "2026-04-02T19:22:09Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Emmanuel Macron accuses Trump of undermining Nato amid mixed messages over Iran war",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/04/02/emmanuel-macron-accuses-trump-of-undermining-nato-amid-mixed-messages-over-iran-war/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-04-02T19:08:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US military vs Iran's 'arch defence': Dangerous new phase of war looms",
-      "url": "https://www.abc.net.au/news/2026-04-03/donald-trump-warns-iran-as-more-us-assets-stream-into-war-arena/106521962",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-02T18:57:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Key petrochemical products get 3 month import duty relief",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/key-petrochemical-products-get-3-month-import-duty-relief/articleshow/129987867.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-02T18:53:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war has a ‘second front’ — and Tehran has already lost it",
-      "url": "https://nypost.com/2026/04/02/opinion/iran-war-has-a-second-front-and-tehran-has-already-lost-it/",
-      "source": "New York Post",
-      "publishedAt": "2026-04-02T18:38:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ether at risk of new 2026 lows if bulls fail to turn $2.4K into support",
-      "url": "https://cointelegraph.com/markets/ether-at-risk-of-new-2026-lows-if-bulls-fail-to-turn-dollar2-4k-into-support",
-      "source": "Cointelegraph",
-      "publishedAt": "2026-04-02T18:25:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Here's What Can Happen When the US Bombs Iran's Nuclear Sites",
-      "url": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/",
-      "source": "Wired",
-      "publishedAt": "2026-04-02T18:08:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Says US Will Bomb Iran Into “Stone Ages,” Invoking Vietnam Carpet Bombing",
-      "url": "https://truthout.org/articles/trump-says-us-will-bomb-iran-into-stone-ages-invoking-vietnam-carpet-bombing/",
-      "source": "Truthout",
-      "publishedAt": "2026-04-02T17:58:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran fires missiles at Tel Aviv as Trump threatens to bomb it ‘back to the Stone Ages’",
-      "url": "https://www.nzherald.co.nz/world/iran-fires-missiles-at-tel-aviv-as-trump-threatens-to-bomb-it-back-to-the-stone-ages/F5GRIA5W3JAEBMBJEQKBXMOQUI/",
-      "source": "New Zealand Herald",
-      "publishedAt": "2026-04-02T17:04:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Gen Kellogg says NATO allies are 'cowards,' calls for new defense alliance",
@@ -107,22 +203,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran fires on Israel and Gulf neighbors as Trump claims threat from Tehran nearly eliminated",
-      "url": "https://www.pbs.org/newshour/world/iran-fires-on-israel-and-gulf-neighbors-as-trump-claims-threat-from-tehran-nearly-eliminated",
-      "source": "PBS",
-      "publishedAt": "2026-04-02T15:24:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Oil Surges on Fears of Prolonged War",
-      "url": "https://www.rigzone.com/news/wire/oil_surges_on_fears_of_prolonged_war-02-apr-2026-183362-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-04-02T14:43:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Nato has survived some serious rifts but the Iran war shows how the US has soured on the transatlantic alliance",
       "url": "https://theconversation.com/nato-has-survived-some-serious-rifts-but-the-iran-war-shows-how-the-us-has-soured-on-the-transatlantic-alliance-279799",
       "source": "The Conversation Africa",
@@ -139,116 +219,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Oil Spikes As Trump Vows To Hit Iran “Extremely Hard Over Next 2-3 Weeks”",
-      "url": "https://www.shtfplan.com/war/oil-spikes-as-trump-vows-to-hit-iran-extremely-hard-over-next-2-3-weeks",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-04-02T12:30:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Trump Might Finally Force NATO to Radically Reform",
       "url": "https://www.globalresearch.ca/trump-force-nato-radically-reform/5920896",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-04-02T11:56:55Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Zelensky Disappointed with American Stance in Negotiations",
-      "url": "https://www.globalresearch.ca/zelensky-disappointed-american-stance-negotiations/5920903",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-02T11:54:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A look at the UK's Royal Navy, which has faced jibe after jibe from Trump and Hegseth",
-      "url": "https://abcnews.com/International/wireStory/uks-royal-navy-faced-jibe-after-jibe-trump-131643792",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-02T11:31:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why ‘The West’?: An Exchange",
-      "url": "https://www.nybooks.com/articles/2026/04/23/why-the-west-an-exchange/",
-      "source": "The New York Review of Books",
-      "publishedAt": "2026-04-02T11:30:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops",
-      "url": "https://www.aljazeera.com/news/2026/4/2/israeli-strikes-kill-7-in-southern-lebanon-hezbollah-targets-ground-troops",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-02T11:26:47Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Libyan military leader may have combat drones despite UN embargo",
-      "url": "https://www.aljazeera.com/news/2026/4/2/libyan-military-leader-may-have-combat-drones-despite-un-embargo",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-02T11:01:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran continues strikes across the Persian Gulf despite Trump's warning",
-      "url": "https://www.npr.org/2026/04/02/nx-s1-5771160/iran-war-trump-speech",
-      "source": "NPR",
-      "publishedAt": "2026-04-02T10:14:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "MORNING GLORY: President Trump’s big speech on Iran — what will it do?",
-      "url": "https://www.foxnews.com/opinion/morning-glory-president-trumps-big-speech-iran-what-do",
-      "source": "Fox News",
-      "publishedAt": "2026-04-02T09:00:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iranian President Clarifies: That Whole 'Death to America' Was a Misunderstanding; 'We Really Meant Health to America!' • Genesius Times",
-      "url": "https://genesiustimes.com/iranian-president-clarifies-that-whole-death-to-america-was-a-misunderstanding-we-really-meant-health-to-america/",
-      "source": "Genesiustimes.com",
-      "publishedAt": "2026-04-01T20:51:43Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea expands its nuclear arsenal after witnessing Iran’s vulnerability",
-      "url": "https://www.cbc.ca/news/world/north-korea-iran-nuclear-threat-9.7149741",
-      "source": "CBC News",
-      "publishedAt": "2026-04-01T14:49:51Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Will a New Nuclear Arms Race Make Us More Secure?",
-      "url": "https://www.commondreams.org/opinion/new-nuclear-arms-race-2676644499",
-      "source": "Common Dreams",
-      "publishedAt": "2026-04-01T11:32:01Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The Arsenal as the Battlefield: The War on Iran and the Return of Counter-Industrial Targeting",
-      "url": "https://warontherocks.com/2026/04/the-arsenal-as-the-battlefield-the-war-on-iran-and-the-return-of-counter-industrial-targeting/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-04-01T07:15:06Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Andreas Kluth: Why World War III’s first shots will probably be fired in space",
-      "url": "https://www.independent.ie/world-news/north-america/andreas-kluth-why-world-war-iiis-first-shots-will-probably-be-fired-in-space/a2052534502.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-01T04:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

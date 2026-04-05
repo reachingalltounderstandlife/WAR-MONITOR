@@ -1,38 +1,166 @@
 {
-  "updated": "2026-04-04T19:46:16Z",
-  "count": 32,
+  "updated": "2026-04-05T05:55:53Z",
+  "count": 29,
   "articles": [
     {
-      "title": "Iran hunts crashed US jet crew, as reports say one rescued",
-      "url": "https://punchng.com/iran-hunts-crashed-us-jet-crew-as-reports-say-one-rescued/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-03T19:20:04Z",
+      "title": "Iran, US race to find crew member of crashed American fighter jet",
+      "url": "https://www.channelnewsasia.com/world/iran-us-fighter-jet-shot-down-pilots-missing-6036441",
+      "source": "CNA",
+      "publishedAt": "2026-04-04T05:27:09Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran: at least five ships passed through the Strait of Hormuz in the last 24 hours",
-      "url": "https://en.protothema.gr/2026/04/03/iran-at-least-five-ships-passed-through-the-strait-of-hormuz-in-the-last-24-hours/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-04-03T19:19:00Z",
+      "title": "One Crew Member Rescued After American Jet Shot Down In Iran, US Official Tells RFE/RL",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260403-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-04T05:04:57Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran, proxy militias threaten US universities in Lebanon as Americans urged to flee now",
-      "url": "https://www.foxnews.com/world/iran-proxy-militias-threaten-us-universities-lebanon-americans-urged-flee",
-      "source": "Fox News",
-      "publishedAt": "2026-04-03T19:06:37Z",
+      "title": "Rescue Mission Races To Find Crew Member Of US Jet Downed Over Iran",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260404-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-04T04:53:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran accuses IAEA of \"clear complicity\" over silence on US-Israeli strikes against nuclear sites",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-accuses-iaea-of-clear-complicity-over-silence-on-us-israeli-strikes-against-nuclear-sites/articleshow/130012863.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-04T04:37:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US crew member rescued after aircraft goes down in Iran",
+      "url": "https://www.independent.ie/world-news/middle-east/us-crew-member-rescued-after-aircraft-goes-down-in-iran/a2081720626.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-04T04:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel says striking Hezbollah sites in Beirut after destroying bridge",
+      "url": "https://www.channelnewsasia.com/world/israel-strikes-hezbolla-beirut-lebanon-6036371",
+      "source": "CNA",
+      "publishedAt": "2026-04-04T04:28:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran: Unlawful Cluster Munition Strikes on Israel",
+      "url": "https://www.juancole.com/2026/04/unlawful-cluster-munition.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-04-04T04:06:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Restoration of Aluminum Production at EGA Plant in UAE May Take Up to 12 Months – Company",
+      "url": "https://sputnikglobe.com/20260404/restoration-of-aluminum-production-at-ega-plant-in-uae-may-take-up-to-12-months--company-1123940114.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-04T03:57:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
+      "url": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-04T03:51:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ranking Member Shaheen, Chair Wicker Press Administration for Answers on Sanctioned Russian Delegation Visit to United States",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/04/russia-260403-sfrc01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-04T03:26:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran shoots down two US planes, one rescued as tensions surge in West Asia war",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-shoots-down-two-us-planes-one-rescued-as-tensions-surge-in-west-asia-war/article70822252.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-04T02:52:51Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Iran’s Zarif Wants a Bilateral Reset With U.S. That the Gulf Can’t Accept",
-      "url": "http://foreignpolicy.com/2026/04/03/iran-zarif-united-states-war-gulf-states-damage/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-03T19:05:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "US, Iran search for American pilot after warplane downed",
+      "url": "https://www.rte.ie/news/middle-east/2026/0404/1566696-us-iran/",
+      "source": "RTE",
+      "publishedAt": "2026-04-04T00:57:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel-Iran war: Tehran hunts crew of crashed US jet F-15 and A-10, one reported rescued",
+      "url": "https://economictimes.indiatimes.com/news/defence/israel-iran-war-tehran-hunts-crew-of-crashed-us-jet-f-15-and-a-10-one-reported-rescued/articleshow/130011360.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-04T00:37:34Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Downed Planes Raise New Perils For Trump As Tehran Hunts For Missing U.S. Pilot",
+      "url": "https://www.huffpost.com/entry/downed-us-planes-iran-trump_n_69d05812e4b0d214cc7185fb",
+      "source": "HuffPost",
+      "publishedAt": "2026-04-04T00:31:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Why the US Regime Pretends Israel’s Nuclear Weapons Don’t Exist",
+      "url": "https://www.shtfplan.com/war/why-the-us-regime-pretends-israels-nuclear-weapons-dont-exist",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-04-03T22:30:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "At least one crew member still missing after Iran shoots down 2 U.S. aircraft while Trump says ‘it’s war’",
+      "url": "https://fortune.com/2026/04/03/iran-war-us-crew-member-missing-f15-shot-down-search-and-rescue-a10/",
+      "source": "Fortune",
+      "publishedAt": "2026-04-03T22:19:24Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "How the Iran War Became NATO’s Biggest Crisis",
+      "url": "https://oilprice.com/Geopolitics/International/How-the-Iran-War-Became-NATOs-Biggest-Crisis.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-04-03T22:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "2 US aircraft shot down as war in Iran escalates. At least 1 crew member is missing",
+      "url": "https://www.kpbs.org/news/military/2026/04/03/2-us-aircraft-shot-down-as-war-in-iran-escalates-at-least-1-crew-member-is-missing",
+      "source": "KPBS",
+      "publishedAt": "2026-04-03T21:41:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Russian strikes on Ukraine kill 8 as Kyiv holds door open for Easter truce",
+      "url": "https://japantoday.com/category/world/russia-strikes-targets-in-kyiv-region-as-ukraine-holds-door-open-for-easter-truce",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-03T20:44:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Gen Kellogg says NATO allies are 'cowards,' calls for new defense alliance",
+      "url": "https://freerepublic.com/focus/f-news/4373522/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-04-03T19:52:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Russia’s River of Consciousness",
@@ -59,14 +187,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US warplane downed over Iran, one crew rescued",
-      "url": "https://punchng.com/us-warplane-downed-over-iran-one-crew-rescued/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-03T18:22:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The war is no longer about just the Strait of Hormuz",
       "url": "https://www.abc.net.au/news/2026-04-04/iran-volodymyr-zelenskyy-gulf-strait-of-hormuz-macron-merz/106511122",
       "source": "ABC News (AU)",
@@ -83,46 +203,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Is US–Iran war heading toward prolonged escalation? Despite bombing, Iran retains massive arsenal: Missile launchers intact, drones ready - intel warns of havoc",
-      "url": "https://economictimes.indiatimes.com/news/international/us/is-usiran-war-heading-toward-prolonged-escalation-despite-bombing-iran-retains-massive-arsenal-missile-launchers-intact-drones-ready-intel-warns-of-havoc/articleshow/130005244.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-03T17:51:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "UN force says 3 peacekeepers wounded in Lebanon",
-      "url": "https://www.channelnewsasia.com/world/lebanon-unifl-un-peacekeepers-strikes-israel-war-beirut-6035781",
-      "source": "CNA",
-      "publishedAt": "2026-04-03T16:56:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Live: US crew member reportedly rescued after fighter jet downed over Iran",
-      "url": "https://www.abc.net.au/news/2026-04-04/iran-middle-east-war-live-updates/106530628",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-03T16:36:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "AP report: U.S. launches rescue operation after Iranian state TV claims fighter jet went down",
-      "url": "https://www.pbs.org/newshour/world/ap-report-u-s-launches-rescue-operation-after-iranian-state-tv-claims-fighter-jet-went-down",
-      "source": "PBS",
-      "publishedAt": "2026-04-03T16:08:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iranians urged to hunt for crew of downed US fighter jet",
-      "url": "https://economictimes.indiatimes.com/news/defence/iranians-urged-to-hunt-for-crew-of-downed-us-fighter-jet/articleshow/130004854.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-03T16:01:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Why Losing the Iran War May Be the Best Outcome for the Global Economy",
       "url": "https://oilprice.com/Energy/Energy-General/Why-Losing-the-Iran-War-May-Be-the-Best-Outcome-for-the-Global-Economy.html",
       "source": "OilPrice.com",
@@ -131,100 +211,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Ukraine slows enemy advances, liberates land, drains Russia’s war chest",
-      "url": "https://www.aljazeera.com/features/2026/4/3/ukraine-slows-enemy-advances-liberates-land-drains-russias-war-chest",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-03T15:44:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iranian forces launch search for pilot of downed US fighter jet",
-      "url": "https://www.aljazeera.com/news/2026/4/3/iranian-forces-launch-search-for-pilot-of-downed-us-fighter-jet",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-03T15:43:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranians reel from US-Israeli attacks on civilian infrastructure",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/04/03/iranians-reel-from-us-israeli-attacks-on-civilian-infrastructure/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-04-03T15:24:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "(VIDEO) Iran Claims US F-15E Strike Eagle Shot Down Over Iran With Wreckage Images Released",
-      "url": "https://www.ibtimes.com.au/video-iran-claims-us-f-15e-strike-eagle-shot-down-over-iran-wreckage-images-released-1865331",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-04-03T15:06:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Over 3,500 Lebanon targets struck and about 1,000 Hezbollah terrorists killed, IDF says",
-      "url": "https://www.jns.org/news/israel-news/idf-over-3-500-targets-struck-some-1-000-hezbollah-terrorists-killed-in-lebanon",
-      "source": "JNS.org",
-      "publishedAt": "2026-04-03T15:01:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel threatens to destroy more Lebanon bridges as crisis mounts",
-      "url": "https://www.aljazeera.com/news/2026/4/3/israel-threatens-to-destroy-more-lebanon-bridges-as-crisis-mounts",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-03T14:43:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "China–Taiwan Tensions — Civil War Legacies and Geopolitical Chess",
       "url": "https://www.fairobserver.com/region/asia_pacific/china-taiwan-tensions-civil-war-legacies-and-geopolitical-chess/",
       "source": "Fair Observer",
       "publishedAt": "2026-04-03T14:31:35Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Iran regime likely to face the same fate as Saddam",
-      "url": "https://freerepublic.com/focus/f-bloggers/4373486/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-04-03T14:27:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Is NATO Really Nearing Its End? A Critical Look at Growing Transatlantic Tensions",
-      "url": "https://www.globalresearch.ca/nato-nearing-end-growing-transatlantic-tensions/5921073",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-03T14:12:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iranian state TV claims US fighter pilot ejected over southwestern Iran",
-      "url": "https://www.thehindubusinessline.com/news/world/iranian-state-tv-claims-us-fighter-pilot-ejected-over-southwestern-iran/article70820121.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-04-03T13:44:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why US still needs Strait of Hormuz for sake of global economy | The National",
-      "url": "https://www.thenationalnews.com/business/economy/2026/04/03/why-us-still-needs-strait-of-hormuz-for-sake-of-global-economy/",
-      "source": "Thenationalnews.com",
-      "publishedAt": "2026-04-03T12:53:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "EU could become greater military threat than NATO – Medvedev",
-      "url": "https://www.rt.com/russia/637151-medvedev-eu-expansion-nato/",
-      "source": "RT",
-      "publishedAt": "2026-04-03T12:51:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "The Risible Big Lie of Two Weeks to A Nuke",
@@ -239,22 +231,6 @@
       "url": "https://original.antiwar.com/ted_galen_carpenter/2026/04/02/urgent-need-for-creditable-negotiations-about-north-koreas-nuclear-status/",
       "source": "Antiwar.com",
       "publishedAt": "2026-04-03T00:00:22Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "FactChecking Trump’s Prime-Time Address on Iran",
-      "url": "https://www.factcheck.org/2026/04/factchecking-trumps-prime-time-address-on-iran/",
-      "source": "FactCheck.org",
-      "publishedAt": "2026-04-02T21:29:45Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "How to Avoid an Accidental Nuclear War with North Korea",
-      "url": "https://www.rand.org/pubs/commentary/2026/04/how-to-avoid-an-accidental-nuclear-war-with-north-korea.html",
-      "source": "Rand.org",
-      "publishedAt": "2026-04-02T14:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

@@ -1,7 +1,183 @@
 {
-  "updated": "2026-04-07T09:53:31Z",
-  "count": 30,
+  "updated": "2026-04-07T16:15:59Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "Israel army struck Iran helicopters, aircraft at Tehran airports",
+      "url": "https://punchng.com/israel-army-struck-iran-helicopters-aircraft-at-tehran-airports/",
+      "source": "The Punch",
+      "publishedAt": "2026-04-06T15:46:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Tehran rejects latest ceasefire proposal, wants permanent end to the war: Iran's state media",
+      "url": "https://www.thehindubusinessline.com/news/world/tehran-rejects-latest-ceasefire-proposal-wants-permanent-end-to-the-war-irans-state-media/article70831230.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-06T15:20:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Red Cross chief condemns ‘deliberate threats’ against civilians in Mideast war",
+      "url": "https://www.digitaljournal.com/world/red-cross-chief-condemns-deliberate-threats-against-civilians-in-mideast-war/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-06T15:07:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Heather Cox Richardson: Trump Is Not Well",
+      "url": "https://dianeravitch.net/2026/04/06/heather-cox-richardson-trump-is-not-well-2/",
+      "source": "Dianeravitch.net",
+      "publishedAt": "2026-04-06T15:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel hits Iran petrochemical complex after Trump threats",
+      "url": "https://www.digitaljournal.com/world/israel-hits-iran-petrochemical-complex-after-trump-threats/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-06T14:57:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ceasefire ahead? Last-ditch US-Iran peace effort is tied in knots",
+      "url": "https://economictimes.indiatimes.com/news/defence/ceasefire-ahead-last-ditch-us-iran-peace-effort-is-tied-in-knots/articleshow/130064312.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-06T14:56:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Another Outrageous, Criminal Act’: US and Israel Bomb University Known as ‘MIT of Iran’",
+      "url": "https://www.commondreams.org/news/us-bombs-mit-of-iran",
+      "source": "Common Dreams",
+      "publishedAt": "2026-04-06T14:54:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Fact-checking is crucial when the news moves this fast",
+      "url": "https://www.poynter.org/fact-checking/2026/why-fact-checking-matters/",
+      "source": "Poynter",
+      "publishedAt": "2026-04-06T14:49:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Massive night rallies across Iran as war enters sixth week (VIDEO)",
+      "url": "https://www.rt.com/news/637429-iran-night-demonstrations/",
+      "source": "RT",
+      "publishedAt": "2026-04-06T14:41:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran Study Ceasefire Plan as Deadline Nears on Trump’s ‘Hell’ Threat",
+      "url": "https://www.insurancejournal.com/news/international/2026/04/06/864598.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-04-06T14:33:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strike kills Christian party official in Lebanon, widening divisions over Hezbollah - Reuters",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181387294",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-06T14:32:34Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "South Korea apologizes to North over drone incursions",
+      "url": "https://www.rt.com/news/637465-korea-drone-lee-us/",
+      "source": "RT",
+      "publishedAt": "2026-04-06T14:16:51Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel hits key Iranian petrochemical plant in massive gas field as mediators float ceasefire proposal",
+      "url": "https://www.pbs.org/newshour/world/israel-hits-key-iranian-petrochemical-plant-in-massive-gas-field-as-mediators-float-ceasefire-proposal",
+      "source": "PBS",
+      "publishedAt": "2026-04-06T14:01:38Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Global Energy Crisis Or Iranian Surrender In Five Weeks?",
+      "url": "https://www.activistpost.com/global-energy-crisis-or-iranian-surrender-in-five-weeks/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-04-06T14:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump and Netanyahu: Two Madmen Playing God",
+      "url": "https://www.commondreams.org/opinion/netanyahu-trump-psychopaths-war-criminals",
+      "source": "Common Dreams",
+      "publishedAt": "2026-04-06T13:52:20Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Doctors warn Israel targeting Lebanon's health care system, like Gaza",
+      "url": "https://www.bostonherald.com/2026/04/06/israel-lebanon-health-care-system-gaza/",
+      "source": "Boston Herald",
+      "publishedAt": "2026-04-06T13:23:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S., Iran Study Ceasefire Plan As Trump’s ‘Hell’ Warning Nears Deadline",
+      "url": "https://www.huffpost.com/entry/us-iran-ceasefire-plan_n_69d3b259e4b05047ac8eff37",
+      "source": "HuffPost",
+      "publishedAt": "2026-04-06T13:21:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "North Korea leader's sister says Seoul's regret sending drones 'wise behaviour'",
+      "url": "https://www.channelnewsasia.com/east-asia/kim-yo-jong-kim-jong-un-sister-seoul-regret-drone-wise-behaviour-6039171",
+      "source": "CNA",
+      "publishedAt": "2026-04-06T13:17:52Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "'Credible intelligence' reveals North Korea's successor to Kim Jong Un, South Korea says",
+      "url": "https://www.foxnews.com/world/credible-intelligence-reveals-north-koreas-successor-kim-jong-un-south-korea-says",
+      "source": "Fox News",
+      "publishedAt": "2026-04-06T12:20:31Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The End of Strategic Monopoly: War, Energy, and the Fragmentation of Global Power in 2026",
+      "url": "https://www.globalresearch.ca/war-energy-fragmentation-global-power-2026/5921346",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-06T12:08:32Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Raid hits Beirut's southern suburbs as Israel says striking Hezbollah",
+      "url": "https://www.hurriyetdailynews.com/raid-hits-beiruts-southern-suburbs-as-israel-says-striking-hezbollah-220687",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-06T11:46:29Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "China’s Absence Draws America Deeper Into Risky Wars",
+      "url": "http://foreignpolicy.com/2026/04/06/iran-war-china-geopolitics-trump-superpower-rivalry-strategy-united-states/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-04-06T10:00:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Trump Said J.D. Vance Will Probably Replace Him. Now He Might Have His Eye on Someone Else.",
       "url": "https://slate.com/news-and-politics/2026/04/donald-trump-president-jd-vance-marco-rubio-iran-war.html",
@@ -9,126 +185,6 @@
       "publishedAt": "2026-04-06T09:45:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Risks Confidence in US Role as Guardian of Global Shipping",
-      "url": "https://www.insurancejournal.com/news/international/2026/04/06/864557.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-04-06T09:40:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Amid Slew Of Threats, Trump Extends Deadline For Iran To Open Strait Of Hormuz",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260406-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-06T09:38:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Families fleeing Israeli attacks take refuge in Lebanon’s mountains",
-      "url": "https://www.aljazeera.com/news/2026/4/6/families-fleeing-israeli-attacks-take-refuge-in-lebanon-mountains",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-06T09:21:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Yemen’s civilians fear fallout after Houthis enter Iran war",
-      "url": "https://www.aljazeera.com/news/2026/4/6/yemens-civilians-fear-fallout-after-houthis-enter-iran-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-06T09:10:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Rising tensions in the Middle East: U.S.-Iran conflict escalates amid ceasefire talks (updated)",
-      "url": "https://en.protothema.gr/2026/04/06/rising-tensions-in-the-middle-east-u-s-iran-conflict-escalates-amid-ceasefire-talks-updated/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-04-06T09:08:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Fifteen Vessels Pass Through Strait of Hormuz Over Past 24 Hours - Reports",
-      "url": "https://sputnikglobe.com/20260406/fifteen-vessels-pass-through-strait-of-hormuz-over-past-24-hours---reports-1123951843.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-04-06T07:46:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Mediators Said to Seek Ceasefire as Trump Escalates Iran Threats",
-      "url": "https://www.rigzone.com/news/wire/mediators_said_to_seek_ceasefire_as_trump_escalates_iran_threats-06-apr-2026-183376-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-04-06T07:13:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Displaced by war, Lebanon's Christians mark Easter far from their homes and churches",
-      "url": "https://abcnews.com/International/wireStory/displaced-war-lebanons-christians-mark-easter-homes-churches-131742006",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-06T06:54:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump issues an expletive-filled threat against Iran as details of US aviator's rescue emerge",
-      "url": "https://abcnews.com/US/wireStory/trump-issues-expletive-filled-threat-iran-details-us-131738932",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-06T06:48:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump issues an expletive-filled threat against Iran as details of US aviator's rescue emerge",
-      "url": "https://abcnews.com/International/wireStory/trump-issues-expletive-filled-threat-iran-details-us-131738935",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-06T06:48:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump issues an expletive-filled threat against Iran as details of US aviator's rescue emerge",
-      "url": "https://abcnews.com/Business/wireStory/trump-issues-expletive-filled-threat-iran-details-us-131745459",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-06T06:48:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Watch: IAF strikes in Lebanon",
-      "url": "https://www.israelnationalnews.com/news/425102",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-06T06:38:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Air strikes on Iran kill more than 25 as Trump’s Strait of Hormuz deadline looms",
-      "url": "https://www.thejournal.ie/air-strikes-iran-strait-of-hormuz-deadline-7004622-Apr2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-04-06T06:36:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Israeli airstrikes batter Iran as Trump’s Strait of Hormuz deadline looms",
-      "url": "https://nypost.com/2026/04/06/world-news/us-israeli-airstrikes-batter-iran-as-trumps-strait-of-hormuz-deadline-looms/",
-      "source": "New York Post",
-      "publishedAt": "2026-04-06T06:33:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran ramps up attacks after Trump warning",
-      "url": "https://punchng.com/iran-ramps-up-attacks-after-trump-warning/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-06T06:00:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "A Weekend of Lies: The Truth Behind Trump’s ‘Pilot Rescue’ and the Catastrophic Uranium Grab That Failed",
@@ -225,22 +281,6 @@
       "publishedAt": "2026-04-05T13:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Sunday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/04/05/sunday-hili-dialogue-580/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-04-05T11:45:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why Trump Thinks He Can Walk Away From the Strait of Hormuz",
-      "url": "https://www.theatlantic.com/ideas/2026/04/energy-price-consequences-iran-war/686687/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-04-05T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

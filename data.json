@@ -1,30 +1,102 @@
 {
-  "updated": "2026-04-07T16:15:59Z",
-  "count": 35,
+  "updated": "2026-04-07T20:05:21Z",
+  "count": 38,
   "articles": [
     {
-      "title": "Israel army struck Iran helicopters, aircraft at Tehran airports",
-      "url": "https://punchng.com/israel-army-struck-iran-helicopters-aircraft-at-tehran-airports/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-06T15:46:01Z",
+      "title": "Why Iran is becoming Trump’s ‘forever war’",
+      "url": "https://www.rt.com/news/637481-iran-trump-forever-war/",
+      "source": "RT",
+      "publishedAt": "2026-04-06T18:54:50Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Airstrikes come within 82 yards of Iran’s nuclear power plant: UN watchdog",
+      "url": "https://nypost.com/2026/04/06/world-news/airstrikes-come-within-82-yards-of-irans-nuclear-power-plant-un-watchdog/",
+      "source": "New York Post",
+      "publishedAt": "2026-04-06T18:47:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The ayatollahs’ enforcers",
+      "url": "https://theweek.com/world-news/iran-military-islamic-revolutionary-guard-corps",
+      "source": "The Week Magazine",
+      "publishedAt": "2026-04-06T18:34:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Democrats blast Trump for Iran ‘war crimes’ threat; Republicans supportive",
+      "url": "https://www.aljazeera.com/news/2026/4/6/democrats-blast-trump-for-iran-war-crimes-threat-republicans-supportive",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-06T17:51:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Suspected Chemical Shipments From China to Iran Raise Concerns Over Potential Missile Expansion",
+      "url": "https://gcaptain.com/suspected-chemical-shipments-from-china-to-iran-raise-concerns-over-potential-missile-expansion/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-04-06T17:49:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s Homicidal Easter Threat—Who Will Stop This Mad Man?",
+      "url": "https://www.commondreams.org/opinion/trump-s-easter-war-crimes-post",
+      "source": "Common Dreams",
+      "publishedAt": "2026-04-06T17:38:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Middle East is ‘on fire’ – Kremlin",
+      "url": "https://www.rt.com/news/637471-iran-us-israel-peskov/",
+      "source": "RT",
+      "publishedAt": "2026-04-06T17:27:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "President Donald Trump's emergency command aircraft 'Doomsday Plane' spotted above this US base as E-4B flight triggers war speculation",
+      "url": "https://economictimes.indiatimes.com/news/international/us/president-donald-trumps-emergency-command-aircraft-doomsday-plane-spotted-above-this-us-base-as-e-4b-flight-triggers-war-speculation/articleshow/130063837.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-06T17:23:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Doctors warn that Israel is targeting Lebanon's health care system, as it did Gaza's",
+      "url": "https://www.thestar.com/news/world/middle-east/after-gaza-devastation-israeli-attacks-on-lebanons-health-care-system-feel-familiar-for-many/article_3bfa9e68-c394-5d95-aebd-7a75f6f757c6.html",
+      "source": "Toronto Star",
+      "publishedAt": "2026-04-06T17:15:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Watch this video of how a job interviewer exposes a North Korean fake IT worker | TechCrunch",
+      "url": "https://techcrunch.com/2026/04/06/watch-this-video-of-how-a-job-interviewer-exposes-a-north-korean-fake-it-worker/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-06T17:00:25Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea's hijack of one of the web's most used open source projects was likely weeks in the making",
+      "url": "https://techcrunch.com/2026/04/06/north-koreas-hijack-of-one-of-the-webs-most-used-open-source-projects-was-likely-weeks-in-the-making/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-06T16:44:28Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Tehran rejects latest ceasefire proposal, wants permanent end to the war: Iran's state media",
       "url": "https://www.thehindubusinessline.com/news/world/tehran-rejects-latest-ceasefire-proposal-wants-permanent-end-to-the-war-irans-state-media/article70831230.ece",
       "source": "BusinessLine",
       "publishedAt": "2026-04-06T15:20:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Red Cross chief condemns ‘deliberate threats’ against civilians in Mideast war",
-      "url": "https://www.digitaljournal.com/world/red-cross-chief-condemns-deliberate-threats-against-civilians-in-mideast-war/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-06T15:07:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Heather Cox Richardson: Trump Is Not Well",
@@ -39,48 +111,16 @@
       "url": "https://www.digitaljournal.com/world/israel-hits-iran-petrochemical-complex-after-trump-threats/article",
       "source": "Digital Journal",
       "publishedAt": "2026-04-06T14:57:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ceasefire ahead? Last-ditch US-Iran peace effort is tied in knots",
-      "url": "https://economictimes.indiatimes.com/news/defence/ceasefire-ahead-last-ditch-us-iran-peace-effort-is-tied-in-knots/articleshow/130064312.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-06T14:56:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘Another Outrageous, Criminal Act’: US and Israel Bomb University Known as ‘MIT of Iran’",
-      "url": "https://www.commondreams.org/news/us-bombs-mit-of-iran",
-      "source": "Common Dreams",
-      "publishedAt": "2026-04-06T14:54:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Fact-checking is crucial when the news moves this fast",
-      "url": "https://www.poynter.org/fact-checking/2026/why-fact-checking-matters/",
-      "source": "Poynter",
-      "publishedAt": "2026-04-06T14:49:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Massive night rallies across Iran as war enters sixth week (VIDEO)",
-      "url": "https://www.rt.com/news/637429-iran-night-demonstrations/",
-      "source": "RT",
-      "publishedAt": "2026-04-06T14:41:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US, Iran Study Ceasefire Plan as Deadline Nears on Trump’s ‘Hell’ Threat",
       "url": "https://www.insurancejournal.com/news/international/2026/04/06/864598.htm",
       "source": "Insurance Journal",
       "publishedAt": "2026-04-06T14:33:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israeli strike kills Christian party official in Lebanon, widening divisions over Hezbollah - Reuters",
@@ -111,8 +151,8 @@
       "url": "https://www.activistpost.com/global-energy-crisis-or-iranian-surrender-in-five-weeks/",
       "source": "Activistpost.com",
       "publishedAt": "2026-04-06T14:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Trump and Netanyahu: Two Madmen Playing God",
@@ -153,22 +193,6 @@
       "publishedAt": "2026-04-06T12:20:31Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "The End of Strategic Monopoly: War, Energy, and the Fragmentation of Global Power in 2026",
-      "url": "https://www.globalresearch.ca/war-energy-fragmentation-global-power-2026/5921346",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-06T12:08:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Raid hits Beirut's southern suburbs as Israel says striking Hezbollah",
-      "url": "https://www.hurriyetdailynews.com/raid-hits-beiruts-southern-suburbs-as-israel-says-striking-hezbollah-220687",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-04-06T11:46:29Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "China’s Absence Draws America Deeper Into Risky Wars",

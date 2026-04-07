@@ -1,62 +1,166 @@
 {
-  "updated": "2026-04-06T20:03:38Z",
-  "count": 28,
+  "updated": "2026-04-07T05:59:30Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "North Korea working on carbon-fibre ICBM for multi-warhead delivery, Seoul says",
+      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-working-on-carbon-fibre-icbm-for-multi-warhead-delivery-seoul-says/articleshow/130052071.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-06T05:54:05Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "UAE says the use of Hormuz must be guaranteed in any US-Iran deal",
+      "url": "https://www.yahoo.com/news/articles/uae-says-hormuz-must-guaranteed-055327348.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-06T05:53:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UAE says the use of Hormuz must be guaranteed in any US-Iran deal",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/uae-says-the-use-of-hormuz-must-be-guaranteed-in-any-us-iran-deal/articleshow/130052416.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-06T05:52:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "For many, Israeli attacks in Lebanon evoke its war in Gaza",
+      "url": "https://apnews.com/article/lebanon-israel-hezbollah-gaza-palestinians-hospital-attacks-2324ed88a4d95513093d427167335c6e",
+      "source": "Associated Press",
+      "publishedAt": "2026-04-06T05:35:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Defiant Iran ramps up attacks after Trump warning",
+      "url": "https://www.hurriyetdailynews.com/defiant-iran-ramps-up-attacks-after-trump-warning-220670",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-06T05:31:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Airstrikes on Iran kill more than 25 as Trump's deadline to open Strait of Hormuz looms",
+      "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-6-2026-87b62d531d3290fde5255077179bd3b5",
+      "source": "Associated Press",
+      "publishedAt": "2026-04-06T05:11:59Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "After Gaza devastation, Israeli attacks on Lebanon's health care system feel familiar for many",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/after-gaza-devastation-israeli-attacks-on-lebanons-health-care-system-feel-familiar-for-many/articleshow/130050862.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-06T04:36:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How Trump’s Vulgar, Criminal Easter Threat Enriches Iran",
+      "url": "https://www.juancole.com/2026/04/trumps-vulgar-criminal.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-04-06T04:15:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump vows 'hell' for Iran over Strait but wants deal",
+      "url": "https://www.rte.ie/news/world/2026/0406/1566871-iran-wrap-5am/",
+      "source": "RTE",
+      "publishedAt": "2026-04-06T04:00:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump vows 'hell' for Iran over Strait but wants deal",
+      "url": "https://www.rte.ie/news/world/2026/0406/1566871-iran-conflict/",
+      "source": "RTE",
+      "publishedAt": "2026-04-06T04:00:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "South Korea president says he regrets 'reckless' drones sent to North",
+      "url": "https://japantoday.com/category/world/south-korea-president-says-regrets-%27reckless%27-drones-sent-to-north1",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-06T03:38:23Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel renews Lebanon strikes, forces Syria border crossing closed",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-renews-lebanon-strikes-forces-syria-border-crossing-closed/articleshow/130048905.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-06T02:31:05Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Answering the 10 most important questions about the Iran war",
+      "url": "https://nypost.com/2026/04/05/opinion/answering-the-10-most-important-questions-about-the-iran-war/",
+      "source": "New York Post",
+      "publishedAt": "2026-04-06T01:49:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A Reminder for Trump’s Critics: Years of Diplomacy Ended in a Nuclear North Korea",
+      "url": "https://legalinsurrection.com/2026/04/a-reminder-for-trumps-critics-years-of-diplomacy-ended-in-a-nuclear-north-korea/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-04-06T01:00:40Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "POTUS Goes Full Stone Age Retard",
+      "url": "https://original.antiwar.com/david_stockman/2026/04/05/potus-goes-full-stone-age-retard/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-04-06T00:00:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Price of Empire and the Costs of War on Iran",
+      "url": "https://original.antiwar.com/eric_ross/2026/04/05/the-price-of-empire-and-the-costs-of-war-on-iran/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-04-06T00:00:08Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Sign Of The Times",
+      "url": "https://chinaarticles.substack.com/p/sign-of-the-times",
+      "source": "Substack.com",
+      "publishedAt": "2026-04-06T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "At least 11 killed in Israeli airstrikes in Lebanon on Easter Sunday",
+      "url": "https://japantoday.com/category/world/at-least-11-killed-in-israeli-airstrikes-in-lebanon-on-easter-sunday",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-05T21:27:38Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "UK intelligence censored report on global warming and homeland security",
+      "url": "https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security",
+      "source": "Substack.com",
+      "publishedAt": "2026-04-05T20:59:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "‘We bow to no one’: Trenin sets out Russia’s worldview in a “new world war”",
       "url": "https://www.rt.com/russia/637361-we-bow-to-no-one/",
       "source": "RT",
       "publishedAt": "2026-04-05T19:36:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Escalates Threats to Bomb Iran’s Power Plants After Rescue",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-escalates-threats-to-bomb-irans-power-plants-after-rescue",
-      "source": "Financial Post",
-      "publishedAt": "2026-04-05T19:07:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump risks confidence in U.S. role as guardian of global shipping",
-      "url": "https://fortune.com/2026/04/05/trump-hormuz-iran-war-confidence-us-role-guardian-global-shipping-freedom-navigation/",
-      "source": "Fortune",
-      "publishedAt": "2026-04-05T19:00:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" April 5, 2026",
-      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-04-05-2026/",
-      "source": "CBS News",
-      "publishedAt": "2026-04-05T18:49:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Christian villager describes 45-minute Israeli attack in Lebanon's south",
-      "url": "https://www.abc.net.au/news/2026-04-06/man-injured-in-israel-attack-south-lebanon-border-towns/106529574",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-05T18:44:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanese Christians displaced by war mark Easter far from their homes and churches",
-      "url": "https://www.pbs.org/newshour/world/lebanese-christians-displaced-by-war-mark-easter-far-from-their-homes-and-churches",
-      "source": "PBS",
-      "publishedAt": "2026-04-05T17:52:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Chief of Staff: 'Southern Lebanon is a kill zone'",
-      "url": "https://www.israelnationalnews.com/news/425079",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-05T17:43:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "France Prepares For A “War Economy”",
@@ -75,92 +179,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "At least 14 people killed in Israeli strikes across Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/4/5/at-least-14-people-killed-in-israeli-strikes-across-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-05T16:15:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Calling Iran a “Civilizational State” Is Not Wrong; It Is Incomplete",
-      "url": "https://www.globalresearch.ca/calling-iran-civilizational-state-not-wrong-incomplete/5921239",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-05T15:59:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel says more than 1,000 Iranian missiles still threaten it",
-      "url": "https://economictimes.indiatimes.com/news/defence/israel-says-more-than-1000-iranian-missiles-still-threaten-it/articleshow/130042162.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-05T15:57:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What to know about the rescue of a U.S. aviator shot down in Iran",
-      "url": "https://www.pbs.org/newshour/world/what-to-know-about-the-rescue-of-a-u-s-aviator-shot-down-in-iran",
-      "source": "PBS",
-      "publishedAt": "2026-04-05T15:44:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump issues expletive-laden threat against Iran as details of U.S. aviator's rescue emerge",
-      "url": "https://www.pbs.org/newshour/nation/trump-issues-expletive-laden-threat-against-iran-as-details-of-u-s-aviators-rescue-emerge",
-      "source": "PBS",
-      "publishedAt": "2026-04-05T15:41:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump issues expletive-laden threat against Iran as details of U.S. aviator's rescue emerge",
-      "url": "https://www.pbs.org/newshour/world/trump-issues-expletive-laden-threat-against-iran-as-details-of-u-s-aviators-rescue-emerge",
-      "source": "PBS",
-      "publishedAt": "2026-04-05T15:41:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump issues expletive-filled threat against Iran as details of U.S. aviator's rescue emerge",
-      "url": "https://www.pbs.org/newshour/world/trump-issues-expletive-filled-threat-against-iran-as-details-of-u-s-aviators-rescue-emerge",
-      "source": "PBS",
-      "publishedAt": "2026-04-05T15:41:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "At least 11 killed in Israeli airstrikes on Lebanon",
-      "url": "https://www.rte.ie/news/2026/0405/1566832-middle-east-lebanon/",
-      "source": "RTE",
-      "publishedAt": "2026-04-05T15:37:47Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Why an attack on Bushehr nuclear plant would be catastrophic for the Gulf",
       "url": "https://www.aljazeera.com/news/2026/4/5/why-an-attack-on-bushehr-nuclear-plant-would-be-catastrophic-for-the-gulf",
       "source": "Al Jazeera English",
       "publishedAt": "2026-04-05T15:05:49Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump threatens 'hell' for Iran over Strait of Hormuz",
-      "url": "https://www.hurriyetdailynews.com/trump-threatens-hell-for-iran-over-strait-of-hormuz-220659",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-04-05T14:57:29Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hell and Stone Age: As Iran war rhetoric intensifies, war veteran explains where conflict could go from here",
-      "url": "https://indianexpress.com/article/explained/explained-global/iran-war-endgame-options-us-10620468/",
-      "source": "The Indian Express",
-      "publishedAt": "2026-04-05T14:47:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "A brief history of the Israeli nuclear program, the open secret at the heart of the Iran war",
@@ -191,38 +215,6 @@
       "url": "https://www.naturalnews.com/2026-04-05-trump-escalates-feud-allies-over-strait-hormuz.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-04-05T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin's internet crackdown feels like 'the Soviet era but on steroids'",
-      "url": "https://www.abc.net.au/news/2026-04-05/russia-internet-crackdown-vladimir-putin/106492926",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-05T04:15:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Multipolarity As World Government 3.0 & Its Pied Pipers",
-      "url": "https://www.activistpost.com/multipolarity-as-world-government-3-0-its-pied-pipers/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-04-05T01:36:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "What Beijing Is Learning From Operation Epic Fury",
-      "url": "https://oilprice.com/Energy/Energy-General/What-Beijing-Is-Learning-From-Operation-Epic-Fury.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-04-04T23:00:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Battle for Bulgaria: The EU opens a new front in its election war",
-      "url": "https://www.rt.com/news/637295-bulgaria-eu-election-hungary/",
-      "source": "RT",
-      "publishedAt": "2026-04-04T18:37:17Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

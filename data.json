@@ -1,62 +1,142 @@
 {
-  "updated": "2026-04-08T16:20:49Z",
-  "count": 45,
+  "updated": "2026-04-08T20:08:25Z",
+  "count": 42,
   "articles": [
+    {
+      "title": "Trump’s Deadline For The Opening Of The Strait Of Hormuz Is “Final”",
+      "url": "https://www.shtfplan.com/war/trumps-deadline-for-the-opening-of-the-strait-of-hormuz-is-final",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-04-07T20:00:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Crude Closes Mixed on War Signals",
+      "url": "https://www.rigzone.com/news/wire/crude_closes_mixed_on_war_signals-07-apr-2026-183397-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-04-07T19:59:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel Sold Trump On War With Shaky Intel Pitch: REPORT",
+      "url": "https://dailycaller.com/2026/04/07/israel-sold-trump-on-war-with-shaky-intel-pitch-report/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-04-07T19:49:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Report: Iran calls off US talks hours before Trump deadline",
+      "url": "https://www.israelnationalnews.com/news/425191",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-07T19:33:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "17 Killed and 44 Injured, Including a Driver contracted by the World Health Organization",
+      "url": "https://mezan.org/en/post/46846",
+      "source": "Mezan.org",
+      "publishedAt": "2026-04-07T19:31:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘There Will Be No Genocide Tonight’: Conservatives Rip Media ‘Hysteria’ Over Trump Iran Threat",
+      "url": "https://www.mediaite.com/media/news/there-will-be-no-genocide-tonight-conservatives-rip-media-hysteria-over-trump-iran-threat/",
+      "source": "Mediaite",
+      "publishedAt": "2026-04-07T19:28:47Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "UN peacekeepers in Lebanon killed by Israeli tank fire and Hezbollah bomb",
+      "url": "https://www.thejournal.ie/un-peacekeepers-killed-israel-lebanon-7005957-Apr2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-04-07T19:24:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Did Trump Just Threaten to Use Nuclear Weapons in Iran?",
+      "url": "https://www.theatlantic.com/ideas/2026/04/trump-truthsocial-destruction-iran/686716/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-04-07T18:41:52Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "'Huge mistake': Trump's latest Iran threats prompt political allies to push back",
+      "url": "https://www.abc.net.au/news/2026-04-08/donald-trump-says-entire-iran-civilisation-will-die/106540310",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-07T18:25:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s apocalyptic Iran warning raises stakes for sweeping US strike threat",
+      "url": "https://www.foxnews.com/politics/trumps-apocalyptic-warning-iran-raises-questions-about-scope-potential-us-strikes",
+      "source": "Fox News",
+      "publishedAt": "2026-04-07T18:16:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What has Israel been doing while the world focuses on Trump's actions in Iran?",
+      "url": "https://www.thejournal.ie/israel-iran-west-bank-gaza-palestine-trump-7005288-Apr2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-04-07T18:15:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "China aiding Iran missile program amid US-Israeli strikes, reports say",
+      "url": "https://www.foxnews.com/world/china-aiding-iran-missile-program-amid-us-israeli-strikes-reports-say",
+      "source": "Fox News",
+      "publishedAt": "2026-04-07T17:54:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why Energy Has Become a Foreign-Policy Weapon",
+      "url": "http://foreignpolicy.com/2026/04/07/osullivan-iran-war-energy-weapon-oil-gas-prices/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-04-07T17:07:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US denies nuclear plan as deadline on threat to Iran ‘civilisation’ looms",
+      "url": "https://www.aljazeera.com/news/2026/4/7/us-denies-nuclear-plan-as-deadline-on-threat-to-iran-civilisation-looms",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-07T17:02:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Watch: IDF troops pursue and strike Hezbollah terrorists in Lebanon",
+      "url": "https://www.israelnationalnews.com/news/425188",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-07T16:55:13Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Ukrainian forces operating in Libya have attacked a Russian tanker, officials say",
+      "url": "https://abcnews.com/International/wireStory/ukrainian-forces-operating-libya-attacked-russian-tanker-officials-131806401",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-07T16:24:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "How close is the Middle East to a nuclear catastrophe?",
       "url": "https://www.rt.com/news/637577-iran-nuclear-disaster-risks/",
       "source": "RT",
       "publishedAt": "2026-04-07T16:08:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Is Donald Trump going to use nuclear weapons to kill entire civilization? Latest Trump Iran deadline, Iran war update and Strait of Hormuz crisis",
-      "url": "https://economictimes.indiatimes.com/news/international/us/is-donald-trump-going-to-use-nuclear-weapons-to-kill-entire-civilization-latest-trump-iran-deadline-iran-war-update-and-strait-of-hormuz-crisis/articleshow/130091251.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-07T16:02:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia and China veto watered-down UN resolution aimed at reopening the Strain of Hormuz",
-      "url": "https://economictimes.indiatimes.com/news/defence/russia-and-china-veto-watered-down-un-resolution-aimed-at-reopening-the-strain-of-hormuz/articleshow/130091201.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-07T15:54:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Vance says Iran has '2 pathways' as 12-hour deadline looms, prays US on 'God's side' in nixing nuclear threat",
-      "url": "https://www.foxnews.com/politics/vance-says-iran-2-pathways-12-hour-deadline-looms-prays-us-gods-side-nixing-nuclear-threat",
-      "source": "Fox News",
-      "publishedAt": "2026-04-07T15:43:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Preventing an Iranian Bomb Is Only Getting Harder",
-      "url": "http://foreignpolicy.com/2026/04/07/iran-bomb-nuclear-trump-war-ayatollah-khamenei/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-07T15:07:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Vance Asked If ‘God Is On The Side’ Of America In Iran Conflict As Trump Threatens Massive Strikes",
-      "url": "https://dailycaller.com/2026/04/07/vance-god-side-america-iran-conflict/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-04-07T14:39:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Final Countdown for Oil Markets",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Final-Countdown-for-Oil-Markets.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-04-07T14:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Mum of twins who says home was bombed in Lebanon speaks to BBC",
@@ -65,22 +145,6 @@
       "publishedAt": "2026-04-07T14:12:38Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Political World Stunned by Trump’s Threat to Kill All of Iran in Latest Truth Social Post: ‘Evil and Madness’",
-      "url": "https://www.mediaite.com/media/news/political-world-stunned-by-trumps-threat-to-kill-all-of-iran-in-latest-truth-social-post-evil-and-madness/",
-      "source": "Mediaite",
-      "publishedAt": "2026-04-07T14:12:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Reportedly Strikes Iran’s Kharg Island As Trump Vows ‘Whole Civilization Will Die’ If Deal Isn’t Made",
-      "url": "https://dailycaller.com/2026/04/07/us-strikes-kharg-island-iran-trump-vows-civilzation-die/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-04-07T14:09:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "US Strikes Kharg Island as Trump Says Iran Could ‘Die Tonight’",
@@ -107,60 +171,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "FO Live: Did Trump and Netanyahu Miscalculate Iran’s Resolve?",
-      "url": "https://www.fairobserver.com/world-news/middle-east-news/fo-live-did-trump-and-netanyahu-miscalculate-irans-resolve/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-04-07T13:51:13Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IRAN CALLS FOR HUMAN CHAINS",
-      "url": "https://www.military.com/daily-news/2026/04/07/iran-calls-human-chains-protect-power-plants-trumps-deadline-nears.html",
-      "source": "Military.com",
-      "publishedAt": "2026-04-07T13:46:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "South Korea turns to EU to revive talks with the North",
       "url": "https://www.dw.com/en/south-korea-turns-to-eu-to-revive-talks-with-the-north/a-76690973",
       "source": "DW (English)",
       "publishedAt": "2026-04-07T13:22:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump warns a 'whole civilization will die tonight' if a deal with Iran isn't reached",
-      "url": "https://abcnews.com/Business/wireStory/trump-warns-civilization-die-tonight-deal-iran-reached-131789441",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-07T13:19:50Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump warns a 'whole civilization will die tonight' if a deal with Iran isn't reached",
-      "url": "https://www.pbs.org/newshour/world/trump-warns-a-whole-civilization-will-die-tonight-if-a-deal-with-iran-isnt-reached",
-      "source": "PBS",
-      "publishedAt": "2026-04-07T13:05:42Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran’s president says 14 million have offered to risk their lives just to stand up to Trump",
-      "url": "https://fortune.com/2026/04/07/irans-president-says-14-million-have-offered-to-risk-their-lives-just-to-stand-up-to-trump/",
-      "source": "Fortune",
-      "publishedAt": "2026-04-07T12:31:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran calls for human chains to protect power plants as Trump's deadline nears",
-      "url": "https://toronto.citynews.ca/2026/04/07/iran-calls-for-human-chains-to-protect-power-plants-as-trumps-deadline-nears/",
-      "source": "Citynews.ca",
-      "publishedAt": "2026-04-07T12:30:27Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Taiwanese opposition leader to meet China’s Xi in a test of diplomatic skill",
@@ -215,30 +231,6 @@
       "url": "https://www.globalresearch.ca/united-states-ukraine-azov-close-allies/5921445",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-04-07T05:45:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Czech Republic took in huge numbers of Ukrainians. Its new government is not so welcoming",
-      "url": "https://www.irishtimes.com/world/europe/2026/04/07/czech-republic-took-in-huge-numbers-of-ukrainian-refugees-its-new-government-is-not-so-welcoming/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-04-07T04:59:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Donald’s Doomed Persian Adventure",
-      "url": "https://www.theamericanconservative.com/the-donalds-doomed-persian-adventure/",
-      "source": "The American Conservative",
-      "publishedAt": "2026-04-07T04:01:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump is hastening Britain’s return to the EU",
-      "url": "https://www.irishtimes.com/business/economy/2026/04/07/trump-is-hastening-britains-return-to-the-eu/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-04-07T04:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -321,22 +313,6 @@
       "publishedAt": "2026-04-06T13:52:20Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "North Korea leader's sister says Seoul's regret sending drones 'wise behaviour'",
-      "url": "https://www.channelnewsasia.com/east-asia/kim-yo-jong-kim-jong-un-sister-seoul-regret-drone-wise-behaviour-6039171",
-      "source": "CNA",
-      "publishedAt": "2026-04-06T13:17:52Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "'Credible intelligence' reveals North Korea's successor to Kim Jong Un, South Korea says",
-      "url": "https://www.foxnews.com/world/credible-intelligence-reveals-north-koreas-successor-kim-jong-un-south-korea-says",
-      "source": "Fox News",
-      "publishedAt": "2026-04-06T12:20:31Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "China’s Absence Draws America Deeper Into Risky Wars",

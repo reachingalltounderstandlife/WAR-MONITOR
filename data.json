@@ -1,22 +1,222 @@
 {
-  "updated": "2026-04-07T20:05:21Z",
-  "count": 38,
+  "updated": "2026-04-08T06:05:56Z",
+  "count": 41,
   "articles": [
     {
-      "title": "Why Iran is becoming Trump’s ‘forever war’",
-      "url": "https://www.rt.com/news/637481-iran-trump-forever-war/",
-      "source": "RT",
-      "publishedAt": "2026-04-06T18:54:50Z",
+      "title": "U.S.-Israeli Strikes Target Iranian University, Civilian Casualties Reported",
+      "url": "https://www.naturalnews.com/2026-04-07-us-israeli-strikes-iranian-university-civilian-casualties.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-07T06:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Airstrikes come within 82 yards of Iran’s nuclear power plant: UN watchdog",
-      "url": "https://nypost.com/2026/04/06/world-news/airstrikes-come-within-82-yards-of-irans-nuclear-power-plant-un-watchdog/",
-      "source": "New York Post",
-      "publishedAt": "2026-04-06T18:47:07Z",
+      "title": "Legal Scholars Warn U.S. Strikes on Iran May Constitute War Crimes",
+      "url": "https://www.naturalnews.com/2026-04-07-legal-scholars-us-strikes-constitute-war-crimes.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-07T06:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Poland is an EU success story. So, why is it facing growing calls for ‘Polexit’?",
+      "url": "https://www.irishtimes.com/world/europe/2026/04/07/poland-is-an-eu-success-story-so-why-is-it-facing-growing-calls-for-polexit/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-07T05:50:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Have the United States and Ukraine’s Azov Batalion Returned to Being Close Allies?",
+      "url": "https://www.globalresearch.ca/united-states-ukraine-azov-close-allies/5921445",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-07T05:45:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran defiant as deadline looms for Trump threat to infrastructure",
+      "url": "https://www.hurriyetdailynews.com/iran-defiant-as-deadline-looms-for-trump-threat-to-infrastructure-220717",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-07T05:30:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Donald Trump's shifting Iran war rhetoric is working against his credibility",
+      "url": "https://www.abc.net.au/news/2026-04-07/donald-trump-shifting-rhetoric-on-iran-war/106537698",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-07T05:27:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s ultimatum and the Red Sea: Why Iran cannot surrender",
+      "url": "https://www.israelnationalnews.com/news/425158",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-07T05:25:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Missiles Hit Saudi Arabia’s Key Industrial Hub — Reports",
+      "url": "https://sputnikglobe.com/20260407/missiles-hit-saudi-arabias-key-industrial-hub--reports-1123956061.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-07T05:15:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Striking Iran’s Infrastructure Would Have Little Military Impact – Report",
+      "url": "https://sputnikglobe.com/20260407/striking-irans-infrastructure-would-have-little-military-impact--report-1123955905.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-07T05:08:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Czech Republic took in huge numbers of Ukrainians. Its new government is not so welcoming",
+      "url": "https://www.irishtimes.com/world/europe/2026/04/07/czech-republic-took-in-huge-numbers-of-ukrainian-refugees-its-new-government-is-not-so-welcoming/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-07T04:59:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump: 'Whole civilization will die' if no Iran-US deal",
+      "url": "https://www.rte.ie/news/middle-east/2026/0407/1566970-iran-us-israel/",
+      "source": "RTE",
+      "publishedAt": "2026-04-07T04:39:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Saudi Arabia intercepts 7 missiles; debris falls near energy facilities",
+      "url": "https://www.thehindubusinessline.com/news/world/saudi-arabia-intercepts-7-missiles-debris-falls-near-energy-facilities/article70832816.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-07T04:34:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Donald Trump threatens to ‘take out Iran in one night’ as ceasefire rejected",
+      "url": "https://www.independent.ie/world-news/middle-east/donald-trump-threatens-to-take-out-iran-in-one-night-as-ceasefire-rejected/a932121055.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-07T04:30:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Donald’s Doomed Persian Adventure",
+      "url": "https://www.theamericanconservative.com/the-donalds-doomed-persian-adventure/",
+      "source": "The American Conservative",
+      "publishedAt": "2026-04-07T04:01:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump is hastening Britain’s return to the EU",
+      "url": "https://www.irishtimes.com/business/economy/2026/04/07/trump-is-hastening-britains-return-to-the-eu/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-07T04:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel-Iran war left mark on NATO, rift began with Greenland, says Trump",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/israel-iran-war-left-mark-on-nato-rift-began-with-greenland-says-trump/articleshow/130075423.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-07T03:59:45Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran war left mark on NATO, rift began with Greenland: Trump",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-war-left-mark-on-nato-rift-began-with-greenland-trump/article70832818.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-07T03:53:43Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel launches fresh strikes in Beirut as Hezbollah faces homegrown anger over new war - timesofisrael.com",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181396218",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-07T02:12:43Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "‘They want to create a rift’: Israeli attacks deepen Lebanon fissures",
+      "url": "https://www.aljazeera.com/features/2026/4/7/creating-rift-part-of-game-plan-israeli-attacks-deepen-lebanon-fissures",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-07T02:03:34Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Pierre Poilievre: Canada’s strategic resources can strengthen US relations, economic policies are overtaxing citizens, and Iran poses a significant threat | The Diary of a CEO",
+      "url": "https://cryptobriefing.com/pierre-poilievre-canadas-strategic-resources-can-strengthen-us-relations-economic-policies-are-overtaxing-citizens-and-iran-poses-a-significant-threat-the-diary-of-a-ceo/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-07T01:29:45Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Trump's threats against Iran could be war crimes if carried out, some experts say",
+      "url": "https://abcnews.com/Politics/trumps-threats-iran-war-crimes-carried-experts/story?id=131779067",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-07T00:08:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Time for the White (jacket) Men",
+      "url": "https://original.antiwar.com/david_stockman/2026/04/06/time-for-the-white-jacket-men/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-04-07T00:00:56Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Iran Rejects Direct Talks Amid Escalation As Israel Attacks Key Petrochemical Plant",
+      "url": "https://www.shtfplan.com/war/iran-rejects-direct-talks-amid-escalation-as-israel-attacks-key-petrochemical-plant",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-04-06T22:30:21Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Iran, U.S. Reject Cease-Fire Proposals",
+      "url": "http://foreignpolicy.com/2026/04/06/trump-iran-us-war-cease-fire-proposal-pakistan-hormuz-deadline-strikes/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-04-06T20:56:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon’s Hezbollah and Yemen’s Houthis join Iran in strike on Israel",
+      "url": "https://www.aljazeera.com/news/2026/4/6/lebanons-hezbollah-and-yemens-houthis-join-iran-in-strike-on-israel",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-06T20:22:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Christian Party Official Killed by Israeli Strike Targeting Hezbollah in Lebanon",
+      "url": "https://www.breitbart.com/national-security/2026/04/06/christian-party-official-killed-by-israeli-strike-targeting-hezbollah-in-lebanon/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-04-06T20:17:41Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel targets Lebanon’s health care system, echoing actions in Gaza, doctors warn",
+      "url": "https://www.theglobeandmail.com/world/article-israel-lebanon-gaza-health-care/",
+      "source": "The Globe And Mail",
+      "publishedAt": "2026-04-06T20:06:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The ayatollahs’ enforcers",
@@ -25,54 +225,6 @@
       "publishedAt": "2026-04-06T18:34:36Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Democrats blast Trump for Iran ‘war crimes’ threat; Republicans supportive",
-      "url": "https://www.aljazeera.com/news/2026/4/6/democrats-blast-trump-for-iran-war-crimes-threat-republicans-supportive",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-06T17:51:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Suspected Chemical Shipments From China to Iran Raise Concerns Over Potential Missile Expansion",
-      "url": "https://gcaptain.com/suspected-chemical-shipments-from-china-to-iran-raise-concerns-over-potential-missile-expansion/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-04-06T17:49:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump’s Homicidal Easter Threat—Who Will Stop This Mad Man?",
-      "url": "https://www.commondreams.org/opinion/trump-s-easter-war-crimes-post",
-      "source": "Common Dreams",
-      "publishedAt": "2026-04-06T17:38:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Middle East is ‘on fire’ – Kremlin",
-      "url": "https://www.rt.com/news/637471-iran-us-israel-peskov/",
-      "source": "RT",
-      "publishedAt": "2026-04-06T17:27:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "President Donald Trump's emergency command aircraft 'Doomsday Plane' spotted above this US base as E-4B flight triggers war speculation",
-      "url": "https://economictimes.indiatimes.com/news/international/us/president-donald-trumps-emergency-command-aircraft-doomsday-plane-spotted-above-this-us-base-as-e-4b-flight-triggers-war-speculation/articleshow/130063837.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-06T17:23:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Doctors warn that Israel is targeting Lebanon's health care system, as it did Gaza's",
-      "url": "https://www.thestar.com/news/world/middle-east/after-gaza-devastation-israeli-attacks-on-lebanons-health-care-system-feel-familiar-for-many/article_3bfa9e68-c394-5d95-aebd-7a75f6f757c6.html",
-      "source": "Toronto Star",
-      "publishedAt": "2026-04-06T17:15:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Watch this video of how a job interviewer exposes a North Korean fake IT worker | TechCrunch",
@@ -91,14 +243,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Tehran rejects latest ceasefire proposal, wants permanent end to the war: Iran's state media",
-      "url": "https://www.thehindubusinessline.com/news/world/tehran-rejects-latest-ceasefire-proposal-wants-permanent-end-to-the-war-irans-state-media/article70831230.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-04-06T15:20:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Heather Cox Richardson: Trump Is Not Well",
       "url": "https://dianeravitch.net/2026/04/06/heather-cox-richardson-trump-is-not-well-2/",
       "source": "Dianeravitch.net",
@@ -107,44 +251,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Israel hits Iran petrochemical complex after Trump threats",
-      "url": "https://www.digitaljournal.com/world/israel-hits-iran-petrochemical-complex-after-trump-threats/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-06T14:57:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US, Iran Study Ceasefire Plan as Deadline Nears on Trump’s ‘Hell’ Threat",
-      "url": "https://www.insurancejournal.com/news/international/2026/04/06/864598.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-04-06T14:33:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli strike kills Christian party official in Lebanon, widening divisions over Hezbollah - Reuters",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181387294",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-04-06T14:32:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "South Korea apologizes to North over drone incursions",
       "url": "https://www.rt.com/news/637465-korea-drone-lee-us/",
       "source": "RT",
       "publishedAt": "2026-04-06T14:16:51Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Israel hits key Iranian petrochemical plant in massive gas field as mediators float ceasefire proposal",
-      "url": "https://www.pbs.org/newshour/world/israel-hits-key-iranian-petrochemical-plant-in-massive-gas-field-as-mediators-float-ceasefire-proposal",
-      "source": "PBS",
-      "publishedAt": "2026-04-06T14:01:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Global Energy Crisis Or Iranian Surrender In Five Weeks?",
@@ -161,22 +273,6 @@
       "publishedAt": "2026-04-06T13:52:20Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Doctors warn Israel targeting Lebanon's health care system, like Gaza",
-      "url": "https://www.bostonherald.com/2026/04/06/israel-lebanon-health-care-system-gaza/",
-      "source": "Boston Herald",
-      "publishedAt": "2026-04-06T13:23:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S., Iran Study Ceasefire Plan As Trump’s ‘Hell’ Warning Nears Deadline",
-      "url": "https://www.huffpost.com/entry/us-iran-ceasefire-plan_n_69d3b259e4b05047ac8eff37",
-      "source": "HuffPost",
-      "publishedAt": "2026-04-06T13:21:10Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "North Korea leader's sister says Seoul's regret sending drones 'wise behaviour'",
@@ -227,82 +323,10 @@
       "_label": "N. Korea"
     },
     {
-      "title": "South Korea president says he regrets 'reckless' drones sent to North",
-      "url": "https://japantoday.com/category/world/south-korea-president-says-regrets-%27reckless%27-drones-sent-to-north1",
-      "source": "Japan Today",
-      "publishedAt": "2026-04-06T03:38:23Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Answering the 10 most important questions about the Iran war",
-      "url": "https://nypost.com/2026/04/05/opinion/answering-the-10-most-important-questions-about-the-iran-war/",
-      "source": "New York Post",
-      "publishedAt": "2026-04-06T01:49:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "A Reminder for Trump’s Critics: Years of Diplomacy Ended in a Nuclear North Korea",
       "url": "https://legalinsurrection.com/2026/04/a-reminder-for-trumps-critics-years-of-diplomacy-ended-in-a-nuclear-north-korea/",
       "source": "Legalinsurrection.com",
       "publishedAt": "2026-04-06T01:00:40Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Sign Of The Times",
-      "url": "https://chinaarticles.substack.com/p/sign-of-the-times",
-      "source": "Substack.com",
-      "publishedAt": "2026-04-06T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UK intelligence censored report on global warming and homeland security",
-      "url": "https://theoryofchange1.substack.com/p/from-global-warming-to-homeland-security",
-      "source": "Substack.com",
-      "publishedAt": "2026-04-05T20:59:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "‘We bow to no one’: Trenin sets out Russia’s worldview in a “new world war”",
-      "url": "https://www.rt.com/russia/637361-we-bow-to-no-one/",
-      "source": "RT",
-      "publishedAt": "2026-04-05T19:36:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "France Prepares For A “War Economy”",
-      "url": "https://www.shtfplan.com/war/france-prepares-for-a-war-economy",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-04-05T17:30:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Top Republicans Rally Around Trump, Question Point of 'Feckless' and 'Weak' NATO Allies",
-      "url": "https://www.breitbart.com/europe/2026/04/05/top-republicans-rally-around-trump-question-point-of-feckless-and-weak-nato-allies/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-04-05T17:27:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why an attack on Bushehr nuclear plant would be catastrophic for the Gulf",
-      "url": "https://www.aljazeera.com/news/2026/4/5/why-an-attack-on-bushehr-nuclear-plant-would-be-catastrophic-for-the-gulf",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-05T15:05:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A brief history of the Israeli nuclear program, the open secret at the heart of the Iran war",
-      "url": "https://mondoweiss.net/2026/04/a-brief-history-of-the-israeli-nuclear-program-the-open-secret-at-the-heart-of-the-iran-war/",
-      "source": "Mondoweiss",
-      "publishedAt": "2026-04-05T13:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
     }

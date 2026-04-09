@@ -1,102 +1,150 @@
 {
-  "updated": "2026-04-09T16:48:41Z",
-  "count": 37,
+  "updated": "2026-04-09T20:36:35Z",
+  "count": 41,
   "articles": [
     {
-      "title": "Iranian Media: Regime Halts Strait of Hormuz Traffic Over Strikes in Lebanon",
-      "url": "https://legalinsurrection.com/2026/04/iranian-media-regime-halts-strait-of-hormuz-traffic-over-strikes-in-lebanon/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-04-08T16:36:26Z",
+      "title": "Has the Iran War Ceasefire Already Ceased?",
+      "url": "https://reason.com/2026/04/08/has-the-iran-war-ceasefire-already-ceased/",
+      "source": "Reason",
+      "publishedAt": "2026-04-08T20:35:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "With Israel's 'finger on the trigger', can the truce last? Matthew Doran has what you need to know",
+      "url": "https://www.abc.net.au/news/2026-04-09/iran-israel-war-daily-briefing/106544586",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-08T20:23:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Iran War Is Not Over",
+      "url": "http://nymag.com/intelligencer/article/the-iran-war-is-not-over.html",
+      "source": "New York Magazine",
+      "publishedAt": "2026-04-08T20:22:05Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Trump Bullish on Iran Deal, but Uncertainty Remains",
-      "url": "https://www.dailysignal.com/2026/04/08/trump-bullish-on-iran-deal-but-uncertainty-remains/",
-      "source": "Daily Signal",
-      "publishedAt": "2026-04-08T16:34:35Z",
+      "title": "Israel Pounds Lebanon Despite ‘Fragile’ Ceasefire",
+      "url": "https://dailycaller.com/2026/04/08/israel-lebanon-ceasefire/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-04-08T20:17:59Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran and US already at odds over ceasefire terms",
+      "url": "https://www.abc.net.au/news/2026-04-09/iran-and-us-at-odds-over-ceasefire-terms/106544598",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-08T20:16:03Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Iran Guards: 'Regret-inducing response' if Israeli don't stop strikes on Lebanon",
+      "url": "https://timesofmalta.com/article/scale-killing-lebanon-horrific-un-rights-chief-says.1126630",
+      "source": "Times of Malta",
+      "publishedAt": "2026-04-08T20:15:43Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Within a day, the Iran-U.S. cease-fire began breaking down. Markets shrugged",
+      "url": "https://fortune.com/2026/04/08/ceasefire-iran-breaking-markets-sp-dow-crude-oil-price/",
+      "source": "Fortune",
+      "publishedAt": "2026-04-08T20:12:11Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "UK's NATO show of force ends with docked Destroyer in Mediterranean after 'technical' issue",
+      "url": "https://www.foxnews.com/world/uks-nato-show-force-ends-docked-destroyer-mediterranean-after-technical-issue",
+      "source": "Fox News",
+      "publishedAt": "2026-04-08T20:11:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "5 Unanswered Questions on the U.S.-Iran Cease-Fire",
+      "url": "http://foreignpolicy.com/2026/04/08/us-iran-cease-fire-israel-lebanon-strait-hormuz-questions/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-04-08T20:04:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "What are Israel's goals in Lebanon?",
+      "url": "https://www.wbur.org/onpoint/2026/04/08/israel-goals-in-lebanon-netanyahu-iran",
+      "source": "WBUR",
+      "publishedAt": "2026-04-08T20:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘This Is Not the End’: Netanyahu Says Israel Still Has Goals to Achieve In Iran Campaign",
+      "url": "https://www.mediaite.com/media/news/this-is-not-the-end-netanyahu-says-israel-still-has-goals-to-achieve-in-iran-campaign/",
+      "source": "Mediaite",
+      "publishedAt": "2026-04-08T19:49:52Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Vance to lead US delegation to Iran talks on Saturday",
+      "url": "https://www.channelnewsasia.com/world/us-iran-israel-ceasefire-vance-trump-negotiation-6044766",
+      "source": "CNA",
+      "publishedAt": "2026-04-08T19:48:34Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "World reacts to ‘brutal’ Israeli attacks on Lebanon amid US-Iran ceasefire",
+      "url": "https://www.aljazeera.com/news/2026/4/8/world-reacts-to-brutal-israeli-attacks-on-lebanon-amid-us-iran-ceasefire",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-08T19:47:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Bloody day in Lebanon puts fragile ceasefire at risk",
+      "url": "https://www.rte.ie/news/world/2026/0408/1567294-analysis-lebanon-ceasefire/",
+      "source": "RTE",
+      "publishedAt": "2026-04-08T19:44:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What does the Iran ceasefire deal mean? Depends on which side you talk to",
+      "url": "https://www.pbs.org/newshour/world/what-does-the-iran-ceasefire-deal-mean-depends-on-which-side-you-talk-to",
+      "source": "PBS",
+      "publishedAt": "2026-04-08T19:43:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump And Rubio To Meet With NATO Chief Amid Betrayal by European Allies in Operation Epic Fury",
+      "url": "https://freerepublic.com/focus/f-news/4374130/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-04-08T18:41:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran war: who gained ground, who lost influence",
+      "url": "https://www.dw.com/en/iran-war-who-gained-ground-who-lost-influence/a-76712134",
+      "source": "DW (English)",
+      "publishedAt": "2026-04-08T18:36:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Trump says he didn’t play madman to scare Iran into cease-fire: ‘I was willing to do it’",
       "url": "https://nypost.com/2026/04/08/us-news/trump-says-he-didnt-play-madman-to-scare-iran-into-cease-fire-i-was-willing-to-do-it/",
       "source": "New York Post",
       "publishedAt": "2026-04-08T16:32:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel Launches Massive Strikes on Lebanon, Excluding Country from Ceasefire",
-      "url": "https://www.breitbart.com/middle-east/2026/04/08/israel-launches-massive-strikes-on-lebanon-excluding-country-from-ceasefire/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-04-08T16:32:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "WATCH LIVE: White House holds briefing as Trump agrees to two-week ceasefire in Iran war",
-      "url": "https://www.pbs.org/newshour/politics/watch-live-white-house-holds-briefing-as-trump-agrees-to-two-week-ceasefire-in-iran-war",
-      "source": "PBS",
-      "publishedAt": "2026-04-08T16:31:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Reportedly Shutters Strait Of Hormuz Again After Accusing Israel Of Ceasefire Violations",
-      "url": "https://dailycaller.com/2026/04/08/iran-shutters-hormuz-strait-report/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-04-08T16:22:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Much remains unclear after U.S., Israel and Iran agree to a 2-week ceasefire",
-      "url": "https://www.pbs.org/newshour/world/much-remains-unclear-after-u-s-israel-and-iran-agree-to-a-2-week-ceasefire",
-      "source": "PBS",
-      "publishedAt": "2026-04-08T16:16:19Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "How Trump went from threatening Iran's annihilation to agreeing to a two-week ceasefire in a day",
-      "url": "https://www.pbs.org/newshour/world/how-trump-went-from-threatening-irans-annihilation-to-agreeing-to-a-two-week-ceasefire-in-a-day",
-      "source": "PBS",
-      "publishedAt": "2026-04-08T16:04:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "As U.S. and Iran agree to a ceasefire, what's actually in the deal — and will it last?",
-      "url": "https://www.nbcnews.com/world/iran/us-iran-agree-ceasefire-actually-deal-will-last-rcna266838",
-      "source": "NBC News",
-      "publishedAt": "2026-04-08T16:01:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran Ceasefire Claims Diverge as Hormuz Stays Blocked",
-      "url": "https://financialpost.com/pmn/business-pmn/us-iran-ceasefire-claims-diverge-as-hormuz-stays-blocked",
-      "source": "Financial Post",
-      "publishedAt": "2026-04-08T15:55:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Despite Ceasefire With Iran, Israel Pummels Lebanon With ‘Apocalyptic’ Strikes",
-      "url": "https://www.commondreams.org/news/israel-lebanon-iran-ceasefire",
-      "source": "Common Dreams",
-      "publishedAt": "2026-04-08T15:52:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How Pakistan managed to get the US and Iran to a ceasefire",
-      "url": "https://www.aljazeera.com/features/2026/4/8/how-pakistan-managed-to-get-the-us-and-iran-to-a-ceasefire",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-08T15:49:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "There Are So Many Things Wrong With Trump’s Two-Week Deadline to Negotiate Peace With Iran",
@@ -105,14 +153,6 @@
       "publishedAt": "2026-04-08T15:46:23Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Iran shuts Strait of Hormuz in retaliation for Israeli strikes on Hezbollah - report",
-      "url": "https://freerepublic.com/focus/f-news/4374116/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-04-08T15:39:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Anne Applebaum: Does Trump Know What He is Doing?",
@@ -199,14 +239,6 @@
       "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-meets-nato-chief-as-iran-war-strains-alliance/articleshow/130110622.cms",
       "source": "The Times of India",
       "publishedAt": "2026-04-08T12:03:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump is expected to meet NATO leader Rutte as he muses about pulling out of the military alliance",
-      "url": "https://abcnews.com/US/wireStory/trump-expected-meet-nato-leader-rutte-muses-pulling-131830331",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-08T11:36:47Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

@@ -1,38 +1,182 @@
 {
-  "updated": "2026-04-10T19:58:17Z",
-  "count": 32,
+  "updated": "2026-04-11T05:18:35Z",
+  "count": 31,
   "articles": [
     {
-      "title": "Israeli strikes kill more than 180 in central Beirut, saying Iran truce doesn't apply - PBS",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181500238",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-04-09T19:53:03Z",
+      "title": "In Pakistan’s mediation to end Mideast war, China may hold the key",
+      "url": "https://www.digitaljournal.com/world/in-pakistans-mediation-to-end-mideast-war-china-may-hold-the-key/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-10T05:12:20Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "U.S. to lead ceasefire talks between Lebanon and Israel in D.C.",
-      "url": "https://www.cbsnews.com/news/lebanon-israel-ceasefire-talks-us-washington/",
-      "source": "CBS News",
-      "publishedAt": "2026-04-09T19:46:02Z",
+      "title": "Oil Holds Gain After Attacks Lower Saudi Production Capacity",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-holds-gain-after-attacks-lower-saudi-production-capacity",
+      "source": "Financial Post",
+      "publishedAt": "2026-04-10T04:53:56Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Israel-Lebanon ceasefire talks risk stalling out of sight",
-      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0409/1567472-lebanon-israel-analysis/",
-      "source": "RTE",
-      "publishedAt": "2026-04-09T19:45:35Z",
+      "title": "Christians demand Lebanon be included in ceasefire",
+      "url": "https://www.christiantoday.com/news/christians-demand-lebanon-be-included-in-ceasefire",
+      "source": "Christiantoday.com",
+      "publishedAt": "2026-04-10T04:38:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iranians support their government's defeat",
+      "url": "https://www.israelnationalnews.com/news/425280",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-10T04:32:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Families dig for survivors as ‘barbaric’ Israeli strikes kill more hundreds of people across Lebanon",
+      "url": "https://www.independent.ie/world-news/middle-east/families-dig-for-survivors-as-barbaric-israeli-strikes-kill-more-hundreds-of-people-across-lebanon/a1498874877.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-10T04:30:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Israel-Lebanon ceasefire talks risk stalling out of sight",
-      "url": "https://www.rte.ie/news/2026/0409/1567472-lebanon-israel-analysis/",
-      "source": "RTE",
-      "publishedAt": "2026-04-09T19:45:35Z",
+      "title": "Trump says Iran ‘doing very poor job’ of letting oil through as Vance heads to Pakistan for ceasefire talks",
+      "url": "https://www.independent.ie/world-news/middle-east/trump-says-iran-doing-very-poor-job-of-letting-oil-through-as-vance-heads-to-pakistan-for-ceasefire-talks/a802974940.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-10T04:30:00Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Daily Briefing: Energy a priority for India as Jaishankar rushes to West Asia amid fragile truce",
+      "url": "https://indianexpress.com/article/live-news/daily-briefing-top-news-today-10628903/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-04-10T04:15:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "M-East crisis: Calls grow for inclusion of Lebanon in peace deal",
+      "url": "https://www.vanguardngr.com/2026/04/m-east-crisis-calls-grow-for-inclusion-of-lebanon-in-peace-deal/",
+      "source": "Vanguard",
+      "publishedAt": "2026-04-10T04:10:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Crude surge, geopolitical tensions weigh on IT; financials, paints outperform",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/crude-surge-geopolitical-tensions-weigh-on-it-financials-paints-outperform/article70845933.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-10T04:10:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea tests new electromagnetic and blackout bombs",
+      "url": "https://www.rt.com/news/637898-north-korea-new-weapon-tests/",
+      "source": "RT",
+      "publishedAt": "2026-04-10T04:06:28Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Why the oil crisis is about to worsen amid the ceasefire that wasn't",
+      "url": "https://www.abc.net.au/news/2026-04-10/iran-war-fuel-crisis-set-to-worsen/106550214",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-10T04:04:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran: No US talks until Lebanon ceasefire holds",
+      "url": "https://www.israelnationalnews.com/news/425279",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-10T03:53:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF Chief of Staff Approves Continuation of Israeli Operation in Southern Lebanon",
+      "url": "https://sputnikglobe.com/20260410/idf-chief-of-staff-approves-continuation-of-israeli-operation-in-southern-lebanon-1123966713.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-10T03:44:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war: US to host Israel, Lebanon peace talks",
+      "url": "https://www.dw.com/en/iran-war-us-to-host-israel-lebanon-peace-talks/live-76729523",
+      "source": "DW (English)",
+      "publishedAt": "2026-04-10T03:31:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war: Vance heads to Pakistan for talks with Tehran",
+      "url": "https://www.dw.com/en/iran-war-vance-heads-to-pakistan-for-talks-with-tehran/live-76729523",
+      "source": "DW (English)",
+      "publishedAt": "2026-04-10T03:31:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.K. military deployed to deter threat to undersea cables amid Russian sub presence",
+      "url": "https://www.cbc.ca/news/world/russian-submarines-britain-military-vessels-9.7158613",
+      "source": "CBC News",
+      "publishedAt": "2026-04-10T01:43:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "'Stop doing favors for Mr Putin': WSJ rakes Trump over coals for latest Russia gift",
+      "url": "https://www.rawstory.com/trump-putin-2676695766/",
+      "source": "Raw Story",
+      "publishedAt": "2026-04-10T00:10:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The War in Iran as International Terrorism",
+      "url": "https://original.antiwar.com/nan_levinson/2026/04/09/the-war-in-iran-as-international-terrorism/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-04-10T00:00:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Articles On: South China Sea & Maritime Expansion, Drone & Military Technology, China–Iran Security Ties, Regional Military Readiness, and Strategic Influence & Diplomacy",
+      "url": "https://www.hoover.org/research/articles-south-china-sea-maritime-expansion-drone-military-technology-china-iran-security",
+      "source": "Hoover.org",
+      "publishedAt": "2026-04-10T00:00:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "UK says it has deployed military to deter Russian submarines from attack on undersea cables",
+      "url": "https://japantoday.com/category/world/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables1",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-09T21:36:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Fact-checking Trump and Hegseth's claims of U.S. 'victory' in the Iran war",
+      "url": "https://www.pbs.org/newshour/politics/fact-checking-trump-and-hegseths-claims-of-u-s-victory-in-the-iran-war",
+      "source": "PBS",
+      "publishedAt": "2026-04-09T21:14:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Rutte Defends NATO’s Iran War Response Amid Trump’s Ire",
+      "url": "http://foreignpolicy.com/2026/04/09/iran-strait-hormuz-closed-tolls-nato-rutte-trump-israel-lebanon/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-04-09T20:36:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "‘We’ll Be Your Canada’: Brutal Reality Check for NATO Free-Riders",
@@ -47,80 +191,8 @@
       "url": "https://dailyutahchronicle.com/2026/04/09/the-full-extent-exploring-the-iran-war-with-alan-eyre/",
       "source": "Dailyutahchronicle.com",
       "publishedAt": "2026-04-09T19:27:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Says Netanyahu Promises to “Low-Key It” Now",
-      "url": "https://newrepublic.com/post/208891/trump-netanyahu-promises-low-key-it",
-      "source": "The New Republic",
-      "publishedAt": "2026-04-09T18:54:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran says it ‘would be dumb’ for US to let Netanyahu kill diplomacy",
-      "url": "https://www.aljazeera.com/news/2026/4/9/iran-says-it-would-be-dumb-for-us-to-let-netanyahu-kill-diplomacy",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-09T18:49:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'There Is No Ceasefire': Fox News Host Has Sobering Take On Trump's Iran Deal",
-      "url": "https://www.huffpost.com/entry/fox-news-host-jessica-tarlov-there-is-no-ceasefire-trump-iran-war_n_69d7c962e4b048dba44bbe77",
-      "source": "HuffPost",
-      "publishedAt": "2026-04-09T18:28:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu signals peace talks with Lebanon as Europe abhors continued Israeli bombing",
-      "url": "https://www.politico.eu/article/netanyahu-announces-peace-talks-with-lebanon-amid-israeli-hezbollah-conflict/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-04-09T18:22:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel to Hold Direct Talks with Lebanon After Facing Pressure from Trump Administration",
-      "url": "https://www.mediaite.com/media/news/israel-to-hold-direct-talks-with-lebanon-after-facing-pressure-from-trump-administration/",
-      "source": "Mediaite",
-      "publishedAt": "2026-04-09T18:22:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Tlaib Leads Democrats in Demanding Permanent Ceasefire Deal That Includes Lebanon",
-      "url": "https://www.commondreams.org/news/lebanon-war-powers-resolution",
-      "source": "Common Dreams",
-      "publishedAt": "2026-04-09T18:09:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Thinks It’s Winning the War — as Trump Looks for a Way Out",
-      "url": "http://www.rollingstone.com/politics/politics-features/iran-thinks-winning-war-trump-looks-way-out-1235544221/",
-      "source": "Rolling Stone",
-      "publishedAt": "2026-04-09T17:51:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "MTG Says Trump Is Unstable And Calls For His Removal Over ‘Absolute Madness’",
-      "url": "https://dailycaller.com/2026/04/09/mtg-trump-removal-iran-war/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-04-09T17:27:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Gamer’s Dilemma",
-      "url": "https://www.lrb.co.uk/blog/2026/april/gamer-s-dilemma",
-      "source": "London Review of Books",
-      "publishedAt": "2026-04-09T17:23:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "How Ukraine Benefited from Trump’s Iran War",
@@ -135,48 +207,8 @@
       "url": "https://freerepublic.com/focus/f-bloggers/4374232/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-04-09T15:10:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hungary election: Voters want new EU approach, but tough on Ukraine, poll shows",
-      "url": "https://www.dw.com/en/hungary-election-voters-want-new-eu-approach-but-tough-on-ukraine-poll-shows/a-76722416",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-09T14:45:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hungary election: Voters want new EU approach, but tough Ukraine stance, poll shows",
-      "url": "https://www.dw.com/en/hungary-voters-want-new-eu-approach-tough-stance-on-ukraine/a-76722416",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-09T14:45:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UK deployed military to deter Russian submarines from targeting undersea cables",
-      "url": "https://www.abc.net.au/news/2026-04-10/uk-intercepts-russian-sub-threat/106548994",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-09T14:25:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump complains NATO 'wasn't there when we needed them' after talks with Rutte",
-      "url": "https://www.pbs.org/newshour/world/trump-complains-nato-wasnt-there-when-we-needed-them-after-talks-with-rutte",
-      "source": "PBS",
-      "publishedAt": "2026-04-09T14:19:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump rips into NATO after closed-door meeting: ‘WASN’T THERE WHEN WE NEEDED THEM’",
-      "url": "https://fortune.com/2026/04/09/trump-rips-into-nato-after-closed-door-meeting-wasnt-there-when-we-needed-them/",
-      "source": "Fortune",
-      "publishedAt": "2026-04-09T12:24:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "North Korea says its latest weapons tests included missiles with cluster-bomb warheads",
@@ -217,46 +249,6 @@
       "publishedAt": "2026-04-09T03:05:41Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump says he didn’t play madman to scare Iran into cease-fire: ‘I was willing to do it’",
-      "url": "https://nypost.com/2026/04/08/us-news/trump-says-he-didnt-play-madman-to-scare-iran-into-cease-fire-i-was-willing-to-do-it/",
-      "source": "New York Post",
-      "publishedAt": "2026-04-08T16:32:31Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "There Are So Many Things Wrong With Trump’s Two-Week Deadline to Negotiate Peace With Iran",
-      "url": "https://slate.com/news-and-politics/2026/04/trump-iran-war-news-taco-what-next.html",
-      "source": "Slate Magazine",
-      "publishedAt": "2026-04-08T15:46:23Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "(VIDEO) 10 Key Facts About North Korea's Ballistic Missiles in 2026: Rapid Advances Amid Rising Tensions",
-      "url": "https://www.ibtimes.com.au/video-10-key-facts-about-north-koreas-ballistic-missiles-2026-rapid-advances-amid-rising-1865807",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-04-08T13:39:12Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea fires fresh ballistic missiles as war of words with Seoul intensifies",
-      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-fires-ballistic-missiles-trump-iran-ceasefire-announcement-global-tensions-kim-jong-un-missile-test/articleshow/130115094.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-08T13:16:37Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Will US Nuke Iran to Save the Petrodollar?",
-      "url": "https://www.globalresearch.ca/will-us-nuke-iran-to-save-the-petrodollar/5921668",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-08T12:56:53Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

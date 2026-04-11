@@ -1,30 +1,150 @@
 {
-  "updated": "2026-04-11T05:18:35Z",
-  "count": 31,
+  "updated": "2026-04-11T08:01:45Z",
+  "count": 35,
   "articles": [
     {
-      "title": "In Pakistan’s mediation to end Mideast war, China may hold the key",
-      "url": "https://www.digitaljournal.com/world/in-pakistans-mediation-to-end-mideast-war-china-may-hold-the-key/article",
+      "title": "US, Iran prepare for ceasefire talks as Netanyahu authorises negotiations with Lebanon",
+      "url": "https://www.thehindubusinessline.com/news/world/us-iran-prepare-for-ceasefire-talks-as-netanyahu-authorises-negotiations-with-lebanon/article70846510.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-10T07:54:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Disperse to Survive: The Logic of French Forward Deterrence",
+      "url": "https://warontherocks.com/2026/04/disperse-to-survive-the-logic-of-french-forward-deterrence/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-04-10T07:30:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "No ceasefire in Lebanon, says Netanyahu as Israel steps up strikes; US signals possible talks",
+      "url": "https://indianexpress.com/article/world/no-ceasefire-lebanon-netanyahu-israel-strikes-us-signals-possible-talks-10629087/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-04-10T06:52:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Pakistan prepares to host US-Iran talks, as Lebanon fighting continues",
+      "url": "https://www.vanguardngr.com/2026/04/pakistan-prepares-to-host-us-iran-talks-as-lebanon-fighting-continues/",
+      "source": "Vanguard",
+      "publishedAt": "2026-04-10T06:36:55Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "FTSE 100 Dips 0.05% to 10,603.48 as Fragile Middle East Ceasefire Fuels Oil Rebound and Investor Caution",
+      "url": "https://www.ibtimes.com.au/ftse-100-dips-005-1060348-fragile-middle-east-ceasefire-fuels-oil-rebound-investor-caution-1866001",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-10T06:33:05Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Stocks rally on optimism over Iran war ceasefire, oil extends gains",
+      "url": "https://www.digitaljournal.com/business/stocks-rally-on-optimism-over-iran-war-ceasefire-oil-extends-gains/article",
       "source": "Digital Journal",
-      "publishedAt": "2026-04-10T05:12:20Z",
+      "publishedAt": "2026-04-10T06:26:11Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Oil Holds Gain After Attacks Lower Saudi Production Capacity",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-holds-gain-after-attacks-lower-saudi-production-capacity",
+      "title": "WATCH: Deputies race to rescue woman trapped in sinking pickup truck outside Tampa, Florida",
+      "url": "https://abcnews.com/video/131895093/",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-10T06:24:57Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Warns on Reopening of Hormuz Before US-Iran Peace Talks",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-warns-on-reopening-of-hormuz-before-us-iran-peace-talks",
       "source": "Financial Post",
-      "publishedAt": "2026-04-10T04:53:56Z",
+      "publishedAt": "2026-04-10T06:21:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelenskiy Says Gulf Offers Kyiv Fuel Aid for Anti-Drone Support",
+      "url": "https://financialpost.com/pmn/business-pmn/zelenskiy-says-gulf-offers-kyiv-fuel-aid-for-anti-drone-support",
+      "source": "Financial Post",
+      "publishedAt": "2026-04-10T06:20:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran war: What is happening on day 42 of US-Israeli attacks?",
+      "url": "https://www.aljazeera.com/news/2026/4/10/iran-war-what-is-happening-on-day-42-of-us-israeli-attacks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-10T06:14:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump criticises Iran over continued blockade of Strait of Hormuz; oil prices rise again",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/10/trump-criticises-iran-over-continued-blockade-of-strait-of-hormuz-oil-prices-rise-again/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-10T06:05:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Saudi Pipeline Attack Removes 700,000 Barrels Daily from Oil Exports",
+      "url": "https://www.naturalnews.com/2026-04-10-saudi-pipeline-attack-removes-700k-bpd-oil-exports.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-10T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel’s Self-Sabotage: How a Regime of Chaos Is Destroying Its Own Future",
+      "url": "https://www.naturalnews.com/2026-04-10-israels-self-sabotage-a-regime-of-chaos.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-10T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump mulls troop WITHDRAWALS from NATO allies deemed “unhelpful” in Iran conflict",
+      "url": "https://www.naturalnews.com/2026-04-10-trump-mulls-troop-withdrawals-unhelpful-nato-allies.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-10T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Nearly 1.2 Million Displaced in Lebanon Amid Escalating Cross-Border Fighting",
+      "url": "https://www.naturalnews.com/2026-04-10-many-displaced-lebanon-amid-cross-border-fighting.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-10T06:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Christians demand Lebanon be included in ceasefire",
-      "url": "https://www.christiantoday.com/news/christians-demand-lebanon-be-included-in-ceasefire",
-      "source": "Christiantoday.com",
-      "publishedAt": "2026-04-10T04:38:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "title": "North Korea Conducts Three-Day Weapons Tests",
+      "url": "https://www.naturalnews.com/2026-04-10-north-korea-conducts-three-day-weapons-tests.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-10T06:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US to host Israel-Lebanon talks as strikes threaten Iran ceasefire",
+      "url": "https://www.hurriyetdailynews.com/us-to-host-israel-lebanon-talks-as-strikes-threaten-iran-ceasefire-220851",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-10T05:42:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'There's no Hezbollah here': Beirut neighbourhood takes stock of bombing",
+      "url": "https://www.abc.net.au/news/2026-04-10/lebanon-beirut-health-workers-question-israel-hezbollah-targets/106550900",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-10T05:37:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "Iranians support their government's defeat",
@@ -43,84 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump says Iran ‘doing very poor job’ of letting oil through as Vance heads to Pakistan for ceasefire talks",
-      "url": "https://www.independent.ie/world-news/middle-east/trump-says-iran-doing-very-poor-job-of-letting-oil-through-as-vance-heads-to-pakistan-for-ceasefire-talks/a802974940.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-10T04:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Daily Briefing: Energy a priority for India as Jaishankar rushes to West Asia amid fragile truce",
-      "url": "https://indianexpress.com/article/live-news/daily-briefing-top-news-today-10628903/",
-      "source": "The Indian Express",
-      "publishedAt": "2026-04-10T04:15:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "M-East crisis: Calls grow for inclusion of Lebanon in peace deal",
-      "url": "https://www.vanguardngr.com/2026/04/m-east-crisis-calls-grow-for-inclusion-of-lebanon-in-peace-deal/",
-      "source": "Vanguard",
-      "publishedAt": "2026-04-10T04:10:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Crude surge, geopolitical tensions weigh on IT; financials, paints outperform",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/crude-surge-geopolitical-tensions-weigh-on-it-financials-paints-outperform/article70845933.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-04-10T04:10:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea tests new electromagnetic and blackout bombs",
       "url": "https://www.rt.com/news/637898-north-korea-new-weapon-tests/",
       "source": "RT",
       "publishedAt": "2026-04-10T04:06:28Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Why the oil crisis is about to worsen amid the ceasefire that wasn't",
-      "url": "https://www.abc.net.au/news/2026-04-10/iran-war-fuel-crisis-set-to-worsen/106550214",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-10T04:04:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran: No US talks until Lebanon ceasefire holds",
-      "url": "https://www.israelnationalnews.com/news/425279",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-10T03:53:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "IDF Chief of Staff Approves Continuation of Israeli Operation in Southern Lebanon",
-      "url": "https://sputnikglobe.com/20260410/idf-chief-of-staff-approves-continuation-of-israeli-operation-in-southern-lebanon-1123966713.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-04-10T03:44:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war: US to host Israel, Lebanon peace talks",
-      "url": "https://www.dw.com/en/iran-war-us-to-host-israel-lebanon-peace-talks/live-76729523",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-10T03:31:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war: Vance heads to Pakistan for talks with Tehran",
-      "url": "https://www.dw.com/en/iran-war-vance-heads-to-pakistan-for-talks-with-tehran/live-76729523",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-10T03:31:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "U.K. military deployed to deter threat to undersea cables amid Russian sub presence",
@@ -179,28 +227,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "‘We’ll Be Your Canada’: Brutal Reality Check for NATO Free-Riders",
-      "url": "https://www.dailysignal.com/2026/04/09/well-be-your-canada-brutal-reality-check-for-nato-free-riders/",
-      "source": "Daily Signal",
-      "publishedAt": "2026-04-09T19:30:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The Full Extent: Exploring the Iran War with Alan Eyre",
       "url": "https://dailyutahchronicle.com/2026/04/09/the-full-extent-exploring-the-iran-war-with-alan-eyre/",
       "source": "Dailyutahchronicle.com",
       "publishedAt": "2026-04-09T19:27:15Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "How Ukraine Benefited from Trump’s Iran War",
-      "url": "http://foreignpolicy.com/2026/04/09/ukraine-benefit-trump-iran-war-russia-drones/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-09T16:10:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "The Insurgent Empire (Standoff War, Trashcanistans, and the Proliferation Trap)",

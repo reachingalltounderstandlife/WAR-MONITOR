@@ -1,62 +1,166 @@
 {
-  "updated": "2026-04-12T06:11:00Z",
-  "count": 32,
+  "updated": "2026-04-12T14:10:22Z",
+  "count": 35,
   "articles": [
     {
-      "title": "Iran, US to hold peace talks overshadowed by mutual mistrust",
-      "url": "https://www.hurriyetdailynews.com/iran-us-to-hold-peace-talks-overshadowed-by-mutual-mistrust-220892",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-04-11T06:10:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Nuncio laments bombing of Beirut, calls for truce Headlines",
-      "url": "https://www.catholicculture.org/news/headlines/index.cfm?storyid=69038",
-      "source": "Catholic Culture",
-      "publishedAt": "2026-04-11T06:04:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S. Intelligence Officials Allege Russia Supplied Iran with Detailed Israeli Infrastructure Data",
-      "url": "https://www.naturalnews.com/2026-04-11-intelligence-officials-allege-russia-supplied-iran-israeli-data.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-11T06:00:00Z",
+      "title": "Trump to the Nation: Money for Guns, Not Butter",
+      "url": "https://www.commondreams.org/opinion/trump-budget-guns-not-butter",
+      "source": "Common Dreams",
+      "publishedAt": "2026-04-11T13:49:01Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran Limits Daily Vessel Transits Through Strait of Hormuz to 15 Under Ceasefire Terms: Report",
-      "url": "https://www.naturalnews.com/2026-04-11-iran-limits-daily-vessel-transits-through-hormuz.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-11T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli Strikes in Lebanon Continue Following Ceasefire, EU Says Iran Truce “Under Strain”",
-      "url": "https://www.naturalnews.com/2026-04-11-israeli-strikes-in-lebanon-continue-following-ceasefire.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-11T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran set for high-stakes talks in Pakistan",
-      "url": "https://www.dw.com/en/us-iran-set-for-high-stakes-talks-in-pakistan/live-76745065",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-11T05:03:00Z",
+      "title": "Tense start to Iran-US peace talks in Islamabad as Tehran’s frozen assets, ‘red lines’ dominate",
+      "url": "https://indianexpress.com/article/world/d-vance-iran-pakistan-peace-talks-strait-of-hormuz-frozen-assets-10631399/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-04-11T13:39:34Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "US-Iran talks 'commenced' in Pakistan, PM Sharif says",
-      "url": "https://www.dw.com/en/us-iran-talks-commenced-in-pakistan-pm-sharif-says/live-76745065",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-11T05:03:00Z",
+      "title": "US-Iran talks on ending war begin in Pakistan",
+      "url": "https://www.aljazeera.com/news/2026/4/11/us-iran-talks-on-ending-war-begin-in-pakistan",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-11T13:26:53Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "US and Iranian officials meet with mediators in Pakistan as talks kick off despite disagreements",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-and-iranian-officials-meet-with-mediators-in-pakistan-as-talks-kick-off-despite-disagreements/articleshow/130192625.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-11T13:20:11Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran-Israel-US war: Lebanon ceasefire integral to pact, says Iran FM spokesperson amid US talks",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-israel-us-war-lebanon-ceasefire-integral-to-pact-says-iran-fm-spokesperson-amid-us-talks/articleshow/130192649.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-11T13:19:41Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "4 ways the war in Iran has weakened the United States in the great power game",
+      "url": "https://theconversation.com/4-ways-the-war-in-iran-has-weakened-the-united-states-in-the-great-power-game-279069",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-04-11T13:18:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Vance Lands in Pakistan as High Stakes Negotiations with Iranian Regime Kick Off in Islamabad",
+      "url": "https://www.breitbart.com/europe/2026/04/11/vance-lands-in-pakistan-as-high-stakes-negotiations-with-iranian-regime-kick-off-in-islamabad/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-04-11T13:08:52Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Why US aircraft losses were higher than Israel in Iran war? Air Marshal explains key tactical factors",
+      "url": "https://economictimes.indiatimes.com/news/defence/why-us-aircraft-losses-were-higher-than-israel-in-iran-war-air-marshal-explains-key-tactical-factors/articleshow/130191410.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-11T12:31:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. delegation led by JD Vance arrives in Pakistan for ceasefire talks with Iran",
+      "url": "https://www.cbc.ca/news/world/us-delegation-pakistan-iran-ceasefire-9.7160338",
+      "source": "CBC News",
+      "publishedAt": "2026-04-11T12:31:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Why is Israel attacking Hezbollah affecting talks? #politics",
+      "url": "https://alltoc.com/politics/why-is-israel-attacking-hezbollah-affecting-talks",
+      "source": "Alltoc.com",
+      "publishedAt": "2026-04-11T12:02:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli strikes kill 10 people in southern Lebanon",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260411-presstv02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-11T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran's missile arsenal largely intact despite weeks of airstrikes: US intel.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260411-presstv07.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-11T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Minister for Armed Forces speech at the London Defence Conference",
+      "url": "https://www.globalsecurity.org/wmd/library/news/uk/2026/uk-260411-ukmod01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-11T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Baiba Braže at the NATO Parliamentary Assembly: NATO unity and the 5% defence spending target is critical to Europe's security",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260411-latvia-mfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-11T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Latvia's first 100 days on the UN Security Council: keeping Russia's war in Ukraine high on the international agenda",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/04/ukraine-260411-latvia-mfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-11T12:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Chairman of the Joint Chiefs is enabling Trump’s immorality",
+      "url": "https://www.salon.com/2026/04/11/chairman-of-the-joint-chiefs-is-enabling-trumps-immorality/",
+      "source": "Salon",
+      "publishedAt": "2026-04-11T10:45:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "“I Want to Occupy”: Inside the Israeli Movement Pushing to Raze and Settle Southern Lebanon",
+      "url": "https://theintercept.com/2026/04/11/israel-lebanon-hezbollah-attacks-iran-war/",
+      "source": "The Intercept",
+      "publishedAt": "2026-04-11T10:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "7,700 strikes rain down: Iran, Lebanon and where are the bombs falling most?",
+      "url": "https://economictimes.indiatimes.com/news/defence/7700-strikes-rain-down-iran-lebanon-and-where-are-the-bombs-falling-most/articleshow/130188857.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-11T09:48:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
+      "url": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-11T07:51:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran: Decoding more than four decades of enmity",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-decoding-more-than-four-decades-of-enmity/articleshow/130186919.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-11T07:45:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "Vincent Durac: An end to the war would suit both Trump and Iranian leadership. But not Netanyahu",
@@ -65,62 +169,6 @@
       "publishedAt": "2026-04-11T05:00:01Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
-      "url": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-11T04:49:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel's mass killing has forced Trump to think about Lebanon",
-      "url": "https://www.abc.net.au/news/2026-04-11/israels-mass-killing-has-forced-trump-to-think-about-lebanon/106554032",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-11T04:45:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran makes demands before ‘make or break’ negotiation can happen",
-      "url": "https://www.independent.ie/world-news/middle-east/iran-makes-demands-before-make-or-break-negotiation-can-happen/a656232301.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-11T04:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘It’s as if there’s no ceasefire at all. Life is still terrible’ – Six months into Gaza truce, little has changed for civilians",
-      "url": "https://www.independent.ie/world-news/middle-east/its-as-if-theres-no-ceasefire-at-all-life-is-still-terrible-six-months-into-gaza-truce-little-has-changed-for-civilians/a1799003413.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-11T04:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why is Israel continuing to attack Lebanon, despite the ceasefire? Expert Q&A",
-      "url": "https://www.juancole.com/2026/04/continuing-lebanon-ceasefire.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-04-11T04:06:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel and Lebanon are expected to hold talks. Here’s what to know",
-      "url": "https://www.thehindubusinessline.com/news/world/israel-and-lebanon-are-expected-to-hold-talks-heres-what-to-know/article70850109.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-04-11T04:03:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Vance en route to Pakistan for high-stakes Iran talks as ‘fragile’ ceasefire teeters",
-      "url": "https://www.foxnews.com/politics/vance-en-route-pakistan-high-stakes-iran-talks-fragile-ceasefire-teeters",
-      "source": "Fox News",
-      "publishedAt": "2026-04-11T03:59:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Trump Threatens to Leave NATO as Rutte Says Meeting Was “Very Frank”",
@@ -191,30 +239,6 @@
       "url": "https://fortune.com/2026/04/10/ukraine-drone-warfare-defense-industrial-base-russia-invastion-us-israel-iran-war-david-petraeus/",
       "source": "Fortune",
       "publishedAt": "2026-04-10T15:01:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "European War on Russia. The EU’s Expansionist Ambitions",
-      "url": "https://www.globalresearch.ca/european-war-russia/5921865",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-10T14:08:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Defense's Silicon Valley pivot: Ukraine, Iran wars challenge the legacy playbook",
-      "url": "https://www.cnbc.com/2026/04/10/defense-tech-ai-startup-silicon-valley-ukraine-iran-war-stocks.html",
-      "source": "CNBC",
-      "publishedAt": "2026-04-10T13:48:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Desperation Mode? Ukraine Strikes Russian Energy Hub in Attempt to Drag Europe Into Prolonged War",
-      "url": "https://www.globalresearch.ca/ukraine-strikes-russian-energy-hub-attempt-drag-europe/5921924",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-10T13:19:56Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

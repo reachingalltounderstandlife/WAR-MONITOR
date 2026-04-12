@@ -1,44 +1,132 @@
 {
-  "updated": "2026-04-12T14:10:22Z",
-  "count": 35,
+  "updated": "2026-04-12T19:54:39Z",
+  "count": 32,
   "articles": [
     {
-      "title": "Trump to the Nation: Money for Guns, Not Butter",
-      "url": "https://www.commondreams.org/opinion/trump-budget-guns-not-butter",
-      "source": "Common Dreams",
-      "publishedAt": "2026-04-11T13:49:01Z",
+      "title": "House Republican: Graham should ‘have his Oval Office credentials revoked’",
+      "url": "https://freerepublic.com/focus/f-news/4374526/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-04-11T19:42:31Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Tense start to Iran-US peace talks in Islamabad as Tehran’s frozen assets, ‘red lines’ dominate",
-      "url": "https://indianexpress.com/article/world/d-vance-iran-pakistan-peace-talks-strait-of-hormuz-frozen-assets-10631399/",
-      "source": "The Indian Express",
-      "publishedAt": "2026-04-11T13:39:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "title": "Boris Johnson: “Trump has got into a trap in Iran. Now Europe has to save America from this mess”",
+      "url": "https://www.repubblica.it/esteri/2026/04/11/news/interview_with_boris_johnson_trump_has_got_into_a_trap_in_iran_now_europe_has_to_save_america_from_this_mess-425277798/",
+      "source": "La Repubblica",
+      "publishedAt": "2026-04-11T19:38:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
-      "title": "US-Iran talks on ending war begin in Pakistan",
-      "url": "https://www.aljazeera.com/news/2026/4/11/us-iran-talks-on-ending-war-begin-in-pakistan",
+      "title": "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire",
+      "url": "https://www.aljazeera.com/news/2026/4/11/pakistan-sends-fighter-jets-to-saudi-arabia-amid-fragile-us-iran-ceasefire",
       "source": "Al Jazeera English",
-      "publishedAt": "2026-04-11T13:26:53Z",
+      "publishedAt": "2026-04-11T19:35:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Can’t send the two real estate developers': Top Dem slams Trump's Iran negotiators",
+      "url": "https://www.rawstory.com/mark-kelly-donald-trump-iran/",
+      "source": "Raw Story",
+      "publishedAt": "2026-04-11T19:20:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Over 2,000 killed in Israeli strikes on Lebanon: officials",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/over-2000-killed-in-israeli-strikes-on-lebanon-officials/articleshow/130198565.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-11T19:10:32Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "US and Iranian officials meet with mediators in Pakistan as talks kick off despite disagreements",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-and-iranian-officials-meet-with-mediators-in-pakistan-as-talks-kick-off-despite-disagreements/articleshow/130192625.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-11T13:20:11Z",
+      "title": "Iran Warns US Navy Ships Entering Strait Of Hormuz",
+      "url": "https://dailycaller.com/2026/04/11/iran-warns-us-navy-ships-entering-strait-of-hormuz/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-04-11T19:02:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "In the Gulf, states are 'paying the price' for a war they didn't start",
+      "url": "https://www.abc.net.au/news/2026-04-12/gulf-states-paying-the-price-for-a-war-they-didn-t-start/106491586",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-11T18:54:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. Reportedly Moves to Clear Strait of Hormuz as Iran Talks Open",
+      "url": "https://legalinsurrection.com/2026/04/u-s-reportedly-moves-to-clear-strait-of-hormuz-as-iran-talks-open/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-04-11T18:00:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon says war death toll from Israeli strikes passes 2,000",
+      "url": "https://www.vanguardngr.com/2026/04/lebanon-says-war-death-toll-from-israeli-strikes-passes-2000/",
+      "source": "Vanguard",
+      "publishedAt": "2026-04-11T17:49:28Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Iran-Israel-US war: Lebanon ceasefire integral to pact, says Iran FM spokesperson amid US talks",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-israel-us-war-lebanon-ceasefire-integral-to-pact-says-iran-fm-spokesperson-amid-us-talks/articleshow/130192649.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-11T13:19:41Z",
+      "title": "Iran's supreme leader severely disfigured by US strikes: report",
+      "url": "https://www.foxnews.com/world/irans-supreme-leader-severely-disfigured-us-strikes-report",
+      "source": "Fox News",
+      "publishedAt": "2026-04-11T17:30:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Minister for Armed Forces speech at the London Defence Conference",
+      "url": "https://www.gov.uk/government/speeches/minister-for-armed-forces-speech-at-the-london-defence-conference",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-04-11T17:28:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iraq parliament elects Kurdish politician Nizar Amedi as president",
+      "url": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-11T17:24:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "EU Airports Say Mass Jet Fuel Shortages Inevitable If Strait Of Hormuz Doesn’t Reopen",
+      "url": "https://dailycaller.com/2026/04/11/eu-airports-jet-fuel-shortage-strait-of-hormuz/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-04-11T17:16:54Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Historic U.S. and Iran negotiations in Pakistan end without agreement",
+      "url": "https://www.pbs.org/newshour/world/historic-u-s-and-iran-negotiations-in-pakistan-end-without-agreement",
+      "source": "PBS",
+      "publishedAt": "2026-04-11T15:51:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S. and Iran hold historic direct negotiations in Pakistan as war's fragile ceasefire holds",
+      "url": "https://www.pbs.org/newshour/world/u-s-and-iran-hold-historic-direct-negotiations-in-pakistan-as-wars-fragile-ceasefire-holds",
+      "source": "PBS",
+      "publishedAt": "2026-04-11T15:51:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S.-Iran direct negotiations begin in Pakistan as war's fragile ceasefire holds",
+      "url": "https://www.pbs.org/newshour/world/u-s-iran-direct-negotiations-begin-in-pakistan-as-wars-fragile-ceasefire-holds",
+      "source": "PBS",
+      "publishedAt": "2026-04-11T15:51:12Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -49,54 +137,6 @@
       "publishedAt": "2026-04-11T13:18:01Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Vance Lands in Pakistan as High Stakes Negotiations with Iranian Regime Kick Off in Islamabad",
-      "url": "https://www.breitbart.com/europe/2026/04/11/vance-lands-in-pakistan-as-high-stakes-negotiations-with-iranian-regime-kick-off-in-islamabad/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-04-11T13:08:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why US aircraft losses were higher than Israel in Iran war? Air Marshal explains key tactical factors",
-      "url": "https://economictimes.indiatimes.com/news/defence/why-us-aircraft-losses-were-higher-than-israel-in-iran-war-air-marshal-explains-key-tactical-factors/articleshow/130191410.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-11T12:31:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. delegation led by JD Vance arrives in Pakistan for ceasefire talks with Iran",
-      "url": "https://www.cbc.ca/news/world/us-delegation-pakistan-iran-ceasefire-9.7160338",
-      "source": "CBC News",
-      "publishedAt": "2026-04-11T12:31:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why is Israel attacking Hezbollah affecting talks? #politics",
-      "url": "https://alltoc.com/politics/why-is-israel-attacking-hezbollah-affecting-talks",
-      "source": "Alltoc.com",
-      "publishedAt": "2026-04-11T12:02:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli strikes kill 10 people in southern Lebanon",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260411-presstv02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-11T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran's missile arsenal largely intact despite weeks of airstrikes: US intel.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260411-presstv07.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-11T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Minister for Armed Forces speech at the London Defence Conference",
@@ -121,46 +161,6 @@
       "publishedAt": "2026-04-11T12:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Chairman of the Joint Chiefs is enabling Trump’s immorality",
-      "url": "https://www.salon.com/2026/04/11/chairman-of-the-joint-chiefs-is-enabling-trumps-immorality/",
-      "source": "Salon",
-      "publishedAt": "2026-04-11T10:45:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "“I Want to Occupy”: Inside the Israeli Movement Pushing to Raze and Settle Southern Lebanon",
-      "url": "https://theintercept.com/2026/04/11/israel-lebanon-hezbollah-attacks-iran-war/",
-      "source": "The Intercept",
-      "publishedAt": "2026-04-11T10:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "7,700 strikes rain down: Iran, Lebanon and where are the bombs falling most?",
-      "url": "https://economictimes.indiatimes.com/news/defence/7700-strikes-rain-down-iran-lebanon-and-where-are-the-bombs-falling-most/articleshow/130188857.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-11T09:48:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
-      "url": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-11T07:51:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran: Decoding more than four decades of enmity",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-decoding-more-than-four-decades-of-enmity/articleshow/130186919.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-11T07:45:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Vincent Durac: An end to the war would suit both Trump and Iranian leadership. But not Netanyahu",
@@ -203,14 +203,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Wars Don’t Work",
-      "url": "http://nymag.com/intelligencer/article/trump-us-iran-war-why-wars-dont-work-anymore.html",
-      "source": "New York Magazine",
-      "publishedAt": "2026-04-10T16:30:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "How Iran Hawks Are Viewing the Cease-Fire",
       "url": "http://foreignpolicy.com/2026/04/10/iran-war-cease-fire-john-bolton/",
       "source": "Foreign Policy",
@@ -225,22 +217,6 @@
       "publishedAt": "2026-04-10T15:45:10Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Inside Ukraine’s expanding drone war against Russian infrastructure",
-      "url": "https://www.rt.com/russia/637973-inside-ukraines-expanding-drone-war/",
-      "source": "RT",
-      "publishedAt": "2026-04-10T15:02:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine will have the most important defense industrial base in the free world, former CIA chief predicts",
-      "url": "https://fortune.com/2026/04/10/ukraine-drone-warfare-defense-industrial-base-russia-invastion-us-israel-iran-war-david-petraeus/",
-      "source": "Fortune",
-      "publishedAt": "2026-04-10T15:01:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Disperse to Survive: The Logic of French Forward Deterrence",

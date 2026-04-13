@@ -1,30 +1,118 @@
 {
-  "updated": "2026-04-12T19:54:39Z",
-  "count": 32,
+  "updated": "2026-04-13T07:26:58Z",
+  "count": 22,
   "articles": [
     {
-      "title": "House Republican: Graham should ‘have his Oval Office credentials revoked’",
-      "url": "https://freerepublic.com/focus/f-news/4374526/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-04-11T19:42:31Z",
+      "title": "Just in: Iran, US fail to reach agreement to end war",
+      "url": "https://www.vanguardngr.com/2026/04/just-in-iran-us-fail-to-reach-agreement-to-end-war/",
+      "source": "Vanguard",
+      "publishedAt": "2026-04-12T07:20:24Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Middle east war: US, Iran talks end without deal",
+      "url": "https://punchng.com/middle-east-war-us-iran-talks-end-without-deal/",
+      "source": "The Punch",
+      "publishedAt": "2026-04-12T06:54:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran, US fail to reach agreement on ending war",
+      "url": "https://www.hurriyetdailynews.com/iran-us-fail-to-reach-agreement-on-ending-war-220909",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-12T06:39:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Key takeaways from the Islamabad peace talks between US and Iran",
+      "url": "https://www.abc.net.au/news/2026-04-12/iran-us-war-ceasefire-peace-talks-jd-vance-negotiations/106555976",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-12T06:36:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US and Iran end ceasefire talks and Vance heads home without an agreement",
+      "url": "https://abcnews.com/US/wireStory/us-iran-end-ceasefire-talks-vance-heads-home-131965808",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-12T06:12:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says US will blockade Strait of Hormuz after Iran peace talks collapse",
+      "url": "https://www.independent.ie/world-news/trump-says-us-will-blockade-strait-of-hormuz-after-iran-peace-talks-collapse/a1142495169.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-12T06:04:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Judge Orders Pentagon to Grant Full Press Access, Citing First Amendment",
+      "url": "https://www.naturalnews.com/2026-04-12-judge-orders-pentagon-grant-full-press-access.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-12T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Two supertankers including Pakistan-flagged ship take a u-turn at Hormuz as US-Iran talks collapse",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/two-supertankers-including-pakistan-flagged-ship-take-a-u-turn-at-hormuz-as-us-iran-talks-collapse/articleshow/130203144.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-12T05:53:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Stealth Arsenal Shines in Iran War: 5 Most Lethal Weapons Dominating 2026 Conflict",
+      "url": "https://www.ibtimes.com.au/us-stealth-arsenal-shines-iran-war-5-most-lethal-weapons-dominating-2026-conflict-1866201",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-12T05:39:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "More than 2,000 people killed by Israeli strikes in Lebanon during Israel-Hezbollah war: officials",
+      "url": "https://www.thehindubusinessline.com/news/world/more-than-2000-people-killed-by-israeli-strikes-in-lebanon-during-israel-hezbollah-war-officials/article70853295.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-12T04:48:45Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "4 ways war in Iran has weakened United States in great power game",
+      "url": "https://www.thehindubusinessline.com/news/world/4-ways-war-in-iran-has-weakened-united-states-in-great-power-game/article70853279.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-12T04:10:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "JD Vance leaves Pakistan after marathon talks with Iran end without a deal as Tehran refuses U.S. demand not to develop nuclear weapons",
+      "url": "https://fortune.com/2026/04/11/jd-vance-pakistan-iran-talks-end-us-demand-nuclear-weapons-development/",
+      "source": "Fortune",
+      "publishedAt": "2026-04-12T03:05:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran peace talks in Pakistan end without agreement, says Vance",
+      "url": "https://english.khabarhub.com/2026/12/543791/",
+      "source": "Khabarhub.com",
+      "publishedAt": "2026-04-12T02:40:33Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Boris Johnson: “Trump has got into a trap in Iran. Now Europe has to save America from this mess”",
       "url": "https://www.repubblica.it/esteri/2026/04/11/news/interview_with_boris_johnson_trump_has_got_into_a_trap_in_iran_now_europe_has_to_save_america_from_this_mess-425277798/",
       "source": "La Repubblica",
       "publishedAt": "2026-04-11T19:38:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pakistan sends fighter jets to Saudi Arabia amid fragile US-Iran ceasefire",
-      "url": "https://www.aljazeera.com/news/2026/4/11/pakistan-sends-fighter-jets-to-saudi-arabia-amid-fragile-us-iran-ceasefire",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-11T19:35:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "'Can’t send the two real estate developers': Top Dem slams Trump's Iran negotiators",
@@ -35,100 +123,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Over 2,000 killed in Israeli strikes on Lebanon: officials",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/over-2000-killed-in-israeli-strikes-on-lebanon-officials/articleshow/130198565.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-11T19:10:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Warns US Navy Ships Entering Strait Of Hormuz",
-      "url": "https://dailycaller.com/2026/04/11/iran-warns-us-navy-ships-entering-strait-of-hormuz/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-04-11T19:02:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "In the Gulf, states are 'paying the price' for a war they didn't start",
-      "url": "https://www.abc.net.au/news/2026-04-12/gulf-states-paying-the-price-for-a-war-they-didn-t-start/106491586",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-11T18:54:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. Reportedly Moves to Clear Strait of Hormuz as Iran Talks Open",
-      "url": "https://legalinsurrection.com/2026/04/u-s-reportedly-moves-to-clear-strait-of-hormuz-as-iran-talks-open/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-04-11T18:00:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon says war death toll from Israeli strikes passes 2,000",
-      "url": "https://www.vanguardngr.com/2026/04/lebanon-says-war-death-toll-from-israeli-strikes-passes-2000/",
-      "source": "Vanguard",
-      "publishedAt": "2026-04-11T17:49:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran's supreme leader severely disfigured by US strikes: report",
-      "url": "https://www.foxnews.com/world/irans-supreme-leader-severely-disfigured-us-strikes-report",
-      "source": "Fox News",
-      "publishedAt": "2026-04-11T17:30:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Minister for Armed Forces speech at the London Defence Conference",
       "url": "https://www.gov.uk/government/speeches/minister-for-armed-forces-speech-at-the-london-defence-conference",
       "source": "Www.gov.uk",
       "publishedAt": "2026-04-11T17:28:15Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iraq parliament elects Kurdish politician Nizar Amedi as president",
-      "url": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-11T17:24:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "EU Airports Say Mass Jet Fuel Shortages Inevitable If Strait Of Hormuz Doesn’t Reopen",
-      "url": "https://dailycaller.com/2026/04/11/eu-airports-jet-fuel-shortage-strait-of-hormuz/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-04-11T17:16:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Historic U.S. and Iran negotiations in Pakistan end without agreement",
-      "url": "https://www.pbs.org/newshour/world/historic-u-s-and-iran-negotiations-in-pakistan-end-without-agreement",
-      "source": "PBS",
-      "publishedAt": "2026-04-11T15:51:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S. and Iran hold historic direct negotiations in Pakistan as war's fragile ceasefire holds",
-      "url": "https://www.pbs.org/newshour/world/u-s-and-iran-hold-historic-direct-negotiations-in-pakistan-as-wars-fragile-ceasefire-holds",
-      "source": "PBS",
-      "publishedAt": "2026-04-11T15:51:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S.-Iran direct negotiations begin in Pakistan as war's fragile ceasefire holds",
-      "url": "https://www.pbs.org/newshour/world/u-s-iran-direct-negotiations-begin-in-pakistan-as-wars-fragile-ceasefire-holds",
-      "source": "PBS",
-      "publishedAt": "2026-04-11T15:51:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "4 ways the war in Iran has weakened the United States in the great power game",
@@ -177,86 +177,6 @@
       "publishedAt": "2026-04-11T01:52:26Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Three wars rewriting the rules of modern warfare...",
-      "url": "https://www.jpost.com/jerusalem-report/article-892191",
-      "source": "The Jerusalem Post",
-      "publishedAt": "2026-04-10T19:19:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "As Anzac Day approaches, let’s not forget those who saw and experienced the horrors of war – letters to the editor",
-      "url": "https://www.nzherald.co.nz/nz/as-anzac-day-approaches-lets-not-forget-those-who-saw-and-experienced-the-horrors-of-war-letters-to-the-editor/premium/CIKYXJGFQNE3LBKUGU5TZPAKPU/",
-      "source": "New Zealand Herald",
-      "publishedAt": "2026-04-10T17:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "'The EU Needs More Countries': Zelensky Calls on Britain to Rejoin the European Union to Help Fight Russia",
-      "url": "https://www.breitbart.com/europe/2026/04/10/the-eu-needs-more-countries-zelensky-calls-on-britain-to-rejoin-the-eu/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-04-10T16:59:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How Iran Hawks Are Viewing the Cease-Fire",
-      "url": "http://foreignpolicy.com/2026/04/10/iran-war-cease-fire-john-bolton/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-10T16:07:45Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Five of Trump's Most Recent Notable Quotes on the Iran Situation \"A whole civilization will die tonight\"",
-      "url": "https://www.ibtimes.com.au/five-trumps-most-recent-notable-quotes-iran-situation-whole-civilization-will-die-tonight-1866098",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-04-10T15:45:10Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Disperse to Survive: The Logic of French Forward Deterrence",
-      "url": "https://warontherocks.com/2026/04/disperse-to-survive-the-logic-of-french-forward-deterrence/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-04-10T07:30:43Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "North Korea Conducts Three-Day Weapons Tests",
-      "url": "https://www.naturalnews.com/2026-04-10-north-korea-conducts-three-day-weapons-tests.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-10T06:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iranians support their government's defeat",
-      "url": "https://www.israelnationalnews.com/news/425280",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-10T04:32:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "North Korea tests new electromagnetic and blackout bombs",
-      "url": "https://www.rt.com/news/637898-north-korea-new-weapon-tests/",
-      "source": "RT",
-      "publishedAt": "2026-04-10T04:06:28Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Articles On: South China Sea & Maritime Expansion, Drone & Military Technology, China–Iran Security Ties, Regional Military Readiness, and Strategic Influence & Diplomacy",
-      "url": "https://www.hoover.org/research/articles-south-china-sea-maritime-expansion-drone-military-technology-china-iran-security",
-      "source": "Hoover.org",
-      "publishedAt": "2026-04-10T00:00:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
     }
   ]
 }

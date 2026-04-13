@@ -1,86 +1,134 @@
 {
-  "updated": "2026-04-13T07:26:58Z",
-  "count": 22,
+  "updated": "2026-04-13T16:22:20Z",
+  "count": 25,
   "articles": [
     {
-      "title": "Just in: Iran, US fail to reach agreement to end war",
-      "url": "https://www.vanguardngr.com/2026/04/just-in-iran-us-fail-to-reach-agreement-to-end-war/",
-      "source": "Vanguard",
-      "publishedAt": "2026-04-12T07:20:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Middle east war: US, Iran talks end without deal",
-      "url": "https://punchng.com/middle-east-war-us-iran-talks-end-without-deal/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-12T06:54:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran, US fail to reach agreement on ending war",
-      "url": "https://www.hurriyetdailynews.com/iran-us-fail-to-reach-agreement-on-ending-war-220909",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-04-12T06:39:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Key takeaways from the Islamabad peace talks between US and Iran",
-      "url": "https://www.abc.net.au/news/2026-04-12/iran-us-war-ceasefire-peace-talks-jd-vance-negotiations/106555976",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-12T06:36:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Iran end ceasefire talks and Vance heads home without an agreement",
-      "url": "https://abcnews.com/US/wireStory/us-iran-end-ceasefire-talks-vance-heads-home-131965808",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-12T06:12:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says US will blockade Strait of Hormuz after Iran peace talks collapse",
-      "url": "https://www.independent.ie/world-news/trump-says-us-will-blockade-strait-of-hormuz-after-iran-peace-talks-collapse/a1142495169.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-12T06:04:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Judge Orders Pentagon to Grant Full Press Access, Citing First Amendment",
-      "url": "https://www.naturalnews.com/2026-04-12-judge-orders-pentagon-grant-full-press-access.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-12T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Two supertankers including Pakistan-flagged ship take a u-turn at Hormuz as US-Iran talks collapse",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/two-supertankers-including-pakistan-flagged-ship-take-a-u-turn-at-hormuz-as-us-iran-talks-collapse/articleshow/130203144.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-12T05:53:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Stealth Arsenal Shines in Iran War: 5 Most Lethal Weapons Dominating 2026 Conflict",
-      "url": "https://www.ibtimes.com.au/us-stealth-arsenal-shines-iran-war-5-most-lethal-weapons-dominating-2026-conflict-1866201",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-04-12T05:39:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "More than 2,000 people killed by Israeli strikes in Lebanon during Israel-Hezbollah war: officials",
-      "url": "https://www.thehindubusinessline.com/news/world/more-than-2000-people-killed-by-israeli-strikes-in-lebanon-during-israel-hezbollah-war-officials/article70853295.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-04-12T04:48:45Z",
+      "title": "Failed U.S.-Iran negotiations in Pakistan raise questions about fragile ceasefire",
+      "url": "https://www.pbs.org/newshour/world/failed-u-s-iran-negotiations-in-pakistan-raise-questions-about-fragile-ceasefire",
+      "source": "PBS",
+      "publishedAt": "2026-04-12T16:16:01Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "When signals diverge: Reading the Nifty-Gold ratio",
+      "url": "https://www.thehindubusinessline.com/opinion/when-signals-diverge-reading-the-nifty-gold-ratio/article70854775.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-12T16:00:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says U.S. Navy will 'immediately' blockade Strait of Hormuz after ceasefire talks end without agreement",
+      "url": "https://www.pbs.org/newshour/world/trump-says-u-s-navy-will-immediately-blockade-strait-of-hormuz-after-ceasefire-talks-end-without-agreement",
+      "source": "PBS",
+      "publishedAt": "2026-04-12T15:56:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump says U.S. Navy will blockade Strait of Hormuz after ceasefire talks end without agreement",
+      "url": "https://www.pbs.org/newshour/world/trump-says-u-s-navy-will-blockade-strait-of-hormuz-after-ceasefire-talks-end-without-agreement",
+      "source": "PBS",
+      "publishedAt": "2026-04-12T15:56:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "ROBERT MAGINNIS: Why Islamabad talks were always doomed to fail",
+      "url": "https://www.foxnews.com/opinion/robert-maginnis-islamabad-talks-always-doomed-fail",
+      "source": "Fox News",
+      "publishedAt": "2026-04-12T15:49:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Promises Hormuz Blockade After US-Iran Peace Talks Fail",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-promises-hormuz-blockade-after-us-iran-peace-talks-fail",
+      "source": "Financial Post",
+      "publishedAt": "2026-04-12T14:50:25Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump says U.S. Navy to impose Hormuz blockade after Iran ceasefire talks end with no deal. ‘No one who pays an illegal toll will have safe passage’",
+      "url": "https://fortune.com/2026/04/12/trump-us-navy-blockade-strait-of-hormuz-iran-ceasefire-talks-oil/",
+      "source": "Fortune",
+      "publishedAt": "2026-04-12T14:37:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Vows to Blockade Strait of Hormuz After Iran Peace Talks Stumble",
+      "url": "https://www.dailysignal.com/2026/04/12/trump-vows-to-blockade-strait-of-hormuz-after-iran-peace-talks-stumble/",
+      "source": "Daily Signal",
+      "publishedAt": "2026-04-12T14:18:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump threatens Strait of Hormuz blockade",
+      "url": "https://www.hurriyetdailynews.com/trump-threatens-strait-of-hormuz-blockade-220933",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-12T14:03:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Announces Blockade Of Strait Of Hormuz, Warns U.S. Ready To 'Finish Up' Iran After Failed Talks",
+      "url": "https://www.huffpost.com/entry/trump-navy-blockade-strait-of-hormuz-iran-war_n_69db9ad2e4b048dba44d96d7",
+      "source": "HuffPost",
+      "publishedAt": "2026-04-12T13:25:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine and Russia accuse each other of breaching Easter ceasefire",
+      "url": "https://www.aljazeera.com/news/2026/4/12/ukraine-and-russia-accuse-each-other-of-breaching-easter-ceasefire",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-12T12:56:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran ceasefire talks: What are the key sticking points?",
+      "url": "https://www.aljazeera.com/news/2026/4/12/us-iran-ceasefire-talks-what-are-the-key-sticking-points",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-12T12:47:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Israeli aggression killed 258 women, 221 minors in Iran: Health official",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260412-presstv15.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-12T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran turned enemy's 'regime change' dream into 'change of governing regime in Hormuz'",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260412-presstv10.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-12T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine, Russia claim thousands of violations of Putin-imposed holiday ceasefire",
+      "url": "https://www.foxnews.com/world/ukraine-russia-claim-thousands-violations-putin-imposed-holiday-ceasefire",
+      "source": "Fox News",
+      "publishedAt": "2026-04-12T11:56:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Guns over people: Rising military spending is eroding quality of life around the world",
+      "url": "https://theconversation.com/guns-over-people-rising-military-spending-is-eroding-quality-of-life-around-the-world-279601",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-04-12T11:45:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "4 ways war in Iran has weakened United States in great power game",
@@ -89,22 +137,6 @@
       "publishedAt": "2026-04-12T04:10:25Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "JD Vance leaves Pakistan after marathon talks with Iran end without a deal as Tehran refuses U.S. demand not to develop nuclear weapons",
-      "url": "https://fortune.com/2026/04/11/jd-vance-pakistan-iran-talks-end-us-demand-nuclear-weapons-development/",
-      "source": "Fortune",
-      "publishedAt": "2026-04-12T03:05:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran peace talks in Pakistan end without agreement, says Vance",
-      "url": "https://english.khabarhub.com/2026/12/543791/",
-      "source": "Khabarhub.com",
-      "publishedAt": "2026-04-12T02:40:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Boris Johnson: “Trump has got into a trap in Iran. Now Europe has to save America from this mess”",
@@ -169,14 +201,6 @@
       "publishedAt": "2026-04-11T05:00:01Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Trump Threatens to Leave NATO as Rutte Says Meeting Was “Very Frank”",
-      "url": "https://www.globalresearch.ca/trump-threatens-leave-nato-rutte-meeting/5921860",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-11T01:52:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

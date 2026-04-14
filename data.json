@@ -1,30 +1,230 @@
 {
-  "updated": "2026-04-14T06:19:10Z",
-  "count": 22,
+  "updated": "2026-04-14T15:56:41Z",
+  "count": 32,
   "articles": [
     {
-      "title": "Ceasefire Exemptions and Quarries of Death: Israel’s War on Lebanon",
-      "url": "https://www.globalresearch.ca/ceasefire-exemptions-quarries-death-israel-war-lebanon/5922045",
+      "title": "'Shattering of arrogant symbolism': Site of infamous Nasrallah speech lies in ruins",
+      "url": "https://www.israelnationalnews.com/news/425433",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-13T15:51:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "What do we know about sea mines in and around the Strait of Hormuz?",
+      "url": "https://www.aljazeera.com/economy/2026/4/13/what-do-we-know-about-sea-mines-in-and-around-the-strait-of-hormuz",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-13T15:12:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ceasefire Media a Menace to Iran",
+      "url": "https://www.globalresearch.ca/ceasefire-media-menace-iran/5922096",
       "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-13T06:03:58Z",
+      "publishedAt": "2026-04-13T15:03:28Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "UK Drone Operated Over Southern Lebanon Prior to Civilian Casualty Incident, Report Claims",
-      "url": "https://www.naturalnews.com/2026-04-13-uk-drone-operated-southern-lebanon-civilian-casualty.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-13T06:00:00Z",
+      "title": "U.S. military is poised to blockade Iranian ports, while Tehran threatens ports in the Mideast",
+      "url": "https://www.pbs.org/newshour/world/u-s-military-is-poised-to-blockade-iranian-ports-while-tehran-threatens-ports-in-the-mideast",
+      "source": "PBS",
+      "publishedAt": "2026-04-13T15:00:53Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hungarian election victor Magyar says he’d speak with Putin and ask him to end the war in Ukraine",
+      "url": "https://abcnews.com/Business/wireStory/hungarian-election-victor-magyar-hed-speak-putin-end-131994446",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-13T15:00:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says gas prices may remain high through November midterm election",
+      "url": "https://nypost.com/2026/04/13/business/trump-says-gas-prices-may-remain-high-through-november-midterm-election/",
+      "source": "New York Post",
+      "publishedAt": "2026-04-13T14:26:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump’s threat to blockade Hormuz: Why it’s war’s latest major escalation",
+      "url": "https://www.aljazeera.com/news/2026/4/13/trumps-threat-to-blockade-hormuz-why-its-wars-latest-major-escalation",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-13T14:14:35Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "U.S. Announces Hormuz Blockade, Considers Limited Strikes After Iran Talks Fail",
-      "url": "https://www.naturalnews.com/2026-04-13-us-announces-hormuz-blockade-after-iran-talks-fail.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-13T06:00:00Z",
+      "title": "Ukraine Plans to Attack Russian Ships with Norwegian Support",
+      "url": "https://www.globalresearch.ca/ukraine-plans-attack-russian-ships-norwegian-support/5922172",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-13T14:12:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Video: This Is the Real Endgame in Iran",
+      "url": "https://www.globalresearch.ca/video-real-endgame-iran/5922170",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-13T14:08:09Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "UK Rejects US Iran Blockade as Macron Pushes Multinational Talks to Reopen Vital Strait of Hormuz",
+      "url": "https://www.ibtimes.com.au/uk-rejects-us-iran-blockade-macron-pushes-multinational-talks-reopen-vital-strait-hormuz-1866387",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-13T14:06:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pope Leo responds to Trump’s criticism, saying he has 'no fear' of US administration",
+      "url": "https://abcnews.com/Politics/pope-leo-responds-trumps-criticism-fear-us-administration/story?id=131985372",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-13T13:57:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom",
+      "url": "https://www.bbc.com/news/articles/czd78q6r8jno",
+      "source": "BBC News",
+      "publishedAt": "2026-04-13T13:55:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IDF reveals success of massive airstrikes on Hezbollah",
+      "url": "https://www.israelnationalnews.com/news/425427",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-13T13:52:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The US Army surged its largest counter-drone training deployment to the Middle East during the Iran war",
+      "url": "https://www.businessinsider.com/us-army-surged-largest-counter-drone-training-mission-middle-east-2026-4",
+      "source": "Business Insider",
+      "publishedAt": "2026-04-13T13:47:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel-Hezbollah Clashes Intensify in Southern Lebanon: Could Iran War Reignite Amid Fragile Ceasefire?",
+      "url": "https://www.ibtimes.com.au/israel-hezbollah-clashes-intensify-southern-lebanon-could-iran-war-reignite-amid-fragile-1866381",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-13T13:30:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "‘NO PORT in the region will be safe’: Iran responds to Trump blockade with Gulf-wide threat",
+      "url": "https://fortune.com/2026/04/13/iran-threatens-ports-gulf-after-trump-blockade/",
+      "source": "Fortune",
+      "publishedAt": "2026-04-13T12:46:44Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "At least six killed in Israeli strikes in southern Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-13T12:39:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Pope Leo XIV Tells Trump 'I Have No Fear' After Scathing Attack Over Iran War Stance",
+      "url": "https://www.ibtimes.com.au/pope-leo-xiv-tells-trump-i-have-no-fear-after-scathing-attack-over-iran-war-stance-1866364",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-13T12:30:16Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "The Doomed Road to Tehran",
+      "url": "https://www.theamericanconservative.com/the-doomed-road-to-tehran/",
+      "source": "The American Conservative",
+      "publishedAt": "2026-04-13T12:10:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Yemen vows military escalation if US, Israel resume war on Iran",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260413-presstv14.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-13T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Israel will retreat from region empty-handed: IRGC Quds Force chief",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260413-presstv13.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-13T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "FM Sa'ar addresses the Holocaust Memorial Day Ceremony at the MFA in Jerusalem",
+      "url": "https://www.globalsecurity.org/wmd/library/news/israel/2026/04/israel-260413-israel-mfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-13T12:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "U.S. military to block ships from Iran's ports after peace talks fail",
+      "url": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
+      "source": "NPR",
+      "publishedAt": "2026-04-13T11:03:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel, Lebanon to hold talks despite continued attacks",
+      "url": "https://www.hurriyetdailynews.com/israel-lebanon-to-hold-talks-despite-continued-attacks-220974",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-13T10:54:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "South Korea, Poland vow deeper defense ties",
+      "url": "https://www.hurriyetdailynews.com/south-korea-poland-vow-deeper-defense-ties-220971",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-13T10:48:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran's Top Diplomat Says Trump Team Sabotaged Talks With Deal 'Inches Away'",
+      "url": "https://www.commondreams.org/news/iran-foreign-minister-negotiations",
+      "source": "Common Dreams",
+      "publishedAt": "2026-04-13T10:06:20Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Military takes notes on wars in Europe, Middle East as it revitalizes Canada's air defences",
+      "url": "https://www.cbc.ca/news/canada/new-brunswick/canadian-armed-forces-drones-air-defence-9.7155019",
+      "source": "CBC News",
+      "publishedAt": "2026-04-13T09:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The US War on Iran Is a US War on Multipolarism",
+      "url": "https://www.globalresearch.ca/us-war-iran-us-war-multipolarism/5921978",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-13T08:06:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Ukraine exploits Easter truce with 6,500 drone strikes against Russia",
@@ -35,108 +235,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump strait blockade shows he's playing loose with fortunes of financial markets",
-      "url": "https://www.abc.net.au/news/2026-04-13/impact-trump-strait-of-hormuz-blockade-on-iran/106558392",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-13T05:27:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump attacks Pope Leo, calling him 'terrible' for foreign policy and 'weak' on crime; also says US will blockade Strait of Hormuz after Iran peace talks collapse",
-      "url": "https://www.independent.ie/world-news/trump-attacks-pope-leo-calling-him-terrible-for-foreign-policy-and-weak-on-crime-us-blockade-of-iranian-ports-to-start-after-peace-talks-collapse/a1142495169.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-13T05:20:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "How the Israeli-US War on Iran has spurred Nuclear Proliferation",
       "url": "https://www.juancole.com/2026/04/israeli-spurred-proliferation.html",
       "source": "Juancole.com",
       "publishedAt": "2026-04-13T04:04:30Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Ships with Iran oil anchor off India as Trump announces blockade",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/ships-with-iran-oil-anchor-off-india-as-trump-announces-blockade/articleshow/130224171.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-13T03:28:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US blockade of Iran will be major military endeavor, experts say",
-      "url": "https://www.thehindubusinessline.com/news/world/us-blockade-of-iran-will-be-major-military-endeavor-experts-say/article70856138.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-04-13T03:18:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ambassador Leiter: Iran regime lies, nuclear pursuit continues",
-      "url": "https://www.israelnationalnews.com/news/425391",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-13T03:15:13Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US Israel-Iran War Day 45: Trump orders Hormuz blockade, US warns of 'limited' strikes; Iran hits back as oil tops $100",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-israel-iran-war-today-latest-updates-donald-trump-strait-of-hormuz-iran-news-day-45/articleshow/130223834.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-13T03:08:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US blockade of Iran will be major military endeavor, experts say",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-blockade-of-iran-will-be-major-military-endeavor-experts-say/articleshow/130223034.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-13T02:00:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "A new ad campaign is pushing Australians to use less petrol. Has this happened before?",
-      "url": "https://theconversation.com/a-new-ad-campaign-is-pushing-australians-to-use-less-petrol-has-this-happened-before-280038",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-04-13T01:29:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US military says it will blockade Iranian ports starting Monday after ceasefire talks ended without agreement",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/us-military-says-it-will-blockade-iranian-ports-starting-monday-after-ceasefire-talks-ended-without-agreement/articleshow/130222532.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-13T00:47:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Lebanon Conspiracy: Massacres, Negotiations, and a New Order",
-      "url": "https://original.antiwar.com/ramzy-baroud/2026/04/12/the-lebanon-conspiracy-massacres-negotiations-and-a-new-order/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-04-13T00:00:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu says that Israel's campaign in Iran is 'not over yet' \"Iran wanted to eliminate us. Now it is fighting to survive\"",
-      "url": "https://freerepublic.com/focus/f-news/4374662/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-04-12T22:53:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US to begin blockade of Iranian ports Monday – Military",
-      "url": "https://punchng.com/us-to-begin-blockade-of-iranian-ports-monday-military/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-12T22:36:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "The 'extraordinary' rise of Kim Jong Un's mysterious teenage daughter",
@@ -151,30 +255,6 @@
       "url": "https://www.fairobserver.com/world-news/middle-east-news/international-law-wont-save-us-in-the-iran-war/",
       "source": "Fair Observer",
       "publishedAt": "2026-04-12T16:27:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine, Russia claim thousands of violations of Putin-imposed holiday ceasefire",
-      "url": "https://www.foxnews.com/world/ukraine-russia-claim-thousands-violations-putin-imposed-holiday-ceasefire",
-      "source": "Fox News",
-      "publishedAt": "2026-04-12T11:56:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Guns over people: Rising military spending is eroding quality of life around the world",
-      "url": "https://theconversation.com/guns-over-people-rising-military-spending-is-eroding-quality-of-life-around-the-world-279601",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-04-12T11:45:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "4 ways war in Iran has weakened United States in great power game",
-      "url": "https://www.thehindubusinessline.com/news/world/4-ways-war-in-iran-has-weakened-united-states-in-great-power-game/article70853279.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-04-12T04:10:25Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

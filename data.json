@@ -1,7 +1,111 @@
 {
-  "updated": "2026-04-14T15:56:41Z",
-  "count": 32,
+  "updated": "2026-04-14T20:38:48Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Global food crisis warning, accusations of Hormuz piracy as blockade begins",
+      "url": "https://www.abc.net.au/news/2026-04-14/iran-israel-war-daily-briefing/106561186",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-13T20:31:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Crisis In The Strait Of Hormuz Is The Greatest Threat To The Global Economy In My Entire Lifetime",
+      "url": "http://theeconomiccollapseblog.com/the-crisis-in-the-strait-of-hormuz-is-the-greatest-threat-to-the-global-economy-in-my-entire-lifetime/",
+      "source": "Theeconomiccollapseblog.com",
+      "publishedAt": "2026-04-13T20:23:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump, Iran both declare victory after ceasefire deal",
+      "url": "https://theweek.com/world-news/trump-iran-declare-victory-ceasefire-deal",
+      "source": "The Week Magazine",
+      "publishedAt": "2026-04-13T20:21:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Threatens Iran With Same Killing “System” After US Kills 5 in Boat Strike",
+      "url": "https://truthout.org/articles/trump-threatens-iran-with-same-killing-system-after-us-kills-5-in-boat-strike/",
+      "source": "Truthout",
+      "publishedAt": "2026-04-13T19:49:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranians try to see through fog of war amid internet blackout",
+      "url": "https://www.cbc.ca/news/world/iran-war-us-internet-blackout-9.7161918",
+      "source": "CBC News",
+      "publishedAt": "2026-04-13T19:07:02Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hezbollah leader asks Lebanon to cancel Tuesday meeting with Israel",
+      "url": "https://www.vanguardngr.com/2026/04/hezbollah-leader-asks-lebanon-to-cancel-tuesday-meeting-with-israel/",
+      "source": "Vanguard",
+      "publishedAt": "2026-04-13T18:57:07Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Brags About Ships Crossing Hormuz Strait as Blockade Begins",
+      "url": "https://newrepublic.com/post/209003/donald-trump-brags-ships-strait-hormuz-blockade",
+      "source": "The New Republic",
+      "publishedAt": "2026-04-13T17:59:04Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom - BBC",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181681486",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-13T17:53:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran threatens to retaliate against Gulf ports for US blockade",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-threatens-to-retaliate-against-gulf-ports-for-us-blockade/articleshow/130242316.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-13T16:47:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump warns China of ‘big problems’ over Iran weapons as Xi summit nears",
+      "url": "https://www.foxnews.com/politics/trump-warns-china-big-problems-over-iran-weapons-xi-summit-nears",
+      "source": "Fox News",
+      "publishedAt": "2026-04-13T16:33:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "EU's Military Buildup Signals It Prepares for Large-Scale War Against Russia - Russian Envoy to UN",
+      "url": "https://sputnikglobe.com/20260413/eus-military-buildup-signals-it-prepares-for-large-scale-war-against-russia---russian-envoy-to-un-1123982767.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-13T16:32:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Three Changes Wrought by the Iran War",
+      "url": "https://www.theatlantic.com/ideas/2026/04/iran-war-trump-us-shifts/686780/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-04-13T16:29:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Erosion of Moral Leadership: Trump’s War With Iran",
+      "url": "https://www.commondreams.org/opinion/trump-war-iran-immoral",
+      "source": "Common Dreams",
+      "publishedAt": "2026-04-13T15:59:32Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
     {
       "title": "'Shattering of arrogant symbolism': Site of infamous Nasrallah speech lies in ruins",
       "url": "https://www.israelnationalnews.com/news/425433",
@@ -27,36 +131,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "U.S. military is poised to blockade Iranian ports, while Tehran threatens ports in the Mideast",
-      "url": "https://www.pbs.org/newshour/world/u-s-military-is-poised-to-blockade-iranian-ports-while-tehran-threatens-ports-in-the-mideast",
-      "source": "PBS",
-      "publishedAt": "2026-04-13T15:00:53Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Hungarian election victor Magyar says he’d speak with Putin and ask him to end the war in Ukraine",
       "url": "https://abcnews.com/Business/wireStory/hungarian-election-victor-magyar-hed-speak-putin-end-131994446",
       "source": "Abcnews.com",
       "publishedAt": "2026-04-13T15:00:38Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump says gas prices may remain high through November midterm election",
-      "url": "https://nypost.com/2026/04/13/business/trump-says-gas-prices-may-remain-high-through-november-midterm-election/",
-      "source": "New York Post",
-      "publishedAt": "2026-04-13T14:26:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump’s threat to blockade Hormuz: Why it’s war’s latest major escalation",
-      "url": "https://www.aljazeera.com/news/2026/4/13/trumps-threat-to-blockade-hormuz-why-its-wars-latest-major-escalation",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-13T14:14:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine Plans to Attack Russian Ships with Norwegian Support",
@@ -67,76 +147,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Video: This Is the Real Endgame in Iran",
-      "url": "https://www.globalresearch.ca/video-real-endgame-iran/5922170",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-13T14:08:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "UK Rejects US Iran Blockade as Macron Pushes Multinational Talks to Reopen Vital Strait of Hormuz",
-      "url": "https://www.ibtimes.com.au/uk-rejects-us-iran-blockade-macron-pushes-multinational-talks-reopen-vital-strait-hormuz-1866387",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-04-13T14:06:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pope Leo responds to Trump’s criticism, saying he has 'no fear' of US administration",
-      "url": "https://abcnews.com/Politics/pope-leo-responds-trumps-criticism-fear-us-administration/story?id=131985372",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-13T13:57:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom",
-      "url": "https://www.bbc.com/news/articles/czd78q6r8jno",
-      "source": "BBC News",
-      "publishedAt": "2026-04-13T13:55:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF reveals success of massive airstrikes on Hezbollah",
-      "url": "https://www.israelnationalnews.com/news/425427",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-13T13:52:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "The US Army surged its largest counter-drone training deployment to the Middle East during the Iran war",
       "url": "https://www.businessinsider.com/us-army-surged-largest-counter-drone-training-mission-middle-east-2026-4",
       "source": "Business Insider",
       "publishedAt": "2026-04-13T13:47:39Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel-Hezbollah Clashes Intensify in Southern Lebanon: Could Iran War Reignite Amid Fragile Ceasefire?",
-      "url": "https://www.ibtimes.com.au/israel-hezbollah-clashes-intensify-southern-lebanon-could-iran-war-reignite-amid-fragile-1866381",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-04-13T13:30:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "‘NO PORT in the region will be safe’: Iran responds to Trump blockade with Gulf-wide threat",
-      "url": "https://fortune.com/2026/04/13/iran-threatens-ports-gulf-after-trump-blockade/",
-      "source": "Fortune",
-      "publishedAt": "2026-04-13T12:46:44Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "At least six killed in Israeli strikes in southern Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/4/13/at-least-six-killed-in-israeli-strikes-in-southern-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-13T12:39:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Pope Leo XIV Tells Trump 'I Have No Fear' After Scathing Attack Over Iran War Stance",
@@ -155,44 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Yemen vows military escalation if US, Israel resume war on Iran",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260413-presstv14.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-13T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Israel will retreat from region empty-handed: IRGC Quds Force chief",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260413-presstv13.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-13T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "FM Sa'ar addresses the Holocaust Memorial Day Ceremony at the MFA in Jerusalem",
       "url": "https://www.globalsecurity.org/wmd/library/news/israel/2026/04/israel-260413-israel-mfa01.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-04-13T12:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "U.S. military to block ships from Iran's ports after peace talks fail",
-      "url": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
-      "source": "NPR",
-      "publishedAt": "2026-04-13T11:03:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel, Lebanon to hold talks despite continued attacks",
-      "url": "https://www.hurriyetdailynews.com/israel-lebanon-to-hold-talks-despite-continued-attacks-220974",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-04-13T10:54:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "South Korea, Poland vow deeper defense ties",

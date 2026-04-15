@@ -1,38 +1,174 @@
 {
-  "updated": "2026-04-15T06:20:56Z",
-  "count": 35,
+  "updated": "2026-04-15T15:54:43Z",
+  "count": 42,
   "articles": [
     {
-      "title": "Lebanon, Israel to meet for tough talks in Washington",
-      "url": "https://www.hurriyetdailynews.com/lebanon-israel-to-meet-for-tough-talks-in-washington-220998",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-04-14T06:01:18Z",
+      "title": "Trump lashes out at European ally Meloni amid tensions over Pope and NATO",
+      "url": "https://www.abc.net.au/news/2026-04-15/trump-meloni-criticism-pope-iran-war/106565416",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-14T15:52:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Demands Arab Countries It Bombed Pay 'Compensation'",
+      "url": "https://www.breitbart.com/middle-east/2026/04/14/iran-demands-arab-countries-it-bombed-pay-compensation/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-04-14T15:39:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why is Trump making the global energy crisis worse?",
+      "url": "https://www.rt.com/news/638398-us-naval-blockade-iran/",
+      "source": "RT",
+      "publishedAt": "2026-04-14T14:57:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon And Israel To Hold First Direct Diplomatic Talks In Decades In Washington",
+      "url": "https://www.huffpost.com/entry/lebano-israel-hold-first-direct-diplomatic-talks-decades-washington_n_69de4d6ce4b0ceb9529728a8",
+      "source": "HuffPost",
+      "publishedAt": "2026-04-14T14:27:05Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Ex-Pakistani Official: Tehran Lacks Military Means to Sustain Conflict",
-      "url": "https://www.naturalnews.com/2026-04-14-former-official-tehran-lacks-means-sustain-conflict.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-14T06:00:00Z",
+      "title": "North Korea tests cruise and anti-ship missiles from naval destroyer",
+      "url": "https://nypost.com/2026/04/14/world-news/north-korea-tests-cruise-and-anti-ship-missiles-from-naval-destroyer/",
+      "source": "New York Post",
+      "publishedAt": "2026-04-14T14:22:12Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran war: US blockade of Hormuz tests China's restraint",
+      "url": "https://www.dw.com/en/iran-war-us-blockade-of-hormuz-tests-chinas-restraint/a-76777251",
+      "source": "DW (English)",
+      "publishedAt": "2026-04-14T14:14:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Israel Expels Spain from Gaza Coordination Center Following Criticism of Lebanon Operations",
-      "url": "https://www.naturalnews.com/2026-04-14-israel-expels-spain-from-gaza-coordination-center.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-14T06:00:00Z",
+      "title": "Failed peace deal: The Iran war has inflicted a cascade of losses that may never be recovered",
+      "url": "https://theconversation.com/failed-peace-deal-the-iran-war-has-inflicted-a-cascade-of-losses-that-may-never-be-recovered-280313",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-04-14T13:59:16Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iranian Officials Warn of Response to U.S. Threat to Blockade the Strait of Hormuz",
-      "url": "https://www.naturalnews.com/2026-04-14-iranian-officials-war-response-potential-us-blockade.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-14T06:00:00Z",
+      "title": "Lebanon: Joint Foreign Ministers' Statement, 14 April 2026",
+      "url": "https://www.gov.uk/government/news/lebanon-joint-foreign-ministers-statement-14-april-2026",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-04-14T13:41:56Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran’s Fear of Kurdish Opposition and the Potential of an Internal Uprising",
+      "url": "https://www.fairobserver.com/world-news/middle-east-news/irans-fear-of-kurdish-opposition-and-the-potential-of-an-internal-uprising/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-04-14T13:22:57Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Can Pakistan juggle US-Iran mediation with Saudi defence commitments?",
+      "url": "https://www.aljazeera.com/news/2026/4/14/can-pakistan-juggle-us-iran-mediation-with-saudi-defence-commitments",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-14T13:19:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel and Lebanon holding talks in D.C. as tensions grow over strikes",
+      "url": "https://www.cbsnews.com/video/israel-and-lebanon-holding-talks-in-dc-as-tensions-grow-over-strikes/",
+      "source": "CBS News",
+      "publishedAt": "2026-04-14T13:13:52Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon, Israel hold 1st direct diplomatic talks in decades in Washington",
+      "url": "https://www.cbc.ca/news/world/hezbollah-lebanon-israel-talks-agreements-9.7162871",
+      "source": "CBC News",
+      "publishedAt": "2026-04-14T13:11:34Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Kim Jong Un oversees cruise missile launches from prized new North Korean warship",
+      "url": "https://www.foxnews.com/world/kim-jong-un-oversees-cruise-missile-launches-from-prized-new-north-korean-warship",
+      "source": "Fox News",
+      "publishedAt": "2026-04-14T13:03:24Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "How much will US Hormuz blockade hurt Iran, and does Tehran have an escape?",
+      "url": "https://www.aljazeera.com/news/2026/4/14/how-much-will-us-hormuz-blockade-hurt-iran-and-does-tehran-have-an-escape",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-14T12:31:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s leaky blockade: ship sneaks through and talks with Iran resume",
+      "url": "https://fortune.com/2026/04/14/trumps-leaky-blockade-ship-sneaks-through-and-talks-with-iran-resume/",
+      "source": "Fortune",
+      "publishedAt": "2026-04-14T12:20:59Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Exclusive: Former American & Iranian Negotiators on Ceasefire Talks & How War Could End",
+      "url": "https://www.democracynow.org/2026/4/14/iran_blockade",
+      "source": "Democracy Now!",
+      "publishedAt": "2026-04-14T12:16:06Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "More talks urged for U.S., Iran as shipping standoff continues",
+      "url": "https://www.cbc.ca/news/world/mideast-war-day-46-9.7162846",
+      "source": "CBC News",
+      "publishedAt": "2026-04-14T12:13:52Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Tuesday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/04/14/tuesday-hili-dialogue-575/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-04-14T11:45:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran May Resume Talks This Week Despite Port Blockade",
+      "url": "https://www.insurancejournal.com/news/international/2026/04/14/865772.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-04-14T11:36:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel and Lebanon set to meet for first direct talks in more than 30 years",
+      "url": "https://www.npr.org/2026/04/14/nx-s1-5784551/lebanon-israel-talks",
+      "source": "NPR",
+      "publishedAt": "2026-04-14T11:27:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Efforts underway for second round of US-Iran talks as ships reported transiting Strait of Hormuz",
+      "url": "https://abcnews.com/Business/wireStory/efforts-underway-round-us-iran-talks-ships-reported-132019543",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-14T11:03:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The Unseen War: Exposing the globalist agenda behind Ukraine, energy sabotage and the collapse of freedom",
@@ -51,62 +187,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Oil prices plunge on hopes of Iran-US deal as regional tensions continue",
-      "url": "https://english.khabarhub.com/2026/14/544094/",
-      "source": "Khabarhub.com",
-      "publishedAt": "2026-04-14T05:45:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Oil prices ease despite US blockade of Iran ports; Pakistan proposes new round of talks",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/04/14/oil-prices-ease-despite-us-blockade-of-iran-ports-pakistan-proposes-new-round-of-talks/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-04-14T05:28:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US begins Iran port blockade; Israel continues to bombard Lebanon; Dozens detained in NYC protest over US arms sales to Israel",
-      "url": "https://www.independent.ie/world-news/middle-east/us-begins-iran-port-blockade-israel-continues-to-bombard-lebanon-dozens-detained-in-nyc-protest-over-us-arms-sales-to-israel/a1142495169.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-14T05:20:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US begins Iran port blockade, oil prices ease on hopes for dialogue",
-      "url": "https://www.channelnewsasia.com/world/us-begins-iran-port-blockade-oil-price-eases-hopes-dialogue-6055116",
-      "source": "CNA",
-      "publishedAt": "2026-04-14T04:55:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘We can’t let Iran blackmail the world,’ says Trump as US blockade of Hormuz starts",
-      "url": "https://www.independent.ie/world-news/middle-east/we-cant-let-iran-blackmail-the-world-says-trump-as-us-blockade-of-hormuz-starts/a2038275155.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-14T04:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hezbollah won’t abide by any deals from talks – spokesman",
-      "url": "https://www.independent.ie/world-news/middle-east/hezbollah-wont-abide-by-any-deals-from-talks-spokesman/a1357914240.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-14T04:30:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Live updates: US eyes potential second round of talks with Iran as blockade takes hold | CNN",
-      "url": "https://www.cnn.com/2026/04/14/world/live-news/iran-war-blockade-us-trump",
-      "source": "CNN",
-      "publishedAt": "2026-04-14T04:00:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Book of the Day review: A timely contemplation of the strategies of war and international relations",
       "url": "https://www.irishtimes.com/culture/books/review/2026/04/11/on-strategists-and-strategy-collected-essays-2014-2024-by-lawrence-freedman-absence-of-ethical-leadership-akin-to-a-drunk-clinging-to-a-lamppost/",
       "source": "The Irish Times",
@@ -121,22 +201,6 @@
       "publishedAt": "2026-04-14T03:00:31Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump: We've Heard From Tehran's 'Right' People About a Deal",
-      "url": "https://freerepublic.com/focus/f-news/4374816/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-04-14T02:52:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran: Israel’s Oil Depot Strikes Endanger Environment, Health",
-      "url": "https://www.hrw.org/news/2026/04/13/iran-israels-oil-depot-strikes-endanger-environment-health",
-      "source": "Human Rights Watch",
-      "publishedAt": "2026-04-14T02:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korean leader supervises missile tests from his naval destroyer",
@@ -263,14 +327,6 @@
       "url": "https://www.cbc.ca/news/canada/new-brunswick/canadian-armed-forces-drones-air-defence-9.7155019",
       "source": "CBC News",
       "publishedAt": "2026-04-13T09:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The US War on Iran Is a US War on Multipolarism",
-      "url": "https://www.globalresearch.ca/us-war-iran-us-war-multipolarism/5921978",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-13T08:06:51Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

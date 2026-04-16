@@ -1,7 +1,95 @@
 {
-  "updated": "2026-04-16T16:56:15Z",
+  "updated": "2026-04-16T20:10:51Z",
   "count": 37,
   "articles": [
+    {
+      "title": "UN Experts Call for Global Halt to Arms Transfers to Israel Amid Lebanon Attacks",
+      "url": "https://truthout.org/articles/un-experts-call-for-global-halt-to-arms-transfers-to-israel-amid-lebanon-attacks/",
+      "source": "Truthout",
+      "publishedAt": "2026-04-15T19:53:32Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli strike on Hezbollah more devastating than 2024 pager attack, IDF says",
+      "url": "https://www.foxnews.com/world/israeli-strike-hezbollah-more-devastating-than-2024-pager-attack-idf-says",
+      "source": "Fox News",
+      "publishedAt": "2026-04-15T19:00:59Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Ukraine calls for more aid as Russia continues daily drone strikes",
+      "url": "https://www.abc.net.au/news/2026-04-16/ukraine-russia-invasion-war-drone-territory/106569536",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-15T18:46:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pakistani Delegation Arrives In Tehran In Move To Ease Tensions And Arrange More U.S.-Iran Talks",
+      "url": "https://www.huffpost.com/entry/pakistani-delegation-arrives-tehran-move-ease-tensions-arrange-more-us-iran-talks_n_69dfd7e1e4b0f26bda635c20",
+      "source": "HuffPost",
+      "publishedAt": "2026-04-15T18:31:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "New Israeli strikes hit southern Lebanon day after historic talks in Washington",
+      "url": "https://economictimes.indiatimes.com/news/defence/new-israeli-strikes-hit-southern-lebanon-day-after-historic-talks-in-washington/articleshow/130291868.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-15T18:30:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Orban’s exit through global eyes: Who really gains – and who doesn’t",
+      "url": "https://www.rt.com/news/638466-orbans-exit-through-global-eyes/",
+      "source": "RT",
+      "publishedAt": "2026-04-15T18:22:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Crumbles, Critics Scramble: Trump’s Long Game Leaves the Media Exposed",
+      "url": "https://www.dailysignal.com/2026/04/15/iran-crumbles-critics-scramble-trumps-long-game-leaves-the-media-exposed/",
+      "source": "Daily Signal",
+      "publishedAt": "2026-04-15T18:15:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "One-week ceasefire in Lebanon expected to take effect as US-Iran truce efforts continue",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/15/one-week-ceasefire-in-lebanon-expected-to-take-effect-as-us-iran-truce-efforts-continue/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-15T17:55:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Can Trump get a better Iran deal than Obama?",
+      "url": "https://www.dw.com/en/can-trump-get-a-better-iran-deal-than-obama/a-76798388",
+      "source": "DW (English)",
+      "publishedAt": "2026-04-15T17:46:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Germany, the UK warn the Iran war distracts from Ukraine and oil price rises help Russia",
+      "url": "https://www.dw.com/en/germany-the-uk-warn-the-iran-war-distracts-from-ukraine-and-oil-price-rises-help-russia/a-76797004",
+      "source": "DW (English)",
+      "publishedAt": "2026-04-15T17:22:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Is Anybody Actually Winning Trump’s Iran War?",
+      "url": "https://www.theatlantic.com/podcasts/2026/04/david-frum-show-matt-pottinger-trumps-iran-war/686818/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-04-15T17:10:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Pakistani delegation arrives in Tehran in move to ease tensions and arrange more US-Iran talks",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistani-delegation-arrives-in-tehran-in-move-to-ease-tensions-and-arrange-more-us-iran-talks/articleshow/130289153.cms",
@@ -67,54 +155,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran: Hundreds of thousands of jobs lost due to war",
-      "url": "https://www.dw.com/en/iran-hundreds-of-thousands-of-jobs-lost-due-to-war/a-76794860",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-15T14:07:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran sees hundreds of thousands of jobs lost due to war",
-      "url": "https://www.dw.com/en/iran-sees-hundreds-of-thousands-of-jobs-lost-due-to-war/a-76794860",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-15T14:07:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Signals Imminent Iran Talks as Hormuz Blockade Holds",
-      "url": "https://oilprice.com/Energy/Energy-General/Trump-Signals-Imminent-Iran-Talks-as-Hormuz-Blockade-Holds.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-04-15T14:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran talks: What’s the latest on mediation efforts?",
-      "url": "https://www.aljazeera.com/news/2026/4/15/us-iran-talks-whats-the-latest-on-mediation-efforts",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-15T13:55:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Children killed in Lebanon as Israeli strikes hit homes far from the war's front lines",
-      "url": "https://www.cbc.ca/news/world/children-killed-lebanon-israeli-strikes-hezbollah-9.7164299",
-      "source": "CBC News",
-      "publishedAt": "2026-04-15T13:50:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why Israel’s Post-Oct. 7 Security Doctrine Has Failed",
-      "url": "http://foreignpolicy.com/2026/04/15/israel-gaza-iran-lebanon-syria-hamas-strategy-doctrine-war/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-15T13:00:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "US wants European NATO states to ‘contain Russia’ – Lavrov",
       "url": "https://www.rt.com/russia/638452-lavrov-west-russia-containment/",
       "source": "RT",
@@ -155,36 +195,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "UK announces biggest ever drone package for Ukraine to push back Putin",
-      "url": "https://www.gov.uk/government/news/uk-announces-biggest-ever-drone-package-for-ukraine-to-push-back-putin",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-04-15T08:34:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europe accelerates ‘European NATO’ fallback plan amid fears of US pullback",
-      "url": "https://www.thehindubusinessline.com/news/world/europe-accelerates-european-nato-fallback-plan-amid-fears-of-us-pullback/article70864454.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-04-15T08:25:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea showing 'serious ability' over nuclear weapon",
       "url": "https://www.rte.ie/news/world/2026/0415/1568292-north-korea/",
       "source": "RTE",
       "publishedAt": "2026-04-15T07:01:54Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "The Unraveling Hegemon: How the American empire collapsed under its own lies",
-      "url": "https://www.naturalnews.com/2026-04-15-the-unraveling-hegemon-american-empire-collapsed-lies.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-15T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Trump doubles down in criticising Pope Leo over Iran",
@@ -195,28 +211,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "During War, Climate Chaos and Even Civilization Become Ephemeral",
-      "url": "https://www.counterpunch.org/2026/04/15/during-war-climate-chaos-and-even-civilization-become-ephemeral/",
-      "source": "CounterPunch",
-      "publishedAt": "2026-04-15T05:53:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "US-Iran peace talks could resume within next two days, Trump says",
       "url": "https://www.irishtimes.com/world/middle-east/2026/04/15/live-coverage-us-iran-war-peace-talks-donald-trump-oil-prices/",
       "source": "The Irish Times",
       "publishedAt": "2026-04-15T05:24:05Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Denmark And The Future Of NATO: What Comes Next For Western Security?",
-      "url": "https://www.hoover.org/research/denmark-and-future-nato-what-comes-next-western-security",
-      "source": "Hoover.org",
-      "publishedAt": "2026-04-15T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Trump Always Skips the Hard Part",

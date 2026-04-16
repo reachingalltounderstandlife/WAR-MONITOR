@@ -1,46 +1,134 @@
 {
-  "updated": "2026-04-15T20:31:28Z",
-  "count": 42,
+  "updated": "2026-04-16T06:22:46Z",
+  "count": 31,
   "articles": [
     {
-      "title": "Trump Reports More to Netanyahu Than to the US on Iran War, Lawmaker Says",
-      "url": "https://truthout.org/articles/trump-reports-more-to-netanyahu-than-to-the-us-on-iran-war-lawmaker-says/",
-      "source": "Truthout",
-      "publishedAt": "2026-04-14T20:25:36Z",
+      "title": "Trump Says Iran Conflict Nears End as Negotiations Set to Resume",
+      "url": "https://www.naturalnews.com/2026-04-15-trump-says-iran-conflict-nears-end-as-negotiations-set-to-resume.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-15T06:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "TODAY'S NEWS, April 8-14, 2026",
-      "url": "https://freerepublic.com/focus/f-bloggers/4374917/posts",
+      "title": "Killing Iranâs supreme leader did not secure Israel, but birthed a wider war on two fronts",
+      "url": "https://www.naturalnews.com/2026-04-15-killing-irans-supreme-leader-did-not-secure-israel.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-15T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Unraveling Hegemon: How the American empire collapsed under its own lies",
+      "url": "https://www.naturalnews.com/2026-04-15-the-unraveling-hegemon-american-empire-collapsed-lies.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-15T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump doubles down in criticising Pope Leo over Iran",
+      "url": "https://www.rte.ie/news/us/2026/0415/1568281-donald-trump-pope-leo/",
+      "source": "RTE",
+      "publishedAt": "2026-04-15T05:58:16Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "During War, Climate Chaos and Even Civilization Become Ephemeral",
+      "url": "https://www.counterpunch.org/2026/04/15/during-war-climate-chaos-and-even-civilization-become-ephemeral/",
+      "source": "CounterPunch",
+      "publishedAt": "2026-04-15T05:53:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says Iran talks may resume as Israel and Lebanon open direct negotiations",
+      "url": "https://www.thejournal.ie/trump-says-iran-talks-may-resume-as-israel-and-lebanon-open-direct-negotiations-7013094-Apr2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-04-15T05:52:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian Philosopher Alexander Dugin Offers a Brilliant Analysis of Today’s World Crisis",
+      "url": "https://montanarcc.substack.com/p/russian-philosopher-alexander-dugin",
+      "source": "Substack.com",
+      "publishedAt": "2026-04-15T05:26:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran peace talks could resume within next two days, Trump says",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/15/live-coverage-us-iran-war-peace-talks-donald-trump-oil-prices/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-15T05:24:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hopes rise for renewed talks as US military says Iran blockade is in force",
+      "url": "https://www.ksat.com/news/world/2026/04/15/hopes-rise-for-renewed-talks-as-us-military-says-iran-blockade-is-in-force/",
+      "source": "KSAT San Antonio",
+      "publishedAt": "2026-04-15T04:53:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Mediators move closer to extending US-Iran ceasefire",
+      "url": "https://apnews.com/article/us-iran-war-lebanon-israel-talks-hormuz-15-april-2026-f1b02d16f81d6fdcf68c0ed16d7a719d",
+      "source": "Associated Press",
+      "publishedAt": "2026-04-15T04:45:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Under fire: IDF troops work on the ground to expose Hezbollah infrastructure",
+      "url": "https://www.israelnationalnews.com/news/425513",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-15T04:34:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "What Christians Should Understand About the Middle East Conflict",
+      "url": "https://www.christianity.com/wiki/current-events/what-christians-should-understand-about-the-middle-east-conflict.html",
+      "source": "Christianity.com",
+      "publishedAt": "2026-04-15T04:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US destroyer interdicts two oil tankers attempting to leave Iran, official says",
+      "url": "https://freerepublic.com/focus/f-news/4374966/posts",
       "source": "Freerepublic.com",
-      "publishedAt": "2026-04-14T20:22:05Z",
+      "publishedAt": "2026-04-15T02:30:57Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Italy Suspends Defense Agreement With Israel After IDF Fired Warning Shots At Country’s Peacekeeping Convoy",
-      "url": "https://dailycaller.com/2026/04/14/giorgia-meloni-italy-israel-idf-gaza-lebanon-peacekeeper-convoy/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-04-14T20:16:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli envoy says 'on the same side' with Lebanon after talks in US",
-      "url": "https://www.channelnewsasia.com/world/lebanon-israel-hezbollah-talks-us-rubio-6056651",
-      "source": "CNA",
-      "publishedAt": "2026-04-14T20:05:47Z",
+      "title": "Israel, Lebanon agree to direct negotiations after 'productive' talks: US",
+      "url": "https://economictimes.indiatimes.com/news/defence/israel-lebanon-agree-to-direct-negotiations-after-productive-talks-us/articleshow/130270796.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-15T01:14:47Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Israel-Lebanon peace talks begin but Hezbollah won't be held to any deal. What you need to know on Iran today",
-      "url": "https://www.abc.net.au/news/2026-04-15/iran-israel-war-daily-briefing/106565600",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-14T20:04:32Z",
+      "title": "Trump Declares ‘Decisive’ Victory, but Who Really Won the Iran War?",
+      "url": "https://www.activistpost.com/trump-declares-decisive-victory-but-who-really-won-the-iran-war/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-04-15T00:02:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "Denmark And The Future Of NATO: What Comes Next For Western Security?",
+      "url": "https://www.hoover.org/research/denmark-and-future-nato-what-comes-next-western-security",
+      "source": "Hoover.org",
+      "publishedAt": "2026-04-15T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "How to Navigate a Rogue America",
@@ -59,30 +147,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Resident Fellow of American Enterprise Institute (AEI) a Zionist Think Tank Demands Murder of Iran’s Negotiators",
-      "url": "https://www.globalresearch.ca/fellow-zionist-think-tank-demands-murder-iran-negotiators/5922271",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-14T19:24:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran: Predictable Breakdown of Negotiations, Grim Consequences",
-      "url": "https://www.globalresearch.ca/iran-predictable-breakdown-negotiations-grim-consequences/5922292",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-14T19:06:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon: Debate over fake 'plot' to overthrow government",
-      "url": "https://www.dw.com/en/lebanon-debate-over-fake-plot-to-overthrow-government/a-76782219",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-14T18:54:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump Always Skips the Hard Part",
       "url": "http://foreignpolicy.com/2026/04/14/trump-deals-iran-negotiations-pattern/",
       "source": "Foreign Policy",
@@ -91,60 +155,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Over-sold and under-delivered: Israel’s Netanyahu faces ceasefire backlash",
-      "url": "https://www.aljazeera.com/news/2026/4/14/over-sold-and-under-delivered-israels-netanyahu-faces-ceasefire-backlash",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-14T18:39:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Talks on ending Iran war could resume ‘over the next two days’, says Trump",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/04/14/talks-on-ending-iran-war-could-resume-over-the-next-two-days-says-trump/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-04-14T18:26:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon and Israel sit down in Washington (without Hezbollah) for first direct talks since 1993",
-      "url": "https://www.thejournal.ie/lebanon-israel-talks-washington-7012800-Apr2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-04-14T18:15:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Bernie Sanders aims to block sale of bombs and bulldozers to Israel, accusing US ally of 'genocide'",
-      "url": "https://www.foxnews.com/politics/bernie-sanders-aims-block-sale-bombs-bulldozers-israel-accusing-us-ally-genocide",
-      "source": "Fox News",
-      "publishedAt": "2026-04-14T18:09:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Balance Of Power In The World Is Shifting, & The US Will Be The Biggest Loser",
       "url": "https://cleantechnica.com/2026/04/14/the-balance-of-power-in-the-world-is-shifting-the-us-will-be-the-biggest-loser/",
       "source": "CleanTechnica",
       "publishedAt": "2026-04-14T17:48:52Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Pakistan proposes second round of U.S.-Iran talks as standoff deepens",
-      "url": "https://www.pbs.org/newshour/world/pakistan-proposes-second-round-of-u-s-iran-talks-as-standoff-deepens",
-      "source": "PBS",
-      "publishedAt": "2026-04-14T17:29:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Islamabad talks were doomed to failure – and Hormuz blockade has thrown another obstacle to any Iran-US deal",
-      "url": "https://theconversation.com/the-islamabad-talks-were-doomed-to-failure-and-hormuz-blockade-has-thrown-another-obstacle-to-any-iran-us-deal-280553",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-04-14T17:21:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "North Korea Conducts Sixth Missile Test in 2026 – ‘Rocket Man’ Kim Jong Un Watches on as Cruise and Anti-Warship Missiles Are Launched From Destroyer",
@@ -233,110 +249,6 @@
       "publishedAt": "2026-04-14T00:00:24Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "After election win, Magyar says he'd ask Putin to end the Ukraine war: 'It would be nice to end the killing'",
-      "url": "https://www.pbs.org/newshour/world/after-election-win-magyar-says-hed-ask-putin-to-end-the-ukraine-war-it-would-be-nice-to-end-the-killing",
-      "source": "PBS",
-      "publishedAt": "2026-04-13T21:56:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Brags About Ships Crossing Hormuz Strait as Blockade Begins",
-      "url": "https://newrepublic.com/post/209003/donald-trump-brags-ships-strait-hormuz-blockade",
-      "source": "The New Republic",
-      "publishedAt": "2026-04-13T17:59:04Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "EU's Military Buildup Signals It Prepares for Large-Scale War Against Russia - Russian Envoy to UN",
-      "url": "https://sputnikglobe.com/20260413/eus-military-buildup-signals-it-prepares-for-large-scale-war-against-russia---russian-envoy-to-un-1123982767.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-04-13T16:32:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Erosion of Moral Leadership: Trump’s War With Iran",
-      "url": "https://www.commondreams.org/opinion/trump-war-iran-immoral",
-      "source": "Common Dreams",
-      "publishedAt": "2026-04-13T15:59:32Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Ceasefire Media a Menace to Iran",
-      "url": "https://www.globalresearch.ca/ceasefire-media-menace-iran/5922096",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-13T15:03:28Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Hungarian election victor Magyar says he’d speak with Putin and ask him to end the war in Ukraine",
-      "url": "https://abcnews.com/Business/wireStory/hungarian-election-victor-magyar-hed-speak-putin-end-131994446",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-13T15:00:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine Plans to Attack Russian Ships with Norwegian Support",
-      "url": "https://www.globalresearch.ca/ukraine-plans-attack-russian-ships-norwegian-support/5922172",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-13T14:12:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The US Army surged its largest counter-drone training deployment to the Middle East during the Iran war",
-      "url": "https://www.businessinsider.com/us-army-surged-largest-counter-drone-training-mission-middle-east-2026-4",
-      "source": "Business Insider",
-      "publishedAt": "2026-04-13T13:47:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Pope Leo XIV Tells Trump 'I Have No Fear' After Scathing Attack Over Iran War Stance",
-      "url": "https://www.ibtimes.com.au/pope-leo-xiv-tells-trump-i-have-no-fear-after-scathing-attack-over-iran-war-stance-1866364",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-04-13T12:30:16Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The Doomed Road to Tehran",
-      "url": "https://www.theamericanconservative.com/the-doomed-road-to-tehran/",
-      "source": "The American Conservative",
-      "publishedAt": "2026-04-13T12:10:02Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "FM Sa'ar addresses the Holocaust Memorial Day Ceremony at the MFA in Jerusalem",
-      "url": "https://www.globalsecurity.org/wmd/library/news/israel/2026/04/israel-260413-israel-mfa01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-13T12:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Iran's Top Diplomat Says Trump Team Sabotaged Talks With Deal 'Inches Away'",
-      "url": "https://www.commondreams.org/news/iran-foreign-minister-negotiations",
-      "source": "Common Dreams",
-      "publishedAt": "2026-04-13T10:06:20Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "How the Israeli-US War on Iran has spurred Nuclear Proliferation",
-      "url": "https://www.juancole.com/2026/04/israeli-spurred-proliferation.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-04-13T04:04:30Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

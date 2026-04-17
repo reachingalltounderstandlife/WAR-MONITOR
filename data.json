@@ -1,14 +1,222 @@
 {
-  "updated": "2026-04-17T06:23:26Z",
-  "count": 28,
+  "updated": "2026-04-17T15:40:42Z",
+  "count": 35,
   "articles": [
     {
-      "title": "Israel, Lebanon leaders to hold talks, says Trump",
-      "url": "https://punchng.com/israel-lebanon-leaders-to-hold-talks-says-trump/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-16T06:22:09Z",
+      "title": "The Pentagon says it's watching as Iran is 'digging out' its remaining missiles and launchers",
+      "url": "https://www.businessinsider.com/iran-digging-out-remaining-missiles-launchers-pentagon-2026-4",
+      "source": "Business Insider",
+      "publishedAt": "2026-04-16T15:26:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump predicted Israel–Lebanon leaders would speak ‘tomorrow’ — Beirut swiftly shut it down",
+      "url": "https://www.foxnews.com/world/trump-predicted-israel-lebanon-leaders-would-speak-tomorrow-beirut-swiftly-shut-down",
+      "source": "Fox News",
+      "publishedAt": "2026-04-16T15:15:25Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "Trump predicted Israel–Lebanon leaders would speak ‘tomorrow’ — Beirut shut it down as ceasefire emerges",
+      "url": "https://www.foxnews.com/world/trump-predicted-israel-lebanon-leaders-would-speak-tomorrow-beirut-shut-down-ceasefire-emerges",
+      "source": "Fox News",
+      "publishedAt": "2026-04-16T15:15:25Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.N. Atomic Body: 'Very Serious Increase' in North Korea Nuclear Weapons Production",
+      "url": "https://www.breitbart.com/asia/2026/04/16/u-n-atomic-body-very-serious-increase-in-north-korea-nuclear-weapons-production/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-04-16T15:06:55Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump's ceasefire crumbles as nuclear nightmare scenario remains imminent threat",
+      "url": "https://www.rawstory.com/waiting-for-the-apocalypse-walk-through-the-smoke-and-pull-up-a-chair/",
+      "source": "Raw Story",
+      "publishedAt": "2026-04-16T14:46:41Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "WW3 WATCH: Russia Threatens Drone Manufacturing Enterprises in European Countries Supplying Drones to Ukraine – Britain, Germany, Italy and Spain Among Them",
+      "url": "https://www.thegatewaypundit.com/2026/04/ww3-watch-russia-threatens-drone-manufacturing-enterprises-european/",
+      "source": "Thegatewaypundit.com",
+      "publishedAt": "2026-04-16T14:45:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Top US General Says Navy Blockading Iranian Coastline, Not Strait of Hormuz",
+      "url": "https://sputnikglobe.com/20260416/top-us-general-says-navy-blockading-iranian-coastline-not-strait-of-hormuz-1123998134.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-16T14:42:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah will never choose Lebanon over Iran",
+      "url": "https://freerepublic.com/focus/f-bloggers/4375154/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-04-16T14:42:05Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "WHO chief calls for protection of Lebanon’s health infrastructure | | Bangladesh Pratidin",
+      "url": "https://en.bd-pratidin.com/international/2026/04/16/60783",
+      "source": "Bd-pratidin.com",
+      "publishedAt": "2026-04-16T14:35:05Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Turkiye’s Roketsan eyes top 10 exporter rank amid Middle East conflict",
+      "url": "https://www.aljazeera.com/economy/2026/4/16/turkiyes-roketsan-eyes-top-10-exporter-rank-amid-middle-east-conflict",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-16T14:24:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia plans to put nuclear weapons in orbit for 'space Pearl Harbor'...",
+      "url": "https://www.thetimes.com/us/news-today/article/russia-nuclear-weapon-space-attack-satellites-ms0s3t9ml",
+      "source": "Thetimes.com",
+      "publishedAt": "2026-04-16T14:00:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Iran Is Determined to Protect Hezbollah in Any Peace Deal",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Why-Iran-Is-Determined-to-Protect-Hezbollah-in-Any-Peace-Deal.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-04-16T14:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pakistani army chief tries to keep dialogue open between U.S. and Iran",
+      "url": "https://www.pbs.org/newshour/world/pakistani-army-chief-tries-to-keep-dialogue-open-between-u-s-and-iran",
+      "source": "PBS",
+      "publishedAt": "2026-04-16T13:51:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What does Israel want in Lebanon?",
+      "url": "https://theweek.com/politics/what-does-israel-want-in-the-lebanon-conflict-hezbollah",
+      "source": "The Week Magazine",
+      "publishedAt": "2026-04-16T13:07:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli strike destroys last bridge over Litani River as intense fighting continues in south Lebanon",
+      "url": "https://www.cbc.ca/news/world/israeli-strikes-lebanon-litani-river-9.7165708",
+      "source": "CBC News",
+      "publishedAt": "2026-04-16T13:00:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The UK is alarmingly unprepared for the threats it faces – security expert explains why",
+      "url": "https://theconversation.com/the-uk-is-alarmingly-unprepared-for-the-threats-it-faces-security-expert-explains-why-280621",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-04-16T12:49:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Only Peace Can Make a New World Order",
+      "url": "http://foreignpolicy.com/2026/04/16/war-peace-united-states-trump-europe-world-order-disorder/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-04-16T12:09:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Can historic Israel-Lebanon talks lead to ceasefire?",
+      "url": "https://www.aljazeera.com/news/2026/4/16/can-historic-israel-lebanon-talks-lead-to-ceasefire",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-16T12:04:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pakistani army chief meets Iranian parliament speaker in Tehran",
+      "url": "https://www.globalsecurity.org/wmd/library/news/pakistan/2026/pakistan-260416-presstv02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-16T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pentagon pushes US automakers to produce arms as arsenals depleting due to war on Iran",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260416-presstv05.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-16T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US breach of commitments main obstacle to peace in the region: Speaker Qalibaf",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260416-presstv02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-16T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump announces ceasefire in Lebanon",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260416-azertac01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-16T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Anthropic’s Nuclear Bomb",
+      "url": "https://warontherocks.com/anthropics-nuclear-bomb/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-04-16T08:00:22Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Anthropic’s Nuclear Bomb",
+      "url": "https://warontherocks.com/cogs-of-war/anthropics-nuclear-bomb/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-04-16T08:00:22Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Rethinking Security Cooperation in the Age of Commercial Tech",
+      "url": "https://warontherocks.com/rethinking-security-cooperation-in-the-age-of-commercial-tech/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-04-16T07:30:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Rethinking Security Cooperation in the Age of Commercial Tech",
+      "url": "https://warontherocks.com/cogs-of-war/rethinking-security-cooperation-in-the-age-of-commercial-tech/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-04-16T07:30:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The new National Defence Strategy feels written for a bygone era – and ignores the elephant in the room",
+      "url": "https://theconversation.com/the-new-national-defence-strategy-feels-written-for-a-bygone-era-and-ignores-the-elephant-in-the-room-280727",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-04-16T07:20:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Zelenskyy pursues more arms deals with allies to defend itself against Russia",
@@ -19,22 +227,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran war: What is happening on day 48 of the US-Iran conflict?",
-      "url": "https://www.aljazeera.com/news/2026/4/16/iran-war-what-is-happening-on-day-48-of-the-us-iran-conflict",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-16T06:13:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says Israel, Lebanon leaders to hold talks",
-      "url": "https://www.hurriyetdailynews.com/trump-says-israel-lebanon-leaders-to-hold-talks-221088",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-04-16T06:11:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Putin’s Obsession with Ukraine",
       "url": "https://smallwarsjournal.com/2026/04/16/putins-obsession-with-ukraine/",
       "source": "Smallwarsjournal.com",
@@ -43,146 +235,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Report Alleges Iran Used Chinese Satellite for Surveillance Prior to Strikes on U.S. Bases",
-      "url": "https://www.naturalnews.com/2026-04-16-report-iran-used-chinese-satellite-for-surveillance.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-16T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Italy Suspends Defense Agreement with Israel Over Lebanon Campaign",
-      "url": "https://www.naturalnews.com/2026-04-16-italy-suspends-israel-defense-agreement-over-lebanon.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-16T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "European Nations Form Independent Maritime Security Force for Strait of Hormuz",
       "url": "https://www.naturalnews.com/2026-04-16-european-nations-form-maritime-security-force-hormuz.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-04-16T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "U.S. and Iran Report Progress on Ceasefire Framework as Naval Blockade Continues",
-      "url": "https://www.naturalnews.com/2026-04-16-us-iran-report-progress-on-ceasefire-framework.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-16T06:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump says Israel and Lebanon leaders will hold talks today",
-      "url": "https://www.thejournal.ie/trump-says-israel-and-lebanon-leaders-will-hold-talks-today-7014113-Apr2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-04-16T05:45:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Update Special Report, April 15, 2026 - Institute for the Study of War",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=181724604",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-04-16T05:33:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says Israel and Lebanon leaders to hold talks after first high-level meeting in decades",
-      "url": "https://www.cnbc.com/2026/04/16/trump-israel-lebanon-talks-hezbollah-ceasefire-conflict.html",
-      "source": "CNBC",
-      "publishedAt": "2026-04-16T05:32:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Senate Blocks Move to Halt US War Against Iran",
-      "url": "https://sputnikglobe.com/20260416/senate-blocks-move-to-halt-us-war-against-iran-1123994274.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-04-16T05:11:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russian missiles hit Kyiv and other Ukrainian cities, 12 dead",
-      "url": "https://www.abc.net.au/news/2026-04-16/ukraine-latest-death-toll-russian-missile-attack/106570958",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-16T05:00:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Consecutive Israeli strikes kill 4 Lebanese medics as Israel-Hezbollah war grinds on",
-      "url": "https://www.seattlepi.com/news/world/article/new-israeli-strikes-hit-southern-lebanon-a-day-22207582.php",
-      "source": "seattlepi.com",
-      "publishedAt": "2026-04-16T04:38:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "EU waits on Hungary as €90bn loan now ready for Ukraine",
-      "url": "https://www.independent.ie/world-news/europe/eu-waits-on-hungary-as-90bn-loan-now-ready-for-ukraine/a1933661411.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-16T04:30:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hopes grow for a breakthrough in US-Iran talks as Pakistan mediates",
-      "url": "https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-16T03:37:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Back-To-Back Israeli Strikes Kill 4 Lebanese Rescue Workers",
-      "url": "https://www.huffpost.com/entry/israel-hezbollah-lebanon-medic-deaths_n_69e04c6fe4b05c8319ceadc2",
-      "source": "HuffPost",
-      "publishedAt": "2026-04-16T03:04:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Fighter pilot Rumen Radev looks to break Bulgaria’s political deadlock",
-      "url": "https://www.politico.eu/article/bulgaria-election-fighter-pilot-rumen-radev-political-deadlock-coalition-struggle/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-04-16T02:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Space Force’s 2040 vision: a larger force to contend with larger Chinese, Russian threats",
-      "url": "https://www.defenseone.com/policy/2026/04/space-forces-2040-vision-larger-force-contend-larger-chinese-russian-threats/412885/",
-      "source": "Defense One",
-      "publishedAt": "2026-04-15T22:20:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Allies rush thousands of drones to Ukraine as Russia unleashes deadly missile barrages",
-      "url": "https://www.foxnews.com/world/allies-rush-thousands-drones-ukraine-russia-unleashes-deadly-missile-barrages",
-      "source": "Fox News",
-      "publishedAt": "2026-04-15T22:13:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine's Zelenskyy pursues more arms deals with allies",
-      "url": "https://japantoday.com/category/world/ukraine%27s-zelenskyy-pursues-more-arms-deals-with-allies-to-help-check-russia%27s-invasion",
-      "source": "Japan Today",
-      "publishedAt": "2026-04-15T21:38:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Magyar’s Big Plans for Budapest",
-      "url": "http://foreignpolicy.com/2026/04/15/hungary-peter-magyar-tisza-fidesz-orban-election-sulyok-resign-reforms-russia/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-15T21:23:40Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

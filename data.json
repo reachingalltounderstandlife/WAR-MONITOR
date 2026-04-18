@@ -1,14 +1,86 @@
 {
-  "updated": "2026-04-18T05:52:07Z",
-  "count": 32,
+  "updated": "2026-04-18T08:08:23Z",
+  "count": 30,
   "articles": [
     {
-      "title": "Trump optimistic about Iran war as Lebanon truce takes effect",
-      "url": "https://apnews.com/article/us-iran-war-lebanon-israel-talks-pakistan-hormuz-17-april-2026-4bd5a29af608ecbd72356559b3c55d67",
-      "source": "Associated Press",
-      "publishedAt": "2026-04-17T05:51:53Z",
+      "title": "Winning in the Donbas: What Russia’s 2014–2015 Campaign Reveals About Modern War",
+      "url": "https://warontherocks.com/winning-in-the-donbas-what-russias-2014-2015-campaign-reveals-about-modern-war/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-04-17T07:15:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel, Lebanon 10-day cease-fire begins after Trump hails ‘historic day’",
+      "url": "https://nypost.com/2026/04/17/world-news/israel-lebanon-10-day-cease-fire-begins-after-trump-hails-historic-day/",
+      "source": "New York Post",
+      "publishedAt": "2026-04-17T07:14:38Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanese crossing Litani River southwards, despite repeated warnings",
+      "url": "https://www.israelnationalnews.com/news/425645",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-17T07:06:53Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "10-day Israel-Lebanon truce begins as Lebanese army warns of violations",
+      "url": "https://punchng.com/10-day-israel-lebanon-truce-begins-as-lebanese-army-warns-of-violations/",
+      "source": "The Punch",
+      "publishedAt": "2026-04-17T06:40:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-led ceasefire between Israel and Lebanon begins as Trump warns Hezbollah to 'act nicely'",
+      "url": "https://www.thejournal.ie/israel-lebanon-ceasefire-trump-hezbollah-7015416-Apr2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-04-17T06:38:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ten-day ceasefire deal between Israel, Lebanon takes effect",
+      "url": "https://www.hurriyetdailynews.com/ten-day-ceasefire-deal-between-israel-lebanon-takes-effect-221138",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-17T06:09:55Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli Bulldozers Flatten Southern Lebanese Villages, Satellite Analysis Shows Over 1,400 Buildings Destroyed",
+      "url": "https://www.naturalnews.com/2026-04-17-israeli-bulldozers-flatten-over-thousand-buildings-southern-lebanon.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-17T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon ceasefire reveals shifting power as Iran imposes terms on U.S., Israel",
+      "url": "https://www.naturalnews.com/2026-04-17-lebanon-ceasefire-shifting-power-iran-israel.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-17T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Collapse is Real – Lebanon Ceasefire Marks a Historic Strategic Defeat",
+      "url": "https://www.counterpunch.org/2026/04/17/the-collapse-is-real-lebanon-ceasefire-marks-a-historic-strategic-defeat/",
+      "source": "CounterPunch",
+      "publishedAt": "2026-04-17T05:58:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump and Netanyahu’s War on Lebanon Threatens Stability and Long-Term Security",
+      "url": "https://www.counterpunch.org/2026/04/17/trump-and-netanyahus-war-on-lebanon-threatens-stability-and-long-term-security/",
+      "source": "CounterPunch",
+      "publishedAt": "2026-04-17T05:56:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "How Do We Transcend War?",
@@ -27,44 +99,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Oil Drops as Trump Strikes Upbeat Tone With War Near 50-Day Mark",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-drops-as-trump-strikes-upbeat-tone-with-war-near-50-day-mark",
-      "source": "Financial Post",
-      "publishedAt": "2026-04-17T04:06:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "An unholy silence",
-      "url": "https://www.israelnationalnews.com/news/425634",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-17T03:31:55Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "A 10-day ceasefire agreed on by Israel and Lebanon goes into effect",
       "url": "https://economictimes.indiatimes.com/news/defence/a-10-day-ceasefire-agreed-on-by-israel-and-lebanon-goes-into-effect/articleshow/130321913.cms",
       "source": "The Times of India",
       "publishedAt": "2026-04-17T03:18:49Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "US Israel-Iran War Day 49: Trump hints at ‘end’ to war; Israel-Lebanon call it a truce for now as Mideast tensions persist",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-israel-iran-war-news-day-49-updates-strait-of-hormuz-blockage-peace-talk-donald-trump-us-israel-iran-middle-east-war/articleshow/130321499.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-17T02:55:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump says war in Iran 'should be ending pretty soon'",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-04-17/ty-article-live/trump-says-war-in-iran-should-be-ending-pretty-soon/0000019d-9934-d9bd-abfd-fbf508480000",
-      "source": "Haaretz",
-      "publishedAt": "2026-04-17T02:33:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "The Irony: Conservatives Actually Won in Hungary",
@@ -91,58 +131,10 @@
       "_label": "Iran War"
     },
     {
-      "title": "Lebanon: Israeli Bridge Attack a Potential War Crime",
-      "url": "https://www.hrw.org/news/2026/04/16/lebanon-israeli-bridge-attack-a-potential-war-crime",
-      "source": "Human Rights Watch",
-      "publishedAt": "2026-04-17T02:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Strait of Hormuz open to commercial ships for remainder of ceasefire, Iran says - follow live",
       "url": "https://www.bbc.co.uk/news/live/cqxdg17yr2wt",
       "source": "BBC News",
       "publishedAt": "2026-04-17T00:28:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Collapse is Real – Lebanon Ceasefire Marks a Historic Strategic Defeat",
-      "url": "https://original.antiwar.com/ramzy-baroud/2026/04/16/the-collapse-is-real-lebanon-ceasefire-marks-a-historic-strategic-defeat/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-04-17T00:00:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "10-day ceasefire begins in Lebanon amid Israel-Hezbollah conflict",
-      "url": "https://www.thehindubusinessline.com/news/world/10-day-ceasefire-begins-in-lebanon-amid-israel-hezbollah-conflict/article70871228.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-04-16T23:58:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How the Iran war is helping Lebanon and Israel tiptoe toward peace",
-      "url": "https://nypost.com/2026/04/16/opinion/how-the-iran-war-helps-lebanon-and-israel-tiptoe-toward-peace/",
-      "source": "New York Post",
-      "publishedAt": "2026-04-16T23:04:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US intelligence detects signs China is weighing giving Iran advance radar systems",
-      "url": "https://www.cbsnews.com/news/us-intelligence-signs-china-iran-advance-radar-systems/",
-      "source": "CBS News",
-      "publishedAt": "2026-04-16T23:03:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump’s ceasefire announcement, briefly explained",
-      "url": "https://www.vox.com/the-logoff-newsletter-trump/485966/trump-lebanon-ceasefire-israel-iran-negotiations",
-      "source": "Vox",
-      "publishedAt": "2026-04-16T21:29:21Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -247,14 +239,6 @@
       "url": "https://warontherocks.com/cogs-of-war/rethinking-security-cooperation-in-the-age-of-commercial-tech/",
       "source": "War on the Rocks",
       "publishedAt": "2026-04-16T07:30:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The new National Defence Strategy feels written for a bygone era – and ignores the elephant in the room",
-      "url": "https://theconversation.com/the-new-national-defence-strategy-feels-written-for-a-bygone-era-and-ignores-the-elephant-in-the-room-280727",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-04-16T07:20:11Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

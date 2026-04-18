@@ -1,7 +1,135 @@
 {
-  "updated": "2026-04-18T14:25:02Z",
-  "count": 33,
+  "updated": "2026-04-18T19:55:34Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Ties Between Greece, United States Grow Ever Stronger: Envoys",
+      "url": "https://www.breitbart.com/politics/2026/04/17/ties-between-greece-united-states-grow-ever-stronger-envoys/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-04-17T19:32:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon president says working on ‘permanent agreements’ after Israel truce",
+      "url": "https://www.digitaljournal.com/world/lebanon-president-says-working-on-permanent-agreements-after-israel-truce/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-17T19:02:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "West Asia War: Uneasy calm in Lebanon as families head home",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/west-asia-war-uneasy-calm-in-lebanon-as-families-head-home/articleshow/130342066.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-17T18:55:08Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Displaced Lebanese Christians Wait Nervously to Return Home as Trump Declares Ceasefire",
+      "url": "https://www.breitbart.com/middle-east/2026/04/17/displaced-lebanese-christians-wait-nervously-to-return-home-as-trump-declares-ceasefire/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-04-17T18:08:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump optimistic: Iran deal expected within days",
+      "url": "https://www.israelnationalnews.com/news/425668",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-17T18:02:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "One of These Trump Threats Is Not Like the Others",
+      "url": "https://www.theatlantic.com/national-security/2026/04/trump-iran-war-threats-international-law/686791/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-04-17T17:59:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Iran to suspend nuclear program, won’t get funds",
+      "url": "https://fortune.com/2026/04/17/trump-says-iran-to-suspend-nuclear-program-wont-get-funds/",
+      "source": "Fortune",
+      "publishedAt": "2026-04-17T17:01:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump ‘Prohibits’ Israel From Striking Lebanon as Netanyahu Says War With Hezbollah Not Over Yet",
+      "url": "https://legalinsurrection.com/2026/04/trump-prohibits-israel-from-striking-lebanon-as-netanyahu-says-war-with-hezbollah-not-over-yet/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-04-17T17:00:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel’s defense minister affirms commitment to disarming Hezbollah — despite 10-day ceasefire",
+      "url": "https://www.jns.org/news/israel-news/as-ceasefire-takes-hold-katz-says-israel-remains-committed-to-disarming-hezbollah",
+      "source": "JNS.org",
+      "publishedAt": "2026-04-17T16:54:30Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel strikes 100 Lebanon sites, complicating Hezbollah ceasefire prospects",
+      "url": "https://cryptobriefing.com/israel-strikes-100-lebanon-sites-complicating-hezbollah-ceasefire-prospects/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-17T16:52:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran Declares Strait of Hormuz Open During Ceasefire Sparking Oil Price Drop and Market Rally",
+      "url": "https://www.ibtimes.com.au/iran-declares-strait-hormuz-open-during-ceasefire-sparking-oil-price-drop-market-rally-1866897",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-17T16:45:11Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel strikes Tibnin Hospital amid ceasefire talks with Hezbollah",
+      "url": "https://cryptobriefing.com/israel-strikes-tibnin-hospital-amid-ceasefire-talks-with-hezbollah/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-17T16:41:05Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran says it fully reopens Strait of Hormuz as Trump says blockade will ‘remain in force’",
+      "url": "https://fortune.com/2026/04/17/iran-says-it-fully-reopens-strait-of-hormuz-as-trump-says-blockade-will-remain-in-force/",
+      "source": "Fortune",
+      "publishedAt": "2026-04-17T16:20:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Useless, a paper tiger’: Trump rejects NATO help after major breakthrough in Strait of Hormuz",
+      "url": "https://indianexpress.com/article/world/us-news/donald-trump-strait-of-hormuz-reopening-nato-iran-blockade-10642255/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-04-17T16:05:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Empire Backs Down, For Now",
+      "url": "https://www.activistpost.com/the-empire-backs-down-for-now/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-04-17T16:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Labour Contenders Who Could Replace a Weakened Starmer",
+      "url": "https://financialpost.com/pmn/business-pmn/the-labour-contenders-who-could-replace-a-weakened-starmer",
+      "source": "Financial Post",
+      "publishedAt": "2026-04-17T15:10:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "How to fuel a war: EU eyes new front for green agenda",
       "url": "https://www.rt.com/news/638541-nato-fuel-crisis-eu/",
@@ -17,30 +145,6 @@
       "publishedAt": "2026-04-17T14:14:05Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Live updates: Iran declares Strait of Hormuz 'completely open'; Trump says U.S. blockade 'will remain in full force' until peace deal",
-      "url": "https://freerepublic.com/focus/f-news/4375273/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-04-17T14:02:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel’s “Black Wednesday” Massacre Leaves Lebanese Families Giving DNA to ID Loved Ones’ Remains",
-      "url": "https://theintercept.com/2026/04/17/lebanon-israel-black-wednesday-bombing-id-dna/",
-      "source": "The Intercept",
-      "publishedAt": "2026-04-17T13:57:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump anti-Semitism envoy warns EU officials of World Cup bans – media",
-      "url": "https://www.rt.com/news/638567-fifa-cup-travel-ban/",
-      "source": "RT",
-      "publishedAt": "2026-04-17T13:55:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Germany’s Return to Conscription Is Not a Mistake; It’s an Obligation.",
@@ -65,102 +169,6 @@
       "publishedAt": "2026-04-17T13:37:03Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Trump and Iran's foreign minister declare Strait of Hormuz is fully open",
-      "url": "https://www.pbs.org/newshour/world/trump-and-irans-foreign-minister-declare-strait-of-hormuz-is-fully-open",
-      "source": "PBS",
-      "publishedAt": "2026-04-17T13:35:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Oil Prices Sink 10% as Trump Announces Strait of Hormuz is Fully Open",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Sink-10-as-Trump-Announces-Strait-of-Hormuz-is-Fully-Open.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-04-17T13:25:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The three clocks of the Iran war",
-      "url": "https://www.aljazeera.com/opinions/2026/4/17/the-three-clocks-of-the-iran-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-17T13:20:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran: Psalms recited in memory of those killed in war with Israel",
-      "url": "https://www.israelnationalnews.com/news/425651",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-17T12:41:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Leaders urge for restraint as 10-day Israel-Lebanon ceasefire takes effect",
-      "url": "https://www.npr.org/2026/04/17/g-s1-117788/middle-east-conflict-israel-lebanon-us-updates",
-      "source": "NPR",
-      "publishedAt": "2026-04-17T12:36:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Leaders urge for restraint as 10-day Israel-Lebanon ceasefire takes effect",
-      "url": "https://www.npr.org/2026/04/17/g-s1-117788/israel-us-iran-middle-east-conflict-updates",
-      "source": "NPR",
-      "publishedAt": "2026-04-17T12:36:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "We are working for the withdrawal of Israeli forces, says the Lebanese president – ‘We are not going anywhere,’ replies the Israeli Defence Minister",
-      "url": "https://en.protothema.gr/2026/04/17/we-are-working-for-the-withdrawal-of-israeli-forces-says-the-lebanese-president-we-are-not-going-anywhere-replies-the-israeli-defence-minister/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-04-17T12:32:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hegseth: Hormuz Blockade Stays “As Long As It Takes” – Ships Now Fair Game For Search & Seizure",
-      "url": "https://www.shtfplan.com/war/hegseth-hormuz-blockade-stays-as-long-as-it-takes-ships-now-fair-game-for-search-seizure",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-04-17T12:30:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Report from Beirut: Israel-Lebanon Ceasefire Met with \"Cautious Optimism\"",
-      "url": "https://www.democracynow.org/2026/4/17/lebanon_ceasefire",
-      "source": "Democracy Now!",
-      "publishedAt": "2026-04-17T12:29:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "UAE envoy to India flags 2,890 strikes on civilian infra since Feb 28, says 4 million Indian expats integral to nation",
-      "url": "https://economictimes.indiatimes.com/news/defence/uae-envoy-to-india-flags-2890-strikes-on-civilian-infra-since-feb-28-says-4-million-indian-expats-integral-to-nation/articleshow/130331367.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-17T12:07:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Friday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/04/17/friday-hili-dialogue-572/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-04-17T11:45:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "America is in a Recession Carved by Trump’s War Machine",
-      "url": "https://www.globalresearch.ca/america-recession-trump-war-machine/5922839",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-17T10:43:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "War on Iran likely to delay US arms deliveries to Europe – Reuters",
@@ -219,14 +227,6 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Can the Arctic Council Survive?",
-      "url": "http://foreignpolicy.com/2026/04/16/arctic-council-trump-greenland-denmark/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-16T15:59:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "U.N. Atomic Body: 'Very Serious Increase' in North Korea Nuclear Weapons Production",
       "url": "https://www.breitbart.com/asia/2026/04/16/u-n-atomic-body-very-serious-increase-in-north-korea-nuclear-weapons-production/",
       "source": "Breitbart News",
@@ -241,14 +241,6 @@
       "publishedAt": "2026-04-16T14:46:41Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Turkiye’s Roketsan eyes top 10 exporter rank amid Middle East conflict",
-      "url": "https://www.aljazeera.com/economy/2026/4/16/turkiyes-roketsan-eyes-top-10-exporter-rank-amid-middle-east-conflict",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-16T14:24:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Anthropic’s Nuclear Bomb",

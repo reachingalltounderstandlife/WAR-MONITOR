@@ -1,7 +1,103 @@
 {
-  "updated": "2026-04-19T14:24:48Z",
-  "count": 29,
+  "updated": "2026-04-19T19:56:00Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Lavrov comments on Russia’s red lines and patience",
+      "url": "https://www.rt.com/russia/638664-lavrov-west-russia-patience/",
+      "source": "RT",
+      "publishedAt": "2026-04-18T19:40:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Escalates as IRGC Fires at Tanker in Hormuz Strait, Hezbollah Violates Ceasefire",
+      "url": "https://legalinsurrection.com/2026/04/iran-escalates-as-irgc-fires-at-tanker-in-hormuz-strait-hezbollah-violates-ceasefire/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-04-18T18:00:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iranian official says excessive demands made by U.S. are barrier to in-person talks",
+      "url": "https://www.pbs.org/newshour/world/iranian-official-says-excessive-demands-made-by-u-s-are-barrier-to-in-person-talks",
+      "source": "PBS",
+      "publishedAt": "2026-04-18T17:56:38Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Netanyahu surprised by Trump’s ban on Israeli strikes against Hezbollah",
+      "url": "https://cryptobriefing.com/netanyahu-surprised-by-trumps-ban-on-israeli-strikes-against-hezbollah/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-18T17:42:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Medics Decry Israeli Attacks on Ambulance Crews",
+      "url": "https://www.newser.com/story/387555/medics-decry-israeli-attacks-on-ambulance-crews.html",
+      "source": "Newser",
+      "publishedAt": "2026-04-18T17:26:29Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Ceasefire Collapsing as Iran Shuts Down Strait of Hormuz Again, Accusing US of 'Piracy'",
+      "url": "https://www.commondreams.org/news/iran-shuts-down-hormuz-again",
+      "source": "Common Dreams",
+      "publishedAt": "2026-04-18T17:04:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Macron says a French soldier was killed and 3 were wounded in attack on peacekeepers in Lebanon",
+      "url": "https://abcnews.com/International/wireStory/macron-french-soldier-killed-3-wounded-attack-peacekeepers-132162824",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-18T16:18:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Operation Eternal Darkness and the Ceasefire That Never Reached Beirut",
+      "url": "https://www.activistpost.com/operation-eternal-darkness-and-the-ceasefire-that-never-reached-beirut/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-04-18T16:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah Official Vows Response to Israeli Ceasefire Violations",
+      "url": "https://sputnikglobe.com/20260418/hezbollah-official-vows-response-to-israeli-ceasefire-violations-1124009454.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-18T15:44:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Macron says Hezbollah likely killed French UNIFIL soldier in southern Lebanon",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-04-18/ty-article/macron-says-hezbollah-likely-killed-french-unifil-soldier-in-southern-lebanon/0000019d-a094-d834-abbd-f9d426eb0000",
+      "source": "Haaretz",
+      "publishedAt": "2026-04-18T15:15:39Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel expands operational zone in Lebanon amid heightened tensions",
+      "url": "https://cryptobriefing.com/israel-expands-operational-zone-in-lebanon-amid-heightened-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-18T14:45:32Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel Launches Strikes on Lebanon After Ceasefire Takes Effect",
+      "url": "https://sputnikglobe.com/20260418/israel-launches-strikes-on-lebanon-after-ceasefire-takes-effect-1124009296.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-18T14:31:54Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Iran's military closes Strait of Hormuz again, citing U.S. blockade",
       "url": "https://www.pbs.org/newshour/world/irans-military-closes-strait-of-hormuz-again-citing-u-s-blockade",
@@ -9,14 +105,6 @@
       "publishedAt": "2026-04-18T13:45:58Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Iranian Official Says U.S. 'Maximalist' Demands Stall Face-To-Face Talks",
-      "url": "https://www.huffpost.com/entry/ap-ml-iran-us-talks_n_69e38699e4b0b6f552ba3c78",
-      "source": "HuffPost",
-      "publishedAt": "2026-04-18T13:40:44Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "What’s the Deal with Iran? Is There a Deal?",
@@ -35,38 +123,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran reimposes Strait of Hormuz restrictions as tensions with U.S. continue",
-      "url": "https://www.cbc.ca/news/world/strait-of-hormuz-blocked-iran-us-9.7169212",
-      "source": "CBC News",
-      "publishedAt": "2026-04-18T12:28:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Strait of Hormuz Chaos: Iran Recloses Waterway, Fires on Tanker as US Blockade Standoff Escalates April 18",
-      "url": "https://www.ibtimes.com.au/strait-hormuz-chaos-iran-recloses-waterway-fires-tanker-us-blockade-standoff-escalates-april-18-1866940",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-04-18T12:15:10Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iranian Gunboats Fire On Tanker In Strait Of Hormuz As Iran Reimposes Restrictions",
-      "url": "https://www.huffpost.com/entry/iran-closes-strait-of-hormuz_n_69e36eeee4b0b6f552ba3b46",
-      "source": "HuffPost",
-      "publishedAt": "2026-04-18T11:57:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF strikes saboteurs in south Lebanon, ceasefire’s durability questioned",
-      "url": "https://cryptobriefing.com/idf-strikes-saboteurs-in-south-lebanon-ceasefires-durability-questioned/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-18T11:37:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
       "url": "https://www.capitalfm.co.ke/business/2026/04/oil-prices-plunge-as-iran-says-strait-of-hormuz-open-during-ceasefire/",
       "source": "Capital FM Kenya",
@@ -83,14 +139,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Sen John Fetterman pledges to be 'last man standing' in the Democratic Party in support of Israel",
-      "url": "https://www.foxnews.com/media/sen-john-fetterman-pledges-last-man-standing-democratic-party-support-israel",
-      "source": "Fox News",
-      "publishedAt": "2026-04-18T11:00:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Israel’s long history of stoking sectarian tensions in Lebanon, and what it means for the ceasefire",
       "url": "https://mondoweiss.net/2026/04/israels-long-history-of-stoking-sectarian-tensions-in-lebanon-and-what-it-means-for-the-ceasefire/",
       "source": "Mondoweiss",
@@ -103,22 +151,6 @@
       "url": "https://economictimes.indiatimes.com/news/defence/merchant-vessels-report-gunfire-as-they-attempt-to-cross-hormuz-shipping-sources-say/articleshow/130351878.cms",
       "source": "The Times of India",
       "publishedAt": "2026-04-18T10:48:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran reimposes restrictions on Strait of Hormuz, accusing US of violating deal to reopen it",
-      "url": "https://nypost.com/2026/04/18/world-news/iran-reimposes-restrictions-on-strait-of-hormuz-accusing-us-of-violating-deal-to-reopen-it/",
-      "source": "New York Post",
-      "publishedAt": "2026-04-18T10:24:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump on idea of Iran tolling the Strait of Hormuz: ‘Nope. No way. No. Nope.’",
-      "url": "https://fortune.com/2026/04/18/trump-on-idea-of-iran-tolling-the-strait-of-hormuz-nope-no-way-no-nope/",
-      "source": "Fortune",
-      "publishedAt": "2026-04-18T10:04:42Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -191,14 +223,6 @@
       "url": "https://www.rt.com/news/638541-nato-fuel-crisis-eu/",
       "source": "RT",
       "publishedAt": "2026-04-17T14:24:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The US Army has been surging cheap interceptor drone purchases to flip the cost war with Iran's Shaheds",
-      "url": "https://www.businessinsider.com/us-army-buying-cheap-interceptor-drones-flip-cost-war-iran-2026-4",
-      "source": "Business Insider",
-      "publishedAt": "2026-04-17T14:14:05Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

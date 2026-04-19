@@ -1,118 +1,150 @@
 {
-  "updated": "2026-04-19T06:17:24Z",
-  "count": 28,
+  "updated": "2026-04-19T14:24:48Z",
+  "count": 29,
   "articles": [
     {
-      "title": "Slopaganda - how Iran's viral videos skewer America",
-      "url": "https://www.rte.ie/news/2026/0418/1568833-us-iran-memes/",
-      "source": "RTE",
-      "publishedAt": "2026-04-18T06:00:01Z",
+      "title": "Iran's military closes Strait of Hormuz again, citing U.S. blockade",
+      "url": "https://www.pbs.org/newshour/world/irans-military-closes-strait-of-hormuz-again-citing-u-s-blockade",
+      "source": "PBS",
+      "publishedAt": "2026-04-18T13:45:58Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Slopaganda - how Iran's viral videos skewer the US",
-      "url": "https://www.rte.ie/news/2026/0418/1568833-us-iran-social-media/",
-      "source": "RTE",
-      "publishedAt": "2026-04-18T06:00:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hegseth Says U.S. Prepared to Target Iranian Power Infrastructure",
-      "url": "https://www.naturalnews.com/2026-04-18-hegseth-us-prepared-target-iranian-power-infrastructure.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-18T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Announces Ten-Day Ceasefire Between Israel and Lebanon",
-      "url": "https://www.naturalnews.com/2026-04-18-trump-announces-ten-day-ceasefire-israel-lebanon.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-18T06:00:00Z",
+      "title": "Iranian Official Says U.S. 'Maximalist' Demands Stall Face-To-Face Talks",
+      "url": "https://www.huffpost.com/entry/ap-ml-iran-us-talks_n_69e38699e4b0b6f552ba3c78",
+      "source": "HuffPost",
+      "publishedAt": "2026-04-18T13:40:44Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "The Latest: Trump hints at resuming attacks if ceasefire with Iran expires without a deal",
-      "url": "https://www.middletownpress.com/business/article/the-latest-trump-hints-at-resuming-attacks-if-22213238.php",
-      "source": "Middletown Press",
-      "publishedAt": "2026-04-18T05:35:08Z",
+      "title": "What’s the Deal with Iran? Is There a Deal?",
+      "url": "https://dianeravitch.net/2026/04/18/whats-the-deal-with-iran-is-there-a-deal/",
+      "source": "Dianeravitch.net",
+      "publishedAt": "2026-04-18T13:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "US Israel-Iran War Day 50: Trump vows to seize Iran's uranium, Tehran's terms on Strait of Hormuz & oil prices dip",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-israel-iran-war-news-day-50-updates-strait-of-hormuz-blockage-peace-talk-donald-trump-us-israel-iran-middle-east-war/articleshow/130347353.cms",
+      "title": "Why Dems are opposing Operation Epic Fury against Iran — despite its successes",
+      "url": "https://nypost.com/2026/04/18/opinion/dems-oppose-epic-fury-despite-its-successes-heres-why/",
+      "source": "New York Post",
+      "publishedAt": "2026-04-18T12:41:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran reimposes Strait of Hormuz restrictions as tensions with U.S. continue",
+      "url": "https://www.cbc.ca/news/world/strait-of-hormuz-blocked-iran-us-9.7169212",
+      "source": "CBC News",
+      "publishedAt": "2026-04-18T12:28:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Strait of Hormuz Chaos: Iran Recloses Waterway, Fires on Tanker as US Blockade Standoff Escalates April 18",
+      "url": "https://www.ibtimes.com.au/strait-hormuz-chaos-iran-recloses-waterway-fires-tanker-us-blockade-standoff-escalates-april-18-1866940",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-18T12:15:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iranian Gunboats Fire On Tanker In Strait Of Hormuz As Iran Reimposes Restrictions",
+      "url": "https://www.huffpost.com/entry/iran-closes-strait-of-hormuz_n_69e36eeee4b0b6f552ba3b46",
+      "source": "HuffPost",
+      "publishedAt": "2026-04-18T11:57:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IDF strikes saboteurs in south Lebanon, ceasefire’s durability questioned",
+      "url": "https://cryptobriefing.com/idf-strikes-saboteurs-in-south-lebanon-ceasefires-durability-questioned/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-18T11:37:49Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
+      "url": "https://www.capitalfm.co.ke/business/2026/04/oil-prices-plunge-as-iran-says-strait-of-hormuz-open-during-ceasefire/",
+      "source": "Capital FM Kenya",
+      "publishedAt": "2026-04-18T11:32:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Does a 180 on Strait of Hormuz",
+      "url": "https://www.newser.com/story/387556/control-of-strait-of-hormuz-has-returned-to-its-previous-state.html",
+      "source": "Newser",
+      "publishedAt": "2026-04-18T11:10:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Sen John Fetterman pledges to be 'last man standing' in the Democratic Party in support of Israel",
+      "url": "https://www.foxnews.com/media/sen-john-fetterman-pledges-last-man-standing-democratic-party-support-israel",
+      "source": "Fox News",
+      "publishedAt": "2026-04-18T11:00:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel’s long history of stoking sectarian tensions in Lebanon, and what it means for the ceasefire",
+      "url": "https://mondoweiss.net/2026/04/israels-long-history-of-stoking-sectarian-tensions-in-lebanon-and-what-it-means-for-the-ceasefire/",
+      "source": "Mondoweiss",
+      "publishedAt": "2026-04-18T11:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian gunboats fire on tanker in Strait of Hormuz as Iran reimposes restrictions",
+      "url": "https://economictimes.indiatimes.com/news/defence/merchant-vessels-report-gunfire-as-they-attempt-to-cross-hormuz-shipping-sources-say/articleshow/130351878.cms",
       "source": "The Times of India",
-      "publishedAt": "2026-04-18T05:12:04Z",
+      "publishedAt": "2026-04-18T10:48:30Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "The Latest: Trump hints at resuming attacks if ceasefire with Iran expires without a deal",
-      "url": "https://www.news4jax.com/news/world/2026/04/18/the-latest-trump-hints-at-resuming-attacks-if-ceasefire-with-iran-expires-without-a-deal/",
-      "source": "WJXT News4JAX",
-      "publishedAt": "2026-04-18T05:05:49Z",
+      "title": "Iran reimposes restrictions on Strait of Hormuz, accusing US of violating deal to reopen it",
+      "url": "https://nypost.com/2026/04/18/world-news/iran-reimposes-restrictions-on-strait-of-hormuz-accusing-us-of-violating-deal-to-reopen-it/",
+      "source": "New York Post",
+      "publishedAt": "2026-04-18T10:24:18Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran reopens Strait of Hormuz, but threatens to close it again as US maintains blockade",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/iran-reopens-strait-of-hormuz-but-threatens-to-close-it-again-as-us-maintains-blockade/article70876443.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-04-18T04:41:19Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "title": "Trump on idea of Iran tolling the Strait of Hormuz: ‘Nope. No way. No. Nope.’",
+      "url": "https://fortune.com/2026/04/18/trump-on-idea-of-iran-tolling-the-strait-of-hormuz-nope-no-way-no-nope/",
+      "source": "Fortune",
+      "publishedAt": "2026-04-18T10:04:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
-      "title": "Netanyahu ‘alarmed’ by Trump’s Lebanon move – Axios",
-      "url": "https://www.rt.com/news/638618-trump-stunned-netanyahu-lebanon/",
+      "title": "Ukraine Has Written Off the United States",
+      "url": "https://www.theatlantic.com/ideas/2026/04/ukraine-trump-us-oil-russia/686854/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-04-18T10:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump has already endorsed the Monroe Doctrine. Now he needs to endorse the Truman Doctrine",
+      "url": "https://fortune.com/2026/04/18/donald-trump-donroe-doctrine-monroe-truman-iran-war-russia/",
+      "source": "Fortune",
+      "publishedAt": "2026-04-18T09:45:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "EU has four years to militarize – Belgian defense chief",
+      "url": "https://www.rt.com/news/638627-eu-four-years-war-russia/",
       "source": "RT",
-      "publishedAt": "2026-04-18T04:30:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Strait of Hormuz is open, says Iran, as Donald Trump suggests deal to end war could be reached ‘soon’",
-      "url": "https://www.independent.ie/world-news/middle-east/strait-of-hormuz-is-open-says-iran-as-donald-trump-suggests-deal-to-end-war-could-be-reached-soon/a1705994973.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-18T04:30:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran: Strait of Hormuz is Open; but with Conditions",
-      "url": "https://www.juancole.com/2026/04/strait-hormuz-conditions.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-04-18T04:15:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Is the Lebanon Ceasefire a Strategic Defeat for Israel?",
-      "url": "https://www.juancole.com/2026/04/lebanon-ceasefire-strategic.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-04-18T04:06:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran threatens to close strait if US blockade continues",
-      "url": "https://www.rte.ie/news/middle-east/2026/0418/1568879-middle-east-iran-us/",
-      "source": "RTE",
-      "publishedAt": "2026-04-18T04:02:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran threatens to close strait if US blockade continues",
-      "url": "https://www.rte.ie/news/middle-east/2026/0418/1568879-middle-east-conflict/",
-      "source": "RTE",
-      "publishedAt": "2026-04-18T04:02:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "publishedAt": "2026-04-18T08:33:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "As Strait of Hormuz reopens, Europe looks to secure shipping",
@@ -171,14 +203,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Germany’s Return to Conscription Is Not a Mistake; It’s an Obligation.",
-      "url": "https://www.fairobserver.com/region/europe/germanys-return-to-conscription-is-not-a-mistake-its-an-obligation/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-04-17T13:46:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump may want out of the Iran war, but the first round of negotiations showed the challenges ahead",
       "url": "https://mondoweiss.net/2026/04/trump-may-want-out-of-the-iran-war-but-the-first-round-of-negotiations-showed-the-challenges-ahead/",
       "source": "Mondoweiss",
@@ -193,22 +217,6 @@
       "publishedAt": "2026-04-17T13:37:03Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "War on Iran likely to delay US arms deliveries to Europe – Reuters",
-      "url": "https://www.rt.com/news/638539-us-weapons-nato-iran/",
-      "source": "RT",
-      "publishedAt": "2026-04-17T09:24:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Winning in the Donbas: What Russia’s 2014–2015 Campaign Reveals About Modern War",
-      "url": "https://warontherocks.com/winning-in-the-donbas-what-russias-2014-2015-campaign-reveals-about-modern-war/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-04-17T07:15:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "How Do We Transcend War?",

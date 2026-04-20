@@ -1,7 +1,87 @@
 {
-  "updated": "2026-04-20T15:59:21Z",
-  "count": 34,
+  "updated": "2026-04-20T20:10:59Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Lebanese people displaced by Israeli strikes return to what's left of their homes",
+      "url": "https://www.nbcnews.com/world/lebanon/lebanon-ceasefire-people-displaced-israeli-strikes-return-left-homes-rcna340766",
+      "source": "NBC News",
+      "publishedAt": "2026-04-19T20:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran Learns It Doesn't Have to Go Nuclear for a Deterrent",
+      "url": "https://www.newser.com/story/387584/iran-learns-it-doesnt-have-to-go-nuclear-for-a-deterrent.html",
+      "source": "Newser",
+      "publishedAt": "2026-04-19T19:35:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Confused Closures and Opaque Openings: Continuing Dramas in the Hormuz Strait",
+      "url": "https://www.globalresearch.ca/continuing-dramas-hormuz-strait/5922895",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-19T19:29:44Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "NATO Command Center formed in Ukraine: UK Pledges 120,000 Drones",
+      "url": "https://www.globalresearch.ca/nato-command-center-formed-in-ukraine-uk-pledges-120000-drones/5922925",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-19T19:10:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S.-Iran Peace Talks: Disputes, Tensions and Global Implications",
+      "url": "https://www.globalresearch.ca/us-iran-peace-talks-disputes-tensions-global-implications/5922939",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-19T19:01:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" April 19, 2026",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-04-19-2026/",
+      "source": "CBS News",
+      "publishedAt": "2026-04-19T18:18:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "11 US military draft rumors we've inspected",
+      "url": "https://www.snopes.com/collections/military-draft-rumors/",
+      "source": "Snopes.com",
+      "publishedAt": "2026-04-19T18:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Transcript: Amos Hochstein on \"Face the Nation with Margaret Brennan,\" April 19, 2026",
+      "url": "https://www.cbsnews.com/news/amos-hochstein-energy-middle-east-face-the-nation-transcript-04-19-2026/",
+      "source": "CBS News",
+      "publishedAt": "2026-04-19T16:48:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Transcript: U.N. Ambassador Mike Waltz on \"Face the Nation with Margaret Brennan,\" April 19, 2026",
+      "url": "https://www.cbsnews.com/news/mike-waltz-un-ambassador-face-the-nation-transcript-04-19-2026/",
+      "source": "CBS News",
+      "publishedAt": "2026-04-19T16:43:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Threatens War Crimes in Iran Again",
+      "url": "https://www.motherjones.com/politics/2026/04/trump-threatens-war-crimes-in-iran-again/",
+      "source": "Mother Jones",
+      "publishedAt": "2026-04-19T16:00:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Spain pushes to end EU-Israel association agreement",
       "url": "https://freerepublic.com/focus/f-news/4375580/posts",
@@ -47,102 +127,6 @@
       "url": "https://www.fairobserver.com/world-news/middle-east-news/fo-talks-war-in-iran-does-the-future-of-the-middle-east-look-bleak/",
       "source": "Fair Observer",
       "publishedAt": "2026-04-19T13:14:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Following ceasefire: The IDF's forward defense line in Lebanon",
-      "url": "https://www.israelnationalnews.com/news/425725",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-19T13:07:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Did Apple Maps 'erase' Lebanese town names? We investigated",
-      "url": "https://www.snopes.com//fact-check/apple-maps-lebanon-towns/",
-      "source": "Snopes.com",
-      "publishedAt": "2026-04-19T13:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran's Supreme Leader issues chilling threat to US and Israel amid uneasy truce",
-      "url": "https://www.ladbible.com/news/world-news/iran-supreme-leader-chilling-threat-us-israel-ceasefire-041651-20260419",
-      "source": "LADbible",
-      "publishedAt": "2026-04-19T11:44:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war: 10 frequently used words and their meanings",
-      "url": "https://www.aljazeera.com/news/2026/4/19/iran-war-10-frequently-used-words-and-their-meanings",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-19T11:40:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Does Israel’s ‘Yellow Line’ violate the Lebanon ceasefire?",
-      "url": "https://www.aljazeera.com/news/2026/4/19/does-israels-yellow-line-violate-the-lebanon-ceasefire",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-19T11:30:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Deal With United States Is 'Far Off' Says Iran, as End of Ceasefire Looms",
-      "url": "https://www.breitbart.com/europe/2026/04/19/deal-with-united-states-is-far-off-says-iran-as-end-of-ceasefire-looms/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-04-19T11:22:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "IDF says Hezbollah responsible for French UNIFIL peacekeeper's death in southern Lebanon",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-04-19/ty-article/idf-says-hezbollah-responsible-for-french-unifil-peacekeepers-death-in-lebanon/0000019d-a562-df26-a1bf-a5ea09480001",
-      "source": "Haaretz",
-      "publishedAt": "2026-04-19T11:19:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "I have just 90 seconds to get to safety from another deadly attack. This is our normal",
-      "url": "https://www.foxnews.com/opinion/90-seconds-get-safety-another-deadly-attack-normal",
-      "source": "Fox News",
-      "publishedAt": "2026-04-19T11:00:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran says talks continue while it retains control of Strait of Hormuz traffic",
-      "url": "https://www.cnbc.com/2026/04/19/iran-says-talks-continue-while-it-retains-control-of-strait-of-hormuz-.html",
-      "source": "CNBC",
-      "publishedAt": "2026-04-19T10:19:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Democrats Are Split Over What It Means to Block Israel Weapons Deals",
-      "url": "https://theintercept.com/2026/04/19/israel-weapons-military-aid-arms-embargo-democrats/",
-      "source": "The Intercept",
-      "publishedAt": "2026-04-19T10:11:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Iran War Has Been A Catastrophe For The US — But Israel Wants More",
-      "url": "https://www.activistpost.com/the-iran-war-has-been-a-catastrophe-for-the-us-but-israel-wants-more/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-04-19T10:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "War in the Middle East: latest developments",
-      "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-49/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-19T09:42:20Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

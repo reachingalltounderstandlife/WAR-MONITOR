@@ -1,7 +1,111 @@
 {
-  "updated": "2026-04-21T16:18:48Z",
-  "count": 34,
+  "updated": "2026-04-21T20:36:36Z",
+  "count": 37,
   "articles": [
+    {
+      "title": "Analysis: Even Trump’s most basic claims about the Iran war can’t be trusted | CNN Politics",
+      "url": "https://www.cnn.com/2026/04/20/politics/analysis-trump-claims-iran-war",
+      "source": "CNN",
+      "publishedAt": "2026-04-20T20:25:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran daily briefing: A 'yawning gulf' between Iran and US as ceasefire nears end",
+      "url": "https://www.abc.net.au/news/2026-04-21/iran-israel-war-daily-news-briefing/106582864",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-20T20:25:25Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Funerals held across Lebanon during 10-day ceasefire",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/funerals-held-across-lebanon-during-10-day-ceasefire",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-20T20:13:30Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "How Likely Are U.S.-Iran Peace Talks in Islamabad?",
+      "url": "http://foreignpolicy.com/2026/04/20/us-iran-peace-talks-islamabad-strait-hormuz-seizure-vance-trump/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-04-20T20:00:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kremlin-friendly ex-president Rumen Radev scores big election win in Bulgaria",
+      "url": "https://www.nbcnews.com/world/europe/russia-friendly-ex-president-election-win-bulgaria-rcna340947",
+      "source": "NBC News",
+      "publishedAt": "2026-04-20T19:51:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Baby Killers: The State of Israel, Its Patrons, and the Industrialized Slaughter of Children",
+      "url": "https://www.globalresearch.ca/israel-patrons-industrialized-slaughter-children/5923095",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-20T19:34:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Strategic Aftershocks of Trump’s Iran War",
+      "url": "http://foreignpolicy.com/2026/04/20/strategic-aftershocks-trump-iran-war-israel-oil/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-04-20T18:57:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Bulgaria is not going ‘pro-Russia’ – the EU is just paranoid",
+      "url": "https://www.rt.com/news/638781-bulgaria-not-pro-russian/",
+      "source": "RT",
+      "publishedAt": "2026-04-20T18:55:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US and Iran plan new talks but ‘lots of bombs’ will go off if deal not made, says Trump",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/20/us-and-iran-plan-new-talks-but-lots-of-bombs-will-go-off-if-deal-not-made-says-trump/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-20T18:44:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel investigates soldier who destroyed crucifix in Lebanon amid Catholic outcry",
+      "url": "https://www.ewtnnews.com/world/middle-east/israel-soldier-destroy-crucifix",
+      "source": "Ewtnnews.com",
+      "publishedAt": "2026-04-20T18:22:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump's shocking Iran nuclear retreat after screaming at top generals in hours-long meltdown",
+      "url": "https://www.dailymail.com/news/article-15748525/Trumps-shocking-Iran-nuclear-retreat-screaming-generals-hours-long-meltdown.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-04-20T18:18:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF strikes southern Lebanon despite US-brokered ceasefire",
+      "url": "https://cryptobriefing.com/idf-strikes-southern-lebanon-despite-us-brokered-ceasefire/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-20T17:40:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Megyn Kelly likens Trump to JAN BRADY as she mocks president's latest excuse for bombing Iran",
+      "url": "https://www.dailymail.com/media/article-15749047/megyn-kelly-mocks-trump-jan-brady-iran-excuse.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-04-20T17:09:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Israel, Lebanon to hold ambassador-level talks in Washington Thursday",
       "url": "https://cryptobriefing.com/israel-lebanon-to-hold-ambassador-level-talks-in-washington-thursday/",
@@ -75,20 +179,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran may join peace talks after Pakistan works to end US blockade, Iran source says",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-may-join-peace-talks-after-pakistan-works-to-end-us-blockade-iran-source-says/articleshow/130395174.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-20T14:31:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Iran’s 10 Point Plan Is Still a Workable Basis for Negotiations",
       "url": "https://www.globalresearch.ca/iran-10-point-plan-workable-basis-negotiations/5922990",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-04-20T14:30:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Israel’s onslaught against Lebanon may strengthen Hezbollah – just when it’s at its weakest",
@@ -103,46 +199,22 @@
       "url": "https://www.commondreams.org/opinion/iran-war-10-point-peace-plan",
       "source": "Common Dreams",
       "publishedAt": "2026-04-20T14:02:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "The US Separation From Europe And NATO Is Long Overdue",
       "url": "https://www.activistpost.com/the-us-separation-from-europe-and-nato-is-long-overdue/",
       "source": "Activistpost.com",
       "publishedAt": "2026-04-20T14:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Cloud over US-Iran talks: What are the key sticking points?",
       "url": "https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points",
       "source": "Al Jazeera English",
       "publishedAt": "2026-04-20T13:51:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu vows punishment for Israeli soldier shown hitting Jesus statue",
-      "url": "https://www.cbsnews.com/news/idf-jesus-statue-israel-netanyahu-lebanon-soldier-photo-will-face-punishment/",
-      "source": "CBS News",
-      "publishedAt": "2026-04-20T13:51:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel and Lebanon to hold second round of talks in Washington Thursday",
-      "url": "https://cryptobriefing.com/israel-and-lebanon-to-hold-second-round-of-talks-in-washington-thursday/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-20T13:38:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Doubts over talks between Iran and U.S. after violence flares in Strait of Hormuz",
-      "url": "https://www.pbs.org/newshour/world/doubts-over-talks-between-iran-and-u-s-after-violence-flares-in-strait-of-hormuz",
-      "source": "PBS",
-      "publishedAt": "2026-04-20T13:33:13Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -171,50 +243,10 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Israeli soldier seen striking Jesus statue in Lebanon, sparking condemnation",
-      "url": "https://www.nbcnews.com/world/israel/israeli-soldier-jesus-statue-lebanon-damage-netanyahu-condemns-rcna340942",
-      "source": "NBC News",
-      "publishedAt": "2026-04-20T11:26:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Tired of political turmoil, Bulgarians give ex-president a convincing mandate for change",
       "url": "https://abcnews.com/International/wireStory/tired-political-turmoil-bulgarians-give-president-convincing-mandate-132197554",
       "source": "Abcnews.com",
       "publishedAt": "2026-04-20T10:53:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why a big country like Italy acts as if it were small",
-      "url": "https://www.nrc.nl/nieuws/2026/04/20/why-a-big-country-like-italy-acts-as-if-it-were-small-a4925707",
-      "source": "Www.nrc.nl",
-      "publishedAt": "2026-04-20T09:00:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump may claim he won the fight with Iran, but there’s a bigger war already underway",
-      "url": "https://www.foxnews.com/opinion/trump-may-claim-won-fight-iran-theres-bigger-war-already-underway",
-      "source": "Fox News",
-      "publishedAt": "2026-04-20T09:00:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel warns Lebanese civilians against returning to south",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-warns-lebanese-civilians-danger-in-returning-to-southern-lebanon-amidst-ongoing-tensions-with-hezbollah/articleshow/130387061.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-20T08:37:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran and the Indispensable Broker: How Pakistan Outmaneuvers India on the World Stage",
-      "url": "https://warontherocks.com/iran-and-the-indispensable-broker-how-pakistan-outmaneuvers-india-on-the-world-stage/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-04-20T07:30:06Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -263,14 +295,6 @@
       "url": "https://www.rte.ie/news/world/2026/0419/1568994-north-korea/",
       "source": "RTE",
       "publishedAt": "2026-04-19T06:37:49Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea fires multiple ballistic missiles towards sea off its east coast",
-      "url": "https://nypost.com/2026/04/19/world-news/north-korea-fires-multiple-ballistic-missiles-towards-sea-off-its-east-coast/",
-      "source": "New York Post",
-      "publishedAt": "2026-04-19T05:18:37Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

@@ -1,28 +1,156 @@
 {
-  "updated": "2026-04-20T20:10:59Z",
-  "count": 32,
+  "updated": "2026-04-21T06:23:36Z",
+  "count": 27,
   "articles": [
     {
-      "title": "Lebanese people displaced by Israeli strikes return to what's left of their homes",
-      "url": "https://www.nbcnews.com/world/lebanon/lebanon-ceasefire-people-displaced-israeli-strikes-return-left-homes-rcna340766",
-      "source": "NBC News",
-      "publishedAt": "2026-04-19T20:00:00Z",
+      "title": "Israel vows to level homes in Lebanon, counter threats with 'full force'",
+      "url": "https://www.hurriyetdailynews.com/israel-vows-to-level-homes-in-lebanon-counter-threats-with-full-force-221238",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-20T06:05:55Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Iran Learns It Doesn't Have to Go Nuclear for a Deterrent",
-      "url": "https://www.newser.com/story/387584/iran-learns-it-doesnt-have-to-go-nuclear-for-a-deterrent.html",
-      "source": "Newser",
-      "publishedAt": "2026-04-19T19:35:00Z",
+      "title": "Trump’s Insane Escalation Is About to Unleash a Global Collapse",
+      "url": "https://www.naturalnews.com/2026-04-20-trump-insane-escalation-to-unleash-global-collapse.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-20T06:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Confused Closures and Opaque Openings: Continuing Dramas in the Hormuz Strait",
-      "url": "https://www.globalresearch.ca/continuing-dramas-hormuz-strait/5922895",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-19T19:29:44Z",
+      "title": "Israeli Strikes in Lebanon Continue Despite Ceasefire Declaration, Trump’s Prohibition Statement",
+      "url": "https://www.naturalnews.com/2026-04-20-israeli-strikes-lebanon-continue-despite-ceasefire-declaration.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-20T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran not planning to attend talks with US in Pakistan",
+      "url": "https://www.hurriyetdailynews.com/iran-not-planning-to-attend-talks-with-us-in-pakistan-221235",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-20T05:56:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran war: An Iraqi captain keeps sailing despite the threat of attack amid regional war",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-an-iraqi-captain-keeps-sailing-despite-the-threat-of-attack-amid-regional-war/articleshow/130383402.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-20T05:56:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF takes out ready-to-fire Hezbollah launcher",
+      "url": "https://www.israelnationalnews.com/news/425761",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-20T05:54:40Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iranian official says US 'maximalist' demands stall face-to-face talks",
+      "url": "https://abcnews.com/International/wireStory/iranian-official-us-maximalist-demands-stall-face-face-132163230",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-20T05:41:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel says image of soldier striking Jesus statue in Lebanon is authentic",
+      "url": "https://www.channelnewsasia.com/world/israel-soldier-striking-jesus-statue-lebanon-image-authentic-6067481",
+      "source": "CNA",
+      "publishedAt": "2026-04-20T05:32:38Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran vows it will retaliate for US seizure of ship, Tehran has ‘no plans for now’ to join ceasefire talks",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/20/iran-war-live-updates-middle-east-trump-lebanon/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-20T05:26:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran not planning to attend talks with US in Pakistan",
+      "url": "https://punchng.com/iran-not-planning-to-attend-talks-with-us-in-pakistan/",
+      "source": "The Punch",
+      "publishedAt": "2026-04-20T05:23:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Robots don’t bleed’: Ukraine sends machines into the battlefield in place of human soldiers",
+      "url": "https://www.cnn.com/2026/04/20/europe/robots-ukraine-battlefield-drones-intl-cmd",
+      "source": "CNN",
+      "publishedAt": "2026-04-20T04:01:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Space Force aids in joint campaign, degrades Iranian missile capabilities by 90%",
+      "url": "https://cryptobriefing.com/us-space-force-aids-in-joint-campaign-degrades-iranian-missile-capabilities-by/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-20T03:25:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea again tests cluster munitions in a launch observed by Kim",
+      "url": "https://abcnews.com/International/wireStory/north-korea-tests-cluster-munitions-launch-observed-kim-132193250",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-20T01:56:27Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korean leader Kim oversaw test of missiles with cluster warheads",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korean-leader-kim-oversaw-test-missiles-cluster-warheads-6066841",
+      "source": "CNA",
+      "publishedAt": "2026-04-20T01:53:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran not planning to attend talks with US in Pakistan",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-not-planning-to-attend-talks-with-us-in-pakistan/articleshow/130380240.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-20T00:56:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea again tests cluster munitions in a launch observed by Kim Jong Un and his daughter Ju Ae",
+      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-again-tests-cluster-munitions-in-a-launch-observed-by-kim-jong-un-and-his-daughter-ju-ae/articleshow/130380193.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-20T00:46:54Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "What it could take for the U.S. to remove highly enriched uranium from Iran",
+      "url": "https://www.cbsnews.com/news/what-it-could-take-for-us-to-remove-highly-enriched-uranium-from-iran-60-minutes-transcript/",
+      "source": "CBS News",
+      "publishedAt": "2026-04-19T23:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel vows to level homes in Lebanon, counter threats with 'full force'",
+      "url": "https://japantoday.com/category/world/israel-vows-to-level-homes-in-lebanon-counter-threats-with-%27full-force%27",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-19T21:21:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hezbollah ‘human shield’ strategy behind Lebanon ambush, bomb detonation - Macron drawn in",
+      "url": "https://www.foxnews.com/world/hezbollah-human-shield-strategy-behind-lebanon-ambush-bomb-detonation-macron-drawn",
+      "source": "Fox News",
+      "publishedAt": "2026-04-19T21:19:46Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -35,100 +163,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "U.S.-Iran Peace Talks: Disputes, Tensions and Global Implications",
-      "url": "https://www.globalresearch.ca/us-iran-peace-talks-disputes-tensions-global-implications/5922939",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-19T19:01:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" April 19, 2026",
-      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-04-19-2026/",
-      "source": "CBS News",
-      "publishedAt": "2026-04-19T18:18:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "11 US military draft rumors we've inspected",
-      "url": "https://www.snopes.com/collections/military-draft-rumors/",
-      "source": "Snopes.com",
-      "publishedAt": "2026-04-19T18:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Transcript: Amos Hochstein on \"Face the Nation with Margaret Brennan,\" April 19, 2026",
-      "url": "https://www.cbsnews.com/news/amos-hochstein-energy-middle-east-face-the-nation-transcript-04-19-2026/",
-      "source": "CBS News",
-      "publishedAt": "2026-04-19T16:48:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Transcript: U.N. Ambassador Mike Waltz on \"Face the Nation with Margaret Brennan,\" April 19, 2026",
-      "url": "https://www.cbsnews.com/news/mike-waltz-un-ambassador-face-the-nation-transcript-04-19-2026/",
-      "source": "CBS News",
-      "publishedAt": "2026-04-19T16:43:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Threatens War Crimes in Iran Again",
-      "url": "https://www.motherjones.com/politics/2026/04/trump-threatens-war-crimes-in-iran-again/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-04-19T16:00:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Spain pushes to end EU-Israel association agreement",
-      "url": "https://freerepublic.com/focus/f-news/4375580/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-04-19T15:42:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Remembering the Catholic Bishop Behind Lebanon’s Resistance to Israel",
-      "url": "https://www.antiwar.com/blog/2026/04/19/remembering-the-catholic-bishop-behind-lebanons-resistance-to-israel/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-04-19T15:41:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel says to use 'full force' in Lebanon despite truce if soldiers face threat",
-      "url": "https://economictimes.indiatimes.com/news/defence/israel-says-to-use-full-force-in-lebanon-despite-truce-if-soldiers-face-threat/articleshow/130371938.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-19T14:12:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "What to know about US-Iran standoff over the Strait of Hormuz",
-      "url": "https://www.aljazeera.com/news/2026/4/19/what-to-know-about-us-iran-standoff-over-the-strait-of-hormuz",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-19T14:08:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea tests short-range ballistic missiles",
       "url": "https://www.pbs.org/newshour/world/north-korea-tests-short-range-ballistic-missiles",
       "source": "PBS",
       "publishedAt": "2026-04-19T13:39:03Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "FO Talks: War in Iran: Does the Future of the Middle East Look Bleak?",
-      "url": "https://www.fairobserver.com/world-news/middle-east-news/fo-talks-war-in-iran-does-the-future-of-the-middle-east-look-bleak/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-04-19T13:14:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea fires multiple ballistic missiles into sea",
@@ -175,86 +215,6 @@
       "url": "https://survivalblog.com/2026/04/19/the-us-separation-from-europe-and-nato-is-long-overdue-by-brandon-smith/",
       "source": "Survivalblog.com",
       "publishedAt": "2026-04-19T04:32:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Report: North Korea fires multiple ballistic missiles off east coast",
-      "url": "https://www.israelnationalnews.com/news/425701",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-19T03:59:07Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea Launches Multiple Ballistic Missiles Off East Coast",
-      "url": "https://financialpost.com/pmn/business-pmn/north-korea-launches-multiple-ballistic-missiles-off-east-coast",
-      "source": "Financial Post",
-      "publishedAt": "2026-04-19T01:52:30Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "N Korea fires multiple ballistic missiles toward sea",
-      "url": "https://japantoday.com/category/world/north-korea-fires-multiple-ballistic-missiles-towards-sea-off-its-east-coast",
-      "source": "Japan Today",
-      "publishedAt": "2026-04-19T01:20:24Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea fires multiple ballistic missiles towards sea off its east coast",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-fires-ballistic-missiles-6065866",
-      "source": "CNA",
-      "publishedAt": "2026-04-19T01:11:21Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Lavrov comments on Russia’s red lines and patience",
-      "url": "https://www.rt.com/russia/638664-lavrov-west-russia-patience/",
-      "source": "RT",
-      "publishedAt": "2026-04-18T19:40:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Defense spokesperson slams \"Taiwan independence\" for undermining peace across Taiwan Strait",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260418-pdo01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-18T12:00:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Chinese military denounces transiting of Taiwan Strait by Japanese destroyer",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260418-pdo02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-18T12:00:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Ukraine Has Written Off the United States",
-      "url": "https://www.theatlantic.com/ideas/2026/04/ukraine-trump-us-oil-russia/686854/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-04-18T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump has already endorsed the Monroe Doctrine. Now he needs to endorse the Truman Doctrine",
-      "url": "https://fortune.com/2026/04/18/donald-trump-donroe-doctrine-monroe-truman-iran-war-russia/",
-      "source": "Fortune",
-      "publishedAt": "2026-04-18T09:45:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "EU has four years to militarize – Belgian defense chief",
-      "url": "https://www.rt.com/news/638627-eu-four-years-war-russia/",
-      "source": "RT",
-      "publishedAt": "2026-04-18T08:33:49Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

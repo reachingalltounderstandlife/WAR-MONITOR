@@ -1,76 +1,220 @@
 {
-  "updated": "2026-04-22T06:23:38Z",
-  "count": 34,
+  "updated": "2026-04-22T15:57:35Z",
+  "count": 40,
   "articles": [
     {
-      "title": "US, Iran warn they are ready for war",
-      "url": "https://punchng.com/us-iran-warn-they-are-ready-for-war/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-21T06:07:36Z",
+      "title": "How the US–Israel–Iran War Costs the Gulf States",
+      "url": "https://www.fairobserver.com/politics/how-the-us-israel-iran-war-costs-the-gulf-states/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-04-21T15:30:08Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "US and Iran warn they are ready for war as talks in limbo",
-      "url": "https://www.thejournal.ie/us-iran-talks-war-hormuz-7018777-Apr2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-04-21T06:01:01Z",
+      "title": "The war in Iran didn’t end; it became something new",
+      "url": "https://www.vox.com/politics/486281/iran-hormuz-nuclear-ceasefire",
+      "source": "Vox",
+      "publishedAt": "2026-04-21T15:14:28Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Shadows of Empire: How failed leadership paved the way for the West’s decline",
-      "url": "https://www.naturalnews.com/2026-04-21-shadows-of-empire-failed-leadership-west-decline.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-21T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "title": "Iran, US Talks Hit Impasse as Truce Nears Expiry",
+      "url": "https://www.rigzone.com/news/wire/iran_us_talks_hit_impasse_as_truce_nears_expiry-21-apr-2026-183494-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-04-21T14:59:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
-      "title": "French Soldier Killed in Lebanon Ambush, Hezbollah Tactics Cited",
-      "url": "https://www.naturalnews.com/2026-04-21-french-soldier-killed-in-southern-lebanon-ambush.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-21T06:00:00Z",
+      "title": "US limits intelligence sharing with Asian ally – media",
+      "url": "https://www.rt.com/news/638844-us-intelligence-sharing-south-korea/",
+      "source": "RT",
+      "publishedAt": "2026-04-21T14:57:20Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Taiwan president cancels Africa trip amid Chinese pressure",
+      "url": "https://cryptobriefing.com/taiwan-president-cancels-africa-trip-amid-chinese-pressure/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-21T14:52:03Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Leveraging the Kurds: Inside US Plans to Pressure Tehran",
+      "url": "https://www.fairobserver.com/world-news/middle-east-news/leveraging-the-kurds-inside-us-plans-to-pressure-tehran/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-04-21T14:39:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A timeline of how the Iran war shook oil prices — and what comes next",
+      "url": "https://www.cnbc.com/2026/04/21/oil-price-iran-war-middle-east.html",
+      "source": "CNBC",
+      "publishedAt": "2026-04-21T14:34:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. and Iran signal new ceasefire talks in Islamabad as fragile truce nears end",
+      "url": "https://www.pbs.org/newshour/world/u-s-and-iran-signal-new-ceasefire-talks-in-islamabad-as-fragile-truce-nears-end",
+      "source": "PBS",
+      "publishedAt": "2026-04-21T14:02:37Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "US, Iran warn ready for war as talks in limbo",
-      "url": "https://www.hurriyetdailynews.com/us-iran-warn-ready-for-war-as-talks-in-limbo-221277",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-04-21T05:50:10Z",
+      "title": "Israel’s Lebanon occupation chokes Beirut’s offshore gas options",
+      "url": "https://www.rt.com/news/638815-israel-iran-gas-fields/",
+      "source": "RT",
+      "publishedAt": "2026-04-21T13:58:14Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Israel's occupation of south Lebanon spells 'bleak' future despite ceasefire",
-      "url": "https://www.abc.net.au/news/2026-04-21/israel-occupation-south-lebanon-bleak-future-despite-ceasefire/106582110",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-21T04:56:54Z",
+      "title": "Iran May Have Weapons It Hasn't Shown the World Yet - Military Expert",
+      "url": "https://sputnikglobe.com/20260421/iran-may-have-weapons-it-hasnt-shown-the-world-yet---military-expert-1124019063.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-21T13:52:25Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Fate of Iran peace talks not clear with US deadline for ceasefire near",
-      "url": "https://www.independent.ie/world-news/middle-east/fate-of-iran-peace-talks-not-clear-with-us-deadline-for-ceasefire-near/a1916734170.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-21T04:30:00Z",
+      "title": "US Seizes Tanker in International Waters as Iran Truce Deadline Nears",
+      "url": "https://www.dailysignal.com/2026/04/21/us-seizes-tanker-in-international-waters-as-iran-truce-deadline-nears/",
+      "source": "Daily Signal",
+      "publishedAt": "2026-04-21T13:44:29Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran vows to put 'new cards on the battlefield' after Trump breaks ceasefire and strikes Iranian ship as Vance travels to Pakistan for talks",
-      "url": "https://www.dailymail.com/news/article-15750569/Iran-new-cards-peace-talks-Trump.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-04-21T04:20:44Z",
+      "title": "Iran's leadership survived US-Israeli bombardment. But talks to end the war present a new challenge",
+      "url": "https://economictimes.indiatimes.com/news/defence/irans-leadership-survived-us-israeli-bombardment-but-talks-to-end-the-war-present-a-new-challenge/articleshow/130419267.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-21T13:32:43Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Japan approves scrapping a ban on lethal weapons exports",
-      "url": "https://www.npr.org/2026/04/21/g-s1-118178/japan-ban-lethal-weapons-exports",
+      "title": "Türkiye and Historical Turning Points",
+      "url": "https://www.globalresearch.ca/turkiye-and-historical-turning-points/5923148",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-21T12:54:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "As the U.S.-Iran ceasefire deadline looms, here are the main sticking points",
+      "url": "https://www.npr.org/2026/04/21/nx-s1-5793638/iran-middle-east-updates",
       "source": "NPR",
-      "publishedAt": "2026-04-21T04:04:56Z",
+      "publishedAt": "2026-04-21T12:24:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "NATO’s internal cohesion is being threatened (again) – but in pushing for support on Iran, Trump may risk eroding US influence on the alliance",
+      "url": "https://theconversation.com/natos-internal-cohesion-is-being-threatened-again-but-in-pushing-for-support-on-iran-trump-may-risk-eroding-us-influence-on-the-alliance-279623",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-04-21T12:17:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "In south Lebanon’s Nabatieh, residents fear a return to war",
+      "url": "https://www.digitaljournal.com/world/in-south-lebanons-nabatieh-residents-fear-a-return-to-war/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-21T12:12:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Yemen will 'return to war' if US, Israel resume aggression against Iran: Houthi",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260421-presstv08.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-21T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "‘The Right Amount of Crazy’",
+      "url": "https://www.nybooks.com/articles/2026/05/14/the-right-amount-of-crazy-fintan-otoole/",
+      "source": "The New York Review of Books",
+      "publishedAt": "2026-04-21T12:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "What was the Iran nuclear deal Trump dumped in search of ‘better’ terms?",
+      "url": "https://www.aljazeera.com/news/2026/4/21/what-was-the-iran-nuclear-deal-trump-dumped-in-search-of-better-terms",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-21T11:44:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Strongman Era Has Peaked",
+      "url": "http://foreignpolicy.com/2026/04/21/strongman-era-trump-orban-putin-xi-peaked/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-04-21T11:44:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "In which direction will Rumen Radev steer Bulgaria?",
+      "url": "https://www.dw.com/en/in-which-direction-will-rumen-radev-steer-bulgaria/a-76879858",
+      "source": "DW (English)",
+      "publishedAt": "2026-04-21T11:43:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What course will Bulgaria’s new leader Rumen Radev take?",
+      "url": "https://www.dw.com/en/what-course-will-bulgarias-new-leader-rumen-radev-take/a-76879858",
+      "source": "DW (English)",
+      "publishedAt": "2026-04-21T11:43:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "No Iran delegation sent to US talks yet as truce expiry nears",
+      "url": "https://www.digitaljournal.com/world/no-iran-delegation-sent-to-us-talks-yet-as-truce-expiry-nears/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-21T10:32:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Pakistan Presses On With Preparations For Iran-U.S. Talks Even With Tehran's Participation Unclear",
+      "url": "https://www.huffpost.com/entry/pakistan-preparations-iran-us-talks_n_69e74635e4b0ff46b41129d0",
+      "source": "HuffPost",
+      "publishedAt": "2026-04-21T09:53:51Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Swedish intelligence says Russia manipulates economic data",
+      "url": "https://www.thelocal.se/20260421/swedish-intelligence-says-russia-manipulates-economic-data",
+      "source": "The Local Sweden",
+      "publishedAt": "2026-04-21T08:26:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Japan ends post-WWII ban on lethal weapons exports in break with pacifist era",
+      "url": "https://www.thehindubusinessline.com/news/world/japan-ends-postwar-ban-on-lethal-weapons-exports-in-break-with-pacifist-era/article70887736.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-21T08:24:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian strikes in Ukraine injure 25 people overnight",
+      "url": "https://www.rte.ie/news/2026/0421/1569309-russia-ukraine/",
+      "source": "RTE",
+      "publishedAt": "2026-04-21T07:45:59Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -79,32 +223,8 @@
       "url": "https://www.juancole.com/2026/04/irans-point-workable.html",
       "source": "Juancole.com",
       "publishedAt": "2026-04-21T04:04:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel applying military pressure to disarm Hezbollah",
-      "url": "https://www.rte.ie/news/middle-east/2026/0421/1569286-middle-east/",
-      "source": "RTE",
-      "publishedAt": "2026-04-21T03:49:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Six People Injured in Israeli Strike on Settlement in Southern Lebanon - Health Ministry",
-      "url": "https://sputnikglobe.com/20260421/six-people-injured-in-israeli-strike-on-settlement-in-southern-lebanon---health-ministry-1124016568.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-04-21T03:09:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Tariffs, Blockades and War: Trump’s “Logic of the Beast”",
-      "url": "https://www.globalresearch.ca/tariffs-blockades-war-logic-beast-us-policy/5923081",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-21T02:55:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "China’s Fujian carrier to reach full readiness this year, invasion odds low",
@@ -131,84 +251,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "NATO state pushes back on Zelensky’s claim of looming Russian attack",
-      "url": "https://www.rt.com/news/638786-estonia-zelensky-russia-baltics/",
-      "source": "RT",
-      "publishedAt": "2026-04-20T21:52:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Bulgaria's Kremlin-friendly ex-president wins election in landslide",
-      "url": "https://japantoday.com/category/world/bulgaria%27s-kremlin-friendly-ex-president-wins-election-in-landslide3",
-      "source": "Japan Today",
-      "publishedAt": "2026-04-20T21:26:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran daily briefing: A 'yawning gulf' between Iran and US as ceasefire nears end",
-      "url": "https://www.abc.net.au/news/2026-04-21/iran-israel-war-daily-news-briefing/106582864",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-20T20:25:25Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Funerals held across Lebanon during 10-day ceasefire",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/funerals-held-across-lebanon-during-10-day-ceasefire",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-20T20:13:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "How Likely Are U.S.-Iran Peace Talks in Islamabad?",
       "url": "http://foreignpolicy.com/2026/04/20/us-iran-peace-talks-islamabad-strait-hormuz-seizure-vance-trump/",
       "source": "Foreign Policy",
       "publishedAt": "2026-04-20T20:00:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Kremlin-friendly ex-president Rumen Radev scores big election win in Bulgaria",
-      "url": "https://www.nbcnews.com/world/europe/russia-friendly-ex-president-election-win-bulgaria-rcna340947",
-      "source": "NBC News",
-      "publishedAt": "2026-04-20T19:51:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Strategic Aftershocks of Trump’s Iran War",
-      "url": "http://foreignpolicy.com/2026/04/20/strategic-aftershocks-trump-iran-war-israel-oil/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-20T18:57:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Bulgaria is not going ‘pro-Russia’ – the EU is just paranoid",
-      "url": "https://www.rt.com/news/638781-bulgaria-not-pro-russian/",
-      "source": "RT",
-      "publishedAt": "2026-04-20T18:55:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A Ukrainian drone company says it's teaming up with a US firm because staying home means getting 'eliminated'",
-      "url": "https://www.businessinsider.com/ukraine-drone-maker-partnering-us-firm-to-avoid-getting-eliminated-2026-4",
-      "source": "Business Insider",
-      "publishedAt": "2026-04-20T15:26:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why Iran can outlast America in this war",
-      "url": "https://freerepublic.com/focus/f-bloggers/4375701/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-04-20T14:51:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Iran’s 10 Point Plan Is Still a Workable Basis for Negotiations",

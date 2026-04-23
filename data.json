@@ -1,14 +1,214 @@
 {
-  "updated": "2026-04-23T06:27:54Z",
-  "count": 31,
+  "updated": "2026-04-23T17:03:57Z",
+  "count": 39,
   "articles": [
     {
-      "title": "UN Inspectors: Iran’s Uranium Stockpile Could Fuel Multiple Nuclear Weapons",
-      "url": "https://www.naturalnews.com/2026-04-22-inspectors-iran-uranium-stockpile-fuel-multiple-weapons.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-22T06:00:00Z",
+      "title": "Shifting goals blur picture of US blockade on Iran",
+      "url": "https://www.digitaljournal.com/world/shifting-goals-blur-picture-of-us-blockade-on-iran/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-22T16:37:20Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "War in the Middle East: latest developments",
+      "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-53/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-22T16:07:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "How Israel is destroying Lebanon’s water infrastructure",
+      "url": "https://www.aljazeera.com/features/2026/4/22/how-israel-is-destroying-lebanons-water-infrastructure",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-22T16:00:51Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Crisis In The Strait Of Hormuz Is The Greatest Threat To The Global Economy In My Entire Lifetime",
+      "url": "https://www.activistpost.com/the-crisis-in-the-strait-of-hormuz-is-the-greatest-threat-to-the-global-economy-in-my-entire-lifetime/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-04-22T16:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran’s leaders debate war and peace after Trump ceasefire extension",
+      "url": "https://www.aljazeera.com/news/2026/4/22/irans-leaders-debate-war-and-peace-after-trump-ceasefire-extension",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-22T15:42:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Deterring the next nuclear arms race",
+      "url": "https://news.harvard.edu/gazette/story/2026/04/deterring-the-next-nuclear-arms-race/",
+      "source": "Harvard School of Engineering and Applied Sciences",
+      "publishedAt": "2026-04-22T15:42:15Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Trump calls Iran’s leadership ‘fractured’. Is it, and who’s in charge?",
+      "url": "https://www.aljazeera.com/news/2026/4/22/trump-calls-irans-leadership-fractured-is-it-and-whos-in-charge",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-22T15:26:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How the Media Failed American Foreign Policy",
+      "url": "https://reason.com/2026/04/22/how-the-media-failed-american-foreign-policy/",
+      "source": "Reason",
+      "publishedAt": "2026-04-22T14:50:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pamphlets, radio, and now Iran’s AI-generated Lego videos: the new frontier of information warfare",
+      "url": "https://theconversation.com/pamphlets-radio-and-now-irans-ai-generated-lego-videos-the-new-frontier-of-information-warfare-280170",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-04-22T14:34:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah supporters defiant after sons killed fighting Israel",
+      "url": "https://www.digitaljournal.com/world/hezbollah-supporters-defiant-after-sons-killed-fighting-israel/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-22T14:27:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strike in south Lebanon kills 1, state media says, ahead of scheduled talks",
+      "url": "https://www.cbc.ca/news/world/israel-lebanon-talks-strike-9.7172966",
+      "source": "CBC News",
+      "publishedAt": "2026-04-22T14:21:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Belgium’s Chief of Defense General Frederik Vasina Says EU is Using Ukraine to “Buy Time:”",
+      "url": "https://www.globalresearch.ca/belgian-army-chief-says-eu-uses-ukraine-buy-time/5923335",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-22T14:18:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What is uranium enrichment and how quickly could Iran build a nuclear bomb?",
+      "url": "https://www.aljazeera.com/news/2026/4/22/what-is-uranium-enrichment-and-how-quickly-could-iran-build-a-nuclear-bomb",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-22T13:52:41Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Russia is preparing for war with NATO and could be ready to attack within a year of ending Ukraine conflict, European spy agency warns",
+      "url": "https://www.dailymail.com/news/article-15755059/Russia-preparing-war-NATO-ready-attack-year-ending-Ukraine-conflict-European-spy-agency-warns.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-04-22T13:51:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran fires on 3 ships in Strait of Hormuz amid supposedly indefinite cease-fire",
+      "url": "https://fortune.com/2026/04/22/iran-fires-on-3-ships-in-strait-of-hormuz-amid-supposedly-indefinite-cease-fire/",
+      "source": "Fortune",
+      "publishedAt": "2026-04-22T13:42:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "‘Vital’: Trump hated Deep State spying powers used against him, but is now changing his tune",
+      "url": "https://www.wnd.com/2026/04/vital-trump-hated-deep-state-spying-powers-used/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-04-22T13:38:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Hated Deep State Spying Powers Used Against Him. Then He Launched A War",
+      "url": "https://dailycaller.com/2026/04/22/trump-deep-state-spying-fisa-iran-war-foreign-intelligence/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-04-22T13:21:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran fires on 3 ships in the Strait of Hormuz, complicating efforts to resume U.S. ceasefire talks",
+      "url": "https://www.pbs.org/newshour/world/iran-fires-on-3-ships-in-the-strait-of-hormuz-complicating-efforts-to-resume-u-s-ceasefire-talks",
+      "source": "PBS",
+      "publishedAt": "2026-04-22T13:14:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Kiev Neo-Nazi Regime Forcibly Conscript Women while Importing Migrants",
+      "url": "https://www.globalresearch.ca/kiev-neo-nazi-regime-forcibly-conscript-women-while-importing-migrants/5923312",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-22T12:18:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "At the EU Foreign Affairs Council, Latvia raises the issue of barring Russia from participating in the Venice Biennale and imposing sanctions on representatives closely linked to the Russian political regime who use culture to achieve Russia's war aims",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/04/russia-260422-latvia-mfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-22T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Return of the Echo Chamber - How the Obama-era communications infrastructure is working to rope Trump into the next JCPOA",
+      "url": "https://freerepublic.com/focus/f-chat/4375942/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-04-22T11:41:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "South Korea’s ‘war-like’ energy crisis",
+      "url": "https://theweek.com/business/economy/south-korea-fossil-fuels-energy-iran",
+      "source": "The Week Magazine",
+      "publishedAt": "2026-04-22T11:00:40Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israeli ambassador: 'Only a strong Israel can achieve peace'",
+      "url": "https://www.dw.com/en/israel-ambassador-to-germany-interview-iran-war-gaza-conflict-hamas-hezbollah/a-76889132",
+      "source": "DW (English)",
+      "publishedAt": "2026-04-22T10:17:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Chinese navy brushes past Okinawa islands after Japanese transit in Taiwan Strait",
+      "url": "https://japantoday.com/category/politics/chinese-navy-brushes-past-okinawa-islands-after-japanese-transit-in-taiwan-strait",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-22T07:30:39Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Chinese navy passes by Japanese islands again after Pacific training",
+      "url": "https://www.channelnewsasia.com/east-asia/chinese-navy-passes-japanese-islands-again-after-pacific-training-6072871",
+      "source": "CNA",
+      "publishedAt": "2026-04-22T07:14:17Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Chinese navy brushes past Okinawa islands as tensions with Japan flare",
+      "url": "https://www.channelnewsasia.com/east-asia/chinese-navy-brushes-past-okinawa-islands-tensions-japan-flare-6072871",
+      "source": "CNA",
+      "publishedAt": "2026-04-22T07:14:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
     },
     {
       "title": "A shifting stage: Ukraine fights for attention amid global crises",
@@ -19,62 +219,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran war: What’s happening on day 54 as Trump extends ceasefire?",
-      "url": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-22T05:25:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Donald Trump extends ceasefire until Iran ‘can come up with unified peace proposal’",
-      "url": "https://www.independent.ie/world-news/middle-east/donald-trump-extends-ceasefire-until-iran-can-come-up-with-unified-peace-proposal/a374248410.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-22T04:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Germany and Italy reject calls to suspend EU-Israel cooperation deal",
-      "url": "https://www.israelnationalnews.com/news/425892",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-22T03:25:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump extends Iran ceasefire but keeps blockade",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-extends-iran-ceasefire-but-keeps-blockade/article70891195.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-04-22T01:16:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump declares Iran ceasefire extension, talks in doubt",
-      "url": "https://www.rte.ie/news/middle-east/2026/0422/1569469-middle-east-conflict/",
-      "source": "RTE",
-      "publishedAt": "2026-04-22T01:12:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ceasefire extension gives Iran time to negotiate - Trump",
-      "url": "https://www.rte.ie/news/middle-east/2026/0422/1569469-iran-us-ceasefire/",
-      "source": "RTE",
-      "publishedAt": "2026-04-22T01:12:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Strait of Hormuz crisis: US blockade continues despite ceasefire extension with Iran",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/strait-of-hormuz-crisis-us-blockade-continues-despite-ceasefire-extension-with-iran/articleshow/130429601.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-22T00:49:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump’s Iran Fiasco’s Silver Lining – The End of NATO",
       "url": "https://original.antiwar.com/david_stockman/2026/04/21/trumps-iran-fiascos-silver-lining-the-end-of-nato/",
       "source": "Antiwar.com",
@@ -83,60 +227,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Two IDF soldiers are arrested after attack on statue of Jesus with an axe in Lebanon",
-      "url": "https://www.dailymail.com/news/article-15753611/Two-IDF-soldiers-arrested-attack-statue-Jesus-axe-Lebanon.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-04-21T23:18:57Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran's meme factory is using 'the weapons of their enemy' to embarrass Trump",
-      "url": "https://www.abc.net.au/news/2026-04-22/us-israel-strikes-on-iran-propaganda/106585244",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-21T23:17:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "China’s Gas Lines Signal a Brewing Crisis",
       "url": "https://english.khabarhub.com/2026/22/545224/",
       "source": "Khabarhub.com",
       "publishedAt": "2026-04-21T23:15:22Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "How the US blockade on Iran is impacting warships, energy",
-      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/how-the-u-s-blockade",
-      "source": "KPBS",
-      "publishedAt": "2026-04-21T23:13:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Photo shows Israeli soldier smashing Jesus statue in Lebanon",
-      "url": "https://www.snopes.com//fact-check/israeli-soldier-jesus-statue/",
-      "source": "Snopes.com",
-      "publishedAt": "2026-04-21T22:21:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran dismisses US ‘ploy’ after Donald Trump extends ceasefire ‘indefinitely’",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/04/21/iran-dismisses-us-ploy-after-donald-trump-extends-ceasefire-indefinitely/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-04-21T22:15:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "With The Ceasefire Dead, The Mad Max Scenario is Now the Most Likely Outcome",
-      "url": "https://www.activistpost.com/with-the-ceasefire-dead-the-mad-max-scenario-is-now-the-most-likely-outcome/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-04-21T22:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "What’s in Palantir’s ‘Technofascist’ manifesto?",
@@ -187,44 +283,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Türkiye and Historical Turning Points",
-      "url": "https://www.globalresearch.ca/turkiye-and-historical-turning-points/5923148",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-21T12:54:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO’s internal cohesion is being threatened (again) – but in pushing for support on Iran, Trump may risk eroding US influence on the alliance",
-      "url": "https://theconversation.com/natos-internal-cohesion-is-being-threatened-again-but-in-pushing-for-support-on-iran-trump-may-risk-eroding-us-influence-on-the-alliance-279623",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-04-21T12:17:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "‘The Right Amount of Crazy’",
       "url": "https://www.nybooks.com/articles/2026/05/14/the-right-amount-of-crazy-fintan-otoole/",
       "source": "The New York Review of Books",
       "publishedAt": "2026-04-21T12:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "The Strongman Era Has Peaked",
-      "url": "http://foreignpolicy.com/2026/04/21/strongman-era-trump-orban-putin-xi-peaked/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-21T11:44:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "In which direction will Rumen Radev steer Bulgaria?",
-      "url": "https://www.dw.com/en/in-which-direction-will-rumen-radev-steer-bulgaria/a-76879858",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-21T11:43:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran’s 10-Point Plan is Still a Workable basis for Talks",

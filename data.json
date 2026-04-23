@@ -1,22 +1,150 @@
 {
-  "updated": "2026-04-22T21:10:52Z",
-  "count": 39,
+  "updated": "2026-04-23T06:27:54Z",
+  "count": 31,
   "articles": [
     {
-      "title": "Trump says he is extending the ceasefire with Iran as talks are in doubt",
-      "url": "https://toronto.citynews.ca/2026/04/21/trump-says-he-is-extending-the-ceasefire-with-iran-as-talks-are-in-doubt/",
-      "source": "Citynews.ca",
-      "publishedAt": "2026-04-21T21:05:17Z",
+      "title": "UN Inspectors: Iran’s Uranium Stockpile Could Fuel Multiple Nuclear Weapons",
+      "url": "https://www.naturalnews.com/2026-04-22-inspectors-iran-uranium-stockpile-fuel-multiple-weapons.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-22T06:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "A shifting stage: Ukraine fights for attention amid global crises",
+      "url": "https://www.naturalnews.com/2026-04-22-ukraine-fights-for-attention-amid-global-crises.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-22T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran war: What’s happening on day 54 as Trump extends ceasefire?",
+      "url": "https://www.aljazeera.com/news/2026/4/22/iran-war-whats-happening-on-day-54-as-trump-extends-ceasefire",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-22T05:25:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Donald Trump extends ceasefire until Iran ‘can come up with unified peace proposal’",
+      "url": "https://www.independent.ie/world-news/middle-east/donald-trump-extends-ceasefire-until-iran-can-come-up-with-unified-peace-proposal/a374248410.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-22T04:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Germany and Italy reject calls to suspend EU-Israel cooperation deal",
+      "url": "https://www.israelnationalnews.com/news/425892",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-22T03:25:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump extends Iran ceasefire but keeps blockade",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-extends-iran-ceasefire-but-keeps-blockade/article70891195.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-22T01:16:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump declares Iran ceasefire extension, talks in doubt",
+      "url": "https://www.rte.ie/news/middle-east/2026/0422/1569469-middle-east-conflict/",
+      "source": "RTE",
+      "publishedAt": "2026-04-22T01:12:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ceasefire extension gives Iran time to negotiate - Trump",
+      "url": "https://www.rte.ie/news/middle-east/2026/0422/1569469-iran-us-ceasefire/",
+      "source": "RTE",
+      "publishedAt": "2026-04-22T01:12:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Strait of Hormuz crisis: US blockade continues despite ceasefire extension with Iran",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/strait-of-hormuz-crisis-us-blockade-continues-despite-ceasefire-extension-with-iran/articleshow/130429601.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-22T00:49:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s Iran Fiasco’s Silver Lining – The End of NATO",
+      "url": "https://original.antiwar.com/david_stockman/2026/04/21/trumps-iran-fiascos-silver-lining-the-end-of-nato/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-04-22T00:00:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Two IDF soldiers are arrested after attack on statue of Jesus with an axe in Lebanon",
+      "url": "https://www.dailymail.com/news/article-15753611/Two-IDF-soldiers-arrested-attack-statue-Jesus-axe-Lebanon.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-04-21T23:18:57Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran's meme factory is using 'the weapons of their enemy' to embarrass Trump",
+      "url": "https://www.abc.net.au/news/2026-04-22/us-israel-strikes-on-iran-propaganda/106585244",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-21T23:17:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "China’s Gas Lines Signal a Brewing Crisis",
+      "url": "https://english.khabarhub.com/2026/22/545224/",
+      "source": "Khabarhub.com",
+      "publishedAt": "2026-04-21T23:15:22Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "How the US blockade on Iran is impacting warships, energy",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/how-the-u-s-blockade",
+      "source": "KPBS",
+      "publishedAt": "2026-04-21T23:13:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Photo shows Israeli soldier smashing Jesus statue in Lebanon",
+      "url": "https://www.snopes.com//fact-check/israeli-soldier-jesus-statue/",
+      "source": "Snopes.com",
+      "publishedAt": "2026-04-21T22:21:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran dismisses US ‘ploy’ after Donald Trump extends ceasefire ‘indefinitely’",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/21/iran-dismisses-us-ploy-after-donald-trump-extends-ceasefire-indefinitely/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-21T22:15:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "With The Ceasefire Dead, The Mad Max Scenario is Now the Most Likely Outcome",
+      "url": "https://www.activistpost.com/with-the-ceasefire-dead-the-mad-max-scenario-is-now-the-most-likely-outcome/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-04-21T22:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "What’s in Palantir’s ‘Technofascist’ manifesto?",
       "url": "https://www.rt.com/news/638879-palantir-karp-technofascist-manifesto/",
       "source": "RT",
       "publishedAt": "2026-04-21T20:47:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "The Non-Debate on a Non-Crisis",
@@ -25,30 +153,6 @@
       "publishedAt": "2026-04-21T20:15:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "6 Things I Wish I Knew About the U.S. and Israeli Positions on Iran",
-      "url": "http://foreignpolicy.com/2026/04/21/gaps-knowledge-iran-united-states-israel-war-oil/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-21T20:12:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "A timeline of Trump's shifting statements about how long the Iran war will last",
-      "url": "https://www.pbs.org/newshour/politics/a-timeline-of-trumps-shifting-statements-about-how-long-the-iran-war-will-last",
-      "source": "PBS",
-      "publishedAt": "2026-04-21T18:52:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran peace talks on hold as ceasefire nears end",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/04/21/us-iran-peace-talks-on-hold-as-ceasefire-nears-end/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-04-21T18:49:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Japan lifts ban on lethal weapons exports in major change of its postwar pacifist policy",
@@ -67,54 +171,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Yet more arms deliveries to Europe are put on hold - America fast losing its \"reliable partner\" image.",
-      "url": "https://freerepublic.com/focus/f-news/4375850/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-04-21T17:14:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon’s Moment of Reckoning",
-      "url": "http://foreignpolicy.com/2026/04/21/israel-lebanon-hezbollah-trump-iran-cease-fire-talks-beirut/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-21T17:02:55Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S., Iranian officials signal that more cease-fire talks will go ahead in Pakistan",
-      "url": "https://fortune.com/2026/04/21/u-s-iranian-officials-signal-that-more-cease-fire-talks-will-go-ahead-in-pakistan/",
-      "source": "Fortune",
-      "publishedAt": "2026-04-21T16:19:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "How the US–Israel–Iran War Costs the Gulf States",
-      "url": "https://www.fairobserver.com/politics/how-the-us-israel-iran-war-costs-the-gulf-states/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-04-21T15:30:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The war in Iran didn’t end; it became something new",
-      "url": "https://www.vox.com/politics/486281/iran-hormuz-nuclear-ceasefire",
-      "source": "Vox",
-      "publishedAt": "2026-04-21T15:14:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran, US Talks Hit Impasse as Truce Nears Expiry",
-      "url": "https://www.rigzone.com/news/wire/iran_us_talks_hit_impasse_as_truce_nears_expiry-21-apr-2026-183494-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-04-21T14:59:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "US limits intelligence sharing with Asian ally – media",
       "url": "https://www.rt.com/news/638844-us-intelligence-sharing-south-korea/",
       "source": "RT",
@@ -129,38 +185,6 @@
       "publishedAt": "2026-04-21T14:52:03Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Leveraging the Kurds: Inside US Plans to Pressure Tehran",
-      "url": "https://www.fairobserver.com/world-news/middle-east-news/leveraging-the-kurds-inside-us-plans-to-pressure-tehran/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-04-21T14:39:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "A timeline of how the Iran war shook oil prices — and what comes next",
-      "url": "https://www.cnbc.com/2026/04/21/oil-price-iran-war-middle-east.html",
-      "source": "CNBC",
-      "publishedAt": "2026-04-21T14:34:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. and Iran signal new ceasefire talks in Islamabad as fragile truce nears end",
-      "url": "https://www.pbs.org/newshour/world/u-s-and-iran-signal-new-ceasefire-talks-in-islamabad-as-fragile-truce-nears-end",
-      "source": "PBS",
-      "publishedAt": "2026-04-21T14:02:37Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel’s Lebanon occupation chokes Beirut’s offshore gas options",
-      "url": "https://www.rt.com/news/638815-israel-iran-gas-fields/",
-      "source": "RT",
-      "publishedAt": "2026-04-21T13:58:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Türkiye and Historical Turning Points",
@@ -203,14 +227,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "What course will Bulgaria’s new leader Rumen Radev take?",
-      "url": "https://www.dw.com/en/what-course-will-bulgarias-new-leader-rumen-radev-take/a-76879858",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-21T11:43:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran’s 10-Point Plan is Still a Workable basis for Talks",
       "url": "https://www.juancole.com/2026/04/irans-point-workable.html",
       "source": "Juancole.com",
@@ -233,86 +249,6 @@
       "publishedAt": "2026-04-21T00:00:33Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Chinese aircraft carrier Liaoning transits Taiwan Strait, no invasion signs",
-      "url": "https://cryptobriefing.com/chinese-aircraft-carrier-liaoning-transits-taiwan-strait-no-invasion-signs/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-20T23:35:48Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "How Likely Are U.S.-Iran Peace Talks in Islamabad?",
-      "url": "http://foreignpolicy.com/2026/04/20/us-iran-peace-talks-islamabad-strait-hormuz-seizure-vance-trump/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-20T20:00:42Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iran’s 10 Point Plan Is Still a Workable Basis for Negotiations",
-      "url": "https://www.globalresearch.ca/iran-10-point-plan-workable-basis-negotiations/5922990",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-20T14:30:58Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Iran’s 10-Point Plan Is Still a Workable Basis for Negotiations",
-      "url": "https://www.commondreams.org/opinion/iran-war-10-point-peace-plan",
-      "source": "Common Dreams",
-      "publishedAt": "2026-04-20T14:02:02Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Cloud over US-Iran talks: What are the key sticking points?",
-      "url": "https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-20T13:51:57Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Chinese FM releases national report of China's implementation of NPT; policy has injected stability and certainty to the world: FM",
-      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/04/china-260420-globaltimes01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-20T12:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Nobel Laureate David Gross Warns Humanity May Not Survive 50 Years to See Unified Theory of Physics",
-      "url": "https://www.ibtimes.com.au/nobel-laureate-david-gross-warns-humanity-may-not-survive-50-years-see-unified-theory-physics-1867075",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-04-20T11:29:32Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "North Korea again tests cluster munitions in a launch observed by Kim",
-      "url": "https://abcnews.com/International/wireStory/north-korea-tests-cluster-munitions-launch-observed-kim-132193250",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-20T01:56:27Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korean leader Kim oversaw test of missiles with cluster warheads",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korean-leader-kim-oversaw-test-missiles-cluster-warheads-6066841",
-      "source": "CNA",
-      "publishedAt": "2026-04-20T01:53:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea again tests cluster munitions in a launch observed by Kim Jong Un and his daughter Ju Ae",
-      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-again-tests-cluster-munitions-in-a-launch-observed-by-kim-jong-un-and-his-daughter-ju-ae/articleshow/130380193.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-20T00:46:54Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

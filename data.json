@@ -1,30 +1,166 @@
 {
-  "updated": "2026-04-23T21:07:49Z",
-  "count": 43,
+  "updated": "2026-04-24T06:29:31Z",
+  "count": 31,
   "articles": [
     {
-      "title": "Waiting for Day Zero",
-      "url": "https://www.nybooks.com/online/2026/04/22/waiting-for-day-zero-los-angeles-iranians/",
-      "source": "The New York Review of Books",
-      "publishedAt": "2026-04-22T21:01:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Like Michael Corleone, Iraq’s Militias Seek Legitimacy",
-      "url": "https://oilprice.com/Energy/Energy-General/Like-Michael-Corleone-Iraqs-Militias-Seek-Legitimacy.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-04-22T21:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran's seizure of two cargo ships in Strait of Hormuz does not violate ceasefire? US and Iran give opposite claims on truce and blockade",
-      "url": "https://economictimes.indiatimes.com/news/international/us/irans-seizure-of-two-cargo-ships-in-strait-of-hormuz-does-not-violate-ceasefire-us-and-iran-give-opposite-claims-on-truce-and-blockade/articleshow/130451667.cms",
+      "title": "EU to test collective defense rules as US security role faces doubts",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/european-union-reinforces-collective-defense-amid-us-security-doubts/articleshow/130458866.cms",
       "source": "The Times of India",
-      "publishedAt": "2026-04-22T20:35:05Z",
+      "publishedAt": "2026-04-23T06:19:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon meets Israel in Washington to request truce extension",
+      "url": "https://www.hurriyetdailynews.com/lebanon-meets-israel-in-washington-to-request-truce-extension-221377",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-23T06:13:47Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran says won't reopen Hormuz as long as US blockade remains",
+      "url": "https://www.hurriyetdailynews.com/iran-says-wont-reopen-hormuz-as-long-as-us-blockade-remains-221376",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-23T06:08:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "From machine tools to military tech: German industry dons fatigues",
+      "url": "https://economictimes.indiatimes.com/news/defence/from-machine-tools-to-military-tech-german-industry-dons-fatigues/articleshow/130458842.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-23T06:05:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran tightens its control of Strait of Hormuz",
+      "url": "https://www.rte.ie/news/world/2026/0423/1569677-middle-east-conflict/",
+      "source": "RTE",
+      "publishedAt": "2026-04-23T06:01:34Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "The American Empire Cannot Defeat Iran, and Doubling Down Only Worsens the Global Energy Catastrophe",
+      "url": "https://www.naturalnews.com/2026-04-23-the-american-empire-cannot-defeat-iran.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-23T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Mad Max on the High Seas – The Fall of American Naval Power and the Rise of Security Escorts for Sea Transport",
+      "url": "https://www.naturalnews.com/2026-04-23-the-fall-of-american-naval-power.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-23T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel escalates military aggression with new automated weapons amid fragile ceasefire",
+      "url": "https://www.naturalnews.com/2026-04-23-israel-escalates-military-aggression-with-automated-weapons.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-23T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon Prime Minister exposes Israel’s “established approach” of killing journalists to control the narrative",
+      "url": "https://www.naturalnews.com/2026-04-23-lebanon-prime-minister-exposes-israels-established-approach-of-killing-journalists.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-23T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran seizes two ships while US says it turned back 31 vessels as part of its blockade",
+      "url": "https://www.thejournal.ie/iran-war-us-blockade-7020956-Apr2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-04-23T05:44:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran tightens control of Hormuz after US calls off renewed attacks – but no sign of peace talks restarting",
+      "url": "https://www.independent.ie/world-news/middle-east/iran-tightens-control-of-hormuz-after-us-calls-off-renewed-attacks-but-no-sign-of-peace-talks-restarting/a1142495169.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-23T05:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran tightens control of Hormuz as US calls off attacks; Lebanon accuses Israel of war crime with targeted killing of journalist",
+      "url": "https://www.independent.ie/world-news/middle-east/iran-tightens-control-of-hormuz-as-us-calls-off-attacks-lebanon-accuses-israel-of-war-crime-with-targeted-killing-of-journalist/a1142495169.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-23T05:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "European Union ramps up crisis testing, convinced that Trump's security priorities lie elsewhere",
+      "url": "https://japantoday.com/category/world/european-union-ramps-up-crisis-testing-convinced-that-trump%27s-security-priorities-lie-elsewhere",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-23T05:21:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran insists Strait of Hormuz closed as long as US blockade remains",
+      "url": "https://punchng.com/iran-insists-strait-of-hormuz-closed-as-long-as-us-blockade-remains/",
+      "source": "The Punch",
+      "publishedAt": "2026-04-23T04:54:41Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli strikes kill four in Lebanon on eve of further ceasefire talks",
+      "url": "https://www.independent.ie/world-news/middle-east/israeli-strikes-kill-four-in-lebanon-on-eve-of-further-ceasefire-talks/a2133510411.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-23T04:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Targeting Journalists Became Israel's 'Established Approach' — Lebanon's PM",
+      "url": "https://sputnikglobe.com/20260423/targeting-journalists-became-israels-established-approach--lebanons-pm-1124027523.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-23T03:39:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon to seek ceasefire extension in talks with Israel",
+      "url": "https://www.rte.ie/news/middle-east/2026/0423/1569673-lebanon-israel-us/",
+      "source": "RTE",
+      "publishedAt": "2026-04-23T03:26:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump seeks exit from conflict, but Iran holds firm",
+      "url": "https://economictimes.indiatimes.com/news/defence/trumps-struggle-for-peace-irans-resistance-to-ceasefire-and-blockade-tensions/articleshow/130455678.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-23T03:10:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Bilderberg 2026: The World Elite Gathered in D.C., and Media Refused to Cover It. Here’s What to Know.",
+      "url": "https://vigilantcitizen.com/latestnews/bilderberg-2026-the-world-elite-gathered-in-d-c-and-media-refused-to-cover-it-heres-what-to-know/",
+      "source": "Vigilantcitizen.com",
+      "publishedAt": "2026-04-22T22:58:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How Iran and the United States Are Planning Their Next Moves",
+      "url": "http://foreignpolicy.com/2026/04/22/karim-sadjadpour-iran-regime-future-war-gulf-energy-hormuz-cease-fire/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-04-22T21:23:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "How the war in Iran has brought European countries closer together – without Trump",
@@ -35,38 +171,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Why are oil prices up today, and will US WTI, Brent crude futures continue to rise or fall again? Analysts insights, market outlook and investor guide",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-today-and-will-us-wti-brent-crude-futures-continue-to-rise-or-fall-again-analysts-insights-market-outlook-and-investor-guide/articleshow/130451505.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-22T20:02:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Extends Ceasefire Citing A “Seriously Fractured Government”",
-      "url": "https://www.shtfplan.com/war/trump-extends-ceasefire-citing-a-seriously-fractured-government",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-04-22T20:00:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "400 US Soldiers Wounded In Operation Epic Fury, Military Says",
-      "url": "https://dailycaller.com/2026/04/22/400-american-soldiers-wounded-operation-epic-fury-iran-trump/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-04-22T19:29:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran blames Trump’s blockade for diplomatic impasse as fragile truce holds",
-      "url": "https://www.aljazeera.com/news/2026/4/22/iran-blames-trumps-blockade-for-diplomatic-impasse-as-fragile-truce-holds",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-22T19:25:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Transcript: Trump’s Choices in Iran Are “Humiliation or Escalation”",
       "url": "https://newrepublic.com/article/209296/transcript",
       "source": "The New Republic",
@@ -75,28 +179,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Tom Barrack strikes again: Calls F-35 deadlock “irrational,” leaves door open for Turkey’s return to the program",
-      "url": "https://en.protothema.gr/2026/04/22/tom-barrack-strikes-again-calls-f-35-deadlock-irrational-leaves-door-open-for-turkeys-return-to-the-program/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-04-22T18:37:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "On the Brink of Global Recession",
       "url": "https://www.theatlantic.com/podcasts/2026/04/david-frum-show-adam-posen-global-recession/686900/",
       "source": "The Atlantic",
       "publishedAt": "2026-04-22T18:30:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "At least four killed in Israeli strikes on Lebanon, journalists wounded",
-      "url": "https://www.aljazeera.com/news/2026/4/22/at-least-four-killed-in-israeli-strikes-on-lebanon-journalists-wounded",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-22T18:10:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "U.N. Nuclear Chief: World Faces Nuclear Arms Race",
@@ -115,54 +203,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Global Times:Xi holds phone talks with Saudi crown prince, says normal passage through Strait of Hormuz should be maintained",
-      "url": "https://www.globenewswire.com/news-release/2026/04/22/3279305/0/en/Global-Times-Xi-holds-phone-talks-with-Saudi-crown-prince-says-normal-passage-through-Strait-of-Hormuz-should-be-maintained.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-04-22T17:16:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Shifting goals blur picture of US blockade on Iran",
-      "url": "https://www.digitaljournal.com/world/shifting-goals-blur-picture-of-us-blockade-on-iran/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-22T16:37:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "War in the Middle East: latest developments",
-      "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-53/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-22T16:07:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "How Israel is destroying Lebanon’s water infrastructure",
-      "url": "https://www.aljazeera.com/features/2026/4/22/how-israel-is-destroying-lebanons-water-infrastructure",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-22T16:00:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Crisis In The Strait Of Hormuz Is The Greatest Threat To The Global Economy In My Entire Lifetime",
-      "url": "https://www.activistpost.com/the-crisis-in-the-strait-of-hormuz-is-the-greatest-threat-to-the-global-economy-in-my-entire-lifetime/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-04-22T16:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s leaders debate war and peace after Trump ceasefire extension",
-      "url": "https://www.aljazeera.com/news/2026/4/22/irans-leaders-debate-war-and-peace-after-trump-ceasefire-extension",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-22T15:42:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Deterring the next nuclear arms race",
       "url": "https://news.harvard.edu/gazette/story/2026/04/deterring-the-next-nuclear-arms-race/",
       "source": "Harvard School of Engineering and Applied Sciences",
@@ -171,76 +211,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Hezbollah supporters defiant after sons killed fighting Israel",
-      "url": "https://www.digitaljournal.com/world/hezbollah-supporters-defiant-after-sons-killed-fighting-israel/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-22T14:27:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli strike in south Lebanon kills 1, state media says, ahead of scheduled talks",
-      "url": "https://www.cbc.ca/news/world/israel-lebanon-talks-strike-9.7172966",
-      "source": "CBC News",
-      "publishedAt": "2026-04-22T14:21:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Belgium’s Chief of Defense General Frederik Vasina Says EU is Using Ukraine to “Buy Time:”",
-      "url": "https://www.globalresearch.ca/belgian-army-chief-says-eu-uses-ukraine-buy-time/5923335",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-22T14:18:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "What is uranium enrichment and how quickly could Iran build a nuclear bomb?",
       "url": "https://www.aljazeera.com/news/2026/4/22/what-is-uranium-enrichment-and-how-quickly-could-iran-build-a-nuclear-bomb",
       "source": "Al Jazeera English",
       "publishedAt": "2026-04-22T13:52:41Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Russia is preparing for war with NATO and could be ready to attack within a year of ending Ukraine conflict, European spy agency warns",
-      "url": "https://www.dailymail.com/news/article-15755059/Russia-preparing-war-NATO-ready-attack-year-ending-Ukraine-conflict-European-spy-agency-warns.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-04-22T13:51:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran fires on 3 ships in Strait of Hormuz amid supposedly indefinite cease-fire",
-      "url": "https://fortune.com/2026/04/22/iran-fires-on-3-ships-in-strait-of-hormuz-amid-supposedly-indefinite-cease-fire/",
-      "source": "Fortune",
-      "publishedAt": "2026-04-22T13:42:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran fires on 3 ships in the Strait of Hormuz, complicating efforts to resume U.S. ceasefire talks",
-      "url": "https://www.pbs.org/newshour/world/iran-fires-on-3-ships-in-the-strait-of-hormuz-complicating-efforts-to-resume-u-s-ceasefire-talks",
-      "source": "PBS",
-      "publishedAt": "2026-04-22T13:14:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Kiev Neo-Nazi Regime Forcibly Conscript Women while Importing Migrants",
-      "url": "https://www.globalresearch.ca/kiev-neo-nazi-regime-forcibly-conscript-women-while-importing-migrants/5923312",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-22T12:18:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "At the EU Foreign Affairs Council, Latvia raises the issue of barring Russia from participating in the Venice Biennale and imposing sanctions on representatives closely linked to the Russian political regime who use culture to achieve Russia's war aims",
-      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/04/russia-260422-latvia-mfa01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-22T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "South Korea’s ‘war-like’ energy crisis",
@@ -273,78 +249,6 @@
       "publishedAt": "2026-04-22T07:14:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "A shifting stage: Ukraine fights for attention amid global crises",
-      "url": "https://www.naturalnews.com/2026-04-22-ukraine-fights-for-attention-amid-global-crises.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-22T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump’s Iran Fiasco’s Silver Lining – The End of NATO",
-      "url": "https://original.antiwar.com/david_stockman/2026/04/21/trumps-iran-fiascos-silver-lining-the-end-of-nato/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-04-22T00:00:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "China’s Gas Lines Signal a Brewing Crisis",
-      "url": "https://english.khabarhub.com/2026/22/545224/",
-      "source": "Khabarhub.com",
-      "publishedAt": "2026-04-21T23:15:22Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "US limits intelligence sharing with Asian ally – media",
-      "url": "https://www.rt.com/news/638844-us-intelligence-sharing-south-korea/",
-      "source": "RT",
-      "publishedAt": "2026-04-21T14:57:20Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Taiwan president cancels Africa trip amid Chinese pressure",
-      "url": "https://cryptobriefing.com/taiwan-president-cancels-africa-trip-amid-chinese-pressure/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-21T14:52:03Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "‘The Right Amount of Crazy’",
-      "url": "https://www.nybooks.com/articles/2026/05/14/the-right-amount-of-crazy-fintan-otoole/",
-      "source": "The New York Review of Books",
-      "publishedAt": "2026-04-21T12:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iran’s 10-Point Plan is Still a Workable basis for Talks",
-      "url": "https://www.juancole.com/2026/04/irans-point-workable.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-04-21T04:04:20Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "China’s Fujian carrier to reach full readiness this year, invasion odds low",
-      "url": "https://cryptobriefing.com/chinas-fujian-carrier-to-reach-full-readiness-this-year-invasion-odds-low/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-21T01:44:05Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Iran’s 10-point Plan Is Still a Workable Basis for Negotiations",
-      "url": "https://original.antiwar.com/nicolas_davies/2026/04/20/irans-10-point-plan-is-still-a-workable-basis-for-negotiations/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-04-21T00:00:33Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

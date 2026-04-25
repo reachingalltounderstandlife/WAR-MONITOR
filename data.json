@@ -1,12 +1,132 @@
 {
-  "updated": "2026-04-25T02:23:42Z",
-  "count": 33,
+  "updated": "2026-04-25T07:14:30Z",
+  "count": 32,
   "articles": [
     {
-      "title": "Lebanon leaders accuse Israel of war crime after journalist killed",
-      "url": "https://www.digitaljournal.com/world/lebanon-leaders-accuse-israel-of-war-crime-after-journalist-killed/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-24T00:47:20Z",
+      "title": "Israel, Lebanon extend cease-fire as Trump seeks ‘best deal’ with Iran",
+      "url": "https://nypost.com/2026/04/24/world-news/israel-lebanon-extend-cease-fire-as-trump-seeks-best-deal-with-iran/",
+      "source": "New York Post",
+      "publishedAt": "2026-04-24T06:56:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Maritime Law and US Naval Power Under Stress Even Before Strait of Hormuz Standoff",
+      "url": "https://www.nakedcapitalism.com/2026/04/maritime-law-and-us-naval-power-under-stress-even-before-strait-of-hormuz-standoff.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-04-24T06:54:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "In Baltic skies, NATO and Russian pilots size each other up warily but without a tilt into war",
+      "url": "https://www.yahoo.com/news/articles/baltic-skies-nato-russian-pilots-060416858.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-24T06:04:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Report Details Health Condition of Iran’s New Supreme Leader, Citing Confidential Sources",
+      "url": "https://www.naturalnews.com/2026-04-24-report-details-health-condition-irans-new-supreme-leader.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-24T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "EU Approves â¬90 Billion Loan for Ukraine, Adopts New Russia Sanctions",
+      "url": "https://www.naturalnews.com/2026-04-24-eu-approves-loan-ukraine-adopts-new-sanctions.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-24T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon’s nightmare returns: How Israeli aggression threatens to reignite civil war",
+      "url": "https://www.naturalnews.com/2026-04-24-lebanon-nightmare-israeli-aggression-civil-war.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-24T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel, Lebanon extend ceasefire as Iran peace talks stall",
+      "url": "https://www.hurriyetdailynews.com/israel-lebanon-extend-ceasefire-as-iran-peace-talks-stall-221407",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-24T05:48:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trumps Announces Israel-Lebanon Ceasefire is Extended by Three Weeks",
+      "url": "https://www.ibtimes.com.au/trumps-announces-israel-lebanon-ceasefire-extended-three-weeks-1867410",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-04-24T05:40:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon-Israel ceasefire extended by three weeks; 'great chance' of peace agreement this year, says Trump",
+      "url": "https://www.independent.ie/world-news/middle-east/lebanon-israel-ceasefire-extended-by-three-weeks-great-chance-of-peace-agreement-this-year-says-trump/a64351883.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-24T05:30:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "South Korea prosecutors seek 30 years for Yoon over drone flights into North",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-prosecutors-30-years-yoon-suk-yeol-drone-flights-north-6078166",
+      "source": "CNA",
+      "publishedAt": "2026-04-24T05:00:09Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel, Lebanon to extend ceasefire by 3 weeks, Donald Trump says",
+      "url": "https://www.dw.com/en/israel-lebanon-to-extend-ceasefire-as-us-iran-talks-stall/live-76918799",
+      "source": "DW (English)",
+      "publishedAt": "2026-04-24T04:58:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pope Condemns Killing Of Protesters In Iran, Reaffirms Stance Against War",
+      "url": "https://www.huffpost.com/entry/pope-leo-iran_n_69eaef07e4b0bb584bca564b",
+      "source": "HuffPost",
+      "publishedAt": "2026-04-24T04:44:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel, Lebanon extend ceasefire as Trump seeks Iran deal",
+      "url": "https://www.rte.ie/news/middle-east/2026/0424/1569879-israel-lebanon-us/",
+      "source": "RTE",
+      "publishedAt": "2026-04-24T04:42:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel, Lebanon extend ceasefire as Trump seeks 'best deal' with Iran",
+      "url": "https://www.thehindubusinessline.com/news/world/israel-lebanon-extend-ceasefire-as-trump-seeks-best-deal-with-iran/article70900330.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-04-24T04:29:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Iran War and the End of the American Empire",
+      "url": "https://www.juancole.com/2026/04/iran-american-empire.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-04-24T04:04:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanese couple finds home destroyed amid Israeli-Hezbollah conflict",
+      "url": "https://cryptobriefing.com/lebanese-couple-finds-home-destroyed-amid-israeli-hezbollah-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-24T03:32:49Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -43,106 +163,10 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump Announces Three-Week Extension Of Israel-Lebanon Ceasefire",
-      "url": "https://www.forbes.com/sites/zacharyfolk/2026/04/23/trump-announces-three-week-extension-of-israel-lebanon-ceasefire/",
-      "source": "Forbes",
-      "publishedAt": "2026-04-23T23:53:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon-Israel ceasefire extended by three weeks after Oval Office meeting",
-      "url": "https://japantoday.com/category/world/lebanon-israel-ceasefire-extended-by-three-weeks-after-oval-office-meeting",
-      "source": "Japan Today",
-      "publishedAt": "2026-04-23T22:56:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanese journalist killed in Israeli strike amid fragile ceasefire",
-      "url": "https://cryptobriefing.com/lebanese-journalist-killed-in-israeli-strike-amid-fragile-ceasefire/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-23T22:41:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon and Israel agree to extend ceasefire for another 3 weeks, Trump says",
-      "url": "https://www.cbc.ca/news/world/lebanon-hezbollah-israel-ceasefire-extended-9.7175414",
-      "source": "CBC News",
-      "publishedAt": "2026-04-23T22:35:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Seriously, Tucker Carlson? Come On",
-      "url": "https://www.theatlantic.com/newsletters/2026/04/tucker-carlson-maga-pundits-trump/686921/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-04-23T22:07:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Ceasefire between Israel and Lebanon extended for three weeks",
       "url": "https://www.independent.ie/world-news/middle-east/ceasefire-between-israel-and-lebanon-extended-for-three-weeks/a1142495169.html",
       "source": "Independent.ie",
       "publishedAt": "2026-04-23T21:59:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Announces Israel and Lebanon Have Agreed to Extend Ceasefire by Three Weeks",
-      "url": "https://www.thegatewaypundit.com/2026/04/trump-announces-extension-ceasefire/",
-      "source": "Thegatewaypundit.com",
-      "publishedAt": "2026-04-23T21:40:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Strait of Hormuz: Iran’s ‘nuclear deterrent’",
-      "url": "https://theconversation.com/strait-of-hormuz-irans-nuclear-deterrent-281376",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-04-23T21:28:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "From Boat Murders to Kidnapping Maduro, Trump Spending Billions on 'Donroe Doctrine' Militarism",
-      "url": "https://www.commondreams.org/news/trump-latin-america-militarism",
-      "source": "Common Dreams",
-      "publishedAt": "2026-04-23T20:53:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Most Americans say there was not sufficient reason to start war in Iran: Polls",
-      "url": "https://abcnews.com/Politics/americans-sufficient-reason-start-war-iran-polls/story?id=132317564",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-23T20:33:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran dismisses Trump’s claim of leadership rift, says nation is ‘one soul’",
-      "url": "https://www.aljazeera.com/news/2026/4/23/iran-dismisses-trumps-claim-of-leadership-rift-says-nation-is-one-soul",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-23T20:26:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "War without end? How Israel became trapped in its own security doctrine",
-      "url": "https://www.rt.com/news/638963-war-without-end-israel/",
-      "source": "RT",
-      "publishedAt": "2026-04-23T19:58:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Nuclear experts warn Iran’s uranium ‘right’ is a myth, say Trump is right to hold firm",
-      "url": "https://www.foxnews.com/world/nuclear-experts-warn-irans-uranium-right-myth-say-trump-right-hold-firm",
-      "source": "Fox News",
-      "publishedAt": "2026-04-23T19:42:26Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -219,44 +243,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "‎US suspends arms deliveries to NATO ally Estonia as war on Iran draining US arsenal",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260423-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-23T11:53:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "World War With the End of Democracy on the Horizon is in Progress",
-      "url": "https://www.globalresearch.ca/world-war-end-democracy/5923575",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-23T11:51:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Links 4/23/2026",
-      "url": "https://www.nakedcapitalism.com/2026/04/links-4-23-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-04-23T10:55:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "We finally have the upper hand with Iran. Here's how not to squander it.",
       "url": "https://www.israelnationalnews.com/news/425965",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-04-23T10:49:34Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "The German army joins Hanover trade fair as defence industry booms",
-      "url": "https://www.thelocal.de/20260423/the-german-army-joins-hanover-trade-fair-as-defence-industry-booms",
-      "source": "The Local Germany",
-      "publishedAt": "2026-04-23T10:17:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Seeing the Cyber in Economic Statecraft",

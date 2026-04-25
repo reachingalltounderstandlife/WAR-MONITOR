@@ -1,54 +1,158 @@
 {
-  "updated": "2026-04-24T18:50:38Z",
-  "count": 36,
+  "updated": "2026-04-25T02:23:42Z",
+  "count": 33,
   "articles": [
     {
-      "title": "Ceasefire extended: What's next in the Iran war?",
-      "url": "https://www.dw.com/en/ceasefire-extended-whats-next-in-the-iran-war/a-76916900",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-23T18:09:00Z",
+      "title": "Lebanon leaders accuse Israel of war crime after journalist killed",
+      "url": "https://www.digitaljournal.com/world/lebanon-leaders-accuse-israel-of-war-crime-after-journalist-killed/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-24T00:47:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran seizes vessel in Strait of Hormuz, defying US naval superiority",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-seizes-vessel-in-strait-of-hormuz-defying-us-naval-superiority/articleshow/130481083.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-24T00:37:17Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Israel Could Have What It Most Wants in Lebanon",
-      "url": "https://www.theatlantic.com/international/2026/04/israel-lebanon-yellow-line-hezbollah/686908/",
+      "title": "Trump says Lebanon-Israel ceasefire extended by three weeks after Oval Office meeting",
+      "url": "https://economictimes.indiatimes.com/news/defence/trump-says-lebanon-israel-ceasefire-extended-by-three-weeks-after-oval-office-meeting/articleshow/130481045.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-24T00:31:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Has Iran Learned the North Korea Lesson: Nukes Are Essential To Deter the US?",
+      "url": "https://original.antiwar.com/ted_galen_carpenter/2026/04/23/has-iran-learned-the-north-korea-lesson-nukes-are-essential-to-deter-the-us/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-04-24T00:00:38Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The Pope Is Right – The US-Israeli War With Iran Violates Just-War Theory",
+      "url": "https://original.antiwar.com/jordan_liz/2026/04/23/the-pope-is-right-the-us-israeli-war-with-iran-violates-just-war-theory/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-04-24T00:00:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Announces Three-Week Extension Of Israel-Lebanon Ceasefire",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2026/04/23/trump-announces-three-week-extension-of-israel-lebanon-ceasefire/",
+      "source": "Forbes",
+      "publishedAt": "2026-04-23T23:53:40Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon-Israel ceasefire extended by three weeks after Oval Office meeting",
+      "url": "https://japantoday.com/category/world/lebanon-israel-ceasefire-extended-by-three-weeks-after-oval-office-meeting",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-23T22:56:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanese journalist killed in Israeli strike amid fragile ceasefire",
+      "url": "https://cryptobriefing.com/lebanese-journalist-killed-in-israeli-strike-amid-fragile-ceasefire/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-23T22:41:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon and Israel agree to extend ceasefire for another 3 weeks, Trump says",
+      "url": "https://www.cbc.ca/news/world/lebanon-hezbollah-israel-ceasefire-extended-9.7175414",
+      "source": "CBC News",
+      "publishedAt": "2026-04-23T22:35:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Seriously, Tucker Carlson? Come On",
+      "url": "https://www.theatlantic.com/newsletters/2026/04/tucker-carlson-maga-pundits-trump/686921/",
       "source": "The Atlantic",
-      "publishedAt": "2026-04-23T17:56:03Z",
+      "publishedAt": "2026-04-23T22:07:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Italian peacekeepers replace Jesus statue wrecked by Israeli soldiers",
-      "url": "https://www.channelnewsasia.com/world/israel-lebanon-italy-jesus-statue-vandalised-6076956",
-      "source": "CNA",
-      "publishedAt": "2026-04-23T17:29:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanese Prime Minister Rejects Deal With Israel Unless All Troops Are Pulled - Reports",
-      "url": "https://sputnikglobe.com/20260423/lebanese-prime-minister-rejects-deal-with-israel-unless-all-troops-are-pulled---reports-1124032154.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-04-23T17:27:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hezbollah Attacks IDF Troops Amid Israel-Lebanon Talks",
-      "url": "https://legalinsurrection.com/2026/04/hezbollah-attacks-idf-troops-amid-israel-lebanon-talks/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-04-23T17:17:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump orders US to 'shoot and ‌kill any ​boat' laying mines in ​the ‌Strait of ⁠Hormuz",
-      "url": "https://www.abc.net.au/news/2026-04-24/iran-war-live-updates-us-shoot-kill-hormuz/106598082",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-23T17:12:02Z",
+      "title": "Ceasefire between Israel and Lebanon extended for three weeks",
+      "url": "https://www.independent.ie/world-news/middle-east/ceasefire-between-israel-and-lebanon-extended-for-three-weeks/a1142495169.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-23T21:59:31Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Trump Announces Israel and Lebanon Have Agreed to Extend Ceasefire by Three Weeks",
+      "url": "https://www.thegatewaypundit.com/2026/04/trump-announces-extension-ceasefire/",
+      "source": "Thegatewaypundit.com",
+      "publishedAt": "2026-04-23T21:40:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Strait of Hormuz: Iran’s ‘nuclear deterrent’",
+      "url": "https://theconversation.com/strait-of-hormuz-irans-nuclear-deterrent-281376",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-04-23T21:28:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "From Boat Murders to Kidnapping Maduro, Trump Spending Billions on 'Donroe Doctrine' Militarism",
+      "url": "https://www.commondreams.org/news/trump-latin-america-militarism",
+      "source": "Common Dreams",
+      "publishedAt": "2026-04-23T20:53:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Most Americans say there was not sufficient reason to start war in Iran: Polls",
+      "url": "https://abcnews.com/Politics/americans-sufficient-reason-start-war-iran-polls/story?id=132317564",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-23T20:33:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran dismisses Trump’s claim of leadership rift, says nation is ‘one soul’",
+      "url": "https://www.aljazeera.com/news/2026/4/23/iran-dismisses-trumps-claim-of-leadership-rift-says-nation-is-one-soul",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-23T20:26:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "War without end? How Israel became trapped in its own security doctrine",
+      "url": "https://www.rt.com/news/638963-war-without-end-israel/",
+      "source": "RT",
+      "publishedAt": "2026-04-23T19:58:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Nuclear experts warn Iran’s uranium ‘right’ is a myth, say Trump is right to hold firm",
+      "url": "https://www.foxnews.com/world/nuclear-experts-warn-irans-uranium-right-myth-say-trump-right-hold-firm",
+      "source": "Fox News",
+      "publishedAt": "2026-04-23T19:42:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why China is recruiting fishermen to 'maintain presence' — not to fish",
+      "url": "https://www.abc.net.au/news/2026-04-24/south-china-sea-state-funded-fishing-boat-militia/106570054",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-23T18:55:41Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
     },
     {
       "title": "Zack Polanski, the new star of the left: “NATO, taxes on the rich and Brexit: it’s time for change”",
@@ -59,44 +163,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "The Russia-Iran Nexus Reshaping Global Conflict",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/The-Russia-Iran-Nexus-Reshaping-Global-Conflict.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-04-23T16:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Art of Failure",
       "url": "https://www.activistpost.com/the-art-of-failure/",
       "source": "Activistpost.com",
       "publishedAt": "2026-04-23T16:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Lebanon accuses Israel of war crime in killing of journalist",
-      "url": "https://www.cbsnews.com/news/lebanon-israel-war-crime-journalist-killed-drone-strike/",
-      "source": "CBS News",
-      "publishedAt": "2026-04-23T15:41:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Seeing Jesus in the Machinery of Violence",
-      "url": "https://www.commondreams.org/opinion/jesus-persecution",
-      "source": "Common Dreams",
-      "publishedAt": "2026-04-23T15:21:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon Latest: Israel attacks kill journalist and target first responders",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/23/aje-onl-aje_onl_lebanon_wrap-230426",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-23T15:03:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Germany unveils first ever military strategy for Bundeswehr",
@@ -115,14 +187,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Chinese Scientists Have Been Dying Mysterious Deaths Too...",
-      "url": "https://www.newsweek.com/chinese-scientists-have-been-dying-mysterious-deaths-too-11861806",
-      "source": "Newsweek",
-      "publishedAt": "2026-04-23T14:00:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Americans Have Become Less Confident in Trump’s Decision-Making on Ukraine",
       "url": "https://www.pewresearch.org/global/2026/04/23/americans-have-become-less-confident-in-trumps-decision-making-on-ukraine/",
       "source": "Pew Research Center",
@@ -131,44 +195,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israeli airstrikes kill 150 Hezbollah fighters before Lebanon ceasefire",
-      "url": "https://cryptobriefing.com/israeli-airstrikes-kill-150-hezbollah-fighters-before-lebanon-ceasefire/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-23T13:47:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump orders US Navy ‘to shoot and kill any boat’ planting mines in Strait of Hormuz; Lebanon accuses Israel of war crime with targeted killing of journalist",
-      "url": "https://www.independent.ie/world-news/middle-east/trump-orders-us-navy-to-shoot-and-kill-any-boat-planting-mines-in-strait-of-hormuz-lebanon-accuses-israel-of-war-crime-with-targeted-killing-of-journalist/a1142495169.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-23T13:25:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Turkey’s nuclear program will not end with Iran’s defeat",
       "url": "https://www.israelnationalnews.com/news/425980",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-04-23T13:22:05Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Iran: Daily life shadowed by war, scarcity and fear",
-      "url": "https://www.dw.com/en/iran-daily-life-shadowed-by-war-scarcity-and-fear/a-76912143",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-23T13:05:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian 'threat' to invade UAE if the US carries out ground attack as peace talk hopes dwindle",
-      "url": "https://www.dailymail.com/news/article-15758719/Iranian-threat-invade-UAE-US-attack-peace-talk.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-04-23T13:02:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "A Shifting Stage: Ukraine Fights For Attention Amid Global Crises",
@@ -233,62 +265,6 @@
       "publishedAt": "2026-04-23T08:00:45Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "U.N. Nuclear Chief: World Faces Nuclear Arms Race",
-      "url": "https://www.breitbart.com/national-security/2026/04/22/u-n-nuclear-chief-world-faces-new-nuclear-arms-race/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-04-22T18:08:42Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Deterring the next nuclear arms race",
-      "url": "https://news.harvard.edu/gazette/story/2026/04/deterring-the-next-nuclear-arms-race/",
-      "source": "Harvard School of Engineering and Applied Sciences",
-      "publishedAt": "2026-04-22T15:42:15Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "What is uranium enrichment and how quickly could Iran build a nuclear bomb?",
-      "url": "https://www.aljazeera.com/news/2026/4/22/what-is-uranium-enrichment-and-how-quickly-could-iran-build-a-nuclear-bomb",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-22T13:52:41Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "South Korea’s ‘war-like’ energy crisis",
-      "url": "https://theweek.com/business/economy/south-korea-fossil-fuels-energy-iran",
-      "source": "The Week Magazine",
-      "publishedAt": "2026-04-22T11:00:40Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Chinese navy brushes past Okinawa islands after Japanese transit in Taiwan Strait",
-      "url": "https://japantoday.com/category/politics/chinese-navy-brushes-past-okinawa-islands-after-japanese-transit-in-taiwan-strait",
-      "source": "Japan Today",
-      "publishedAt": "2026-04-22T07:30:39Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Chinese navy passes by Japanese islands again after Pacific training",
-      "url": "https://www.channelnewsasia.com/east-asia/chinese-navy-passes-japanese-islands-again-after-pacific-training-6072871",
-      "source": "CNA",
-      "publishedAt": "2026-04-22T07:14:17Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Chinese navy brushes past Okinawa islands as tensions with Japan flare",
-      "url": "https://www.channelnewsasia.com/east-asia/chinese-navy-brushes-past-okinawa-islands-tensions-japan-flare-6072871",
-      "source": "CNA",
-      "publishedAt": "2026-04-22T07:14:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
     }
   ]
 }

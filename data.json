@@ -1,70 +1,166 @@
 {
-  "updated": "2026-04-26T13:04:22Z",
-  "count": 30,
+  "updated": "2026-04-26T18:53:23Z",
+  "count": 33,
   "articles": [
     {
-      "title": "Four killed in Israeli strikes on south Lebanon",
-      "url": "https://punchng.com/four-killed-in-israeli-strikes-on-south-lebanon/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-25T13:00:38Z",
+      "title": "Russia launches one of its largest attacks of the war, killing at least 8 Ukrainian civilians and wounding 60 others: ‘Vile war crime’",
+      "url": "https://nypost.com/2026/04/25/world-news/russia-launches-one-of-its-largest-attacks-of-the-war-killing-at-least-8-ukrainian-civilians-and-wounding-60-others/",
+      "source": "New York Post",
+      "publishedAt": "2026-04-25T18:50:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Latest ceasefire talks fail as Iran's top diplomat leaves Pakistan and Trump tells envoys not to go",
+      "url": "https://www.pbs.org/newshour/world/latest-ceasefire-talks-fail-as-irans-top-diplomat-leaves-pakistan-and-trump-tells-envoys-not-to-go",
+      "source": "PBS",
+      "publishedAt": "2026-04-25T18:43:29Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "Israel says it will attack Hezbollah 'forcefully'",
+      "url": "https://www.rte.ie/news/world/2026/0425/1570208-israel-hezbollah-lebanon/",
+      "source": "RTE",
+      "publishedAt": "2026-04-25T18:37:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "After 20th Hezbollah ceasefire breach, Netanyahu orders strikes in Lebanon",
+      "url": "https://www.israelnationalnews.com/news/426056",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-25T18:37:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Netanyahu Orders Major Strike Against Hezbollah Targets in Lebanon",
+      "url": "https://sputnikglobe.com/20260425/netanyahu-orders-major-strike-against-hezbollah-targets-in-lebanon-1124040988.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-25T18:25:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump cancels envoys’ Pakistan trip for peace talks with Iran",
+      "url": "https://punchng.com/trump-cancels-envoys-pakistan-trip-for-peace-talks-with-iran/",
+      "source": "The Punch",
+      "publishedAt": "2026-04-25T17:54:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump cancels envoys’ Pakistan trip, but war not resuming",
+      "url": "https://www.vanguardngr.com/2026/04/trump-cancels-envoys-pakistan-trip-but-war-not-resuming/",
+      "source": "Vanguard",
+      "publishedAt": "2026-04-25T17:51:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli airstrikes in Lebanon kill six, threaten Hezbollah ceasefire",
+      "url": "https://cryptobriefing.com/israeli-airstrikes-in-lebanon-kill-six-threaten-hezbollah-ceasefire/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-25T17:51:48Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran Talks: President Trump Calls Off Witkoff-Kushner Islamabad Trip",
+      "url": "https://legalinsurrection.com/2026/04/iran-talks-president-trump-calls-off-witkoff-kushner-islamabad-trip/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-04-25T17:36:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hezbollah launches drones at Israeli forces, IDF strikes back in Lebanon",
+      "url": "https://cryptobriefing.com/hezbollah-launches-drones-at-israeli-forces-idf-strikes-back-in-lebanon/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-25T17:16:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran warns US maritime actions risk decisive military response",
+      "url": "https://cryptobriefing.com/iran-warns-us-maritime-actions-risk-decisive-military-response/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-25T16:57:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Donald Trump tells envoys not to travel to Pakistan for further Iran talks",
+      "url": "https://www.independent.ie/world-news/donald-trump-tells-envoys-not-to-travel-to-pakistan-for-further-iran-talks/a882763531.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-25T16:50:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran-US latest update: War to erupt again? Donald Trump says he canceled envoys trip to Pakistan talks, Tehran rejects Washington demands",
+      "url": "https://economictimes.indiatimes.com/news/international/us/iran-us-latest-update-war-to-erupt-again-donald-trump-says-he-canceled-envoys-trip-to-pakistan-talks-tehran-rejects-washington-demands/articleshow/130518686.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-25T16:20:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US envoys head to Pakistan for Iran war talks",
+      "url": "https://punchng.com/us-envoys-head-to-pakistan-for-iran-war-talks/",
+      "source": "The Punch",
+      "publishedAt": "2026-04-25T16:07:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran's foreign minister leaves Islamabad without meeting U.S. envoys, Pakistani officials say",
+      "url": "https://www.cbc.ca/news/world/us-iran-pakistan-talks-9.7177261",
+      "source": "CBC News",
+      "publishedAt": "2026-04-25T15:59:39Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Macron laments that US is not a reliable partner",
+      "url": "https://www.rt.com/news/639061-macron-us-not-reliable-partner/",
+      "source": "RT",
+      "publishedAt": "2026-04-25T15:46:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Palestinians vote in the first Gaza elections held in more than 20 years",
+      "url": "https://www.pbs.org/newshour/world/palestinians-vote-in-the-first-gaza-elections-held-in-more-than-20-years",
+      "source": "PBS",
+      "publishedAt": "2026-04-25T15:40:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran's Foreign Minister Leaves Islamabad Without Meeting US Envoys: Pakistan Officials",
+      "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_69ecd8dee4b0f3a433cb39b3",
+      "source": "HuffPost",
+      "publishedAt": "2026-04-25T15:13:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US envoys set to arrive in Pakistan, but direct meeting with Iran is unclear",
+      "url": "https://www.abc.net.au/news/2026-04-26/us-envoys-pakistan-new-peace-talks-with-iran/106606882",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-25T14:33:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "Russian attack on Ukrainian apartment block kills seven, injures dozens",
       "url": "https://www.abc.net.au/news/2026-04-25/russian-attack-ukrain-dnipro-apartment-block/106606822",
       "source": "ABC News (AU)",
       "publishedAt": "2026-04-25T12:17:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel dragged US into war against Iran, State Department confirms",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260425-presstv10.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-25T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Four killed in latest Israeli strikes on south Lebanon despite ceasefire",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260425-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-25T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US blockade of Iranian ports 'collective punishment' of civilians: Top rights body",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260425-presstv07.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-25T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Behnam Ben Taleblu: Russia-Iran Partnership Is 'Reshaping Modern Warfare'",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260425-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-25T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ceasefire in Name Only: IDF Strikes Lebanon After 200+ Violations",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260425-sputnik02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-25T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli airstrikes in southern Lebanon kill 4 civilians, breach ceasefire",
-      "url": "https://cryptobriefing.com/israeli-airstrikes-in-southern-lebanon-kill-4-civilians-breach-ceasefire/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-25T11:54:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Russian strikes kill six across Ukraine",
@@ -95,40 +191,8 @@
       "url": "https://www.nakedcapitalism.com/2026/04/links-4-25-2026.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-04-25T10:55:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran War: Waiting Is the Hardest Part, Back to Pakistan, USraeli Attack Incoming?",
-      "url": "https://www.nakedcapitalism.com/2026/04/iran-war-negotiations-pakistan-kushner-witkoff-aragachi-attack.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-04-25T10:54:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump has paused 3 Mideast wars, but the grievances remain and could reignite them",
-      "url": "https://abcnews.com/International/wireStory/trump-paused-3-mideast-wars-grievances-remain-reignite-132372433",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-25T10:20:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US envoys head to Pakistan for Iran war talks",
-      "url": "https://www.channelnewsasia.com/world/us-pakistan-iran-envoys-war-talks-steve-witkoff-jared-kushner-6080716",
-      "source": "CNA",
-      "publishedAt": "2026-04-25T10:17:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Ceasefire in Name Only: IDF Strikes Lebanon After 200+ Violations",
-      "url": "https://sputnikglobe.com/20260425/ceasefire-in-name-only-idf-strikes-lebanon-after-200-violations-1124038992.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-04-25T09:44:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Japan sheds pacifism as global order begins to fracture",
@@ -137,30 +201,6 @@
       "publishedAt": "2026-04-25T09:30:57Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump has paused 3 Mideast wars, but grievances remain and could reignite them",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-has-paused-3-mideast-wars-but-grievances-remain-and-could-reignite-them/articleshow/130511459.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-25T08:59:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "White House sending envoys to Islamabad as US and Iran tiptoe towards diplomacy",
-      "url": "https://www.independent.ie/world-news/white-house-sending-envoys-to-islamabad-as-us-and-iran-tiptoe-towards-diplomacy/a882763531.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-25T08:30:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Here’s why nobody might win the West Asia war",
-      "url": "https://www.thehindubusinessline.com/news/world/heres-why-nobody-might-win-the-west-asia-war/article70904530.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-04-25T06:31:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "RAF jets on NATO patrol shoot down Russia drones in Ukraine as Putin's forces attack ports",
@@ -183,22 +223,6 @@
       "url": "https://freerepublic.com/focus/f-bloggers/4376340/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-04-25T04:03:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The ‘housewives’ did well — Ukraine takes drone know-how abroad",
-      "url": "https://www.digitaljournal.com/world/the-housewives-did-well-ukraine-takes-drone-know-how-abroad/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-24T19:37:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "EU/NATO Coaltion Demands Return of “Stolen Ukrainian Children Taken by Russia”. Massive Child Trafficking from NATO-occupied Ukraine.",
-      "url": "https://www.globalresearch.ca/eunato-coaltion-demands-return-of-stolen-ukrainian-children-taken-by-russia-massive-child-trafficking-from-nato-occupied-ukraine/5923759",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-24T17:01:33Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

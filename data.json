@@ -1,38 +1,142 @@
 {
-  "updated": "2026-04-25T18:51:58Z",
-  "count": 35,
+  "updated": "2026-04-26T02:38:57Z",
+  "count": 29,
   "articles": [
     {
-      "title": "Ian's foreign minister arrives in Pakistan, raising hopes for US peace talks",
-      "url": "https://www.independent.ie/world-news/middle-east/ians-foreign-minister-arrives-in-pakistan-raising-hopes-for-us-peace-talks/a64351883.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-24T18:48:36Z",
+      "title": "Iran war justified by Tehran's 'aggression' over decades, US legal adviser says",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-legal-adviser-says-iran-war-justified-by-tehrans-aggression-over-decades/articleshow/130506770.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-25T02:35:12Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran’s foreign minister arrives in Pakistan, raising hopes for US peace talks",
-      "url": "https://www.independent.ie/world-news/middle-east/irans-foreign-minister-arrives-in-pakistan-raising-hopes-for-us-peace-talks/a64351883.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-24T18:48:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli attacks on Lebanon may violate international law, UN warns",
-      "url": "https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-24T18:24:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What Hormuz Whiplash Means For Markets",
-      "url": "https://www.forbes.com/sites/arielcohen/2026/04/24/what-hormuz-whiplash-means-for-markets/",
-      "source": "Forbes",
-      "publishedAt": "2026-04-24T17:08:21Z",
+      "title": "Israel and Hezbollah exchange strikes despite ceasefire extension with Lebanon",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-and-hezbollah-exchange-strikes-despite-ceasefire-extension-with-lebanon/articleshow/130506441.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-25T00:55:56Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "Inside the gilded cage of MRS Kinahan: As her gangster husband Daniel languishes in jail, friends reveal ruthless 'Queen of the Molls' is living in fear in her luxury Dubai palace, longing for the Dublin council estate she left behind",
+      "url": "https://www.dailymail.com/crime-desk/article-15763341/gilded-cage-Kinahan-gangster-husband-Daniel-jail-fear-Dubai.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-04-25T00:14:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hopes for progress as Iran delegation arrives in Pakistan",
+      "url": "https://www.rte.ie/news/middle-east/2026/0425/1570114-middle-east/",
+      "source": "RTE",
+      "publishedAt": "2026-04-24T23:58:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US hopes for progress as delegations arrive in Pakistan",
+      "url": "https://www.rte.ie/news/middle-east/2026/0424/1570114-us-hopes-for-progress-as-delegations-arrive-in-pakistan/",
+      "source": "RTE",
+      "publishedAt": "2026-04-24T22:58:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Southern Lebanon weighs losses from Israeli strikes as ceasefire hangs by a thread",
+      "url": "https://www.pbs.org/newshour/show/southern-lebanon-weighs-losses-from-israeli-strikes-as-ceasefire-hangs-by-a-thread",
+      "source": "PBS",
+      "publishedAt": "2026-04-24T22:40:28Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Report Details Health Condition of Iran’s New Supreme Leader, Citing Confidential Sources",
+      "url": "https://www.shtfplan.com/headline-news/report-details-health-condition-of-irans-new-supreme-leader-citing-confidential-sources",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-04-24T22:30:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
+      "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-24T21:42:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S. Floats Punishing NATO Members for Refusing to Join Iran War",
+      "url": "http://foreignpolicy.com/2026/04/24/us-pentagon-email-nato-spain-uk-falkland-islands-iran/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-04-24T21:23:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "1.2M Lebanese displaced amid Israel-Hezbollah conflict, ceasefire uncertain",
+      "url": "https://cryptobriefing.com/12m-lebanese-displaced-amid-israel-hezbollah-conflict-ceasefire-uncertain/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-24T21:03:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel continues attacks on Lebanon despite extension of ceasefire",
+      "url": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-24T20:46:38Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Alan Dershowitz, Joe Kent Duke It Out Over Israeli Influence On US",
+      "url": "https://dailycaller.com/2026/04/24/alan-dershowitz-joe-kent-israel-us-iran-war/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-04-24T20:37:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The ‘housewives’ did well — Ukraine takes drone know-how abroad",
+      "url": "https://www.digitaljournal.com/world/the-housewives-did-well-ukraine-takes-drone-know-how-abroad/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-24T19:37:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Talks between US and Iran set to resume in Pakistan",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/24/talks-between-us-and-iran-set-to-resume-in-pakistan/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-24T19:17:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Envoys from Iran, US expected in Pakistan for new talks",
+      "url": "https://www.hurriyetdailynews.com/envoys-from-iran-us-expected-in-pakistan-for-new-talks-221454",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-24T19:16:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "JD Vance sidelined for Iran peace talks as Trump sends Jared Kushner and Steve Witkoff to Pakistan",
+      "url": "https://www.dailymail.com/news/article-15763309/JD-Vance-sidelined-Iran-peace-talks-Trump-sends-Jared-Kushner-Steve-Witkoff-Pakistan.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-04-24T19:03:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel's killing of journalists in Lebanon highlights the impunity with which it acts",
+      "url": "https://www.abc.net.au/news/2026-04-25/israel-journalists-killed-lebanon-gaza/106582644",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-24T19:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "EU/NATO Coaltion Demands Return of “Stolen Ukrainian Children Taken by Russia”. Massive Child Trafficking from NATO-occupied Ukraine.",
@@ -43,92 +147,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "IDF strikes Hezbollah targets in southern Lebanon; Netanyahu: Group trying to derail talks",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-04-24/ty-article/.premium/idf-strikes-hezbollah-in-south-lebanon-netanyahu-group-trying-to-derail-talks/0000019d-bfa8-dc71-a3fd-bffae8bf0000",
-      "source": "Haaretz",
-      "publishedAt": "2026-04-24T16:45:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hegseth Says US Military Should Win Nobel Peace Prize “Every Single Year”",
-      "url": "https://truthout.org/articles/hegseth-says-us-military-should-win-nobel-peace-prize-every-single-year/",
-      "source": "Truthout",
-      "publishedAt": "2026-04-24T16:44:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "How Project Maven taught the military to love AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
       "source": "The Verge",
       "publishedAt": "2026-04-24T16:42:02Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "UN flags potential law breaches in Israeli-Lebanon conflict, ceasefire in doubt",
-      "url": "https://cryptobriefing.com/un-flags-potential-law-breaches-in-israeli-lebanon-conflict-ceasefire-in-doubt/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-24T16:36:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IAF strikes Hezbollah in Lebanon after missile attack on Shlomi",
-      "url": "https://cryptobriefing.com/iaf-strikes-hezbollah-in-lebanon-after-missile-attack-on-shlomi/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-24T16:16:42Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu asserts freedom to act against Hezbollah, complicates ceasefire hopes",
-      "url": "https://cryptobriefing.com/netanyahu-asserts-freedom-to-act-against-hezbollah-complicates-ceasefire-hopes/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-24T16:02:57Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US freezes $344 million in cryptocurrency said to be linked to Iran | CNN Politics",
-      "url": "https://www.cnn.com/2026/04/24/politics/us-freezes-cryptocurrency-iran",
-      "source": "CNN",
-      "publishedAt": "2026-04-24T16:00:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "After One Strike, She Took Cover. The Next Hit Her Shelter",
-      "url": "https://www.newser.com/story/387905/israel-accused-of-war-crimes-in-journalists-death.html",
-      "source": "Newser",
-      "publishedAt": "2026-04-24T15:40:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "TMZ Reporter Asks Pete Hegseth If He Gets ‘Adrenaline Rush’ When Ordering Military Strikes",
-      "url": "https://dailycaller.com/2026/04/24/tmz-pete-hegseth-military-strikes-iran-adrenaline-rush/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-04-24T15:20:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "2 killed in Israeli strike on south Lebanon despite ceasefire, health officials say",
-      "url": "https://www.cbc.ca/news/world/south-lebanon-fighting-strike-israel-hezbollah-9.7175997",
-      "source": "CBC News",
-      "publishedAt": "2026-04-24T15:11:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different",
-      "url": "https://www.aljazeera.com/news/2026/4/24/iran-iraq-tanker-war-redux-why-the-strait-of-hormuz-crisis-is-different",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-24T15:00:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "World leaders forge unprecedented alliance without Trump amid his unilateral Iran war",
@@ -153,30 +177,6 @@
       "publishedAt": "2026-04-24T14:19:56Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "“Make Iran Ungovernable” – Tracking Efforts To Destroy Iran’s Police Infrastructure",
-      "url": "https://www.bellingcat.com/news/2026/04/24/make-iran-ungovernable-tracking-efforts-to-destroy-irans-police-infrastructure/",
-      "source": "Bellingcat.com",
-      "publishedAt": "2026-04-24T14:16:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "I Hope The US Loses And The Empire Collapses, And Other Notes",
-      "url": "https://www.activistpost.com/i-hope-the-us-loses-and-the-empire-collapses-and-other-notes/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-04-24T14:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "FO Talks: The Iran War Has No Clear Endgame",
-      "url": "https://www.fairobserver.com/world-news/fo-talks-the-iran-war-has-no-clear-endgame/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-04-24T13:42:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "In Baltic skies, NATO and Russian pilots size each other up warily but without a tilt into war",
@@ -219,14 +219,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Maritime Law and US Naval Power Under Stress Even Before Strait of Hormuz Standoff",
-      "url": "https://www.nakedcapitalism.com/2026/04/maritime-law-and-us-naval-power-under-stress-even-before-strait-of-hormuz-standoff.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-04-24T06:54:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "South Korea prosecutors seek 30 years for Yoon over drone flights into North",
       "url": "https://www.channelnewsasia.com/east-asia/south-korea-prosecutors-30-years-yoon-suk-yeol-drone-flights-north-6078166",
       "source": "CNA",
@@ -239,46 +231,6 @@
       "url": "https://original.antiwar.com/ted_galen_carpenter/2026/04/23/has-iran-learned-the-north-korea-lesson-nukes-are-essential-to-deter-the-us/",
       "source": "Antiwar.com",
       "publishedAt": "2026-04-24T00:00:38Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Why China is recruiting fishermen to 'maintain presence' — not to fish",
-      "url": "https://www.abc.net.au/news/2026-04-24/south-china-sea-state-funded-fishing-boat-militia/106570054",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-23T18:55:41Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "The Art of Failure",
-      "url": "https://www.activistpost.com/the-art-of-failure/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-04-23T16:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Turkey’s nuclear program will not end with Iran’s defeat",
-      "url": "https://www.israelnationalnews.com/news/425980",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-23T13:22:05Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "We finally have the upper hand with Iran. Here's how not to squander it.",
-      "url": "https://www.israelnationalnews.com/news/425965",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-23T10:49:34Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Seeing the Cyber in Economic Statecraft",
-      "url": "https://warontherocks.com/seeing-the-cyber-in-economic-statecraft/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-04-23T08:00:45Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

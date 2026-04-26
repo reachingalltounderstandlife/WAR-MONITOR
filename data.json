@@ -1,22 +1,158 @@
 {
-  "updated": "2026-04-26T07:27:33Z",
+  "updated": "2026-04-26T13:04:22Z",
   "count": 30,
   "articles": [
     {
-      "title": "Israeli strikes in Lebanon kill six, ceasefire odds remain unchanged",
-      "url": "https://cryptobriefing.com/israeli-strikes-in-lebanon-kill-six-ceasefire-odds-remain-unchanged/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-25T07:08:57Z",
+      "title": "Four killed in Israeli strikes on south Lebanon",
+      "url": "https://punchng.com/four-killed-in-israeli-strikes-on-south-lebanon/",
+      "source": "The Punch",
+      "publishedAt": "2026-04-25T13:00:38Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "US envoys heading to Pakistan for uncertain Iran talks",
-      "url": "https://www.hurriyetdailynews.com/us-envoys-heading-to-pakistan-for-uncertain-iran-talks-221460",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-04-25T06:54:18Z",
+      "title": "Russian attack on Ukrainian apartment block kills seven, injures dozens",
+      "url": "https://www.abc.net.au/news/2026-04-25/russian-attack-ukrain-dnipro-apartment-block/106606822",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-25T12:17:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel dragged US into war against Iran, State Department confirms",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260425-presstv10.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-25T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Four killed in latest Israeli strikes on south Lebanon despite ceasefire",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260425-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-25T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US blockade of Iranian ports 'collective punishment' of civilians: Top rights body",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260425-presstv07.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-25T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Behnam Ben Taleblu: Russia-Iran Partnership Is 'Reshaping Modern Warfare'",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260425-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-25T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ceasefire in Name Only: IDF Strikes Lebanon After 200+ Violations",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260425-sputnik02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-25T12:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli airstrikes in southern Lebanon kill 4 civilians, breach ceasefire",
+      "url": "https://cryptobriefing.com/israeli-airstrikes-in-southern-lebanon-kill-4-civilians-breach-ceasefire/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-25T11:54:30Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Russian strikes kill six across Ukraine",
+      "url": "https://www.digitaljournal.com/world/russian-strikes-kill-six-across-ukraine/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-25T11:47:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korean IT workers are stealing remote jobs and raking in billions—and Americans are helping them do it",
+      "url": "https://www.yahoo.com/news/articles/north-korean-workers-stealing-remote-110200705.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-25T11:02:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korean IT workers are stealing remote jobs and raking in billions—and Americans are helping them do it",
+      "url": "https://fortune.com/2026/04/25/north-korean-it-worker-scheme-american-faciliators/",
+      "source": "Fortune",
+      "publishedAt": "2026-04-25T11:02:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Links 4/25/2026",
+      "url": "https://www.nakedcapitalism.com/2026/04/links-4-25-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-04-25T10:55:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: Waiting Is the Hardest Part, Back to Pakistan, USraeli Attack Incoming?",
+      "url": "https://www.nakedcapitalism.com/2026/04/iran-war-negotiations-pakistan-kushner-witkoff-aragachi-attack.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-04-25T10:54:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump has paused 3 Mideast wars, but the grievances remain and could reignite them",
+      "url": "https://abcnews.com/International/wireStory/trump-paused-3-mideast-wars-grievances-remain-reignite-132372433",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-25T10:20:40Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US envoys head to Pakistan for Iran war talks",
+      "url": "https://www.channelnewsasia.com/world/us-pakistan-iran-envoys-war-talks-steve-witkoff-jared-kushner-6080716",
+      "source": "CNA",
+      "publishedAt": "2026-04-25T10:17:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Ceasefire in Name Only: IDF Strikes Lebanon After 200+ Violations",
+      "url": "https://sputnikglobe.com/20260425/ceasefire-in-name-only-idf-strikes-lebanon-after-200-violations-1124038992.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-25T09:44:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Japan sheds pacifism as global order begins to fracture",
+      "url": "https://www.livemint.com/opinion/japan-defence-exports-post-war-pacifism-china-rise-xi-jinping-deng-xiaoping-us-reliability-west-asia-war-11777092820784.html",
+      "source": "Livemint",
+      "publishedAt": "2026-04-25T09:30:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump has paused 3 Mideast wars, but grievances remain and could reignite them",
+      "url": "https://economictimes.indiatimes.com/news/defence/trump-has-paused-3-mideast-wars-but-grievances-remain-and-could-reignite-them/articleshow/130511459.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-25T08:59:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "White House sending envoys to Islamabad as US and Iran tiptoe towards diplomacy",
+      "url": "https://www.independent.ie/world-news/white-house-sending-envoys-to-islamabad-as-us-and-iran-tiptoe-towards-diplomacy/a882763531.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-25T08:30:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "Here’s why nobody might win the West Asia war",
@@ -35,44 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "War in the Middle East: latest developments",
-      "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-57/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-25T06:12:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel Prepared for Renewed Iran Conflict, Awaiting U.S. Approval, Defense Minister Says",
-      "url": "https://www.naturalnews.com/2026-04-25-katz-israel-prepared-for-renewed-iran-conflict.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-25T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US envoys head to Pakistan for uncertain Iran talks amid fragile ceasefire",
-      "url": "https://english.khabarhub.com/2026/25/545706/",
-      "source": "Khabarhub.com",
-      "publishedAt": "2026-04-25T05:45:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Chernobyl 2.0: Here’s where nuclear disaster could happen next",
       "url": "https://www.rt.com/news/639024-chernobyl-lessons-nuclear-safety/",
       "source": "RT",
       "publishedAt": "2026-04-25T05:00:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Gold gains but heads for first weekly loss in five weeks",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-gains-but-heads-for-first-weekly-loss-in-five-weeks/articleshow/130508224.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-25T04:39:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "News Summary-Intelligence Report 4/24/2026*Newsdump Friday*Ukraine War*Iran FM Pakistan*Polish PM Suggests Russian Attack Months*Argentina Proposes UK Falklands Talks*DOJ Drops Powell Probe* India Objects Trump Repost*Opposition Leads Israel Poll*",
@@ -81,86 +185,6 @@
       "publishedAt": "2026-04-25T04:03:03Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Another win for world and United States: White House on Israel, Lebanon ceasefire extension",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/another-win-for-world-and-united-states-white-house-on-israel-lebanon-ceasefire-extension/articleshow/130507580.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-25T03:48:05Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Kuwait says drones coming from Iraq target border posts",
-      "url": "https://economictimes.indiatimes.com/news/defence/kuwait-says-drones-coming-from-iraq-target-border-posts/articleshow/130507128.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-25T03:26:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war justified by Tehran's 'aggression' over decades, US legal adviser says",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-legal-adviser-says-iran-war-justified-by-tehrans-aggression-over-decades/articleshow/130506770.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-25T02:35:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel and Hezbollah exchange strikes despite ceasefire extension with Lebanon",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-and-hezbollah-exchange-strikes-despite-ceasefire-extension-with-lebanon/articleshow/130506441.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-25T00:55:56Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Inside the gilded cage of MRS Kinahan: As her gangster husband Daniel languishes in jail, friends reveal ruthless 'Queen of the Molls' is living in fear in her luxury Dubai palace, longing for the Dublin council estate she left behind",
-      "url": "https://www.dailymail.com/crime-desk/article-15763341/gilded-cage-Kinahan-gangster-husband-Daniel-jail-fear-Dubai.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-04-25T00:14:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hopes for progress as Iran delegation arrives in Pakistan",
-      "url": "https://www.rte.ie/news/middle-east/2026/0425/1570114-middle-east/",
-      "source": "RTE",
-      "publishedAt": "2026-04-24T23:58:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US hopes for progress as delegations arrive in Pakistan",
-      "url": "https://www.rte.ie/news/middle-east/2026/0424/1570114-us-hopes-for-progress-as-delegations-arrive-in-pakistan/",
-      "source": "RTE",
-      "publishedAt": "2026-04-24T22:58:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Southern Lebanon weighs losses from Israeli strikes as ceasefire hangs by a thread",
-      "url": "https://www.pbs.org/newshour/show/southern-lebanon-weighs-losses-from-israeli-strikes-as-ceasefire-hangs-by-a-thread",
-      "source": "PBS",
-      "publishedAt": "2026-04-24T22:40:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Report Details Health Condition of Iran’s New Supreme Leader, Citing Confidential Sources",
-      "url": "https://www.shtfplan.com/headline-news/report-details-health-condition-of-irans-new-supreme-leader-citing-confidential-sources",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-04-24T22:30:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. Floats Punishing NATO Members for Refusing to Join Iran War",
-      "url": "http://foreignpolicy.com/2026/04/24/us-pentagon-email-nato-spain-uk-falkland-islands-iran/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-24T21:23:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "The ‘housewives’ did well — Ukraine takes drone know-how abroad",
@@ -179,22 +203,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "How Project Maven taught the military to love AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-      "source": "The Verge",
-      "publishedAt": "2026-04-24T16:42:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "World leaders forge unprecedented alliance without Trump amid his unilateral Iran war",
-      "url": "https://www.rawstory.com/how-the-war-in-iran-has-brought-european-countries-closer-together-without-trump/",
-      "source": "Raw Story",
-      "publishedAt": "2026-04-24T14:29:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Papal Politics, Past and Present",
       "url": "http://foreignpolicy.com/2026/04/24/pope-leo-iran-war-trump-vance-catholic-church-peace/",
       "source": "Foreign Policy",
@@ -207,24 +215,16 @@
       "url": "https://www.globalresearch.ca/france-poland-discuss-joint-nuclear-exercises/5923641",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-04-24T14:19:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
-      "title": "In Baltic skies, NATO and Russian pilots size each other up warily but without a tilt into war",
-      "url": "https://abcnews.com/International/wireStory/baltic-skies-nato-russian-pilots-size-warily-tilt-132337721",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-24T11:25:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Links 4/24/2026",
-      "url": "https://www.nakedcapitalism.com/2026/04/links-4-24-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-04-24T10:55:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "title": "Rising nuclear risks put global security pact to the test at UN Headquarters",
+      "url": "https://www.globalsecurity.org/wmd/library/news/un/un-260424-unnews01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-24T12:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "South Korea prosecutors seek 30 years for Yoon over drone flights into North",

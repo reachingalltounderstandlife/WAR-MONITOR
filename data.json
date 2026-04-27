@@ -1,7 +1,71 @@
 {
-  "updated": "2026-04-27T02:41:02Z",
-  "count": 29,
+  "updated": "2026-04-27T08:23:15Z",
+  "count": 25,
   "articles": [
+    {
+      "title": "Trump cancels Pakistan talks trip, says Iran war on hold",
+      "url": "https://punchng.com/trump-cancels-pakistan-talks-trip-says-iran-war-on-hold/",
+      "source": "The Punch",
+      "publishedAt": "2026-04-26T08:00:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran Peace Talks Stall as Conflict Approaches Two-Month Mark",
+      "url": "https://financialpost.com/pmn/business-pmn/us-iran-peace-talks-stall-as-conflict-approaches-two-month-mark",
+      "source": "Financial Post",
+      "publishedAt": "2026-04-26T06:59:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes kill 6 in Lebanon despite ceasefire",
+      "url": "https://www.hurriyetdailynews.com/israeli-strikes-kill-6-in-lebanon-despite-ceasefire-221474",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-26T06:54:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Russia Urges U.S. and Iran to Forge Final Agreement Following Ceasefire Extension",
+      "url": "https://www.naturalnews.com/2026-04-26-russia-urges-us-iran-forge-final-agreement.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-26T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel launches new strike in Lebanon's Khiam, Yohmor al-Shaqif amid ceasefire extension",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-launches-new-strike-in-lebanons-khiam-yohmor-al-shaqif-amid-ceasefire-extension/articleshow/130526968.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-26T05:48:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Decades-Old Iranian Jet Breached US Defenses, Struck Gulf Base in Early Phase of War — Reports",
+      "url": "https://sputnikglobe.com/20260426/decades-old-iranian-jet-breached-us-defenses-struck-gulf-base-in-early-phase-of-war--reports-1124041823.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-04-26T05:08:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NGOs Cosplaying at Overlords and Power Brokers",
+      "url": "https://www.americanthinker.com/articles/2026/04/ngos_cosplaying_at_overlords_and_power_brokers.html",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-04-26T04:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Michael Goodwin: Trump and Netanyahu have a shared goal for Iran — but the media pits them against each other",
+      "url": "https://nypost.com/2026/04/25/opinion/michael-goodwin-trump-and-netanyahu-have-a-shared-goal-for-iran-but-the-media-pits-them-against-each-other/",
+      "source": "New York Post",
+      "publishedAt": "2026-04-26T03:41:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "“The EU has gone mad – it must be stopped,” says Sergey Karaganov",
       "url": "https://www.rt.com/news/639064-eu-has-gone-mad/",
@@ -23,22 +87,6 @@
       "url": "https://nypost.com/2026/04/25/world-news/netanyahu-calls-for-idf-to-strike-hezbollah-targets-with-force-after-terrorist-group-repeatedly-attacks-israel/",
       "source": "New York Post",
       "publishedAt": "2026-04-25T23:26:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF strikes Al-Khaiam amid ongoing clashes with Hezbollah in southern Lebanon",
-      "url": "https://cryptobriefing.com/idf-strikes-al-khaiam-amid-ongoing-clashes-with-hezbollah-in-southern-lebanon/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-25T23:10:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel strikes Hezbollah targets, straining fragile ceasefire in Lebanon",
-      "url": "https://cryptobriefing.com/israel-strikes-hezbollah-targets-straining-fragile-ceasefire-in-lebanon/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-25T22:50:44Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -67,44 +115,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israel says it will attack Hezbollah 'forcefully' as four killed in strikes on southern Lebanon",
-      "url": "https://japantoday.com/category/world/israel-says-it-will-attack-hezbollah-%27forcefully%27-as-four-killed-in-strikes-on-southern-lebanon",
-      "source": "Japan Today",
-      "publishedAt": "2026-04-25T21:09:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Who is in-charge in Iran, and will Trump get any call from Tehran? Talks collapse after cancelled Islamabad visit",
       "url": "https://economictimes.indiatimes.com/news/international/us/who-is-in-charge-in-iran-and-will-trump-get-any-call-from-tehran-talks-collapse-after-cancelled-islamabad-visit/articleshow/130522780.cms",
       "source": "The Times of India",
       "publishedAt": "2026-04-25T20:50:36Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "IDF strikes Hezbollah terror infrastructure in southern Lebanon",
-      "url": "https://www.israelnationalnews.com/flashes/684069",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-25T20:18:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Talks stumble as Iran's top diplomat leaves Pakistan and Trump says he told envoys not to go",
-      "url": "https://toronto.citynews.ca/2026/04/25/talks-stumble-as-irans-top-diplomat-leaves-pakistan-and-trump-says-he-told-envoys-not-to-go/",
-      "source": "Citynews.ca",
-      "publishedAt": "2026-04-25T19:42:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel says it will attack Hezbollah 'forcefully' as four killed in strikes on southern Lebanon",
-      "url": "https://www.channelnewsasia.com/world/israel-says-it-will-attack-hezbollah-forcefully-four-killed-in-strikes-southern-lebanon-6080986",
-      "source": "CNA",
-      "publishedAt": "2026-04-25T19:29:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Think we're losing the war in Iran? Consider where things really stand",
@@ -121,54 +137,6 @@
       "publishedAt": "2026-04-25T18:50:40Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel says it will attack Hezbollah 'forcefully'",
-      "url": "https://www.rte.ie/news/world/2026/0425/1570208-israel-hezbollah-lebanon/",
-      "source": "RTE",
-      "publishedAt": "2026-04-25T18:37:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump cancels envoys’ Pakistan trip for peace talks with Iran",
-      "url": "https://punchng.com/trump-cancels-envoys-pakistan-trip-for-peace-talks-with-iran/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-25T17:54:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump cancels envoys’ Pakistan trip, but war not resuming",
-      "url": "https://www.vanguardngr.com/2026/04/trump-cancels-envoys-pakistan-trip-but-war-not-resuming/",
-      "source": "Vanguard",
-      "publishedAt": "2026-04-25T17:51:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran warns US maritime actions risk decisive military response",
-      "url": "https://cryptobriefing.com/iran-warns-us-maritime-actions-risk-decisive-military-response/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-25T16:57:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Donald Trump tells envoys not to travel to Pakistan for further Iran talks",
-      "url": "https://www.independent.ie/world-news/donald-trump-tells-envoys-not-to-travel-to-pakistan-for-further-iran-talks/a882763531.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-25T16:50:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran-US latest update: War to erupt again? Donald Trump says he canceled envoys trip to Pakistan talks, Tehran rejects Washington demands",
-      "url": "https://economictimes.indiatimes.com/news/international/us/iran-us-latest-update-war-to-erupt-again-donald-trump-says-he-canceled-envoys-trip-to-pakistan-talks-tehran-rejects-washington-demands/articleshow/130518686.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-25T16:20:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Macron laments that US is not a reliable partner",

@@ -1,30 +1,198 @@
 {
-  "updated": "2026-04-27T13:50:42Z",
-  "count": 26,
+  "updated": "2026-04-27T19:19:57Z",
+  "count": 34,
   "articles": [
     {
-      "title": "Israel PM says Hezbollah 'dismantling' Lebanon ceasefire",
-      "url": "https://www.rte.ie/news/2026/0426/1570292-israel-hezbollah-lebanon/",
-      "source": "RTE",
-      "publishedAt": "2026-04-26T13:42:18Z",
+      "title": "How Carney's Davos speech holds up 3 months later",
+      "url": "https://www.cbc.ca/news/politics/carney-davos-speech-iran-9.7177222",
+      "source": "CBC News",
+      "publishedAt": "2026-04-26T19:17:21Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "What lies ahead for Gaza after ceasefires in Iran and Lebanon?",
-      "url": "https://www.aljazeera.com/news/2026/4/26/what-lies-ahead-for-gaza-after-ceasefires-in-iran-and-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-26T13:20:08Z",
+      "title": "William Astore on The Bloody Awful Waste of War",
+      "url": "https://www.antiwar.com/blog/2026/04/26/william-astore-on-the-bloody-awful-waste-of-war/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-04-26T19:07:01Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "War in the Middle East: latest developments",
-      "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-58/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-26T12:52:20Z",
+      "title": "Zelensky marks 40th anniversary of Chernobyl disaster with warning on Russian strikes near infamous nuclear plant",
+      "url": "https://nypost.com/2026/04/26/world-news/zelensky-marks-40th-anniversary-of-chernobyl-disaster-with-warning-on-russian-strikes-near-infamous-nuclear-plant/",
+      "source": "New York Post",
+      "publishedAt": "2026-04-26T18:54:58Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "At least 16 dead in strikes across Ukraine and Russia on Chernobyl anniversary",
+      "url": "https://www.cbsnews.com/news/ukraine-russian-attacks-chernobyl-anniversary/",
+      "source": "CBS News",
+      "publishedAt": "2026-04-26T18:48:42Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Strikes kill at least 16 as Chernobyl anniversary highlights nuclear risks of Russia-Ukraine war",
+      "url": "https://www.pbs.org/newshour/world/strikes-kill-at-least-16-as-chernobyl-anniversary-highlights-nuclear-risks-of-russia-ukraine-war",
+      "source": "PBS",
+      "publishedAt": "2026-04-26T18:07:41Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Strikes in Ukraine and Russia kill at least 16 on Chernobyl's 40th anniversary",
+      "url": "https://www.pbs.org/newshour/world/strikes-in-ukraine-and-russia-kill-at-least-16-on-chernobyls-40th-anniversary",
+      "source": "PBS",
+      "publishedAt": "2026-04-26T18:07:41Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Sixteen dead in strikes as Ukraine marks 40 years since Chernobyl",
+      "url": "https://www.abc.net.au/news/2026-04-27/ukraine-chernobyl-40-years-russia-war-invasion/106609718",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-26T17:58:12Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "An interview with Rabbi Dov Lior: Today’s greatest mitzvah",
+      "url": "https://www.israelnationalnews.com/news/426110",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-26T17:56:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel issues evacuation warning for seven Lebanese towns beyond 'buffer zone' after soldier killed - Reuters",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=182953936",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-26T17:52:41Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump calls off Iran peace talks, claiming ‘we have all the cards, they have none’",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/26/trump-calls-off-iran-peace-talks-claiming-we-have-all-the-cards-they-have-none/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-26T17:06:10Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Liberation From War. Manlio Dinucci",
+      "url": "https://www.globalresearch.ca/liberation-from-war/5923870",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-26T16:51:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Iran can call if it wants to talk, as Iranian envoy returns to Pakistan",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-iran-can-call-if-it-wants-to-talk-as-iranian-envoy-returns-to-pakistan/articleshow/130535734.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-26T16:48:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Donald Trump Goes to War. Using America’s Sons and Daughters to Devastate the World",
+      "url": "https://www.globalresearch.ca/donald-trump-goes-war-using-america-sons-daughters/5923873",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-26T16:34:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "European ‘propaganda’ using Russia as ‘external enemy’ to mask crises – Kremlin",
+      "url": "https://www.rt.com/russia/639119-kremlin-european-propaganda-ukraine/",
+      "source": "RT",
+      "publishedAt": "2026-04-26T16:15:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran's top diplomat returns to Pakistan as Islamabad races to save negotiations with US",
+      "url": "https://abcnews.com/International/wireStory/irans-top-diplomat-returns-pakistan-islamabad-races-save-132393186",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-26T15:53:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US missile depletion impacts Taiwan defense strategy amid China tensions",
+      "url": "https://cryptobriefing.com/us-missile-depletion-impacts-taiwan-defense-strategy-amid-china-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-26T15:50:03Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Iran minister returns to Pakistan despite US talks cancellation",
+      "url": "https://www.vanguardngr.com/2026/04/iran-minister-returns-to-pakistan-despite-us-talks-cancellation/",
+      "source": "Vanguard",
+      "publishedAt": "2026-04-26T15:09:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli Army strikes Hezbollah targets in Lebanon amid ceasefire speculation",
+      "url": "https://cryptobriefing.com/israeli-army-strikes-hezbollah-targets-in-lebanon-amid-ceasefire-speculation/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-26T14:58:58Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "UPSC Essentials daily subject quiz : International Relations MCQs (Week 159) — Check out answers with explanations",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-quiz-international-relations-week-159-five-eyes-alliance-yellow-line-10657036/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-04-26T14:53:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘I’m burning’: Lebanese reporter recounts colleague’s last words after Israeli strike",
+      "url": "https://www.rt.com/news/639110-lebanese-reporter-israeli-attack/",
+      "source": "RT",
+      "publishedAt": "2026-04-26T14:48:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran minister expected back in Pakistan despite US cancellation",
+      "url": "https://timesofmalta.com/article/iran-minister-expected-back-pakistan-despite-us-cancellation.1127521",
+      "source": "Times of Malta",
+      "publishedAt": "2026-04-26T14:39:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran’s foreign minister returns to Pakistan as Islamabad races to save U.S. ceasefire talks while Tehran seeks Hormuz toll with Oman",
+      "url": "https://fortune.com/2026/04/26/iran-foreign-minister-pakistan-us-ceasefire-strait-of-hormuz-toll-oman/",
+      "source": "Fortune",
+      "publishedAt": "2026-04-26T14:37:48Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Pakistan races to save negotiations between US and Iran",
+      "url": "https://economictimes.indiatimes.com/news/defence/pakistan-races-to-save-negotiations-between-us-and-iran/articleshow/130533780.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-26T14:36:37Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Russia, North Korea agree 'long-term' military cooperation",
+      "url": "https://economictimes.indiatimes.com/news/defence/russia-north-korea-agree-long-term-military-cooperation/articleshow/130533475.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-26T14:23:59Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Will Moscow Retaliate? Counterattack against EU Nation States Which Allow Ukrainian Drones to Use Their Airspace to Target Russia?",
@@ -35,84 +203,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Report: Israel sent Iron Dome system and troops to UAE during Iran war",
-      "url": "https://www.israelnationalnews.com/news/426097",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-26T12:32:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "A startup with a bankrupt fintech CEO and a president’s son wants to build America’s robot army",
       "url": "https://thenextweb.com/news/foundation-humanoid-robot-soldiers-pentagon/",
       "source": "The Next Web",
       "publishedAt": "2026-04-26T12:27:08Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel PM says Hezbollah 'dismantling' ceasefire with Lebanon",
-      "url": "https://economictimes.indiatimes.com/news/defence/israel-pm-netanyahu-warns-hezbollah-actions-threaten-lebanon-ceasefire-vows-strong-response/articleshow/130531636.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-26T12:17:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel PM says Hezbollah 'dismantling' ceasefire with Lebanon",
-      "url": "https://www.channelnewsasia.com/world/israel-lebanon-ceasefire-hezbollah-benjamin-netanyahu-6082041",
-      "source": "CNA",
-      "publishedAt": "2026-04-26T12:15:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel intercepts drones, strikes southern Lebanon amid ceasefire uncertainty",
-      "url": "https://cryptobriefing.com/israel-intercepts-drones-strikes-southern-lebanon-amid-ceasefire-uncertainty/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-26T12:05:57Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "'Unbreakable unity': IRGC Quds Force chief vows continued support for Hezbollah",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260426-presstv02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-26T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel secretly deployed Iron Dome to UAE amid Iran's reprisal strikes: Report",
-      "url": "https://www.globalsecurity.org/wmd/library/news/israel/2026/04/israel-260426-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-26T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanese Authorities Say At Least 14 Killed In Israeli Air Strikes",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260426-rferl04.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-26T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "April 26: Iran ramps up regional diplomacy as embattled Trump looks for off-ramp",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260426-presstv02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-26T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel Urges Residents In Southern Lebanon To Evacuate",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260426-rferl05.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-26T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "“The EU has gone mad – it must be stopped,” says Sergey Karaganov",
@@ -155,30 +251,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Macron laments that US is not a reliable partner",
-      "url": "https://www.rt.com/news/639061-macron-us-not-reliable-partner/",
-      "source": "RT",
-      "publishedAt": "2026-04-25T15:46:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian attack on Ukrainian apartment block kills seven, injures dozens",
-      "url": "https://www.abc.net.au/news/2026-04-25/russian-attack-ukrain-dnipro-apartment-block/106606822",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-25T12:17:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian strikes kill six across Ukraine",
-      "url": "https://www.digitaljournal.com/world/russian-strikes-kill-six-across-ukraine/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-25T11:47:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korean IT workers are stealing remote jobs and raking in billions—and Americans are helping them do it",
       "url": "https://www.yahoo.com/news/articles/north-korean-workers-stealing-remote-110200705.html",
       "source": "Yahoo Entertainment",
@@ -193,14 +265,6 @@
       "publishedAt": "2026-04-25T11:02:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Links 4/25/2026",
-      "url": "https://www.nakedcapitalism.com/2026/04/links-4-25-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-04-25T10:55:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Chernobyl 2.0: Here’s where nuclear disaster could happen next",

@@ -1,7 +1,119 @@
 {
-  "updated": "2026-04-26T18:53:23Z",
-  "count": 33,
+  "updated": "2026-04-27T02:41:02Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "“The EU has gone mad – it must be stopped,” says Sergey Karaganov",
+      "url": "https://www.rt.com/news/639064-eu-has-gone-mad/",
+      "source": "RT",
+      "publishedAt": "2026-04-26T01:11:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel says it will attack Hezbollah 'forcefully' as four killed in strikes on southern Lebanon - Reuters",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=182921090",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-26T00:32:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Netanyahu calls for IDF to strike Hezbollah targets ‘with force’ after terrorist group repeatedly attacks Israel",
+      "url": "https://nypost.com/2026/04/25/world-news/netanyahu-calls-for-idf-to-strike-hezbollah-targets-with-force-after-terrorist-group-repeatedly-attacks-israel/",
+      "source": "New York Post",
+      "publishedAt": "2026-04-25T23:26:33Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IDF strikes Al-Khaiam amid ongoing clashes with Hezbollah in southern Lebanon",
+      "url": "https://cryptobriefing.com/idf-strikes-al-khaiam-amid-ongoing-clashes-with-hezbollah-in-southern-lebanon/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-25T23:10:32Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel strikes Hezbollah targets, straining fragile ceasefire in Lebanon",
+      "url": "https://cryptobriefing.com/israel-strikes-hezbollah-targets-straining-fragile-ceasefire-in-lebanon/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-25T22:50:44Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Ten people are killed and dozens injured in Ukraine after Russian drone attacks: RAF deploys Typhoon jets over Romania",
+      "url": "https://www.dailymail.com/news/article-15765525/Ten-people-killed-dozens-injured-Ukraine-Russian-drone-attacks.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-04-25T21:58:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Next Shift: The Fall of Industry and the Rise of Health Care in Rust Belt America\r 9780674259836 - DOKUMEN.PUB",
+      "url": "https://dokumen.pub/the-next-shift-the-fall-of-industry-and-the-rise-of-health-care-in-rust-belt-america-9780674259836.html",
+      "source": "Dokumen.pub",
+      "publishedAt": "2026-04-25T21:33:56Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Russian forces pound Ukraine's Dnipro, other areas, killing 10 people",
+      "url": "https://japantoday.com/category/world/russian-forces-pound-ukraine%27s-dnipro-other-areas-killing-10-people",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-25T21:09:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel says it will attack Hezbollah 'forcefully' as four killed in strikes on southern Lebanon",
+      "url": "https://japantoday.com/category/world/israel-says-it-will-attack-hezbollah-%27forcefully%27-as-four-killed-in-strikes-on-southern-lebanon",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-25T21:09:52Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Who is in-charge in Iran, and will Trump get any call from Tehran? Talks collapse after cancelled Islamabad visit",
+      "url": "https://economictimes.indiatimes.com/news/international/us/who-is-in-charge-in-iran-and-will-trump-get-any-call-from-tehran-talks-collapse-after-cancelled-islamabad-visit/articleshow/130522780.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-25T20:50:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF strikes Hezbollah terror infrastructure in southern Lebanon",
+      "url": "https://www.israelnationalnews.com/flashes/684069",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-25T20:18:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Talks stumble as Iran's top diplomat leaves Pakistan and Trump says he told envoys not to go",
+      "url": "https://toronto.citynews.ca/2026/04/25/talks-stumble-as-irans-top-diplomat-leaves-pakistan-and-trump-says-he-told-envoys-not-to-go/",
+      "source": "Citynews.ca",
+      "publishedAt": "2026-04-25T19:42:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel says it will attack Hezbollah 'forcefully' as four killed in strikes on southern Lebanon",
+      "url": "https://www.channelnewsasia.com/world/israel-says-it-will-attack-hezbollah-forcefully-four-killed-in-strikes-southern-lebanon-6080986",
+      "source": "CNA",
+      "publishedAt": "2026-04-25T19:29:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Think we're losing the war in Iran? Consider where things really stand",
+      "url": "https://www.foxnews.com/opinion/think-were-losing-war-iran-consider-where-things-really-stand",
+      "source": "Fox News",
+      "publishedAt": "2026-04-25T19:23:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Russia launches one of its largest attacks of the war, killing at least 8 Ukrainian civilians and wounding 60 others: ‘Vile war crime’",
       "url": "https://nypost.com/2026/04/25/world-news/russia-launches-one-of-its-largest-attacks-of-the-war-killing-at-least-8-ukrainian-civilians-and-wounding-60-others/",
@@ -11,36 +123,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Latest ceasefire talks fail as Iran's top diplomat leaves Pakistan and Trump tells envoys not to go",
-      "url": "https://www.pbs.org/newshour/world/latest-ceasefire-talks-fail-as-irans-top-diplomat-leaves-pakistan-and-trump-tells-envoys-not-to-go",
-      "source": "PBS",
-      "publishedAt": "2026-04-25T18:43:29Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Israel says it will attack Hezbollah 'forcefully'",
       "url": "https://www.rte.ie/news/world/2026/0425/1570208-israel-hezbollah-lebanon/",
       "source": "RTE",
       "publishedAt": "2026-04-25T18:37:12Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "After 20th Hezbollah ceasefire breach, Netanyahu orders strikes in Lebanon",
-      "url": "https://www.israelnationalnews.com/news/426056",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-25T18:37:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu Orders Major Strike Against Hezbollah Targets in Lebanon",
-      "url": "https://sputnikglobe.com/20260425/netanyahu-orders-major-strike-against-hezbollah-targets-in-lebanon-1124040988.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-04-25T18:25:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Trump cancels envoys’ Pakistan trip for peace talks with Iran",
@@ -57,30 +145,6 @@
       "publishedAt": "2026-04-25T17:51:52Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Israeli airstrikes in Lebanon kill six, threaten Hezbollah ceasefire",
-      "url": "https://cryptobriefing.com/israeli-airstrikes-in-lebanon-kill-six-threaten-hezbollah-ceasefire/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-25T17:51:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Talks: President Trump Calls Off Witkoff-Kushner Islamabad Trip",
-      "url": "https://legalinsurrection.com/2026/04/iran-talks-president-trump-calls-off-witkoff-kushner-islamabad-trip/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-04-25T17:36:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hezbollah launches drones at Israeli forces, IDF strikes back in Lebanon",
-      "url": "https://cryptobriefing.com/hezbollah-launches-drones-at-israeli-forces-idf-strikes-back-in-lebanon/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-25T17:16:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Iran warns US maritime actions risk decisive military response",
@@ -107,52 +171,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "US envoys head to Pakistan for Iran war talks",
-      "url": "https://punchng.com/us-envoys-head-to-pakistan-for-iran-war-talks/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-25T16:07:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran's foreign minister leaves Islamabad without meeting U.S. envoys, Pakistani officials say",
-      "url": "https://www.cbc.ca/news/world/us-iran-pakistan-talks-9.7177261",
-      "source": "CBC News",
-      "publishedAt": "2026-04-25T15:59:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Macron laments that US is not a reliable partner",
       "url": "https://www.rt.com/news/639061-macron-us-not-reliable-partner/",
       "source": "RT",
       "publishedAt": "2026-04-25T15:46:44Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Palestinians vote in the first Gaza elections held in more than 20 years",
-      "url": "https://www.pbs.org/newshour/world/palestinians-vote-in-the-first-gaza-elections-held-in-more-than-20-years",
-      "source": "PBS",
-      "publishedAt": "2026-04-25T15:40:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran's Foreign Minister Leaves Islamabad Without Meeting US Envoys: Pakistan Officials",
-      "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_69ecd8dee4b0f3a433cb39b3",
-      "source": "HuffPost",
-      "publishedAt": "2026-04-25T15:13:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US envoys set to arrive in Pakistan, but direct meeting with Iran is unclear",
-      "url": "https://www.abc.net.au/news/2026-04-26/us-envoys-pakistan-new-peace-talks-with-iran/106606882",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-25T14:33:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Russian attack on Ukrainian apartment block kills seven, injures dozens",
@@ -203,68 +227,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "RAF jets on NATO patrol shoot down Russia drones in Ukraine as Putin's forces attack ports",
-      "url": "https://www.dailymail.com/news/article-15764401/RAF-jets-NATO-Russia-drones-Ukraine.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-04-25T06:30:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Chernobyl 2.0: Here’s where nuclear disaster could happen next",
       "url": "https://www.rt.com/news/639024-chernobyl-lessons-nuclear-safety/",
       "source": "RT",
       "publishedAt": "2026-04-25T05:00:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "News Summary-Intelligence Report 4/24/2026*Newsdump Friday*Ukraine War*Iran FM Pakistan*Polish PM Suggests Russian Attack Months*Argentina Proposes UK Falklands Talks*DOJ Drops Powell Probe* India Objects Trump Repost*Opposition Leads Israel Poll*",
-      "url": "https://freerepublic.com/focus/f-bloggers/4376340/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-04-25T04:03:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Papal Politics, Past and Present",
-      "url": "http://foreignpolicy.com/2026/04/24/pope-leo-iran-war-trump-vance-catholic-church-peace/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-24T14:25:35Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "France and Poland Discuss Joint Nuclear Exercises and Boost Defense Ties",
-      "url": "https://www.globalresearch.ca/france-poland-discuss-joint-nuclear-exercises/5923641",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-24T14:19:56Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Rising nuclear risks put global security pact to the test at UN Headquarters",
-      "url": "https://www.globalsecurity.org/wmd/library/news/un/un-260424-unnews01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-24T12:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "South Korea prosecutors seek 30 years for Yoon over drone flights into North",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-prosecutors-30-years-yoon-suk-yeol-drone-flights-north-6078166",
-      "source": "CNA",
-      "publishedAt": "2026-04-24T05:00:09Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Has Iran Learned the North Korea Lesson: Nukes Are Essential To Deter the US?",
-      "url": "https://original.antiwar.com/ted_galen_carpenter/2026/04/23/has-iran-learned-the-north-korea-lesson-nukes-are-essential-to-deter-the-us/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-04-24T00:00:38Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

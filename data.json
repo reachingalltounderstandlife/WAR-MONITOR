@@ -1,7 +1,159 @@
 {
-  "updated": "2026-04-28T02:48:18Z",
-  "count": 32,
+  "updated": "2026-04-28T08:23:47Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "Iran Top Diplomat in Russia as US Talks in Limbo",
+      "url": "https://www.rigzone.com/news/wire/iran_top_diplomat_in_russia_as_us_talks_in_limbo-27-apr-2026-183539-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-04-27T07:43:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The World Crisis as Seen Through the Lens of Bô Yin Râ’s Teachings",
+      "url": "https://montanarcc.substack.com/p/the-world-crisis-as-seen-through",
+      "source": "Substack.com",
+      "publishedAt": "2026-04-27T07:27:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran war: What’s happening on day 59 amid diplomatic push to end conflict?",
+      "url": "https://www.aljazeera.com/news/2026/4/27/iran-war-whats-happening-on-day-59-amid-diplomatic-push-to-end-conflict",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-27T07:22:57Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Mediators try to bridge US-Iran disagreements after Trump calls off envoy trip",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/27/mediators-try-to-bridge-us-iran-disagreements-after-trump-calls-off-envoy-trip/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-27T06:37:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Cost of the Iran War for the United States: A Strategic Blunder in Five Dimensions",
+      "url": "https://smallwarsjournal.com/2026/04/27/the-cost-of-the-iran-war-for-the-united-states-a-strategic-blunder-in-five-dimensions/",
+      "source": "Smallwarsjournal.com",
+      "publishedAt": "2026-04-27T06:00:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "War theater: Trump claims Iran sent “Much Better” peace proposal minutes after he canceled high-level trip",
+      "url": "https://www.naturalnews.com/2026-04-27-trump-claims-better-peace-proposal-after-canceled-trip.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-27T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "After the U.S. targeted Iran’s nuclear weapon program, the Pentagon is now seeking $104 billion for their own",
+      "url": "https://www.naturalnews.com/2026-04-27-us-pentagon-now-seeking-nuclear-weapons-program.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-27T06:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Iran foreign minister visits Russia as US talks remain stalled",
+      "url": "https://www.hurriyetdailynews.com/iran-foreign-minister-visits-russia-as-us-talks-remain-stalled-221500",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-27T05:39:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US being humiliated by Iran, German chancellor says as peace talks stall",
+      "url": "https://www.independent.ie/world-news/middle-east/us-being-humiliated-by-iran-german-chancellor-says-as-peace-talks-stall/a1622401180.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-27T05:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump reviews latest Iran proposal to end the war – but he is not happy",
+      "url": "https://www.independent.ie/world-news/middle-east/trump-reviews-latest-iran-proposal-to-end-the-war-but-he-is-not-happy/a1231215886.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-27T05:30:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran foreign minister arrives in Russia as US talks remain stalled",
+      "url": "https://punchng.com/iran-foreign-minister-arrives-in-russia-as-us-talks-remain-stalled/",
+      "source": "The Punch",
+      "publishedAt": "2026-04-27T05:06:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Drone incursion from Lebanon triggers sirens in northern Israel",
+      "url": "https://cryptobriefing.com/drone-incursion-from-lebanon-triggers-sirens-in-northern-israel/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-27T04:59:57Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hezbollah drone targets Israeli helicopter (VIDEOS)",
+      "url": "https://www.rt.com/news/639136-hezbollah-drone-israeli-helicopter/",
+      "source": "RT",
+      "publishedAt": "2026-04-27T04:55:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli airstrikes target Hezbollah as ceasefire market remains unchanged",
+      "url": "https://cryptobriefing.com/israeli-airstrikes-target-hezbollah-as-ceasefire-market-remains-unchanged/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-27T04:32:04Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "‘If they want to talk, they can call us’: Donald Trump scraps envoys’ trip to Pakistan for negotiations on war in Iran",
+      "url": "https://www.independent.ie/world-news/middle-east/if-they-want-to-talk-they-can-call-us-donald-trump-scraps-envoys-trip-to-pakistan-for-negotiations-on-war-in-iran/a1008254490.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-04-27T04:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian foreign minister to meet Putin on war developments in St. Petersburg",
+      "url": "https://cryptobriefing.com/iranian-foreign-minister-to-meet-putin-on-war-developments-in-st-petersburg/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-27T04:27:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Can the War Machine be Shut Down?",
+      "url": "https://www.juancole.com/2026/04/machine-shut-down.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-04-27T04:04:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea opens memorial museum for troops killed in Russia-Ukraine war",
+      "url": "https://abcnews.com/International/wireStory/north-korea-opens-memorial-museum-troops-killed-russia-132409331",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-27T03:17:48Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Global military spending rises 2.9%",
+      "url": "https://japantoday.com/category/world/global-military-spending-rises-2.9-despite-us-decline-over-ukraine-freeze",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-27T03:00:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Strait ​of Hormuz to reopen, U.S-Iran war to end? Oil prices rise, Stocks tumble, check latest updates",
       "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-to-reopen-u-s-iran-war-to-end-oil-prices-rise-stocks-tumble-check-latest-updates/articleshow/130541840.cms",
@@ -19,28 +171,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Iran's top diplomat briefly returns to Pakistan but Trump says the sides can talk by phone",
-      "url": "https://abcnews.com/Business/wireStory/irans-top-diplomat-briefly-returns-pakistan-trump-sides-132393187",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-27T01:34:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Strikes in Ukraine and Russia kill at least 16 on Chernobyl anniversary",
       "url": "https://abcnews.com/International/wireStory/strikes-ukraine-russia-kill-16-chernobyl-anniversary-132394862",
       "source": "Abcnews.com",
       "publishedAt": "2026-04-27T01:33:25Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Israel strikes kill 14 in Lebanon, Israeli soldier killed",
-      "url": "https://www.rte.ie/news/middle-east/2026/0427/1570336-israel-hezbollah/",
-      "source": "RTE",
-      "publishedAt": "2026-04-26T23:49:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "SIPRI: Record arms spending, again",
@@ -59,100 +195,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Republicans just proved Ghislaine Maxwell is 'holding all the cards' against Trump: expert",
-      "url": "https://www.rawstory.com/trump-epstein-2676816479/",
-      "source": "Raw Story",
-      "publishedAt": "2026-04-26T22:01:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian group submits evidence of US-Israeli war crimes to International Criminal Court",
-      "url": "https://www.rawstory.com/trump-iran-2676816470/",
-      "source": "Raw Story",
-      "publishedAt": "2026-04-26T21:31:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says Iran can call if it wants to talk, as Iranian envoy returns to Pakistan",
-      "url": "https://japantoday.com/category/world/trump-says-iran-can-call-if-it-wants-to-talk-as-iranian-envoy-returns-to-pakistan",
-      "source": "Japan Today",
-      "publishedAt": "2026-04-26T21:19:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli strikes kill 14 in Lebanon as Israel warns residents to leave towns beyond 'buffer zone'",
-      "url": "https://japantoday.com/category/world/israeli-strikes-kill-14-in-lebanon-as-israel-warns-residents-to-leave-towns-beyond-%27buffer-zone%27",
-      "source": "Japan Today",
-      "publishedAt": "2026-04-26T21:19:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Here’s the new world order for 2027",
       "url": "https://www.wnd.com/2026/04/heres-new-world-order-2027/",
       "source": "Wnd.com",
       "publishedAt": "2026-04-26T21:10:22Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel launches deadly strikes in Lebanon, warns residents beyond 'buffer zone' to flee",
-      "url": "https://www.cbc.ca/news/world/israel-lebanon-strike-evacuation-buffer-zone-9.7178015",
-      "source": "CBC News",
-      "publishedAt": "2026-04-26T21:06:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli strikes kill 14 in Lebanon as Israel warns residents to leave towns beyond 'buffer zone'",
-      "url": "https://www.channelnewsasia.com/world/israeli-strikes-kill-14-in-lebanon-israel-warns-residents-leave-towns-beyond-buffer-zone-6082436",
-      "source": "CNA",
-      "publishedAt": "2026-04-26T21:04:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Fourteen killed, 37 wounded in IDF strikes on southern Lebanon, Lebanon's Health Ministry says",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-04-26/ty-article-live/report-14-killed-37-wounded-in-idf-strikes-on-southern-lebanon/0000019d-cb7a-d505-afbd-ff7e9c740004",
-      "source": "Haaretz",
-      "publishedAt": "2026-04-26T20:37:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli airstrikes hit evacuation route in south Lebanon amid military escalation",
-      "url": "https://cryptobriefing.com/israeli-airstrikes-hit-evacuation-route-in-south-lebanon-amid-military/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-26T20:32:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran daily briefing: Israel sets sights deeper into Lebanon despite ceasefire",
-      "url": "https://www.abc.net.au/news/2026-04-27/iran-israel-war-daily-news-briefing/106602790",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-26T20:19:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran daily briefing: Israel sets sights deeper into Lebanon despite ceasefire",
-      "url": "https://www.abc.net.au/news/2026-04-27/iran-israel-war-news-briefing/106602790",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-26T20:19:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" April 26, 2026",
-      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-04-26-2026/",
-      "source": "CBS News",
-      "publishedAt": "2026-04-26T19:43:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Zelensky marks 40th anniversary of Chernobyl disaster with warning on Russian strikes near infamous nuclear plant",
@@ -225,38 +273,6 @@
       "publishedAt": "2026-04-26T15:50:03Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Russia, North Korea agree 'long-term' military cooperation",
-      "url": "https://economictimes.indiatimes.com/news/defence/russia-north-korea-agree-long-term-military-cooperation/articleshow/130533475.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-26T14:23:59Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Will Moscow Retaliate? Counterattack against EU Nation States Which Allow Ukrainian Drones to Use Their Airspace to Target Russia?",
-      "url": "https://www.globalresearch.ca/russia-attacks-states-ukrainian-drones-airspace/5923781",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-26T12:37:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A startup with a bankrupt fintech CEO and a president’s son wants to build America’s robot army",
-      "url": "https://thenextweb.com/news/foundation-humanoid-robot-soldiers-pentagon/",
-      "source": "The Next Web",
-      "publishedAt": "2026-04-26T12:27:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "“The EU has gone mad – it must be stopped,” says Sergey Karaganov",
-      "url": "https://www.rt.com/news/639064-eu-has-gone-mad/",
-      "source": "RT",
-      "publishedAt": "2026-04-26T01:11:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

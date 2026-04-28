@@ -1,54 +1,246 @@
 {
-  "updated": "2026-04-28T08:23:47Z",
-  "count": 34,
+  "updated": "2026-04-28T19:40:01Z",
+  "count": 39,
   "articles": [
     {
-      "title": "Iran Top Diplomat in Russia as US Talks in Limbo",
-      "url": "https://www.rigzone.com/news/wire/iran_top_diplomat_in_russia_as_us_talks_in_limbo-27-apr-2026-183539-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-04-27T07:43:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The World Crisis as Seen Through the Lens of Bô Yin Râ’s Teachings",
-      "url": "https://montanarcc.substack.com/p/the-world-crisis-as-seen-through",
-      "source": "Substack.com",
-      "publishedAt": "2026-04-27T07:27:22Z",
+      "title": "Russian drone attack wounds 14 while Ukrainian drones kill 2 in Russia-held area",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/russian-drone-attack-wounds-14-while-ukrainian-drones-kill-2-in-russia-held-area/articleshow/130563162.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-27T18:42:55Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Iran war: What’s happening on day 59 amid diplomatic push to end conflict?",
-      "url": "https://www.aljazeera.com/news/2026/4/27/iran-war-whats-happening-on-day-59-amid-diplomatic-push-to-end-conflict",
+      "title": "Timeline: The highs and lows of the US-UK ‘special relationship’",
+      "url": "https://www.aljazeera.com/news/2026/4/27/timeline-the-highs-and-lows-of-the-us-uk-special-relationship",
       "source": "Al Jazeera English",
-      "publishedAt": "2026-04-27T07:22:57Z",
+      "publishedAt": "2026-04-27T18:40:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "EU country’s president calls for dialogue with Russia – media",
+      "url": "https://www.rt.com/news/639165-eu-russia-dialogue-estonia/",
+      "source": "RT",
+      "publishedAt": "2026-04-27T18:39:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli airstrikes hit eastern Lebanon, complicating ceasefire with Hezbollah",
+      "url": "https://cryptobriefing.com/israeli-airstrikes-hit-eastern-lebanon-complicating-ceasefire-with-hezbollah/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-27T18:26:16Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Mediators try to bridge US-Iran disagreements after Trump calls off envoy trip",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/04/27/mediators-try-to-bridge-us-iran-disagreements-after-trump-calls-off-envoy-trip/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-04-27T06:37:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Cost of the Iran War for the United States: A Strategic Blunder in Five Dimensions",
-      "url": "https://smallwarsjournal.com/2026/04/27/the-cost-of-the-iran-war-for-the-united-states-a-strategic-blunder-in-five-dimensions/",
-      "source": "Smallwarsjournal.com",
-      "publishedAt": "2026-04-27T06:00:20Z",
+      "title": "The American Military Is Blowing Its Load In Iran — And China Is Noticing",
+      "url": "https://dailycaller.com/2026/04/27/iran-war-china-noticing/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-04-27T18:14:12Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "War theater: Trump claims Iran sent “Much Better” peace proposal minutes after he canceled high-level trip",
-      "url": "https://www.naturalnews.com/2026-04-27-trump-claims-better-peace-proposal-after-canceled-trip.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-04-27T06:00:00Z",
+      "title": "Israel PM says action needed over Hezbollah rockets, drones",
+      "url": "https://www.channelnewsasia.com/world/israel-pm-says-action-needed-over-hezbollah-rockets-drones-6084456",
+      "source": "CNA",
+      "publishedAt": "2026-04-27T17:58:54Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "IDF strikes Lebanon’s Beqaa Valley for first time in 3 weeks as towns in north cancel school - The Times of Israel",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=182990148",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-04-27T17:13:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Asymmetric Warfare Becoming Decisive In The Iran And Ukraine Conflicts",
+      "url": "https://www.forbes.com/sites/michaelpdempsey/2026/04/27/asymmetric-warfare-becoming-decisive-in-the-iran-and-ukraine-conflicts/",
+      "source": "Forbes",
+      "publishedAt": "2026-04-27T16:54:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu orders strikes in southern Lebanon, ceasefire odds recalibrate",
+      "url": "https://cryptobriefing.com/netanyahu-orders-strikes-in-southern-lebanon-ceasefire-odds-recalibrate/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-27T16:51:43Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Russian drone attack wounds 14 in Odesa, while Ukrainian drones kill 2 in Russian-held Kherson",
+      "url": "https://www.pbs.org/newshour/world/russian-drone-attack-wounds-14-in-odesa-while-ukrainian-drones-kill-2-in-russian-held-kherson",
+      "source": "PBS",
+      "publishedAt": "2026-04-27T16:49:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran FM blames US for failure of talks as he meets with Putin",
+      "url": "https://www.hurriyetdailynews.com/iran-fm-blames-us-for-failure-of-talks-as-he-meets-with-putin-221545",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-27T16:45:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Arms Control is Dying,’ Secretary-General Warns Review Conference, Calls for ‘Breathing New Life’ into Nuclear Non-Proliferation Treaty",
+      "url": "https://press.un.org/en/2026/sgsm23106.doc.htm-0",
+      "source": "UN News",
+      "publishedAt": "2026-04-27T16:39:47Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "The Iran War and How It Might End",
+      "url": "https://freerepublic.com/focus/f-news/4376609/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-04-27T16:36:42Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanese President, Hezbollah leader accuse each other of treason",
+      "url": "https://www.israelnationalnews.com/news/426164",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-27T16:21:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel defence minister Israel Katz warns Hezbollah chief 'playing with fire'",
+      "url": "https://economictimes.indiatimes.com/news/defence/israel-defence-minister-israel-katz-warns-hezbollah-chief-playing-with-fire/articleshow/130559317.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-27T16:15:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Bahrain's citizenship purge exposes Iran's most dangerous weapon",
+      "url": "https://www.israelnationalnews.com/news/426163",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-27T15:59:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel and Syria’s Shared Fight Against Hezbollah",
+      "url": "http://foreignpolicy.com/2026/04/27/israel-syria-hezbollah-iran-sharaa-terrorism-lebanon/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-04-27T15:34:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "With Peace Talks Stalled, Iranian Foreign Minister Meets Putin To Solidify Ties",
+      "url": "https://www.rferl.org/a/putin-iran-strategic-relationship-araqchi-russia/33743629.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-04-27T15:31:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Vance Doubts the Pentagon’s Depiction of the Iran War",
+      "url": "https://www.theatlantic.com/national-security/2026/04/iran-war-vance-hegseth-trump/686905/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-04-27T15:26:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes hit east Lebanon, expanding conflict area despite ceasefire",
+      "url": "https://www.cbc.ca/news/world/israel-east-lebanon-strikes-ceasefire-9.7178499",
+      "source": "CBC News",
+      "publishedAt": "2026-04-27T15:01:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Grandma, hop on!' Robot rescues Ukrainian pensioner after she is spotted fleeing Russian shelling with her walking sticks",
+      "url": "https://www.dailymail.com/news/article-15768735/Grandma-hop-Robot-rescues-Ukrainian-pensioner-spotted-fleeing-Russian-shelling-walking-sticks.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-04-27T14:48:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NPT summit: Can nuclear pact survive US-Israel war on Iran?",
+      "url": "https://www.aljazeera.com/news/2026/4/27/npt-summit-can-nuclear-pact-survive-us-israel-war-on-iran",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-27T14:43:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Rumen Radev’s “Progressive Bulgaria” Wins the Elections. What Is a ‘Pro-Russia NATO General’?",
+      "url": "https://www.globalresearch.ca/pro-russia-nato-general/5923925",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-27T14:23:37Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Exercises Its Sovereignty Over Its Territorial Waters in the Strait of Hormuz",
+      "url": "https://www.globalresearch.ca/iran-sovereignty-territorial-waters-strait-hormuz/5923981",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-27T14:00:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What's at stake in Israel's elections?",
+      "url": "https://www.rte.ie/news/2026/0427/1570431-whats-at-stake-in-israels-elections/",
+      "source": "RTE",
+      "publishedAt": "2026-04-27T12:53:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Undersecretary Martin Roger emphasised the importance of NATO unity and continued support for Ukraine in meetings in Washington",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/04/ukraine-260427-estonia-mfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-27T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "As warheads proliferate, decades old nuclear weapons treaty must evolve, warns UN chief",
+      "url": "https://www.globalsecurity.org/wmd/library/news/un/un-260427-unnews01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-27T12:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "A predawn Russian drone strike hits Ukraine's Odesa, wounding 14; 2 killed in Russian-held Kherson",
+      "url": "https://abcnews.com/International/wireStory/predawn-russian-drone-strike-hits-ukraines-odesa-wounding-132412382",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-27T10:59:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian drone attack on Odesa wounds 10, officials say",
+      "url": "https://www.rte.ie/news/ukraine/2026/0427/1570373-ukraine-russia-conflict/",
+      "source": "RTE",
+      "publishedAt": "2026-04-27T09:26:23Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea opens museum commemorating troops killed fighting for Russia",
+      "url": "https://www.aljazeera.com/gallery/2026/4/27/north-korea-opens-museum-for-troops-killed-fighting-for-russia",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-27T09:01:45Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "After the U.S. targeted Iran’s nuclear weapon program, the Pentagon is now seeking $104 billion for their own",
@@ -59,108 +251,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Iran foreign minister visits Russia as US talks remain stalled",
-      "url": "https://www.hurriyetdailynews.com/iran-foreign-minister-visits-russia-as-us-talks-remain-stalled-221500",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-04-27T05:39:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US being humiliated by Iran, German chancellor says as peace talks stall",
-      "url": "https://www.independent.ie/world-news/middle-east/us-being-humiliated-by-iran-german-chancellor-says-as-peace-talks-stall/a1622401180.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-27T05:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump reviews latest Iran proposal to end the war – but he is not happy",
-      "url": "https://www.independent.ie/world-news/middle-east/trump-reviews-latest-iran-proposal-to-end-the-war-but-he-is-not-happy/a1231215886.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-27T05:30:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran foreign minister arrives in Russia as US talks remain stalled",
-      "url": "https://punchng.com/iran-foreign-minister-arrives-in-russia-as-us-talks-remain-stalled/",
-      "source": "The Punch",
-      "publishedAt": "2026-04-27T05:06:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Drone incursion from Lebanon triggers sirens in northern Israel",
-      "url": "https://cryptobriefing.com/drone-incursion-from-lebanon-triggers-sirens-in-northern-israel/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-27T04:59:57Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hezbollah drone targets Israeli helicopter (VIDEOS)",
-      "url": "https://www.rt.com/news/639136-hezbollah-drone-israeli-helicopter/",
-      "source": "RT",
-      "publishedAt": "2026-04-27T04:55:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli airstrikes target Hezbollah as ceasefire market remains unchanged",
-      "url": "https://cryptobriefing.com/israeli-airstrikes-target-hezbollah-as-ceasefire-market-remains-unchanged/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-27T04:32:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "‘If they want to talk, they can call us’: Donald Trump scraps envoys’ trip to Pakistan for negotiations on war in Iran",
-      "url": "https://www.independent.ie/world-news/middle-east/if-they-want-to-talk-they-can-call-us-donald-trump-scraps-envoys-trip-to-pakistan-for-negotiations-on-war-in-iran/a1008254490.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-04-27T04:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian foreign minister to meet Putin on war developments in St. Petersburg",
-      "url": "https://cryptobriefing.com/iranian-foreign-minister-to-meet-putin-on-war-developments-in-st-petersburg/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-27T04:27:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Can the War Machine be Shut Down?",
-      "url": "https://www.juancole.com/2026/04/machine-shut-down.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-04-27T04:04:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea opens memorial museum for troops killed in Russia-Ukraine war",
       "url": "https://abcnews.com/International/wireStory/north-korea-opens-memorial-museum-troops-killed-russia-132409331",
       "source": "Abcnews.com",
       "publishedAt": "2026-04-27T03:17:48Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Global military spending rises 2.9%",
-      "url": "https://japantoday.com/category/world/global-military-spending-rises-2.9-despite-us-decline-over-ukraine-freeze",
-      "source": "Japan Today",
-      "publishedAt": "2026-04-27T03:00:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Strait ​of Hormuz to reopen, U.S-Iran war to end? Oil prices rise, Stocks tumble, check latest updates",
-      "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-to-reopen-u-s-iran-war-to-end-oil-prices-rise-stocks-tumble-check-latest-updates/articleshow/130541840.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-27T01:55:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea strengthens nuclear push as US flails in Middle East",
@@ -179,28 +275,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "SIPRI: Record arms spending, again",
-      "url": "https://www.dw.com/en/sipri-record-arms-spending-again/a-76901397",
-      "source": "DW (English)",
-      "publishedAt": "2026-04-26T22:07:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Russia shares America’s worries about rising Chinese nuclear presence",
       "url": "https://www.wnd.com/2026/04/russia-shares-americas-worries-about-rising-chinese-nuclear/",
       "source": "Wnd.com",
       "publishedAt": "2026-04-26T22:05:33Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Here’s the new world order for 2027",
-      "url": "https://www.wnd.com/2026/04/heres-new-world-order-2027/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-04-26T21:10:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Zelensky marks 40th anniversary of Chernobyl disaster with warning on Russian strikes near infamous nuclear plant",
@@ -225,46 +305,6 @@
       "publishedAt": "2026-04-26T18:07:41Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Strikes in Ukraine and Russia kill at least 16 on Chernobyl's 40th anniversary",
-      "url": "https://www.pbs.org/newshour/world/strikes-in-ukraine-and-russia-kill-at-least-16-on-chernobyls-40th-anniversary",
-      "source": "PBS",
-      "publishedAt": "2026-04-26T18:07:41Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Sixteen dead in strikes as Ukraine marks 40 years since Chernobyl",
-      "url": "https://www.abc.net.au/news/2026-04-27/ukraine-chernobyl-40-years-russia-war-invasion/106609718",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-04-26T17:58:12Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Liberation From War. Manlio Dinucci",
-      "url": "https://www.globalresearch.ca/liberation-from-war/5923870",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-26T16:51:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Donald Trump Goes to War. Using America’s Sons and Daughters to Devastate the World",
-      "url": "https://www.globalresearch.ca/donald-trump-goes-war-using-america-sons-daughters/5923873",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-26T16:34:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "European ‘propaganda’ using Russia as ‘external enemy’ to mask crises – Kremlin",
-      "url": "https://www.rt.com/russia/639119-kremlin-european-propaganda-ukraine/",
-      "source": "RT",
-      "publishedAt": "2026-04-26T16:15:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "US missile depletion impacts Taiwan defense strategy amid China tensions",

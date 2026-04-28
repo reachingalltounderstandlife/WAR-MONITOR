@@ -1,20 +1,156 @@
 {
-  "updated": "2026-04-27T19:19:57Z",
-  "count": 34,
+  "updated": "2026-04-28T02:48:18Z",
+  "count": 32,
   "articles": [
     {
-      "title": "How Carney's Davos speech holds up 3 months later",
-      "url": "https://www.cbc.ca/news/politics/carney-davos-speech-iran-9.7177222",
-      "source": "CBC News",
-      "publishedAt": "2026-04-26T19:17:21Z",
+      "title": "Strait ​of Hormuz to reopen, U.S-Iran war to end? Oil prices rise, Stocks tumble, check latest updates",
+      "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-to-reopen-u-s-iran-war-to-end-oil-prices-rise-stocks-tumble-check-latest-updates/articleshow/130541840.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-27T01:55:19Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "William Astore on The Bloody Awful Waste of War",
-      "url": "https://www.antiwar.com/blog/2026/04/26/william-astore-on-the-bloody-awful-waste-of-war/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-04-26T19:07:01Z",
+      "title": "North Korea strengthens nuclear push as US flails in Middle East",
+      "url": "https://www.digitaljournal.com/world/north-korea-strengthens-nuclear-push-as-us-flails-in-middle-east/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-27T01:42:20Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran's top diplomat briefly returns to Pakistan but Trump says the sides can talk by phone",
+      "url": "https://abcnews.com/Business/wireStory/irans-top-diplomat-briefly-returns-pakistan-trump-sides-132393187",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-27T01:34:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Strikes in Ukraine and Russia kill at least 16 on Chernobyl anniversary",
+      "url": "https://abcnews.com/International/wireStory/strikes-ukraine-russia-kill-16-chernobyl-anniversary-132394862",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-27T01:33:25Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel strikes kill 14 in Lebanon, Israeli soldier killed",
+      "url": "https://www.rte.ie/news/middle-east/2026/0427/1570336-israel-hezbollah/",
+      "source": "RTE",
+      "publishedAt": "2026-04-26T23:49:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "SIPRI: Record arms spending, again",
+      "url": "https://www.dw.com/en/sipri-record-arms-spending-again/a-76901397",
+      "source": "DW (English)",
+      "publishedAt": "2026-04-26T22:07:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia shares America’s worries about rising Chinese nuclear presence",
+      "url": "https://www.wnd.com/2026/04/russia-shares-americas-worries-about-rising-chinese-nuclear/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-04-26T22:05:33Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Republicans just proved Ghislaine Maxwell is 'holding all the cards' against Trump: expert",
+      "url": "https://www.rawstory.com/trump-epstein-2676816479/",
+      "source": "Raw Story",
+      "publishedAt": "2026-04-26T22:01:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian group submits evidence of US-Israeli war crimes to International Criminal Court",
+      "url": "https://www.rawstory.com/trump-iran-2676816470/",
+      "source": "Raw Story",
+      "publishedAt": "2026-04-26T21:31:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Iran can call if it wants to talk, as Iranian envoy returns to Pakistan",
+      "url": "https://japantoday.com/category/world/trump-says-iran-can-call-if-it-wants-to-talk-as-iranian-envoy-returns-to-pakistan",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-26T21:19:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes kill 14 in Lebanon as Israel warns residents to leave towns beyond 'buffer zone'",
+      "url": "https://japantoday.com/category/world/israeli-strikes-kill-14-in-lebanon-as-israel-warns-residents-to-leave-towns-beyond-%27buffer-zone%27",
+      "source": "Japan Today",
+      "publishedAt": "2026-04-26T21:19:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Here’s the new world order for 2027",
+      "url": "https://www.wnd.com/2026/04/heres-new-world-order-2027/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-04-26T21:10:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel launches deadly strikes in Lebanon, warns residents beyond 'buffer zone' to flee",
+      "url": "https://www.cbc.ca/news/world/israel-lebanon-strike-evacuation-buffer-zone-9.7178015",
+      "source": "CBC News",
+      "publishedAt": "2026-04-26T21:06:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes kill 14 in Lebanon as Israel warns residents to leave towns beyond 'buffer zone'",
+      "url": "https://www.channelnewsasia.com/world/israeli-strikes-kill-14-in-lebanon-israel-warns-residents-leave-towns-beyond-buffer-zone-6082436",
+      "source": "CNA",
+      "publishedAt": "2026-04-26T21:04:48Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Fourteen killed, 37 wounded in IDF strikes on southern Lebanon, Lebanon's Health Ministry says",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-04-26/ty-article-live/report-14-killed-37-wounded-in-idf-strikes-on-southern-lebanon/0000019d-cb7a-d505-afbd-ff7e9c740004",
+      "source": "Haaretz",
+      "publishedAt": "2026-04-26T20:37:08Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli airstrikes hit evacuation route in south Lebanon amid military escalation",
+      "url": "https://cryptobriefing.com/israeli-airstrikes-hit-evacuation-route-in-south-lebanon-amid-military/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-26T20:32:41Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran daily briefing: Israel sets sights deeper into Lebanon despite ceasefire",
+      "url": "https://www.abc.net.au/news/2026-04-27/iran-israel-war-daily-news-briefing/106602790",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-26T20:19:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran daily briefing: Israel sets sights deeper into Lebanon despite ceasefire",
+      "url": "https://www.abc.net.au/news/2026-04-27/iran-israel-war-news-briefing/106602790",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-04-26T20:19:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" April 26, 2026",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-04-26-2026/",
+      "source": "CBS News",
+      "publishedAt": "2026-04-26T19:43:50Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -59,44 +195,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "An interview with Rabbi Dov Lior: Today’s greatest mitzvah",
-      "url": "https://www.israelnationalnews.com/news/426110",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-04-26T17:56:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel issues evacuation warning for seven Lebanese towns beyond 'buffer zone' after soldier killed - Reuters",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=182953936",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-04-26T17:52:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump calls off Iran peace talks, claiming ‘we have all the cards, they have none’",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/04/26/trump-calls-off-iran-peace-talks-claiming-we-have-all-the-cards-they-have-none/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-04-26T17:06:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Liberation From War. Manlio Dinucci",
       "url": "https://www.globalresearch.ca/liberation-from-war/5923870",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-04-26T16:51:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says Iran can call if it wants to talk, as Iranian envoy returns to Pakistan",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-iran-can-call-if-it-wants-to-talk-as-iranian-envoy-returns-to-pakistan/articleshow/130535734.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-26T16:48:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Donald Trump Goes to War. Using America’s Sons and Daughters to Devastate the World",
@@ -115,76 +219,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran's top diplomat returns to Pakistan as Islamabad races to save negotiations with US",
-      "url": "https://abcnews.com/International/wireStory/irans-top-diplomat-returns-pakistan-islamabad-races-save-132393186",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-26T15:53:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "US missile depletion impacts Taiwan defense strategy amid China tensions",
       "url": "https://cryptobriefing.com/us-missile-depletion-impacts-taiwan-defense-strategy-amid-china-tensions/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-04-26T15:50:03Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Iran minister returns to Pakistan despite US talks cancellation",
-      "url": "https://www.vanguardngr.com/2026/04/iran-minister-returns-to-pakistan-despite-us-talks-cancellation/",
-      "source": "Vanguard",
-      "publishedAt": "2026-04-26T15:09:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli Army strikes Hezbollah targets in Lebanon amid ceasefire speculation",
-      "url": "https://cryptobriefing.com/israeli-army-strikes-hezbollah-targets-in-lebanon-amid-ceasefire-speculation/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-26T14:58:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "UPSC Essentials daily subject quiz : International Relations MCQs (Week 159) — Check out answers with explanations",
-      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-quiz-international-relations-week-159-five-eyes-alliance-yellow-line-10657036/",
-      "source": "The Indian Express",
-      "publishedAt": "2026-04-26T14:53:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘I’m burning’: Lebanese reporter recounts colleague’s last words after Israeli strike",
-      "url": "https://www.rt.com/news/639110-lebanese-reporter-israeli-attack/",
-      "source": "RT",
-      "publishedAt": "2026-04-26T14:48:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran minister expected back in Pakistan despite US cancellation",
-      "url": "https://timesofmalta.com/article/iran-minister-expected-back-pakistan-despite-us-cancellation.1127521",
-      "source": "Times of Malta",
-      "publishedAt": "2026-04-26T14:39:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s foreign minister returns to Pakistan as Islamabad races to save U.S. ceasefire talks while Tehran seeks Hormuz toll with Oman",
-      "url": "https://fortune.com/2026/04/26/iran-foreign-minister-pakistan-us-ceasefire-strait-of-hormuz-toll-oman/",
-      "source": "Fortune",
-      "publishedAt": "2026-04-26T14:37:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Pakistan races to save negotiations between US and Iran",
-      "url": "https://economictimes.indiatimes.com/news/defence/pakistan-races-to-save-negotiations-between-us-and-iran/articleshow/130533780.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-26T14:36:37Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Russia, North Korea agree 'long-term' military cooperation",
@@ -217,62 +257,6 @@
       "publishedAt": "2026-04-26T01:11:16Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Ten people are killed and dozens injured in Ukraine after Russian drone attacks: RAF deploys Typhoon jets over Romania",
-      "url": "https://www.dailymail.com/news/article-15765525/Ten-people-killed-dozens-injured-Ukraine-Russian-drone-attacks.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-04-25T21:58:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Next Shift: The Fall of Industry and the Rise of Health Care in Rust Belt America\r 9780674259836 - DOKUMEN.PUB",
-      "url": "https://dokumen.pub/the-next-shift-the-fall-of-industry-and-the-rise-of-health-care-in-rust-belt-america-9780674259836.html",
-      "source": "Dokumen.pub",
-      "publishedAt": "2026-04-25T21:33:56Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Russian forces pound Ukraine's Dnipro, other areas, killing 10 people",
-      "url": "https://japantoday.com/category/world/russian-forces-pound-ukraine%27s-dnipro-other-areas-killing-10-people",
-      "source": "Japan Today",
-      "publishedAt": "2026-04-25T21:09:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia launches one of its largest attacks of the war, killing at least 8 Ukrainian civilians and wounding 60 others: ‘Vile war crime’",
-      "url": "https://nypost.com/2026/04/25/world-news/russia-launches-one-of-its-largest-attacks-of-the-war-killing-at-least-8-ukrainian-civilians-and-wounding-60-others/",
-      "source": "New York Post",
-      "publishedAt": "2026-04-25T18:50:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "North Korean IT workers are stealing remote jobs and raking in billions—and Americans are helping them do it",
-      "url": "https://www.yahoo.com/news/articles/north-korean-workers-stealing-remote-110200705.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-25T11:02:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korean IT workers are stealing remote jobs and raking in billions—and Americans are helping them do it",
-      "url": "https://fortune.com/2026/04/25/north-korean-it-worker-scheme-american-faciliators/",
-      "source": "Fortune",
-      "publishedAt": "2026-04-25T11:02:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Chernobyl 2.0: Here’s where nuclear disaster could happen next",
-      "url": "https://www.rt.com/news/639024-chernobyl-lessons-nuclear-safety/",
-      "source": "RT",
-      "publishedAt": "2026-04-25T05:00:14Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

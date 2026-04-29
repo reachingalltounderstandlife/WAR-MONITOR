@@ -1,7 +1,119 @@
 {
-  "updated": "2026-04-29T13:54:07Z",
-  "count": 35,
+  "updated": "2026-04-29T19:23:47Z",
+  "count": 39,
   "articles": [
+    {
+      "title": "IDF carries out massive strikes on Hezbollah tunnels in southern Lebanon",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-04-28/ty-article/.premium/idf-carries-out-massive-strikes-on-hezbollah-tunnels-in-southern-lebanon/0000019d-d51a-de5d-a9ff-d7dfd0e70000",
+      "source": "Haaretz",
+      "publishedAt": "2026-04-28T19:10:39Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Humanity may be doomed to die in nuclear war—unless we act soon, physicist David Gross says",
+      "url": "https://www.scientificamerican.com/article/humanity-may-be-doomed-to-die-in-nuclear-war-unless-we-act-soon-physicist-david-gross-says/",
+      "source": "Scientific American",
+      "publishedAt": "2026-04-28T19:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "UK envoy: US ‘special relationship’ may now center on Israel",
+      "url": "https://www.israelnationalnews.com/news/426232",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-28T18:47:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump, unhappy with latest peace proposal, says Iran trying to ‘figure out’ its leadership",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/04/28/trump-unhappy-with-latest-peace-proposal-says-iran-trying-to-figure-out-its-leadership/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-28T18:39:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Coffee Break: Armed Madhouse – The U.S. Navy Adrift",
+      "url": "https://www.nakedcapitalism.com/?p=309471",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-04-28T18:00:06Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "IDF destroys Hezbollah’s largest tunnel network amid ceasefire stability",
+      "url": "https://cryptobriefing.com/idf-destroys-hezbollahs-largest-tunnel-network-amid-ceasefire-stability/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-28T17:05:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump claims Iran wants US to open Strait of Hormuz ‘as soon as possible’",
+      "url": "https://www.hurriyetdailynews.com/trump-claims-iran-wants-us-to-open-strait-of-hormuz-as-soon-as-possible-221594",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-28T16:14:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Peace efforts stall as US examines latest Iran proposal",
+      "url": "https://www.digitaljournal.com/world/peace-efforts-stall-as-us-examines-latest-iran-proposal/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-04-28T15:27:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "You Are Not Ready For Trump And Iran And Whatever The F*ck THIS Was",
+      "url": "https://www.wonkette.com/p/you-are-not-ready-for-trump-and-iran",
+      "source": "Wonkette.com",
+      "publishedAt": "2026-04-28T15:26:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Is Egypt threatening Israel through its military exercises on the border?",
+      "url": "https://www.aljazeera.com/news/2026/4/28/is-egypt-threatening-israel-through-its-military-exercises-on-the-border",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-28T14:50:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The cost of 76 years of US wars, from Korea to Iran",
+      "url": "https://www.aljazeera.com/news/2026/4/28/the-cost-of-76-years-of-us-wars-from-korea-to-iran",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-28T14:30:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Analysis-Drone diplomacy wins Ukraine valuable allies, but now it must deliver",
+      "url": "https://www.yahoo.com/news/articles/analysis-drone-diplomacy-wins-ukraine-141308653.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-28T14:13:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin Signals Support for Iran in Standoff With U.S.",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Putin-Signals-Support-for-Iran-in-Standoff-With-US.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-04-28T14:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Military Strategy Document Misleads. Deliberately?",
+      "url": "https://www.nakedcapitalism.com/2026/04/us-military-strategy-document-misleads-deliberately.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-04-28T13:55:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Moldova Continues to Economically Strangle Transnistria",
       "url": "https://www.globalresearch.ca/moldova-economically-strangle-transnistria/5924212",
@@ -39,8 +151,8 @@
       "url": "https://economictimes.indiatimes.com/news/defence/peace-efforts-stall-as-us-examines-latest-iran-proposal/articleshow/130579699.cms",
       "source": "The Times of India",
       "publishedAt": "2026-04-28T12:12:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The New Russian-Indian Military Logistics Pact Sends Five Messages to the World",
@@ -49,22 +161,6 @@
       "publishedAt": "2026-04-28T12:04:19Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran's Air Force conducted sorties to strike US bases in Iraq, Kuwait, Qatar early in war: Army",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260428-presstv09.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-28T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump claims Iran wants US to open Strait of Hormuz 'as soon as possible'",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260428-azertac01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-28T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Israeli military issues fresh displacement orders for south Lebanon beyond 'yellow line'",
@@ -87,8 +183,8 @@
       "url": "https://whyevolutionistrue.com/2026/04/28/tuesday-hili-dialogue-577/",
       "source": "Whyevolutionistrue.com",
       "publishedAt": "2026-04-28T11:45:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "WHCA dinner shooter charged. And, Charles III to address Congress",
@@ -107,36 +203,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "When will Strait of Hormuz be ‘safe’ for commercial shipping again?",
-      "url": "https://www.aljazeera.com/features/2026/4/28/when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-28T11:18:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Deadlock over Iran's nuclear program and the Strait of Hormuz cripples peace efforts",
       "url": "https://www.npr.org/2026/04/28/nx-s1-5802283/iran-middle-east-updates",
       "source": "NPR",
       "publishedAt": "2026-04-28T10:59:44Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Strait of Hormuz stuck in limbo as Trump mulls Iran's latest offer",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-iranian-offer-ceasefire-oil-gas-prices/",
-      "source": "CBS News",
-      "publishedAt": "2026-04-28T10:55:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Gulf leaders to meet in Saudi Arabia to discuss response to Iranian strikes",
-      "url": "https://www.channelnewsasia.com/world/gulf-leaders-meet-iran-strikes-response-6086306",
-      "source": "CNA",
-      "publishedAt": "2026-04-28T10:53:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "All Talk, No Action: The EU’s Criminal Refusal to Correct Course On Israel",
@@ -153,46 +225,6 @@
       "publishedAt": "2026-04-28T10:28:07Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "How Putin and Zelensky View the War in Iran",
-      "url": "https://www.newyorker.com/news/the-lede/how-putin-and-zelensky-view-the-war-in-iran",
-      "source": "The New Yorker",
-      "publishedAt": "2026-04-28T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How the Failed Orange Prince Became a Global Laughingstock",
-      "url": "https://newrepublic.com/article/209560/trump-global-laughingstock-iran",
-      "source": "The New Republic",
-      "publishedAt": "2026-04-28T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Wider Europe Briefing: Who Escaped The EU's Latest Sanctions, And Brussels' Security Guarantees For Ukraine",
-      "url": "https://www.rferl.org/a/wider-europe-briefing-jozwiak-ukraine-eu-sanctions/33744221.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-04-28T09:58:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US says examining latest Iran proposal",
-      "url": "https://www.vanguardngr.com/2026/04/us-says-examining-latest-iran-proposal/",
-      "source": "Vanguard",
-      "publishedAt": "2026-04-28T09:50:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "War in the Middle East: latest developments",
-      "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-60/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-28T09:17:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Taiwan on alert after spotting two Chinese warships near its Penghu islands - Reuters",

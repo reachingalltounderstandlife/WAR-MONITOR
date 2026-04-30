@@ -1,7 +1,103 @@
 {
-  "updated": "2026-04-30T02:49:16Z",
-  "count": 34,
+  "updated": "2026-04-30T08:20:47Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "Iran war: What’s happening on day 61 as UAE exits OPEC?",
+      "url": "https://www.aljazeera.com/news/2026/4/29/iran-war-whats-happening-on-day-61-as-uae-exits-opec",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-29T06:58:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes southern Lebanon despite nominal ceasefire, tensions rise",
+      "url": "https://cryptobriefing.com/israel-strikes-southern-lebanon-despite-nominal-ceasefire-tensions-rise/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-04-29T06:55:44Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "'We stand united': Charles hails alliance at US Congress",
+      "url": "https://www.rte.ie/news/world/2026/0429/1570772-charles-trump-washington/",
+      "source": "RTE",
+      "publishedAt": "2026-04-29T06:51:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Germany Overtakes US in Ammunition Production Capacity",
+      "url": "https://www.newsweek.com/germany-overtakes-us-in-ammunition-production-capacity-11886409",
+      "source": "Newsweek",
+      "publishedAt": "2026-04-29T06:46:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pentagon delays $400 million in Ukraine aid amid shifting global priorities",
+      "url": "https://www.naturalnews.com/2026-04-29-pentagon-delays-400m-in-ukraine-aid.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-29T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Drone strike kills nuclear plant worker as Ukraine gambles with nuclear accidents with global consequences",
+      "url": "https://www.naturalnews.com/2026-04-29-ukraine-drone-strike-kills-nuclear-plant-worker.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-29T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S. Embassy in Beirut urges Americans to flee Lebanon as regional war fears mount",
+      "url": "https://www.naturalnews.com/2026-04-29-us-embassy-beirut-urges-americans-flee-lebanon.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-29T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israelâs endless wars bring mass death but no political victories",
+      "url": "https://www.naturalnews.com/2026-04-29-israel-endless-wars-no-political-victories.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-04-29T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "King Charles tries to keep Trump’s attention on Ukraine",
+      "url": "https://www.politico.eu/article/king-charles-saves-keir-starmer-ukraine-strategy/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-04-29T05:36:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "IDF strikes Hezbollah targets, eliminates terrorists in Lebanon",
+      "url": "https://www.israelnationalnews.com/news/426254",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-04-29T05:12:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Endurance and Elimination: Iran, Zionism, and America’s Strategic Captivity",
+      "url": "https://www.globalresearch.ca/iran-zionism-america-strategic-captivity/5924213",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-04-29T03:19:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon’s PM slams Israel’s ‘war crimes’ as attack kills 3 rescue workers",
+      "url": "https://www.aljazeera.com/news/2026/4/29/lebanons-pm-slams-israels-war-crimes-as-attack-kills-3-rescue-workers",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-29T03:11:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Trump says King Charles does not want Iran to have nuclear weapon",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-king-charles-does-not-want-iran-to-have-nuclear-weapon/articleshow/130593924.cms",
@@ -83,28 +179,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Massive explosion from Israeli operation seen in southern Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/massive-explosion-from-israeli-operation-seen-in-southern-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-28T19:34:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Can the Nuclear Non-Proliferation Treaty prevent a disaster?",
       "url": "https://www.aljazeera.com/video/inside-story/2026/4/28/can-the-nuclear-non-proliferation-treaty-prevent-a-disaster",
       "source": "Al Jazeera English",
       "publishedAt": "2026-04-28T19:32:41Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "IDF carries out massive strikes on Hezbollah tunnels in southern Lebanon",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-04-28/ty-article/.premium/idf-carries-out-massive-strikes-on-hezbollah-tunnels-in-southern-lebanon/0000019d-d51a-de5d-a9ff-d7dfd0e70000",
-      "source": "Haaretz",
-      "publishedAt": "2026-04-28T19:10:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Humanity may be doomed to die in nuclear war—unless we act soon, physicist David Gross says",
@@ -139,116 +219,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "IDF destroys Hezbollah’s largest tunnel network amid ceasefire stability",
-      "url": "https://cryptobriefing.com/idf-destroys-hezbollahs-largest-tunnel-network-amid-ceasefire-stability/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-04-28T17:05:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump claims Iran wants US to open Strait of Hormuz ‘as soon as possible’",
-      "url": "https://www.hurriyetdailynews.com/trump-claims-iran-wants-us-to-open-strait-of-hormuz-as-soon-as-possible-221594",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-04-28T16:14:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Peace efforts stall as US examines latest Iran proposal",
-      "url": "https://www.digitaljournal.com/world/peace-efforts-stall-as-us-examines-latest-iran-proposal/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-28T15:27:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "You Are Not Ready For Trump And Iran And Whatever The F*ck THIS Was",
       "url": "https://www.wonkette.com/p/you-are-not-ready-for-trump-and-iran",
       "source": "Wonkette.com",
       "publishedAt": "2026-04-28T15:26:04Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Is Egypt threatening Israel through its military exercises on the border?",
-      "url": "https://www.aljazeera.com/news/2026/4/28/is-egypt-threatening-israel-through-its-military-exercises-on-the-border",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-28T14:50:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The cost of 76 years of US wars, from Korea to Iran",
-      "url": "https://www.aljazeera.com/news/2026/4/28/the-cost-of-76-years-of-us-wars-from-korea-to-iran",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-28T14:30:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Analysis-Drone diplomacy wins Ukraine valuable allies, but now it must deliver",
-      "url": "https://www.yahoo.com/news/articles/analysis-drone-diplomacy-wins-ukraine-141308653.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-04-28T14:13:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US Military Strategy Document Misleads. Deliberately?",
-      "url": "https://www.nakedcapitalism.com/2026/04/us-military-strategy-document-misleads-deliberately.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-04-28T13:55:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Moldova Continues to Economically Strangle Transnistria",
-      "url": "https://www.globalresearch.ca/moldova-economically-strangle-transnistria/5924212",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-28T13:33:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Is Russia Really ‘Too Soft’ in Enforcing its Red Lines?",
-      "url": "https://www.globalresearch.ca/is-russia-really-too-soft-in-enforcing-its-red-lines/5924089",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-28T12:56:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Future of Türkiye-Europe Relations After the Geopolitical Storm",
-      "url": "https://www.globalresearch.ca/future-turkiye-europe-relations/5924025",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-28T12:14:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Peace efforts stall as US examines latest Iran proposal",
-      "url": "https://economictimes.indiatimes.com/news/defence/peace-efforts-stall-as-us-examines-latest-iran-proposal/articleshow/130579699.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-04-28T12:12:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The New Russian-Indian Military Logistics Pact Sends Five Messages to the World",
-      "url": "https://www.globalresearch.ca/new-russian-indian-military-logistics-pact-five-messages/5924010",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-28T12:04:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israeli military issues fresh displacement orders for south Lebanon beyond 'yellow line'",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260428-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-28T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Satellite imagery reveals increased activity at North Korean nuclear complex",

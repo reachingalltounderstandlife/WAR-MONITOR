@@ -1,14 +1,134 @@
 {
-  "updated": "2026-05-01T13:16:45Z",
-  "count": 32,
+  "updated": "2026-05-01T19:09:56Z",
+  "count": 30,
   "articles": [
     {
-      "title": "Iran's supreme leader says US suffered 'disgraceful defeat' and 'only place' for America in Persian Gulf is 'at bottom of its waters'",
-      "url": "https://www.dailymail.com/news/article-15779059/Irans-supreme-leader-says-US-suffered-disgraceful-defeat-place-America-Persian-Gulf-bottom-waters.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-04-30T13:04:34Z",
+      "title": "All the things foreign leaders have offered to name after Donald Trump",
+      "url": "https://theweek.com/politics/trump-named-places-israel-heights-fort-golf-syria-poland",
+      "source": "The Week Magazine",
+      "publishedAt": "2026-04-30T19:06:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran threatens painful response if US renews attacks",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-threatens-painful-response-if-us-renews-attacks/articleshow/130648706.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-04-30T18:36:19Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Iran's supreme leader defies US blockade as oil prices soar",
+      "url": "https://www.hurriyetdailynews.com/irans-supreme-leader-defies-us-blockade-as-oil-prices-soar-221675",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-04-30T18:12:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine expands oil strikes on Russia as Putin proposes brief ceasefire",
+      "url": "https://www.irishtimes.com/world/europe/2026/04/30/ukraine-expands-oil-strikes-on-russia-as-putin-proposes-brief-ceasefire/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-04-30T18:09:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Everything Depends on Our Attitudes’",
+      "url": "http://foreignpolicy.com/2026/04/30/francken-belgium-iran-war-hegseth-trump-hormuz-nato/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-04-30T18:09:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Immigration minister says she's accountable after former IRGC official was granted permit for FIFA event",
+      "url": "https://www.cbc.ca/news/politics/immigration-minister-says-she-s-accountable-after-former-irgc-official-was-granted-permit-for-fifa-event-9.7182963",
+      "source": "CBC News",
+      "publishedAt": "2026-04-30T17:42:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran threatens painful response if US renews attacks",
+      "url": "https://www.yahoo.com/news/articles/us-seeks-international-help-reopen-103203927.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-04-30T17:26:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump slams Germany’s Merz again as rift over Iran war widens",
+      "url": "https://www.aljazeera.com/news/2026/4/30/trump-slams-germanys-merz-again-as-rift-over-iran-war-widens",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-04-30T17:19:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "29,077,848,741: Remember This Number If Democrats Wipe Out Republicans In November",
+      "url": "https://dailycaller.com/2026/04/30/iran-war-energy-costs-gas-prices-diesel-american-consumer-costs-midterms-elections/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-04-30T16:27:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump unleashes on Germany's 'ineffective' Chancellor Merz in furious social media post, lashing out over migration in retaliation for claim Iran has 'humiliated the US'",
+      "url": "https://www.dailymail.com/news/article-15779851/Trump-unleashes-Germanys-ineffective-Chancellor-Merz-furious-social-media-post-lashing-migration-retaliation-claim-Iran-humiliated-US.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-04-30T15:54:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Royals boost Dutch military volunteers as Europe looks to ramp up troop numbers",
+      "url": "https://www.seattlepi.com/news/world/article/royal-recruits-boost-volunteers-as-the-22233763.php",
+      "source": "seattlepi.com",
+      "publishedAt": "2026-04-30T15:51:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Royals boost Dutch military volunteers as Europe looks to ramp up troop numbers",
+      "url": "https://abcnews.com/Business/wireStory/royals-boost-dutch-military-volunteers-europe-ramp-troop-132538316",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-04-30T15:49:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Threatens Painful Response if US Resumes Attacks, Oil Prices Seesaw",
+      "url": "https://www.insurancejournal.com/news/international/2026/04/30/867906.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-04-30T15:20:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia’s veto of the Panel of Experts was a calculated move to obscure the DPRK’s unlawful pursuit of weapons of mass destruction: UK statement at the UN Security Council",
+      "url": "https://www.gov.uk/government/speeches/russias-veto-of-the-panel-of-experts-was-a-calculated-move-to-obscure-the-dprks-unlawful-pursuit-of-weapons-of-mass-destruction-uk-statement-at-the-un",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-04-30T15:09:18Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Horsemen Of The Neocon Apocalypse Reportedly Whispering In Trump’s Ear",
+      "url": "https://dailycaller.com/2026/04/30/axios-report-jack-keane-marc-thiessen-lindsey-graham-consulting-donald-trump-iran-war-deadlock-military-action/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-04-30T14:55:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump signals he's still mad about German chancellor's 'humiliated' remark",
+      "url": "https://www.rawstory.com/trump-signals-he-s-still-mad-about-german-chancellor-s-humiliated-remark/",
+      "source": "Raw Story",
+      "publishedAt": "2026-04-30T14:25:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "China is Equal In Any Future Fight, General Warns...",
@@ -27,104 +147,32 @@
       "_label": "Ukraine"
     },
     {
-      "title": "$25bn or $1 trillion: How much has Iran war really cost the US?",
-      "url": "https://www.aljazeera.com/news/2026/4/30/25bn-or-1-trillion-how-much-has-iran-war-really-cost-the-us",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-30T12:53:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran president says US naval blockade 'doomed to fail'",
-      "url": "https://www.rte.ie/news/middle-east/2026/0430/1571093-iran-us-conflict/",
-      "source": "RTE",
-      "publishedAt": "2026-04-30T12:47:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Russia has given Iran something more important than weapons",
       "url": "https://www.aljazeera.com/opinions/2026/4/30/russia-has-given-iran-something-more-important-than-weapons",
       "source": "Al Jazeera English",
       "publishedAt": "2026-04-30T12:38:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Trap of Eternity: The Islamabad Talks and the Era of the “Stone Age”",
-      "url": "https://www.globalresearch.ca/islamabad-talks-era-stone-age/5924511",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-30T12:34:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Poland, Germany, and New Europe: Is NATO Losing Its Eastern Pillar?",
-      "url": "https://www.globalresearch.ca/poland-germany-new-europe-nato/5924501",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-30T12:28:24Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "The Jacques Baud Affair: How EU Sanctions Threaten Freedom of Expression",
-      "url": "https://www.globalresearch.ca/jacques-baud-eu-sanctions-freedom-expression/5924521",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-04-30T12:13:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran FM urges global community to hold aggressors accountable for 40-day imposed war",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260430-presstv02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-30T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Israel suffers heavy toll from Hezbollah drone strikes, faces operational collapse",
       "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260430-presstv02.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-04-30T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "April 30: Iran declares 'new chapter' in managing Strait of Hormuz as US pressure wanes",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260430-presstv03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-30T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran dismisses GCC's anti-Iran allegations about retaliatory strikes as 'groundless'",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260430-presstv09.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-30T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Baltic and Nordic foreign ministers decide on a joint position for the NATO Ministerial Meeting and Summit, and on continued support for Ukraine and tightening sanctions against Russia",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260430-latvia-mfa01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-30T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Joint Statement by the Nordic-Baltic Ministers (NB8) of Foreign Affairs",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260430-govno01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-30T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "FM Araghchi hails Lebanon's 'exemplary resistance', reaffirms Iran's support in talks with Berri",
       "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260430-presstv03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-04-30T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "April 30: Iran declares 'new chapter' in managing Strait of Hormuz as US pressure wanes",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/04/iran-260430-presstv03.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-04-30T12:00:00Z",
       "_cat": "lebanon",
@@ -147,36 +195,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Germany faces new threat about reduced US military presence in Europe",
-      "url": "https://abcnews.com/International/wireStory/new-bluster-trump-germany-faces-new-threat-reduced-132528166",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-04-30T11:46:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Pentagon's $25 billion claim masks true cost of war on Iran as US losses mount: Sources",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260430-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-04-30T11:38:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump Tells Netanyahu To Avoid Full Resumption Of War In Lebanon",
       "url": "https://www.globalsecurity.org/military/library/news/2026/04/mil-260430-rferl01.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-04-30T11:38:55Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "The tables have turned. Ukraine is now readying the West for modern war with its weapons and combat expertise.",
-      "url": "https://www.businessinsider.com/ukraine-sharing-weapons-and-battle-expertise-with-west-tables-turned-2026-4",
-      "source": "Business Insider",
-      "publishedAt": "2026-04-30T10:12:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Civilians or Hezbollah: Who did Israel hit on Lebanon’s ‘Black Wednesday’?",
@@ -201,46 +225,6 @@
       "publishedAt": "2026-04-30T09:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Iran defies Trump’s blockade as oil prices soar",
-      "url": "https://www.digitaljournal.com/world/iran-defies-trumps-blockade-as-oil-prices-soar/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-04-30T08:47:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump warns Iran blockade could last months, sending oil prices soaring",
-      "url": "https://www.vanguardngr.com/2026/04/trump-warns-iran-blockade-could-last-months-sending-oil-prices-soaring/",
-      "source": "Vanguard",
-      "publishedAt": "2026-04-30T07:39:55Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Could the US-Iran war become a protracted ‘frozen’ conflict?",
-      "url": "https://www.aljazeera.com/news/2026/4/30/could-the-us-iran-war-become-a-protracted-frozen-conflict",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-04-30T07:03:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Japan puts 'too much burden' on U.S. for security, former defense minister Kono says",
-      "url": "https://www.cnbc.com/2026/04/30/japan-us-security-burden-taro-kono-defense-china-tensions-taro-kono.html",
-      "source": "CNBC",
-      "publishedAt": "2026-04-30T07:02:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US-Led Sanctions: The End of a Regime",
-      "url": "https://www.nakedcapitalism.com/2026/04/us-led-sanctions-the-end-of-a-regime.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-04-30T06:55:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Where Is Iran’s Enriched Uranium?",

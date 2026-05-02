@@ -1,14 +1,150 @@
 {
-  "updated": "2026-05-02T07:42:24Z",
-  "count": 31,
+  "updated": "2026-05-02T13:08:51Z",
+  "count": 34,
   "articles": [
     {
-      "title": "Iran vows ‘long, painful’ response if US renews attacks",
-      "url": "https://www.aljazeera.com/news/2026/5/1/iran-vows-long-painful-response-if-us-renews-attacks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-01T07:32:57Z",
+      "title": "Not Even Republicans Buy Pete Hegseth’s Claim on Legality of Iran War",
+      "url": "https://newrepublic.com/post/209838/republicans-pete-hegseth-iran-war-approval-ceasefire",
+      "source": "The New Republic",
+      "publishedAt": "2026-05-01T12:45:06Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Bitcoin Closes April Up 12% as Strategy's MSTR Posts First Positive Month Since July",
+      "url": "https://decrypt.co/366297/bitcoin-closes-april-up-12-as-strategys-mstr-posts-first-positive-month-since-july",
+      "source": "Decrypt",
+      "publishedAt": "2026-05-01T11:47:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran warns of \"painful retaliation\" for any resumption of U.S. strikes",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/",
+      "source": "CBS News",
+      "publishedAt": "2026-05-01T11:19:37Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
+      "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-01T10:56:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 5/1/2026",
+      "url": "https://www.nakedcapitalism.com/2026/05/links-5-1-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-01T10:55:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Not Just an Abstract Moral Appeal: Ending the Nuclear Age Is a Requirement for Survival",
+      "url": "https://www.commondreams.org/opinion/end-nuclear-age-survival",
+      "source": "Common Dreams",
+      "publishedAt": "2026-05-01T10:50:01Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Falklands claim: Can Argentina’s Milei use Trump ties to challenge the UK?",
+      "url": "https://www.aljazeera.com/news/2026/5/1/falklands-claim-can-argentinas-milei-use-trump-ties-to-challenge-the-uk",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-01T10:35:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump considers unleashing America's £30million Dark Eagle hypersonic missiles for the first time as he weighs up new strikes on Iran",
+      "url": "https://www.dailymail.com/news/article-15781843/Trump-considers-unleashing-Americas-30million-Dark-Eagle-hypersonic-missiles-time-weighs-new-strikes-Iran.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-01T10:01:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UAE says Iran cannot be trusted over Hormuz, peace efforts at an impasse",
+      "url": "https://economictimes.indiatimes.com/news/defence/uae-says-iran-cannot-be-trusted-over-hormuz-peace-efforts-at-an-impasse/articleshow/130675016.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-01T10:01:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes Hezbollah command HQ, military buildings in Lebanon",
+      "url": "https://cryptobriefing.com/israel-strikes-hezbollah-command-hq-military-buildings-in-lebanon/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-01T09:59:32Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IDF strikes over 40 Hezbollah targets in Lebanon",
+      "url": "https://www.israelnationalnews.com/news/426391",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-01T09:52:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The operation that took out Hezbollah’s stronghold - without a ground maneuver",
+      "url": "https://www.israelnationalnews.com/news/426389",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-01T09:47:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "She Was an Architect of Obama’s Iran Nuclear Deal. Now She’s Watching Trump’s War in Horror.",
+      "url": "https://slate.com/news-and-politics/2026/05/trump-iran-war-obama-nuclear-peace-deal.html",
+      "source": "Slate Magazine",
+      "publishedAt": "2026-05-01T09:45:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Always welcomed negotiations': Iran's Chief Justice says Tehran open to talks based on 'logic and rationality'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/always-welcomed-negotiations-irans-chief-justice-says-tehran-open-to-talks-based-on-logic-and-rationality/articleshow/130674684.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-01T09:41:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Politico: US-Germany relations at a breaking point",
+      "url": "https://en.protothema.gr/2026/05/01/politico-us-germany-relations-at-a-breaking-point/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-05-01T09:31:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "'Absolutely NOT self-defence': Iran slams US military campaign as 'act of aggression'",
+      "url": "https://economictimes.indiatimes.com/news/defence/absolutely-not-self-defence-iran-slams-us-military-campaign-as-act-of-aggression/articleshow/130674282.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-01T09:15:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran activates air defences as Trump faces congressional deadline",
+      "url": "https://www.vanguardngr.com/2026/05/iran-activates-air-defences-as-trump-faces-congressional-deadline/",
+      "source": "Vanguard",
+      "publishedAt": "2026-05-01T09:05:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran activates air defences as White House says ceasefire paused Congress deadline",
+      "url": "https://www.channelnewsasia.com/world/iran-war-white-house-ceasefire-congress-deadline-6094196",
+      "source": "CNA",
+      "publishedAt": "2026-05-01T08:11:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israeli shelling on Labour Day escalates tensions in Lebanon",
@@ -17,22 +153,6 @@
       "publishedAt": "2026-05-01T07:31:25Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Oil prices rise again with no sign of end to Iran war",
-      "url": "https://www.rte.ie/news/business/2026/0501/1571237-world-oil-prices-rise-again/",
-      "source": "RTE",
-      "publishedAt": "2026-05-01T07:25:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hegseth faces questions about Iran in first congressional appearance since war began",
-      "url": "https://www.npr.org/2026/05/01/g-s1-119666/hegseth-faces-questions-about-iran",
-      "source": "NPR",
-      "publishedAt": "2026-05-01T06:50:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Mixed messages and military mismatch erode U.S. and Europe's Atlantic pact",
@@ -47,8 +167,8 @@
       "url": "https://www.hurriyetdailynews.com/iran-activates-air-defenses-as-trump-faces-congressional-deadline-221685",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-05-01T06:46:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump’s Neo-Reagan Doctrine Is Rolling Back Russian Influence Across The World",
@@ -57,30 +177,6 @@
       "publishedAt": "2026-05-01T06:46:40Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US official says Iran war truce 'terminated' hostilities for war powers deadline",
-      "url": "https://www.channelnewsasia.com/world/us-official-says-iran-war-truce-terminated-hostilities-war-powers-deadline-6094121",
-      "source": "CNA",
-      "publishedAt": "2026-05-01T06:37:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US presents new military options to Trump amid Iran tensions",
-      "url": "https://cryptobriefing.com/us-presents-new-military-options-to-trump-amid-iran-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-01T06:21:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. CENTCOM Seeks Hypersonic Missile Deployment to Middle East for Potential Iran Operations",
-      "url": "https://www.naturalnews.com/2026-05-01-centcom-seeks-hypersonic-missile-deployment-middle-east.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-01T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraineâs Zelensky: Wartime hero or authoritarian liability?",
@@ -95,38 +191,6 @@
       "url": "https://www.thejournal.ie/iran-air-defence-us-deadline-clash-war-powers-7028548-May2026/",
       "source": "TheJournal.ie",
       "publishedAt": "2026-05-01T05:59:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Roaming Charges: Bad Citizens",
-      "url": "https://www.counterpunch.org/?p=409933",
-      "source": "CounterPunch",
-      "publishedAt": "2026-05-01T05:58:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war: What’s happening on day 63 as Trump signals possible attacks",
-      "url": "https://www.aljazeera.com/news/2026/5/1/iran-war-whats-happening-on-day-63-as-trump-signals-possible-attacks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-01T05:37:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel orders evacuation of Lebanese towns ahead of planned military strikes",
-      "url": "https://cryptobriefing.com/israel-orders-evacuation-of-lebanese-towns-ahead-of-planned-military-strikes/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-01T04:55:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran activates air defences as Trump faces congressional deadline",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-activates-air-defences-as-trump-faces-congressional-deadline/articleshow/130670427.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-01T04:48:33Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -139,14 +203,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Hezbollah drone strikes cause Israeli operational collapse in Lebanon",
-      "url": "https://cryptobriefing.com/hezbollah-drone-strikes-cause-israeli-operational-collapse-in-lebanon/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-01T02:49:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "No, Zelensky Is Not ‘The Leader of the Free World’",
       "url": "https://original.antiwar.com/ted_galen_carpenter/2026/04/30/absurd-article-says-zelensky-is-the-leader-of-the-free-world/",
       "source": "Antiwar.com",
@@ -155,36 +211,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "'War Criminal' Pete Hegseth Hammered on True Costs of Iran Debacle During Senate Hearing",
-      "url": "https://www.commondreams.org/news/pete-hegseth-senate-hearing",
-      "source": "Common Dreams",
-      "publishedAt": "2026-04-30T23:00:37Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "A King (or Two), a President, and a Troll",
       "url": "https://www.newyorker.com/news/letter-from-trumps-washington/in-trumps-america-it-takes-a-king-to-praise-democracy",
       "source": "The New Yorker",
       "publishedAt": "2026-04-30T22:54:32Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Hezbollah Launches Daily Drone Strikes Against Israeli Troops in Southern Lebanon",
-      "url": "https://www.breitbart.com/middle-east/2026/04/30/hezbollah-launches-daily-drone-strikes-against-israeli-troops-in-southern-lebanon/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-04-30T22:25:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran threatens painful response if U.S. renews attacks",
-      "url": "https://japantoday.com/category/world/iran-threatens-painful-response-if-us-renews-attacks",
-      "source": "Japan Today",
-      "publishedAt": "2026-04-30T21:40:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Merz better focus on ending Ukraine conflict – Trump",
@@ -207,14 +239,6 @@
       "url": "https://theweek.com/politics/trump-named-places-israel-heights-fort-golf-syria-poland",
       "source": "The Week Magazine",
       "publishedAt": "2026-04-30T19:06:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "‘Everything Depends on Our Attitudes’",
-      "url": "http://foreignpolicy.com/2026/04/30/francken-belgium-iran-war-hegseth-trump-hormuz-nato/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-04-30T18:09:01Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

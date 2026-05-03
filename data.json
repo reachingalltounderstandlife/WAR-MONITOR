@@ -1,22 +1,134 @@
 {
-  "updated": "2026-05-03T02:48:52Z",
-  "count": 27,
+  "updated": "2026-05-03T08:00:04Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "US warns shipping firms they could face sanctions over Strait of Hormuz tolls",
+      "url": "https://www.independent.ie/world-news/middle-east/us-warns-shipping-firms-they-could-face-sanctions-over-strait-of-hormuz-tolls/a721704093.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-02T08:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran military official says renewed war with US 'likely'",
+      "url": "https://www.rte.ie/news/2026/0502/1571420-iran-war/",
+      "source": "RTE",
+      "publishedAt": "2026-05-02T07:50:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran military official says renewed war with US 'likely'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-military-official-says-renewed-war-with-us-likely/articleshow/130712542.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-02T07:48:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
+      "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-02T06:27:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Iran ceasefire means he does not need Congress approval for war",
+      "url": "https://www.irishtimes.com/world/us/2026/05/02/trump-says-iran-ceasefire-means-he-does-not-need-congress-approval-for-war/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-02T06:25:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "India-Linked Tanker Laden With Cooking Fuel Attempts Hormuz Exit",
+      "url": "https://financialpost.com/pmn/business-pmn/india-linked-tanker-laden-with-cooking-fuel-attempts-hormuz-exit",
+      "source": "Financial Post",
+      "publishedAt": "2026-05-02T06:22:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Is US 'humiliated' over Iran, as German leader claims?",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0502/1571365-is-us-humiliated-over-iran-as-german-leader-claims/",
+      "source": "RTE",
+      "publishedAt": "2026-05-02T06:00:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel Defense Chief: Strikes on Iran Could Resume Soon",
+      "url": "https://www.naturalnews.com/2026-05-02-israel-defense-chief-strikes-iran-could-resume.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-02T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says U.S. Has ‘Already Won’ Iran War but Seeks ‘Bigger Margin’",
+      "url": "https://www.naturalnews.com/2026-05-02-trump-says-us-already-won-iran-war.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-02T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin personally oversees nuclear arsenal as Russia warns of “real possibility” of apocalypse",
+      "url": "https://www.naturalnews.com/2026-05-02-putin-oversees-nuclear-arsenal-russia-warns-apocalypse.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-02T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S. to withdraw 5,000 troops from Germany in next 6-12 months",
+      "url": "https://www.npr.org/2026/05/02/g-s1-119864/u-s-withdraw-troops-germany",
+      "source": "NPR",
+      "publishedAt": "2026-05-02T05:33:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US bases in Gulf become Achilles heel as Iran inflicts 'unprecedented damage': Report",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-bases-in-gulf-become-achilles-heel-as-iran-inflicts-unprecedented-damage-report/articleshow/130710541.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-02T05:15:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Donald Trump ‘not satisfied’ with Iran’s latest proposal for talks to end war",
+      "url": "https://www.independent.ie/world-news/middle-east/donald-trump-not-satisfied-with-irans-latest-proposal-for-talks-to-end-war/a498780619.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-02T04:30:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon says 13 killed in Israeli strikes on south",
+      "url": "https://www.rte.ie/news/middle-east/2026/0502/1571409-middle-east-lebanon/",
+      "source": "RTE",
+      "publishedAt": "2026-05-02T04:08:55Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Trump advises Netanyahu on surgical strikes amid faltering Lebanon ceasefire",
       "url": "https://cryptobriefing.com/trump-advises-netanyahu-on-surgical-strikes-amid-faltering-lebanon-ceasefire/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-05-02T02:46:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Lebanon says 13 killed in Israeli strikes in south",
       "url": "https://www.digitaljournal.com/world/lebanon-says-13-killed-in-israeli-strikes-in-south/article",
       "source": "Digital Journal",
       "publishedAt": "2026-05-02T01:17:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "RT crew films Israel striking Lebanon despite US-mediated truce (VIDEO)",
@@ -43,14 +155,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump 'not satisfied' with new Iran proposal amid ceasefire stalemate",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-not-satisfied-with-new-iran-proposal-amid-ceasefire-stalemate/articleshow/130708185.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-02T00:34:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "US warns key Ukraine backers of delays in weapons deliveries – FT",
       "url": "https://www.rt.com/news/639350-trump-us-iran-weapons-delayed/",
       "source": "RT",
@@ -59,20 +163,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran conflict spikes fuel prices, halts Strait of Hormuz shipping",
-      "url": "https://cryptobriefing.com/iran-conflict-spikes-fuel-prices-halts-strait-of-hormuz-shipping/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-01T22:45:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israeli Bulldozers Flatten Southern Lebanese Villages, Satellite Analysis Shows Over 1,400 Buildings Destroyed",
       "url": "https://www.activistpost.com/israeli-bulldozers-flatten-southern-lebanese-villages-satellite-analysis-shows-over-1400-buildings-destroyed/",
       "source": "Activistpost.com",
       "publishedAt": "2026-05-01T22:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Lebanon says 12 killed in Israeli strikes on southern town",
@@ -83,76 +179,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "At least 12 killed in latest Israeli attacks on Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-01T21:10:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump: 60-Day War Powers Deadline ‘Totally Unconstitutional’",
-      "url": "http://foreignpolicy.com/2026/05/01/trump-60-days-war-powers-resolution-unconstitutional-iran-us-congress/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-01T20:58:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump 'not satisfied' with Iran's latest proposal to end war as talks remain frozen",
-      "url": "https://www.thejournal.ie/trump-not-satisfied-latest-talks-proposal-iran-7029444-May2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-05-01T20:56:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Ukraine sees path to Japanese arms after Tokyo eases export rules",
       "url": "https://japantoday.com/category/politics/exclusive-ukraine-sees-path-to-japanese-arms-after-tokyo-eases-export-rules",
       "source": "Japan Today",
       "publishedAt": "2026-05-01T20:44:34Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump tells U.S. Congress that ceasefire 'terminated' Iran conflict, as war powers deadline arrives",
-      "url": "https://www.cbc.ca/news/world/trump-iran-war-ceasefire-war-powers-deadline-congress-9.7184875",
-      "source": "CBC News",
-      "publishedAt": "2026-05-01T20:38:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel strikes in southern Lebanon kill 10 people as a Hezbollah drone wounds 2 Israeli soldiers",
-      "url": "https://japantoday.com/category/world/israel-strikes-southern-lebanon-killing-4-hezbollah-drone-wounds-2-israeli-soldiers",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-01T20:38:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli strikes kill six in Lebanon - health ministry",
-      "url": "https://www.rte.ie/news/middle-east/2026/0501/1571393-lebanon-strikes-world/",
-      "source": "RTE",
-      "publishedAt": "2026-05-01T20:21:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump 'not satisfied' with Iran's proposal to end the war",
-      "url": "https://www.pbs.org/newshour/world/trump-not-satisfied-with-irans-proposal-to-end-the-war",
-      "source": "PBS",
-      "publishedAt": "2026-05-01T20:12:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Suggests War Powers Resolution Is ‘Unconstitutional’",
-      "url": "http://nymag.com/intelligencer/article/trump-suggests-war-powers-resolution-is-unconstitutional.html",
-      "source": "New York Magazine",
-      "publishedAt": "2026-05-01T20:06:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "King Charles’ stiff upper lip on Epstein: ‘support victims of some of the ills that, so tragically, exist in both our societies’",
@@ -195,28 +227,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Trump’s threat: Why cutting US troops in Europe won’t be easy",
-      "url": "https://www.aljazeera.com/news/2026/5/1/trumps-threat-why-cutting-us-troops-in-europe-wont-be-easy",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-01T13:25:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Not Just an Abstract Moral Appeal: Ending the Nuclear Age Is a Requirement for Survival",
       "url": "https://www.commondreams.org/opinion/end-nuclear-age-survival",
       "source": "Common Dreams",
       "publishedAt": "2026-05-01T10:50:01Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Politico: US-Germany relations at a breaking point",
-      "url": "https://en.protothema.gr/2026/05/01/politico-us-germany-relations-at-a-breaking-point/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-05-01T09:31:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

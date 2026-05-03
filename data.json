@@ -1,7 +1,127 @@
 {
-  "updated": "2026-05-03T13:07:49Z",
+  "updated": "2026-05-03T18:58:06Z",
   "count": 27,
   "articles": [
+    {
+      "title": "Americans warned to avoid traveling to picturesque country over security fears",
+      "url": "https://www.dailymail.com/news/article-15784765/american-avoid-traveling-azerbaijan-security.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-02T18:46:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Britain will suffer long delays for missiles from US as Pentagon struggles to replenish stockpiles due to Iran war",
+      "url": "https://www.dailymail.com/news/article-15785137/Britain-delays-missiles-US-Pentagon-stockpiles-Iran-war.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-02T18:12:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel conducts over 20 strikes on Hezbollah in southern Lebanon, dozens killed",
+      "url": "https://cryptobriefing.com/israel-conducts-over-20-strikes-on-hezbollah-in-southern-lebanon-dozens-killed/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-02T17:51:38Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Watch: Elimination of Hezbollah terrorists continues",
+      "url": "https://www.israelnationalnews.com/news/426420",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-02T17:18:13Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Top Republicans express concern after US orders withdrawal of 5,000 troops from Germany",
+      "url": "https://www.irishtimes.com/world/europe/2026/05/02/top-republicans-express-concern-after-us-orders-withdrawal-of-5000-troops-from-germany/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-02T16:05:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine’s rapid rise as an anti-drone powerhouse",
+      "url": "https://newatlas.com/military/ukraines-anti-drone-expertise-rise/",
+      "source": "New Atlas",
+      "publishedAt": "2026-05-02T16:03:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Germany says US troop drawdown should spur Europe, but top Republicans worried",
+      "url": "https://www.yahoo.com/news/articles/us-troop-drawback-underlines-european-080323479.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-02T15:55:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran peace talks in jeopardy as US ally openly defies Trump: report",
+      "url": "https://www.rawstory.com/iran-war-2676844040/",
+      "source": "Raw Story",
+      "publishedAt": "2026-05-02T15:54:57Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S. to withdraw 5,000 troops from Germany in next 6 to12 months",
+      "url": "https://www.pbs.org/newshour/world/u-s-to-withdraw-5000-troops-from-germany-in-next-6-to12-months",
+      "source": "PBS",
+      "publishedAt": "2026-05-02T15:36:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "India-linked tanker Sarv Shakti carrying cooking fuel crosses Strait of Hormuz",
+      "url": "https://www.moneycontrol.com/news/business/india-linked-tanker-sarv-shakti-carrying-cooking-fuel-crosses-strait-of-hormuz-13906165.html",
+      "source": "Moneycontrol",
+      "publishedAt": "2026-05-02T15:01:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel launches airstrikes in Lebanon amid ongoing ceasefire violations",
+      "url": "https://cryptobriefing.com/israel-launches-airstrikes-in-lebanon-amid-ongoing-ceasefire-violations/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-02T14:56:58Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Europe rattled by 'disastrous trend' as Trump pulls 5,000 troops out of Germany",
+      "url": "https://www.nbcnews.com/world/europe/europe-rattled-disastrous-trend-trump-pulls-5000-troops-germany-rcna343189",
+      "source": "NBC News",
+      "publishedAt": "2026-05-02T14:20:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Renewed war with US still possible, says Iran",
+      "url": "https://punchng.com/renewed-war-with-us-still-possible-says-iran/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-02T14:20:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-proposal-rejected-by-trump-would-open-strait-before-nuclear-talks-iran-official-says/articleshow/130717372.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-02T13:24:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia Poisons Wikipedia",
+      "url": "https://www.bettedangerous.com/p/russia-poisons-wikipedia",
+      "source": "Bettedangerous.com",
+      "publishedAt": "2026-05-02T13:07:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Iran military official says renewed war with US ‘likely’",
       "url": "https://www.digitaljournal.com/world/iran-military-official-says-renewed-war-with-us-likely/article",
@@ -59,14 +179,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Germany urges stronger European defence after US announces troop drawdown",
-      "url": "https://economictimes.indiatimes.com/news/defence/germany-urges-stronger-european-defence-after-us-announces-troop-drawdown/articleshow/130715024.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-02T11:10:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Links 5/2/2026",
       "url": "https://www.nakedcapitalism.com/2026/05/links-5-2-2026.html",
       "source": "Nakedcapitalism.com",
@@ -75,124 +187,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Thirteen killed in Israeli airstrikes on southern Lebanon amid ongoing conflict",
-      "url": "https://cryptobriefing.com/thirteen-killed-in-israeli-airstrikes-on-southern-lebanon-amid-ongoing-conflict/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-02T10:01:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "War in the Middle East: latest developments",
       "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-64/article",
       "source": "Digital Journal",
       "publishedAt": "2026-05-02T09:52:20Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo",
-      "source": "BBC News",
-      "publishedAt": "2026-05-02T09:41:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Russian forces capture Myropillia in eastern Ukraine amid ongoing conflict",
-      "url": "https://cryptobriefing.com/russian-forces-capture-myropillia-in-eastern-ukraine-amid-ongoing-conflict/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-02T09:40:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Says Prefers Not to Strike Iran Even as Frustration Mounts",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-says-prefers-not-to-strike-iran-even-as-frustration-mounts",
-      "source": "Financial Post",
-      "publishedAt": "2026-05-02T09:10:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Germany says Trump withdrawing 5,000 US troops was expected as president's row with Chancellor Merz escalates",
-      "url": "https://www.dailymail.com/news/article-15784447/Germany-says-Trump-withdrawing-US-troops-expected-Merz.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-02T08:48:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran military official says renewed war with US ‘likely’",
-      "url": "https://www.vanguardngr.com/2026/05/iran-military-official-says-renewed-war-with-us-likely/",
-      "source": "Vanguard",
-      "publishedAt": "2026-05-02T08:47:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "India-linked tanker laden with cooking fuel attempts Hormuz exit",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-linked-tanker-laden-with-cooking-fuel-attempts-hormuz-exit/articleshow/130713076.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-02T08:47:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran military official says renewed war with US 'likely'",
-      "url": "https://www.channelnewsasia.com/world/iran-war-renewed-conflict-us-likely-trump-hormuz-ceasefire-6095861",
-      "source": "CNA",
-      "publishedAt": "2026-05-02T08:26:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran military official says renewed war with US 'likely'",
-      "url": "https://www.rte.ie/news/2026/0502/1571420-iran-war/",
-      "source": "RTE",
-      "publishedAt": "2026-05-02T07:50:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Putin personally oversees nuclear arsenal as Russia warns of “real possibility” of apocalypse",
-      "url": "https://www.naturalnews.com/2026-05-02-putin-oversees-nuclear-arsenal-russia-warns-apocalypse.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-02T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "U.S. to withdraw 5,000 troops from Germany in next 6-12 months",
-      "url": "https://www.npr.org/2026/05/02/g-s1-119864/u-s-withdraw-troops-germany",
-      "source": "NPR",
-      "publishedAt": "2026-05-02T05:33:54Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US to withdraw 5,000 troops from Germany in next 6-12 months, fulfilling Trump's threat",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-to-withdraw-5000-troops-from-germany-in-next-6-12-months-fulfilling-trumps-threat/articleshow/130708242.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-02T00:52:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "U.S. to withdraw 5,000 troops from Germany in next 6-12 months",
-      "url": "https://japantoday.com/category/world/us-to-withdraw-5-000-troops-from-germany-in-next-6-12-months",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-02T00:36:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US warns key Ukraine backers of delays in weapons deliveries – FT",
-      "url": "https://www.rt.com/news/639350-trump-us-iran-weapons-delayed/",
-      "source": "RT",
-      "publishedAt": "2026-05-01T23:06:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "King Charles’ stiff upper lip on Epstein: ‘support victims of some of the ills that, so tragically, exist in both our societies’",

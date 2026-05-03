@@ -1,12 +1,148 @@
 {
-  "updated": "2026-05-03T08:00:04Z",
-  "count": 29,
+  "updated": "2026-05-03T13:07:49Z",
+  "count": 27,
   "articles": [
     {
-      "title": "US warns shipping firms they could face sanctions over Strait of Hormuz tolls",
-      "url": "https://www.independent.ie/world-news/middle-east/us-warns-shipping-firms-they-could-face-sanctions-over-strait-of-hormuz-tolls/a721704093.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-05-02T08:00:00Z",
+      "title": "Iran military official says renewed war with US ‘likely’",
+      "url": "https://www.digitaljournal.com/world/iran-military-official-says-renewed-war-with-us-likely/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-05-02T13:07:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli air strikes kill 10 people in southern Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-02T12:55:34Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli airstrikes on southern Lebanon kill at least 7 despite ceasefire deal",
+      "url": "https://www.cbc.ca/news/world/israel-airstrikes-lebanon-ceasefire-9.7185537",
+      "source": "CBC News",
+      "publishedAt": "2026-05-02T12:39:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says - BBC",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183103930",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-02T12:32:37Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Administration to Withdraw Thousands of Troops From NATO Ally Germany, Pentagon Says",
+      "url": "https://www.breitbart.com/europe/2026/05/02/trump-admin-to-withdraw-thousands-of-troops-from-nato-ally-germany/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-05-02T12:25:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US State Department OKs $8.6 Billion In Military Sales To Israel, Gulf Allies",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260502-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-02T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
+      "url": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-02T11:34:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Germany urges stronger European defence after US announces troop drawdown",
+      "url": "https://economictimes.indiatimes.com/news/defence/germany-urges-stronger-european-defence-after-us-announces-troop-drawdown/articleshow/130715024.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-02T11:10:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 5/2/2026",
+      "url": "https://www.nakedcapitalism.com/2026/05/links-5-2-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-02T10:59:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Thirteen killed in Israeli airstrikes on southern Lebanon amid ongoing conflict",
+      "url": "https://cryptobriefing.com/thirteen-killed-in-israeli-airstrikes-on-southern-lebanon-amid-ongoing-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-02T10:01:58Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "War in the Middle East: latest developments",
+      "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-64/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-05-02T09:52:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo",
+      "source": "BBC News",
+      "publishedAt": "2026-05-02T09:41:07Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Russian forces capture Myropillia in eastern Ukraine amid ongoing conflict",
+      "url": "https://cryptobriefing.com/russian-forces-capture-myropillia-in-eastern-ukraine-amid-ongoing-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-02T09:40:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Says Prefers Not to Strike Iran Even as Frustration Mounts",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-says-prefers-not-to-strike-iran-even-as-frustration-mounts",
+      "source": "Financial Post",
+      "publishedAt": "2026-05-02T09:10:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Germany says Trump withdrawing 5,000 US troops was expected as president's row with Chancellor Merz escalates",
+      "url": "https://www.dailymail.com/news/article-15784447/Germany-says-Trump-withdrawing-US-troops-expected-Merz.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-02T08:48:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran military official says renewed war with US ‘likely’",
+      "url": "https://www.vanguardngr.com/2026/05/iran-military-official-says-renewed-war-with-us-likely/",
+      "source": "Vanguard",
+      "publishedAt": "2026-05-02T08:47:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "India-linked tanker laden with cooking fuel attempts Hormuz exit",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-linked-tanker-laden-with-cooking-fuel-attempts-hormuz-exit/articleshow/130713076.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-02T08:47:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran military official says renewed war with US 'likely'",
+      "url": "https://www.channelnewsasia.com/world/iran-war-renewed-conflict-us-likely-trump-hormuz-ceasefire-6095861",
+      "source": "CNA",
+      "publishedAt": "2026-05-02T08:26:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -15,64 +151,8 @@
       "url": "https://www.rte.ie/news/2026/0502/1571420-iran-war/",
       "source": "RTE",
       "publishedAt": "2026-05-02T07:50:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran military official says renewed war with US 'likely'",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-military-official-says-renewed-war-with-us-likely/articleshow/130712542.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-02T07:48:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
-      "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-02T06:27:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says Iran ceasefire means he does not need Congress approval for war",
-      "url": "https://www.irishtimes.com/world/us/2026/05/02/trump-says-iran-ceasefire-means-he-does-not-need-congress-approval-for-war/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-02T06:25:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "India-Linked Tanker Laden With Cooking Fuel Attempts Hormuz Exit",
-      "url": "https://financialpost.com/pmn/business-pmn/india-linked-tanker-laden-with-cooking-fuel-attempts-hormuz-exit",
-      "source": "Financial Post",
-      "publishedAt": "2026-05-02T06:22:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Is US 'humiliated' over Iran, as German leader claims?",
-      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0502/1571365-is-us-humiliated-over-iran-as-german-leader-claims/",
-      "source": "RTE",
-      "publishedAt": "2026-05-02T06:00:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel Defense Chief: Strikes on Iran Could Resume Soon",
-      "url": "https://www.naturalnews.com/2026-05-02-israel-defense-chief-strikes-iran-could-resume.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-02T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Says U.S. Has ‘Already Won’ Iran War but Seeks ‘Bigger Margin’",
-      "url": "https://www.naturalnews.com/2026-05-02-trump-says-us-already-won-iran-war.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-02T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Putin personally oversees nuclear arsenal as Russia warns of “real possibility” of apocalypse",
@@ -89,54 +169,6 @@
       "publishedAt": "2026-05-02T05:33:54Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US bases in Gulf become Achilles heel as Iran inflicts 'unprecedented damage': Report",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-bases-in-gulf-become-achilles-heel-as-iran-inflicts-unprecedented-damage-report/articleshow/130710541.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-02T05:15:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Donald Trump ‘not satisfied’ with Iran’s latest proposal for talks to end war",
-      "url": "https://www.independent.ie/world-news/middle-east/donald-trump-not-satisfied-with-irans-latest-proposal-for-talks-to-end-war/a498780619.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-05-02T04:30:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon says 13 killed in Israeli strikes on south",
-      "url": "https://www.rte.ie/news/middle-east/2026/0502/1571409-middle-east-lebanon/",
-      "source": "RTE",
-      "publishedAt": "2026-05-02T04:08:55Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump advises Netanyahu on surgical strikes amid faltering Lebanon ceasefire",
-      "url": "https://cryptobriefing.com/trump-advises-netanyahu-on-surgical-strikes-amid-faltering-lebanon-ceasefire/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-02T02:46:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon says 13 killed in Israeli strikes in south",
-      "url": "https://www.digitaljournal.com/world/lebanon-says-13-killed-in-israeli-strikes-in-south/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-05-02T01:17:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "RT crew films Israel striking Lebanon despite US-mediated truce (VIDEO)",
-      "url": "https://www.rt.com/news/639351-south-lebanon-rt-report-israeli-strike/",
-      "source": "RT",
-      "publishedAt": "2026-05-02T01:09:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "US to withdraw 5,000 troops from Germany in next 6-12 months, fulfilling Trump's threat",
@@ -163,60 +195,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israeli Bulldozers Flatten Southern Lebanese Villages, Satellite Analysis Shows Over 1,400 Buildings Destroyed",
-      "url": "https://www.activistpost.com/israeli-bulldozers-flatten-southern-lebanese-villages-satellite-analysis-shows-over-1400-buildings-destroyed/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-05-01T22:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon says 12 killed in Israeli strikes on southern town",
-      "url": "https://www.channelnewsasia.com/world/lebanon-israel-strikes-hezbollah-war-ceasefire-6095346",
-      "source": "CNA",
-      "publishedAt": "2026-05-01T21:51:13Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Ukraine sees path to Japanese arms after Tokyo eases export rules",
-      "url": "https://japantoday.com/category/politics/exclusive-ukraine-sees-path-to-japanese-arms-after-tokyo-eases-export-rules",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-01T20:44:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "King Charles’ stiff upper lip on Epstein: ‘support victims of some of the ills that, so tragically, exist in both our societies’",
       "url": "https://fortune.com/2026/05/01/king-charles-visit-diplomacy-epstein-trump-criticism-scotch/",
       "source": "Fortune",
       "publishedAt": "2026-05-01T18:42:48Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Stubborn Trump waves off King's royal charm offensive on NATO as he blasts Europe with punishing tariffs",
-      "url": "https://www.dailymail.com/news/article-15783261/donald-trump-king-charles-nato.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-01T18:08:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Reuters: Atlantic alliance creaks as US and Europe fail to see eye-to-eye",
-      "url": "https://i-epikaira.blogspot.com/2026/05/reuters-atlantic-alliance-creaks-as-us.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-05-01T15:07:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "What the Iran War Revealed About Western Military Supremacy",
-      "url": "https://i-epikaira.blogspot.com/2026/05/what-iran-war-revealed-about-western.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-05-01T14:30:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "King Charles III wins praise for deft handling of Trump on his US state visit",

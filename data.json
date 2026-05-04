@@ -1,54 +1,182 @@
 {
-  "updated": "2026-05-04T08:27:59Z",
-  "count": 23,
+  "updated": "2026-05-04T13:58:32Z",
+  "count": 26,
   "articles": [
+    {
+      "title": "Trump says he is likely to reject peace proposal as Iran has 'not yet paid a big enough price'",
+      "url": "https://www.channelnewsasia.com/world/us-trump-likely-reject-iran-peace-proposal-big-enough-price-6096976",
+      "source": "CNA",
+      "publishedAt": "2026-05-03T13:34:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "POLAND: NATO 'DISINTEGRATING'...",
+      "url": "https://www.the-independent.com/news/world/europe/nato-donald-tusk-us-germany-trump-b2969506.html",
+      "source": "The-independent.com",
+      "publishedAt": "2026-05-03T13:00:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A shifting stage: Ukraine fights for attention amid global crises",
+      "url": "https://www.activistpost.com/a-shifting-stage-ukraine-fights-for-attention-amid-global-crises/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-05-03T13:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump vows to withdraw 'a lot' more than 5,000 troops from Germany amid feud - after Chancellor Merz said US was being 'humiliated' by Iran in the war",
+      "url": "https://www.dailymail.com/news/article-15786443/Trump-vows-withdraw-lot-5-000-troops-Germany-amid-feud-Chancellor-Merz-said-US-humiliated-Iran-war.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-03T12:43:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US-Iran war impacts credit markets, dims 2026 Fed rate cut prospects",
+      "url": "https://cryptobriefing.com/us-iran-war-impacts-credit-markets-dims-2026-fed-rate-cut-prospects/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-03T12:12:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "OPEC+ Announces Increased Oil Output After Price Spike",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260503-rferl04.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-03T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran's armed forces will be ultimate victors in ongoing uneven battle: IRGC spokesman",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-03T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Any US interference in new Hormuz regime is ceasefire violation: Iran lawmaker",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-03T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran says it is reviewing US response to 14-point plan delivered via Pakistani intermediary",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260503-presstv04.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-03T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran issues one-month ultimatum to end US-Israeli conflict and blockade",
+      "url": "https://cryptobriefing.com/iran-issues-one-month-ultimatum-to-end-us-israeli-conflict-and-blockade/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-03T11:19:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+      "url": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-03T11:10:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel approves deal to buy fighter jets from US",
+      "url": "https://www.vanguardngr.com/2026/05/israel-approves-deal-to-buy-fighter-jets-from-us/",
+      "source": "Vanguard",
+      "publishedAt": "2026-05-03T11:03:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah pays steep price in battle to reverse its fortunes",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/hezbollah-pays-steep-price-in-battle-to-reverse-its-fortunes/articleshow/130731149.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-03T10:57:59Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Belgium Shows Testing of F-16 with FZ275 Laser-Guided Rockets in C-UAS Trial",
+      "url": "https://theaviationist.com/2026/05/03/belgium-testing-f-16-with-fz275-laser-guided-rockets/",
+      "source": "Theaviationist.com",
+      "publishedAt": "2026-05-03T10:53:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hezbollah lawmaker says group can 'thwart' goals of Lebanon-Israel talks",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/hezbollah-lawmaker-says-group-can-thwart-goals-of-lebanon-israel-talks/articleshow/130730968.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-03T10:45:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli airstrikes in Lebanon escalate tensions with Iran",
+      "url": "https://cryptobriefing.com/israeli-airstrikes-in-lebanon-escalate-tensions-with-iran/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-03T10:33:52Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel orders southern Lebanon evacuations amid military operations",
+      "url": "https://cryptobriefing.com/israel-orders-southern-lebanon-evacuations-amid-military-operations/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-03T09:28:04Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US troop withdrawal from Germany raises NATO deterrence concerns",
+      "url": "https://cryptobriefing.com/us-troop-withdrawal-from-germany-raises-nato-deterrence-concerns/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-03T09:21:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran ready for 'renewed' hostilities as Trump cools on peace proposal",
+      "url": "https://www.abc.net.au/news/2026-05-03/trump-says-us-not-likely-to-accept-new-peace-proposal/106636528",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-03T09:15:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel issues new evacuation warnings in south Lebanon beyond occupied area",
+      "url": "https://www.channelnewsasia.com/world/israel-lebanon-hezbollah-new-evacuation-warnings-6096816",
+      "source": "CNA",
+      "publishedAt": "2026-05-03T09:10:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel issues new forced displacement orders in southern Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/3/israel-issues-new-forced-displacement-orders-in-southern-lebanon",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-03T08:35:43Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "War in the Middle East: latest developments",
       "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-65/article",
       "source": "Digital Journal",
       "publishedAt": "2026-05-03T08:27:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel-Iran energy conflict escalates, potential Iran airspace closure looms",
-      "url": "https://cryptobriefing.com/israel-iran-energy-conflict-escalates-potential-iran-airspace-closure-looms/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-03T07:44:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Global Geopolitics Reshaping After the Iran War (Interactive Map)",
-      "url": "https://i-epikaira.blogspot.com/2026/05/global-geopolitics-reshaping-after-iran.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-05-03T07:33:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says US not likely to accept new Iran peace proposal",
-      "url": "https://www.vanguardngr.com/2026/05/trump-says-us-not-likely-to-accept-new-iran-peace-proposal/",
-      "source": "Vanguard",
-      "publishedAt": "2026-05-03T07:24:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says US not likely to accept new Iran peace proposal",
-      "url": "https://www.thejournal.ie/trump-iran-war-7030205-May2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-05-03T07:07:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-      "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-03T07:02:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "As Carney visits Armenia, experts urge deeper Canada ties in the Caucasus",
@@ -59,76 +187,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump casts doubt on new Iran peace proposal",
-      "url": "https://www.hurriyetdailynews.com/trump-casts-doubt-on-new-iran-peace-proposal-221735",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-03T06:46:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel instructs residents of multiple towns in southern Lebanon to evacuate",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/05/03/israel-instructs-residents-of-multiple-towns-in-southern-lebanon-to-evacuate/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-03T06:34:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US not likely to accept new Iran peace proposal – Trump",
-      "url": "https://punchng.com/us-not-likely-to-accept-new-iran-peace-proposal-trump/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-03T06:20:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. tells Gulf states to hire American companies for Iran damage repairs",
-      "url": "https://www.naturalnews.com/2026-05-03-us-gulf-hire-american-companies-iran-repairs.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-03T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s Injured Supreme Leader Rejects U.S. Nuclear Demands, Threatens Strait of Hormuz",
-      "url": "https://www.naturalnews.com/2026-05-03-iran-injured-supreme-leader-rejects-us-demands.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-03T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Satirical video escalates tensions, complicates Israel-Lebanon withdrawal plans",
-      "url": "https://cryptobriefing.com/satirical-video-escalates-tensions-complicates-israel-lebanon-withdrawal-plans/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-03T03:59:29Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran war live updates: Will soon be reviewing the plan that Iran has sent, Trump says",
-      "url": "https://m.economictimes.com/news/newsblogs/iran-war-trump-west-asia-middle-east-peace-plan-oil-price-crude-india-oil-price-germany-troops/liveblog/130726578.cms",
-      "source": "Economictimes.com",
-      "publishedAt": "2026-05-03T02:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Troop withdrawal announcement adds to friction between Europe and Trump",
       "url": "https://economictimes.indiatimes.com/news/defence/troop-withdrawal-announcement-adds-to-friction-between-europe-and-trump/articleshow/130726491.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-03T01:38:03Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran war: Trump says reviewing new Tehran proposal with doubt",
-      "url": "https://www.dw.com/en/iran-war-trump-says-reviewing-new-tehran-proposal-with-doubt/live-77021634",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-03T01:38:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Trump says US will reduce number of troops in Germany 'a lot further' than withdrawal of 5,000",
@@ -143,46 +207,6 @@
       "url": "https://fortune.com/2026/05/02/trump-us-troops-germany-a-lot-further-5000-nato-europe-force-posture/",
       "source": "Fortune",
       "publishedAt": "2026-05-03T01:15:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why is U.S. reducing number of troops in Germany? What is Donald Trump's dispute with Chancellor Friedrich Merz?",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-u-s-reducing-number-of-troops-in-germany-what-is-donald-trumps-dispute-with-chancellor-friedrich-merz/articleshow/130726334.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-03T00:52:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Op-Ed: Removing US troops from Germany simply proves Trump is out of his depth",
-      "url": "https://www.digitaljournal.com/world/op-ed-removing-us-troops-from-germany-simply-proves-trump-is-out-of-his-depth/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-05-03T00:41:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Germany says US troop drawdown should spur Europe, but top Republicans worried",
-      "url": "https://www.channelnewsasia.com/world/germany-says-us-troop-drawdown-should-spur-europe-top-republicans-worried-6096511",
-      "source": "CNA",
-      "publishedAt": "2026-05-02T23:10:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Germany says U.S. troop drawdown should spur Europe, but top Republicans worried",
-      "url": "https://japantoday.com/category/world/germany-says-us-troop-drawdown-should-spur-europe-but-top-republicans-worried",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-02T20:57:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump’s geopolitical play and why it needs to be aggressive",
-      "url": "https://www.wnd.com/2026/05/trumps-geopolitical-play-why-it-needs-be-aggressive/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-05-02T20:06:28Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

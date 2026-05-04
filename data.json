@@ -1,7 +1,111 @@
 {
-  "updated": "2026-05-04T02:46:01Z",
-  "count": 25,
+  "updated": "2026-05-04T08:27:59Z",
+  "count": 23,
   "articles": [
+    {
+      "title": "War in the Middle East: latest developments",
+      "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-65/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-05-03T08:27:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel-Iran energy conflict escalates, potential Iran airspace closure looms",
+      "url": "https://cryptobriefing.com/israel-iran-energy-conflict-escalates-potential-iran-airspace-closure-looms/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-03T07:44:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Global Geopolitics Reshaping After the Iran War (Interactive Map)",
+      "url": "https://i-epikaira.blogspot.com/2026/05/global-geopolitics-reshaping-after-iran.html",
+      "source": "Blogspot.com",
+      "publishedAt": "2026-05-03T07:33:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says US not likely to accept new Iran peace proposal",
+      "url": "https://www.vanguardngr.com/2026/05/trump-says-us-not-likely-to-accept-new-iran-peace-proposal/",
+      "source": "Vanguard",
+      "publishedAt": "2026-05-03T07:24:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says US not likely to accept new Iran peace proposal",
+      "url": "https://www.thejournal.ie/trump-iran-war-7030205-May2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-05-03T07:07:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+      "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-03T07:02:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "As Carney visits Armenia, experts urge deeper Canada ties in the Caucasus",
+      "url": "https://www.cbc.ca/news/politics/politics-armenia-canada-ties-9.7185261",
+      "source": "CBC News",
+      "publishedAt": "2026-05-03T07:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump casts doubt on new Iran peace proposal",
+      "url": "https://www.hurriyetdailynews.com/trump-casts-doubt-on-new-iran-peace-proposal-221735",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-03T06:46:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel instructs residents of multiple towns in southern Lebanon to evacuate",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/05/03/israel-instructs-residents-of-multiple-towns-in-southern-lebanon-to-evacuate/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-03T06:34:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US not likely to accept new Iran peace proposal – Trump",
+      "url": "https://punchng.com/us-not-likely-to-accept-new-iran-peace-proposal-trump/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-03T06:20:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. tells Gulf states to hire American companies for Iran damage repairs",
+      "url": "https://www.naturalnews.com/2026-05-03-us-gulf-hire-american-companies-iran-repairs.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-03T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran’s Injured Supreme Leader Rejects U.S. Nuclear Demands, Threatens Strait of Hormuz",
+      "url": "https://www.naturalnews.com/2026-05-03-iran-injured-supreme-leader-rejects-us-demands.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-03T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Satirical video escalates tensions, complicates Israel-Lebanon withdrawal plans",
+      "url": "https://cryptobriefing.com/satirical-video-escalates-tensions-complicates-israel-lebanon-withdrawal-plans/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-03T03:59:29Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Iran war live updates: Will soon be reviewing the plan that Iran has sent, Trump says",
       "url": "https://m.economictimes.com/news/newsblogs/iran-war-trump-west-asia-middle-east-peace-plan-oil-price-crude-india-oil-price-germany-troops/liveblog/130726578.cms",
@@ -15,22 +119,14 @@
       "url": "https://economictimes.indiatimes.com/news/defence/troop-withdrawal-announcement-adds-to-friction-between-europe-and-trump/articleshow/130726491.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-03T01:38:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Iran war: Trump says reviewing new Tehran proposal with doubt",
       "url": "https://www.dw.com/en/iran-war-trump-says-reviewing-new-tehran-proposal-with-doubt/live-77021634",
       "source": "DW (English)",
       "publishedAt": "2026-05-03T01:38:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli strikes kill 13 in southern Lebanon",
-      "url": "https://english.khabarhub.com/2026/03/546893/",
-      "source": "Khabarhub.com",
-      "publishedAt": "2026-05-03T01:36:57Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -51,36 +147,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump says US could restart Iran strikes 'if they misbehave'",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-says-us-could-restart-iran-strikes-if-they-misbehave/articleshow/130726368.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-03T00:58:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says US could restart Iran strikes 'if they misbehave'",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-says-us-could-restart-iran-strikes-if-they-misbehave/articleshow/130726359.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-03T00:58:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Why is U.S. reducing number of troops in Germany? What is Donald Trump's dispute with Chancellor Friedrich Merz?",
       "url": "https://economictimes.indiatimes.com/news/international/us/why-is-u-s-reducing-number-of-troops-in-germany-what-is-donald-trumps-dispute-with-chancellor-friedrich-merz/articleshow/130726334.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-03T00:52:13Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel defense minister warns of potential military action against Iran",
-      "url": "https://cryptobriefing.com/israel-defense-minister-warns-of-potential-military-action-against-iran/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-03T00:42:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Op-Ed: Removing US troops from Germany simply proves Trump is out of his depth",
@@ -91,68 +163,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israel strikes in southern Lebanon: casualties? #world",
-      "url": "https://alltoc.com/world/israel-strikes-in-southern-lebanon-casualties",
-      "source": "Alltoc.com",
-      "publishedAt": "2026-05-03T00:03:55Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US could restart Iran strikes 'if they misbehave' - Trump",
-      "url": "https://www.rte.ie/news/middle-east/2026/0503/1571502-us-iran/",
-      "source": "RTE",
-      "publishedAt": "2026-05-03T00:02:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel strikes in southern Lebanon kill 10 people as a Hezbollah drone wounds 2 Israeli soldiers - AP News",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183107338",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-05-02T23:52:25Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump says US could restart Iran strikes 'if they misbehave'",
-      "url": "https://www.channelnewsasia.com/world/trump-us-strikes-iran-hormuz-restart-6096491",
-      "source": "CNA",
-      "publishedAt": "2026-05-02T23:21:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Germany says US troop drawdown should spur Europe, but top Republicans worried",
       "url": "https://www.channelnewsasia.com/world/germany-says-us-troop-drawdown-should-spur-europe-top-republicans-worried-6096511",
       "source": "CNA",
       "publishedAt": "2026-05-02T23:10:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Hezbollah launches rockets at IDF troops as US Embassy calls for high-stakes Israel, Lebanon summit",
-      "url": "https://nypost.com/2026/05/02/world-news/hezbollah-launches-rockets-at-idf-troops-as-us-embassy-calls-for-high-stakes-israel-lebanon-summit/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-02T22:16:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Huge Tehran billboard blasts Trump with Strait of Hormuz plastered across his face: ‘At the breaking point’",
-      "url": "https://nypost.com/2026/05/02/world-news/huge-tehran-billboard-blasts-trump-with-choked-strait-of-hormuz-plastered-across-his-face/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-02T21:21:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran expands military strikes, heightening instability and leadership change odds",
-      "url": "https://cryptobriefing.com/iran-expands-military-strikes-heightening-instability-and-leadership-change-odds/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-02T21:05:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Germany says U.S. troop drawdown should spur Europe, but top Republicans worried",
@@ -169,38 +185,6 @@
       "publishedAt": "2026-05-02T20:06:28Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Republicans Say Reducing Force in Germany Brings Risks",
-      "url": "https://www.newser.com/story/388431/republicans-say-reducing-force-in-germany-brings-risks.html",
-      "source": "Newser",
-      "publishedAt": "2026-05-02T19:59:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US to withdraw 5,000 troops from Germany in next 6-12 months",
-      "url": "https://thehillstimes.in/international/us-to-withdraw-5000-troops-from-germany-in-next-6-12-months",
-      "source": "Thehillstimes.in",
-      "publishedAt": "2026-05-02T19:40:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel strikes several parts of south Lebanon, says targeted Hezbollah",
-      "url": "https://www.vanguardngr.com/2026/05/israel-strikes-several-parts-of-south-lebanon-says-targeted-hezbollah/",
-      "source": "Vanguard",
-      "publishedAt": "2026-05-02T19:36:13Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel conducts over 20 strikes on Hezbollah in southern Lebanon, dozens killed",
-      "url": "https://cryptobriefing.com/israel-conducts-over-20-strikes-on-hezbollah-in-southern-lebanon-dozens-killed/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-02T17:51:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

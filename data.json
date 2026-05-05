@@ -1,7 +1,95 @@
 {
-  "updated": "2026-05-04T19:27:12Z",
-  "count": 25,
+  "updated": "2026-05-05T02:38:32Z",
+  "count": 26,
   "articles": [
+    {
+      "title": "Europe, Canada leaders hold Yerevan talks in Trump’s shadow",
+      "url": "https://www.digitaljournal.com/world/europe-canada-leaders-hold-yerevan-talks-in-trumps-shadow/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-05-04T01:37:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO starts “Amber Shock 26” drills in Poland amid Russia tensions",
+      "url": "https://cryptobriefing.com/nato-starts-amber-shock-26-drills-in-poland-amid-russia-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-04T00:59:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Europe’s Moral Crisis: The Crumbling Shield Around Israel",
+      "url": "https://original.antiwar.com/ramzy-baroud/2026/05/03/europes-moral-crisis-the-crumbling-shield-around-israel/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-05-04T00:00:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran conflict threatens Asia’s food security amid fertilizer supply disruptions",
+      "url": "https://cryptobriefing.com/iran-conflict-threatens-asias-food-security-amid-fertilizer-supply-disruptions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-03T23:33:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says ‘very positive’ Iran talks could lead to breakthrough in crisis",
+      "url": "https://www.vanguardngr.com/2026/05/trump-says-very-positive-iran-talks-could-lead-to-breakthrough-in-crisis/",
+      "source": "Vanguard",
+      "publishedAt": "2026-05-03T22:22:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump hails Iran talks, orders ship escorts through Hormuz",
+      "url": "https://punchng.com/trump-hails-iran-talks-orders-ship-escorts-through-hormuz/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-03T22:21:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump calls Iran talks 'very positive,' US to 'guide' ships through Hormuz",
+      "url": "https://www.channelnewsasia.com/world/iran-us-war-negotiations-strait-hormuz-trump-6097486",
+      "source": "CNA",
+      "publishedAt": "2026-05-03T22:16:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump announces U.S. effort to 'free up' ships stuck in Strait of Hormuz to begin Monday morning",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-04/ty-article-live/trump-announces-effort-to-free-up-ships-stuck-in-strait-of-hormuz/0000019d-efc2-dd9a-a79d-efebc5ca0000",
+      "source": "Haaretz",
+      "publishedAt": "2026-05-03T21:53:04Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran says it has received U.S. response to its latest offer for talks",
+      "url": "https://japantoday.com/category/world/iran-says-it-has-received-us-response-to-its-latest-offer-for-talks",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-03T21:10:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Cargo ship in Strait of Hormuz says it was attacked as peace negotiations continue",
+      "url": "https://www.abc.net.au/news/2026-05-04/iran-review-us-response-to-peace-proposal-middle-east-war/106637344",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-03T20:52:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF deploys Iron Drone Raider in Lebanon amid Hezbollah drone threat",
+      "url": "https://cryptobriefing.com/idf-deploys-iron-drone-raider-in-lebanon-amid-hezbollah-drone-threat/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-03T20:13:08Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Europe ‘Rattled’ by Trump’s U.S. Troop Withdrawal From Germany",
       "url": "https://legalinsurrection.com/2026/05/europe-rattled-by-trumps-u-s-troop-withdrawal-from-germany/",
@@ -43,14 +131,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "A War Declared Over—or Merely Reframed? Narratives, Power, and Perception in the US-Israel-Iran Conflict",
-      "url": "https://www.globalresearch.ca/narratives-power-perception-us-israel-iran-conflict/5924723",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-03T16:45:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "NATO rift widens as Trump eyes troop withdrawal from Germany",
       "url": "https://www.rt.com/news/639394-nato-rift-widens-as-trump-eyes-troop-withdrawal/",
       "source": "RT",
@@ -73,22 +153,6 @@
       "publishedAt": "2026-05-03T15:51:50Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Israel threatens Gaza war resumption to force disarmament as ‘truce’ frays",
-      "url": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-03T15:40:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "UK military says a bulk carrier near Strait of Hormuz reports being attacked",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/uk-military-says-a-bulk-carrier-near-strait-of-hormuz-reports-being-attacked/articleshow/130735219.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-03T15:29:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "IAF strikes Hezbollah in southern Lebanon amid tensions with Israel",
@@ -115,44 +179,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "UAE reopens airspace amid easing tensions, impacting Iran closure market",
-      "url": "https://cryptobriefing.com/uae-reopens-airspace-amid-easing-tensions-impacting-iran-closure-market/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-03T14:38:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Examining NATO: Inside the ‘commitment gap’ as US carries alliance deterrence",
-      "url": "https://www.foxnews.com/world/examining-nato-inside-commitment-gap-us-carries-alliance-deterrence",
-      "source": "Fox News",
-      "publishedAt": "2026-05-03T14:00:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump says he is likely to reject peace proposal as Iran has 'not yet paid a big enough price'",
       "url": "https://www.channelnewsasia.com/world/us-trump-likely-reject-iran-peace-proposal-big-enough-price-6096976",
       "source": "CNA",
       "publishedAt": "2026-05-03T13:34:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "POLAND: NATO 'DISINTEGRATING'...",
-      "url": "https://www.the-independent.com/news/world/europe/nato-donald-tusk-us-germany-trump-b2969506.html",
-      "source": "The-independent.com",
-      "publishedAt": "2026-05-03T13:00:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A shifting stage: Ukraine fights for attention amid global crises",
-      "url": "https://www.activistpost.com/a-shifting-stage-ukraine-fights-for-attention-amid-global-crises/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-05-03T13:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israel approves deal to buy fighter jets from US",
@@ -175,30 +207,6 @@
       "url": "https://economictimes.indiatimes.com/news/international/world-news/hezbollah-lawmaker-says-group-can-thwart-goals-of-lebanon-israel-talks/articleshow/130730968.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-03T10:45:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli airstrikes in Lebanon escalate tensions with Iran",
-      "url": "https://cryptobriefing.com/israeli-airstrikes-in-lebanon-escalate-tensions-with-iran/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-03T10:33:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel orders southern Lebanon evacuations amid military operations",
-      "url": "https://cryptobriefing.com/israel-orders-southern-lebanon-evacuations-amid-military-operations/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-03T09:28:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran ready for 'renewed' hostilities as Trump cools on peace proposal",
-      "url": "https://www.abc.net.au/news/2026-05-03/trump-says-us-not-likely-to-accept-new-peace-proposal/106636528",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-03T09:15:23Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

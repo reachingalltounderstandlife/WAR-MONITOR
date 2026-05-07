@@ -1,7 +1,167 @@
 {
-  "updated": "2026-05-07T14:05:34Z",
-  "count": 36,
+  "updated": "2026-05-07T19:42:09Z",
+  "count": 41,
   "articles": [
+    {
+      "title": "Live: Israel strikes Beirut for the first time since Hezbollah ceasefire as Iran weighs up peace proposal",
+      "url": "https://www.abc.net.au/news/2026-05-07/iran-war-live-updates-us-donald-trump-peace-deal/106650992",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-06T19:40:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Middle East war live: Israel strikes Beirut's southern suburbs, targeted 'top Hezbollah commander' - France 24",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183143010",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-06T19:33:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Poll: Most Americans dislike Trump’s jabs at Pope Leo XIV, favor Leo’s call for peace",
+      "url": "https://www.ewtnnews.com/world/us/poll-americans-leo-trump-comments",
+      "source": "Ewtnnews.com",
+      "publishedAt": "2026-05-06T19:30:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Why the Lebanon-Israel ceasefire is 'in name only'",
+      "url": "https://www.cbc.ca/news/world/lebanon-israel-hezbollah-ceasefire-analysis-9.7188159",
+      "source": "CBC News",
+      "publishedAt": "2026-05-06T18:57:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel strikes Beirut for the first time since ceasefire with Lebanon began",
+      "url": "https://www.thejournal.ie/beirut-israel-strike-7032532-May2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-05-06T18:23:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Shoot Palestinians, not settlers: Israeli general exposes double standard",
+      "url": "https://www.aljazeera.com/news/2026/5/6/shoot-palestinians-not-settlers-israeli-general-exposes-double-standard",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-06T18:18:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Coffee Break: Self-Dealing and Self-Deluding Two Sides of Trump and His Ilk",
+      "url": "https://www.nakedcapitalism.com/2026/05/trump-self-dealing-delusion-oil-market-manipulation-baptists-pederasty.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-06T18:00:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel says carried out strike targeting Hezbollah chief",
+      "url": "https://www.rte.ie/news/middle-east/2026/0506/1572050-lebanon/",
+      "source": "RTE",
+      "publishedAt": "2026-05-06T17:59:04Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel strikes Beirut suburbs for first time since ceasefire was announced",
+      "url": "https://economictimes.indiatimes.com/news/defence/israel-strikes-beirut-suburbs-for-first-time-since-ceasefire-was-announced/articleshow/130865970.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-06T17:53:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel strikes Beirut suburbs for 1st time since ceasefire was announced",
+      "url": "https://www.cbc.ca/news/world/israel-beirut-suburbs-air-strike-ceasefire-lebanon-9.7189905",
+      "source": "CBC News",
+      "publishedAt": "2026-05-06T17:50:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IDF strikes in Beirut, Netanyahu says, in first since Israel-Lebanon cease-fire",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-06/ty-article/.premium/idf-strikes-in-beirut-netanyahu-says-in-first-since-israel-lebanon-cease-fire/0000019d-fe55-d9e5-a7df-ff5de6840000",
+      "source": "Haaretz",
+      "publishedAt": "2026-05-06T17:45:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran Attacks UAE And Ships In Strait of Hormuz",
+      "url": "https://www.shtfplan.com/war/iran-attacks-uae-and-ships-in-strait-of-hormuz",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-05-06T17:30:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "After the Ceasefire: Power, Limits and the Future of Global Order",
+      "url": "https://www.fairobserver.com/politics/after-the-ceasefire-power-limits-and-the-future-of-global-order/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-05-06T16:55:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "CNN’s Abby Phillip, Van Jones clash over questions about Israel’s nuclear weapons",
+      "url": "https://nypost.com/2026/05/06/media/cnns-abby-phillip-van-jones-clash-over-questions-about-israels-nuclear-weapons/",
+      "source": "New York Post",
+      "publishedAt": "2026-05-06T16:17:15Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "WTI crude oil price sharp fall today reason: Why are oil prices suddenly falling today? Here are the main reasons behind the massive crude oil price and Brent oil crash",
+      "url": "https://economictimes.indiatimes.com/news/international/us/wti-crude-oil-price-sharp-fall-today-reason-why-are-oil-prices-suddenly-falling-today-here-are-the-main-reasons-behind-the-massive-crude-oil-price-and-brent-oil-crash/articleshow/130861815.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-06T15:55:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran has hit far more U.S. military assets than reported, satellite images show",
+      "url": "https://freerepublic.com/focus/f-news/4377962/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-05-06T15:51:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "France, UK lead mission to secure Strait of Hormuz amid tensions",
+      "url": "https://cryptobriefing.com/france-uk-lead-mission-to-secure-strait-of-hormuz-amid-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-06T15:06:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes on Lebanon kill 4 despite ceasefire",
+      "url": "https://www.channelnewsasia.com/world/israeli-strikes-lebanon-kill-4-despite-ceasefire-6104516",
+      "source": "CNA",
+      "publishedAt": "2026-05-06T14:54:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Op Sindoor: Precision, restraint and the new grammar of war in the one year since the war",
+      "url": "https://www.thehindubusinessline.com/news/op-sindoor-precision-restraint-and-the-new-grammar-of-war-in-the-one-year-since-the-war/article70947592.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-06T14:44:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Brash CNN founder Ted Turner dies",
+      "url": "https://www.npr.org/2026/05/06/nx-s1-3059290/ted-turner-obituary-cnn",
+      "source": "NPR",
+      "publishedAt": "2026-05-06T14:23:25Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
     {
       "title": "Economic Management in War: Professor Michael Hudson in Discussion with Ian Proud",
       "url": "https://www.nakedcapitalism.com/2026/05/economic-management-in-war-professor-michael-hudson-in-discussion-with-ian-proud.html",
@@ -27,46 +187,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran says Strait of Hormuz passage to be ensured after US pauses operation",
-      "url": "https://www.aljazeera.com/news/2026/5/6/french-container-ship-struck-in-latest-escalation-at-strait-of-hormuz",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-06T12:41:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What is the FDD, the pro-Israel think tank shaping Trump’s Iran policy?",
-      "url": "https://www.aljazeera.com/news/2026/5/6/what-is-the-fdd-the-pro-israel-think-tank-shaping-trumps-iran-policy",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-06T12:39:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lessons from the war: A call for strategic reckoning in West Asia",
-      "url": "https://www.aljazeera.com/opinions/2026/5/6/lessons-from-the-war-a-call-for-strategic-reckoning-in-west-asia",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-06T12:01:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran's retaliatory attacks hit far more US military assets than acknowledged: Report",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260506-presstv08.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-06T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Is Using Alternative Routes To Bypass US Naval Blockade",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260506-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-06T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israeli attacks on Lebanon kill 7 more people, including paramedics",
       "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260506-presstv03.htm",
       "source": "Globalsecurity.org",
@@ -83,44 +203,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "‘Operation Epic Fury’ has ended: Is the Iran war over?",
-      "url": "https://www.aljazeera.com/news/2026/5/6/operation-epic-fury-has-ended-is-the-iran-war-over",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-06T11:20:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran War: Trump “Pauses” Failed Operation Freedom, Rubio Claims End to Epic Fury With Strait of Hormuz Still Blockaded and Alarms About Real World Damage Rising",
-      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-trump-pauses-failed-operation-freedom-rubio-claims-end-to-epic-fury-with-strait-of-hormuz-still-blockaded-and-alarms-about-real-world-damage-rising.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-06T10:58:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Geopolitics Strategic Intelligence Executive Briefing: Rising US/China Superpower Rivalry, Nuclear Proliferation Risks and Expanding Trade Conflicts Amplify Uncertainty",
       "url": "https://www.globenewswire.com/news-release/2026/05/06/3288609/28124/en/Geopolitics-Strategic-Intelligence-Executive-Briefing-Rising-US-China-Superpower-Rivalry-Nuclear-Proliferation-Risks-and-Expanding-Trade-Conflicts-Amplify-Uncertainty.html",
       "source": "GlobeNewswire",
       "publishedAt": "2026-05-06T10:26:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Israeli attacks on southern, eastern Lebanon kill at least six people",
-      "url": "https://www.aljazeera.com/news/2026/5/6/israeli-attacks-on-southern-eastern-lebanon-kill-at-least-six-people",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-06T10:12:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "War in the Middle East: latest developments",
-      "url": "https://www.digitaljournal.com/world/war-in-the-middle-east-latest-developments-68/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-05-06T10:12:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea revises constitution to drop references to unification of Korean Peninsula, names Kim head of nuclear forces",
@@ -131,36 +219,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Trump Risks a Greater Catastrophe in the Iran Conflict",
-      "url": "https://www.thenation.com/?post_type=article&p=596477",
-      "source": "Thenation.com",
-      "publishedAt": "2026-05-06T09:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "‘A stress test’: US-Germany rift widens as Iran-war drags on",
       "url": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on",
       "source": "Al Jazeera English",
       "publishedAt": "2026-05-06T08:35:21Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "IDF issues unusual evacuation order",
-      "url": "https://www.israelnationalnews.com/news/426639",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-06T08:18:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel orders evacuation of 12 Lebanese villages amid military escalation",
-      "url": "https://cryptobriefing.com/israel-orders-evacuation-of-12-lebanese-villages-amid-military-escalation/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-06T08:05:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "North Korea drops reunification goal from constitution",
@@ -171,36 +235,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Trump Pauses Effort to Escort Ships in Strait of Hormuz, Citing Deal Progress",
-      "url": "https://www.insurancejournal.com/news/international/2026/05/06/868693.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-05-06T07:56:25Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF strikes Hezbollah targets, impacting Israel withdrawal market sentiment",
-      "url": "https://cryptobriefing.com/idf-strikes-hezbollah-targets-impacting-israel-withdrawal-market-sentiment/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-06T07:40:44Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "North Korea drops references to unification from constitution",
       "url": "https://www.channelnewsasia.com/east-asia/north-korea-revises-constitution-removes-unification-references-6103356",
       "source": "CNA",
       "publishedAt": "2026-05-06T07:17:54Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Israel strikes Beirut for first time since Lebanon ceasefire",
-      "url": "https://www.dw.com/en/israel-strikes-beirut-for-first-time-since-lebanon-ceasefire/live-77059422",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-06T07:09:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Finnish defence giant has tech 'Australia might be interested in'",

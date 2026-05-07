@@ -1,7 +1,111 @@
 {
-  "updated": "2026-05-07T02:45:55Z",
-  "count": 30,
+  "updated": "2026-05-07T08:32:18Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "IDF issues unusual evacuation order",
+      "url": "https://www.israelnationalnews.com/news/426639",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-06T08:18:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel orders evacuation of 12 Lebanese villages amid military escalation",
+      "url": "https://cryptobriefing.com/israel-orders-evacuation-of-12-lebanese-villages-amid-military-escalation/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-06T08:05:58Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "North Korea drops reunification goal from constitution",
+      "url": "https://www.dw.com/en/north-korea-drops-reunification-goal-from-constitution/a-77061282",
+      "source": "DW (English)",
+      "publishedAt": "2026-05-06T07:59:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump Pauses Effort to Escort Ships in Strait of Hormuz, Citing Deal Progress",
+      "url": "https://www.insurancejournal.com/news/international/2026/05/06/868693.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-05-06T07:56:25Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IDF strikes Hezbollah targets, impacting Israel withdrawal market sentiment",
+      "url": "https://cryptobriefing.com/idf-strikes-hezbollah-targets-impacting-israel-withdrawal-market-sentiment/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-06T07:40:44Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "North Korea drops references to unification from constitution",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-revises-constitution-removes-unification-references-6103356",
+      "source": "CNA",
+      "publishedAt": "2026-05-06T07:17:54Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel strikes Beirut for first time since Lebanon ceasefire",
+      "url": "https://www.dw.com/en/israel-strikes-beirut-for-first-time-since-lebanon-ceasefire/live-77059422",
+      "source": "DW (English)",
+      "publishedAt": "2026-05-06T07:09:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Watch: How a huge wave of Israeli strikes brought chaos to Lebanon",
+      "url": "https://www.bbc.com/news/videos/c0l2z28d6elo",
+      "source": "BBC News",
+      "publishedAt": "2026-05-06T06:15:39Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Finnish defence giant has tech 'Australia might be interested in'",
+      "url": "https://www.abc.net.au/news/2026-05-06/finland-australia-defence-ties-growing-amid-ukraine-iran-us-wars/106637946",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-06T05:37:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US and Iran closing in on one-page memo to end war – reports",
+      "url": "https://www.independent.ie/world-news/middle-east/us-and-iran-closing-in-on-one-page-memo-to-end-war-reports/a451865004.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-06T05:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says US to pause operation to escort ships through Strait of Hormuz",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/05/06/iran-war-live-strait-of-hormuz-oil-prices-donald-trump/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-06T05:25:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Turkish defense firms unveil new systems at SAHA 2026",
+      "url": "https://www.hurriyetdailynews.com/turkish-defense-firms-unveil-new-systems-at-saha-2026-221851",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-06T05:06:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kathy Sheridan: Our neutrality won’t shield us from skyrocketing fuel prices",
+      "url": "https://www.irishtimes.com/opinion/2026/05/06/kathy-sheridan-irish-neutrality-fuel-prices-ukraine-war-refugees/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-06T05:00:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Hezbollah’s unjammable drones escalate Israel-Lebanon tensions, impact withdrawal odds",
       "url": "https://cryptobriefing.com/hezbollahs-unjammable-drones-escalate-israel-lebanon-tensions-impact-withdrawal/",
@@ -115,28 +219,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iranian Missile and Drone Strikes Target UAE Oil Infrastructure for Second Day",
-      "url": "https://legalinsurrection.com/2026/05/iranian-missile-and-drone-strikes-target-uae-oil-infrastructure-for-second-day/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-05-05T17:00:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Romanian ministry of defense condemns russian drone debris incident",
       "url": "https://cryptobriefing.com/romanian-ministry-of-defense-condemns-russian-drone-debris-incident/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-05-05T16:31:12Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US escort of ships through Hormuz is a ‘gift to the world,’ Hegseth says",
-      "url": "https://www.defenseone.com/threats/2026/05/us-escort-ships-through-hormuz-gift-world-hegseth-says/413334/",
-      "source": "Defense One",
-      "publishedAt": "2026-05-05T16:21:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Analysis: Europe’s Intelligence Challenge in an Era of Strategic Bipolarity",
@@ -155,38 +243,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Israel’s assault on Lebanon: What’s really behind it",
-      "url": "https://www.rt.com/news/639482-israels-assault-on-lebanon/",
-      "source": "RT",
-      "publishedAt": "2026-05-05T15:30:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US threatens 'devastating' response to any Iran attack on shipping through Strait of Hormuz",
-      "url": "https://www.thejournal.ie/strait-of-hormuz-iran-us-7031089-May2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-05-05T13:50:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Latest: Hegseth and Caine say ceasefire between the US and Iran is not over",
-      "url": "https://www.yahoo.com/news/articles/latest-hegseth-caine-ceasefire-between-124930589.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-05T12:49:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel targets southern Lebanon with internationally banned phosphorus shells",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260505-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-05T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Russia Convinced Nuclear War Must Never Be Unleashed - Foreign Ministry",
       "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/05/russia-260505-sputnik01.htm",
       "source": "Globalsecurity.org",
@@ -203,42 +259,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "World leaders pressure Iran as ceasefire on brink",
-      "url": "https://www.hurriyetdailynews.com/world-leaders-pressure-iran-as-ceasefire-on-brink-221827",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-05T09:43:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "“Watch Out for the Chinese Supremacist, Imperialist Mindbenders”",
       "url": "https://www.nakedcapitalism.com/2026/05/watch-out-for-the-chinese-supremacist-imperialist-mindbenders.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-05-05T09:40:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian attack on Ukraine’s Naftogaz gas facilities kills five, stalls ceasefire",
-      "url": "https://cryptobriefing.com/russian-attack-on-ukraines-naftogaz-gas-facilities-kills-five-stalls-ceasefire/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-05T09:33:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Drone Dominance Isn’t the Vital Lesson of Ukraine",
-      "url": "http://prospect.org/2026/05/05/drone-dominance-isnt-vital-lesson-of-ukraine/",
-      "source": "The American Prospect",
-      "publishedAt": "2026-05-05T09:15:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Considers Withdrawing More Troops From Europe",
-      "url": "https://www.globalresearch.ca/trump-considers-withdrawing-more-troops-europe/5925072",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-05T06:52:44Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

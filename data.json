@@ -1,30 +1,150 @@
 {
-  "updated": "2026-05-08T07:28:30Z",
-  "count": 34,
+  "updated": "2026-05-08T13:44:39Z",
+  "count": 32,
   "articles": [
     {
-      "title": "IDF destroys ready-to-use Hezbollah rocket launchers",
-      "url": "https://www.israelnationalnews.com/news/426699",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-07T07:27:30Z",
+      "title": "Florida Wins the Curriculum Wars",
+      "url": "https://reason.com/2026/05/07/florida-wins-the-curriculum-wars/",
+      "source": "Reason",
+      "publishedAt": "2026-05-07T13:26:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel says it killed Hezbollah commander in first strike on Beirut since ceasefire",
+      "url": "https://economictimes.indiatimes.com/news/defence/israel-says-it-killed-hezbollah-commander-in-first-strike-on-beirut-since-ceasefire/articleshow/130888570.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-07T13:10:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The 'Living Nostradamus' just made a terrifying Iran war prediction, and the date is very specific",
+      "url": "https://economictimes.indiatimes.com/news/international/us/the-living-nostradamus-just-made-a-terrifying-iran-war-prediction-and-the-date-is-very-specific/articleshow/130895096.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-07T13:04:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump admin declare Europe an 'incubator' for terrorism fuelled by mass migration that is allowing 'alien cultures to grow'",
+      "url": "https://www.dailymail.com/news/article-15798123/Trump-admin-declare-Europe-incubator-terrorism-fuelled-mass-migration-allowing-alien-cultures-grow.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-07T12:57:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US awaits Iran response to latest deal offer",
+      "url": "https://www.digitaljournal.com/world/us-awaits-iran-response-to-latest-deal-offer/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-05-07T12:17:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US confirms it will host another round of Israel-Lebanon talks next week",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260507-azertac01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-07T12:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "News24 | Israel kills ‘commander of Hezbollah’s Radwan force’, and 11 others in Beirut strike",
-      "url": "https://www.news24.com/world/israel-kills-commander-of-hezbollahs-radwan-force-and-11-others-in-beirut-strike-20260507-0288",
-      "source": "News24",
-      "publishedAt": "2026-05-07T07:10:07Z",
+      "title": "Living Nostradamus makes terrifying prediction about when Iran conflict will end",
+      "url": "https://www.ladbible.com/news/living-nostradamus-athos-salome-iran-conflict-end-515211-20260507",
+      "source": "LADbible",
+      "publishedAt": "2026-05-07T11:47:04Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Trump says Iran deal 'very possible' but threatens strikes if talks fail",
-      "url": "https://www.hurriyetdailynews.com/trump-says-iran-deal-very-possible-but-threatens-strikes-if-talks-fail-221899",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-07T06:42:55Z",
+      "title": "Zelenskyy has no cards to play against Russia or the West",
+      "url": "https://peoplesreview.com.np/2026/05/07/zelenskyy-has-no-cards-to-play-against-russia-or-the-west/",
+      "source": "Peoplesreview.com.np",
+      "publishedAt": "2026-05-07T11:42:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Turkiye unveils its first intercontinental ballistic missile: What we know",
+      "url": "https://www.aljazeera.com/news/2026/5/7/turkiye-unveils-its-first-intercontinental-ballistic-missile-what-we-know",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-07T11:40:38Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Defense official: US must recognize Iran's rights, break with Israel to escape 'quagmire'",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260507-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-07T11:08:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Airports are 'already running out of jet fuel' as a result of Iran war amid fears crisis could impact fans travelling to World Cup",
+      "url": "https://www.dailymail.com/sciencetech/article-15797755/Airports-running-jet-fuel-result-Iran-war-amid-fears-crisis-impact-fans-travelling-World-Cup.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-07T11:07:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes across southern Lebanon despite ceasefire",
+      "url": "https://www.rte.ie/news/middle-east/2026/0507/1572147-lebanon-israel/",
+      "source": "RTE",
+      "publishedAt": "2026-05-07T11:07:14Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "NATO members divided over Ukrainian drone incidents",
+      "url": "https://www.rt.com/russia/639559-latvia-ukrainian-drone-incident/",
+      "source": "RT",
+      "publishedAt": "2026-05-07T10:56:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli strikes devastate Lebanese cities despite ceasefire (VIDEOS)",
+      "url": "https://www.rt.com/news/639558-israeli-strikes-devastate-lebanese-cities-videos/",
+      "source": "RT",
+      "publishedAt": "2026-05-07T10:36:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Parsons Secures $34 Million DTRA Award to Continue Nuclear Enterprise Mission Assurance Support",
+      "url": "https://www.globenewswire.com/news-release/2026/05/07/3289747/0/en/Parsons-Secures-34-Million-DTRA-Award-to-Continue-Nuclear-Enterprise-Mission-Assurance-Support.html",
+      "source": "GlobeNewswire",
+      "publishedAt": "2026-05-07T10:30:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Guerre en Iran : comment l'Azerbaïdjan a-t-il tiré des avantages économiques et politiques de ce conflit ? (Anglais)",
+      "url": "https://www.meydan.tv/en/article/the-iran-war-how-did-azerbaijan-gain-economic-and-political-benefits-from-this-war/",
+      "source": "Meydan.tv",
+      "publishedAt": "2026-05-07T10:06:07Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "'Ceasefire in Name Only': Israel Bombs Beirut With Approval From Trump Administration",
+      "url": "https://www.commondreams.org/news/israel-bombs-beirut",
+      "source": "Common Dreams",
+      "publishedAt": "2026-05-07T10:06:02Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran War: Iran Pushes Back Against Trump “Deal Is Nigh” as More Evidence of US Failure Emerges, Including Gulf State Mini-Revolt, Even More US Base Destruction, Jet Fuel Price Rise Damage, Conservative Opposition to Trump Climbdown",
+      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-iran-pushes-back-against-trump-deal-is-nigh-as-more-evidence-of-us-failure-emerges-including-gulf-state-mini-revolt-even-more-us-base-destruction-jet-fuel-price-rise-damage-conserva.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-07T09:30:33Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Russia doesn’t have much to celebrate on Victory Day, as Ukraine brings the war home to Putin",
@@ -35,100 +155,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "European stocks set for muted open as investors await peace proposal",
-      "url": "https://www.cnbc.com/2026/05/07/european-stocks-investors-await-peace-proposal-outcome-markets.html",
-      "source": "CNBC",
-      "publishedAt": "2026-05-07T06:11:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel Strikes Beirut Suburbs in Targeted Killing of Hezbollah Commander, Breaking Month-Long Ceasefire Lull",
-      "url": "https://www.naturalnews.com/2026-05-07-israel-strikes-beirut-suburbs-killing-hezbollah-commander.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-07T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S.-Iran Ceasefire Holds Despite Strait of Hormuz Standoff, Pentagon Chief Says",
-      "url": "https://www.naturalnews.com/2026-05-07-ceasefire-holds-despite-strait-of-hormuz-standoff.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-07T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Satellite Imagery Shows Extensive Damage to U.S. Assets in Middle East From Iranian Strikes",
-      "url": "https://www.naturalnews.com/2026-05-07-satellite-imagery-shows-extensive-damage-us-assets.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-07T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Germany’s new militarization: Revival of the spirit or blatant revanchism? (by Dmitry Medvedev)",
       "url": "https://www.rt.com/news/639537-germanys-new-militarization-revanchism/",
       "source": "RT",
       "publishedAt": "2026-05-07T05:20:18Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iranian FA says will meet FIFA to seek World Cup assurances in next few days",
-      "url": "https://www.channelnewsasia.com/sport/iranian-fa-says-will-meet-fifa-seek-world-cup-assurances-in-next-few-days-6106011",
-      "source": "CNA",
-      "publishedAt": "2026-05-07T04:53:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran war: Washington fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-iran-war-washington-fires-on-iranian-oil-tanker-as-trump-pressures-tehran-for-deal-to-end-war/articleshow/130876435.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-07T03:35:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump's bombshell private admission sends grim warning to Netanyahu as Israel braces for reckoning",
-      "url": "https://www.dailymail.com/news/article-15796261/trump-netanyahu-israel-warning.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-07T03:21:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire - BBC",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183147096",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-05-07T02:13:13Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump warns Iran of more attacks amid stalled peace talks",
-      "url": "https://cryptobriefing.com/trump-warns-iran-of-more-attacks-amid-stalled-peace-talks/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-07T00:32:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel strikes Beirut suburbs, threatening already shaky ceasefire - The Washington Post",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183146086",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-05-06T22:53:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Truth About What Is Really Going On In The Strait Of Hormuz",
-      "url": "https://www.shtfplan.com/war/the-truth-about-what-is-really-going-on-in-the-strait-of-hormuz",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-05-06T22:30:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "With an Eye on Russia, Polish Army Trains Civilians",
@@ -145,22 +177,6 @@
       "publishedAt": "2026-05-06T22:05:28Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Israel strikes Beirut for first time since the ceasefire",
-      "url": "https://japantoday.com/category/world/israel-strikes-beirut-for-the-first-time-since-the-ceasefire",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-06T21:33:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
-      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o",
-      "source": "BBC News",
-      "publishedAt": "2026-05-06T20:03:05Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "US Approves a Bomb Deal For Ukraine",
@@ -227,14 +243,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "‘A stress test’: US-Germany rift widens as Iran-war drags on",
-      "url": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-06T08:35:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea drops reunification goal from constitution",
       "url": "https://www.dw.com/en/north-korea-drops-reunification-goal-from-constitution/a-77061282",
       "source": "DW (English)",
@@ -249,30 +257,6 @@
       "publishedAt": "2026-05-06T07:17:54Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Finnish defence giant has tech 'Australia might be interested in'",
-      "url": "https://www.abc.net.au/news/2026-05-06/finland-australia-defence-ties-growing-amid-ukraine-iran-us-wars/106637946",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-06T05:37:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Turkish defense firms unveil new systems at SAHA 2026",
-      "url": "https://www.hurriyetdailynews.com/turkish-defense-firms-unveil-new-systems-at-saha-2026-221851",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-06T05:06:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Kathy Sheridan: Our neutrality won’t shield us from skyrocketing fuel prices",
-      "url": "https://www.irishtimes.com/opinion/2026/05/06/kathy-sheridan-irish-neutrality-fuel-prices-ukraine-war-refugees/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-06T05:00:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

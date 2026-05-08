@@ -1,30 +1,118 @@
 {
-  "updated": "2026-05-08T13:44:39Z",
-  "count": 32,
+  "updated": "2026-05-08T19:15:41Z",
+  "count": 33,
   "articles": [
     {
-      "title": "Florida Wins the Curriculum Wars",
-      "url": "https://reason.com/2026/05/07/florida-wins-the-curriculum-wars/",
-      "source": "Reason",
-      "publishedAt": "2026-05-07T13:26:03Z",
+      "title": "Israel says it killed Hezbollah commander in first strike on Beirut since cease-fire",
+      "url": "https://nypost.com/2026/05/07/world-news/israel-says-it-killed-hezbollah-commander-in-first-strike-on-beirut-since-cease-fire/",
+      "source": "New York Post",
+      "publishedAt": "2026-05-07T19:02:08Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "US and Iran edge towards temporary truce with Tehran reviewing short-term proposal",
+      "url": "https://www.irishtimes.com/world/2026/05/07/us-and-iran-edge-towards-temporary-truce-with-tehran-reviewing-short-term-proposal/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-07T18:22:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US sanctions Iraqi minister accused of aiding Iran oil sales",
+      "url": "https://www.aljazeera.com/news/2026/5/7/us-sanctions-iraqi-minister-accused-of-aiding-iran-oil-sales",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-07T18:19:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US pushing Israeli de-escalation ahead of new talks: Lebanese official",
+      "url": "https://www.aljazeera.com/news/2026/5/7/us-pushing-israeli-de-escalation-ahead-of-new-talks-lebanese-official",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-07T16:26:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon Latest Israeli strikes Beirut despite ‘ceasefire’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/lebanon-latest-israeli-strikes-beirut-despite",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-07T16:22:40Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran reviewing U.S. proposal as Trump pressures Tehran for agreement on deal to end war",
+      "url": "https://www.pbs.org/newshour/world/iran-reviewing-u-s-proposal-as-trump-pressures-tehran-for-agreement-on-deal-to-end-war",
+      "source": "PBS",
+      "publishedAt": "2026-05-07T15:13:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How Iran Is Bypassing the Strait of Hormuz Blockade",
+      "url": "https://oilprice.com/Energy/Energy-General/How-Iran-Is-Bypassing-the-Strait-of-Hormuz-Blockade.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-05-07T15:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Media Complain Iran War Leaves Ukraine’s Air Defense in Limbo. “Running out of Patriot Missiles”",
+      "url": "https://www.globalresearch.ca/iran-war-leaves-ukraine-air-defense-limbo/5925418",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-07T14:45:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia’s Threat of a Massive Retaliatory Strike on Kiev, Isn’t a Bluff",
+      "url": "https://www.globalresearch.ca/russia-threat-massive-retaliatory-strike-kiev/5925321",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-07T14:26:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Geert Wilders For Breitbart: If Europe Wants to Survive, It Must Resist",
+      "url": "https://www.breitbart.com/europe/2026/05/07/geert-wilders-for-breitbart-if-europe-wants-to-survive-it-must-resist/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-05-07T14:22:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war has become a lesson in how power really works",
+      "url": "https://theconversation.com/iran-war-has-become-a-lesson-in-how-power-really-works-282391",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-05-07T14:18:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Value of the US “Foreign Policy of Restraint” in the World",
+      "url": "https://www.fairobserver.com/world-news/us-news/the-value-of-the-us-foreign-policy-of-restraint-in-the-world/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-05-07T14:04:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia’s Threat of a Massive Retaliatory Strike on Kiev Likely Isn’t A Bluff",
+      "url": "https://www.nakedcapitalism.com/2026/05/russias-threat-of-a-massive-retaliatory-strike-on-kiev-likely-isnt-a-bluff.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-07T13:55:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Israel says it killed Hezbollah commander in first strike on Beirut since ceasefire",
       "url": "https://economictimes.indiatimes.com/news/defence/israel-says-it-killed-hezbollah-commander-in-first-strike-on-beirut-since-ceasefire/articleshow/130888570.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-07T13:10:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The 'Living Nostradamus' just made a terrifying Iran war prediction, and the date is very specific",
-      "url": "https://economictimes.indiatimes.com/news/international/us/the-living-nostradamus-just-made-a-terrifying-iran-war-prediction-and-the-date-is-very-specific/articleshow/130895096.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-07T13:04:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump admin declare Europe an 'incubator' for terrorism fuelled by mass migration that is allowing 'alien cultures to grow'",
@@ -39,8 +127,8 @@
       "url": "https://www.digitaljournal.com/world/us-awaits-iran-response-to-latest-deal-offer/article",
       "source": "Digital Journal",
       "publishedAt": "2026-05-07T12:17:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US confirms it will host another round of Israel-Lebanon talks next week",
@@ -51,44 +139,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Living Nostradamus makes terrifying prediction about when Iran conflict will end",
-      "url": "https://www.ladbible.com/news/living-nostradamus-athos-salome-iran-conflict-end-515211-20260507",
-      "source": "LADbible",
-      "publishedAt": "2026-05-07T11:47:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Zelenskyy has no cards to play against Russia or the West",
       "url": "https://peoplesreview.com.np/2026/05/07/zelenskyy-has-no-cards-to-play-against-russia-or-the-west/",
       "source": "Peoplesreview.com.np",
       "publishedAt": "2026-05-07T11:42:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Turkiye unveils its first intercontinental ballistic missile: What we know",
-      "url": "https://www.aljazeera.com/news/2026/5/7/turkiye-unveils-its-first-intercontinental-ballistic-missile-what-we-know",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-07T11:40:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Defense official: US must recognize Iran's rights, break with Israel to escape 'quagmire'",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260507-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-07T11:08:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Airports are 'already running out of jet fuel' as a result of Iran war amid fears crisis could impact fans travelling to World Cup",
-      "url": "https://www.dailymail.com/sciencetech/article-15797755/Airports-running-jet-fuel-result-Iran-war-amid-fears-crisis-impact-fans-travelling-World-Cup.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-07T11:07:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Israeli strikes across southern Lebanon despite ceasefire",
@@ -107,36 +163,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israeli strikes devastate Lebanese cities despite ceasefire (VIDEOS)",
-      "url": "https://www.rt.com/news/639558-israeli-strikes-devastate-lebanese-cities-videos/",
-      "source": "RT",
-      "publishedAt": "2026-05-07T10:36:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Parsons Secures $34 Million DTRA Award to Continue Nuclear Enterprise Mission Assurance Support",
       "url": "https://www.globenewswire.com/news-release/2026/05/07/3289747/0/en/Parsons-Secures-34-Million-DTRA-Award-to-Continue-Nuclear-Enterprise-Mission-Assurance-Support.html",
       "source": "GlobeNewswire",
       "publishedAt": "2026-05-07T10:30:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Guerre en Iran : comment l'Azerbaïdjan a-t-il tiré des avantages économiques et politiques de ce conflit ? (Anglais)",
-      "url": "https://www.meydan.tv/en/article/the-iran-war-how-did-azerbaijan-gain-economic-and-political-benefits-from-this-war/",
-      "source": "Meydan.tv",
-      "publishedAt": "2026-05-07T10:06:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "'Ceasefire in Name Only': Israel Bombs Beirut With Approval From Trump Administration",
-      "url": "https://www.commondreams.org/news/israel-bombs-beirut",
-      "source": "Common Dreams",
-      "publishedAt": "2026-05-07T10:06:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Iran War: Iran Pushes Back Against Trump “Deal Is Nigh” as More Evidence of US Failure Emerges, Including Gulf State Mini-Revolt, Even More US Base Destruction, Jet Fuel Price Rise Damage, Conservative Opposition to Trump Climbdown",
@@ -179,14 +211,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "US Approves a Bomb Deal For Ukraine",
-      "url": "https://www.shtfplan.com/war/us-approves-a-bomb-deal-for-ukraine",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-05-06T20:00:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Poll: Most Americans dislike Trump’s jabs at Pope Leo XIV, favor Leo’s call for peace",
       "url": "https://www.ewtnnews.com/world/us/poll-americans-leo-trump-comments",
       "source": "Ewtnnews.com",
@@ -209,22 +233,6 @@
       "publishedAt": "2026-05-06T14:23:25Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Economic Management in War: Professor Michael Hudson in Discussion with Ian Proud",
-      "url": "https://www.nakedcapitalism.com/2026/05/economic-management-in-war-professor-michael-hudson-in-discussion-with-ian-proud.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-06T13:58:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO in Crisis After US Announces Withdrawal of 5,000 Troops From Germany",
-      "url": "https://www.globalresearch.ca/nato-crisis-us-withdrawal-5000-troops-germany/5925177",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-06T13:23:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Geopolitics Strategic Intelligence Executive Briefing: Rising US/China Superpower Rivalry, Nuclear Proliferation Risks and Expanding Trade Conflicts Amplify Uncertainty",

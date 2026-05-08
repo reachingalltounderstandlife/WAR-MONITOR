@@ -1,7 +1,103 @@
 {
-  "updated": "2026-05-08T02:50:01Z",
-  "count": 36,
+  "updated": "2026-05-08T07:28:30Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "IDF destroys ready-to-use Hezbollah rocket launchers",
+      "url": "https://www.israelnationalnews.com/news/426699",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-07T07:27:30Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "News24 | Israel kills ‘commander of Hezbollah’s Radwan force’, and 11 others in Beirut strike",
+      "url": "https://www.news24.com/world/israel-kills-commander-of-hezbollahs-radwan-force-and-11-others-in-beirut-strike-20260507-0288",
+      "source": "News24",
+      "publishedAt": "2026-05-07T07:10:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Iran deal 'very possible' but threatens strikes if talks fail",
+      "url": "https://www.hurriyetdailynews.com/trump-says-iran-deal-very-possible-but-threatens-strikes-if-talks-fail-221899",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-07T06:42:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia doesn’t have much to celebrate on Victory Day, as Ukraine brings the war home to Putin",
+      "url": "https://theconversation.com/russia-doesnt-have-much-to-celebrate-on-victory-day-as-ukraine-brings-the-war-home-to-putin-282254",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-05-07T06:38:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "European stocks set for muted open as investors await peace proposal",
+      "url": "https://www.cnbc.com/2026/05/07/european-stocks-investors-await-peace-proposal-outcome-markets.html",
+      "source": "CNBC",
+      "publishedAt": "2026-05-07T06:11:58Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel Strikes Beirut Suburbs in Targeted Killing of Hezbollah Commander, Breaking Month-Long Ceasefire Lull",
+      "url": "https://www.naturalnews.com/2026-05-07-israel-strikes-beirut-suburbs-killing-hezbollah-commander.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-07T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S.-Iran Ceasefire Holds Despite Strait of Hormuz Standoff, Pentagon Chief Says",
+      "url": "https://www.naturalnews.com/2026-05-07-ceasefire-holds-despite-strait-of-hormuz-standoff.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-07T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Satellite Imagery Shows Extensive Damage to U.S. Assets in Middle East From Iranian Strikes",
+      "url": "https://www.naturalnews.com/2026-05-07-satellite-imagery-shows-extensive-damage-us-assets.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-07T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Germany’s new militarization: Revival of the spirit or blatant revanchism? (by Dmitry Medvedev)",
+      "url": "https://www.rt.com/news/639537-germanys-new-militarization-revanchism/",
+      "source": "RT",
+      "publishedAt": "2026-05-07T05:20:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iranian FA says will meet FIFA to seek World Cup assurances in next few days",
+      "url": "https://www.channelnewsasia.com/sport/iranian-fa-says-will-meet-fifa-seek-world-cup-assurances-in-next-few-days-6106011",
+      "source": "CNA",
+      "publishedAt": "2026-05-07T04:53:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran war: Washington fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-iran-war-washington-fires-on-iranian-oil-tanker-as-trump-pressures-tehran-for-deal-to-end-war/articleshow/130876435.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-07T03:35:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump's bombshell private admission sends grim warning to Netanyahu as Israel braces for reckoning",
+      "url": "https://www.dailymail.com/news/article-15796261/trump-netanyahu-israel-warning.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-07T03:21:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Israel strikes Beirut for first time since Hezbollah ceasefire - BBC",
       "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183147096",
@@ -55,8 +151,8 @@
       "url": "https://japantoday.com/category/world/israel-strikes-beirut-for-the-first-time-since-the-ceasefire",
       "source": "Japan Today",
       "publishedAt": "2026-05-06T21:33:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
@@ -75,30 +171,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israel strikes Beirut for the first time since the ceasefire - Reuters",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183143170",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-05-06T19:53:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Live: Israel strikes Beirut for the first time since Hezbollah ceasefire as Iran weighs up peace proposal",
-      "url": "https://www.abc.net.au/news/2026-05-07/iran-war-live-updates-us-donald-trump-peace-deal/106650992",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-06T19:40:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Middle East war live: Israel strikes Beirut's southern suburbs, targeted 'top Hezbollah commander' - France 24",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183143010",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-05-06T19:33:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Poll: Most Americans dislike Trump’s jabs at Pope Leo XIV, favor Leo’s call for peace",
       "url": "https://www.ewtnnews.com/world/us/poll-americans-leo-trump-comments",
       "source": "Ewtnnews.com",
@@ -107,92 +179,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Why the Lebanon-Israel ceasefire is 'in name only'",
-      "url": "https://www.cbc.ca/news/world/lebanon-israel-hezbollah-ceasefire-analysis-9.7188159",
-      "source": "CBC News",
-      "publishedAt": "2026-05-06T18:57:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel strikes Beirut for the first time since ceasefire with Lebanon began",
-      "url": "https://www.thejournal.ie/beirut-israel-strike-7032532-May2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-05-06T18:23:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Shoot Palestinians, not settlers: Israeli general exposes double standard",
-      "url": "https://www.aljazeera.com/news/2026/5/6/shoot-palestinians-not-settlers-israeli-general-exposes-double-standard",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-06T18:18:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Coffee Break: Self-Dealing and Self-Deluding Two Sides of Trump and His Ilk",
-      "url": "https://www.nakedcapitalism.com/2026/05/trump-self-dealing-delusion-oil-market-manipulation-baptists-pederasty.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-06T18:00:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel says carried out strike targeting Hezbollah chief",
-      "url": "https://www.rte.ie/news/middle-east/2026/0506/1572050-lebanon/",
-      "source": "RTE",
-      "publishedAt": "2026-05-06T17:59:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel strikes Beirut suburbs for first time since ceasefire was announced",
-      "url": "https://economictimes.indiatimes.com/news/defence/israel-strikes-beirut-suburbs-for-first-time-since-ceasefire-was-announced/articleshow/130865970.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-06T17:53:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Attacks UAE And Ships In Strait of Hormuz",
-      "url": "https://www.shtfplan.com/war/iran-attacks-uae-and-ships-in-strait-of-hormuz",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-05-06T17:30:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "After the Ceasefire: Power, Limits and the Future of Global Order",
-      "url": "https://www.fairobserver.com/politics/after-the-ceasefire-power-limits-and-the-future-of-global-order/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-05-06T16:55:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "CNN’s Abby Phillip, Van Jones clash over questions about Israel’s nuclear weapons",
       "url": "https://nypost.com/2026/05/06/media/cnns-abby-phillip-van-jones-clash-over-questions-about-israels-nuclear-weapons/",
       "source": "New York Post",
       "publishedAt": "2026-05-06T16:17:15Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "WTI crude oil price sharp fall today reason: Why are oil prices suddenly falling today? Here are the main reasons behind the massive crude oil price and Brent oil crash",
-      "url": "https://economictimes.indiatimes.com/news/international/us/wti-crude-oil-price-sharp-fall-today-reason-why-are-oil-prices-suddenly-falling-today-here-are-the-main-reasons-behind-the-massive-crude-oil-price-and-brent-oil-crash/articleshow/130861815.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-06T15:55:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran has hit far more U.S. military assets than reported, satellite images show",
-      "url": "https://freerepublic.com/focus/f-news/4377962/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-06T15:51:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Brash CNN founder Ted Turner dies",
@@ -279,14 +271,6 @@
       "url": "https://www.irishtimes.com/opinion/2026/05/06/kathy-sheridan-irish-neutrality-fuel-prices-ukraine-war-refugees/",
       "source": "The Irish Times",
       "publishedAt": "2026-05-06T05:00:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy blasts ‘absolute cynicism’ as deadly Russian barrage hits Ukraine before planned ceasefire",
-      "url": "https://www.foxnews.com/world/zelenskyy-blasts-absolute-cynicism-deadly-russian-barrage-hits-ukraine-planned-ceasefire",
-      "source": "Fox News",
-      "publishedAt": "2026-05-06T00:39:19Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

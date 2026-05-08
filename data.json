@@ -1,7 +1,87 @@
 {
-  "updated": "2026-05-07T19:42:09Z",
-  "count": 41,
+  "updated": "2026-05-08T02:50:01Z",
+  "count": 36,
   "articles": [
+    {
+      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire - BBC",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183147096",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-07T02:13:13Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump warns Iran of more attacks amid stalled peace talks",
+      "url": "https://cryptobriefing.com/trump-warns-iran-of-more-attacks-amid-stalled-peace-talks/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-07T00:32:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes Beirut suburbs, threatening already shaky ceasefire - The Washington Post",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183146086",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-06T22:53:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Truth About What Is Really Going On In The Strait Of Hormuz",
+      "url": "https://www.shtfplan.com/war/the-truth-about-what-is-really-going-on-in-the-strait-of-hormuz",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-05-06T22:30:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "With an Eye on Russia, Polish Army Trains Civilians",
+      "url": "https://www.newser.com/story/388640/with-an-eye-on-russia-polish-army-trains-civilians.html",
+      "source": "Newser",
+      "publishedAt": "2026-05-06T22:30:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "In rare push, US lawmakers demand transparency on Israel nuclear capability",
+      "url": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-06T22:05:28Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Israel strikes Beirut for first time since the ceasefire",
+      "url": "https://japantoday.com/category/world/israel-strikes-beirut-for-the-first-time-since-the-ceasefire",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-06T21:33:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o",
+      "source": "BBC News",
+      "publishedAt": "2026-05-06T20:03:05Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US Approves a Bomb Deal For Ukraine",
+      "url": "https://www.shtfplan.com/war/us-approves-a-bomb-deal-for-ukraine",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-05-06T20:00:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel strikes Beirut for the first time since the ceasefire - Reuters",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183143170",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-06T19:53:28Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Live: Israel strikes Beirut for the first time since Hezbollah ceasefire as Iran weighs up peace proposal",
       "url": "https://www.abc.net.au/news/2026-05-07/iran-war-live-updates-us-donald-trump-peace-deal/106650992",
@@ -75,22 +155,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Israel strikes Beirut suburbs for 1st time since ceasefire was announced",
-      "url": "https://www.cbc.ca/news/world/israel-beirut-suburbs-air-strike-ceasefire-lebanon-9.7189905",
-      "source": "CBC News",
-      "publishedAt": "2026-05-06T17:50:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF strikes in Beirut, Netanyahu says, in first since Israel-Lebanon cease-fire",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-06/ty-article/.premium/idf-strikes-in-beirut-netanyahu-says-in-first-since-israel-lebanon-cease-fire/0000019d-fe55-d9e5-a7df-ff5de6840000",
-      "source": "Haaretz",
-      "publishedAt": "2026-05-06T17:45:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Iran Attacks UAE And Ships In Strait of Hormuz",
       "url": "https://www.shtfplan.com/war/iran-attacks-uae-and-ships-in-strait-of-hormuz",
       "source": "Shtfplan.com",
@@ -131,30 +195,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "France, UK lead mission to secure Strait of Hormuz amid tensions",
-      "url": "https://cryptobriefing.com/france-uk-lead-mission-to-secure-strait-of-hormuz-amid-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-06T15:06:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli strikes on Lebanon kill 4 despite ceasefire",
-      "url": "https://www.channelnewsasia.com/world/israeli-strikes-lebanon-kill-4-despite-ceasefire-6104516",
-      "source": "CNA",
-      "publishedAt": "2026-05-06T14:54:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Op Sindoor: Precision, restraint and the new grammar of war in the one year since the war",
-      "url": "https://www.thehindubusinessline.com/news/op-sindoor-precision-restraint-and-the-new-grammar-of-war-in-the-one-year-since-the-war/article70947592.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-05-06T14:44:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Brash CNN founder Ted Turner dies",
       "url": "https://www.npr.org/2026/05/06/nx-s1-3059290/ted-turner-obituary-cnn",
       "source": "NPR",
@@ -177,30 +217,6 @@
       "publishedAt": "2026-05-06T13:23:25Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "The Historic April 7, 2026 China-Russia Veto of the UNSC Draft Resolution on Maritime Security in the Middle East. “Blocks Stampede to World War III?”",
-      "url": "https://www.globalresearch.ca/un-security-council-chinese-russian-veto-draft-resolution-maritime-security-middle-east/5925134",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-06T13:21:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli attacks on Lebanon kill 7 more people, including paramedics",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260506-presstv03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-06T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel orders evacuations in Lebanon amid military escalation",
-      "url": "https://cryptobriefing.com/israel-orders-evacuations-in-lebanon-amid-military-escalation/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-06T11:35:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Geopolitics Strategic Intelligence Executive Briefing: Rising US/China Superpower Rivalry, Nuclear Proliferation Risks and Expanding Trade Conflicts Amplify Uncertainty",
@@ -273,62 +289,6 @@
       "publishedAt": "2026-05-06T00:39:19Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine’s Shadow War in Africa: Overreach?",
-      "url": "https://www.globalresearch.ca/ukraine-shadow-war-africa/5925118",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-05T20:03:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "It’s Time for the US to Acknowledge Israel’s Nuclear Arsenal",
-      "url": "https://www.antiwar.com/blog/2026/05/05/its-time-for-the-us-to-acknowledge-israels-nuclear-arsenal/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-05-05T20:01:01Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Did you know the US and Israel helped create Iran’s nuclear project? Here’s the story",
-      "url": "https://www.rt.com/news/639488-irans-nuclear-project-israel-us/",
-      "source": "RT",
-      "publishedAt": "2026-05-05T19:04:01Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The West’s Caucasus circus: how has the Yerevan Summit looked from Moscow?",
-      "url": "https://www.rt.com/news/639493-yerevan-summit-eu-circus/",
-      "source": "RT",
-      "publishedAt": "2026-05-05T18:26:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Romanian ministry of defense condemns russian drone debris incident",
-      "url": "https://cryptobriefing.com/romanian-ministry-of-defense-condemns-russian-drone-debris-incident/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-05T16:31:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "North Korea’s Strongwoman-in-Waiting",
-      "url": "http://foreignpolicy.com/2026/05/05/north-korea-kim-jong-un-succession-daughter-ju-ae-maternal-statecraft/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-05T15:50:18Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Russia Convinced Nuclear War Must Never Be Unleashed - Foreign Ministry",
-      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/05/russia-260505-sputnik01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-05T12:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

@@ -1,7 +1,175 @@
 {
-  "updated": "2026-05-09T07:54:39Z",
-  "count": 28,
+  "updated": "2026-05-09T13:15:11Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "India needs to ramps up drone production amid evolving multi-front threats",
+      "url": "https://www.thehindubusinessline.com/news/india-needs-to-ramps-up-drone-production-amid-evolving-multi-front-threats/article70955484.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-08T12:57:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea’s New Nuclear-Capable Warship Poses Fresh Threat to South Korea, U.S. - WSJ",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183161006",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-08T12:53:30Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "News24 | Israel kills chief Hamas negotiator in US-mediated Gaza talks",
+      "url": "https://www.news24.com/world/israel-kills-chief-hamas-negotiator-in-us-mediated-gaza-talks-20260508-0288",
+      "source": "News24",
+      "publishedAt": "2026-05-08T12:50:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Leaked government report proves Trump officials 'lied through their teeth': Senator",
+      "url": "https://www.rawstory.com/leaked-government-report-shows-trump-officials-lied-through-their-teeth-senator/",
+      "source": "Raw Story",
+      "publishedAt": "2026-05-08T12:38:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Donald Trump says ceasefire still holds after fighting between the US and Iran flares",
+      "url": "https://economictimes.indiatimes.com/news/defence/donald-trump-says-ceasefire-still-holds-after-fighting-between-the-us-and-iran-flares/articleshow/130959962.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-08T12:20:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel ramps up airstrikes across Lebanon despite ceasefire",
+      "url": "https://www.hurriyetdailynews.com/israel-ramps-up-airstrikes-across-lebanon-despite-ceasefire-221945",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-08T12:01:54Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "A Year After Trump’s Scolding, It Turns Out Zelenskyy Has All Kinds Of Cards",
+      "url": "https://www.huffpost.com/entry/donald-trump-volodomyr-zelenskyy-ukraine_n_69fa4f1ee4b04a49ec0bc1d8",
+      "source": "HuffPost",
+      "publishedAt": "2026-05-08T12:00:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon war leaves families foraging for food despite ceasefire",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260508-unnews01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-08T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The SAFE agreement signed. This is a great moment for the whole community working towards peace",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260508-plmnd01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-08T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What we know about Iran’s response to the latest US ceasefire proposal",
+      "url": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-08T11:47:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Is Pakistan’s grey gamble sinking in the Strait?",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/us-iran-ceasefire-pakistan-munirs-grey-gamble-sinking-in-the-strait-of-hormuz-oil-prices/articleshow/130958736.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-08T11:45:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Sabotage and Cyberattacks Have Put Europe’s Power Networks on Alert",
+      "url": "https://www.insurancejournal.com/news/international/2026/05/08/869058.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-05-08T11:18:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran seizes US-sanctioned oil tanker in Sea of Oman",
+      "url": "https://www.dailymail.com/news/article-15801203/Iran-seizes-US-sanctioned-oil-tanker-Sea-Oman.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-08T11:08:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 5/8/2026",
+      "url": "https://www.nakedcapitalism.com/2026/05/links-5-8-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-08T10:59:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The U.S. awaits Iran's response as the UAE reports another missile barrage",
+      "url": "https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates",
+      "source": "NPR",
+      "publishedAt": "2026-05-08T10:44:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump’s $1.5 trillion military budget may be a solution in search of a problem",
+      "url": "https://www.salon.com/2026/05/08/trumps-1-5-trillion-military-budget-may-be-a-solution-in-search-of-a-problem/",
+      "source": "Salon",
+      "publishedAt": "2026-05-08T10:30:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Not getting the Western weapons it wanted drove Ukraine to create the gear and tactics the West now seeks",
+      "url": "https://www.businessinsider.com/lack-western-weapons-pushed-ukraine-make-gear-west-now-wants-2026-5",
+      "source": "Business Insider",
+      "publishedAt": "2026-05-08T10:16:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Gulf clash threatens hopes for quick US-Iran deal",
+      "url": "https://www.digitaljournal.com/world/gulf-clash-threatens-hopes-for-quick-us-iran-deal/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-05-08T10:03:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran War: Lull Before Expected Big Strikes or Is Trump Stuck?",
+      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-lull-before-expected-big-strikes-or-is-trump-stuck.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-08T09:53:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran attacks US destroyers in Strait of Hormuz escalation",
+      "url": "https://cryptobriefing.com/iran-attacks-us-destroyers-in-strait-of-hormuz-escalation/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-08T09:19:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "European countries emerge as NATO leaders as U.S. role recedes",
+      "url": "https://www.npr.org/2026/05/08/nx-s1-5810515/us-war-trump-nato-iran-europe-canada-germany",
+      "source": "NPR",
+      "publishedAt": "2026-05-08T09:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "As Adversaries Integrate, U.S. Partners Bypass Washington",
       "url": "https://warontherocks.com/as-adversaries-integrate-u-s-partners-bypass-washington/",
@@ -15,8 +183,8 @@
       "url": "https://www.rigzone.com/news/wire/us_iran_engage_in_fresh_clashes_near_hormuz-08-may-2026-183640-article/",
       "source": "Rigzone",
       "publishedAt": "2026-05-08T07:23:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Could Russia Follow the “Hormuz Playbook” in the Baltic and Black Seas?",
@@ -31,40 +199,16 @@
       "url": "https://www.hurriyetdailynews.com/us-and-iran-trade-fire-threatening-fragile-truce-221930",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-05-08T06:42:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
       "url": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions",
       "source": "Al Jazeera English",
       "publishedAt": "2026-05-08T06:32:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran Clash Near Hormuz as Response on Proposed Deal Awaited",
-      "url": "https://financialpost.com/pmn/business-pmn/us-iran-clash-near-hormuz-as-response-on-proposed-deal-awaited",
-      "source": "Financial Post",
-      "publishedAt": "2026-05-08T06:18:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli army warns six Lebanese villages amid operations against Hezbollah",
-      "url": "https://cryptobriefing.com/israeli-army-warns-six-lebanese-villages-amid-operations-against-hezbollah/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-08T06:16:56Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Trumpâs War Trap: How His Ego Is Burning the World",
-      "url": "https://www.naturalnews.com/2026-05-08-trumps-war-trap-ego-burning-the-world.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-08T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "U.S. approves $373.6 million precision bomb package for Ukraine, expanding long-range strike capability",
@@ -73,62 +217,6 @@
       "publishedAt": "2026-05-08T06:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US, Iran exchange fire despite Trump ceasefire claims",
-      "url": "https://punchng.com/us-iran-exchange-fire-despite-trump-ceasefire-claims/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-08T05:35:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Fragile ceasefire with exchanges of fire between the US and Iran in Hormuz: “Our strikes were just a pat on the hand,” says Trump, threatening Tehran again",
-      "url": "https://en.protothema.gr/2026/05/08/fragile-ceasefire-with-exchanges-of-fire-between-the-us-and-iran-in-hormuz-our-strikes-were-just-a-pat-on-the-hand-says-trump-threatening-tehran-again/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-05-08T05:11:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "UAE reports drone, missile attack as Iran war ceasefire is challenged",
-      "url": "https://www.thehindubusinessline.com/news/world/uae-reports-drone-missile-attack-as-iran-war-ceasefire-is-challenged/article70953823.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-05-08T04:47:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hopes of a peace deal hit as Iran accuses US of violating ceasefire",
-      "url": "https://www.independent.ie/world-news/middle-east/hopes-of-a-peace-deal-hit-as-iran-accuses-us-of-violating-ceasefire/a872996319.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-05-08T04:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "A left journalist's weirdly clinical emotional distance from America",
-      "url": "https://www.americanthinker.com/blog/2026/05/a_left_journalist_s_weirdly_clinical_emotional_distance_from_america.html",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-05-08T04:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Irish athletes and celebrities demand boycott of soccer match against Israel",
-      "url": "https://www.israelnationalnews.com/news/426752",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-08T03:52:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "What we know about renewed fighting between US and Iran",
-      "url": "https://www.abc.net.au/news/2026-05-08/us-iran-attacks-strait-of-hormuz-tensions-ceasefire-threat/106657022",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-08T02:38:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "North Korea to deploy new artillery along border with South",
@@ -147,60 +235,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "“Security Through Cooperation”: Rose Gottemoeller On US-Russian Diplomacy Past, Present . . . And Future?",
-      "url": "https://www.hoover.org/research/security-through-cooperation-rose-gottemoeller-us-russian-diplomacy-past-present-and",
-      "source": "Hoover.org",
-      "publishedAt": "2026-05-08T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "So What Exactly Is Going On With the Iran Peace Talks Now?",
       "url": "https://slate.com/news-and-politics/2026/05/trump-iran-peace-deal-war-news-oil.html",
       "source": "Slate Magazine",
       "publishedAt": "2026-05-07T20:42:42Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "US Media Complain Iran War Leaves Ukraine’s Air Defense in Limbo. “Running out of Patriot Missiles”",
-      "url": "https://www.globalresearch.ca/iran-war-leaves-ukraine-air-defense-limbo/5925418",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-07T14:45:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia’s Threat of a Massive Retaliatory Strike on Kiev, Isn’t a Bluff",
-      "url": "https://www.globalresearch.ca/russia-threat-massive-retaliatory-strike-kiev/5925321",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-07T14:26:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia’s Threat of a Massive Retaliatory Strike on Kiev Likely Isn’t A Bluff",
-      "url": "https://www.nakedcapitalism.com/2026/05/russias-threat-of-a-massive-retaliatory-strike-on-kiev-likely-isnt-a-bluff.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-07T13:55:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump admin declare Europe an 'incubator' for terrorism fuelled by mass migration that is allowing 'alien cultures to grow'",
-      "url": "https://www.dailymail.com/news/article-15798123/Trump-admin-declare-Europe-incubator-terrorism-fuelled-mass-migration-allowing-alien-cultures-grow.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-07T12:57:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy has no cards to play against Russia or the West",
-      "url": "https://peoplesreview.com.np/2026/05/07/zelenskyy-has-no-cards-to-play-against-russia-or-the-west/",
-      "source": "Peoplesreview.com.np",
-      "publishedAt": "2026-05-07T11:42:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Parsons Secures $34 Million DTRA Award to Continue Nuclear Enterprise Mission Assurance Support",

@@ -1,7 +1,119 @@
 {
-  "updated": "2026-05-09T13:15:11Z",
-  "count": 33,
+  "updated": "2026-05-09T18:59:41Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "Moment US forces strike two Iranian oil tankers as tenuous ceasefire moves closer to collapse",
+      "url": "https://www.dailymail.com/news/article-15802375/Moment-US-forces-strike-two-Iranian-oil-tankers.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-08T18:35:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US and Iran practicing an \"Israeli ceasefire,\" by shooting at one another",
+      "url": "https://boingboing.net/2026/05/08/us-and-iran-practicing-an-israeli-ceasefire-by-shooting-at-one-another.html",
+      "source": "Boing Boing",
+      "publishedAt": "2026-05-08T18:24:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "News24 | US fires on Iran tankers as talks hang in balance",
+      "url": "https://www.news24.com/world/us-fires-on-iran-tankers-as-talks-hang-in-balance-20260508-1087",
+      "source": "News24",
+      "publishedAt": "2026-05-08T18:07:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes kill 5 in southern Lebanon as Hezbollah rockets hit open areas in Israel",
+      "url": "https://www.cbc.ca/news/world/israel-south-lebanon-hezbollah-9.7192853",
+      "source": "CBC News",
+      "publishedAt": "2026-05-08T17:20:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "More than a dozen reported killed in Israeli attacks on south Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-08T17:18:33Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Washington ignored intel warnings on Iran – Trump’s ex-counterterror chief",
+      "url": "https://www.rt.com/news/639657-us-israel-iran-war/",
+      "source": "RT",
+      "publishedAt": "2026-05-08T16:57:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UAE reports Iranian drone and missile attack after U.S. says it traded fire with Tehran",
+      "url": "https://www.pbs.org/newshour/world/uae-reports-iranian-drone-and-missile-attack-after-u-s-says-it-traded-fire-with-tehran",
+      "source": "PBS",
+      "publishedAt": "2026-05-08T15:28:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US expects Iranian response to peace proposal on Friday, fighting flares in Gulf",
+      "url": "https://www.independent.ie/world-news/middle-east/us-expects-iranian-response-to-peace-proposal-on-friday-fighting-flares-in-gulf/a2131789708.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-08T15:26:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hezbollah rockets hit Haifa amid escalating Israel-Lebanon conflict",
+      "url": "https://cryptobriefing.com/hezbollah-rockets-hit-haifa-amid-escalating-israel-lebanon-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-08T15:25:54Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "North Korea will launch a nuclear weapon if Kim Jong Un is assassinated under new rules drawn up by the dictator",
+      "url": "https://www.dailymail.com/news/article-15801905/North-Korea-launch-nuclear-weapon-Kim-Jong-assassinated-new-rules-drawn-dictator.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-08T15:23:15Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israeli airstrikes kill 5 in southern Lebanon as Hezbollah rockets hit open areas in Israel",
+      "url": "https://www.pbs.org/newshour/world/israeli-airstrikes-kill-5-in-southern-lebanon-as-hezbollah-rockets-hit-open-areas-in-israel",
+      "source": "PBS",
+      "publishedAt": "2026-05-08T14:58:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump calls US strikes on Iran a ‘love tap’ after destroyers targeted in Strait of Hormuz",
+      "url": "https://freerepublic.com/focus/f-news/4378317/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-05-08T14:30:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah drone strikes wound three Israeli soldiers, one seriously, IDF says",
+      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-05-08/ty-article/hezbollah-drone-strikes-wound-three-israeli-soldiers-one-seriously-idf-says/0000019e-0785-d910-a7de-47fdd3ae0000",
+      "source": "Haaretz",
+      "publishedAt": "2026-05-08T14:14:24Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "UAE charts its own course across the Middle East and Africa",
+      "url": "https://www.dw.com/en/uae-charts-its-own-course-across-the-middle-east-and-africa/a-77095790",
+      "source": "DW (English)",
+      "publishedAt": "2026-05-08T13:37:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "India needs to ramps up drone production amid evolving multi-front threats",
       "url": "https://www.thehindubusinessline.com/news/india-needs-to-ramps-up-drone-production-amid-evolving-multi-front-threats/article70955484.ece",
@@ -35,14 +147,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Donald Trump says ceasefire still holds after fighting between the US and Iran flares",
-      "url": "https://economictimes.indiatimes.com/news/defence/donald-trump-says-ceasefire-still-holds-after-fighting-between-the-us-and-iran-flares/articleshow/130959962.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-08T12:20:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel ramps up airstrikes across Lebanon despite ceasefire",
       "url": "https://www.hurriyetdailynews.com/israel-ramps-up-airstrikes-across-lebanon-despite-ceasefire-221945",
       "source": "Hurriyet Daily News",
@@ -59,14 +163,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Lebanon war leaves families foraging for food despite ceasefire",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260508-unnews01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-08T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The SAFE agreement signed. This is a great moment for the whole community working towards peace",
       "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260508-plmnd01.htm",
       "source": "Globalsecurity.org",
@@ -75,20 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "What we know about Iran’s response to the latest US ceasefire proposal",
-      "url": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-08T11:47:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Is Pakistan’s grey gamble sinking in the Strait?",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/us-iran-ceasefire-pakistan-munirs-grey-gamble-sinking-in-the-strait-of-hormuz-oil-prices/articleshow/130958736.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-08T11:45:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "Lebanon war leaves families foraging for food despite ceasefire",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260508-unnews01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-08T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Sabotage and Cyberattacks Have Put Europe’s Power Networks on Alert",
@@ -97,22 +185,6 @@
       "publishedAt": "2026-05-08T11:18:19Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran seizes US-sanctioned oil tanker in Sea of Oman",
-      "url": "https://www.dailymail.com/news/article-15801203/Iran-seizes-US-sanctioned-oil-tanker-Sea-Oman.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-08T11:08:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 5/8/2026",
-      "url": "https://www.nakedcapitalism.com/2026/05/links-5-8-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-08T10:59:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "The U.S. awaits Iran's response as the UAE reports another missile barrage",
@@ -139,30 +211,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Gulf clash threatens hopes for quick US-Iran deal",
-      "url": "https://www.digitaljournal.com/world/gulf-clash-threatens-hopes-for-quick-us-iran-deal/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-05-08T10:03:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran War: Lull Before Expected Big Strikes or Is Trump Stuck?",
-      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-lull-before-expected-big-strikes-or-is-trump-stuck.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-08T09:53:10Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran attacks US destroyers in Strait of Hormuz escalation",
-      "url": "https://cryptobriefing.com/iran-attacks-us-destroyers-in-strait-of-hormuz-escalation/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-08T09:19:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "European countries emerge as NATO leaders as U.S. role recedes",
       "url": "https://www.npr.org/2026/05/08/nx-s1-5810515/us-war-trump-nato-iran-europe-canada-germany",
       "source": "NPR",
@@ -179,42 +227,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US, Iran Engage in Fresh Clashes Near Hormuz",
-      "url": "https://www.rigzone.com/news/wire/us_iran_engage_in_fresh_clashes_near_hormuz-08-may-2026-183640-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-05-08T07:23:55Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Could Russia Follow the “Hormuz Playbook” in the Baltic and Black Seas?",
       "url": "https://warontherocks.com/could-russia-follow-the-hormuz-playbook-in-the-baltic-and-black-seas/",
       "source": "War on the Rocks",
       "publishedAt": "2026-05-08T07:15:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US and Iran trade fire, threatening fragile truce",
-      "url": "https://www.hurriyetdailynews.com/us-and-iran-trade-fire-threatening-fragile-truce-221930",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-08T06:42:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
-      "url": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-08T06:32:57Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S. approves $373.6 million precision bomb package for Ukraine, expanding long-range strike capability",
-      "url": "https://www.naturalnews.com/2026-05-08-us-approves-precision-bomb-package-for-ukraine.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-08T06:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

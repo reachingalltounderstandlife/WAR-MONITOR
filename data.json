@@ -1,22 +1,134 @@
 {
-  "updated": "2026-05-09T02:44:13Z",
-  "count": 29,
+  "updated": "2026-05-09T07:54:39Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "As Adversaries Integrate, U.S. Partners Bypass Washington",
+      "url": "https://warontherocks.com/as-adversaries-integrate-u-s-partners-bypass-washington/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-05-08T07:30:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US, Iran Engage in Fresh Clashes Near Hormuz",
+      "url": "https://www.rigzone.com/news/wire/us_iran_engage_in_fresh_clashes_near_hormuz-08-may-2026-183640-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-05-08T07:23:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Could Russia Follow the “Hormuz Playbook” in the Baltic and Black Seas?",
+      "url": "https://warontherocks.com/could-russia-follow-the-hormuz-playbook-in-the-baltic-and-black-seas/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-05-08T07:15:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US and Iran trade fire, threatening fragile truce",
+      "url": "https://www.hurriyetdailynews.com/us-and-iran-trade-fire-threatening-fragile-truce-221930",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-08T06:42:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
+      "url": "https://www.aljazeera.com/news/2026/5/8/iran-war-day-70-us-iran-trade-fire-in-hormuz-amid-ceasefire-tensions",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-08T06:32:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran Clash Near Hormuz as Response on Proposed Deal Awaited",
+      "url": "https://financialpost.com/pmn/business-pmn/us-iran-clash-near-hormuz-as-response-on-proposed-deal-awaited",
+      "source": "Financial Post",
+      "publishedAt": "2026-05-08T06:18:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli army warns six Lebanese villages amid operations against Hezbollah",
+      "url": "https://cryptobriefing.com/israeli-army-warns-six-lebanese-villages-amid-operations-against-hezbollah/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-08T06:16:56Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trumpâs War Trap: How His Ego Is Burning the World",
+      "url": "https://www.naturalnews.com/2026-05-08-trumps-war-trap-ego-burning-the-world.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-08T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. approves $373.6 million precision bomb package for Ukraine, expanding long-range strike capability",
+      "url": "https://www.naturalnews.com/2026-05-08-us-approves-precision-bomb-package-for-ukraine.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-08T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US, Iran exchange fire despite Trump ceasefire claims",
+      "url": "https://punchng.com/us-iran-exchange-fire-despite-trump-ceasefire-claims/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-08T05:35:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Fragile ceasefire with exchanges of fire between the US and Iran in Hormuz: “Our strikes were just a pat on the hand,” says Trump, threatening Tehran again",
+      "url": "https://en.protothema.gr/2026/05/08/fragile-ceasefire-with-exchanges-of-fire-between-the-us-and-iran-in-hormuz-our-strikes-were-just-a-pat-on-the-hand-says-trump-threatening-tehran-again/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-05-08T05:11:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UAE reports drone, missile attack as Iran war ceasefire is challenged",
+      "url": "https://www.thehindubusinessline.com/news/world/uae-reports-drone-missile-attack-as-iran-war-ceasefire-is-challenged/article70953823.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-08T04:47:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hopes of a peace deal hit as Iran accuses US of violating ceasefire",
+      "url": "https://www.independent.ie/world-news/middle-east/hopes-of-a-peace-deal-hit-as-iran-accuses-us-of-violating-ceasefire/a872996319.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-08T04:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A left journalist's weirdly clinical emotional distance from America",
+      "url": "https://www.americanthinker.com/blog/2026/05/a_left_journalist_s_weirdly_clinical_emotional_distance_from_america.html",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-05-08T04:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Irish athletes and celebrities demand boycott of soccer match against Israel",
+      "url": "https://www.israelnationalnews.com/news/426752",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-08T03:52:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "What we know about renewed fighting between US and Iran",
       "url": "https://www.abc.net.au/news/2026-05-08/us-iran-attacks-strait-of-hormuz-tensions-ceasefire-threat/106657022",
       "source": "ABC News (AU)",
       "publishedAt": "2026-05-08T02:38:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran creates new Strait of Hormuz shipping authority amid US tensions",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/iran-creates-new-strait-of-hormuz-shipping-authority-amid-us-tensions/article70953671.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-05-08T02:31:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "North Korea to deploy new artillery along border with South",
@@ -27,60 +139,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "U.S. and Iran exchange fire, but Trump says cease-fire still in effect",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-08/ty-article-live/u-s-and-iran-exchange-fire-but-trump-says-cease-fire-still-in-effect/0000019e-053b-d995-a1be-1ffb80cb0000",
-      "source": "Haaretz",
-      "publishedAt": "2026-05-08T01:49:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Oil prices jump on renewed US-Iran hostilities",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-jump-on-renewed-us-iran-hostilities/articleshow/130940397.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-08T01:49:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US military intercepts Iranian attacks as Strait of Hormuz crisis deepens",
-      "url": "https://www.thehindubusinessline.com/news/world/us-military-intercepts-iranian-attacks-as-strait-of-hormuz-crisis-deepens/article70953664.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-05-08T01:27:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran creates new agency to control shipping in Strait of Hormuz while reviewing peace deal with US",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-creates-new-agency-to-control-shipping-in-strait-of-hormuz-while-reviewing-peace-deal-with-us/articleshow/130938623.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-08T01:14:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'It's just a love tap': Trump says ceasefire still in effect despite US-Iran exchange of fire",
-      "url": "https://economictimes.indiatimes.com/news/defence/its-just-a-love-tap-trump-says-ceasefire-still-in-effect-despite-us-and-iran-exchange-fire/articleshow/130937091.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-08T00:49:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "New fighting breaks out between US, Iran, throwing ceasefire into doubt",
-      "url": "https://economictimes.indiatimes.com/news/defence/new-fighting-breaks-out-between-us-iran-throwing-ceasefire-into-doubt/articleshow/130936347.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-08T00:35:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Two Weeks to an Iranian Nuke – The Ultimate False Flag Lie",
       "url": "https://original.antiwar.com/david_stockman/2026/05/07/two-weeks-to-an-iranian-nuke-the-ultimate-false-flag-lie/",
       "source": "Antiwar.com",
       "publishedAt": "2026-05-08T00:00:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "“Security Through Cooperation”: Rose Gottemoeller On US-Russian Diplomacy Past, Present . . . And Future?",
@@ -91,68 +155,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Strait of Hormuz: U.S target ships, carry out military strikes on Iranian territory, claims Tehran, Donald Trump says ceasefire still in effect",
-      "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-u-s-target-ships-carry-out-military-strikes-on-iranian-territory-claims-tehran-donald-trump-says-ceasefire-still-in-effect/articleshow/130932895.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-07T23:26:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US military intercepts Iranian attacks in Strait of Hormuz, raising doubts on peace efforts - The Boston Globe",
-      "url": "https://www.bostonglobe.com/2026/05/07/world/iran-us-war/",
-      "source": "The Boston Globe",
-      "publishedAt": "2026-05-07T23:07:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran accuses US of violating ceasefire after new attacks. Trump calls strikes a ‘love tap’",
-      "url": "https://www.irishtimes.com/world/2026/05/07/iran-accuses-us-of-violating-ceasefire-following-new-attacks-on-ships-and-civilian-areas/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-07T22:35:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What’s in Trump’s New Counterterrorism Strategy?",
-      "url": "http://foreignpolicy.com/2026/05/07/trump-counterterrorism-strategy-gorka-iran-lebanon-israel/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-07T22:02:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "After Beirut strike, Netanyahu says 'no immunity' for militants",
-      "url": "https://japantoday.com/category/world/after-beirut-strike-netanyahu-says-%27no-immunity%27-for-militants1",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-07T21:38:29Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Starmer Braces for Upsets in U.K. Local Elections",
-      "url": "http://foreignpolicy.com/2026/05/07/uk-local-elections-labour-starmer-reform-uk-farage-greens/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-07T20:51:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "So What Exactly Is Going On With the Iran Peace Talks Now?",
       "url": "https://slate.com/news-and-politics/2026/05/trump-iran-peace-deal-war-news-oil.html",
       "source": "Slate Magazine",
       "publishedAt": "2026-05-07T20:42:42Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Israel says it killed Hezbollah commander in first strike on Beirut since cease-fire",
-      "url": "https://nypost.com/2026/05/07/world-news/israel-says-it-killed-hezbollah-commander-in-first-strike-on-beirut-since-cease-fire/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-07T19:02:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "US Media Complain Iran War Leaves Ukraine’s Air Defense in Limbo. “Running out of Patriot Missiles”",
@@ -195,14 +203,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "NATO members divided over Ukrainian drone incidents",
-      "url": "https://www.rt.com/russia/639559-latvia-ukrainian-drone-incident/",
-      "source": "RT",
-      "publishedAt": "2026-05-07T10:56:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Parsons Secures $34 Million DTRA Award to Continue Nuclear Enterprise Mission Assurance Support",
       "url": "https://www.globenewswire.com/news-release/2026/05/07/3289747/0/en/Parsons-Secures-34-Million-DTRA-Award-to-Continue-Nuclear-Enterprise-Mission-Assurance-Support.html",
       "source": "GlobeNewswire",
@@ -219,20 +219,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Russia doesn’t have much to celebrate on Victory Day, as Ukraine brings the war home to Putin",
-      "url": "https://theconversation.com/russia-doesnt-have-much-to-celebrate-on-victory-day-as-ukraine-brings-the-war-home-to-putin-282254",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-05-07T06:38:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Germany’s new militarization: Revival of the spirit or blatant revanchism? (by Dmitry Medvedev)",
       "url": "https://www.rt.com/news/639537-germanys-new-militarization-revanchism/",
       "source": "RT",
       "publishedAt": "2026-05-07T05:20:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     }
   ]
 }

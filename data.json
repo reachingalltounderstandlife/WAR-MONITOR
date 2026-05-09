@@ -1,62 +1,158 @@
 {
-  "updated": "2026-05-08T19:15:41Z",
-  "count": 33,
+  "updated": "2026-05-09T02:44:13Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "What we know about renewed fighting between US and Iran",
+      "url": "https://www.abc.net.au/news/2026-05-08/us-iran-attacks-strait-of-hormuz-tensions-ceasefire-threat/106657022",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-08T02:38:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran creates new Strait of Hormuz shipping authority amid US tensions",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/iran-creates-new-strait-of-hormuz-shipping-authority-amid-us-tensions/article70953671.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-08T02:31:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea to deploy new artillery along border with South",
+      "url": "https://www.digitaljournal.com/world/north-korea-to-deploy-new-artillery-along-border-with-south/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-05-08T02:12:20Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "U.S. and Iran exchange fire, but Trump says cease-fire still in effect",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-08/ty-article-live/u-s-and-iran-exchange-fire-but-trump-says-cease-fire-still-in-effect/0000019e-053b-d995-a1be-1ffb80cb0000",
+      "source": "Haaretz",
+      "publishedAt": "2026-05-08T01:49:41Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Oil prices jump on renewed US-Iran hostilities",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-jump-on-renewed-us-iran-hostilities/articleshow/130940397.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-08T01:49:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US military intercepts Iranian attacks as Strait of Hormuz crisis deepens",
+      "url": "https://www.thehindubusinessline.com/news/world/us-military-intercepts-iranian-attacks-as-strait-of-hormuz-crisis-deepens/article70953664.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-08T01:27:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran creates new agency to control shipping in Strait of Hormuz while reviewing peace deal with US",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-creates-new-agency-to-control-shipping-in-strait-of-hormuz-while-reviewing-peace-deal-with-us/articleshow/130938623.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-08T01:14:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'It's just a love tap': Trump says ceasefire still in effect despite US-Iran exchange of fire",
+      "url": "https://economictimes.indiatimes.com/news/defence/its-just-a-love-tap-trump-says-ceasefire-still-in-effect-despite-us-and-iran-exchange-fire/articleshow/130937091.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-08T00:49:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "New fighting breaks out between US, Iran, throwing ceasefire into doubt",
+      "url": "https://economictimes.indiatimes.com/news/defence/new-fighting-breaks-out-between-us-iran-throwing-ceasefire-into-doubt/articleshow/130936347.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-08T00:35:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Two Weeks to an Iranian Nuke – The Ultimate False Flag Lie",
+      "url": "https://original.antiwar.com/david_stockman/2026/05/07/two-weeks-to-an-iranian-nuke-the-ultimate-false-flag-lie/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-05-08T00:00:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "“Security Through Cooperation”: Rose Gottemoeller On US-Russian Diplomacy Past, Present . . . And Future?",
+      "url": "https://www.hoover.org/research/security-through-cooperation-rose-gottemoeller-us-russian-diplomacy-past-present-and",
+      "source": "Hoover.org",
+      "publishedAt": "2026-05-08T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Strait of Hormuz: U.S target ships, carry out military strikes on Iranian territory, claims Tehran, Donald Trump says ceasefire still in effect",
+      "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-u-s-target-ships-carry-out-military-strikes-on-iranian-territory-claims-tehran-donald-trump-says-ceasefire-still-in-effect/articleshow/130932895.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-07T23:26:40Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US military intercepts Iranian attacks in Strait of Hormuz, raising doubts on peace efforts - The Boston Globe",
+      "url": "https://www.bostonglobe.com/2026/05/07/world/iran-us-war/",
+      "source": "The Boston Globe",
+      "publishedAt": "2026-05-07T23:07:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran accuses US of violating ceasefire after new attacks. Trump calls strikes a ‘love tap’",
+      "url": "https://www.irishtimes.com/world/2026/05/07/iran-accuses-us-of-violating-ceasefire-following-new-attacks-on-ships-and-civilian-areas/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-07T22:35:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What’s in Trump’s New Counterterrorism Strategy?",
+      "url": "http://foreignpolicy.com/2026/05/07/trump-counterterrorism-strategy-gorka-iran-lebanon-israel/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-05-07T22:02:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "After Beirut strike, Netanyahu says 'no immunity' for militants",
+      "url": "https://japantoday.com/category/world/after-beirut-strike-netanyahu-says-%27no-immunity%27-for-militants1",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-07T21:38:29Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Starmer Braces for Upsets in U.K. Local Elections",
+      "url": "http://foreignpolicy.com/2026/05/07/uk-local-elections-labour-starmer-reform-uk-farage-greens/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-05-07T20:51:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "So What Exactly Is Going On With the Iran Peace Talks Now?",
+      "url": "https://slate.com/news-and-politics/2026/05/trump-iran-peace-deal-war-news-oil.html",
+      "source": "Slate Magazine",
+      "publishedAt": "2026-05-07T20:42:42Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
     {
       "title": "Israel says it killed Hezbollah commander in first strike on Beirut since cease-fire",
       "url": "https://nypost.com/2026/05/07/world-news/israel-says-it-killed-hezbollah-commander-in-first-strike-on-beirut-since-cease-fire/",
       "source": "New York Post",
       "publishedAt": "2026-05-07T19:02:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Iran edge towards temporary truce with Tehran reviewing short-term proposal",
-      "url": "https://www.irishtimes.com/world/2026/05/07/us-and-iran-edge-towards-temporary-truce-with-tehran-reviewing-short-term-proposal/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-07T18:22:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US sanctions Iraqi minister accused of aiding Iran oil sales",
-      "url": "https://www.aljazeera.com/news/2026/5/7/us-sanctions-iraqi-minister-accused-of-aiding-iran-oil-sales",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-07T18:19:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US pushing Israeli de-escalation ahead of new talks: Lebanese official",
-      "url": "https://www.aljazeera.com/news/2026/5/7/us-pushing-israeli-de-escalation-ahead-of-new-talks-lebanese-official",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-07T16:26:18Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon Latest Israeli strikes Beirut despite ‘ceasefire’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/7/lebanon-latest-israeli-strikes-beirut-despite",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-07T16:22:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran reviewing U.S. proposal as Trump pressures Tehran for agreement on deal to end war",
-      "url": "https://www.pbs.org/newshour/world/iran-reviewing-u-s-proposal-as-trump-pressures-tehran-for-agreement-on-deal-to-end-war",
-      "source": "PBS",
-      "publishedAt": "2026-05-07T15:13:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How Iran Is Bypassing the Strait of Hormuz Blockade",
-      "url": "https://oilprice.com/Energy/Energy-General/How-Iran-Is-Bypassing-the-Strait-of-Hormuz-Blockade.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-05-07T15:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "US Media Complain Iran War Leaves Ukraine’s Air Defense in Limbo. “Running out of Patriot Missiles”",
@@ -75,44 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Geert Wilders For Breitbart: If Europe Wants to Survive, It Must Resist",
-      "url": "https://www.breitbart.com/europe/2026/05/07/geert-wilders-for-breitbart-if-europe-wants-to-survive-it-must-resist/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-05-07T14:22:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war has become a lesson in how power really works",
-      "url": "https://theconversation.com/iran-war-has-become-a-lesson-in-how-power-really-works-282391",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-05-07T14:18:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Value of the US “Foreign Policy of Restraint” in the World",
-      "url": "https://www.fairobserver.com/world-news/us-news/the-value-of-the-us-foreign-policy-of-restraint-in-the-world/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-05-07T14:04:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Russia’s Threat of a Massive Retaliatory Strike on Kiev Likely Isn’t A Bluff",
       "url": "https://www.nakedcapitalism.com/2026/05/russias-threat-of-a-massive-retaliatory-strike-on-kiev-likely-isnt-a-bluff.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-05-07T13:55:38Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel says it killed Hezbollah commander in first strike on Beirut since ceasefire",
-      "url": "https://economictimes.indiatimes.com/news/defence/israel-says-it-killed-hezbollah-commander-in-first-strike-on-beirut-since-ceasefire/articleshow/130888570.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-07T13:10:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Trump admin declare Europe an 'incubator' for terrorism fuelled by mass migration that is allowing 'alien cultures to grow'",
@@ -123,36 +187,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US awaits Iran response to latest deal offer",
-      "url": "https://www.digitaljournal.com/world/us-awaits-iran-response-to-latest-deal-offer/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-05-07T12:17:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US confirms it will host another round of Israel-Lebanon talks next week",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260507-azertac01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-07T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Zelenskyy has no cards to play against Russia or the West",
       "url": "https://peoplesreview.com.np/2026/05/07/zelenskyy-has-no-cards-to-play-against-russia-or-the-west/",
       "source": "Peoplesreview.com.np",
       "publishedAt": "2026-05-07T11:42:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israeli strikes across southern Lebanon despite ceasefire",
-      "url": "https://www.rte.ie/news/middle-east/2026/0507/1572147-lebanon-israel/",
-      "source": "RTE",
-      "publishedAt": "2026-05-07T11:07:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "NATO members divided over Ukrainian drone incidents",
@@ -193,78 +233,6 @@
       "publishedAt": "2026-05-07T05:20:18Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "With an Eye on Russia, Polish Army Trains Civilians",
-      "url": "https://www.newser.com/story/388640/with-an-eye-on-russia-polish-army-trains-civilians.html",
-      "source": "Newser",
-      "publishedAt": "2026-05-06T22:30:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "In rare push, US lawmakers demand transparency on Israel nuclear capability",
-      "url": "https://www.aljazeera.com/news/2026/5/6/in-rare-push-us-lawmakers-demand-transparency-on-israel-nuclear-capability",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-06T22:05:28Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Poll: Most Americans dislike Trump’s jabs at Pope Leo XIV, favor Leo’s call for peace",
-      "url": "https://www.ewtnnews.com/world/us/poll-americans-leo-trump-comments",
-      "source": "Ewtnnews.com",
-      "publishedAt": "2026-05-06T19:30:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "CNN’s Abby Phillip, Van Jones clash over questions about Israel’s nuclear weapons",
-      "url": "https://nypost.com/2026/05/06/media/cnns-abby-phillip-van-jones-clash-over-questions-about-israels-nuclear-weapons/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-06T16:17:15Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Brash CNN founder Ted Turner dies",
-      "url": "https://www.npr.org/2026/05/06/nx-s1-3059290/ted-turner-obituary-cnn",
-      "source": "NPR",
-      "publishedAt": "2026-05-06T14:23:25Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Geopolitics Strategic Intelligence Executive Briefing: Rising US/China Superpower Rivalry, Nuclear Proliferation Risks and Expanding Trade Conflicts Amplify Uncertainty",
-      "url": "https://www.globenewswire.com/news-release/2026/05/06/3288609/28124/en/Geopolitics-Strategic-Intelligence-Executive-Briefing-Rising-US-China-Superpower-Rivalry-Nuclear-Proliferation-Risks-and-Expanding-Trade-Conflicts-Amplify-Uncertainty.html",
-      "source": "GlobeNewswire",
-      "publishedAt": "2026-05-06T10:26:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "North Korea revises constitution to drop references to unification of Korean Peninsula, names Kim head of nuclear forces",
-      "url": "https://nypost.com/2026/05/06/world-news/north-korea-revises-constitution-to-drop-unification-references-names-kim-jong-un-head-of-nuclear-forces/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-06T09:27:10Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea drops reunification goal from constitution",
-      "url": "https://www.dw.com/en/north-korea-drops-reunification-goal-from-constitution/a-77061282",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-06T07:59:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea drops references to unification from constitution",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-revises-constitution-removes-unification-references-6103356",
-      "source": "CNA",
-      "publishedAt": "2026-05-06T07:17:54Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

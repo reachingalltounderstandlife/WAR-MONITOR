@@ -1,7 +1,103 @@
 {
-  "updated": "2026-05-10T13:15:55Z",
-  "count": 34,
+  "updated": "2026-05-10T19:02:03Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "Putin says Russia fighting for \"just cause\" in Ukraine during Victory Day parade",
+      "url": "https://www.cbsnews.com/news/putin-russia-fighting-victory-day-parade-under-tight-security/",
+      "source": "CBS News",
+      "publishedAt": "2026-05-09T18:24:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli drone strikes kill 4 near Beirut as southern airstrikes kill at least 13",
+      "url": "https://www.pbs.org/newshour/world/israeli-drone-strikes-kill-4-near-beirut-as-southern-airstrikes-kill-at-least-13",
+      "source": "PBS",
+      "publishedAt": "2026-05-09T18:12:53Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli attacks across Lebanon kill at least 19",
+      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-09T17:07:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hezbollah says targeted troops in northern Israel with drone",
+      "url": "https://economictimes.indiatimes.com/news/defence/hezbollah-says-targeted-troops-in-northern-israel-with-drone/articleshow/130980678.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-09T16:13:37Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli drone strikes near Beirut kill 4 and southern airstrikes kill at least 13",
+      "url": "https://www.yahoo.com/news/articles/israeli-drone-strikes-near-beirut-154216891.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-09T15:42:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Putin presides over Russia’s Victory Day parade without tanks, missiles and other heavy equipment due to threat of Ukrainian long-range drones",
+      "url": "https://fortune.com/2026/05/09/putin-presides-over-russias-victory-day-parade-without-tanks-missiles-and-other-heavy-equipment-due-to-threat-of-ukrainian-long-range-drones/",
+      "source": "Fortune",
+      "publishedAt": "2026-05-09T15:23:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "British Royal Navy destroyer joining ‘freedom of navigation’ mission in Strait of Hormuz to unlock commercial shipping",
+      "url": "https://nypost.com/2026/05/09/world-news/hms-royal-joining-freedom-of-navigation-mission-in-strait-of-hormuz-to-unlock-commercial-shipping/",
+      "source": "New York Post",
+      "publishedAt": "2026-05-09T14:26:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A fragile ceasefire holds as US awaits Iran response, Bahrain detains dozens",
+      "url": "https://abcnews.com/International/wireStory/fragile-ceasefire-holds-us-awaits-iran-response-bahrain-132807132",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-09T14:22:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel’s Nuclear Secrecy is Finally Being Questioned",
+      "url": "https://www.antiwar.com/blog/2026/05/09/israels-nuclear-secrecy-is-finally-being-questioned/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-05-09T14:20:16Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Bahrain rounds up dozens over alleged links to Iran’s IRGC",
+      "url": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-09T13:53:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes near Beirut escalate conflict with Hezbollah, ceasefire dissolves",
+      "url": "https://cryptobriefing.com/israeli-strikes-near-beirut-escalate-conflict-with-hezbollah-ceasefire-dissolves/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-09T13:31:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon condemns 'barbaric' Israeli attack amid ceasefire",
+      "url": "https://www.rte.ie/news/middle-east/2026/0509/1572532-israel-lebanon/",
+      "source": "RTE",
+      "publishedAt": "2026-05-09T13:19:32Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "The Case for the Denazification of Iran",
       "url": "https://www.fairobserver.com/world-news/middle-east-news/the-case-for-the-denazification-of-iran/",
@@ -119,86 +215,14 @@
       "url": "https://economictimes.indiatimes.com/news/defence/us-fire-on-iran-tankers-sparks-reprisals-as-deal-hangs-in-balance/articleshow/130975483.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-09T10:29:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Moscow holds scaled-back Victory Day parade as Russia-Ukraine ceasefire begins",
-      "url": "https://www.irishtimes.com/world/europe/2026/05/09/moscow-holds-scaled-back-victory-day-parade-as-russia-ukraine-ceasefire-begins/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-09T10:19:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin attends scaled-back Victory Day parade amid Ukraine worries",
-      "url": "https://www.abc.net.au/news/2026-05-09/victory-day-parade-moscow-stripped-back-ukraine-war/106662120",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-09T10:06:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The Praxian Genocidal Kill Chain – Part 1",
       "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-1/",
       "source": "Activistpost.com",
       "publishedAt": "2026-05-09T10:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel urges US to bomb Iran’s energy infrastructure within 24 hours as crypto markets brace for impact",
-      "url": "https://cryptobriefing.com/israel-urges-us-bomb-iran-energy-crypto-impact/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-09T08:20:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Iran no closer to ending war as Gulf clashes flare",
-      "url": "https://www.independent.ie/world-news/middle-east/us-and-iran-no-closer-to-ending-war-as-gulf-clashes-flare/a2131789708.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-05-09T08:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli airstrikes in Lebanon cast doubt on June 2026 withdrawal plan",
-      "url": "https://cryptobriefing.com/israeli-airstrikes-in-lebanon-cast-doubt-on-june-2026-withdrawal-plan/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-09T07:25:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel army issues evacuation warning for nine south Lebanon villages",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-urges-immediate-evacuation-of-nine-southern-lebanon-villages-amid-escalating-tensions-with-hezbollah/articleshow/130972773.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-09T07:24:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump threatens to resume military action if Iran deal not sealed",
-      "url": "https://www.hurriyetdailynews.com/trump-threatens-to-resume-military-action-if-iran-deal-not-sealed-221967",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-09T06:56:27Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US attacks spark Iran reprisals as deal hangs in balance",
-      "url": "https://www.rte.ie/news/middle-east/2026/0509/1572475-us-iran/",
-      "source": "RTE",
-      "publishedAt": "2026-05-09T06:46:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US fires on two Iranian tankers as Trump awaits Tehran's response to truce proposal",
-      "url": "https://www.thejournal.ie/us-fires-on-iranian-tankers-trump-awaits-response-truce-proposal-7034958-May2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-05-09T06:25:25Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -209,14 +233,6 @@
       "publishedAt": "2026-05-09T06:00:01Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "U.S.-Iran peace talks advance as Tehran reviews 14-point proposal to end war",
-      "url": "https://www.naturalnews.com/2026-05-09-us-iran-peace-talks-advance-tehran-reviews-proposal.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-09T06:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Asia’s ultra-luxury Capella Hotels brand plans to double its portfolio by 2030, starting with Florence and Riyadh",
@@ -233,14 +249,6 @@
       "publishedAt": "2026-05-08T21:12:07Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Israeli airstrikes kill 5 in southern Lebanon as Hezbollah rockets hit open areas in Israel",
-      "url": "https://japantoday.com/category/world/israeli-airstrikes-kill-5-in-southern-lebanon-as-hezbollah-rockets-hit-open-areas-in-israel",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-08T20:54:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "North Korea will launch a nuclear weapon if Kim Jong Un is assassinated under new rules drawn up by the dictator",

@@ -1,28 +1,164 @@
 {
-  "updated": "2026-05-10T08:06:15Z",
-  "count": 32,
+  "updated": "2026-05-10T13:15:55Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "The Case for the Denazification of Iran",
+      "url": "https://www.fairobserver.com/world-news/middle-east-news/the-case-for-the-denazification-of-iran/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-05-09T12:52:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin Presides over Pared Down Victory Day Military Parade in Moscow's Red Square",
+      "url": "https://www.breitbart.com/europe/2026/05/09/putin-presides-over-pared-down-victory-day-military-parade-in-moscows-red-square/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-05-09T12:33:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "As Trump forces NATO to pay up, alliance races to close military gap with US",
+      "url": "https://www.foxnews.com/world/trump-forces-nato-pay-up-alliance-races-close-military-gap-us",
+      "source": "Fox News",
+      "publishedAt": "2026-05-09T12:30:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin leads scaled-down Victory Day celebration as temporary ceasefire holds",
+      "url": "https://www.politico.eu/article/putin-leads-scaled-down-victory-day-celebration-as-temporary-ceasefire-holds/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-05-09T12:15:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin chides NATO in speech at scaled-back Victory Day parade",
+      "url": "https://economictimes.indiatimes.com/news/defence/putin-targets-nato-in-reduced-victory-day-parade-amid-ukraine-conflict/articleshow/130977021.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-09T12:14:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Bahrain Arrests 41 Over Alleged Links To Iran's Revolutionary Guards",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260509-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-09T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "May 9: Iran reaffirms its red lines, vowing decisive response to any new US attack in Persian Gulf",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260509-presstv02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-09T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin vows Russia will win against NATO-backed aggression at Victory Day parade",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/05/russia-260509-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-09T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin Says He Thinks Ukraine Conflict 'Coming To End,' But Shows No Signs Of Compromise",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260509-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-09T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli strikes on southern Lebanon kill 20 more civilians",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260509-presstv05.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-09T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Saturday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/05/09/saturday-hili-dialogue-582/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-05-09T11:45:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ahead of Russia's Victory Day, Zelensky Trolls With 'Decree'",
+      "url": "https://www.newser.com/story/388827/ahead-of-russias-victory-day-zelensky-trolls-with-decree.html",
+      "source": "Newser",
+      "publishedAt": "2026-05-09T11:30:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran demands conditions for World Cup participation",
+      "url": "https://punchng.com/iran-demands-conditions-for-world-cup-participation/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-09T11:24:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says Expects Iranian Response To Peace Proposal In Next Few Hours",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260509-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-09T10:52:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US fire on Iran tankers sparks reprisals as deal hangs in balance",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-fire-on-iran-tankers-sparks-reprisals-as-deal-hangs-in-balance/articleshow/130975483.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-09T10:29:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Moscow holds scaled-back Victory Day parade as Russia-Ukraine ceasefire begins",
+      "url": "https://www.irishtimes.com/world/europe/2026/05/09/moscow-holds-scaled-back-victory-day-parade-as-russia-ukraine-ceasefire-begins/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-09T10:19:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin attends scaled-back Victory Day parade amid Ukraine worries",
+      "url": "https://www.abc.net.au/news/2026-05-09/victory-day-parade-moscow-stripped-back-ukraine-war/106662120",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-09T10:06:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Praxian Genocidal Kill Chain – Part 1",
+      "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-1/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-05-09T10:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel urges US to bomb Iran’s energy infrastructure within 24 hours as crypto markets brace for impact",
+      "url": "https://cryptobriefing.com/israel-urges-us-bomb-iran-energy-crypto-impact/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-09T08:20:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US and Iran no closer to ending war as Gulf clashes flare",
       "url": "https://www.independent.ie/world-news/middle-east/us-and-iran-no-closer-to-ending-war-as-gulf-clashes-flare/a2131789708.html",
       "source": "Independent.ie",
       "publishedAt": "2026-05-09T08:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Grain dispute reveals bad blood between Ukraine and Israel",
-      "url": "https://www.cbc.ca/news/politics/grain-dispute-reveals-bad-blood-ukraine-israel-9.7191839",
-      "source": "CBC News",
-      "publishedAt": "2026-05-09T08:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iranian minister accuses US of ‘reckless military adventure’",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/05/09/iranian-minister-accuses-us-of-reckless-military-adventure/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-09T07:48:11Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -55,16 +191,16 @@
       "url": "https://www.rte.ie/news/middle-east/2026/0509/1572475-us-iran/",
       "source": "RTE",
       "publishedAt": "2026-05-09T06:46:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US fires on two Iranian tankers as Trump awaits Tehran's response to truce proposal",
       "url": "https://www.thejournal.ie/us-fires-on-iranian-tankers-trump-awaits-response-truce-proposal-7034958-May2026/",
       "source": "TheJournal.ie",
       "publishedAt": "2026-05-09T06:25:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Is the Iran nuclear agreement back to square one?",
@@ -83,60 +219,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Ukraine Drone Strikes Are Driving Vladimir Putin Into Bunker Hideaways",
-      "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/05/09/ukraine-drone-strikes-are-driving-vladimir-putin-into-bunker-hideaways/",
-      "source": "Forbes",
-      "publishedAt": "2026-05-09T05:26:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran-US War Live Updates: US expects Tehran’s reply to peace deal; ‘clashes’ in Hormuz",
-      "url": "https://indianexpress.com/article/world/us-news/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz-10680435/",
-      "source": "The Indian Express",
-      "publishedAt": "2026-05-09T04:20:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US fires on and disables 2 more Iranian tankers as tensions rise in the Strait of Hormuz",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-fires-on-and-disables-2-more-iranian-tankers-as-tensions-rise-in-the-strait-of-hormuz/articleshow/130969799.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-09T02:43:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Asia’s ultra-luxury Capella Hotels brand plans to double its portfolio by 2030, starting with Florence and Riyadh",
       "url": "https://fortune.com/2026/05/08/capella-ceo-roland-fasel-expansion-europe-singapore/",
       "source": "Fortune",
       "publishedAt": "2026-05-09T01:31:52Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
-      "url": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-09T01:23:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US fires on and disables two more Iranian tankers as Strait of Hormuz tensions rise",
-      "url": "https://www.thehindubusinessline.com/news/world/us-fires-on-and-disables-two-more-iranian-tankers-as-strait-of-hormuz-tensions-rise/article70957194.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-05-08T23:21:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "FBI concludes: Austin shooter admired Iranian regime but had no terror ties",
-      "url": "https://www.israelnationalnews.com/news/426790",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-08T22:39:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Kim Jong-un's Tween Daughter Helps Inspect North Korea's First Naval Destroyer",
@@ -155,54 +243,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Putin oversees scaled-back WW II Victory Day parade amid temporary Moscow-Kyiv ceasefire",
-      "url": "https://www.cbc.ca/news/world/russia-victory-day-parade-may-9-9.7193909",
-      "source": "CBC News",
-      "publishedAt": "2026-05-08T20:27:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Moment US forces strike two Iranian oil tankers as tenuous ceasefire moves closer to collapse",
-      "url": "https://www.dailymail.com/news/article-15802375/Moment-US-forces-strike-two-Iranian-oil-tankers.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-08T18:35:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli strikes kill 5 in southern Lebanon as Hezbollah rockets hit open areas in Israel",
-      "url": "https://www.cbc.ca/news/world/israel-south-lebanon-hezbollah-9.7192853",
-      "source": "CBC News",
-      "publishedAt": "2026-05-08T17:20:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "More than a dozen reported killed in Israeli attacks on south Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/5/8/more-than-a-dozen-reported-killed-in-israeli-attacks-on-south-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-08T17:18:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "UAE reports Iranian drone and missile attack after U.S. says it traded fire with Tehran",
-      "url": "https://www.pbs.org/newshour/world/uae-reports-iranian-drone-and-missile-attack-after-u-s-says-it-traded-fire-with-tehran",
-      "source": "PBS",
-      "publishedAt": "2026-05-08T15:28:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US expects Iranian response to peace proposal on Friday, fighting flares in Gulf",
-      "url": "https://www.independent.ie/world-news/middle-east/us-expects-iranian-response-to-peace-proposal-on-friday-fighting-flares-in-gulf/a2131789708.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-05-08T15:26:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea will launch a nuclear weapon if Kim Jong Un is assassinated under new rules drawn up by the dictator",
       "url": "https://www.dailymail.com/news/article-15801905/North-Korea-launch-nuclear-weapon-Kim-Jong-assassinated-new-rules-drawn-dictator.html",
       "source": "Dailymail.com",
@@ -217,30 +257,6 @@
       "publishedAt": "2026-05-08T12:53:30Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "A Year After Trump’s Scolding, It Turns Out Zelenskyy Has All Kinds Of Cards",
-      "url": "https://www.huffpost.com/entry/donald-trump-volodomyr-zelenskyy-ukraine_n_69fa4f1ee4b04a49ec0bc1d8",
-      "source": "HuffPost",
-      "publishedAt": "2026-05-08T12:00:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The SAFE agreement signed. This is a great moment for the whole community working towards peace",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260508-plmnd01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-08T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Sabotage and Cyberattacks Have Put Europe’s Power Networks on Alert",
-      "url": "https://www.insurancejournal.com/news/international/2026/05/08/869058.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-05-08T11:18:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea to deploy new artillery along border with South",

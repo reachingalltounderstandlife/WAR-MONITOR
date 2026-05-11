@@ -1,7 +1,119 @@
 {
-  "updated": "2026-05-11T09:37:03Z",
-  "count": 32,
+  "updated": "2026-05-11T14:47:52Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "Trump: Iran ‘militarily defeated,’ but conflict may not be over",
+      "url": "https://www.israelnationalnews.com/news/426848",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-10T14:32:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Royal Navy sends warship to Middle East to protect tankers when Strait of Hormuz reopens",
+      "url": "https://freerepublic.com/focus/f-chat/4378598/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-05-10T13:13:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran tests cease-fire yet again with drone strikes on Gulf states, cargo ship as Trump awaits peace proposal response",
+      "url": "https://nypost.com/2026/05/10/world-news/iran-continues-to-test-cease-fire-with-drone-strikes-on-gulf-states-and-cargo-ship/",
+      "source": "New York Post",
+      "publishedAt": "2026-05-10T13:12:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Pledges to Open 'New Battlefields' if US Attacks Again – Army Spokesman",
+      "url": "https://sputnikglobe.com/20260510/iran-pledges-to-open-new-battlefields-if-us-attacks-again--army-spokesman-1124107997.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-05-10T12:53:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian Victory Day Parade Takes Bizarre Turn with CGI Flyover",
+      "url": "https://theaviationist.com/2026/05/10/russian-victory-day-parade-cgi-flyover/",
+      "source": "Theaviationist.com",
+      "publishedAt": "2026-05-10T12:43:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran ceasefire under threat after cargo ship set on fire while 'hostile drones' enter Kuwait",
+      "url": "https://www.dailymail.com/news/article-15805437/Iran-ceasefire-threat-cargo-ship-set-fire-hostile-drones-enter-Kuwait.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-10T12:33:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Azerbaijan Risks Placing Itself on a Ukrainian-like Collision Course With Russia",
+      "url": "https://www.globalresearch.ca/azerbaijan-ukrainian-like-collision-course-russia/5925788",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-10T12:11:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Says US Still Has Potential Targets In Iran",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260510-rferl04.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-10T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Pledges to Open 'New Battlefields' if US Attacks Again - Army Spokesman",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260510-sputnik03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-10T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian air defense downs hostile drone in southwest, Army says",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260510-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-10T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'History repeats itself': Iran FM spox invokes historic Roman defeat to warn US, Israel",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260510-presstv03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-10T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli army struggles to counter Hezbollah's expanding drone operations: Report",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260510-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-10T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran war: Ceasefire tested by ship fire, drone attack",
+      "url": "https://www.dw.com/en/iran-war-ceasefire-tested-by-ship-fire-drone-attack/live-77102104",
+      "source": "DW (English)",
+      "publishedAt": "2026-05-10T10:32:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Putin Says He Believes Ukraine War May Be Coming to 'Completion' Amid Trump-Brokered Ceasefire",
+      "url": "https://www.breitbart.com/europe/2026/05/10/putin-says-he-believes-ukraine-war-may-be-coming-to-an-end/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-05-10T09:47:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Vladimir Putin claims Ukraine war is 'coming to an end' after insisting Russia is fighting for a 'just cause' against the West",
       "url": "https://www.dailymail.com/news/article-15805327/Vladimir-Putin-claims-Ukraine-war-coming-end-insisting-Russia-fighting-just-cause-against-West.html",
@@ -31,32 +143,8 @@
       "url": "https://www.thejournal.ie/israeli-strikes-lebanon-kill-at-least-17-7035788-May2026/",
       "source": "TheJournal.ie",
       "publishedAt": "2026-05-10T08:49:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Anxiety, anticipation as World Cup one-month countdown begins",
-      "url": "https://sports.yahoo.com/articles/anxiety-anticipation-world-cup-one-081804528.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-10T08:18:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Iran no closer to ending war as oil giant warns a billion barrels of oil have been lost",
-      "url": "https://www.independent.ie/world-news/middle-east/us-and-iran-no-closer-to-ending-war-as-oil-giant-warns-a-billion-barrels-of-oil-have-been-lost/a2131789708.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-05-10T08:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran says it has sent response to US peace proposal",
-      "url": "https://www.independent.ie/world-news/middle-east/iran-says-it-has-sent-response-to-us-peace-proposal/a2131789708.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-05-10T08:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Putin says Ukraine war winding down, blasts West for backing Kiev",
@@ -71,16 +159,8 @@
       "url": "https://www.hurriyetdailynews.com/irans-guards-threaten-us-mideast-sites-as-trump-awaits-tehran-response-221975",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-05-10T07:09:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran strikes tanker off Doha as tensions rise in Strait of Hormuz",
-      "url": "https://cryptobriefing.com/iran-strikes-tanker-off-doha-as-tensions-rise-in-strait-of-hormuz/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-10T07:05:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "British military says ship caught fire after being hit off coast of Qatar",
@@ -99,28 +179,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Oil Trader Nets Estimated $125 Million on Suspiciously Timed Bet Ahead of U.S.-Iran Deal Report",
-      "url": "https://www.naturalnews.com/2026-05-10-oil-trader-nets-windfall-suspiciously-timed-bet.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-10T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Iran threatens to obliterate US ships as peace deal hangs in the balance... and experts say Tehran has enough plutonium reserves for 200 nuclear bombs",
       "url": "https://www.dailymail.com/news/article-15804797/Iran-threatens-US-ships-peace-deal-trump.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-05-10T05:30:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Two wins, two losses: What India, Pakistan have learned a year after war",
-      "url": "https://www.aljazeera.com/news/2026/5/10/two-wins-two-losses-what-india-pakistan-have-learned-a-year-after-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-10T05:23:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
@@ -155,36 +219,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "url": "https://freerepublic.com/focus/f-news/4378555/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-10T02:06:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin says presented war update to India, China, US, paving way for three-day Ukraine ceasefire",
-      "url": "https://economictimes.indiatimes.com/news/india/putin-says-presented-war-update-to-india-china-us-paving-way-for-three-day-ukraine-ceasefire/articleshow/130985146.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-10T01:16:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Lebanon reports 39 killed in Israeli strikes as cross-border violence continues",
       "url": "https://english.khabarhub.com/2026/10/547970/",
       "source": "Khabarhub.com",
       "publishedAt": "2026-05-10T01:15:38Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Putin says he thinks Russia-Ukraine war is ending",
-      "url": "https://www.rte.ie/news/world/2026/0510/1572573-putin-ukraine/",
-      "source": "RTE",
-      "publishedAt": "2026-05-10T00:34:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Israel kills 13 in Lebanon pounding Hezbollah targets as US brokered peace talks are set to resume",
@@ -207,22 +247,6 @@
       "url": "https://abcnews.com/International/wireStory/israeli-drone-strikes-beirut-kill-4-southern-airstrikes-132812182",
       "source": "Abcnews.com",
       "publishedAt": "2026-05-09T19:11:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli drone strikes kill 4 near Beirut as southern airstrikes kill at least 13",
-      "url": "https://www.pbs.org/newshour/world/israeli-drone-strikes-kill-4-near-beirut-as-southern-airstrikes-kill-at-least-13",
-      "source": "PBS",
-      "publishedAt": "2026-05-09T18:12:53Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli attacks across Lebanon kill at least 19",
-      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-attacks-across-lebanon-kill-at-least-19",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-09T17:07:31Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

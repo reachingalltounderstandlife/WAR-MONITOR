@@ -1,14 +1,150 @@
 {
-  "updated": "2026-05-11T03:26:00Z",
-  "count": 28,
+  "updated": "2026-05-11T09:37:03Z",
+  "count": 32,
   "articles": [
     {
-      "title": "Nigeria risks hike in condom prices over escalating US-Iran war",
-      "url": "https://punchng.com/nigeria-risks-hike-in-condom-prices-over-escalating-us-iran-war/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-10T03:24:49Z",
+      "title": "Vladimir Putin claims Ukraine war is 'coming to an end' after insisting Russia is fighting for a 'just cause' against the West",
+      "url": "https://www.dailymail.com/news/article-15805327/Vladimir-Putin-claims-Ukraine-war-coming-end-insisting-Russia-fighting-just-cause-against-West.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-10T09:34:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin says he thinks Russia-Ukraine war is ‘coming to an end’",
+      "url": "https://www.independent.ie/irish-news/putin-says-he-thinks-russia-ukraine-war-is-coming-to-an-end/a598428662.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-10T09:01:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin Declares Ukraine Conflict 'Coming to an End' as Fighting Rages On",
+      "url": "https://www.ibtimes.com.au/putin-declares-ukraine-conflict-coming-end-fighting-rages-1868493",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-05-10T08:53:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli strikes on Lebanon kill at least 17 people amid ceasefire",
+      "url": "https://www.thejournal.ie/israeli-strikes-lebanon-kill-at-least-17-7035788-May2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-05-10T08:49:14Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Anxiety, anticipation as World Cup one-month countdown begins",
+      "url": "https://sports.yahoo.com/articles/anxiety-anticipation-world-cup-one-081804528.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-10T08:18:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US and Iran no closer to ending war as oil giant warns a billion barrels of oil have been lost",
+      "url": "https://www.independent.ie/world-news/middle-east/us-and-iran-no-closer-to-ending-war-as-oil-giant-warns-a-billion-barrels-of-oil-have-been-lost/a2131789708.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-10T08:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran says it has sent response to US peace proposal",
+      "url": "https://www.independent.ie/world-news/middle-east/iran-says-it-has-sent-response-to-us-peace-proposal/a2131789708.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-10T08:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin says Ukraine war winding down, blasts West for backing Kiev",
+      "url": "https://www.hurriyetdailynews.com/putin-says-ukraine-war-winding-down-blasts-west-for-backing-kiev-221977",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-10T07:17:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran's Guards threaten US Mideast sites as Trump awaits Tehran response",
+      "url": "https://www.hurriyetdailynews.com/irans-guards-threaten-us-mideast-sites-as-trump-awaits-tehran-response-221975",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-10T07:09:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran strikes tanker off Doha as tensions rise in Strait of Hormuz",
+      "url": "https://cryptobriefing.com/iran-strikes-tanker-off-doha-as-tensions-rise-in-strait-of-hormuz/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-10T07:05:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "British military says ship caught fire after being hit off coast of Qatar",
+      "url": "https://www.whio.com/news/business/british-military/S53FOAG2QA7F7NZJMAE376LLBU/",
+      "source": "WHIO",
+      "publishedAt": "2026-05-10T06:17:55Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "What does the Trump-Xi summit mean for the rest of us?",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0510/1572446-donald-trump-xi-jinping/",
+      "source": "RTE",
+      "publishedAt": "2026-05-10T06:10:12Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Oil Trader Nets Estimated $125 Million on Suspiciously Timed Bet Ahead of U.S.-Iran Deal Report",
+      "url": "https://www.naturalnews.com/2026-05-10-oil-trader-nets-windfall-suspiciously-timed-bet.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-10T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran threatens to obliterate US ships as peace deal hangs in the balance... and experts say Tehran has enough plutonium reserves for 200 nuclear bombs",
+      "url": "https://www.dailymail.com/news/article-15804797/Iran-threatens-US-ships-peace-deal-trump.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-10T05:30:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Two wins, two losses: What India, Pakistan have learned a year after war",
+      "url": "https://www.aljazeera.com/news/2026/5/10/two-wins-two-losses-what-india-pakistan-have-learned-a-year-after-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-10T05:23:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin suggests Russia’s war on Ukraine ‘coming to an end’",
+      "url": "https://www.aljazeera.com/news/2026/5/10/putin-suggests-russias-war-on-ukraine-coming-to-an-end",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-10T04:17:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea updates constitution to require automatic nuclear strike if Kim Jong Un is assassinated: report",
+      "url": "https://www.foxnews.com/world/north-korea-updates-constitution-require-automatic-nuclear-strike-kim-jong-un-assassinated-report",
+      "source": "Fox News",
+      "publishedAt": "2026-05-10T03:56:24Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "‘Time Is Right for Ukraine to Accept Reality’ – Former Pentagon Analyst",
+      "url": "https://sputnikglobe.com/20260510/time-is-right-for-ukraine-to-accept-reality--former-pentagon-analyst-1124106236.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-05-10T03:38:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "US experience fighting Iran offers lessons for China, experts say",
@@ -43,14 +179,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Israel built and defended a secret base in Iraq for Iran war: Report",
-      "url": "https://economictimes.indiatimes.com/news/defence/israel-built-and-defended-a-secret-base-in-iraq-for-iran-war-report/articleshow/130985114.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-10T01:08:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Putin says he thinks Russia-Ukraine war is ending",
       "url": "https://www.rte.ie/news/world/2026/0510/1572573-putin-ukraine/",
       "source": "RTE",
@@ -59,52 +187,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israel built secret base in Iraq to bomb Iran – WSJ",
-      "url": "https://www.rt.com/news/639817-israel-secret-iraq-base/",
-      "source": "RT",
-      "publishedAt": "2026-05-09T23:37:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Moscow holds scaled-back Victory Day Parade under heavy security",
-      "url": "https://www.pbs.org/newshour/world/moscow-holds-scaled-back-victory-day-parade-under-heavy-security",
-      "source": "PBS",
-      "publishedAt": "2026-05-09T22:40:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin Says He Thinks Russia-Ukraine War Is Coming To An End",
-      "url": "https://www.huffpost.com/entry/putin-russia-ukraine-war_n_69ffa5efe4b06e786e3e9dec",
-      "source": "HuffPost",
-      "publishedAt": "2026-05-09T21:29:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin says Ukraine war winding down; blasts West for backing Kyiv",
-      "url": "https://japantoday.com/category/world/putin-chides-nato-in-speech-at-scaled-back-victory-day-parade",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-09T20:39:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israel kills 13 in Lebanon pounding Hezbollah targets as US brokered peace talks are set to resume",
       "url": "https://nypost.com/2026/05/09/world-news/israel-kills-13-in-lebanon-pounding-hezbollah-targets-as-us-brokered-peace-talks-are-set-to-resume/",
       "source": "New York Post",
       "publishedAt": "2026-05-09T20:19:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Iran no closer to ending war as Tehran yet to respond to latest proposals",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/05/09/us-and-iran-no-closer-to-ending-war-as-tehran-yet-to-respond-to-latest-proposals/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-09T19:51:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "12 said killed in Israeli strikes in south Lebanon, as Hezbollah drones wound 3 troops - The Times of Israel",
@@ -123,14 +211,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Putin says Russia fighting for \"just cause\" in Ukraine during Victory Day parade",
-      "url": "https://www.cbsnews.com/news/putin-russia-fighting-victory-day-parade-under-tight-security/",
-      "source": "CBS News",
-      "publishedAt": "2026-05-09T18:24:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israeli drone strikes kill 4 near Beirut as southern airstrikes kill at least 13",
       "url": "https://www.pbs.org/newshour/world/israeli-drone-strikes-kill-4-near-beirut-as-southern-airstrikes-kill-at-least-13",
       "source": "PBS",
@@ -147,46 +227,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Hezbollah says targeted troops in northern Israel with drone",
-      "url": "https://economictimes.indiatimes.com/news/defence/hezbollah-says-targeted-troops-in-northern-israel-with-drone/articleshow/130980678.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-09T16:13:37Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli drone strikes near Beirut kill 4 and southern airstrikes kill at least 13",
-      "url": "https://www.yahoo.com/news/articles/israeli-drone-strikes-near-beirut-154216891.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-09T15:42:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Putin presides over Russia’s Victory Day parade without tanks, missiles and other heavy equipment due to threat of Ukrainian long-range drones",
-      "url": "https://fortune.com/2026/05/09/putin-presides-over-russias-victory-day-parade-without-tanks-missiles-and-other-heavy-equipment-due-to-threat-of-ukrainian-long-range-drones/",
-      "source": "Fortune",
-      "publishedAt": "2026-05-09T15:23:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "British Royal Navy destroyer joining ‘freedom of navigation’ mission in Strait of Hormuz to unlock commercial shipping",
-      "url": "https://nypost.com/2026/05/09/world-news/hms-royal-joining-freedom-of-navigation-mission-in-strait-of-hormuz-to-unlock-commercial-shipping/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-09T14:26:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "A fragile ceasefire holds as US awaits Iran response, Bahrain detains dozens",
-      "url": "https://abcnews.com/International/wireStory/fragile-ceasefire-holds-us-awaits-iran-response-bahrain-132807132",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-05-09T14:22:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel’s Nuclear Secrecy is Finally Being Questioned",
       "url": "https://www.antiwar.com/blog/2026/05/09/israels-nuclear-secrecy-is-finally-being-questioned/",
       "source": "Antiwar.com",
@@ -195,20 +235,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Bahrain rounds up dozens over alleged links to Iran’s IRGC",
-      "url": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-09T13:53:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Putin Presides over Pared Down Victory Day Military Parade in Moscow's Red Square",
-      "url": "https://www.breitbart.com/europe/2026/05/09/putin-presides-over-pared-down-victory-day-military-parade-in-moscows-red-square/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-05-09T12:33:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "title": "Chair's statement of the 48th Asean summit",
+      "url": "https://www.voltairenet.org/article224476.html",
+      "source": "Red Voltaire",
+      "publishedAt": "2026-05-09T06:12:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Is the Iran nuclear agreement back to square one?",

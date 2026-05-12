@@ -1,14 +1,102 @@
 {
-  "updated": "2026-05-12T02:51:49Z",
-  "count": 32,
+  "updated": "2026-05-12T08:38:04Z",
+  "count": 34,
   "articles": [
     {
-      "title": "Israeli PM Netanyahu argues public opinion shift on Israel 'correlates almost 100%' to social media",
-      "url": "https://www.foxnews.com/media/israeli-pm-netanyahu-argues-public-opinion-shift-israel-correlates-almost-100-social-media",
-      "source": "Fox News",
-      "publishedAt": "2026-05-11T02:30:05Z",
+      "title": "‘I don’t like it… totally unacceptable’ - says Trump but Iran describes its proposal to end war with US as generous",
+      "url": "https://www.independent.ie/world-news/middle-east/i-dont-like-it-totally-unacceptable-says-trump-but-iran-describes-its-proposal-to-end-war-with-us-as-generous/a1435406078.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-11T08:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Trump rejects Iran peace terms, Tehran warns of new attacks",
+      "url": "https://www.hurriyetdailynews.com/trump-rejects-iran-peace-terms-tehran-warns-of-new-attacks-222011",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-11T07:04:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Maximum pressure, minimum victory: How the US lost the momentum in Iran",
+      "url": "https://www.rt.com/news/639848-maximum-pressure-minimum-victory-us-iran/",
+      "source": "RT",
+      "publishedAt": "2026-05-11T06:55:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UK, France to host multinational meeting on mission to escort ships through Hormuz",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/uk-france-to-host-multinational-meeting-on-hormuz-naval-mission",
+      "source": "Bloomberg",
+      "publishedAt": "2026-05-11T06:41:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why a long-term ceasefire between Russia and Ukraine may be closer than it seems",
+      "url": "https://indianexpress.com/article/opinion/columns/russia-ukraine-temporary-ceasefire-trump-putin-zelenskyy-10683442/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-05-11T06:21:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Things are not going so well for Russia",
+      "url": "https://www.aljazeera.com/opinions/2026/5/11/things-are-not-going-so-well-for-russia",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-11T06:17:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump rejects Iran peace terms as oil prices surge",
+      "url": "https://punchng.com/trump-rejects-iran-peace-terms-as-oil-prices-surge/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-11T06:06:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pezeshkian: Iran Ready to Prove Peaceful Nature of Nuclear Program, Offers Assurance to Neighbors",
+      "url": "https://www.naturalnews.com/2026-05-11-pezeshkian-iran-ready-prove-peaceful-nuclear-program.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-11T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Adviser Compares Strait of Hormuz to âAtomic Bombâ as US-Iran Clashes Continue",
+      "url": "https://www.naturalnews.com/2026-05-11-iran-adviser-compares-hormuz-to-atomic-bomb.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-11T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Iran's peace terms are 'totally unacceptable' as Tehran warns of new attacks",
+      "url": "https://www.thejournal.ie/trump-says-irans-peace-terms-are-totally-unacceptable-7036211-May2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-05-11T05:50:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘I don’t like it – totally unacceptable’ – Trump rejects Iran’s response to US proposal on peace talks",
+      "url": "https://www.independent.ie/world-news/middle-east/i-dont-like-it-totally-unacceptable-trump-rejects-irans-response-to-us-proposal-on-peace-talks/a1435406078.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-11T05:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s angry response to Iran proposal: He calls it unacceptable – Tehran speaks of an “end to restraint”",
+      "url": "https://en.protothema.gr/2026/05/11/trumps-angry-response-to-iran-proposal-he-calls-it-unacceptable-tehran-speaks-of-an-end-to-restraint/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-05-11T04:37:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Royal Navy to spend £200,000 fixing 'inappropriately placed' buttons on female sailors' jackets",
@@ -31,8 +119,8 @@
       "url": "https://chinaarticles.substack.com/p/board-of-trade-ahoy",
       "source": "Substack.com",
       "publishedAt": "2026-05-11T00:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "taiwan",
+      "_label": "Taiwan"
     },
     {
       "title": "Trump Rejects Iran’s Latest Response as ‘Totally Unacceptable’ -- ‘They Will Be Laughing No Longer’",
@@ -47,48 +135,16 @@
       "url": "https://www.cbsnews.com/news/netanyahu-us-israel-iran-60-minutes-transcript/",
       "source": "CBS News",
       "publishedAt": "2026-05-10T23:00:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Donald Trump to discuss Iran war with Xi Jinping during Beijing visit",
-      "url": "https://cryptobriefing.com/trump-xi-beijing-summit-iran/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-10T22:40:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump and Xi set for talks spanning Iran, nuclear, trade and AI",
-      "url": "https://www.channelnewsasia.com/east-asia/trump-us-china-talks-iran-nuclear-trade-ai-6112541",
-      "source": "CNA",
-      "publishedAt": "2026-05-10T22:40:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Reacts To Iran’s Latest Diplomatic Response With Two Words",
-      "url": "https://dailycaller.com/2026/05/10/donald-trump-reacts-iran-diplomacy-truth-social-response/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-05-10T22:01:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu Tells 60 Minutes He Wants Israel to Have ‘Zero’ US Financial Support: ‘It’s Time’",
-      "url": "https://www.mediaite.com/politics/netanyahu-tells-60-minutes-he-wants-israel-to-have-zero-us-financial-support-its-time/",
-      "source": "Mediaite",
-      "publishedAt": "2026-05-10T21:53:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran responds to US ceasefire proposal but Trump rejects it as 'unacceptable'",
       "url": "https://www.hurriyetdailynews.com/iran-responds-to-us-ceasefire-proposal-but-trump-rejects-it-as-unacceptable-222010",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-05-10T21:32:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "North Korean constitution now requires nuclear missile strike if Kim Jong Un is killed by foreign power",
@@ -111,28 +167,12 @@
       "url": "https://www.abc.net.au/news/2026-05-11/iran-israel-war-news-briefing/106664426",
       "source": "ABC News (AU)",
       "publishedAt": "2026-05-10T20:47:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Western Media Says Mojtaba Khamenei Is Gay, Crippled and Disfigured – But Iranian Official States That the New Supreme Leader Has Healed From ‘Scratch Behind the Ear’",
-      "url": "https://www.thegatewaypundit.com/2026/05/western-media-says-mojtaba-khamenei-is-gay-crippled/",
-      "source": "Thegatewaypundit.com",
-      "publishedAt": "2026-05-10T20:40:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war: Trump rejects proposal to end conflict",
-      "url": "https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-10T20:33:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Iran war: Trump rejects proposal to end war",
-      "url": "https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-war/live-77102104",
+      "title": "Iran war: Trump rejects proposal to end conflict",
+      "url": "https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104",
       "source": "DW (English)",
       "publishedAt": "2026-05-10T20:33:00Z",
       "_cat": "lebanon",
@@ -161,22 +201,6 @@
       "publishedAt": "2026-05-10T17:04:54Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Lebanese Mourn Eight Members of One Family Killed in Israeli Strike - The New York Times",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183174656",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-05-10T16:32:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump calls Iran's response to ceasefire proposal 'unacceptable'",
-      "url": "https://www.pbs.org/newshour/world/trump-calls-irans-response-to-ceasefire-proposal-unacceptable",
-      "source": "PBS",
-      "publishedAt": "2026-05-10T16:13:05Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Putin hints at ending Russia’s war in Ukraine, but why now?",
@@ -215,14 +239,6 @@
       "url": "https://www.breitbart.com/europe/2026/05/10/putin-says-he-believes-ukraine-war-may-be-coming-to-an-end/",
       "source": "Breitbart News",
       "publishedAt": "2026-05-10T09:47:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Vladimir Putin claims Ukraine war is 'coming to an end' after insisting Russia is fighting for a 'just cause' against the West",
-      "url": "https://www.dailymail.com/news/article-15805327/Vladimir-Putin-claims-Ukraine-war-coming-end-insisting-Russia-fighting-just-cause-against-West.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-10T09:34:46Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

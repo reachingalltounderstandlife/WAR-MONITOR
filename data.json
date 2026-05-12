@@ -1,38 +1,198 @@
 {
-  "updated": "2026-05-12T08:38:04Z",
-  "count": 34,
+  "updated": "2026-05-12T14:23:01Z",
+  "count": 36,
   "articles": [
     {
-      "title": "‘I don’t like it… totally unacceptable’ - says Trump but Iran describes its proposal to end war with US as generous",
-      "url": "https://www.independent.ie/world-news/middle-east/i-dont-like-it-totally-unacceptable-says-trump-but-iran-describes-its-proposal-to-end-war-with-us-as-generous/a1435406078.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-05-11T08:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump rejects Iran peace terms, Tehran warns of new attacks",
-      "url": "https://www.hurriyetdailynews.com/trump-rejects-iran-peace-terms-tehran-warns-of-new-attacks-222011",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-11T07:04:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Maximum pressure, minimum victory: How the US lost the momentum in Iran",
-      "url": "https://www.rt.com/news/639848-maximum-pressure-minimum-victory-us-iran/",
+      "title": "French presidential hopeful pushes to end Russia sanctions",
+      "url": "https://www.rt.com/news/639853-france-philippot-end-russia-sanctions/",
       "source": "RT",
-      "publishedAt": "2026-05-11T06:55:01Z",
+      "publishedAt": "2026-05-11T14:02:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Who Wants Hezbollah to Stay Armed?",
+      "url": "http://foreignpolicy.com/2026/05/11/lebanon-hezbollah-disarmament-shiite-secterianism-israel-iran-war/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-05-11T14:00:50Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Putin’s Misleading Factoids on Russia-Israel Ties",
+      "url": "https://www.nakedcapitalism.com/2026/05/putins-misleading-factoids-on-russia-israel-ties.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-11T13:54:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Has Gone From Unpredictable to Unreliable",
+      "url": "https://www.theatlantic.com/national-security/2026/05/trump-has-gone-unpredictable-unreliable/687129/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-05-11T13:30:31Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Germany’s New Strategic Posture and the Specter of Continental Conflict With Russia",
+      "url": "https://www.globalresearch.ca/germany-new-strategic-posture/5925891",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-11T13:14:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘Unacceptable’: What’s Iran’s peace proposal that Trump has rejected?",
+      "url": "https://www.aljazeera.com/news/2026/5/11/unacceptable-whats-irans-peace-proposal-that-trump-has-rejected",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-11T13:09:12Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "UK, France to host multinational meeting on mission to escort ships through Hormuz",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-10/uk-france-to-host-multinational-meeting-on-hormuz-naval-mission",
-      "source": "Bloomberg",
-      "publishedAt": "2026-05-11T06:41:03Z",
+      "title": "Iran War Ceasefire Grows Increasingly Shaky After Trump Rejects Tehran's Latest Proposal",
+      "url": "https://www.huffpost.com/entry/iran-war-ceasefire-grows-increasingly-shaky-trump-rejects-latest-proposal_n_6a01d167e4b0cb033e52cc64",
+      "source": "HuffPost",
+      "publishedAt": "2026-05-11T13:05:43Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Israel Intensifies Strikes on Lebanon, but “Any Domestic Sectarian Division Could Pose a Greater Threat Than the Enemy”",
+      "url": "https://www.globalresearch.ca/israel-intensifies-strikes-lebanon-domestic-sectarian-division-greater-threat/5925859",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-11T12:44:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war ceasefire grows increasingly shaky after Trump rejects Tehran's latest proposal",
+      "url": "https://economictimes.indiatimes.com/news/defence/tensions-escalate-as-trump-rejects-irans-ceasefire-proposal-amid-ongoing-conflict/articleshow/131013800.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-11T12:33:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trolling, memes, and deepfakes: How AI is thickening the fog of war",
+      "url": "https://www.niemanlab.org/2026/05/trolling-memes-and-deepfakes-how-ai-is-thickening-the-fog-of-war/",
+      "source": "Niemanlab.org",
+      "publishedAt": "2026-05-11T12:00:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Calls Iran's Response to US Proposal to End Conflict Unacceptable",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260511-sputnik05.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-11T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon's president to US envoy: Pressure Israel to end ceasefire violations",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260511-presstv05.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-11T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Modi warns Iran war poses great risks to India, urges reductions in fuel use",
+      "url": "https://www.globalsecurity.org/wmd/library/news/india/2026/india-260511-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-11T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Middle East: Deadly weekend in Lebanon, continued violence in Gaza",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260511-unnews01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-11T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon Appeals To US To Help Stop Israeli Attacks",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260511-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-11T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hezbollah strikes crushing blows against Israeli troops in southern Lebanon",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260511-presstv02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-11T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "New Israeli attacks kill six civilians across southern Lebanon amid truce violations",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260511-presstv03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-11T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran conflict escalates, impacting oil markets and regional stability",
+      "url": "https://cryptobriefing.com/iran-conflict-escalates-impacting-oil-markets-and-regional-stability/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-11T11:58:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Monday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/05/11/monday-hili-dialogue-568/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-05-11T11:45:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon accuses Israel of deliberately targeting medics",
+      "url": "https://www.rt.com/news/639860-lebanon-israel-medics-hezbollah/",
+      "source": "RT",
+      "publishedAt": "2026-05-11T11:09:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Has Trump Made the Threat of a Nuclear Iran Even Worse?",
+      "url": "http://nymag.com/intelligencer/article/iran-war-nuclear-program-negotiations-has-trump-made-threat-worse.html",
+      "source": "New York Magazine",
+      "publishedAt": "2026-05-11T11:00:52Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Automatic nuclear strike if Kim Jong-un targeted — North Korea revises policy",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/automatic-nuclear-strike-if-kim-jong-un-targeted-north-korea-revises-policy/articleshow/131011168.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-11T10:35:36Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Nuclear strike will automatically trigger if Kim Jong Un is assassinated",
+      "url": "https://peoplesreview.com.np/2026/05/11/nuclear-strike-will-automatically-trigger-if-kim-jong-un-is-assassinated/",
+      "source": "Peoplesreview.com.np",
+      "publishedAt": "2026-05-11T09:20:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The Same Democrats Behind War Crimes ‘R’ Us Are Preparing to Sell You an Imperial Rebrand for 2028",
+      "url": "https://www.nakedcapitalism.com/2026/05/the-same-democrats-who-brought-you-war-crimes-r-us-are-preparing-to-sell-you-an-imperial-rebrand-for-2028.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-11T09:00:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Why a long-term ceasefire between Russia and Ukraine may be closer than it seems",
@@ -41,62 +201,6 @@
       "publishedAt": "2026-05-11T06:21:52Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Things are not going so well for Russia",
-      "url": "https://www.aljazeera.com/opinions/2026/5/11/things-are-not-going-so-well-for-russia",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-11T06:17:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump rejects Iran peace terms as oil prices surge",
-      "url": "https://punchng.com/trump-rejects-iran-peace-terms-as-oil-prices-surge/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-11T06:06:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pezeshkian: Iran Ready to Prove Peaceful Nature of Nuclear Program, Offers Assurance to Neighbors",
-      "url": "https://www.naturalnews.com/2026-05-11-pezeshkian-iran-ready-prove-peaceful-nuclear-program.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-11T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Adviser Compares Strait of Hormuz to âAtomic Bombâ as US-Iran Clashes Continue",
-      "url": "https://www.naturalnews.com/2026-05-11-iran-adviser-compares-hormuz-to-atomic-bomb.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-11T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says Iran's peace terms are 'totally unacceptable' as Tehran warns of new attacks",
-      "url": "https://www.thejournal.ie/trump-says-irans-peace-terms-are-totally-unacceptable-7036211-May2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-05-11T05:50:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘I don’t like it – totally unacceptable’ – Trump rejects Iran’s response to US proposal on peace talks",
-      "url": "https://www.independent.ie/world-news/middle-east/i-dont-like-it-totally-unacceptable-trump-rejects-irans-response-to-us-proposal-on-peace-talks/a1435406078.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-05-11T05:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump’s angry response to Iran proposal: He calls it unacceptable – Tehran speaks of an “end to restraint”",
-      "url": "https://en.protothema.gr/2026/05/11/trumps-angry-response-to-iran-proposal-he-calls-it-unacceptable-tehran-speaks-of-an-end-to-restraint/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-05-11T04:37:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Royal Navy to spend £200,000 fixing 'inappropriately placed' buttons on female sailors' jackets",
@@ -123,60 +227,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Trump Rejects Iran’s Latest Response as ‘Totally Unacceptable’ -- ‘They Will Be Laughing No Longer’",
-      "url": "https://www.breitbart.com/politics/2026/05/10/trump-rejects-irans-latest-response-as-totally-unacceptable-they-will-be-laughing-no-longer/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-05-10T23:35:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu wants Israel \"to draw down to zero the American financial support\"",
-      "url": "https://www.cbsnews.com/news/netanyahu-us-israel-iran-60-minutes-transcript/",
-      "source": "CBS News",
-      "publishedAt": "2026-05-10T23:00:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran responds to US ceasefire proposal but Trump rejects it as 'unacceptable'",
-      "url": "https://www.hurriyetdailynews.com/iran-responds-to-us-ceasefire-proposal-but-trump-rejects-it-as-unacceptable-222010",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-10T21:32:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "North Korean constitution now requires nuclear missile strike if Kim Jong Un is killed by foreign power",
       "url": "https://freerepublic.com/focus/f-chat/4378644/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-05-10T20:52:40Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump quickly blasts Iran’s response to U.S. ceasefire proposal as ‘totally unacceptable’ after warning Tehran ‘will be laughing no longer’",
-      "url": "https://fortune.com/2026/05/10/trump-iran-response-us-ceasefire-proposal-totally-unacceptable-hormuz-naval-blockade/",
-      "source": "Fortune",
-      "publishedAt": "2026-05-10T20:49:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran weekly briefing: Amid the tough talk, there's a hint that no-one wants this to deteriorate",
-      "url": "https://www.abc.net.au/news/2026-05-11/iran-israel-war-news-briefing/106664426",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-10T20:47:44Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran war: Trump rejects proposal to end conflict",
-      "url": "https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-10T20:33:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "The old German question haunts Europe once more",
@@ -195,52 +251,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "As Trump Rift Grows, Who Does Ukraine Turn to for Support Against Russia?",
-      "url": "https://freerepublic.com/focus/f-news/4378620/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-10T17:04:54Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin hints at ending Russia’s war in Ukraine, but why now?",
-      "url": "https://www.aljazeera.com/news/2026/5/10/putin-hints-at-ending-russias-war-in-ukraine-but-why-now",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-10T15:53:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea Adopts “Dead Hand” Nuclear Doctrine in Constitution",
       "url": "https://freerepublic.com/focus/f-chat/4378605/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-05-10T14:50:08Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Russian Victory Day Parade Takes Bizarre Turn with CGI Flyover",
-      "url": "https://theaviationist.com/2026/05/10/russian-victory-day-parade-cgi-flyover/",
-      "source": "Theaviationist.com",
-      "publishedAt": "2026-05-10T12:43:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Azerbaijan Risks Placing Itself on a Ukrainian-like Collision Course With Russia",
-      "url": "https://www.globalresearch.ca/azerbaijan-ukrainian-like-collision-course-russia/5925788",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-10T12:11:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin Says He Believes Ukraine War May Be Coming to 'Completion' Amid Trump-Brokered Ceasefire",
-      "url": "https://www.breitbart.com/europe/2026/05/10/putin-says-he-believes-ukraine-war-may-be-coming-to-an-end/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-05-10T09:47:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "What does the Trump-Xi summit mean for the rest of us?",

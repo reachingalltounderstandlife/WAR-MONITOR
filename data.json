@@ -1,14 +1,206 @@
 {
-  "updated": "2026-05-13T08:42:54Z",
-  "count": 37,
+  "updated": "2026-05-13T14:31:12Z",
+  "count": 40,
   "articles": [
     {
-      "title": "Zelenskyy says Russia fired over 200 drones at Ukraine as truce expires",
-      "url": "https://www.aljazeera.com/news/2026/5/12/zelenskyy-says-russia-fired-over-200-drones-at-ukraine-as-truce-expires",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-12T08:34:46Z",
+      "title": "The Proliferation of 'China Threat' Rhetoric and a $1.5 Trillion Pentagon Budget",
+      "url": "https://www.commondreams.org/opinion/china-us-tech-race",
+      "source": "Common Dreams",
+      "publishedAt": "2026-05-12T14:24:07Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Trump's chilling 'treason' note revealed as he hunts down Iran war leakers... and Israel bombshell sparks fury",
+      "url": "https://www.dailymail.com/news/article-15810937/trump-treason-note-iran-leak-hunt.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-12T13:44:07Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Iran's Revolutionary Guards hold military drills in Tehran as ceasefire teeters",
+      "url": "https://economictimes.indiatimes.com/news/defence/irans-revolutionary-guards-hold-military-drills-in-tehran-as-ceasefire-teeters/articleshow/131040925.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-12T13:32:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO allies' war game tests response to Russia and to US support",
+      "url": "https://abcnews.com/International/wireStory/nato-allies-war-game-tests-response-russia-us-132878320",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-12T13:31:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Are US and Iran sliding back into war? What we know so far",
+      "url": "https://www.rt.com/news/639893-us-iran-could-renew-war/",
+      "source": "RT",
+      "publishedAt": "2026-05-12T13:17:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A secret Israeli base in Iraq? What we know",
+      "url": "https://www.aljazeera.com/news/2026/5/12/a-secret-israeli-base-in-iraq-what-we-know",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-12T13:12:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Could Trump’s Iran Fiasco Be America’s Suez Crisis?",
+      "url": "https://www.globalresearch.ca/trump-iran-fiasco-america-suez-crisis/5926009",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-12T12:52:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "The EU-Ukraine Attempt to Launch a ‘Drone Alliance’: The EU to Support Ukraine’s Continuous Drone Warfare on Russia",
+      "url": "https://www.globalresearch.ca/eu-support-ukraine-drone-warfare-russia/5926000",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-12T12:47:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel steps up ‘brutal bombardment’ in southern Lebanon — RT correspondent (VIDEO)",
+      "url": "https://www.rt.com/news/639882-israel-lebanon-bombardment-rt/",
+      "source": "RT",
+      "publishedAt": "2026-05-12T12:41:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Malek Bennabi: An Algerian Genius Confronting the Barbarity of the Contemporary World. Part II",
+      "url": "https://www.globalresearch.ca/malek-bennabi-contemporary-world-part-ii/5926017",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-12T12:35:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pakistan scrambles to salvage US-Iran diplomacy as ceasefire faces collapse",
+      "url": "https://www.aljazeera.com/news/2026/5/12/pakistan-scrambles-to-salvage-us-iran-diplomacy-as-ceasefire-faces-collapse",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-12T12:17:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russophrenia Strikes Again: Baltic States “Want War with Russia”",
+      "url": "https://www.globalresearch.ca/russophrenia-strikes-again-baltic-states-want-war-with-russia/5926104",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-12T12:08:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Mediator Or Strategic Opportunist? Pakistan Faces Scrutiny Over Iran Role",
+      "url": "https://www.globalsecurity.org/wmd/library/news/pakistan/2026/pakistan-260512-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-12T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US envoy admits Israel secretly sent Iron Dome to UAE during war on Iran",
+      "url": "https://www.globalsecurity.org/wmd/library/news/israel/2026/05/israel-260512-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-12T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Accept Iran's rights or face repeated military defeats: Defense Ministry",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260512-presstv09.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-12T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "ICYMI: Ranking Member Shaheen Leads Congressional Push for Taiwan Support Ahead of Trump-Xi Summit",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260512-sfrc01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-12T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hezbollah leader says resistance drones are tightening noose on Israel",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260512-presstv05.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-12T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel Hit Over 1,100 Hezbollah Targets Since Ceasefire Began - IDF",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260512-sputnik01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-12T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran says it's ready to \"teach a lesson\" if U.S. launches new attacks",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-ceasefire-life-support-israel-hezbollah/",
+      "source": "CBS News",
+      "publishedAt": "2026-05-12T11:44:51Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Who sank Russian cargo ship Ursa Major, was NATO involved, and was it torpedoed? Reports explain mystery, ship's route, nuclear cargo claims and US aircraft presence",
+      "url": "https://economictimes.indiatimes.com/news/international/us/who-sank-russian-cargo-ship-ursa-major-was-nato-involved-and-was-it-torpedoed-reports-explain-mystery-ships-route-nuclear-cargo-claims-and-us-aircraft-presence/articleshow/131037442.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-12T11:22:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli strikes have killed 380 in Lebanon since truce",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/israeli-strikes-have-killed-380-in-lebanon-since-truce/articleshow/131035866.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-12T10:40:58Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Art of the Ceasefire",
+      "url": "https://www.newyorker.com/news/the-lede/the-art-of-the-ceasefire",
+      "source": "The New Yorker",
+      "publishedAt": "2026-05-12T10:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran escalates drone warfare, complicates peace talks with Israel",
+      "url": "https://cryptobriefing.com/iran-escalates-drone-warfare-complicates-peace-talks-with-israel/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-12T09:40:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Mystery over Russian ship that sank in the Mediterranean, reportedly carrying nuclear reactors to North Korea",
+      "url": "https://en.protothema.gr/2026/05/12/mystery-over-russian-ship-that-sank-in-the-mediterranean-reportedly-carrying-nuclear-reactors-to-north-korea/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-05-12T09:20:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hezbollah Launches 20 Attacks on Israeli Forces Across Southern Lebanon",
+      "url": "https://sputnikglobe.com/20260512/hezbollah-launches-20-attacks-on-israeli-forces-across-southern-lebanon-1124114430.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-05-12T08:55:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "North Korea Mandates Automatic Nuclear Strike on Kim Jong Un Assassination in Shocking Constitution Update",
@@ -19,28 +211,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Gulf States and Iran: The Implications of Hosting Military Bases Under Jus ad Bellum and Jus in Bello (Part I)",
-      "url": "http://opiniojuris.org/2026/05/12/gulf-states-and-iran-the-implications-of-hosting-military-bases-under-jus-ad-bellum-and-jus-in-bello-part-i/",
-      "source": "Opiniojuris.org",
-      "publishedAt": "2026-05-12T08:00:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israeli Air Force Attacks 38 Lebanese Settlements on Monday",
       "url": "https://sputnikglobe.com/20260512/israeli-air-force-attacks-38-lebanese-settlements-on-monday-1124113869.html",
       "source": "Sputnikglobe.com",
       "publishedAt": "2026-05-12T07:15:37Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Iran war: What’s happening on day 74 as Tehran says ready for ‘aggression’",
-      "url": "https://www.aljazeera.com/news/2026/5/12/iran-war-whats-happening-on-day-74-as-tehran-says-ready-for-aggression",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-12T06:56:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Kremlin says no 'specifics' on ending Ukraine war",
@@ -59,54 +235,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Lebanese Health Ministry Accuses Israel of Targeting Medics in Airstrikes",
-      "url": "https://www.naturalnews.com/2026-05-12-lebanese-health-ministry-accuses-israel-targeting-medics.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-12T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump warns Mideast truce on 'life support', Iran says ready for any aggression",
-      "url": "https://www.hurriyetdailynews.com/trump-warns-mideast-truce-on-life-support-iran-says-ready-for-any-aggression-222045",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-12T05:50:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli strikes kill six in south Lebanon: state media",
-      "url": "https://www.hurriyetdailynews.com/israeli-strikes-kill-six-in-south-lebanon-state-media-222044",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-12T05:45:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "European concerns grow over US commitments to provide arms forUkraine as demands on stocks rise",
-      "url": "https://www.independent.ie/world-news/europe/european-concerns-grow-over-us-commitments-to-provide-arms-forukraine-as-demands-on-stocks-rise/a943274454.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-05-12T04:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "European concerns grow over US commitments to provide arms for Ukraine as demands on stocks rise",
-      "url": "https://www.independent.ie/world-news/europe/european-concerns-grow-over-us-commitments-to-provide-arms-for-ukraine-as-demands-on-stocks-rise/a943274454.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-05-12T04:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon says Israeli strikes have killed 380 since truce",
-      "url": "https://www.rte.ie/news/world/2026/0512/1572892-middle-east-lebanon/",
-      "source": "RTE",
-      "publishedAt": "2026-05-12T04:25:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Could Trump’s Iran Fiasco be America’s Suez Crisis?",
       "url": "https://www.juancole.com/2026/05/trumps-fiasco-americas.html",
       "source": "Juancole.com",
@@ -123,60 +251,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Global Oil Market Crisis Could Last Until 2027 - Saudi Aramco CEO",
-      "url": "https://sputnikglobe.com/20260512/global-oil-market-crisis-could-last-until-2027---saudi-aramco-ceo-1124113160.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-05-12T03:38:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "@realDonaldTrump: Distorting History, Accuses Iran of “Attacking America”: “Playing Games… Killing Our People, Laughing at MAGA… “",
-      "url": "https://www.globalresearch.ca/trump-latest-truth-social-distortions-fact-iran/5925930",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-12T00:36:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Strategic Calculations Influencing Trump’s and Putin’s Upcoming Meetings With Xi",
-      "url": "https://www.globalresearch.ca/strategic-calculations-influencing-trump-putin-upcoming-meetings-xi/5925887",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-12T00:21:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Could Trump’s Iran Fiasco Be America’s Suez Crisis?",
       "url": "https://original.antiwar.com/mbenjamin/2026/05/11/could-trumps-iran-fiasco-be-americas-suez-crisis/",
       "source": "Antiwar.com",
       "publishedAt": "2026-05-12T00:00:58Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Ground zero: NATO’s drone war comes down to earth in Latvia",
-      "url": "https://www.cbc.ca/news/politics/ground-zero-natos-drone-war-comes-down-to-earth-in-latvia-9.7195669",
-      "source": "CBC News",
-      "publishedAt": "2026-05-11T22:10:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Denmark’s pro-Ukraine PM is on the way out – who will replace her?",
-      "url": "https://www.rt.com/news/639868-denmark-right-wing-government/",
-      "source": "RT",
-      "publishedAt": "2026-05-11T21:33:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Kyiv leaning far less on DC, another way Putin’s war backfired and other commentary",
-      "url": "https://nypost.com/2026/05/11/opinion/kyiv-leaning-far-less-on-dc-another-way-putins-war-backfired-and-other-commentary/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-11T21:01:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Netanyahu Says War on Iran “Not Over” as Long as Iran Has Uranium",
@@ -187,68 +267,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Israel targets 30 locations in Lebanon with strikes - NNA",
-      "url": "https://www.rte.ie/news/middle-east/2026/0511/1572868-lebanon-israel/",
-      "source": "RTE",
-      "publishedAt": "2026-05-11T20:25:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli Troops Jailed for Desecration of Virgin Mary Statue",
-      "url": "https://www.newser.com/story/388912/israeli-troops-jailed-for-desecration-of-virgin-mary-statue.html",
-      "source": "Newser",
-      "publishedAt": "2026-05-11T19:25:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli troops will spend weeks in military prison for desecration of Virgin Mary statue in Lebanon",
-      "url": "https://www.pbs.org/newshour/world/israeli-troops-will-spend-weeks-in-military-prison-for-desecration-of-virgin-mary-statue-in-lebanon",
-      "source": "PBS",
-      "publishedAt": "2026-05-11T19:03:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Kim Jong Un Assassination Fears Erupt — North Korea Issues New Law 'Demanding' Automatic Nuclear Attack If Dictator Is Killed",
       "url": "https://radaronline.com/p/kim-jong-un-assassination-north-korea-law-nuclear-attack/",
       "source": "Radaronline.com",
       "publishedAt": "2026-05-11T18:42:14Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump declares Iran ceasefire on 'life support'",
-      "url": "https://www.hurriyetdailynews.com/trump-declares-iran-ceasefire-on-life-support-222034",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-11T17:12:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Swollen-faced Vladimir Putin mocked over appearance: ‘In dire need of some Botox touch-ups’",
-      "url": "https://nypost.com/2026/05/11/world-news/swollen-faced-vladimir-putin-mocked-over-appearance/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-11T15:07:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Finland’s Stubb tells Europe to ‘calm down’ over US troop pullback",
-      "url": "https://www.politico.eu/article/finlands-alexander-stubb-tells-europe-to-calm-down-over-us-troop-pullback/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-05-11T14:54:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "French presidential hopeful pushes to end Russia sanctions",
-      "url": "https://www.rt.com/news/639853-france-philippot-end-russia-sanctions/",
-      "source": "RT",
-      "publishedAt": "2026-05-11T14:02:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Trump Has Gone From Unpredictable to Unreliable",

@@ -1,7 +1,143 @@
 {
-  "updated": "2026-05-13T19:52:59Z",
-  "count": 44,
+  "updated": "2026-05-14T03:21:17Z",
+  "count": 37,
   "articles": [
+    {
+      "title": "Hezbollah fires explosive drones at Israel after two medics reported killed in Lebanon",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-13/ty-article-live/hezbollah-fires-explosive-drones-at-israel-after-two-lebanon-medics-said-killed/0000019e-1f4e-d618-adde-1f7e32400005",
+      "source": "Haaretz",
+      "publishedAt": "2026-05-13T03:18:33Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran to Hold Talks With US If Washington Meets 5 Conditions - Reports",
+      "url": "https://sputnikglobe.com/20260513/iran-to-hold-talks-with-us-if-washington-meets-5-conditions---reports-1124118301.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-05-13T03:12:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Will Israel nuke Iran? Some background.",
+      "url": "https://www.kiwipolitico.com/2026/05/will-israel-nuke-iran-some-background/",
+      "source": "Kiwipolitico.com",
+      "publishedAt": "2026-05-13T03:02:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon at the Edge: War, Flight, and a Faltering Truce – Aid from NRW",
+      "url": "https://www.morgenpost.de/podcast/article411982368/lebanon-at-the-edge-war-flight-and-a-faltering-truce-aid-from-nrw.html",
+      "source": "Berliner Morgenpost",
+      "publishedAt": "2026-05-13T02:55:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Saudi Arabia launched covert attacks on Iran as regional war widened: Sources",
+      "url": "https://www.channelnewsasia.com/world/saudi-arabia-uae-covert-attacks-iran-war-6117286",
+      "source": "CNA",
+      "publishedAt": "2026-05-13T01:17:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Payback: Russia Uses Iran as a Proxy Against the United States",
+      "url": "https://original.antiwar.com/ted_galen_carpenter/2026/05/12/payback-russia-uses-iran-as-a-proxy-against-the-united-states/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-05-13T00:00:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Détente 2.0: Hoping For A Boring Summit In Beijing",
+      "url": "https://michaelmcfaul.substack.com/p/detente-20-hoping-for-a-boring-summit",
+      "source": "Substack.com",
+      "publishedAt": "2026-05-13T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The war on Iran may become a turning point in the post-Cold War order",
+      "url": "https://www.rt.com/news/639918-turning-point-in-post-cold-war-order/",
+      "source": "RT",
+      "publishedAt": "2026-05-12T22:35:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine says Russia launches 200-plus drones in overnight attacks, leaving 6 dead",
+      "url": "https://www.cbc.ca/news/world/russian-drone-attacks-ukraine-dnipropetrovsk-9.7197174",
+      "source": "CBC News",
+      "publishedAt": "2026-05-12T21:47:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hegseth dismisses ‘foolish’ US stockpile concerns as Iran conflict tests munitions",
+      "url": "https://www.foxnews.com/politics/hegseth-dismisses-foolish-us-stockpile-concerns-iran-conflict-tests-munitions",
+      "source": "Fox News",
+      "publishedAt": "2026-05-12T21:43:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Inside the Christian border town in Lebanon that says it survived by defying Hezbollah",
+      "url": "https://www.foxnews.com/world/inside-christian-border-town-lebanon-says-survived-defying-hezbollah",
+      "source": "Fox News",
+      "publishedAt": "2026-05-12T21:39:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah leader urges Lebanon to quit direct talks with Israel",
+      "url": "https://japantoday.com/category/world/hezbollah-leader-urges-lebanon-to-quit-direct-israel-talks",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-12T21:38:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Russian attacks in Dnipropetrovsk region kill six after ceasefire expires, officials say",
+      "url": "https://japantoday.com/category/world/russian-attacks-in-dnipropetrovsk-region-kill-six-after-ceasefire-expires-officials-say",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-12T21:38:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hegseth gets bipartisan grilling on rising costs of the Iran war and Trump's end game",
+      "url": "https://japantoday.com/category/world/hegseth-is-facing-a-new-round-of-questioning-from-congress-on-the-iran-war-and-more",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-12T21:37:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Saudi Arabia launched numerous covert attacks on Iran as war expands, sources say",
+      "url": "https://nypost.com/2026/05/12/world-news/saudi-arabia-launched-covert-attacks-on-iran-as-war-expands-sources-say/",
+      "source": "New York Post",
+      "publishedAt": "2026-05-12T21:30:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Battle for Beirut: Hezbollah Plots a Violent Takeover of the Lebanese Capital",
+      "url": "https://freerepublic.com/focus/f-news/4378919/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-05-12T21:02:14Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "REPORT: Cargo Ship That Sunk At Sea May Have Been Carrying Nuclear Sub Reactors",
+      "url": "https://dailycaller.com/2026/05/12/russian-ship-sank-nuclear-sub-reactors-north-korea/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-05-12T20:34:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Why is Iran increasingly targeting the UAE in its war messaging?",
       "url": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging",
@@ -43,36 +179,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump and Xi appear intent on keeping Iran war from overshadowing China summit",
-      "url": "https://www.pbs.org/newshour/nation/trump-and-xi-appear-intent-on-keeping-iran-war-from-overshadowing-china-summit",
-      "source": "PBS",
-      "publishedAt": "2026-05-12T18:43:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US cost of Iran war nearing $29 billion – Pentagon",
-      "url": "https://punchng.com/us-cost-of-iran-war-nearing-29-billion-pentagon/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-12T18:07:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Coffee Break: Armed Madhouse – Ageing Patriots",
       "url": "https://www.nakedcapitalism.com/2026/05/coffee-break-armed-madhouse-ageing-patriots.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-05-12T18:00:09Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Entrapment and Self-Perpetuating Conflict Escalation in the Iran War",
-      "url": "https://www.commondreams.org/opinion/trapped-in-iran-war",
-      "source": "Common Dreams",
-      "publishedAt": "2026-05-12T17:16:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Mystery of sunken Russia ‘ghost ship’ Ursa Major — allegedly carrying nuclear reactors — deepens following undersea explosions",
@@ -123,44 +235,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump Says No Need to Rush When It Comes to Iran",
-      "url": "https://sputnikglobe.com/20260512/trump-says-no-need-to-rush-when-it-comes-to-iran-1124116554.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-05-12T14:43:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Proliferation of 'China Threat' Rhetoric and a $1.5 Trillion Pentagon Budget",
       "url": "https://www.commondreams.org/opinion/china-us-tech-race",
       "source": "Common Dreams",
       "publishedAt": "2026-05-12T14:24:07Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Trump's chilling 'treason' note revealed as he hunts down Iran war leakers... and Israel bombshell sparks fury",
-      "url": "https://www.dailymail.com/news/article-15810937/trump-treason-note-iran-leak-hunt.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-12T13:44:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran's Revolutionary Guards hold military drills in Tehran as ceasefire teeters",
-      "url": "https://economictimes.indiatimes.com/news/defence/irans-revolutionary-guards-hold-military-drills-in-tehran-as-ceasefire-teeters/articleshow/131040925.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-12T13:32:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "NATO allies' war game tests response to Russia and to US support",
-      "url": "https://abcnews.com/International/wireStory/nato-allies-war-game-tests-response-russia-us-132878320",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-05-12T13:31:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Could Trump’s Iran Fiasco Be America’s Suez Crisis?",
@@ -171,82 +251,10 @@
       "_label": "Nuclear"
     },
     {
-      "title": "The EU-Ukraine Attempt to Launch a ‘Drone Alliance’: The EU to Support Ukraine’s Continuous Drone Warfare on Russia",
-      "url": "https://www.globalresearch.ca/eu-support-ukraine-drone-warfare-russia/5926000",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-12T12:47:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israel steps up ‘brutal bombardment’ in southern Lebanon — RT correspondent (VIDEO)",
       "url": "https://www.rt.com/news/639882-israel-lebanon-bombardment-rt/",
       "source": "RT",
       "publishedAt": "2026-05-12T12:41:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Russophrenia Strikes Again: Baltic States “Want War with Russia”",
-      "url": "https://www.globalresearch.ca/russophrenia-strikes-again-baltic-states-want-war-with-russia/5926104",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-12T12:08:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "ICYMI: Ranking Member Shaheen Leads Congressional Push for Taiwan Support Ahead of Trump-Xi Summit",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260512-sfrc01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-12T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hezbollah leader says resistance drones are tightening noose on Israel",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260512-presstv05.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-12T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel Hit Over 1,100 Hezbollah Targets Since Ceasefire Began - IDF",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260512-sputnik01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-12T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran says it's ready to \"teach a lesson\" if U.S. launches new attacks",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-ceasefire-life-support-israel-hezbollah/",
-      "source": "CBS News",
-      "publishedAt": "2026-05-12T11:44:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Who sank Russian cargo ship Ursa Major, was NATO involved, and was it torpedoed? Reports explain mystery, ship's route, nuclear cargo claims and US aircraft presence",
-      "url": "https://economictimes.indiatimes.com/news/international/us/who-sank-russian-cargo-ship-ursa-major-was-nato-involved-and-was-it-torpedoed-reports-explain-mystery-ships-route-nuclear-cargo-claims-and-us-aircraft-presence/articleshow/131037442.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-12T11:22:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israeli strikes have killed 380 in Lebanon since truce",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/israeli-strikes-have-killed-380-in-lebanon-since-truce/articleshow/131035866.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-12T10:40:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Art of the Ceasefire",
-      "url": "https://www.newyorker.com/news/the-lede/the-art-of-the-ceasefire",
-      "source": "The New Yorker",
-      "publishedAt": "2026-05-12T10:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -289,70 +297,6 @@
       "publishedAt": "2026-05-12T00:00:58Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Netanyahu Says War on Iran “Not Over” as Long as Iran Has Uranium",
-      "url": "https://truthout.org/articles/netanyahu-says-war-on-iran-not-over-as-long-as-iran-has-uranium/",
-      "source": "Truthout",
-      "publishedAt": "2026-05-11T20:42:08Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Kim Jong Un Assassination Fears Erupt — North Korea Issues New Law 'Demanding' Automatic Nuclear Attack If Dictator Is Killed",
-      "url": "https://radaronline.com/p/kim-jong-un-assassination-north-korea-law-nuclear-attack/",
-      "source": "Radaronline.com",
-      "publishedAt": "2026-05-11T18:42:14Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump Has Gone From Unpredictable to Unreliable",
-      "url": "https://www.theatlantic.com/national-security/2026/05/trump-has-gone-unpredictable-unreliable/687129/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-05-11T13:30:31Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Germany’s New Strategic Posture and the Specter of Continental Conflict With Russia",
-      "url": "https://www.globalresearch.ca/germany-new-strategic-posture/5925891",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-11T13:14:21Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Has Trump Made the Threat of a Nuclear Iran Even Worse?",
-      "url": "http://nymag.com/intelligencer/article/iran-war-nuclear-program-negotiations-has-trump-made-threat-worse.html",
-      "source": "New York Magazine",
-      "publishedAt": "2026-05-11T11:00:52Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Automatic nuclear strike if Kim Jong-un targeted — North Korea revises policy",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/automatic-nuclear-strike-if-kim-jong-un-targeted-north-korea-revises-policy/articleshow/131011168.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-11T10:35:36Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Nuclear strike will automatically trigger if Kim Jong Un is assassinated",
-      "url": "https://peoplesreview.com.np/2026/05/11/nuclear-strike-will-automatically-trigger-if-kim-jong-un-is-assassinated/",
-      "source": "Peoplesreview.com.np",
-      "publishedAt": "2026-05-11T09:20:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Board Of Trade, Ahoy!",
-      "url": "https://chinaarticles.substack.com/p/board-of-trade-ahoy",
-      "source": "Substack.com",
-      "publishedAt": "2026-05-11T00:00:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
     }
   ]
 }

@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-14T03:21:17Z",
-  "count": 37,
+  "updated": "2026-05-14T08:35:35Z",
+  "count": 39,
   "articles": [
+    {
+      "title": "Iran war to cast a shadow on BRICS foreign ministers meeting in Delhi",
+      "url": "https://www.thehindubusinessline.com/news/iran-war-to-cast-a-shadow-on-brics-foreign-ministers-meeting-in-delhi/article70973042.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-13T07:21:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump signals potential troop shift from Germany to Poland, escalating NATO tensions",
+      "url": "https://www.naturalnews.com/2026-05-13-trump-signals-potential-troop-shift-germany-to-poland.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-13T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kremlin rebuffs Trump visit as Russia demands U.S. force Ukraine to honor secret Alaska deal",
+      "url": "https://www.naturalnews.com/2026-05-13-russia-demands-u-s-force-ukraine-to-honor-secret-alaska-deal.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-13T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US intel reportedly says Iran's military is FAR from decimated as Israel begins to worry about Trump's deal-making",
+      "url": "https://www.dailymail.com/news/article-15812963/US-intel-reportedly-says-Irans-military-FAR-decimated-Israel-begins-worry-Trumps-deal-making.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-13T05:26:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US and China Start Trade Talks in Seoul Ahead of Trump-Xi Summit",
+      "url": "https://financialpost.com/pmn/business-pmn/us-and-china-start-trade-talks-in-seoul-ahead-of-trump-xi-summit",
+      "source": "Financial Post",
+      "publishedAt": "2026-05-13T04:29:25Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US intel shows majority of Iran's missile network intact, going against Trump's claims that it had been ‘decimated’",
+      "url": "https://www.thehindubusinessline.com/news/world/us-intel-shows-majority-of-irans-missile-network-intact-going-against-trumps-claims-that-it-had-been-decimated/article70972513.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-13T04:02:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran says Hormuz control to bring significant revenues",
+      "url": "https://www.rte.ie/news/world/2026/0513/1573069-middle-east-iran-us/",
+      "source": "RTE",
+      "publishedAt": "2026-05-13T03:34:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Hezbollah fires explosive drones at Israel after two medics reported killed in Lebanon",
       "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-13/ty-article-live/hezbollah-fires-explosive-drones-at-israel-after-two-lebanon-medics-said-killed/0000019e-1f4e-d618-adde-1f7e32400005",
@@ -87,8 +143,8 @@
       "url": "https://www.foxnews.com/world/inside-christian-border-town-lebanon-says-survived-defying-hezbollah",
       "source": "Fox News",
       "publishedAt": "2026-05-12T21:39:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Hezbollah leader urges Lebanon to quit direct talks with Israel",
@@ -115,14 +171,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Saudi Arabia launched numerous covert attacks on Iran as war expands, sources say",
-      "url": "https://nypost.com/2026/05/12/world-news/saudi-arabia-launched-covert-attacks-on-iran-as-war-expands-sources-say/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-12T21:30:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Battle for Beirut: Hezbollah Plots a Violent Takeover of the Lebanese Capital",
       "url": "https://freerepublic.com/focus/f-news/4378919/posts",
       "source": "Freerepublic.com",
@@ -139,22 +187,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Why is Iran increasingly targeting the UAE in its war messaging?",
-      "url": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-12T19:37:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Australia insists support for UAE does not involve action against Iran",
-      "url": "https://www.abc.net.au/news/2026-05-13/australia-uae-defence-commitments-no-action-against-iran/106672668",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-12T19:22:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Asia Isn’t as Peaceful as It Seems",
       "url": "http://foreignpolicy.com/2026/05/12/trump-xi-iran-asia-indo-pacific/",
       "source": "Foreign Policy",
@@ -167,8 +199,8 @@
       "url": "https://www.hurriyetdailynews.com/iran-says-us-must-accept-peace-plan-or-face-failure-222080",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-05-12T18:50:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Putin says Russia test launches \"most powerful missile in the world\"",
@@ -195,14 +227,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "‘A war of necessity’: Germany marches East again",
-      "url": "https://www.rt.com/news/639899-war-necessity-germany-militarization/",
-      "source": "RT",
-      "publishedAt": "2026-05-12T16:55:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israel Hit Over 1,100 Hezbollah Targets Since Ceasefire Began – IDF",
       "url": "https://sputnikglobe.com/20260512/israel-hit-over-1100-hezbollah-targets-since-ceasefire-began--idf-1124117350.html",
       "source": "Sputnikglobe.com",
@@ -225,14 +249,6 @@
       "publishedAt": "2026-05-12T16:12:43Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Nuclear Sabotage? Russian \"Shadow\" Ship Sunk by High-Tech Torpedo in Mediterranean",
-      "url": "https://freerepublic.com/focus/f-news/4378853/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-12T14:54:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "The Proliferation of 'China Threat' Rhetoric and a $1.5 Trillion Pentagon Budget",

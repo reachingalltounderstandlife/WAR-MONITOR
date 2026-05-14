@@ -1,7 +1,119 @@
 {
-  "updated": "2026-05-14T14:08:33Z",
-  "count": 40,
+  "updated": "2026-05-14T19:44:06Z",
+  "count": 44,
   "articles": [
+    {
+      "title": "Photos: The Global Cost of the Iran War",
+      "url": "https://www.theatlantic.com/photography/2026/05/photos-global-cost-iran-war/687146/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-05-13T19:15:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Syria signals interest in future security deal with Israel",
+      "url": "https://www.israelnationalnews.com/news/427033",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-13T18:56:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu reveals secret UAE visit",
+      "url": "https://www.rt.com/news/639954-netanyahu-secret-uae-visit/",
+      "source": "RT",
+      "publishedAt": "2026-05-13T18:55:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel hammers Lebanon, killing 12 in strikes on cars",
+      "url": "https://www.channelnewsasia.com/world/israel-lebanon-strikes-cars-killed-12-us-talks-6119511",
+      "source": "CNA",
+      "publishedAt": "2026-05-13T18:24:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel's Netanyahu held 'secret' meeting in UAE with President",
+      "url": "https://economictimes.indiatimes.com/news/international/uae/israels-netanyahu-held-secret-meeting-in-uae-with-president/articleshow/131073748.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-13T18:15:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel escalates attacks on Gaza since halting Iran strikes, killing 120 Palestinians",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/05/13/israel-escalates-attacks-on-gaza-since-halting-iran-strikes-killing-120-palestinians/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-13T18:08:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Report: Houthis, with Iranian Help, Building Sophisticated Weapons Arsenal",
+      "url": "https://www.breitbart.com/middle-east/2026/05/13/report-houthis-with-iranian-help-building-sophisticated-weapons-arsenal/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-05-13T16:23:28Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon says Israeli strikes on cars kill 12",
+      "url": "https://www.rte.ie/news/middle-east/2026/0513/1573202-israel-lebanon/",
+      "source": "RTE",
+      "publishedAt": "2026-05-13T16:11:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "At least 12 people killed in Israeli strikes on cars in Lebanon",
+      "url": "https://www.abc.net.au/news/2026-05-14/at-least-12-people-killed-in-israeli-strikes-on-cars-in-lebanon/106677162",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-13T15:39:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "News24 | Israel ramps up Gaza strikes 35% after Iran bombing halt, ‘ceasefire’ in name only",
+      "url": "https://www.news24.com/world/israel-ramps-up-gaza-strikes-35-after-iran-bombing-halt-ceasefire-in-name-only-20260513-0917",
+      "source": "News24",
+      "publishedAt": "2026-05-13T15:18:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "TANVI RATNA: Europe says Trump made America unreliable. The truth is tougher",
+      "url": "https://www.foxnews.com/opinion/tanvi-ratna-europe-says-trump-made-america-unreliable-truth-tougher",
+      "source": "Fox News",
+      "publishedAt": "2026-05-13T14:45:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO’s Attempted “Encirclement” of Russia: Strengthening Military Ties with Armenia and Azerbaiijan",
+      "url": "https://www.globalresearch.ca/russian-triad-threats-nato/5926236",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-13T14:33:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iranian Health Ministry Revises Death Toll From Conflict With US, Israel to 3,483",
+      "url": "https://sputnikglobe.com/20260513/iranian-health-ministry-revises-death-toll-from-conflict-with-us-israel-to-3483-1124121022.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-05-13T14:32:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Intelligence Believes Iran Restored 90% of Missile Sites Along Hormuz Strait - Reports",
+      "url": "https://sputnikglobe.com/20260513/us-intelligence-believes-iran-restored-90-of-missile-sites-along-hormuz-strait---reports-1124120874.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-05-13T14:31:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Trump says he does not expect China’s help to end Iran war",
       "url": "https://www.irishtimes.com/world/middle-east/2026/05/13/trump-says-he-does-not-expect-chinas-help-to-end-iran-war/",
@@ -51,14 +163,6 @@
       "_label": "Taiwan"
     },
     {
-      "title": "John Fetterman: 'I'm a Very Pro-Capitalist Democrat'",
-      "url": "https://reason.com/podcast/2026/05/13/john-fetterman-im-a-very-pro-capitalist-democrat/",
-      "source": "Reason",
-      "publishedAt": "2026-05-13T13:25:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel has stepped up attacks on Gaza since Iran truce, data shows",
       "url": "https://www.cbc.ca/news/world/israel-gaza-attacks-iran-9.7197766",
       "source": "CBC News",
@@ -73,38 +177,6 @@
       "publishedAt": "2026-05-13T12:50:56Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report",
-      "url": "https://www.aljazeera.com/news/2026/5/13/israeli-attacks-on-gaza-increased-by-35-since-iran-ceasefire-report",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-13T12:39:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Intelligence Believes Iran Restored 90% of Missile Sites Along Hormuz Strait - Reports",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260513-sputnik01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-13T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Mossad chief made secret visits to UAE to coordinate attacks on Iran during war: Report",
-      "url": "https://www.globalsecurity.org/wmd/library/news/israel/2026/05/israel-260513-presstv02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-13T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran parliamentary commission finalizes plan to secure Strait of Hormuz: Chairman",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260513-presstv06.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-13T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Gitanas Nausėda in Bucharest: We need to invest more in air defence capabilities",
@@ -127,16 +199,16 @@
       "url": "https://freerepublic.com/focus/f-news/4379006/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-05-13T11:21:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Global Muslim Unity and Division in the Shadow of the US-Iran Conflict {know the main enemy of the USA}",
       "url": "https://freerepublic.com/focus/f-chat/4379006/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-05-13T11:21:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Ceasefire in sight? What's next for Russia's war in Ukraine",
@@ -179,14 +251,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Hezbollah fires explosive drones at Israel after two medics reported killed in Lebanon",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-13/ty-article-live/hezbollah-fires-explosive-drones-at-israel-after-two-lebanon-medics-said-killed/0000019e-1f4e-d618-adde-1f7e32400005",
-      "source": "Haaretz",
-      "publishedAt": "2026-05-13T03:18:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Will Israel nuke Iran? Some background.",
       "url": "https://www.kiwipolitico.com/2026/05/will-israel-nuke-iran-some-background/",
       "source": "Kiwipolitico.com",
@@ -195,44 +259,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Lebanon at the Edge: War, Flight, and a Faltering Truce – Aid from NRW",
-      "url": "https://www.morgenpost.de/podcast/article411982368/lebanon-at-the-edge-war-flight-and-a-faltering-truce-aid-from-nrw.html",
-      "source": "Berliner Morgenpost",
-      "publishedAt": "2026-05-13T02:55:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Payback: Russia Uses Iran as a Proxy Against the United States",
       "url": "https://original.antiwar.com/ted_galen_carpenter/2026/05/12/payback-russia-uses-iran-as-a-proxy-against-the-united-states/",
       "source": "Antiwar.com",
       "publishedAt": "2026-05-13T00:00:05Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Détente 2.0: Hoping For A Boring Summit In Beijing",
-      "url": "https://michaelmcfaul.substack.com/p/detente-20-hoping-for-a-boring-summit",
-      "source": "Substack.com",
-      "publishedAt": "2026-05-13T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine says Russia launches 200-plus drones in overnight attacks, leaving 6 dead",
-      "url": "https://www.cbc.ca/news/world/russian-drone-attacks-ukraine-dnipropetrovsk-9.7197174",
-      "source": "CBC News",
-      "publishedAt": "2026-05-12T21:47:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Inside the Christian border town in Lebanon that says it survived by defying Hezbollah",
-      "url": "https://www.foxnews.com/world/inside-christian-border-town-lebanon-says-survived-defying-hezbollah",
-      "source": "Fox News",
-      "publishedAt": "2026-05-12T21:39:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "REPORT: Cargo Ship That Sunk At Sea May Have Been Carrying Nuclear Sub Reactors",

@@ -1,7 +1,135 @@
 {
-  "updated": "2026-05-15T03:24:08Z",
-  "count": 36,
+  "updated": "2026-05-15T08:47:05Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Ship is seized off UAE by 'unauthorised personnel' and taken to Iran",
+      "url": "https://www.dailymail.com/news/article-15817255/Ship-seized-UAE-unauthorised-personnel-taken-Iran.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-14T08:46:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes Hezbollah in southern Lebanon amid ongoing conflict",
+      "url": "https://cryptobriefing.com/israel-strikes-hezbollah-in-southern-lebanon-amid-ongoing-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-14T08:38:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran war: Trump discusses conflict with XI Jinping as peace talks stall",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/05/14/iran-war-trump-discusses-conflict-with-xi-jinping-as-peace-talks-stall/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-14T07:25:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "India Faces Challenge of Bridging BRICS Rift Over Iran War",
+      "url": "https://financialpost.com/pmn/business-pmn/india-faces-challenge-of-bridging-brics-rift-over-iran-war",
+      "source": "Financial Post",
+      "publishedAt": "2026-05-14T07:22:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "News24 | Lebanon, Israel meet in the US for new ceasefire talks as expiry deadline nears",
+      "url": "https://www.news24.com/world/lebanon-israel-meet-in-the-us-for-new-ceasefire-talks-as-expiry-deadline-nears-20260514-0272",
+      "source": "News24",
+      "publishedAt": "2026-05-14T07:10:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-14T07:00:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon and Israel to hold new talks in US later as ceasefire nears end",
+      "url": "https://www.thejournal.ie/lebanon-and-israel-to-hold-new-talks-in-us-as-ceasefire-nears-end-7039101-May2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-05-14T06:36:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon, Israel to hold new talks in US as ceasefire nears end",
+      "url": "https://www.hurriyetdailynews.com/lebanon-israel-to-hold-new-talks-in-us-as-ceasefire-nears-end-222121",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-14T06:02:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UAE Joined U.S. and Israel in Carrying Out Military Strikes on Iran, Report Says",
+      "url": "https://www.naturalnews.com/2026-05-14-uae-joined-us-israel-strikes-iran-report.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-14T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US gives China a choice: arm Iran and prolong energy crisis, or work with the West to end the war",
+      "url": "https://www.naturalnews.com/2026-05-14-us-gives-china-a-choice-arm-iran-or-work-with-the-west-to-end-the-war.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-14T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel steps up attacks on Gaza despite Iran war ceasefire – and why Xi Jinping is likely to rebuff Trump’s pleas for help",
+      "url": "https://www.independent.ie/world-news/middle-east/israel-steps-up-attacks-on-gaza-despite-iran-war-ceasefire-and-why-xi-jinping-is-likely-to-rebuff-trumps-pleas-for-help/a1549121902.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-14T05:15:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah claims 17 operations against Israeli forces in southern Lebanon: Iranian media",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/hezbollah-claims-17-operations-against-israeli-forces-in-southern-lebanon-iranian-media/articleshow/131081739.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-14T04:59:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel steps up attacks on Gaza despite ceasefire in Iran war",
+      "url": "https://www.independent.ie/world-news/middle-east/israel-steps-up-attacks-on-gaza-despite-ceasefire-in-iran-war/a1549121902.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-14T04:30:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon, Israel to hold new talks in US as truce to end",
+      "url": "https://www.rte.ie/news/middle-east/2026/0514/1573261-lebanon-israel-hezbollah/",
+      "source": "RTE",
+      "publishedAt": "2026-05-14T04:26:48Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hezbollah escalates conflict with three attacks on Israeli forces",
+      "url": "https://cryptobriefing.com/hezbollah-escalates-conflict-with-three-attacks-on-israeli-forces/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-14T04:24:33Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Russia Is Struggling Badly",
+      "url": "https://www.americanthinker.com/articles/2026/05/russia_is_struggling_badly.html",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-05-14T04:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "'Rare, meaningful': North Korean football team ventures into South",
       "url": "https://sports.yahoo.com/articles/rare-meaningful-north-korean-football-024835390.html",
@@ -11,132 +139,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Lessons from the war: A call for strategic reckoning in West Asia",
-      "url": "https://peoplesreview.com.np/2026/05/14/lessons-from-the-war-a-call-for-strategic-reckoning-in-west-asia/",
-      "source": "Peoplesreview.com.np",
-      "publishedAt": "2026-05-14T02:24:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Xi Jinping Wants Taiwan For Free Trump Must Hold The Line",
       "url": "http://unherd.com/2026/05/xi-jinping-wants-taiwain-for-free/?edition=us",
       "source": "Unherd.com",
       "publishedAt": "2026-05-14T00:00:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Live: Cost of war on agenda as Trump meets Xi, UAE denies Netanyahu's secret visit",
-      "url": "https://www.abc.net.au/news/2026-05-14/iran-live-updates-may-14-trump-netanyahu-china-xi-jinping-visit/106674744",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-13T22:22:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war, shifting alliances loom over Trump's China visit",
-      "url": "https://japantoday.com/category/world/iran-war-looms-over-trump%27s-china-visit-shifts-alliances1",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-13T21:47:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel’s “Brutal Bombardment” Of Lebanon Intensifies",
-      "url": "https://www.shtfplan.com/war/israels-brutal-bombardment-of-lebanon-intensifies",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-05-13T20:00:59Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran War Tanks Americans’ View Of Israel As An Ally",
-      "url": "https://dailycaller.com/2026/05/13/iran-war-israel-americans-ally/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-05-13T19:54:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Photos: The Global Cost of the Iran War",
-      "url": "https://www.theatlantic.com/photography/2026/05/photos-global-cost-iran-war/687146/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-05-13T19:15:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Syria signals interest in future security deal with Israel",
-      "url": "https://www.israelnationalnews.com/news/427033",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-13T18:56:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu reveals secret UAE visit",
-      "url": "https://www.rt.com/news/639954-netanyahu-secret-uae-visit/",
-      "source": "RT",
-      "publishedAt": "2026-05-13T18:55:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel hammers Lebanon, killing 12 in strikes on cars",
-      "url": "https://www.channelnewsasia.com/world/israel-lebanon-strikes-cars-killed-12-us-talks-6119511",
-      "source": "CNA",
-      "publishedAt": "2026-05-13T18:24:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel's Netanyahu held 'secret' meeting in UAE with President",
-      "url": "https://economictimes.indiatimes.com/news/international/uae/israels-netanyahu-held-secret-meeting-in-uae-with-president/articleshow/131073748.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-13T18:15:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel escalates attacks on Gaza since halting Iran strikes, killing 120 Palestinians",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/05/13/israel-escalates-attacks-on-gaza-since-halting-iran-strikes-killing-120-palestinians/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-13T18:08:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Report: Houthis, with Iranian Help, Building Sophisticated Weapons Arsenal",
-      "url": "https://www.breitbart.com/middle-east/2026/05/13/report-houthis-with-iranian-help-building-sophisticated-weapons-arsenal/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-05-13T16:23:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon says Israeli strikes on cars kill 12",
-      "url": "https://www.rte.ie/news/middle-east/2026/0513/1573202-israel-lebanon/",
-      "source": "RTE",
-      "publishedAt": "2026-05-13T16:11:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "At least 12 people killed in Israeli strikes on cars in Lebanon",
-      "url": "https://www.abc.net.au/news/2026-05-14/at-least-12-people-killed-in-israeli-strikes-on-cars-in-lebanon/106677162",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-13T15:39:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "News24 | Israel ramps up Gaza strikes 35% after Iran bombing halt, ‘ceasefire’ in name only",
-      "url": "https://www.news24.com/world/israel-ramps-up-gaza-strikes-35-after-iran-bombing-halt-ceasefire-in-name-only-20260513-0917",
-      "source": "News24",
-      "publishedAt": "2026-05-13T15:18:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "TANVI RATNA: Europe says Trump made America unreliable. The truth is tougher",
@@ -153,14 +161,6 @@
       "publishedAt": "2026-05-13T14:33:10Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iranian Health Ministry Revises Death Toll From Conflict With US, Israel to 3,483",
-      "url": "https://sputnikglobe.com/20260513/iranian-health-ministry-revises-death-toll-from-conflict-with-us-israel-to-3483-1124121022.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-05-13T14:32:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "The Russian Triad Is Now on the Same Page Regarding Southern-Emanating Threats from NATO",
@@ -187,14 +187,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Watch: IDF strikes loaded and ready-to-fire Hezbollah missile launcher",
-      "url": "https://www.israelnationalnews.com/news/427018",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-13T13:33:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "China’s Mahan: The Man Who Created China’s Modern Navy",
       "url": "https://thediplomat.com/2026/05/chinas-mahan-the-man-who-created-chinas-modern-navy/",
       "source": "The Diplomat",
@@ -203,36 +195,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Israel has stepped up attacks on Gaza since Iran truce, data shows",
-      "url": "https://www.cbc.ca/news/world/israel-gaza-attacks-iran-9.7197766",
-      "source": "CBC News",
-      "publishedAt": "2026-05-13T13:18:47Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump says no need for China's help on Iran as shippers seek passage through Hormuz",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-says-no-need-for-chinas-help-on-iran-as-shippers-seek-passage-through-hormuz/articleshow/131066397.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-13T12:50:56Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Gitanas Nausėda in Bucharest: We need to invest more in air defence capabilities",
       "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260513-lithuania-pres01.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-05-13T12:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Lebanon: UN peacekeeping force warns drone incidents near its positions are putting personnel at risk",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260513-unnews01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-13T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Global Muslim Unity and Division in the Shadow of the US-Iran Conflict {know the main enemy of the USA}",
@@ -255,22 +223,6 @@
       "url": "https://www.dw.com/en/ceasefire-in-sight-whats-next-for-russias-war-in-ukraine/a-77138367",
       "source": "DW (English)",
       "publishedAt": "2026-05-13T10:01:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump signals potential troop shift from Germany to Poland, escalating NATO tensions",
-      "url": "https://www.naturalnews.com/2026-05-13-trump-signals-potential-troop-shift-germany-to-poland.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-13T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Kremlin rebuffs Trump visit as Russia demands U.S. force Ukraine to honor secret Alaska deal",
-      "url": "https://www.naturalnews.com/2026-05-13-russia-demands-u-s-force-ukraine-to-honor-secret-alaska-deal.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-13T06:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-14T19:44:06Z",
-  "count": 44,
+  "updated": "2026-05-15T03:24:08Z",
+  "count": 36,
   "articles": [
+    {
+      "title": "'Rare, meaningful': North Korean football team ventures into South",
+      "url": "https://sports.yahoo.com/articles/rare-meaningful-north-korean-football-024835390.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-14T02:48:35Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Lessons from the war: A call for strategic reckoning in West Asia",
+      "url": "https://peoplesreview.com.np/2026/05/14/lessons-from-the-war-a-call-for-strategic-reckoning-in-west-asia/",
+      "source": "Peoplesreview.com.np",
+      "publishedAt": "2026-05-14T02:24:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Xi Jinping Wants Taiwan For Free Trump Must Hold The Line",
+      "url": "http://unherd.com/2026/05/xi-jinping-wants-taiwain-for-free/?edition=us",
+      "source": "Unherd.com",
+      "publishedAt": "2026-05-14T00:00:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Live: Cost of war on agenda as Trump meets Xi, UAE denies Netanyahu's secret visit",
+      "url": "https://www.abc.net.au/news/2026-05-14/iran-live-updates-may-14-trump-netanyahu-china-xi-jinping-visit/106674744",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-13T22:22:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war, shifting alliances loom over Trump's China visit",
+      "url": "https://japantoday.com/category/world/iran-war-looms-over-trump%27s-china-visit-shifts-alliances1",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-13T21:47:40Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel’s “Brutal Bombardment” Of Lebanon Intensifies",
+      "url": "https://www.shtfplan.com/war/israels-brutal-bombardment-of-lebanon-intensifies",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-05-13T20:00:59Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran War Tanks Americans’ View Of Israel As An Ally",
+      "url": "https://dailycaller.com/2026/05/13/iran-war-israel-americans-ally/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-05-13T19:54:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Photos: The Global Cost of the Iran War",
       "url": "https://www.theatlantic.com/photography/2026/05/photos-global-cost-iran-war/687146/",
@@ -107,22 +163,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "US Intelligence Believes Iran Restored 90% of Missile Sites Along Hormuz Strait - Reports",
-      "url": "https://sputnikglobe.com/20260513/us-intelligence-believes-iran-restored-90-of-missile-sites-along-hormuz-strait---reports-1124120874.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-05-13T14:31:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says he does not expect China’s help to end Iran war",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/05/13/trump-says-he-does-not-expect-chinas-help-to-end-iran-war/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-13T14:06:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Russian Triad Is Now on the Same Page Regarding Southern-Emanating Threats from NATO",
       "url": "https://www.nakedcapitalism.com/2026/05/the-russian-triad-is-now-on-the-same-page-regarding-southern-emanating-threats-from-nato.html",
       "source": "Nakedcapitalism.com",
@@ -219,14 +259,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "At least eight killed in Israeli drone strikes on highway south of Beirut",
-      "url": "https://www.aljazeera.com/news/2026/5/13/at-least-eight-killed-in-israeli-drone-strikes-on-highway-south-of-beirut",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-13T09:53:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Trump signals potential troop shift from Germany to Poland, escalating NATO tensions",
       "url": "https://www.naturalnews.com/2026-05-13-trump-signals-potential-troop-shift-germany-to-poland.html",
       "source": "Naturalnews.com",
@@ -255,102 +287,6 @@
       "url": "https://www.kiwipolitico.com/2026/05/will-israel-nuke-iran-some-background/",
       "source": "Kiwipolitico.com",
       "publishedAt": "2026-05-13T03:02:02Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Payback: Russia Uses Iran as a Proxy Against the United States",
-      "url": "https://original.antiwar.com/ted_galen_carpenter/2026/05/12/payback-russia-uses-iran-as-a-proxy-against-the-united-states/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-05-13T00:00:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "REPORT: Cargo Ship That Sunk At Sea May Have Been Carrying Nuclear Sub Reactors",
-      "url": "https://dailycaller.com/2026/05/12/russian-ship-sank-nuclear-sub-reactors-north-korea/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-05-12T20:34:20Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Asia Isn’t as Peaceful as It Seems",
-      "url": "http://foreignpolicy.com/2026/05/12/trump-xi-iran-asia-indo-pacific/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-12T19:07:57Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Mystery of sunken Russia ‘ghost ship’ Ursa Major — allegedly carrying nuclear reactors — deepens following undersea explosions",
-      "url": "https://nypost.com/2026/05/12/world-news/mystery-of-sunken-russia-ghost-ship-ursa-major-deepens/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-12T17:14:39Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "We Can’t Curb Nuclear Proliferation If We Don’t Acknowledge Israel’s Nukes",
-      "url": "https://truthout.org/articles/we-cant-curb-nuclear-proliferation-if-we-dont-acknowledge-israels-nukes/",
-      "source": "Truthout",
-      "publishedAt": "2026-05-12T16:19:22Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The Proliferation of 'China Threat' Rhetoric and a $1.5 Trillion Pentagon Budget",
-      "url": "https://www.commondreams.org/opinion/china-us-tech-race",
-      "source": "Common Dreams",
-      "publishedAt": "2026-05-12T14:24:07Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Could Trump’s Iran Fiasco Be America’s Suez Crisis?",
-      "url": "https://www.globalresearch.ca/trump-iran-fiasco-america-suez-crisis/5926009",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-12T12:52:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Mystery over Russian ship that sank in the Mediterranean, reportedly carrying nuclear reactors to North Korea",
-      "url": "https://en.protothema.gr/2026/05/12/mystery-over-russian-ship-that-sank-in-the-mediterranean-reportedly-carrying-nuclear-reactors-to-north-korea/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-05-12T09:20:58Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea Mandates Automatic Nuclear Strike on Kim Jong Un Assassination in Shocking Constitution Update",
-      "url": "https://www.ibtimes.com.au/north-korea-mandates-automatic-nuclear-strike-kim-jong-un-assassination-shocking-constitution-1868635",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-05-12T08:07:34Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Could Trump’s Iran Fiasco be America’s Suez Crisis?",
-      "url": "https://www.juancole.com/2026/05/trumps-fiasco-americas.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-05-12T04:06:04Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "A Russian ship sank in mysterious circumstances. It may have been carrying submarine nuclear reactors to North Korea | CNN",
-      "url": "https://www.cnn.com/2026/05/12/world/a-russian-ship-sank-in-mysterious-circumstances-it-may-have-been-carrying-nuclear-reactors-to-north-korea",
-      "source": "CNN",
-      "publishedAt": "2026-05-12T04:01:51Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Could Trump’s Iran Fiasco Be America’s Suez Crisis?",
-      "url": "https://original.antiwar.com/mbenjamin/2026/05/11/could-trumps-iran-fiasco-be-americas-suez-crisis/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-05-12T00:00:58Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
     }

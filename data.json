@@ -1,7 +1,103 @@
 {
-  "updated": "2026-05-15T14:04:39Z",
-  "count": 29,
+  "updated": "2026-05-15T19:27:32Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Israel’s Long War on Lebanon : A Joint History of the Zionist and Lebanese Entities",
+      "url": "https://crimethinc.com/2026/05/14/israels-long-war-on-lebanon-a-joint-history-of-the-zionist-and-lebanese-entities",
+      "source": "Crimethinc.com",
+      "publishedAt": "2026-05-14T18:49:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF strikes over 65 Hezbollah sites in southern Lebanon",
+      "url": "https://www.israelnationalnews.com/flashes/685506",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-14T18:03:50Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "UNICEF Decries 'Intolerable' Israeli Killing of Lebanese, Palestinian Children",
+      "url": "https://www.commondreams.org/news/unicef-lebanon-west-bank",
+      "source": "Common Dreams",
+      "publishedAt": "2026-05-14T17:46:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran urges BRICS nations to condemn US-Israeli war aggression",
+      "url": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-14T17:29:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pope Leo slams Europe’s military buildup as ‘betrayal’ of diplomacy",
+      "url": "https://www.rt.com/news/639987-pope-leo-eu-military-spending/",
+      "source": "RT",
+      "publishedAt": "2026-05-14T17:26:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "CENTCOM Chief Says Hamas, Hezbollah and Houthis Cut Off From Iran’s Weapons Supply",
+      "url": "https://freerepublic.com/focus/f-bloggers/4379227/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-05-14T17:01:02Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel Signs Deal To Develop External Fuel Tanks For F-35I ‘Adir’",
+      "url": "https://theaviationist.com/2026/05/14/israel-signs-deal-for-f-35i-fuel-tanks/",
+      "source": "Theaviationist.com",
+      "publishedAt": "2026-05-14T16:39:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Can the NPT Survive Amid Global Disorder?",
+      "url": "https://thediplomat.com/2026/05/can-the-npt-survive-amid-global-disorder/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-05-14T16:04:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Tells Hannity China’s Xi Would ‘Love to Help’ US Secure Iran Deal",
+      "url": "https://www.mediaite.com/media/tv/trump-tells-hannity-chinas-xi-would-love-to-help-us-secure-iran-deal/",
+      "source": "Mediaite",
+      "publishedAt": "2026-05-14T15:43:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why Putin will have been watching the Trump-Xi summit nervously",
+      "url": "https://theconversation.com/why-putin-will-have-been-watching-the-trump-xi-summit-nervously-282610",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-05-14T15:24:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump-Xi Summit Leaves South Korea Navigating Familiar Pressures",
+      "url": "https://thediplomat.com/2026/05/trump-xi-summit-leaves-south-korea-navigating-familiar-pressures/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-05-14T14:20:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "What Trump’s “Whenever Wars” Reveal About US Empire",
+      "url": "https://truthout.org/audio/what-trumps-whenever-wars-reveal-about-us-empire/",
+      "source": "Truthout",
+      "publishedAt": "2026-05-14T14:07:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "What is on the table during Lebanon-Israel direct negotiations?",
       "url": "https://www.aljazeera.com/news/2026/5/14/what-is-on-the-table-during-lebanon-israel-direct-negotiations",
@@ -83,60 +179,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Israel strikes Hezbollah in southern Lebanon amid ongoing conflict",
-      "url": "https://cryptobriefing.com/israel-strikes-hezbollah-in-southern-lebanon-amid-ongoing-conflict/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-14T08:38:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Iran war: Trump discusses conflict with XI Jinping as peace talks stall",
       "url": "https://www.irishtimes.com/world/middle-east/2026/05/14/iran-war-trump-discusses-conflict-with-xi-jinping-as-peace-talks-stall/",
       "source": "The Irish Times",
       "publishedAt": "2026-05-14T07:25:56Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "India Faces Challenge of Bridging BRICS Rift Over Iran War",
-      "url": "https://financialpost.com/pmn/business-pmn/india-faces-challenge-of-bridging-brics-rift-over-iran-war",
-      "source": "Financial Post",
-      "publishedAt": "2026-05-14T07:22:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "News24 | Lebanon, Israel meet in the US for new ceasefire talks as expiry deadline nears",
-      "url": "https://www.news24.com/world/lebanon-israel-meet-in-the-us-for-new-ceasefire-talks-as-expiry-deadline-nears-20260514-0272",
-      "source": "News24",
-      "publishedAt": "2026-05-14T07:10:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-14T07:00:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon and Israel to hold new talks in US later as ceasefire nears end",
-      "url": "https://www.thejournal.ie/lebanon-and-israel-to-hold-new-talks-in-us-as-ceasefire-nears-end-7039101-May2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-05-14T06:36:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon, Israel to hold new talks in US as ceasefire nears end",
-      "url": "https://www.hurriyetdailynews.com/lebanon-israel-to-hold-new-talks-in-us-as-ceasefire-nears-end-222121",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-14T06:02:37Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Russia Is Struggling Badly",
@@ -167,30 +215,6 @@
       "url": "https://www.foxnews.com/opinion/tanvi-ratna-europe-says-trump-made-america-unreliable-truth-tougher",
       "source": "Fox News",
       "publishedAt": "2026-05-13T14:45:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO’s Attempted “Encirclement” of Russia: Strengthening Military Ties with Armenia and Azerbaiijan",
-      "url": "https://www.globalresearch.ca/russian-triad-threats-nato/5926236",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-13T14:33:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Russian Triad Is Now on the Same Page Regarding Southern-Emanating Threats from NATO",
-      "url": "https://www.nakedcapitalism.com/2026/05/the-russian-triad-is-now-on-the-same-page-regarding-southern-emanating-threats-from-nato.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-13T13:59:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia-Ukraine Crisis, and Russia’s Economic Collaboration with Foreign Partners",
-      "url": "https://www.globalresearch.ca/russia-economic-collaboration-foreign-partners/5926124",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-13T13:39:29Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

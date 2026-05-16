@@ -1,7 +1,95 @@
 {
-  "updated": "2026-05-16T02:48:27Z",
+  "updated": "2026-05-16T08:02:47Z",
   "count": 24,
   "articles": [
+    {
+      "title": "IDF destroys Hezbollah launcher used to fire at Kiryat Shmona",
+      "url": "https://www.israelnationalnews.com/news/427121",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-15T07:03:55Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump says he and China's Xi agree Iran cannot have nuclear weapons",
+      "url": "https://economictimes.indiatimes.com/news/defence/trump-says-he-and-chinas-xi-agree-iran-cannot-have-nuclear-weapons/articleshow/131110398.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-15T06:44:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "War worsens Lebanon's economic crisis with job losses, price gouging and slow business",
+      "url": "https://abcnews.com/Business/wireStory/war-worsens-lebanons-economic-crisis-job-losses-price-132990999",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-15T06:22:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Saudi Arabia Proposes Non-Aggression Pact With Iran, Regional States Based on Cold War Model",
+      "url": "https://www.naturalnews.com/2026-05-15-saudi-arabia-proposes-non-aggression-pact-iran.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-15T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Officials Confirm Saudi Arabia Launched Unpublicized Strikes on Iran",
+      "url": "https://www.naturalnews.com/2026-05-15-officials-saudi-arabia-launched-unpublicized-strikes-on-iran.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-15T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Confirmed: Israel Deployed Iron Dome to UAE During Iran War, Deepening Abraham Accords Defense Nexus",
+      "url": "https://www.naturalnews.com/2026-05-15-confirmed-israel-deployed-iron-dome-to-uae.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-15T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO scrambles fighter jets as Russia launches massive drone barrage toward Polish border, killing dozens in Ukraine",
+      "url": "https://www.naturalnews.com/2026-05-15-nato-scrambles-fighter-jets-russia-launches-drones.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-15T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US brokers between Israel, Lebanon, says progress with China on Mideast conflict",
+      "url": "https://www.hurriyetdailynews.com/us-brokers-between-israel-lebanon-says-progress-with-china-on-mideast-conflict-222163",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-15T05:37:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes Lebanon, ceasefire extension prospects dim",
+      "url": "https://cryptobriefing.com/israel-strikes-lebanon-ceasefire-extension-prospects-dim/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-15T05:16:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli soldier killed by Hezbollah mortar fire near Litani River in Lebanon",
+      "url": "https://cryptobriefing.com/israeli-soldier-killed-by-hezbollah-mortar-fire-near-litani-river-in-lebanon/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-15T04:13:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Beyond Ukraine, Russia is a grave threat to the West as a whole",
+      "url": "https://www.americanthinker.com/blog/2026/05/beyond_ukraine_russia_is_a_grave_threat_to_the_west_as_a_whole.html",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-05-15T04:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "U.S. says Israel and Lebanon held full day of productive and positive talks, will reconvene on Friday",
       "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-15/ty-article-live/u-s-says-israel-and-lebanon-held-full-day-of-productive-and-positive-talks/0000019e-295b-d6dd-adfe-ebff50420000",
@@ -27,74 +115,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "New round of Lebanon-Israel talks kicks off as fighting between Israel and Hezbollah continues",
-      "url": "https://japantoday.com/category/world/israeli-officials-say-hezbollah-drone-wounds-3-civilians",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-14T21:41:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon and Israel kick off new negotiations amid fighting with Hezbollah",
-      "url": "https://www.pbs.org/newshour/world/lebanon-and-israel-kick-off-new-negotiations-amid-fighting-with-hezbollah",
-      "source": "PBS",
-      "publishedAt": "2026-05-14T21:17:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Day 1 of Beijing Summit Produces No Big Wins for Trump",
-      "url": "http://foreignpolicy.com/2026/05/14/trump-xi-jinping-china-summit-taiwan-iran-trade-beef/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-14T20:33:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
       "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress",
       "source": "Al Jazeera English",
       "publishedAt": "2026-05-14T20:25:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ship reported seized off UAE as Strait traffic increases",
-      "url": "https://www.rte.ie/news/world/2026/0514/1573411-iran-wrap/",
-      "source": "RTE",
-      "publishedAt": "2026-05-14T19:47:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel’s Lebanon Strategy Is Self-Defeating",
-      "url": "http://foreignpolicy.com/2026/05/14/israel-hezbollah-trump-iran-lebanon/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-14T19:43:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli attacks on medics in southern Lebanon part of 'alarming pattern,' says MSF",
-      "url": "https://www.cbc.ca/news/world/israel-attacks-paramedics-killed-south-lebanon-9.7199598",
-      "source": "CBC News",
-      "publishedAt": "2026-05-14T19:39:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel’s Long War on Lebanon : A Joint History of the Zionist and Lebanese Entities",
-      "url": "https://crimethinc.com/2026/05/14/israels-long-war-on-lebanon-a-joint-history-of-the-zionist-and-lebanese-entities",
-      "source": "Crimethinc.com",
-      "publishedAt": "2026-05-14T18:49:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran urges BRICS nations to condemn US-Israeli war aggression",
-      "url": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-14T17:29:53Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -115,14 +139,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump Tells Hannity China’s Xi Would ‘Love to Help’ US Secure Iran Deal",
-      "url": "https://www.mediaite.com/media/tv/trump-tells-hannity-chinas-xi-would-love-to-help-us-secure-iran-deal/",
-      "source": "Mediaite",
-      "publishedAt": "2026-05-14T15:43:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Why Putin will have been watching the Trump-Xi summit nervously",
       "url": "https://theconversation.com/why-putin-will-have-been-watching-the-trump-xi-summit-nervously-282610",
       "source": "The Conversation Africa",
@@ -139,14 +155,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "What Trump’s “Whenever Wars” Reveal About US Empire",
-      "url": "https://truthout.org/audio/what-trumps-whenever-wars-reveal-about-us-empire/",
-      "source": "Truthout",
-      "publishedAt": "2026-05-14T14:07:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "EU Faces Doubts Over Ability to “Arm Ukraine” as Economic Woes Deepen",
       "url": "https://www.globalresearch.ca/eu-faces-doubts-arm-ukraine/5926239",
       "source": "Globalresearch.ca",
@@ -161,14 +169,6 @@
       "publishedAt": "2026-05-14T12:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "US intel fears Iran war handed China strategic advantage – WaPo",
-      "url": "https://www.rt.com/news/639982-us-intel-fears-iran-war-china-edge/",
-      "source": "RT",
-      "publishedAt": "2026-05-14T11:52:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Russia Is Struggling Badly",

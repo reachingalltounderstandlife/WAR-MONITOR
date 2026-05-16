@@ -1,7 +1,87 @@
 {
-  "updated": "2026-05-15T19:27:32Z",
-  "count": 32,
+  "updated": "2026-05-16T02:48:27Z",
+  "count": 24,
   "articles": [
+    {
+      "title": "U.S. says Israel and Lebanon held full day of productive and positive talks, will reconvene on Friday",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-15/ty-article-live/u-s-says-israel-and-lebanon-held-full-day-of-productive-and-positive-talks/0000019e-295b-d6dd-adfe-ebff50420000",
+      "source": "Haaretz",
+      "publishedAt": "2026-05-15T02:15:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Strangers in the Streets: Hezbollah, the War That Made It, and the Stages of Its Unraveling",
+      "url": "https://www.hoover.org/research/strangers-streets-hezbollah-war-made-it-and-stages-its-unraveling",
+      "source": "Hoover.org",
+      "publishedAt": "2026-05-15T00:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "New Book Details How Washington and Moscow Forged a Framework for Security After the Cold War",
+      "url": "https://www.hoover.org/new-book-details-how-washington-and-moscow-forged-framework-security-after-cold-war",
+      "source": "Hoover.org",
+      "publishedAt": "2026-05-15T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "New round of Lebanon-Israel talks kicks off as fighting between Israel and Hezbollah continues",
+      "url": "https://japantoday.com/category/world/israeli-officials-say-hezbollah-drone-wounds-3-civilians",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-14T21:41:07Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon and Israel kick off new negotiations amid fighting with Hezbollah",
+      "url": "https://www.pbs.org/newshour/world/lebanon-and-israel-kick-off-new-negotiations-amid-fighting-with-hezbollah",
+      "source": "PBS",
+      "publishedAt": "2026-05-14T21:17:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Day 1 of Beijing Summit Produces No Big Wins for Trump",
+      "url": "http://foreignpolicy.com/2026/05/14/trump-xi-jinping-china-summit-taiwan-iran-trade-beef/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-05-14T20:33:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Cautious optimism in Lebanon as direct talks with Israel progress",
+      "url": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-14T20:25:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ship reported seized off UAE as Strait traffic increases",
+      "url": "https://www.rte.ie/news/world/2026/0514/1573411-iran-wrap/",
+      "source": "RTE",
+      "publishedAt": "2026-05-14T19:47:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel’s Lebanon Strategy Is Self-Defeating",
+      "url": "http://foreignpolicy.com/2026/05/14/israel-hezbollah-trump-iran-lebanon/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-05-14T19:43:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli attacks on medics in southern Lebanon part of 'alarming pattern,' says MSF",
+      "url": "https://www.cbc.ca/news/world/israel-attacks-paramedics-killed-south-lebanon-9.7199598",
+      "source": "CBC News",
+      "publishedAt": "2026-05-14T19:39:32Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Israel’s Long War on Lebanon : A Joint History of the Zionist and Lebanese Entities",
       "url": "https://crimethinc.com/2026/05/14/israels-long-war-on-lebanon-a-joint-history-of-the-zionist-and-lebanese-entities",
@@ -9,22 +89,6 @@
       "publishedAt": "2026-05-14T18:49:32Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "IDF strikes over 65 Hezbollah sites in southern Lebanon",
-      "url": "https://www.israelnationalnews.com/flashes/685506",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-14T18:03:50Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "UNICEF Decries 'Intolerable' Israeli Killing of Lebanese, Palestinian Children",
-      "url": "https://www.commondreams.org/news/unicef-lebanon-west-bank",
-      "source": "Common Dreams",
-      "publishedAt": "2026-05-14T17:46:10Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Iran urges BRICS nations to condemn US-Israeli war aggression",
@@ -41,22 +105,6 @@
       "publishedAt": "2026-05-14T17:26:54Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "CENTCOM Chief Says Hamas, Hezbollah and Houthis Cut Off From Iran’s Weapons Supply",
-      "url": "https://freerepublic.com/focus/f-bloggers/4379227/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-14T17:01:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel Signs Deal To Develop External Fuel Tanks For F-35I ‘Adir’",
-      "url": "https://theaviationist.com/2026/05/14/israel-signs-deal-for-f-35i-fuel-tanks/",
-      "source": "Theaviationist.com",
-      "publishedAt": "2026-05-14T16:39:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Can the NPT Survive Amid Global Disorder?",
@@ -99,14 +147,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "What is on the table during Lebanon-Israel direct negotiations?",
-      "url": "https://www.aljazeera.com/news/2026/5/14/what-is-on-the-table-during-lebanon-israel-direct-negotiations",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-14T13:17:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "EU Faces Doubts Over Ability to “Arm Ukraine” as Economic Woes Deepen",
       "url": "https://www.globalresearch.ca/eu-faces-doubts-arm-ukraine/5926239",
       "source": "Globalresearch.ca",
@@ -123,66 +163,10 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Ship is reported seized off the coast of the UAE and is heading toward Iran",
-      "url": "https://abcnews.com/Business/wireStory/ship-reported-seized-off-coast-uae-heading-iran-132951343",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-05-14T11:53:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "US intel fears Iran war handed China strategic advantage – WaPo",
       "url": "https://www.rt.com/news/639982-us-intel-fears-iran-war-china-edge/",
       "source": "RT",
       "publishedAt": "2026-05-14T11:52:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Two killed as Israel ramps up southern Lebanon attacks ahead of US talks",
-      "url": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-14T11:27:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon, Israel to hold new talks in US as ceasefire nears end",
-      "url": "https://www.channelnewsasia.com/world/lebanon-israel-new-talks-us-ceasefire-nears-end-6121166",
-      "source": "CNA",
-      "publishedAt": "2026-05-14T10:08:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Today the new round of Israel-Lebanon talks in Washington: Tel Aviv will not commit to a complete ceasefire, says Al Arabiya",
-      "url": "https://en.protothema.gr/2026/05/14/today-the-new-round-of-israel-lebanon-talks-in-washington-tel-aviv-will-not-commit-to-a-complete-ceasefire-says-al-arabiya/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-05-14T09:53:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran war tensions, oil shocks dominate BRICS talks in India",
-      "url": "https://www.dw.com/en/iran-war-tensions-oil-shocks-dominate-brics-talks-in-india/a-77158355",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-14T09:33:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ship is seized off UAE by 'unauthorised personnel' and taken to Iran",
-      "url": "https://www.dailymail.com/news/article-15817255/Ship-seized-UAE-unauthorised-personnel-taken-Iran.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-14T08:46:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war: Trump discusses conflict with XI Jinping as peace talks stall",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/05/14/iran-war-trump-discusses-conflict-with-xi-jinping-as-peace-talks-stall/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-14T07:25:56Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -209,54 +193,6 @@
       "publishedAt": "2026-05-14T00:00:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "TANVI RATNA: Europe says Trump made America unreliable. The truth is tougher",
-      "url": "https://www.foxnews.com/opinion/tanvi-ratna-europe-says-trump-made-america-unreliable-truth-tougher",
-      "source": "Fox News",
-      "publishedAt": "2026-05-13T14:45:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "China’s Mahan: The Man Who Created China’s Modern Navy",
-      "url": "https://thediplomat.com/2026/05/chinas-mahan-the-man-who-created-chinas-modern-navy/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-05-13T13:30:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Global Muslim Unity and Division in the Shadow of the US-Iran Conflict {know the main enemy of the USA}",
-      "url": "https://freerepublic.com/focus/f-news/4379006/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-13T11:21:48Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Global Muslim Unity and Division in the Shadow of the US-Iran Conflict {know the main enemy of the USA}",
-      "url": "https://freerepublic.com/focus/f-chat/4379006/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-13T11:21:48Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "US and China Start Trade Talks in Seoul Ahead of Trump-Xi Summit",
-      "url": "https://financialpost.com/pmn/business-pmn/us-and-china-start-trade-talks-in-seoul-ahead-of-trump-xi-summit",
-      "source": "Financial Post",
-      "publishedAt": "2026-05-13T04:29:25Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Will Israel nuke Iran? Some background.",
-      "url": "https://www.kiwipolitico.com/2026/05/will-israel-nuke-iran-some-background/",
-      "source": "Kiwipolitico.com",
-      "publishedAt": "2026-05-13T03:02:02Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

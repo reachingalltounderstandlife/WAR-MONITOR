@@ -1,7 +1,151 @@
 {
-  "updated": "2026-05-17T08:20:07Z",
-  "count": 31,
+  "updated": "2026-05-17T13:18:03Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Israel says Hamas armed wing chief killed in Gaza strike",
+      "url": "https://www.hurriyetdailynews.com/israel-says-hamas-armed-wing-chief-killed-in-gaza-strike-222214",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-16T12:37:57Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Top Hamas military leader killed in Israeli air strikes, official confirms",
+      "url": "https://www.abc.net.au/news/2026-05-16/hamas-military-leader-killed-israeli-air-strikes-gaza/106688480",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-16T12:14:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How China framed Donald Trump through the Thucydides Trap",
+      "url": "https://www.livemint.com/opinion/online-views/china-outmaneuvers-donald-trump-thucydides-trap-global-power-shift-11778920563427.html",
+      "source": "Livemint",
+      "publishedAt": "2026-05-16T12:01:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "CENTCOM Says 78 Ships Forced To Change Course During Iran Naval Blockade",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260516-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-16T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump returns from China trip praising 'historic moment'",
+      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260516-azertac01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-16T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Luke Coffey On How Tehran Has Adapted Kremlin Negotiation Tactics",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260516-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-16T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "New Israeli Strikes Reported In Lebanon",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260516-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-16T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "110 Lebanese paramedics killed in 163 direct Israeli attacks: MSF",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260516-presstv05.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-16T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Putin's four horsemen of the apocalypse: A nuke that orbits earth before striking anywhere, a torpedo that sparks radioactive tsunamis, a 14-storey high mega missile and Star Wars space weapon",
+      "url": "https://www.dailymail.com/news/article-15811579/Putins-four-horsemen-apocalypse-nuke-orbits-earth-striking-torpedo-sparks-radioactive-tsunamis-14-storey-high-mega-missile-Star-Wars-space-weapon.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-16T11:53:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 5/16/2026",
+      "url": "https://www.nakedcapitalism.com/2026/05/links-5-16-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-16T10:59:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hamas official says military chief has died after Israel says it targeted him",
+      "url": "https://www.channelnewsasia.com/world/hamas-military-wing-commander-izz-al-din-al-haddad-killed-israel-airstrike-6125636",
+      "source": "CNA",
+      "publishedAt": "2026-05-16T10:51:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Canada deepens Arctic defense ties with Nordics after Trump threats",
+      "url": "https://economictimes.indiatimes.com/news/defence/canada-deepens-arctic-defense-ties-with-nordics-after-trump-threats/articleshow/131135751.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-16T10:46:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
+      "url": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-16T10:34:53Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Amid Disagreements Over Iran War, BRICS End Summit Without Joint Statement",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260516-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-16T10:06:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel, Lebanon to extend ceasefire for 45 days: U.S. State Department",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260516-pdo02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-16T10:06:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hamas says military wing chief killed in Gaza strike",
+      "url": "https://www.rte.ie/news/world/2026/0516/1573669-israel-gaza/",
+      "source": "RTE",
+      "publishedAt": "2026-05-16T09:55:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes south Lebanon day after truce extension",
+      "url": "https://www.rte.ie/news/world/2026/0516/1573658-israel-lebanon/",
+      "source": "RTE",
+      "publishedAt": "2026-05-16T09:02:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Michael Hudson: US Designs on Iran and the Trump-Xi Summit",
+      "url": "https://www.nakedcapitalism.com/2026/05/michael-hudson-us-designs-on-iran-and-the-trump-xi-summit.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-16T08:47:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Trump says Xi agrees Iran must open strait, China says war shouldn't have started",
       "url": "https://www.thehindubusinessline.com/news/world/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started/article70986288.ece",
@@ -23,8 +167,8 @@
       "url": "https://www.hurriyetdailynews.com/israel-lebanon-say-extending-ceasefire-despite-new-strikes-222199",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-05-16T07:10:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Memorandum on the Need for Cooperation Among Central European Nations",
@@ -35,36 +179,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "UPSC Prelims 2026 Revision Checklist: Top 25 places in news aspirants shouldn’t miss",
-      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/upsc-prelims-2026-revision-checklist-25-places-in-news-mapping-10689378/",
-      "source": "The Indian Express",
-      "publishedAt": "2026-05-16T06:58:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu’s Office Reveals Israeli PM Secretly Visited UAE During Iran Conflict",
-      "url": "https://www.naturalnews.com/2026-05-16-netanyahu-secretly-visited-uae-during-iran-conflict.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-16T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "U.S. and Ukraine Draft Landmark Drone Defense Agreement Amid Escalating UAV War",
       "url": "https://www.naturalnews.com/2026-05-16-us-ukraine-draft-drone-defense-agreement.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-05-16T06:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Robots in the military: how the Defence Forces is using AI to cover shortfalls in resources and personnel",
-      "url": "https://www.irishtimes.com/ireland/2026/05/16/robots-in-the-military-how-the-defence-forces-is-using-ai-to-cover-shortfalls-in-resources-and-personnel/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-16T05:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "China and Trump’s Business-first Framework",
@@ -83,108 +203,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israel, Lebanon say extending ceasefire despite new strikes",
-      "url": "https://economictimes.indiatimes.com/news/defence/israel-lebanon-say-extending-ceasefire-despite-new-strikes/articleshow/131130272.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-16T01:43:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel and Lebanon extend truce amid airstrikes, Hezbollah attacks",
-      "url": "https://www.rt.com/news/640059-israel-lebanon-truce-extended/",
-      "source": "RT",
-      "publishedAt": "2026-05-16T01:33:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel targets Hamas leader, kills seven Palestinians",
-      "url": "https://www.abc.net.au/news/2026-05-16/israel-targets-hamas-leader-kills-seven-palestinians/106687730",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-16T00:25:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Grey-Zone Warfare: Geopolitical Experimentation of China’s Military Coercion",
       "url": "https://english.khabarhub.com/2026/16/548820/",
       "source": "Khabarhub.com",
       "publishedAt": "2026-05-16T00:15:52Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Trump Admits US Went To War With Iran For Israel",
-      "url": "https://freerepublic.com/focus/f-news/4379473/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-15T23:16:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Zelenskiy says Russia considering plan to attack NATO country from Belarus",
-      "url": "https://freerepublic.com/focus/f-news/4379454/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-15T21:41:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US, Israel consider military escalation against Iran amid regional tensions",
-      "url": "https://cryptobriefing.com/us-israel-consider-military-escalation-against-iran-amid-regional-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-15T20:59:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pentagon halts deployments to Poland and Germany to cut troop numbers in Europe, AP sources say",
-      "url": "https://japantoday.com/category/world/pentagon-halts-deployments-to-poland-and-germany-to-cut-troop-numbers-in-europe-ap-sources-say",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-15T20:49:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump says he is losing patience with Iran, did not ask China for favors",
-      "url": "https://japantoday.com/category/world/trump-says-he-is-losing-patience-with-iran-did-not-ask-china-for-favors",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-15T20:48:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli airstrikes hit southern Lebanon, escalating regional conflict",
-      "url": "https://cryptobriefing.com/israeli-airstrikes-hit-southern-lebanon-escalating-regional-conflict/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-15T20:44:55Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel, Lebanon agree to extend ceasefire despite new strikes",
-      "url": "https://www.abc.net.au/news/2026-05-16/lebanon-israel-agree-to-extend-ceasefire-by-45-days/106687558",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-15T20:26:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "CIA Director Ratcliffe’s Trip to Havana",
-      "url": "http://foreignpolicy.com/2026/05/15/cuba-ratcliffe-cia-regime-change-us-blockade-oil-fuel-blackouts-china-russia/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-15T20:02:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel and Lebanon extending ceasefire despite new strikes",
-      "url": "https://www.thejournal.ie/israel-and-lebanon-extending-ceasefire-despite-new-strikes-7041254-May2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-05-15T19:54:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Chinese undersea device found near Bali may be part of something bigger",
@@ -195,28 +219,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "I Was the Russian Commander in a War Game. This Is How I Defeated NATO.",
-      "url": "http://foreignpolicy.com/2026/05/15/russia-war-game-nato-invasion-baltics-ukraine-putin-germany-ernstfall/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-15T18:00:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "How Do We Know the China Summit Was a Failure? Because Trump Did It.",
       "url": "https://newrepublic.com/post/210522/china-summit-failure-iran-jinping",
       "source": "The New Republic",
       "publishedAt": "2026-05-15T16:21:41Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Voltaire, International Newsletter N°176",
-      "url": "https://www.voltairenet.org/article224500.html",
-      "source": "Red Voltaire",
-      "publishedAt": "2026-05-15T14:07:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Why is Europe reviewing US security guarantee?",

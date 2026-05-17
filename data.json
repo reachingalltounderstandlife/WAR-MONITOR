@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-17T13:18:03Z",
-  "count": 32,
+  "updated": "2026-05-17T19:07:14Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "IDF strikes 100 Hezbollah targets after attacks on troops",
+      "url": "https://www.israelnationalnews.com/news/427155",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-16T18:47:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IDF officer killed in Lebanon as Israeli strikes likelihood rises",
+      "url": "https://cryptobriefing.com/idf-officer-killed-in-lebanon-as-israeli-strikes-likelihood-rises/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-16T18:35:50Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Report: US and Israel preparing to renew strikes on Iran",
+      "url": "https://www.israelnationalnews.com/news/427154",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-16T17:46:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-says-xi-agrees-iran-must-open-strait-but-no-sign-china-will-weigh-in/articleshow/131140048.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-16T15:04:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Middle East updates: Big crowds at Nakba Day rally in London",
+      "url": "https://www.dw.com/en/middle-east-updates-big-crowds-at-nakba-day-rally-in-london/live-77179563",
+      "source": "DW (English)",
+      "publishedAt": "2026-05-16T14:50:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Middle East: Drone strike sparks fire at UAE nuclear plant",
+      "url": "https://www.dw.com/en/middle-east-drone-strike-sparks-fire-at-uae-nuclear-plant/live-77179563",
+      "source": "DW (English)",
+      "publishedAt": "2026-05-16T14:50:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran foreign minister on dealings with Trump: ‘We are in doubt about their seriousness’",
+      "url": "https://fortune.com/2026/05/16/iran-foreign-minister-on-dealings-with-trump-we-are-in-doubt-about-their-seriousness/",
+      "source": "Fortune",
+      "publishedAt": "2026-05-16T14:10:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel says it killed Hamas leader, the ‘last architect’ of October 7 strike",
+      "url": "https://indianexpress.com/article/world/israel-says-it-killed-hamas-leader-the-last-architect-of-october-7-strike-10692818/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-05-16T13:45:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Israel says Hamas armed wing chief killed in Gaza strike",
       "url": "https://www.hurriyetdailynews.com/israel-says-hamas-armed-wing-chief-killed-in-gaza-strike-222214",
@@ -83,14 +147,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Hamas official says military chief has died after Israel says it targeted him",
-      "url": "https://www.channelnewsasia.com/world/hamas-military-wing-commander-izz-al-din-al-haddad-killed-israel-airstrike-6125636",
-      "source": "CNA",
-      "publishedAt": "2026-05-16T10:51:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Canada deepens Arctic defense ties with Nordics after Trump threats",
       "url": "https://economictimes.indiatimes.com/news/defence/canada-deepens-arctic-defense-ties-with-nordics-after-trump-threats/articleshow/131135751.cms",
       "source": "The Times of India",
@@ -99,76 +155,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
-      "url": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-16T10:34:53Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Amid Disagreements Over Iran War, BRICS End Summit Without Joint Statement",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260516-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-16T10:06:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel, Lebanon to extend ceasefire for 45 days: U.S. State Department",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260516-pdo02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-16T10:06:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hamas says military wing chief killed in Gaza strike",
-      "url": "https://www.rte.ie/news/world/2026/0516/1573669-israel-gaza/",
-      "source": "RTE",
-      "publishedAt": "2026-05-16T09:55:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel strikes south Lebanon day after truce extension",
-      "url": "https://www.rte.ie/news/world/2026/0516/1573658-israel-lebanon/",
-      "source": "RTE",
-      "publishedAt": "2026-05-16T09:02:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Michael Hudson: US Designs on Iran and the Trump-Xi Summit",
       "url": "https://www.nakedcapitalism.com/2026/05/michael-hudson-us-designs-on-iran-and-the-trump-xi-summit.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-05-16T08:47:31Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump says Xi agrees Iran must open strait, China says war shouldn't have started",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started/article70986288.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-05-16T08:19:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump says Xi agrees Iran must open strait, China says war shouldn't have started",
-      "url": "https://www.yahoo.com/news/articles/trump-says-xi-agrees-iran-071302260.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-16T07:13:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel, Lebanon say extending ceasefire despite new strikes",
-      "url": "https://www.hurriyetdailynews.com/israel-lebanon-say-extending-ceasefire-despite-new-strikes-222199",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-16T07:10:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Memorandum on the Need for Cooperation Among Central European Nations",

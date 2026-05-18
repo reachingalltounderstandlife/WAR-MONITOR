@@ -1,7 +1,87 @@
 {
-  "updated": "2026-05-18T15:29:42Z",
-  "count": 32,
+  "updated": "2026-05-18T19:43:10Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "Trump warns Iran the 'clock is ticking' as he issues most direct threat yet amid stalled peace talks",
+      "url": "https://www.dailymail.com/news/article-15825695/Trum-warning-iran-clock-ticking-threat-peace-talks-failed.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-17T19:23:48Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Beyond Drones",
+      "url": "https://www.israelnationalnews.com/news/427217",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-17T19:22:48Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Trump warns Iran ‘clock is ticking’; UAE reports drone strike at nuclear power plant",
+      "url": "https://www.independent.ie/world-news/middle-east/trump-warns-iran-clock-is-ticking-uae-reports-drone-strike-at-nuclear-power-plant/a1326853175.html",
+      "source": "Independent.ie",
+      "publishedAt": "2026-05-17T19:20:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "UAE slams 'dangerous escalation' after drone hits near nuclear plant",
+      "url": "https://www.abc.net.au/news/2026-05-18/drone-strike-in-uae-nuclear-station/106690388",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-17T18:51:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "There's a ceasefire in Iran but the war's ripples are still hitting millions",
+      "url": "https://www.abc.net.au/news/2026-05-18/the-ripples-of-the-iran-war-are-everywhere/106591410",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-17T18:39:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump to hold Situation Room meeting on military options against Iran",
+      "url": "https://cryptobriefing.com/trump-situation-room-military-options-iran/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-17T18:30:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korean women's soccer team arrives in South Korea for regional tournament",
+      "url": "https://economictimes.indiatimes.com/news/sports/north-korean-womens-soccer-team-arrives-in-south-korea-for-regional-tournament/articleshow/131160226.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-17T18:04:33Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "‘The clock is ticking’: Trump issues fresh threat against Iran",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/05/17/the-clock-is-ticking-trump-issues-fresh-threat-against-iran/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-17T17:27:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Strait of Hormuz deadlock deepens? Drone strike at nuclear power plant in UAE",
+      "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-deadlock-deepens-drone-strike-at-nuclear-power-plant-in-uae/articleshow/131157636.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-17T16:05:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "India’s Quasi-alliance With Israel and UAE Won’t Have Happy Ending",
+      "url": "https://www.globalresearch.ca/india-quasi-alliance-israel-uae/5926592",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-17T15:39:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Drone strike starts fire outside UAE nuclear plant",
       "url": "https://punchng.com/drone-strike-starts-fire-outside-uae-nuclear-plant/",
@@ -75,52 +155,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "PM Netanyahu's Remarks at the Government Meeting",
-      "url": "https://www.globalsecurity.org/wmd/library/news/israel/2026/05/israel-260517-israel-pm01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-17T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Saudis Intercept 3 Drones Fired From Iraqi Territory, Origin Unknown",
-      "url": "https://www.globalsecurity.org/wmd/library/news/saudi/2026/saudi-260517-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-17T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Hezbollah says Lebanon-Israel talks at 'dead end' as Israeli strikes continue",
       "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260517-presstv06.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-05-17T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iraqi farmer killed by Israeli forces after stumbling on secret base: NYT investigation",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2026/iraq-260517-presstv02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-17T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Abu Dhabi Says Nuclear Plant Hit by Drone Attack",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260517-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-17T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu on Iran: 'Our eyes are open'",
-      "url": "https://www.israelnationalnews.com/news/427197",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-17T11:41:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump advisers warn of heightened risk of China invading Taiwan in next 5 years",
@@ -177,38 +217,6 @@
       "publishedAt": "2026-05-17T04:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Lebanon says 18 killed, 124 wounded in Israeli strikes over past day",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-17/ty-article-live/lebanon-says-18-killed-124-wounded-in-israeli-strikes-over-past-day/0000019e-33dd-d26f-a39e-b7dd60e00004",
-      "source": "Haaretz",
-      "publishedAt": "2026-05-17T02:57:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel strikes south Lebanon day after ceasefire extension",
-      "url": "https://www.channelnewsasia.com/world/israel-strikes-lebanon-ceasefire-extension-hezbollah-6126236",
-      "source": "CNA",
-      "publishedAt": "2026-05-17T00:06:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF strikes 100 Hezbollah targets after attacks on troops",
-      "url": "https://www.israelnationalnews.com/news/427155",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-16T18:47:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF officer killed in Lebanon as Israeli strikes likelihood rises",
-      "url": "https://cryptobriefing.com/idf-officer-killed-in-lebanon-as-israeli-strikes-likelihood-rises/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-16T18:35:50Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "How China framed Donald Trump through the Thucydides Trap",

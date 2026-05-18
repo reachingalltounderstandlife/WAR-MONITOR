@@ -1,7 +1,135 @@
 {
-  "updated": "2026-05-18T10:01:06Z",
-  "count": 29,
+  "updated": "2026-05-18T15:29:42Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Drone strike starts fire outside UAE nuclear plant",
+      "url": "https://punchng.com/drone-strike-starts-fire-outside-uae-nuclear-plant/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-17T15:22:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel and Hezbollah trade fire across Lebanon border despite cease-fire extension",
+      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-05-17/ty-article/.premium/israel-and-hezbollah-trade-fire-across-border-despite-cease-fire-extension/0000019e-3577-d26f-a39e-b7ffd3d80000",
+      "source": "Haaretz",
+      "publishedAt": "2026-05-17T14:17:49Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Transcript: Former Defense Secretary Robert Gates on \"Face the Nation with Margaret Brennan,\" May 17, 2026",
+      "url": "https://www.cbsnews.com/news/robert-gates-former-defense-secretary-face-the-nation-transcript-05-17-2026/",
+      "source": "CBS News",
+      "publishedAt": "2026-05-17T14:03:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.A.E. reports drone strike at nuclear power plant as Iran war deadlock endures",
+      "url": "https://www.cbc.ca/news/world/uae-drone-strike-nuclear-power-plant-9.7202750",
+      "source": "CBC News",
+      "publishedAt": "2026-05-17T14:02:27Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Agents operating in West and ready to attack...",
+      "url": "https://www.the-sun.com/news/16371775/putin-agents-uk-attack-russian-tycoon-warns/",
+      "source": "The-sun.com",
+      "publishedAt": "2026-05-17T14:00:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s Game for War: How the News Media Is Covering His War",
+      "url": "https://www.fairobserver.com/world-news/us-news/trumps-game-for-war-how-the-news-media-is-covering-his-war/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-05-17T13:15:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO ally Poland warns Russia, Belarus pushing illegal migrants toward alliance — and the US",
+      "url": "https://www.foxnews.com/world/nato-ally-poland-warns-russia-belarus-pushing-illegal-migrants-toward-alliance-us",
+      "source": "Fox News",
+      "publishedAt": "2026-05-17T13:10:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel launches air strikes on Lebanon despite extended ceasefire",
+      "url": "https://cryptobriefing.com/israel-air-strikes-lebanon-ceasefire/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-17T12:23:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Drone strike starts fire outside UAE nuclear plant",
+      "url": "https://www.thejournal.ie/drone-strike-uae-nuclear-plant-7042436-May2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-05-17T12:13:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "PM Netanyahu's Remarks at the Government Meeting",
+      "url": "https://www.globalsecurity.org/wmd/library/news/israel/2026/05/israel-260517-israel-pm01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-17T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Saudis Intercept 3 Drones Fired From Iraqi Territory, Origin Unknown",
+      "url": "https://www.globalsecurity.org/wmd/library/news/saudi/2026/saudi-260517-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-17T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah says Lebanon-Israel talks at 'dead end' as Israeli strikes continue",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260517-presstv06.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-17T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iraqi farmer killed by Israeli forces after stumbling on secret base: NYT investigation",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iraq/2026/iraq-260517-presstv02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-17T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Abu Dhabi Says Nuclear Plant Hit by Drone Attack",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260517-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-17T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu on Iran: 'Our eyes are open'",
+      "url": "https://www.israelnationalnews.com/news/427197",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-17T11:41:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump advisers warn of heightened risk of China invading Taiwan in next 5 years",
+      "url": "https://cryptobriefing.com/trump-advisers-china-taiwan-invasion-risk/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-17T11:09:26Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
     {
       "title": "Interpreting Lavrov’s Proposal That India Mediate Between Iran & The Gulf Kingdoms",
       "url": "https://www.nakedcapitalism.com/2026/05/interpreting-lavrovs-proposal-that-india-mediate-between-iran-the-gulf-kingdoms.html",
@@ -35,14 +163,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Iran War: More Speculation that US Will Restart War, Along with Possible UAE Operation Against Key Iran Island, Big Explosion at Israel Weapons Factory; Yet More on Imminent Real Economy Damage",
-      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-more-speculation-that-us-will-restart-war-along-with-possible-uae-operation-against-key-iran-island-big-explosion-at-israel-weapons-factory-yet-more-on-imminent-real-economy-damage.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-17T07:53:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korean women's soccer team arrives in South Korea for regional tournament",
       "url": "https://sports.yahoo.com/articles/north-korean-womens-soccer-team-070144519.html",
       "source": "Yahoo Entertainment",
@@ -67,28 +187,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "'Calm before the storm': Trump shares cryptic post on Iran",
-      "url": "https://www.israelnationalnews.com/news/427174",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-17T02:30:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel strikes south Lebanon day after ceasefire extension",
       "url": "https://www.channelnewsasia.com/world/israel-strikes-lebanon-ceasefire-extension-hezbollah-6126236",
       "source": "CNA",
       "publishedAt": "2026-05-17T00:06:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel says it has killed Hamas military chief in targeted strike on Gaza",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/05/16/israel-says-it-has-killed-hamas-military-chief-in-targeted-strike-on-gaza/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-16T20:55:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "IDF strikes 100 Hezbollah targets after attacks on troops",
@@ -105,62 +209,6 @@
       "publishedAt": "2026-05-16T18:35:50Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Report: US and Israel preparing to renew strikes on Iran",
-      "url": "https://www.israelnationalnews.com/news/427154",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-16T17:46:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-says-xi-agrees-iran-must-open-strait-but-no-sign-china-will-weigh-in/articleshow/131140048.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-16T15:04:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Middle East updates: Big crowds at Nakba Day rally in London",
-      "url": "https://www.dw.com/en/middle-east-updates-big-crowds-at-nakba-day-rally-in-london/live-77179563",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-16T14:50:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Middle East: Drone strike sparks fire at UAE nuclear plant",
-      "url": "https://www.dw.com/en/middle-east-drone-strike-sparks-fire-at-uae-nuclear-plant/live-77179563",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-16T14:50:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran foreign minister on dealings with Trump: ‘We are in doubt about their seriousness’",
-      "url": "https://fortune.com/2026/05/16/iran-foreign-minister-on-dealings-with-trump-we-are-in-doubt-about-their-seriousness/",
-      "source": "Fortune",
-      "publishedAt": "2026-05-16T14:10:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel says it killed Hamas leader, the ‘last architect’ of October 7 strike",
-      "url": "https://indianexpress.com/article/world/israel-says-it-killed-hamas-leader-the-last-architect-of-october-7-strike-10692818/",
-      "source": "The Indian Express",
-      "publishedAt": "2026-05-16T13:45:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Top Hamas military leader killed in Israeli air strikes, official confirms",
-      "url": "https://www.abc.net.au/news/2026-05-16/hamas-military-leader-killed-israeli-air-strikes-gaza/106688480",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-16T12:14:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "How China framed Donald Trump through the Thucydides Trap",
@@ -199,30 +247,6 @@
       "url": "https://economictimes.indiatimes.com/news/defence/canada-deepens-arctic-defense-ties-with-nordics-after-trump-threats/articleshow/131135751.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-16T10:46:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Michael Hudson: US Designs on Iran and the Trump-Xi Summit",
-      "url": "https://www.nakedcapitalism.com/2026/05/michael-hudson-us-designs-on-iran-and-the-trump-xi-summit.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-16T08:47:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Memorandum on the Need for Cooperation Among Central European Nations",
-      "url": "https://mpgavlak.blog.pravda.sk/2026/05/16/memorandum-on-the-need-for-cooperation-among-central-european-nations/",
-      "source": "Pravda.sk",
-      "publishedAt": "2026-05-16T07:04:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "U.S. and Ukraine Draft Landmark Drone Defense Agreement Amid Escalating UAV War",
-      "url": "https://www.naturalnews.com/2026-05-16-us-ukraine-draft-drone-defense-agreement.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-16T06:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

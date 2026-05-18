@@ -1,7 +1,63 @@
 {
-  "updated": "2026-05-18T03:35:16Z",
-  "count": 27,
+  "updated": "2026-05-18T10:01:06Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "Interpreting Lavrov’s Proposal That India Mediate Between Iran & The Gulf Kingdoms",
+      "url": "https://www.nakedcapitalism.com/2026/05/interpreting-lavrovs-proposal-that-india-mediate-between-iran-the-gulf-kingdoms.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-17T10:00:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel strikes Lebanon while Hezbollah calls negotiations 'dead end'",
+      "url": "https://economictimes.indiatimes.com/news/defence/israel-strikes-lebanon-while-hezbollah-calls-negotiations-dead-end/articleshow/131151764.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-17T09:56:13Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "North Korean women's soccer team arrives in South Korea for regional tournament",
+      "url": "https://abcnews.com/International/wireStory/north-korean-womens-soccer-team-arrives-south-korea-133045454",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-17T09:39:27Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israeli strikes target eastern and southern Lebanon",
+      "url": "https://www.rte.ie/news/world/2026/0517/1573772-israel-lebanon/",
+      "source": "RTE",
+      "publishedAt": "2026-05-17T09:36:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran War: More Speculation that US Will Restart War, Along with Possible UAE Operation Against Key Iran Island, Big Explosion at Israel Weapons Factory; Yet More on Imminent Real Economy Damage",
+      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-more-speculation-that-us-will-restart-war-along-with-possible-uae-operation-against-key-iran-island-big-explosion-at-israel-weapons-factory-yet-more-on-imminent-real-economy-damage.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-17T07:53:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korean women's soccer team arrives in South Korea for regional tournament",
+      "url": "https://sports.yahoo.com/articles/north-korean-womens-soccer-team-070144519.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-17T07:01:44Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump’s Cleanup Crescendo",
+      "url": "https://www.americanthinker.com/articles/2026/05/trump_s_cleanup_crescendo.html",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-05-17T04:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Lebanon says 18 killed, 124 wounded in Israeli strikes over past day",
       "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-17/ty-article-live/lebanon-says-18-killed-124-wounded-in-israeli-strikes-over-past-day/0000019e-33dd-d26f-a39e-b7dd60e00004",
@@ -99,14 +155,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Israel says Hamas armed wing chief killed in Gaza strike",
-      "url": "https://www.hurriyetdailynews.com/israel-says-hamas-armed-wing-chief-killed-in-gaza-strike-222214",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-16T12:37:57Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Top Hamas military leader killed in Israeli air strikes, official confirms",
       "url": "https://www.abc.net.au/news/2026-05-16/hamas-military-leader-killed-israeli-air-strikes-gaza/106688480",
       "source": "ABC News (AU)",
@@ -123,28 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "CENTCOM Says 78 Ships Forced To Change Course During Iran Naval Blockade",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260516-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-16T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Luke Coffey On How Tehran Has Adapted Kremlin Negotiation Tactics",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260516-rferl03.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-05-16T12:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "New Israeli Strikes Reported In Lebanon",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260516-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-16T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Putin's four horsemen of the apocalypse: A nuke that orbits earth before striking anywhere, a torpedo that sparks radioactive tsunamis, a 14-storey high mega missile and Star Wars space weapon",
@@ -191,22 +223,6 @@
       "url": "https://www.naturalnews.com/2026-05-16-us-ukraine-draft-drone-defense-agreement.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-05-16T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "China and Trump’s Business-first Framework",
-      "url": "https://www.americanthinker.com/articles/2026/05/china_and_trump_s_business_first_framework.html",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-05-16T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UK Unfit for Modern Naval Warfare",
-      "url": "https://www.globalresearch.ca/uk-unfit-modern-naval-warfare/5926574",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-16T03:29:11Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

@@ -1,7 +1,39 @@
 {
-  "updated": "2026-05-17T19:07:14Z",
-  "count": 31,
+  "updated": "2026-05-18T03:35:16Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Lebanon says 18 killed, 124 wounded in Israeli strikes over past day",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-17/ty-article-live/lebanon-says-18-killed-124-wounded-in-israeli-strikes-over-past-day/0000019e-33dd-d26f-a39e-b7dd60e00004",
+      "source": "Haaretz",
+      "publishedAt": "2026-05-17T02:57:43Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "'Calm before the storm': Trump shares cryptic post on Iran",
+      "url": "https://www.israelnationalnews.com/news/427174",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-17T02:30:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes south Lebanon day after ceasefire extension",
+      "url": "https://www.channelnewsasia.com/world/israel-strikes-lebanon-ceasefire-extension-hezbollah-6126236",
+      "source": "CNA",
+      "publishedAt": "2026-05-17T00:06:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel says it has killed Hamas military chief in targeted strike on Gaza",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/05/16/israel-says-it-has-killed-hamas-military-chief-in-targeted-strike-on-gaza/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-16T20:55:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "IDF strikes 100 Hezbollah targets after attacks on troops",
       "url": "https://www.israelnationalnews.com/news/427155",
@@ -99,14 +131,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump returns from China trip praising 'historic moment'",
-      "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/05/china-260516-azertac01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-16T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Luke Coffey On How Tehran Has Adapted Kremlin Negotiation Tactics",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260516-rferl03.htm",
       "source": "Globalsecurity.org",
@@ -117,14 +141,6 @@
     {
       "title": "New Israeli Strikes Reported In Lebanon",
       "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260516-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-16T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "110 Lebanese paramedics killed in 163 direct Israeli attacks: MSF",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260516-presstv05.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-05-16T12:00:00Z",
       "_cat": "lebanon",
@@ -143,8 +159,8 @@
       "url": "https://www.nakedcapitalism.com/2026/05/links-5-16-2026.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-05-16T10:59:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Canada deepens Arctic defense ties with Nordics after Trump threats",
@@ -201,54 +217,6 @@
       "publishedAt": "2026-05-16T00:15:52Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Chinese undersea device found near Bali may be part of something bigger",
-      "url": "https://www.abc.net.au/news/2026-05-16/undersea-monitoring-device-indonesia-china-maritime-strategy/106670896",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-15T19:38:41Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "How Do We Know the China Summit Was a Failure? Because Trump Did It.",
-      "url": "https://newrepublic.com/post/210522/china-summit-failure-iran-jinping",
-      "source": "The New Republic",
-      "publishedAt": "2026-05-15T16:21:41Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Why is Europe reviewing US security guarantee?",
-      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-essentials/why-is-europe-reviewing-us-security-guarantee-10691519/",
-      "source": "The Indian Express",
-      "publishedAt": "2026-05-15T13:56:41Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "What Kim Jong Un Really Fears: Outside Information",
-      "url": "https://thediplomat.com/2026/05/what-kim-jong-un-really-fears-outside-information/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-05-15T12:10:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "AUKUS and North Korea in the Indo-Pacific: 5 Years On",
-      "url": "https://thediplomat.com/2026/05/aukus-and-north-korea-in-the-indo-pacific-5-years-on/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-05-15T09:51:38Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Beyond Ukraine, Russia is a grave threat to the West as a whole",
-      "url": "https://www.americanthinker.com/blog/2026/05/beyond_ukraine_russia_is_a_grave_threat_to_the_west_as_a_whole.html",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-05-15T04:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

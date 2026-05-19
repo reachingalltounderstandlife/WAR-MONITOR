@@ -1,38 +1,150 @@
 {
-  "updated": "2026-05-19T03:28:15Z",
-  "count": 30,
+  "updated": "2026-05-19T09:40:06Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "Israel built two military bases in Iraq before war on Iran: New York Times",
+      "url": "https://www.aljazeera.com/news/2026/5/18/israel-built-two-military-bases-in-iraq-before-war-on-iran-nyt",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-18T08:57:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea is relieved its nuclear weapons have prevented a fate like Iran's",
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5820631/trump-north-korea-nuclear",
+      "source": "NPR",
+      "publishedAt": "2026-05-18T08:47:07Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "'Gaza is now forgotten,' says Jerusalem bishop",
+      "url": "https://www.rte.ie/news/2026/0518/1573891-gaza-bishop/",
+      "source": "RTE",
+      "publishedAt": "2026-05-18T08:33:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
+      "url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-18T07:24:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump issues dire warning to Iran to accept peace deal",
+      "url": "https://www.hurriyetdailynews.com/trump-issues-dire-warning-to-iran-to-accept-peace-deal-222246",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-18T07:18:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump posts series of AI war pictures and warns there 'won't be anything left' of Iran in new threat to resume conflict with Islamic Republic",
+      "url": "https://www.dailymail.com/news/article-15826757/Trump-posts-series-AI-war-pictures-warns-wont-left-Iran-new-threat-resume-conflict-Islamic-Republic.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-18T07:13:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine says new long-range drones bombarded Moscow region over weekend",
+      "url": "https://www.irishtimes.com/world/europe/2026/05/18/ukraine-says-new-long-range-drones-bombarded-moscow-region-over-weekend/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-18T06:22:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Beijing’s War Dividend: China’s Asymmetric Gains from the US-Israeli Campaign Against Iran",
+      "url": "https://smallwarsjournal.com/2026/05/18/beijing-war-dividend-us-iran-war-asymmetric-gains/",
+      "source": "Smallwarsjournal.com",
+      "publishedAt": "2026-05-18T06:00:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Pleads for BRICS Unity Against US-Israeli Aggression, Exposes UAE Betrayal",
+      "url": "https://www.naturalnews.com/2026-05-18-iran-pleads-brics-unity-against-us-israeli-aggression.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-18T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UAE’s Failed Bid for Joint Gulf Military Response to Iran",
+      "url": "https://www.naturalnews.com/2026-05-18-uae-failed-bid-joint-military-response-iran.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-18T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The secret war for Lavan: Washington pushes UAE to seize Iran’s oil island as American stockpiles dwindle",
+      "url": "https://www.naturalnews.com/2026-05-18-washington-pushes-uae-to-seize-irans-oil-island.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-18T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian Foreign Intelligence Service Says Ukraine Stepping Up Efforts to Destabilize Russian Society",
+      "url": "https://www.naturalnews.com/2026-05-18-svr-ukraine-intensifying-efforts-destabilize-russian-society.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-18T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "House Speaker Johnson poised to back new Ukraine aid package as Kyiv runs dry again",
+      "url": "https://www.naturalnews.com/2026-05-18-house-speaker-johnson-backs-new-ukraine-aid-package.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-18T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Drone strikes UAE nuclear plant as US and Iran signal they are prepared to resume war",
+      "url": "https://abcnews.com/Business/wireStory/drone-strikes-uae-nuclear-plant-us-iran-signal-133046075",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-18T05:39:47Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Drone strikes UAE nuclear plant highlighting risk of renewed war",
+      "url": "https://www.npr.org/2026/05/18/g-s1-122534/drone-strikes-uae-nuclear-plant",
+      "source": "NPR",
+      "publishedAt": "2026-05-18T05:37:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump and Netanyahu Discuss Possibility of Resuming Strikes on Iran Amid Rising Regional Tensions",
+      "url": "https://www.ibtimes.com.au/trump-netanyahu-discuss-military-action-iran-1869074",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-05-18T05:26:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Iran reactivates missile bunkers amid rising regional tensions",
       "url": "https://cryptobriefing.com/iran-reactivates-missile-bunkers-amid-rising-regional-tensions/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-05-18T02:14:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s Pezeshkian accuses US and Israel of dividing Muslim world",
-      "url": "https://www.israelnationalnews.com/news/427226",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-18T01:47:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'Dangerous escalation': India expresses deep concern after Iranian strikes target Barakah nuclear facility in UAE",
-      "url": "https://economictimes.indiatimes.com/news/defence/dangerous-escalation-india-expresses-deep-concern-after-iranian-strikes-target-barakah-nuclear-facility-in-uae/articleshow/131164232.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-18T01:24:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "UAE and Saudi Arabia report drone incidents as Iran war deadlock drags on",
       "url": "https://economictimes.indiatimes.com/news/defence/uae-and-saudi-arabia-report-drone-incidents-as-iran-war-deadlock-drags-on/articleshow/131164000.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-18T00:43:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Now It’s Time To Disentangle",
@@ -43,36 +155,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Analytics firm connects bets made on war with signs of insider trading",
-      "url": "https://www.cbsnews.com/news/betting-on-iran-war-insider-trading-concerns-prediction-markets-60-minutes/",
-      "source": "CBS News",
-      "publishedAt": "2026-05-17T23:17:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Suspicious trades make millions with bets tied to U.S. military operations",
-      "url": "https://www.cbsnews.com/news/prediction-market-traders-make-millions-betting-on-us-military-operations-60-minutes-transcript/",
-      "source": "CBS News",
-      "publishedAt": "2026-05-17T23:17:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump issues dire warning to Iran to accept peace deal",
       "url": "https://www.channelnewsasia.com/world/war-iran-trump-dire-warning-iran-accept-peace-deal-6127301",
       "source": "CNA",
       "publishedAt": "2026-05-17T22:53:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu 'blunder' threatens US-backed Israel-UAE alliance at critical moment with Iran: analyst",
-      "url": "https://www.foxnews.com/world/netanyahu-blunder-threatens-us-backed-israel-uae-alliance-critical-moment-iran-analyst",
-      "source": "Fox News",
-      "publishedAt": "2026-05-17T22:34:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "North Korean women's soccer team arrives in South Korea for regional tournament",
@@ -89,22 +177,6 @@
       "publishedAt": "2026-05-17T21:21:07Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Middle East: Trump warns Iran 'time is ticking' on deal",
-      "url": "https://www.dw.com/en/middle-east-trump-warns-iran-time-is-ticking-on-deal/live-77179563",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-17T20:53:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Drone strikes UAE nuke plant as Trump warns Iran that ‘clock is ticking’ to make deal",
-      "url": "https://nypost.com/2026/05/17/world-news/drone-strikes-uae-nuclear-plant-as-trump-warns-iran-that-clock-is-ticking-to-make-deal/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-17T20:50:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Exclusive -- Greek Energy Minister: Trump’s ‘Trademark Move’ with Allies and Adversaries Alike Is Energy Diplomacy",
@@ -131,52 +203,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Trump warns Iran ‘clock is ticking’; UAE reports drone strike at nuclear power plant",
-      "url": "https://www.independent.ie/world-news/middle-east/trump-warns-iran-clock-is-ticking-uae-reports-drone-strike-at-nuclear-power-plant/a1326853175.html",
-      "source": "Independent.ie",
-      "publishedAt": "2026-05-17T19:20:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "UAE slams 'dangerous escalation' after drone hits near nuclear plant",
-      "url": "https://www.abc.net.au/news/2026-05-18/drone-strike-in-uae-nuclear-station/106690388",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-17T18:51:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "North Korean women's soccer team arrives in South Korea for regional tournament",
       "url": "https://economictimes.indiatimes.com/news/sports/north-korean-womens-soccer-team-arrives-in-south-korea-for-regional-tournament/articleshow/131160226.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-17T18:04:33Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Strait of Hormuz deadlock deepens? Drone strike at nuclear power plant in UAE",
-      "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-deadlock-deepens-drone-strike-at-nuclear-power-plant-in-uae/articleshow/131157636.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-17T16:05:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel and Hezbollah trade fire across Lebanon border despite cease-fire extension",
-      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-05-17/ty-article/.premium/israel-and-hezbollah-trade-fire-across-border-despite-cease-fire-extension/0000019e-3577-d26f-a39e-b7ffd3d80000",
-      "source": "Haaretz",
-      "publishedAt": "2026-05-17T14:17:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.A.E. reports drone strike at nuclear power plant as Iran war deadlock endures",
-      "url": "https://www.cbc.ca/news/world/uae-drone-strike-nuclear-power-plant-9.7202750",
-      "source": "CBC News",
-      "publishedAt": "2026-05-17T14:02:27Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Agents operating in West and ready to attack...",

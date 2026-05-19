@@ -1,7 +1,119 @@
 {
-  "updated": "2026-05-18T19:43:10Z",
-  "count": 33,
+  "updated": "2026-05-19T03:28:15Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Iran reactivates missile bunkers amid rising regional tensions",
+      "url": "https://cryptobriefing.com/iran-reactivates-missile-bunkers-amid-rising-regional-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-18T02:14:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran’s Pezeshkian accuses US and Israel of dividing Muslim world",
+      "url": "https://www.israelnationalnews.com/news/427226",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-18T01:47:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Dangerous escalation': India expresses deep concern after Iranian strikes target Barakah nuclear facility in UAE",
+      "url": "https://economictimes.indiatimes.com/news/defence/dangerous-escalation-india-expresses-deep-concern-after-iranian-strikes-target-barakah-nuclear-facility-in-uae/articleshow/131164232.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-18T01:24:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UAE and Saudi Arabia report drone incidents as Iran war deadlock drags on",
+      "url": "https://economictimes.indiatimes.com/news/defence/uae-and-saudi-arabia-report-drone-incidents-as-iran-war-deadlock-drags-on/articleshow/131164000.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-18T00:43:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Now It’s Time To Disentangle",
+      "url": "https://chinaarticles.substack.com/p/now-its-time-to-disentangle",
+      "source": "Substack.com",
+      "publishedAt": "2026-05-18T00:00:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Analytics firm connects bets made on war with signs of insider trading",
+      "url": "https://www.cbsnews.com/news/betting-on-iran-war-insider-trading-concerns-prediction-markets-60-minutes/",
+      "source": "CBS News",
+      "publishedAt": "2026-05-17T23:17:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Suspicious trades make millions with bets tied to U.S. military operations",
+      "url": "https://www.cbsnews.com/news/prediction-market-traders-make-millions-betting-on-us-military-operations-60-minutes-transcript/",
+      "source": "CBS News",
+      "publishedAt": "2026-05-17T23:17:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump issues dire warning to Iran to accept peace deal",
+      "url": "https://www.channelnewsasia.com/world/war-iran-trump-dire-warning-iran-accept-peace-deal-6127301",
+      "source": "CNA",
+      "publishedAt": "2026-05-17T22:53:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu 'blunder' threatens US-backed Israel-UAE alliance at critical moment with Iran: analyst",
+      "url": "https://www.foxnews.com/world/netanyahu-blunder-threatens-us-backed-israel-uae-alliance-critical-moment-iran-analyst",
+      "source": "Fox News",
+      "publishedAt": "2026-05-17T22:34:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korean women's soccer team arrives in South Korea for regional tournament",
+      "url": "https://japantoday.com/category/sports/north-korean-women%27s-soccer-team-arrives-in-south-korea-for-regional-tournament",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-17T21:23:01Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump issues dire warning to Iran to accept peace deal",
+      "url": "https://japantoday.com/category/world/trump-issues-dire-warning-to-iran-to-accept-peace-deal",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-17T21:21:07Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Middle East: Trump warns Iran 'time is ticking' on deal",
+      "url": "https://www.dw.com/en/middle-east-trump-warns-iran-time-is-ticking-on-deal/live-77179563",
+      "source": "DW (English)",
+      "publishedAt": "2026-05-17T20:53:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Drone strikes UAE nuke plant as Trump warns Iran that ‘clock is ticking’ to make deal",
+      "url": "https://nypost.com/2026/05/17/world-news/drone-strikes-uae-nuclear-plant-as-trump-warns-iran-that-clock-is-ticking-to-make-deal/",
+      "source": "New York Post",
+      "publishedAt": "2026-05-17T20:50:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Exclusive -- Greek Energy Minister: Trump’s ‘Trademark Move’ with Allies and Adversaries Alike Is Energy Diplomacy",
+      "url": "https://www.breitbart.com/politics/2026/05/17/exclusive-greek-energy-minister-trumps-trademark-move-with-allies-and-adversaries-alike-is-energy-diplomacy/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-05-17T20:05:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Trump warns Iran the 'clock is ticking' as he issues most direct threat yet amid stalled peace talks",
       "url": "https://www.dailymail.com/news/article-15825695/Trum-warning-iran-clock-ticking-threat-peace-talks-failed.html",
@@ -31,24 +143,8 @@
       "url": "https://www.abc.net.au/news/2026-05-18/drone-strike-in-uae-nuclear-station/106690388",
       "source": "ABC News (AU)",
       "publishedAt": "2026-05-17T18:51:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "There's a ceasefire in Iran but the war's ripples are still hitting millions",
-      "url": "https://www.abc.net.au/news/2026-05-18/the-ripples-of-the-iran-war-are-everywhere/106591410",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-17T18:39:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump to hold Situation Room meeting on military options against Iran",
-      "url": "https://cryptobriefing.com/trump-situation-room-military-options-iran/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-17T18:30:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "North Korean women's soccer team arrives in South Korea for regional tournament",
@@ -59,14 +155,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "‘The clock is ticking’: Trump issues fresh threat against Iran",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/05/17/the-clock-is-ticking-trump-issues-fresh-threat-against-iran/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-17T17:27:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Strait of Hormuz deadlock deepens? Drone strike at nuclear power plant in UAE",
       "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-deadlock-deepens-drone-strike-at-nuclear-power-plant-in-uae/articleshow/131157636.cms",
       "source": "The Times of India",
@@ -75,36 +163,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "India’s Quasi-alliance With Israel and UAE Won’t Have Happy Ending",
-      "url": "https://www.globalresearch.ca/india-quasi-alliance-israel-uae/5926592",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-17T15:39:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Drone strike starts fire outside UAE nuclear plant",
-      "url": "https://punchng.com/drone-strike-starts-fire-outside-uae-nuclear-plant/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-17T15:22:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel and Hezbollah trade fire across Lebanon border despite cease-fire extension",
       "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-05-17/ty-article/.premium/israel-and-hezbollah-trade-fire-across-border-despite-cease-fire-extension/0000019e-3577-d26f-a39e-b7ffd3d80000",
       "source": "Haaretz",
       "publishedAt": "2026-05-17T14:17:49Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Transcript: Former Defense Secretary Robert Gates on \"Face the Nation with Margaret Brennan,\" May 17, 2026",
-      "url": "https://www.cbsnews.com/news/robert-gates-former-defense-secretary-face-the-nation-transcript-05-17-2026/",
-      "source": "CBS News",
-      "publishedAt": "2026-05-17T14:03:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "U.A.E. reports drone strike at nuclear power plant as Iran war deadlock endures",
@@ -139,30 +203,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israel launches air strikes on Lebanon despite extended ceasefire",
-      "url": "https://cryptobriefing.com/israel-air-strikes-lebanon-ceasefire/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-17T12:23:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Drone strike starts fire outside UAE nuclear plant",
-      "url": "https://www.thejournal.ie/drone-strike-uae-nuclear-plant-7042436-May2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-05-17T12:13:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hezbollah says Lebanon-Israel talks at 'dead end' as Israeli strikes continue",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260517-presstv06.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-17T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Trump advisers warn of heightened risk of China invading Taiwan in next 5 years",
       "url": "https://cryptobriefing.com/trump-advisers-china-taiwan-invasion-risk/",
       "source": "Crypto Briefing",
@@ -179,28 +219,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israel strikes Lebanon while Hezbollah calls negotiations 'dead end'",
-      "url": "https://economictimes.indiatimes.com/news/defence/israel-strikes-lebanon-while-hezbollah-calls-negotiations-dead-end/articleshow/131151764.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-17T09:56:13Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "North Korean women's soccer team arrives in South Korea for regional tournament",
       "url": "https://abcnews.com/International/wireStory/north-korean-womens-soccer-team-arrives-south-korea-133045454",
       "source": "Abcnews.com",
       "publishedAt": "2026-05-17T09:39:27Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Israeli strikes target eastern and southern Lebanon",
-      "url": "https://www.rte.ie/news/world/2026/0517/1573772-israel-lebanon/",
-      "source": "RTE",
-      "publishedAt": "2026-05-17T09:36:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "North Korean women's soccer team arrives in South Korea for regional tournament",
@@ -217,54 +241,6 @@
       "publishedAt": "2026-05-17T04:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "How China framed Donald Trump through the Thucydides Trap",
-      "url": "https://www.livemint.com/opinion/online-views/china-outmaneuvers-donald-trump-thucydides-trap-global-power-shift-11778920563427.html",
-      "source": "Livemint",
-      "publishedAt": "2026-05-16T12:01:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Luke Coffey On How Tehran Has Adapted Kremlin Negotiation Tactics",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260516-rferl03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-16T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin's four horsemen of the apocalypse: A nuke that orbits earth before striking anywhere, a torpedo that sparks radioactive tsunamis, a 14-storey high mega missile and Star Wars space weapon",
-      "url": "https://www.dailymail.com/news/article-15811579/Putins-four-horsemen-apocalypse-nuke-orbits-earth-striking-torpedo-sparks-radioactive-tsunamis-14-storey-high-mega-missile-Star-Wars-space-weapon.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-16T11:53:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Links 5/16/2026",
-      "url": "https://www.nakedcapitalism.com/2026/05/links-5-16-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-16T10:59:54Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Canada deepens Arctic defense ties with Nordics after Trump threats",
-      "url": "https://economictimes.indiatimes.com/news/defence/canada-deepens-arctic-defense-ties-with-nordics-after-trump-threats/articleshow/131135751.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-16T10:46:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Grey-Zone Warfare: Geopolitical Experimentation of China’s Military Coercion",
-      "url": "https://english.khabarhub.com/2026/16/548820/",
-      "source": "Khabarhub.com",
-      "publishedAt": "2026-05-16T00:15:52Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
     }
   ]
 }

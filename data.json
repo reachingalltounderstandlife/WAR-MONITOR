@@ -1,7 +1,135 @@
 {
-  "updated": "2026-05-20T03:29:10Z",
-  "count": 35,
+  "updated": "2026-05-20T09:30:32Z",
+  "count": 37,
   "articles": [
+    {
+      "title": "Iran says peace proposal includes reparations for war damage, US troop withdrawal",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-says-peace-proposal-includes-reparations-for-war-damage-us-troop-withdrawal/article70997102.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-19T09:19:24Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US military is powerful enough to crush enemies, but can it defeat their 'final 10%?'",
+      "url": "https://www.foxnews.com/opinion/us-military-powerful-enough-crush-enemies-defeat-final-10",
+      "source": "Fox News",
+      "publishedAt": "2026-05-19T09:00:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Back to full-on war with Iran? Amos Harel on Trump's dilemma and Netanyahu's desire",
+      "url": "https://www.haaretz.com/israel-news/podcasts/2026-05-19/ty-article-podcast/amos-harel-on-trumps-dilemma-and-netanyahus-desire/0000019e-3f42-d394-addf-ff7a6f8d0000",
+      "source": "Haaretz",
+      "publishedAt": "2026-05-19T08:57:56Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The World Keeps Asking Iran the Wrong Question",
+      "url": "http://foreignpolicy.com/2026/05/19/iran-politics-strategy-war-sanctions-hormuz/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-05-19T08:34:53Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "The World Keeps Asking Iran the Wrong Question",
+      "url": "http://foreignpolicy.com/2026/05/19/the-world-keeps-asking-iran-the-wrong-question/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-05-19T08:34:53Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Lebanon and Syria reshape ties amid Israeli attacks and regional shifts",
+      "url": "https://www.aljazeera.com/features/2026/5/19/lebanon-and-syria-reshape-ties-amid-israeli-attacks-and-regional-shifts",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-19T07:38:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
+      "url": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-19T07:26:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "News24 | Gulf allies asked US ‘to hold off on our planned military attack’ on Iran, says Trump",
+      "url": "https://www.news24.com/world/gulf-allies-asked-us-to-hold-off-on-our-planned-military-attack-on-iran-says-trump-20260519-0246",
+      "source": "News24",
+      "publishedAt": "2026-05-19T06:30:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says held off on new Iran attack, upbeat for agreement",
+      "url": "https://www.hurriyetdailynews.com/trump-says-held-off-on-new-iran-attack-upbeat-for-agreement-222298",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-19T06:24:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Arms Without Strings: What Buying Chinese Military Technology Really Means",
+      "url": "https://smallwarsjournal.com/2026/05/19/arms-without-strings/",
+      "source": "Smallwarsjournal.com",
+      "publishedAt": "2026-05-19T06:00:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Did Xi Really Trade Iran for Taiwan?",
+      "url": "https://www.counterpunch.org/2026/05/19/did-xi-really-trade-iran-for-taiwan/",
+      "source": "CounterPunch",
+      "publishedAt": "2026-05-19T06:00:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "From Bombs to Bargaining: Trump Calls Off Scheduled Strike on Iran at Last Minute",
+      "url": "https://www.naturalnews.com/2026-05-19-trump-calls-off-scheduled-strike-on-iran.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-19T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia’s nuclear forces kick off three-day readiness exercise, mobilizing 64,000 troops and more than 7,800 pieces of equipment",
+      "url": "https://www.naturalnews.com/2026-05-19-russias-nuclear-forces-kick-off-three-day-readiness-exercise.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-19T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US pauses joint defence effort with Canada that dates to WWII",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-pauses-joint-defence-effort-with-canada-that-dates-to-wwii/articleshow/131190692.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-19T05:02:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pakistan deploys 8,000 troops and air defense to Saudi Arabia",
+      "url": "https://peoplesreview.com.np/2026/05/19/pakistan-deploys-8000-troops-and-air-defense-to-saudi-arabia/",
+      "source": "Peoplesreview.com.np",
+      "publishedAt": "2026-05-19T04:45:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Protesting Attacks on Students, Colleges in Gaza, Lebanon, Iran",
+      "url": "https://www.juancole.com/2026/05/protesting-students-colleges.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-05-19T04:06:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Where do Russian and Chinese foreign policy interests align?",
       "url": "https://www.rt.com/news/640150-russian-chinese-foreign-policy/",
@@ -27,30 +155,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US attack on Iran paused, nuclear deal possible - Trump",
-      "url": "https://www.rte.ie/news/middle-east/2026/0519/1574049-iran-us/",
-      "source": "RTE",
-      "publishedAt": "2026-05-19T01:18:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Attack on Iran paused, nuclear deal possible - Trump",
-      "url": "https://www.rte.ie/news/middle-east/2026/0519/1574049-trump-iran-us/",
-      "source": "RTE",
-      "publishedAt": "2026-05-19T01:18:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump signals possible deal over Iran nuclear programme",
-      "url": "https://www.rte.ie/news/middle-east/2026/0519/1574049-middle-east/",
-      "source": "RTE",
-      "publishedAt": "2026-05-19T01:18:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Peace proposal includes reparations for war damage - Iran",
       "url": "https://www.rte.ie/news/middle-east/2026/0519/1574049-middle-east-trump/",
       "source": "RTE",
@@ -67,36 +171,20 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Iran's parliament 'is discussing putting a £43.5million bounty on Trump and Netanyahu'",
-      "url": "https://www.dailymail.com/news/article-15829237/Irans-parliament-discussing-bounty-Trump-Netanyahu.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-19T00:54:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump is really super serious about Iran this time, you guys!",
-      "url": "http://www.dailykos.com/stories/2026/5/18/800041009/news/trump-is-really-super-serious-about-iran-this-time-you-guys/",
-      "source": "Dailykos.com",
-      "publishedAt": "2026-05-19T00:01:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "After Hormuz: The Gulf in Search of a New Order",
       "url": "https://www.hoover.org/research/after-hormuz-gulf-search-new-order",
       "source": "Hoover.org",
       "publishedAt": "2026-05-19T00:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Minister Cohen to Arutz Sheva: If Iran rejects US dictates, a strike will happen",
       "url": "https://www.israelnationalnews.com/news/427282",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-05-18T23:15:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Lebanon death toll passes 3,000 in Israel-Hezbollah war despite truce extension - Haaretz",
@@ -107,28 +195,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Trump Claims He Cancelled Planned Attack on Iran at Request of Gulf States",
-      "url": "https://truthout.org/articles/trump-claims-he-cancelled-planned-attack-on-iran-at-request-of-gulf-states/",
-      "source": "Truthout",
-      "publishedAt": "2026-05-18T21:37:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Amid yet Another Corruption Scandal, US Congress Grants 1.3 Billion Military Aid to Kiev Neo-Nazi Regime, Despite President Trump’s Formal Objections",
       "url": "https://www.globalresearch.ca/amid-yet-another-corruption-scandal-us-congress-grants-1-3-billion-military-aid-to-kiev-neo-nazi-regime-despite-president-trumps-formal-objections/5926915",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-05-18T21:36:36Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Pakistan deploys 8,000 troops, jet squadron to Saudi Arabia as Iran war tensions escalate",
-      "url": "https://nypost.com/2026/05/18/world-news/pakistan-deploys-8000-troops-jet-squadron-to-saudi-arabia-as-iran-war-tensions-escalate/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-18T21:21:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "NATO would survive a US withdrawal. But what kind of alliance would it become?",
@@ -159,62 +231,6 @@
       "url": "https://www.pbs.org/newshour/world/lebanon-death-toll-tops-3000-in-latest-fighting-between-israel-and-hezbollah",
       "source": "PBS",
       "publishedAt": "2026-05-18T17:55:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
-      "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo",
-      "source": "BBC News",
-      "publishedAt": "2026-05-18T16:16:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Putin's drone schools for Ukrainian kids: How Russia 'is training brainwashed children to build UAV army that can take on the West'",
-      "url": "https://www.dailymail.com/news/article-15827487/Putins-drone-schools-Ukrainian-kids-Russia-training-brainwashed-children-build-UAV-army-West.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-18T15:03:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israeli attacks kill at least 7 in Lebanon despite ‘ceasefire’ extension",
-      "url": "https://www.aljazeera.com/news/2026/5/18/israeli-attacks-kill-at-least-7-in-lebanon-despite-ceasefire-extension",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-18T15:02:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Could Be Trump’s Greatest Failure",
-      "url": "http://foreignpolicy.com/2026/05/18/iran-war-trump-foreign-policy-failure-energy-crisis-military/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-18T14:52:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran Could Be Trump’s Greatest Failure",
-      "url": "http://foreignpolicy.com/2026/05/18/iran-war-donald-trump-failure-foreign-policy-energy-crisis-weapons-soft-power-aliances-united-states/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-18T14:52:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "More Wars and Rumors of Wars. Is There No End in Sight for the US and Iran?",
-      "url": "https://www.globalresearch.ca/more-wars-no-end-us-iran/5926750",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-18T14:09:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Lebanon president says he will do the 'impossible' to stop war with Israel",
-      "url": "https://www.channelnewsasia.com/world/lebanon-israel-strikes-president-says-do-impossible-stop-war-6128126",
-      "source": "CNA",
-      "publishedAt": "2026-05-18T14:02:28Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

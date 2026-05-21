@@ -1,7 +1,183 @@
 {
-  "updated": "2026-05-21T09:38:18Z",
-  "count": 33,
+  "updated": "2026-05-21T15:22:29Z",
+  "count": 39,
   "articles": [
+    {
+      "title": "Iran Warns Any New Strikes Could Widen War",
+      "url": "https://www.newser.com/story/389499/iran-warns-any-new-strikes-could-widen-war.html",
+      "source": "Newser",
+      "publishedAt": "2026-05-20T14:02:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How a secret US plan to install Ahmadinejad as Iran’s leader quickly fell apart",
+      "url": "https://www.irishtimes.comhttps://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html",
+      "source": "Irishtimes.comhttps",
+      "publishedAt": "2026-05-20T13:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lithuanians Cram Into Shelters Amid Drone Alert",
+      "url": "https://www.newser.com/story/389495/lithuanians-cram-into-shelters-amid-drone-alert.html",
+      "source": "Newser",
+      "publishedAt": "2026-05-20T12:52:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump and Netanyahu clash in 'dramatic' secret phone call over striking Iran as failed plot to topple Tehran regime is exposed",
+      "url": "https://www.dailymail.com/news/article-15834061/Trump-Netanyahu-clash-dramatic-secret-phone-call-striking-Iran-failed-plot-topple-Tehran-regime-exposed.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-20T12:29:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran warns war to extend beyond region if U.S., Israel repeat \"aggression\"",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260520-pdo01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-20T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
+      "url": "https://news.un.org/en/story/2026/05/1167556",
+      "source": "UN News",
+      "publishedAt": "2026-05-20T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "May 20: Iran warns against any new aggression as Pakistan ramps up diplomacy to end the war",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260520-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-20T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Qalibaf Warns US Seeking A 'New Round Of War'",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260520-rferl05.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-20T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Imports Raw Materials For Petrochemical Sector Damaged By War",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260520-rferl07.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-20T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says Negotiations In 'Final Stages,' Threatens Renewed Attacks If Iran Talks Collapse",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260520-rferl04.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-20T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "As Trump Speaks Of Renewed Iran Strikes, Strategic Dilemma Remains",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260520-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-20T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Ambiguity Is Dangerous': Don Bacon Warns Strains In Western Alliance Could Benefit Russia, Iran, And China",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260520-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-20T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Commander of Israel's 401st Armoured Brigade seriously injured in Hezbollah drone operation",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260520-presstv02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-20T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Flak jackets and final goodbyes: Lebanon's first responders under fire",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260520-unnews02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-20T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran threatens war 'beyond the region' if US attacks",
+      "url": "https://uk.news.yahoo.com/tankers-exit-hormuz-trump-vance-034440970.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-20T11:50:52Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "NATO jets scrambled, Lithuanian leaders moved to safe location after Ukraine war drone detected",
+      "url": "https://www.cbc.ca/news/world/lithuania-ukraine-russia-war-drone-incident-9.7205544",
+      "source": "CBC News",
+      "publishedAt": "2026-05-20T11:44:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "'Written in our DNA': Polish pilots who remember Soviet rule prepare for America's most lethal fighter jet",
+      "url": "https://www.foxnews.com/world/written-our-dna-polish-pilots-who-remember-soviet-rule-prepare-americas-most-lethal-fighter-jet",
+      "source": "Fox News",
+      "publishedAt": "2026-05-20T11:30:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO jets scrambled and prime minister and president moved to safe house as 'drone' is detected over Lithuania",
+      "url": "https://www.dailymail.com/news/article-15833875/NATO-jets-scrambled-prime-minister-president-moved-safe-house-drone-detected-Lithuania.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-20T11:24:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Can We Stop Donald Trump From Crashing Air America?",
+      "url": "https://tomdispatch.com/is-the-u-s-heading-toward-a-hard-landing/",
+      "source": "Tomdispatch.com",
+      "publishedAt": "2026-05-20T11:01:01Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "NATO top diplomats to review preparations for Ankara summit",
+      "url": "https://www.hurriyetdailynews.com/nato-top-diplomats-to-review-preparations-for-ankara-summit-222360",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-20T10:05:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Europe Remains Critical To Our Defense And To Securing The Free World",
+      "url": "https://www.forbes.com/sites/steveforbes/2026/05/20/europe-remains-critical-to-our-defense-and-to-securing-the-free-world/",
+      "source": "Forbes",
+      "publishedAt": "2026-05-20T10:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Residents of Lithuania's capital told to shelter amid drone alarm",
+      "url": "https://abcnews.com/International/wireStory/residents-lithuanias-capital-told-shelter-drone-alarm-underlines-133141160",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-20T09:40:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?",
       "url": "https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine",
@@ -9,14 +185,6 @@
       "publishedAt": "2026-05-20T08:45:12Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran warns it can spread war 'far beyond' the Middle East with 'devastating blows' if Israel and US resume attacks",
-      "url": "https://www.dailymail.com/news/article-15833463/Iran-warns-spread-war-far-Middle-East-devastating-blows-Israel-US-resume-attacks.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-20T08:36:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Could a soccer match help mend ties between North and South Korea?",
@@ -31,48 +199,16 @@
       "url": "https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline",
       "source": "Al Jazeera English",
       "publishedAt": "2026-05-20T07:16:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Chinese tankers exit Strait of Hormuz as Trump and Vance hint at progress on Iran deal",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/05/20/chinese-tankers-exit-strait-of-hormuz-as-trump-and-vance-hint-at-progress-on-iran-deal/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-20T06:58:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US, Iran trade threats, Trump says Tehran wants peace deal",
       "url": "https://www.hurriyetdailynews.com/us-iran-trade-threats-trump-says-tehran-wants-peace-deal-222346",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-05-20T06:05:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran-Linked Hackers Expose CIA-Mossad Charity Front",
-      "url": "https://www.naturalnews.com/2026-05-20-handala-hackers-reveal-cia-mossad-charity-front.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-20T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Presents Peace Proposal to Washington with Three Key Demands",
-      "url": "https://www.naturalnews.com/2026-05-20-iran-presents-peace-proposal-three-key-demands.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-20T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pentagon cuts Europe troop levels, delays Poland deployment in push for NATO burden sharing",
-      "url": "https://www.naturalnews.com/2026-05-20-pentagon-europe-troop-poland-deployment.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-20T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Is the U.S. Heading Toward a Hard Landing?",
@@ -81,14 +217,6 @@
       "publishedAt": "2026-05-20T05:55:57Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Michael McDowell: Trump accuses his opponents of treason. But it’s clear who the real traitor is",
-      "url": "https://www.irishtimes.com/opinion/2026/05/20/michael-mcdowell-trump-accuses-his-opponents-of-treason-but-its-clear-who-the-real-traitor-is/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-20T05:00:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Israeli strikes on southern Lebanon kill 19, including children and women, officials say",
@@ -103,8 +231,8 @@
       "url": "https://www.rte.ie/news/middle-east/2026/0520/1574242-middle-east-iran/",
       "source": "RTE",
       "publishedAt": "2026-05-20T04:19:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "What Can North Korea Tell Us about America’s Future?",
@@ -129,86 +257,6 @@
       "publishedAt": "2026-05-20T04:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "US Plans to Limit Military Aid Options for NATO Allies in Crises - Reports",
-      "url": "https://sputnikglobe.com/20260520/us-plans-to-limit-military-aid-options-for-nato-allies-in-crises---reports-1124153782.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-05-20T03:33:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Early Iran War Goal Was to Install Hard Line Former President {Ahmadinejad} as Iran’s Leader",
-      "url": "https://freerepublic.com/focus/f-news/4380112/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-20T03:13:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Doomer media’s Iran spin is blatantly wrong — here’s how to sort truth from lies",
-      "url": "https://nypost.com/2026/05/19/opinion/doomer-medias-iran-spin-is-blatantly-wrong-heres-how-to-sort-truth-from-lies/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-20T03:06:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US to reduce troops in Europe to 2021 levels, Pentagon says",
-      "url": "https://www.dw.com/en/us-to-reduce-troops-in-europe-to-2021-levels-pentagon-says/a-77222971",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-20T03:03:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Failure In Iran?",
-      "url": "http://www.powerlineblog.com/archives/2026/05/failure-in-iran.php",
-      "source": "Power Line",
-      "publishedAt": "2026-05-20T02:56:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "When Global Order Begins to Fracture",
-      "url": "https://www.activistpost.com/when-global-order-begins-to-fracture/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-05-20T02:01:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israeli air strikes kill 19 people in southern Lebanon",
-      "url": "https://english.khabarhub.com/2026/20/549684/",
-      "source": "Khabarhub.com",
-      "publishedAt": "2026-05-20T00:45:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Russia says Latvia could face retaliation despite NATO, drawing sharp US rebuke",
-      "url": "https://freerepublic.com/focus/f-news/4380085/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-19T23:58:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump says U.S. may strike Iran again but that Tehran wants deal",
-      "url": "https://japantoday.com/category/world/trump-says-us-may-strike-iran-again-but-that-tehran-wants-deal1",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-19T21:35:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran health bid fails at World Health Assembly as Lebanon proposal passes by wide margin - Geneva Solutions",
-      "url": "https://genevasolutions.news/global-health/iran-health-bid-fails-at-world-health-assembly-as-lebanon-proposal-passes-by-wide-margin",
-      "source": "Genevasolutions.news",
-      "publishedAt": "2026-05-19T19:42:56Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "There’s A New Suicide Drone On The Block, And America’s Enemies Are Salivating Over It",

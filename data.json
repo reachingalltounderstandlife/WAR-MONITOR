@@ -1,7 +1,135 @@
 {
-  "updated": "2026-05-21T03:35:13Z",
-  "count": 30,
+  "updated": "2026-05-21T09:38:18Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "Is Russia ‘simulating diplomacy’ because of war losses in Ukraine?",
+      "url": "https://www.aljazeera.com/news/2026/5/20/is-russia-simulating-diplomacy-because-of-war-losses-in-ukraine",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-20T08:45:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran warns it can spread war 'far beyond' the Middle East with 'devastating blows' if Israel and US resume attacks",
+      "url": "https://www.dailymail.com/news/article-15833463/Iran-warns-spread-war-far-Middle-East-devastating-blows-Israel-US-resume-attacks.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-20T08:36:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Could a soccer match help mend ties between North and South Korea?",
+      "url": "https://www.nbcnews.com/world/asia/soccer-match-help-mend-ties-north-south-korea-rcna344503",
+      "source": "NBC News",
+      "publishedAt": "2026-05-20T07:21:11Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran war day 82: Tehran warns of ‘new fronts’ as Trump sets deadline",
+      "url": "https://www.aljazeera.com/news/2026/5/20/iran-war-day-82-tehran-warns-of-new-fronts-as-trump-sets-deadline",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-20T07:16:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Chinese tankers exit Strait of Hormuz as Trump and Vance hint at progress on Iran deal",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/05/20/chinese-tankers-exit-strait-of-hormuz-as-trump-and-vance-hint-at-progress-on-iran-deal/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-20T06:58:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran trade threats, Trump says Tehran wants peace deal",
+      "url": "https://www.hurriyetdailynews.com/us-iran-trade-threats-trump-says-tehran-wants-peace-deal-222346",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-20T06:05:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran-Linked Hackers Expose CIA-Mossad Charity Front",
+      "url": "https://www.naturalnews.com/2026-05-20-handala-hackers-reveal-cia-mossad-charity-front.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-20T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Presents Peace Proposal to Washington with Three Key Demands",
+      "url": "https://www.naturalnews.com/2026-05-20-iran-presents-peace-proposal-three-key-demands.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-20T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pentagon cuts Europe troop levels, delays Poland deployment in push for NATO burden sharing",
+      "url": "https://www.naturalnews.com/2026-05-20-pentagon-europe-troop-poland-deployment.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-20T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Is the U.S. Heading Toward a Hard Landing?",
+      "url": "https://www.counterpunch.org/2026/05/20/is-the-u-s-heading-toward-a-hard-landing/",
+      "source": "CounterPunch",
+      "publishedAt": "2026-05-20T05:55:57Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Michael McDowell: Trump accuses his opponents of treason. But it’s clear who the real traitor is",
+      "url": "https://www.irishtimes.com/opinion/2026/05/20/michael-mcdowell-trump-accuses-his-opponents-of-treason-but-its-clear-who-the-real-traitor-is/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-20T05:00:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli strikes on southern Lebanon kill 19, including children and women, officials say",
+      "url": "https://economictimes.indiatimes.com/news/defence/israeli-strikes-on-southern-lebanon-kill-19-including-children-and-women-officials-say/articleshow/131216141.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-20T04:24:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Tankers exit Hormuz as Trump talks up Iran deal prospects",
+      "url": "https://www.rte.ie/news/middle-east/2026/0520/1574242-middle-east-iran/",
+      "source": "RTE",
+      "publishedAt": "2026-05-20T04:19:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What Can North Korea Tell Us about America’s Future?",
+      "url": "https://www.juancole.com/2026/05/north-americas-future.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-05-20T04:15:23Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Tankers exit Hormuz as Trump, Vance talk up Iran deal prospects",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/tankers-exit-hormuz-as-trump-vance-talk-up-iran-deal-prospects/articleshow/131216143.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-20T04:10:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Don’t get distracted by North Korea",
+      "url": "https://www.americanthinker.com/blog/2026/05/don_t_get_distracted_by_north_korea.html",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-05-20T04:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "US Plans to Limit Military Aid Options for NATO Allies in Crises - Reports",
       "url": "https://sputnikglobe.com/20260520/us-plans-to-limit-military-aid-options-for-nato-allies-in-crises---reports-1124153782.html",
@@ -67,14 +195,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Ukrainian drone shot down by NATO jet over Estonia; Kyiv blames Moscow for steering it there",
-      "url": "https://japantoday.com/category/world/ukrainian-drone-shot-down-by-nato-jet-over-estonia-kyiv-blames-moscow-for-steering-it-there2",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-19T21:36:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump says U.S. may strike Iran again but that Tehran wants deal",
       "url": "https://japantoday.com/category/world/trump-says-us-may-strike-iran-again-but-that-tehran-wants-deal1",
       "source": "Japan Today",
@@ -83,58 +203,10 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Commercial Oil Inventories Are “Depleting Very Fast” And Global Supply Chain Stress Is Spiking",
-      "url": "http://theeconomiccollapseblog.com/commercial-oil-inventories-are-depleting-very-fast-and-global-supply-chain-stress-is-spiking/",
-      "source": "Theeconomiccollapseblog.com",
-      "publishedAt": "2026-05-19T20:05:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Iran health bid fails at World Health Assembly as Lebanon proposal passes by wide margin - Geneva Solutions",
       "url": "https://genevasolutions.news/global-health/iran-health-bid-fails-at-world-health-assembly-as-lebanon-proposal-passes-by-wide-margin",
       "source": "Genevasolutions.news",
       "publishedAt": "2026-05-19T19:42:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Coffee Break: Armed Madhouse – Ukraine Drone Escalation Peril",
-      "url": "https://www.nakedcapitalism.com/2026/05/coffee-break-armed-madhouse-ukraine-drone-escalation-peril.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-19T18:00:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ann Coulter: Why I’m Never Rubio",
-      "url": "https://freerepublic.com/focus/f-news/4380035/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-19T17:31:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How a broke, outgunned nation turned cheap drones into the most feared weapon on Earth",
-      "url": "https://economictimes.indiatimes.com/news/international/us/how-a-broke-outgunned-nation-turned-cheap-drones-into-the-most-feared-weapon-on-earth/articleshow/131205252.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-19T17:28:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia warns of 'catastrophic' conflict with NATO after testing 'most powerful nuclear missile in the world'",
-      "url": "https://www.ladbible.com/news/world-news/russia-nato-potential-conflict-warning-putin-sarmat-missile-test-796700-20260519",
-      "source": "LADbible",
-      "publishedAt": "2026-05-19T17:03:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hezbollah drone wounds two in Israel as IDF strikes leave five dead in Lebanon",
-      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-05-19/ty-article/.premium/hezbollah-drone-wounds-two-in-israel-as-idf-strikes-leave-five-dead-in-lebanon/0000019e-407d-db68-a1de-ef7d7d2c0000",
-      "source": "Haaretz",
-      "publishedAt": "2026-05-19T16:37:40Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -145,30 +217,6 @@
       "publishedAt": "2026-05-19T16:32:21Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Trump says US may attack Iran within days",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/05/19/trump-says-us-may-attack-iran-within-days/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-19T16:14:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US pauses joint defense effort with Canada that dates to WWII",
-      "url": "https://abcnews.com/US/wireStory/us-pauses-joint-defense-effort-canada-dates-wwii-133087390",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-05-19T15:46:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump says US may attack Iran again but that Tehran wants deal",
-      "url": "https://www.yahoo.com/news/articles/trump-says-us-may-attack-iran-again-but-that-tehran-wants-deal-154216868.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-19T15:42:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Report: Iran Sends U.S. Revamped 'Peace Proposal' Demanding Reparations, No Nuclear Limits",
@@ -187,36 +235,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Trump leaves option to attack Iran on the table, but talks diplomacy",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-peace-deal-attack-possible/",
-      "source": "CBS News",
-      "publishedAt": "2026-05-19T11:23:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "What the Pentagon Didn’t Say About a Deadly Crash",
-      "url": "https://www.theatlantic.com/national-security/2026/05/iran-war-pentagon-crash-investigation/687068/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-05-19T11:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Links 5/19/2026",
       "url": "https://www.nakedcapitalism.com/2026/05/links-5-19-2026.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-05-19T10:59:26Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Iran says peace proposal includes reparations for war damage, US troop withdrawal",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-says-peace-proposal-includes-reparations-for-war-damage-us-troop-withdrawal/article70997102.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-05-19T09:19:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "The World Keeps Asking Iran the Wrong Question",

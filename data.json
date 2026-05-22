@@ -1,7 +1,71 @@
 {
-  "updated": "2026-05-21T19:51:33Z",
-  "count": 40,
+  "updated": "2026-05-22T03:33:46Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "Germany Becomes A Ukraine War Lab, and a Staging Ground For a Forever War On Russia",
+      "url": "https://www.activistpost.com/germany-becomes-a-ukraine-war-lab-and-a-staging-ground-for-a-forever-war-on-russia/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-05-21T02:47:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "China's Xi may visit North Korea as early as next week: Report",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-xi-may-visit-north-korea-as-early-as-next-week-report/articleshow/131238258.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-21T02:00:27Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Beijing and the war on Iran",
+      "url": "https://peoplesreview.com.np/2026/05/21/beijing-and-the-war-on-iran/",
+      "source": "Peoplesreview.com.np",
+      "publishedAt": "2026-05-21T01:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran warns any renewed conflict with the US could spread 'far beyond the Middle East'",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-warns-any-renewed-conflict-with-the-us-could-spread-far-beyond-the-middle-east/articleshow/131237892.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-21T00:47:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says willing to wait for a few days to get 'right answer' on Iran peace deal",
+      "url": "https://www.channelnewsasia.com/world/iran-war-trump-wait-right-answer-peace-deal-6132091",
+      "source": "CNA",
+      "publishedAt": "2026-05-20T22:23:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "F-15s, F-35, MQ-9 Reaper Drones: US Report Says 42 Aircraft Lost In Iran War",
+      "url": "https://freerepublic.com/focus/f-news/4380223/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-05-20T22:19:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says negotiations with Iran in final stages, warns of attacks if deal fails",
+      "url": "https://japantoday.com/category/world/trump-says-negotiations-with-iran-in-final-stages-warns-of-attacks-if-deal-fails1",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-20T21:37:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Ukraine and Russia Are Souring on U.S. Negotiations",
+      "url": "http://foreignpolicy.com/2026/05/20/ukraine-russia-war-negotiations-trump-europe/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-05-20T21:09:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Erdogan tells Trump that extending Iran ceasefire is positive, contested issues can be resolved",
       "url": "https://cryptobriefing.com/erdogan-trump-iran-ceasefire-extension/",
@@ -99,36 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "How a secret US plan to install Ahmadinejad as Iran’s leader quickly fell apart",
-      "url": "https://www.irishtimes.comhttps://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html",
-      "source": "Irishtimes.comhttps",
-      "publishedAt": "2026-05-20T13:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Lithuanians Cram Into Shelters Amid Drone Alert",
       "url": "https://www.newser.com/story/389495/lithuanians-cram-into-shelters-amid-drone-alert.html",
       "source": "Newser",
       "publishedAt": "2026-05-20T12:52:27Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump and Netanyahu clash in 'dramatic' secret phone call over striking Iran as failed plot to topple Tehran regime is exposed",
-      "url": "https://www.dailymail.com/news/article-15834061/Trump-Netanyahu-clash-dramatic-secret-phone-call-striking-Iran-failed-plot-topple-Tehran-regime-exposed.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-20T12:29:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran warns war to extend beyond region if U.S., Israel repeat \"aggression\"",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260520-pdo01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-20T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "'Ambiguity Is Dangerous': Don Bacon Warns Strains In Western Alliance Could Benefit Russia, Iran, And China",
@@ -139,14 +179,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "May 20: Iran warns against any new aggression as Pakistan ramps up diplomacy to end the war",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260520-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-20T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
       "url": "https://news.un.org/en/story/2026/05/1167556",
       "source": "UN News",
@@ -155,8 +187,8 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Flak jackets and final goodbyes: Lebanon's first responders under fire",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260520-unnews02.htm",
+      "title": "May 20: Iran warns against any new aggression as Pakistan ramps up diplomacy to end the war",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260520-presstv01.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-05-20T12:00:00Z",
       "_cat": "lebanon",
@@ -171,28 +203,20 @@
       "_label": "Lebanon"
     },
     {
+      "title": "Flak jackets and final goodbyes: Lebanon's first responders under fire",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260520-unnews02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-20T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
       "title": "Iran threatens war 'beyond the region' if US attacks",
       "url": "https://uk.news.yahoo.com/tankers-exit-hormuz-trump-vance-034440970.html",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-05-20T11:50:52Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "NATO jets scrambled, Lithuanian leaders moved to safe location after Ukraine war drone detected",
-      "url": "https://www.cbc.ca/news/world/lithuania-ukraine-russia-war-drone-incident-9.7205544",
-      "source": "CBC News",
-      "publishedAt": "2026-05-20T11:44:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "'Written in our DNA': Polish pilots who remember Soviet rule prepare for America's most lethal fighter jet",
-      "url": "https://www.foxnews.com/world/written-our-dna-polish-pilots-who-remember-soviet-rule-prepare-americas-most-lethal-fighter-jet",
-      "source": "Fox News",
-      "publishedAt": "2026-05-20T11:30:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Can We Stop Donald Trump From Crashing Air America?",
@@ -235,22 +259,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Israeli strikes on southern Lebanon kill 19, including children and women, officials say",
-      "url": "https://economictimes.indiatimes.com/news/defence/israeli-strikes-on-southern-lebanon-kill-19-including-children-and-women-officials-say/articleshow/131216141.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-20T04:24:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Tankers exit Hormuz as Trump talks up Iran deal prospects",
-      "url": "https://www.rte.ie/news/middle-east/2026/0520/1574242-middle-east-iran/",
-      "source": "RTE",
-      "publishedAt": "2026-05-20T04:19:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "What Can North Korea Tell Us about America’s Future?",
       "url": "https://www.juancole.com/2026/05/north-americas-future.html",
       "source": "Juancole.com",
@@ -265,62 +273,6 @@
       "publishedAt": "2026-05-20T04:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "There’s A New Suicide Drone On The Block, And America’s Enemies Are Salivating Over It",
-      "url": "https://dailycaller.com/2026/05/19/suicide-drones-cuba/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-05-19T16:32:21Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Report: Iran Sends U.S. Revamped 'Peace Proposal' Demanding Reparations, No Nuclear Limits",
-      "url": "https://www.breitbart.com/middle-east/2026/05/19/report-iran-sends-u-s-revamped-peace-proposal-demanding-reparations-no-nuclear-limits/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-05-19T15:15:25Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "What North Korea Can Tell Us About America’s Future",
-      "url": "https://www.thenation.com/article/world/north-korea-donald-trump-kim-jong-un/",
-      "source": "Thenation.com",
-      "publishedAt": "2026-05-19T14:06:35Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Links 5/19/2026",
-      "url": "https://www.nakedcapitalism.com/2026/05/links-5-19-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-19T10:59:26Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The World Keeps Asking Iran the Wrong Question",
-      "url": "http://foreignpolicy.com/2026/05/19/iran-politics-strategy-war-sanctions-hormuz/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-19T08:34:53Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The World Keeps Asking Iran the Wrong Question",
-      "url": "http://foreignpolicy.com/2026/05/19/the-world-keeps-asking-iran-the-wrong-question/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-19T08:34:53Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "After Hormuz: The Gulf in Search of a New Order",
-      "url": "https://www.hoover.org/research/after-hormuz-gulf-search-new-order",
-      "source": "Hoover.org",
-      "publishedAt": "2026-05-19T00:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

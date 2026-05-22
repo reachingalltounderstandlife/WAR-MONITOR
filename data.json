@@ -1,30 +1,182 @@
 {
-  "updated": "2026-05-22T09:20:21Z",
-  "count": 34,
+  "updated": "2026-05-22T14:36:22Z",
+  "count": 35,
   "articles": [
     {
-      "title": "Iran War: Trump-Netanyahu Dust-Up Over Negotiations – Bona Fide or Deception? Oil Speculators Cheer Three Supertankers Leaving Gulf, as Continued Bond and Financial Market Decline Seems Likely",
-      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-trump-netanyahu-dust-up-over-negotiations-bona-fide-or-deception-oil-speculators-cheer-three-supertankers-leaving-gulf-as-continued-bond-and-financial-market-decline-seems-likely.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-21T09:17:45Z",
+      "title": "How Jeffrey Goldberg weaponized Jewish trauma to pave the way for war with Iran",
+      "url": "https://mondoweiss.net/2026/05/how-jeffrey-goldberg-weaponized-jewish-trauma-to-pave-the-way-for-war-with-iran/",
+      "source": "Mondoweiss",
+      "publishedAt": "2026-05-21T14:18:38Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "RAPIDLY REBUILDING MILITARY",
+      "url": "https://www.cnn.com/2026/05/21/politics/iran-military-rebuild",
+      "source": "CNN",
+      "publishedAt": "2026-05-21T14:00:14Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "“Why Did So Many People Think This War Was a Good Idea?”",
-      "url": "https://www.thenation.com/article/world/iran-regime-change-fantasy/",
-      "source": "Thenation.com",
-      "publishedAt": "2026-05-21T09:00:01Z",
+      "title": "Trump's Iran Dilemma Can Only Be Delayed for So Long",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Trumps-Iran-Dilemma-Can-Only-Be-Delayed-for-So-Long.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-05-21T14:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran’s Diplomacy Gains Regional Backing Amid Netanyahu’s Push for War",
-      "url": "https://sputnikglobe.com/20260521/irans-diplomacy-gains-regional-backing-amid-netanyahus-push-for-war-1124165461.html",
+      "title": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
+      "url": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-21T13:31:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pentagon's Funds to Bankroll Iran War Likely to Dry Up During Sometime in Summer - Reports",
+      "url": "https://sputnikglobe.com/20260521/pentagons-funds-to-bankroll-iran-war-likely-to-dry-up-during-sometime-in-summer---reports-1124166910.html",
       "source": "Sputnikglobe.com",
-      "publishedAt": "2026-05-21T08:59:21Z",
+      "publishedAt": "2026-05-21T13:16:14Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "AI data center push is fueling new nuclear threat",
+      "url": "https://www.salon.com/2026/05/21/ai-data-center-push-is-fueling-new-nuclear-threat/",
+      "source": "Salon",
+      "publishedAt": "2026-05-21T13:00:56Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "US special ops veterans are teaching regular Ukrainians how to keep each other alive in a war that's 'just so blatantly civilian'",
+      "url": "https://www.businessinsider.com/us-special-ops-vets-train-ukraine-keep-each-other-alive-2026-5",
+      "source": "Business Insider",
+      "publishedAt": "2026-05-21T12:55:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A displaced Lebanese grandmother feeds thousands of compatriots who fled war",
+      "url": "https://abcnews.com/International/wireStory/displaced-lebanese-grandmother-feeds-thousands-compatriots-fled-war-133181751",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-21T12:54:28Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Latvians are told to find shelter and NATO jets are scrambled after drone is spotted - a day after similar alert saw thousands take cover in Lithuania",
+      "url": "https://www.dailymail.com/news/article-15837499/Latvians-told-shelter-NATO-jets-scrambled-drone-spotted-day-similar-alert-saw-thousands-cover-Lithuania.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-21T12:50:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Supreme Leader says enriched uranium must stay in Iran, Iranian sources say",
+      "url": "https://www.channelnewsasia.com/world/iran-supreme-leader-khamenei-enriched-uranium-6134021",
+      "source": "CNA",
+      "publishedAt": "2026-05-21T12:48:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The calm before the storm: Is the US preparing for another round of strikes on Iran?",
+      "url": "https://www.rt.com/news/640325-calm-before-storm-us-iran/",
+      "source": "RT",
+      "publishedAt": "2026-05-21T12:14:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine ups security as Russia holds nuclear strike drills with Belarus",
+      "url": "https://www.cbsnews.com/news/ukraine-russia-war-nuclear-weapons-belarus-exercises/",
+      "source": "CBS News",
+      "publishedAt": "2026-05-21T12:08:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump-Netanyahu turns tense, reveals US-Israel divide on Iran: Report",
+      "url": "https://www.globalsecurity.org/wmd/library/news/israel/2026/05/israel-260521-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-21T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US exhausts nearly half its THAAD stockpile shielding Israel from Iranian retaliation: Report",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260521-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-21T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IRGC Intelligence: US assumptions of 'easy and quick' operation against Iran proven false",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260521-presstv02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-21T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump, Rubio Warn Against Iranian Tolling System In Strait Of Hormuz",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260521-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-21T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ministry of Foreign Affairs delivers note to the Russian embassy regarding disinformation campaign against Estonia",
+      "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260521-estonia-mfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-21T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Budrys in Tallinn: Current air defence solutions are not sufficient - it is necessary to move towards systemic solutions that tmatch the scale of today's threats",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260521-lithuania-mfa03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-21T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Says the US’s Latest Proposal Has ‘Narrowed the Gaps’",
+      "url": "https://finance.yahoo.com/economy/policy/articles/iran-says-us-latest-proposal-092809063.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-21T11:22:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Links 5/21/2026",
+      "url": "https://www.nakedcapitalism.com/2026/05/links-5-21-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-21T10:55:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Former White House envoy has warning for Trump on how not to get played by Iran",
+      "url": "https://www.foxnews.com/politics/former-white-house-envoy-has-warning-trump-how-not-get-played-iran",
+      "source": "Fox News",
+      "publishedAt": "2026-05-21T10:10:33Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "‘Iron brothers’: How China and Pakistan built an unlikely 75-year bond",
+      "url": "https://www.aljazeera.com/features/2026/5/21/iron-brothers-how-china-and-pakistan-built-an-unlikely-75-year-bond",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-21T09:26:36Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Putin's nuclear build-up on NATO's doorstep: Russia transports nukes to Belarus as allies rehearse strikes on the West",
@@ -33,22 +185,6 @@
       "publishedAt": "2026-05-21T08:50:25Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Netanyahu 'beside himself with rage' after furious phone call with Trump over Iran war that left the Israeli leader 'with his hair on fire'",
-      "url": "https://www.dailymail.com/news/article-15836575/Netanyahu-rage-furious-phone-call-Trump-Iran-war-left-Israeli-leader-hair-fire.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-21T08:00:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel pushes for war amid US ceasefire, but its options may be limited",
-      "url": "https://www.aljazeera.com/news/2026/5/21/israel-pushes-for-war-amid-us-ceasefire-but-its-options-may-be-limited",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-21T07:59:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Norway Wants To Lead a “Viking Bloc” for Containing Russia in Northern Europe",
@@ -67,68 +203,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Ukrainian drone attack kills two in Russia",
-      "url": "https://www.rte.ie/news/ukraine/2026/0521/1574442-ukraine-russia/",
-      "source": "RTE",
-      "publishedAt": "2026-05-21T06:19:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran weighs US proposal to end war, as Trump awaits 'right answers'",
-      "url": "https://www.thejournal.ie/iran-weighs-us-proposal-to-end-war-as-trump-waits-for-right-answers-7046158-May2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-05-21T06:09:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "EU moves toward idea of talking to Russia",
-      "url": "https://www.irishtimes.com/world/2026/05/21/eu-moves-toward-idea-of-talking-to-russia-but-needs-to-decide-on-envoy-and-mandate/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-21T06:08:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran Warns of Wider Conflict If U.S. Launches New Attack",
-      "url": "https://www.naturalnews.com/2026-05-21-iran-warns-wider-conflict-us-new-attack.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-21T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Xi Jinping set to visit North Korea in bid to revive U.S. denuclearization talks",
       "url": "https://www.naturalnews.com/2026-05-21-xi-jinping-north-korea-denuclearization.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-05-21T06:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Europe faces stray Ukrainian drones as Kyiv targets Russian oil exports",
-      "url": "https://abcnews.com/International/wireStory/europe-faces-stray-ukrainian-drones-kyiv-targets-russian-133175689",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-05-21T05:50:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran weighs US offer as Trump says peace talks on 'borderline'",
-      "url": "https://www.hurriyetdailynews.com/iran-weighs-us-offer-as-trump-says-peace-talks-on-borderline-222385",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-21T05:50:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'World's most advanced fighter jet, most-expensive drone': US lost 42 aircraft worth $29 billion in Iran war in less than 2 months",
-      "url": "https://economictimes.indiatimes.com/news/defence/worlds-most-advanced-fighter-jet-most-expensive-drone-us-lost-42-aircraft-worth-29-billion-in-iran-war-in-less-than-2-months/articleshow/131239988.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-21T05:24:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Iran reviews latest US response as Trump suggests he can wait",
@@ -155,84 +235,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Germany Becomes A Ukraine War Lab, and a Staging Ground For a Forever War On Russia",
-      "url": "https://www.activistpost.com/germany-becomes-a-ukraine-war-lab-and-a-staging-ground-for-a-forever-war-on-russia/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-05-21T02:47:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "China's Xi may visit North Korea as early as next week: Report",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-xi-may-visit-north-korea-as-early-as-next-week-report/articleshow/131238258.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-21T02:00:27Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump says willing to wait for a few days to get 'right answer' on Iran peace deal",
-      "url": "https://www.channelnewsasia.com/world/iran-war-trump-wait-right-answer-peace-deal-6132091",
-      "source": "CNA",
-      "publishedAt": "2026-05-20T22:23:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump says negotiations with Iran in final stages, warns of attacks if deal fails",
-      "url": "https://japantoday.com/category/world/trump-says-negotiations-with-iran-in-final-stages-warns-of-attacks-if-deal-fails1",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-20T21:37:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Ukraine and Russia Are Souring on U.S. Negotiations",
-      "url": "http://foreignpolicy.com/2026/05/20/ukraine-russia-war-negotiations-trump-europe/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-20T21:09:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Erdogan tells Trump that extending Iran ceasefire is positive, contested issues can be resolved",
-      "url": "https://cryptobriefing.com/erdogan-trump-iran-ceasefire-extension/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-20T19:04:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage",
-      "url": "https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-20T15:34:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
-      "url": "https://news.un.org/en/story/2026/05/1167556",
-      "source": "UN News",
-      "publishedAt": "2026-05-20T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "May 20: Iran warns against any new aggression as Pakistan ramps up diplomacy to end the war",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260520-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-20T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Commander of Israel's 401st Armoured Brigade seriously injured in Hezbollah drone operation",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260520-presstv02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-20T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Can We Stop Donald Trump From Crashing Air America?",

@@ -1,7 +1,79 @@
 {
-  "updated": "2026-05-22T19:42:44Z",
-  "count": 35,
+  "updated": "2026-05-23T02:51:29Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "US pins hopes on mediator Pakistan in push to end Iran war",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-pins-hopes-on-mediator-pakistan-in-push-to-end-iran-war/articleshow/131255156.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-22T02:35:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hundreds of Gaza flotilla activists arrive in Turkey after deportation from Israel",
+      "url": "https://www.haaretz.com/israel-news/2026-05-22/ty-article-live/hundreds-of-gaza-flotilla-activists-arrive-in-turkey-after-israel-deportation/0000019e-4d64-d637-a99f-6ffe13980000",
+      "source": "Haaretz",
+      "publishedAt": "2026-05-22T02:04:54Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran has destroyed roughly $1 billion worth of US Reaper drones",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-has-destroyed-roughly-1-billion-worth-of-us-reaper-drones/articleshow/131254741.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-22T01:34:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Hasn’t Given Up on Greenland",
+      "url": "http://foreignpolicy.com/2026/05/21/trump-greenland-nato-ben-gvir-israel-gaza-qatar/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-05-21T22:00:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia flexes nuclear muscles as tensions rise with NATO",
+      "url": "https://japantoday.com/category/world/russia-flexes-nuclear-muscles-as-tensions-rise-with-nato3",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-21T21:45:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "EXCLUSIVE: European Officials Warn Trump Against Leaving NATO As US Weighs Its Own Priorities",
+      "url": "https://dailycaller.com/2026/05/21/russia-europe-allies-warn-donald-trump-threatens-nato-withdrawal/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-05-21T20:20:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli Minister’s Taunting of Detained Flotilla Activists Sparks Foreign Backlash",
+      "url": "http://foreignpolicy.com/2026/05/21/ben-gvir-video-israel-detained-activists-global-sumud-flotilla/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-05-21T20:15:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO Descends Into Circular Firing Squad As Members Fight Over Ukraine Funding",
+      "url": "https://dailycaller.com/2026/05/21/nato-fight-ukraine-funding/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-05-21T20:06:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s Endgame Is Surrender",
+      "url": "https://www.theatlantic.com/international/2026/05/trump-surrender-iran-endgame/687252/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-05-21T20:00:56Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "No, Russia’s Economy Is Not About to Collapse",
       "url": "http://foreignpolicy.com/2026/05/21/russia-ukraine-war-economy-putin-tooze/",
@@ -107,14 +179,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Friedrich Merz proposes ‘associate member’ status for Ukraine",
-      "url": "https://www.irishtimes.com/world/europe/2026/05/21/friedrich-merz-proposes-associate-member-status-for-ukraine/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-21T14:52:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Lebanese bury victims of deadliest Israeli strike since ceasefire was announced",
       "url": "https://www.cbc.ca/news/world/lebanon-israel-funeral-ceasefire-9.7207067",
       "source": "CBC News",
@@ -139,52 +203,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "RAPIDLY REBUILDING MILITARY",
-      "url": "https://www.cnn.com/2026/05/21/politics/iran-military-rebuild",
-      "source": "CNN",
-      "publishedAt": "2026-05-21T14:00:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump's Iran Dilemma Can Only Be Delayed for So Long",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/Trumps-Iran-Dilemma-Can-Only-Be-Delayed-for-So-Long.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-05-21T14:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Maths behind Hormuz toll: Is paying Iran for transit cheaper than blockade?",
-      "url": "https://www.aljazeera.com/features/2026/5/21/maths-behind-hormuz-toll-is-paying-iran-for-transit-cheaper-than-blockade",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-21T13:31:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pentagon's Funds to Bankroll Iran War Likely to Dry Up During Sometime in Summer - Reports",
-      "url": "https://sputnikglobe.com/20260521/pentagons-funds-to-bankroll-iran-war-likely-to-dry-up-during-sometime-in-summer---reports-1124166910.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-05-21T13:16:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "AI data center push is fueling new nuclear threat",
       "url": "https://www.salon.com/2026/05/21/ai-data-center-push-is-fueling-new-nuclear-threat/",
       "source": "Salon",
       "publishedAt": "2026-05-21T13:00:56Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "US special ops veterans are teaching regular Ukrainians how to keep each other alive in a war that's 'just so blatantly civilian'",
-      "url": "https://www.businessinsider.com/us-special-ops-vets-train-ukraine-keep-each-other-alive-2026-5",
-      "source": "Business Insider",
-      "publishedAt": "2026-05-21T12:55:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "A displaced Lebanese grandmother feeds thousands of compatriots who fled war",
@@ -195,26 +219,10 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Latvians are told to find shelter and NATO jets are scrambled after drone is spotted - a day after similar alert saw thousands take cover in Lithuania",
-      "url": "https://www.dailymail.com/news/article-15837499/Latvians-told-shelter-NATO-jets-scrambled-drone-spotted-day-similar-alert-saw-thousands-cover-Lithuania.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-21T12:50:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Supreme Leader says enriched uranium must stay in Iran, Iranian sources say",
       "url": "https://www.channelnewsasia.com/world/iran-supreme-leader-khamenei-enriched-uranium-6134021",
       "source": "CNA",
       "publishedAt": "2026-05-21T12:48:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Says the US’s Latest Proposal Has ‘Narrowed the Gaps’",
-      "url": "https://finance.yahoo.com/economy/policy/articles/iran-says-us-latest-proposal-092809063.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-21T11:22:12Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -239,46 +247,6 @@
       "url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-xi-may-visit-north-korea-as-early-as-next-week-report/articleshow/131238258.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-21T02:00:27Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Can We Stop Donald Trump From Crashing Air America?",
-      "url": "https://tomdispatch.com/is-the-u-s-heading-toward-a-hard-landing/",
-      "source": "Tomdispatch.com",
-      "publishedAt": "2026-05-20T11:01:01Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Could a soccer match help mend ties between North and South Korea?",
-      "url": "https://www.nbcnews.com/world/asia/soccer-match-help-mend-ties-north-south-korea-rcna344503",
-      "source": "NBC News",
-      "publishedAt": "2026-05-20T07:21:11Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Is the U.S. Heading Toward a Hard Landing?",
-      "url": "https://www.counterpunch.org/2026/05/20/is-the-u-s-heading-toward-a-hard-landing/",
-      "source": "CounterPunch",
-      "publishedAt": "2026-05-20T05:55:57Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "What Can North Korea Tell Us about America’s Future?",
-      "url": "https://www.juancole.com/2026/05/north-americas-future.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-05-20T04:15:23Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Don’t get distracted by North Korea",
-      "url": "https://www.americanthinker.com/blog/2026/05/don_t_get_distracted_by_north_korea.html",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-05-20T04:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

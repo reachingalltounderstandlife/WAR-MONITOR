@@ -1,7 +1,135 @@
 {
-  "updated": "2026-05-23T13:22:24Z",
-  "count": 31,
+  "updated": "2026-05-23T19:07:48Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "US Military Using More Missiles to Defend Israel than Israel Itself",
+      "url": "https://truthout.org/articles/us-military-using-more-missiles-to-defend-israel-than-israel-itself/",
+      "source": "Truthout",
+      "publishedAt": "2026-05-22T19:04:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Tulsi Gabbard resigns as Trump intelligence chief amid husband’s cancer diagnosis",
+      "url": "https://www.thehindubusinessline.com/news/world/tulsi-gabbard-resigns-as-trump-intelligence-chief-amid-husbands-cancer-diagnosis/article71012298.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-05-22T18:28:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Marco Rubio tries to reassure Nato allies over US troop deployments in Europe",
+      "url": "https://www.irishtimes.com/world/europe/2026/05/22/marco-rubio-tries-to-reassure-nato-allies-over-us-troop-deployments-in-europe/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-22T18:09:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Tulsi Gabbard resigns as director of national intelligence in US",
+      "url": "https://www.irishtimes.com/world/us/2026/05/22/tulsi-gabbard-resigns-as-director-of-national-intelligence-in-us/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-22T18:08:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Disused London Tube Platforms Double As NATO Command Centre in Exercise Arrcade Strike",
+      "url": "https://theaviationist.com/2026/05/22/disused-tube-platforms-command-centre-exercise-arrcade-strike/",
+      "source": "Theaviationist.com",
+      "publishedAt": "2026-05-22T17:02:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Xi’s Flurry of Post-Trump Diplomacy",
+      "url": "http://foreignpolicy.com/2026/05/22/xi-north-korea-putin-trump-beijing-visit/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-05-22T16:52:49Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "NATO allies bewildered by Trump's about-face on U.S. troop moves in Europe",
+      "url": "https://www.pbs.org/newshour/world/nato-allies-bewildered-by-trumps-about-face-on-u-s-troop-moves-in-europe",
+      "source": "PBS",
+      "publishedAt": "2026-05-22T16:43:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "At NATO meeting, Rubio embarks on another mission to ease tensions with allies",
+      "url": "https://www.pbs.org/newshour/world/at-nato-meeting-rubio-embarks-on-another-mission-to-ease-tensions-with-allies",
+      "source": "PBS",
+      "publishedAt": "2026-05-22T16:09:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Economic confidence plummets in US amid Iran war, poll shows",
+      "url": "https://www.aljazeera.com/news/2026/5/22/economic-confidence-plummets-in-us-amid-iran-war-poll-shows",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-22T15:44:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "President Trump Announces Deployment of Extra 5,000 Troops to NATO's Eastern Flank, Poland",
+      "url": "https://www.breitbart.com/europe/2026/05/22/trump-announces-extra-5000-troops-to-natos-eastern-flank-poland/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-05-22T15:31:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Blockade, blackmail, invade: Is the US preparing a military attack on Cuba?",
+      "url": "https://www.rt.com/news/640348-us-cuba-blockade-blackmail-invade/",
+      "source": "RT",
+      "publishedAt": "2026-05-22T15:20:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why North Korea Hasn’t Had Its Own ‘Reform and Opening’",
+      "url": "https://thediplomat.com/2026/05/why-north-korea-hasnt-had-its-own-reform-and-opening/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-05-22T14:44:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Russia’s Accuses Britain and France of Plotting the Provide Ukraine with Nuclear Weapons: “With Pleasure” Says Zelenski",
+      "url": "https://www.globalresearch.ca/russia-nuclear-britain-france-tensions-ukraine/5927163",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-22T14:18:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon army says soldiers loyal after US sanctions one over alleged Hezbollah links",
+      "url": "https://www.channelnewsasia.com/world/lebanon-army-says-soldiers-loyal-after-us-sanctions-one-over-alleged-hezbollah-links-6134326",
+      "source": "CNA",
+      "publishedAt": "2026-05-22T14:09:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Ukrainian protesters in Kyiv urge veto of a bill families fear could declare missing soldiers dead",
+      "url": "https://www.yahoo.com/news/world/articles/ukrainian-protesters-kyiv-urge-veto-135240625.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-22T13:52:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What Are Your Plans for Doomsday?",
+      "url": "https://www.fairobserver.com/world-news/what-are-your-plans-for-doomsday/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-05-22T13:46:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "FO Talks: The Stalled Tribunal — Is the ICC Afraid to Prosecute Israeli PM Benjamin Netanyahu?",
       "url": "https://www.fairobserver.com/world-news/fo-talks-the-stalled-tribunal-is-the-icc-afraid-to-prosecute-israeli-pm-benjamin-netanyahu/",
@@ -17,14 +145,6 @@
       "publishedAt": "2026-05-22T12:55:30Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Russia ‘looking for new soldiers’; Kyiv claims 83,000 dead so far in 2026",
-      "url": "https://www.aljazeera.com/news/2026/5/22/russia-falters-in-ukraine",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-22T12:46:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran’s Drones, Defense Base Being Restored ‘Faster Than Expected’ Amid Extended Ceasefire",
@@ -43,14 +163,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Britain's supply of drones would be exhausted within a week if Russia invaded NATO territory",
-      "url": "https://www.dailymail.com/news/article-15840229/Britains-supply-drones-exhausted-week-Russia-invaded-NATO-territory.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-22T12:00:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Yemen reaffirms support for Iran against any potential aggression",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260522-presstv06.htm",
       "source": "Globalsecurity.org",
@@ -67,46 +179,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Baiba Braže at the meeting of NATO Ministers of Foreign Affairs: A united, strong NATO is the best response to threats from Russia and others; Europe must do more for defence",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260522-latvia-mfa01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-22T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Rubio Defends US Troop Decisions, Chides NATO At Foreign Ministers' Meeting",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260522-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-22T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Nordic and Baltic foreign ministers condemn Russian disinformation campaign in joint statement",
-      "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260522-govno01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-22T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Statement of the Ministers of Foreign Affairs of the Nordic- Baltic countries on Russia's latest disinformation campaign",
-      "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260522-estonia-mfa01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-22T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Exclusive: US Asks Lithuania, Poland, Ukraine To Allow Belarusian Fertilizer Exports",
-      "url": "https://www.globalsecurity.org/wmd/library/news/belarus/2026/belarus-260522-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-22T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israeli strikes kill six paramedics in south Lebanon",
       "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260522-presstv01.htm",
       "source": "Globalsecurity.org",
@@ -115,44 +187,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Taiwan Anxiety Mounts After Trump-Xi Meeting",
-      "url": "https://oilprice.com/Energy/Energy-General/Taiwan-Anxiety-Mounts-After-Trump-Xi-Meeting.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-05-22T11:30:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "‘Something big taking place’: Why has Russia sent more nukes to Belarus?",
-      "url": "https://www.aljazeera.com/news/2026/5/22/too-big-a-risk-why-has-russia-sent-nuclear-warheads-to-belarus",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-22T11:06:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Links 5/22/2026",
-      "url": "https://www.nakedcapitalism.com/2026/05/links-5-22-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-22T10:58:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran War: Quelle Surprise! Vanishingly Unlikely “Deal” Visibly Falling Apart as US Consumer Spending Crumbling",
-      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-quelle-surprise-vanishingly-unlikely-deal-visibly-falling-apart-as-us-consumer-spending-crumbling.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-22T10:54:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "News24 | Iran Supreme Leader Ayatollah Khamenei defies Trump on highly enriched uranium stockpile",
       "url": "https://www.news24.com/world/iran-supreme-leader-ayatollah-khamenei-defies-trump-on-highly-enriched-uranium-stockpile-20260522-0629",
       "source": "News24",
       "publishedAt": "2026-05-22T10:51:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "'Some Good Signs,' But Big 'Gaps' As Fitful US-Iran Negotiations Struggle On",
@@ -167,8 +207,8 @@
       "url": "https://www.hurriyetdailynews.com/us-pins-hopes-on-mediator-pakistan-in-push-to-end-iran-war-222423",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-05-22T06:39:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Race for an agreement with Iran: Pakistan takes a key role, cautious optimism from the US",
@@ -177,14 +217,6 @@
       "publishedAt": "2026-05-22T06:20:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Roaming Charges: Peanuts From Heaven",
-      "url": "https://www.counterpunch.org/2026/05/22/roaming-charges-peanuts-from-heaven/",
-      "source": "CounterPunch",
-      "publishedAt": "2026-05-22T06:00:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "US pins hopes on mediator Pakistan in push to end Iran war",
@@ -199,14 +231,6 @@
       "url": "https://www.haaretz.com/israel-news/2026-05-22/ty-article-live/hundreds-of-gaza-flotilla-activists-arrive-in-turkey-after-israel-deportation/0000019e-4d64-d637-a99f-6ffe13980000",
       "source": "Haaretz",
       "publishedAt": "2026-05-22T02:04:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump’s Endgame Is Surrender",
-      "url": "https://www.theatlantic.com/international/2026/05/trump-surrender-iran-endgame/687252/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-05-21T20:00:56Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

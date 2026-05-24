@@ -1,7 +1,87 @@
 {
-  "updated": "2026-05-23T19:07:48Z",
-  "count": 34,
+  "updated": "2026-05-24T03:30:44Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "News Summary-Intelligence Report 5/22/2026*Newsdump Friday Holiday*Former Epstein Aide Accuses 3 Men*Iran Tensions*Record High Dow*Deadly Attack On Russian School*Trump At White House*Tulsi Gabbard Resigns*More Killed Lebanon*",
+      "url": "https://freerepublic.com/focus/f-bloggers/4380587/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-05-23T03:28:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pakistan army chief in Tehran as Iran weighs US peace offer",
+      "url": "https://economictimes.indiatimes.com/news/defence/pakistan-army-chief-in-tehran-as-iran-weighs-us-peace-offer/articleshow/131271076.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-23T02:27:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. prepares for new military strikes against Iran",
+      "url": "https://freerepublic.com/focus/f-news/4380570/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-05-23T01:10:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "British soldiers rehearse for war with Putin from disused London Underground platform",
+      "url": "https://www.dailymail.com/news/article-15842303/British-soldiers-rehearse-war-Putin-London-Underground.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-23T00:31:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pyongyang Recalibrates: North Korea Between Russia, the United States, and Japan",
+      "url": "https://thediplomat.com/2026/05/pyongyang-recalibrates-north-korea-between-russia-the-united-states-and-japan/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-05-22T22:55:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea's powerhouse women footballers are in Seoul to fight for title",
+      "url": "https://www.bbc.com/news/articles/cewpz05k941o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-05-22T22:01:04Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Tulsi Gabbard's wild ride from Democratic star to Trump's top spy... before she was frozen out, allegedly spied on by her own CIA and sparked a crisis for a 2028 candidate",
+      "url": "https://www.dailymail.com/news/article-15841949/Tulsi-Gabbards-wild-ride-Democratic-star-Trumps-spy-frozen-allegedly-spied-CIA-sparked-crisis-2028-candidate.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-22T21:58:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The war in Ukraine has become the world’s largest live test of autonomous drone warfare — and what both sides have learned in four years is quietly rewriting how every military on Earth thinks about the future of combat",
+      "url": "https://spacedaily.com/n-the-war-in-ukraine-has-become-the-worlds-largest-live-test-of-autonomous-drone-warfare-and-what-both-sides-have-learned-in-four-years-is-quietly-rewriting-how-every-military-on-earth-thinks/",
+      "source": "Space Daily",
+      "publishedAt": "2026-05-22T21:22:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Tulsi Gabbard resigns as US director of national intelligence, citing husband's cancer diagnosis",
+      "url": "https://www.thejournal.ie/tulsi-gabbard-resigns-as-us-director-of-national-intelligence-7048653-May2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-05-22T21:09:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pakistan’s army chief in Iran as US’s Rubio says ‘slight progress’ in talks",
+      "url": "https://www.aljazeera.com/news/2026/5/22/pakistans-army-chief-in-iran-as-uss-rubio-says-slight-progress-in-talks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-22T19:11:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US Military Using More Missiles to Defend Israel than Israel Itself",
       "url": "https://truthout.org/articles/us-military-using-more-missiles-to-defend-israel-than-israel-itself/",
@@ -99,14 +179,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Russia’s Accuses Britain and France of Plotting the Provide Ukraine with Nuclear Weapons: “With Pleasure” Says Zelenski",
-      "url": "https://www.globalresearch.ca/russia-nuclear-britain-france-tensions-ukraine/5927163",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-22T14:18:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Lebanon army says soldiers loyal after US sanctions one over alleged Hezbollah links",
       "url": "https://www.channelnewsasia.com/world/lebanon-army-says-soldiers-loyal-after-us-sanctions-one-over-alleged-hezbollah-links-6134326",
       "source": "CNA",
@@ -115,28 +187,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Ukrainian protesters in Kyiv urge veto of a bill families fear could declare missing soldiers dead",
-      "url": "https://www.yahoo.com/news/world/articles/ukrainian-protesters-kyiv-urge-veto-135240625.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-22T13:52:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "What Are Your Plans for Doomsday?",
       "url": "https://www.fairobserver.com/world-news/what-are-your-plans-for-doomsday/",
       "source": "Fair Observer",
       "publishedAt": "2026-05-22T13:46:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "FO Talks: The Stalled Tribunal — Is the ICC Afraid to Prosecute Israeli PM Benjamin Netanyahu?",
-      "url": "https://www.fairobserver.com/world-news/fo-talks-the-stalled-tribunal-is-the-icc-afraid-to-prosecute-israeli-pm-benjamin-netanyahu/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-05-22T13:21:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Israeli strikes in Lebanon kill 3,089, complicating diplomatic efforts",
@@ -145,38 +201,6 @@
       "publishedAt": "2026-05-22T12:55:30Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Iran’s Drones, Defense Base Being Restored ‘Faster Than Expected’ Amid Extended Ceasefire",
-      "url": "https://www.shtfplan.com/war/irans-drones-defense-base-being-restored-faster-than-expected-amid-extended-ceasefire",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-05-22T12:30:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "UAE Joins Saudis, Qatar in Urging Trump Not to Restart Iran War",
-      "url": "https://financialpost.com/pmn/business-pmn/uae-joins-saudis-qatar-in-urging-trump-not-to-restart-iran-war",
-      "source": "Financial Post",
-      "publishedAt": "2026-05-22T12:08:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Yemen reaffirms support for Iran against any potential aggression",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260522-presstv06.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-22T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Senior UAE Official To RFE/RL: Restart Of Iran War Would Be 'Catastrophic'",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260522-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-22T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Israeli strikes kill six paramedics in south Lebanon",
@@ -225,54 +249,6 @@
       "publishedAt": "2026-05-22T02:35:46Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Hundreds of Gaza flotilla activists arrive in Turkey after deportation from Israel",
-      "url": "https://www.haaretz.com/israel-news/2026-05-22/ty-article-live/hundreds-of-gaza-flotilla-activists-arrive-in-turkey-after-israel-deportation/0000019e-4d64-d637-a99f-6ffe13980000",
-      "source": "Haaretz",
-      "publishedAt": "2026-05-22T02:04:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "How Jeffrey Goldberg weaponized Jewish trauma to pave the way for war with Iran",
-      "url": "https://mondoweiss.net/2026/05/how-jeffrey-goldberg-weaponized-jewish-trauma-to-pave-the-way-for-war-with-iran/",
-      "source": "Mondoweiss",
-      "publishedAt": "2026-05-21T14:18:38Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "AI data center push is fueling new nuclear threat",
-      "url": "https://www.salon.com/2026/05/21/ai-data-center-push-is-fueling-new-nuclear-threat/",
-      "source": "Salon",
-      "publishedAt": "2026-05-21T13:00:56Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "‘Iron brothers’: How China and Pakistan built an unlikely 75-year bond",
-      "url": "https://www.aljazeera.com/features/2026/5/21/iron-brothers-how-china-and-pakistan-built-an-unlikely-75-year-bond",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-21T09:26:36Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Xi Jinping set to visit North Korea in bid to revive U.S. denuclearization talks",
-      "url": "https://www.naturalnews.com/2026-05-21-xi-jinping-north-korea-denuclearization.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-21T06:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "China's Xi may visit North Korea as early as next week: Report",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-xi-may-visit-north-korea-as-early-as-next-week-report/articleshow/131238258.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-21T02:00:27Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

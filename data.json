@@ -1,7 +1,79 @@
 {
-  "updated": "2026-05-25T14:51:26Z",
-  "count": 28,
+  "updated": "2026-05-25T19:27:56Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Trump's deal making leaves Iran in the driver's seat and Israel more vulnerable",
+      "url": "https://www.abc.net.au/news/2026-05-25/tingle-trump-deal-iran-war-israel-vulnerable/106716792",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-24T19:24:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes kill six in southern Lebanon, amid fresh evacuation orders",
+      "url": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-24T19:09:33Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Blasts ‘Losers’ Criticizing Potential Iran Deal After Republican Uproar",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/05/24/trump-blasts-losers-criticizing-potential-iran-deal-after-republican-uproar/",
+      "source": "Forbes",
+      "publishedAt": "2026-05-24T19:01:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Ukraine’s battlefield is transforming the future of NATO",
+      "url": "https://www.foxnews.com/world/ukraines-battlefield-transforming-future-nato",
+      "source": "Fox News",
+      "publishedAt": "2026-05-24T18:35:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hezbollah chief says hopes for Iran-US deal and that it includes Lebanon",
+      "url": "https://economictimes.indiatimes.com/news/defence/hezbollah-chief-says-hopes-for-iran-us-deal-and-that-it-includes-lebanon/articleshow/131295385.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-24T17:48:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Negotiations as Strategy: Moscow’s Window of Opportunity in Ukraine",
+      "url": "https://www.fairobserver.com/region/europe/negotiations-as-strategy-moscows-window-of-opportunity-in-ukraine/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-05-24T16:22:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Exposing the Iran War Hype: Lessons from a One-Sided Debate with Naomi Wolf",
+      "url": "https://www.activistpost.com/exposing-the-iran-war-hype-lessons-from-a-one-sided-debate-with-naomi-wolf/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-05-24T16:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes kill four in Lebanon as Hezbollah fire on northern Israel continues",
+      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-05-24/ty-article/.premium/israeli-strikes-kill-four-in-lebanon-as-hezbollah-fire-on-israel-continues/0000019e-5954-d394-addf-fb7ef5c20000",
+      "source": "Haaretz",
+      "publishedAt": "2026-05-24T15:51:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Republicans Attack Each Other Over Possible Iran Deal: What We Know",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/05/24/republicans-attack-each-other-over-possible-iran-deal-what-we-know/",
+      "source": "Forbes",
+      "publishedAt": "2026-05-24T15:08:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "US and Iran could strike a deal to end the war shortly",
       "url": "https://www.thejournal.ie/us-and-iran-could-strike-deal-to-end-war-shortly-7050182-May2026/",
@@ -43,16 +115,16 @@
       "_label": "Iran War"
     },
     {
-      "title": "Bahrain Sentences 9 To Life In Prison For Alleged Collaboration With IRGC",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-rferl05.htm",
+      "title": "Enemy fired 2,100 projectiles at Abu Musa island during war but failed to break Iran's resolve: IRGC advisor",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-presstv02.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-05-24T12:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Enemy fired 2,100 projectiles at Abu Musa island during war but failed to break Iran's resolve: IRGC advisor",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-presstv02.htm",
+      "title": "Bahrain Sentences 9 To Life In Prison For Alleged Collaboration With IRGC",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-rferl05.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-05-24T12:00:00Z",
       "_cat": "iran",
@@ -135,8 +207,8 @@
       "url": "https://www.hurriyetdailynews.com/us-iran-seek-to-finalize-largely-negotiated-deal-to-end-war-222466",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-05-24T06:39:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran rejects Rubio's claims, blames US sanctions for global energy crisis",
@@ -147,68 +219,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Iran Deal? Reports Say 'Yes'",
-      "url": "https://freerepublic.com/focus/f-news/4380718/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-24T04:41:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "It's looking as if the Iran War may end soon",
-      "url": "https://www.americanthinker.com/blog/2026/05/it_s_looking_as_if_the_iran_war_may_end_soon.html",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-05-24T04:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says deal 'negotiated' but Iran disputes terms",
-      "url": "https://www.rte.ie/news/world/2026/0524/1574953-us-iran-negotiations/",
-      "source": "RTE",
-      "publishedAt": "2026-05-24T03:59:59Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "A $2.89 trillion military surge signals the sharpest global arms buildup since WWII",
       "url": "https://economictimes.indiatimes.com/news/defence/world-order-shift-global-arms-race-2025-defence-spending-geopolitics-military-budget/articleshow/131288160.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-24T03:19:17Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Warmonger Lindsey Graham Attacks Trump as He Seeks to End War in Iran",
-      "url": "https://www.thegatewaypundit.com/2026/05/warmonger-lindsey-graham-attacks-trump-as-he-seeks/",
-      "source": "Thegatewaypundit.com",
-      "publishedAt": "2026-05-23T22:40:56Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel hits Lebanon as Hezbollah says Iran won't abandon group",
-      "url": "https://japantoday.com/category/world/lebanon-says-israeli-strike-on-army-barracks-wounded-soldier",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-23T21:30:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "My phone was hacked by Moscow, says Farage: 'Deeply concerned' Reform leader claims Russian spies leaked details of £5million gift that could lead to ban from Commons",
-      "url": "https://www.dailymail.com/news/article-15843629/phone-hacked-Moscow-Farage-Reform-Russian-spies-5million-gift.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-23T21:27:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump-Netanyahu set to speak as Iran peace deal is ‘fine-tuned’",
-      "url": "https://nypost.com/2026/05/23/world-news/trump-netanyahu-set-to-speak-as-iran-peace-deal-is-fine-tuned/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-23T19:45:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Iran's UN envoy rejects US allegations about drone attack on UAE nuclear plant",

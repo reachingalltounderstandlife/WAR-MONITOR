@@ -1,7 +1,79 @@
 {
-  "updated": "2026-05-25T10:03:08Z",
-  "count": 27,
+  "updated": "2026-05-25T14:51:26Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "US and Iran could strike a deal to end the war shortly",
+      "url": "https://www.thejournal.ie/us-and-iran-could-strike-deal-to-end-war-shortly-7050182-May2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-05-24T14:09:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Will a Major War Soon Break Out Along the Newly Tense Latvian-Belarusian-Ukrainian Front?",
+      "url": "https://www.globalresearch.ca/war-latvian-belarusian-ukrainian-front/5927301",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-24T13:45:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Details of potential U.S.-Iran deal begin to emerge after Trump announces progress",
+      "url": "https://www.cbc.ca/news/world/details-emerge-us-deal-with-iran-9.7210359",
+      "source": "CBC News",
+      "publishedAt": "2026-05-24T13:08:59Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Leader's strategies for Persian Gulf, Hormuz Strait to ensure future of region: Top general",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-presstv09.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-24T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran's embassy says US shifting blame after Rubio accuses Tehran of threatening energy market",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-presstv10.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-24T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Bahrain Sentences 9 To Life In Prison For Alleged Collaboration With IRGC",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-rferl05.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-24T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Enemy fired 2,100 projectiles at Abu Musa island during war but failed to break Iran's resolve: IRGC advisor",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-presstv02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-24T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Details of potential US-Iran deal begin to emerge after Trump announces progress",
+      "url": "https://abcnews.com/US/wireStory/details-potential-us-iran-deal-begin-emerge-after-133264607",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-24T11:00:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Russia moves four satellites to close gap with commercial radar satellite delivering intelligence to Ukraine, while fifth satellite makes similar move — US officials believe some of them to be part of an anti-satellite weapons program",
+      "url": "https://www.tomshardware.com/tech-industry/russia-moves-four-satellites-to-close-gap-with-commercial-radar-satellite-delivering-intelligence-to-ukraine-while-fifth-satellite-makes-similar-move-us-officials-believe-some-of-them-to-be-part-of-an-anti-satellite-weapons-program",
+      "source": "Tom's Hardware UK",
+      "publishedAt": "2026-05-24T11:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Russia Launches Largest Missile Attack Against Kiev of War",
       "url": "https://www.nakedcapitalism.com/2026/05/russia-launches-largest-missile-attack-against-kiev-of-war.html",
@@ -95,32 +167,8 @@
       "url": "https://www.rte.ie/news/world/2026/0524/1574953-us-iran-negotiations/",
       "source": "RTE",
       "publishedAt": "2026-05-24T03:59:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran Deal Calls for 60-Day Ceasefire Extension - Reports",
-      "url": "https://sputnikglobe.com/20260524/us-iran-deal-calls-for-60-day-ceasefire-extension---reports-1124178614.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-05-24T03:57:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran retaliates after US-Israel strikes kill Ayatollah Khamenei",
-      "url": "https://cryptobriefing.com/iran-retaliates-after-us-israel-strikes-kill-ayatollah-khamenei/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-24T03:43:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Timeline of Iran war from strikes that killed Ayatollah Khamenei to deal that capped day of frenzied negotiations",
-      "url": "https://nypost.com/2026/05/23/world-news/timeline-of-iran-war-from-strikes-that-killed-ayatollah-ali-khamenei-to-negotiated-deal/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-24T03:38:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "A $2.89 trillion military surge signals the sharpest global arms buildup since WWII",
@@ -129,14 +177,6 @@
       "publishedAt": "2026-05-24T03:19:17Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US Delays Tomahawk Delivery to Japan by Up to 2 Years – Report",
-      "url": "https://sputnikglobe.com/20260524/us-delays-tomahawk-delivery-to-japan-by-up-to-2-years--report-1124179022.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-05-24T03:18:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Warmonger Lindsey Graham Attacks Trump as He Seeks to End War in Iran",
@@ -169,38 +209,6 @@
       "publishedAt": "2026-05-23T19:45:15Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Israel hits Lebanon as Hezbollah says Iran won't abandon group",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-hits-lebanon-as-hezbollah-says-iran-wont-abandon-group/articleshow/131284458.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-23T18:11:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Drones strike north Israel as Lebanon says 12 killed by IDF strikes in 24 hours",
-      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-05-23/ty-article/.premium/drones-strike-north-israel-as-lebanon-says-12-killed-by-idf-strikes-in-24-hours/0000019e-55a2-d6c6-a5df-7df6c7410000",
-      "source": "Haaretz",
-      "publishedAt": "2026-05-23T18:04:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US Embassy warns of potential large-scale attack on Ukraine within 24 hours",
-      "url": "https://cryptobriefing.com/us-embassy-warns-ukraine-attack/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-23T17:24:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "$108 Million Band-Aid: Why America’s Cold War Relic – THE HAWK SYSTEM – Is Being Sent to Ukraine",
-      "url": "https://www.shtfplan.com/war/108-million-band-aid-why-americas-cold-war-relic-the-hawk-system-is-being-sent-to-ukraine",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-05-23T17:00:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran's UN envoy rejects US allegations about drone attack on UAE nuclear plant",

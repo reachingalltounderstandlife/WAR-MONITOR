@@ -1,14 +1,102 @@
 {
-  "updated": "2026-05-26T15:23:36Z",
-  "count": 30,
+  "updated": "2026-05-26T20:07:35Z",
+  "count": 32,
   "articles": [
     {
-      "title": "IDF begins strikes in Tyre",
-      "url": "https://www.israelnationalnews.com/flashes/686181",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-25T15:05:00Z",
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "url": "https://www.bbc.com/news/articles/cewppdk1187o",
+      "source": "BBC News",
+      "publishedAt": "2026-05-25T19:46:54Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "Benjamin Netanyahu says Israel will intensify strikes against Hezbollah",
+      "url": "https://www.bbc.co.uk/news/articles/cewppdk1187o",
+      "source": "BBC News",
+      "publishedAt": "2026-05-25T19:46:54Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel launches Operation Arrows of Fire, prompting evacuations in Beirut",
+      "url": "https://cryptobriefing.com/israel-operation-arrows-of-fire-beirut/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-25T19:46:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IDF strikes over 70 Hezbollah sites in Lebanon amid rising tensions",
+      "url": "https://cryptobriefing.com/idf-strikes-over-70-hezbollah-sites-in-lebanon-amid-rising-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-25T19:46:02Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IDF escalates conflict with strikes on 70 Hezbollah sites in Lebanon",
+      "url": "https://cryptobriefing.com/idf-escalates-conflict-with-strikes-on-70-hezbollah-sites-in-lebanon/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-25T19:46:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli bombardment of Lebanon escalates tensions, complicates peace talks",
+      "url": "https://cryptobriefing.com/israeli-bombardment-of-lebanon-escalates-tensions-complicates-peace-talks/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-25T19:26:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "In Lebanon, everything and nothing has changed since 2000",
+      "url": "https://www.aljazeera.com/opinions/2026/5/25/in-lebanon-everything-and-nothing-has-changed-since-2000",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-25T18:56:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Jason H. Campbell: US Is Taking The ‘Least Bad’ Option In Iran Conflict",
+      "url": "https://www.rferl.org/a/iran-us-conflict-peace-deal/33764611.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-05-25T18:55:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes southern Lebanon as far-right ministers call for escalation",
+      "url": "https://www.digitaljournal.com/world/israel-strikes-southern-lebanon-as-far-right-ministers-call-for-escalation/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-05-25T18:52:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel prepares wider strikes as Lebanon toll rises, Hezbollah drones hit north",
+      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-05-25/ty-article/.premium/israel-prepares-wider-strikes-as-lebanon-toll-rises-hezbollah-drones-hit-north/0000019e-601f-d66e-a99f-66bf53080000",
+      "source": "Haaretz",
+      "publishedAt": "2026-05-25T18:51:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Pope demands AI weapons be ‘disarmed’",
+      "url": "https://www.rt.com/news/640547-pope-ai-weapons-warning/",
+      "source": "RT",
+      "publishedAt": "2026-05-25T15:26:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Britain Again Complains Government Jet's GPS Guidance Jammed by Russia",
+      "url": "https://www.breitbart.com/europe/2026/05/25/britain-again-complains-government-jets-gps-guidance-jammed-by-russia/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-05-25T15:26:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Iran Sends Negotiators to Qatar, Complaining That U.S. Demands Are 'Excessive'",
@@ -33,14 +121,6 @@
       "publishedAt": "2026-05-25T13:49:10Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran's top envoys discussing potential peace deal with Qatar prime minister, official says",
-      "url": "https://economictimes.indiatimes.com/news/international/uae/irans-top-envoys-discussing-potential-peace-deal-with-qatar-prime-minister-official-says/articleshow/131310922.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-25T13:38:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Will China Really Invade Taiwan In The Next Five Years?",
@@ -99,22 +179,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Hezbollah destroys Israel's two more Merkava tanks in southern Lebanon",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260525-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-25T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Official: Hezbollah will not engage in confrontation with Lebanese army",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260525-presstv02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-25T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Trump says he 'laughs at fools who know nothing about my potential deal with Iran' and vows it will be 'exact opposite' of Obama's 'disaster'",
       "url": "https://www.dailymail.com/news/article-15846551/Trump-says-laughs-fools-know-potential-deal-Iran-vows-exact-opposite-Obamas-disaster.html",
       "source": "Dailymail.com",
@@ -123,12 +187,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Reuters: Netanyahu told associates he has “limited ability” to influence Trump on Iran",
-      "url": "https://en.protothema.gr/2026/05/25/reuters-netanyahu-told-associates-he-has-limited-ability-to-influence-trump-on-iran/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-05-25T11:14:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "Europe Is Slowly Getting Ready to Ditch America",
+      "url": "http://foreignpolicy.com/2026/05/25/europe-united-states-troops-germany-poland-nato-security-trans-atlantic-alliance/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-05-25T11:00:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Europe Is Slowly Getting Ready to Ditch America",
@@ -143,32 +207,8 @@
       "url": "https://www.nakedcapitalism.com/2026/05/iran-war-trump-claimed-agreement-coming-apart-as-iran-sticks-to-long-held-positions-and-republican-stalwarts-rebel-experts-argue-it-may-be-only-to-temporize.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-05-25T10:54:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "News24 | Lebanon won’t accept Israel occupation, President Aoun vows as Rubio condemns Hezbollah",
-      "url": "https://www.news24.com/world/lebanon-wont-accept-israel-occupation-president-aoun-vows-as-rubio-condemns-hezbollah-20260525-0527",
-      "source": "News24",
-      "publishedAt": "2026-05-25T10:50:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ben Gvir: Cut off electricity in Lebanon",
-      "url": "https://www.israelnationalnews.com/news/427569",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-25T10:43:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S.-Iran peace deal emerging, while war threats still loom",
-      "url": "https://www.npr.org/2026/05/25/nx-s1-5833690/u-s-iran-negotiations-updates",
-      "source": "NPR",
-      "publishedAt": "2026-05-25T10:16:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Kyiv’s Drone Diplomacy Makes Ukraine A Power In Global Geopolitics",
@@ -177,14 +217,6 @@
       "publishedAt": "2026-05-25T10:13:04Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel kills three in attacks on Lebanon, issues more displacement orders",
-      "url": "https://www.aljazeera.com/news/2026/5/25/israel-kills-three-in-attacks-on-lebanon-issues-more-displacement-orders",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-25T10:10:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "How Ukraine Put Russia on the Back Foot in Year 5 of the War",
@@ -209,22 +241,6 @@
       "publishedAt": "2026-05-25T02:42:45Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Scott Ritter: The US administration lost a patriot and truth-teller in Tulsi Gabbard",
-      "url": "https://www.rt.com/news/640525-tulsi-gabbard-patriot-truth-teller/",
-      "source": "RT",
-      "publishedAt": "2026-05-24T23:01:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Von der Leyen to head to Lithuania for drone crisis talks",
-      "url": "https://www.politico.eu/article/ursula-von-der-leyen-lithuania-drone-crisis-talks/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-05-24T20:01:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran's embassy says US shifting blame after Rubio accuses Tehran of threatening energy market",

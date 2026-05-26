@@ -1,7 +1,135 @@
 {
-  "updated": "2026-05-25T19:27:56Z",
+  "updated": "2026-05-26T03:26:57Z",
   "count": 30,
   "articles": [
+    {
+      "title": "Iran hangs citizen accused of guiding US and Israel strikes",
+      "url": "https://www.israelnationalnews.com/news/427549",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-25T03:26:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "When will Hormuz reopen? The major sticking points in US-Iran talks",
+      "url": "https://www.abc.net.au/news/2026-05-25/the-major-sticking-points-holding-up-a-us-iran-peace-deal/106717358",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-25T03:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Marco Rubio accuses Hezbollah of trying to 'drag Lebanon back into chaos'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/marco-rubio-accuses-hezbollah-of-trying-to-drag-lebanon-back-into-chaos/articleshow/131299690.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-25T02:43:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Taiwan detects 9 sorties of Chinese aircraft, 7 vessels, 1 ship",
+      "url": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-9-sorties-of-chinese-aircraft-7-vessels-1-ship/articleshow/131299677.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-25T02:42:45Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "MARK ALMOND: It was Donald's visit to China last week that has set the stage for compromise",
+      "url": "https://www.dailymail.com/debate/article-15845253/MARK-ALMOND-Donalds-visit-China-week-set-stage-compromise.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-25T02:15:55Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Rubio slams Hezbollah: Plotting to drag Lebanon into chaos and destruction",
+      "url": "https://www.israelnationalnews.com/news/427545",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-25T00:16:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "‘Don’t Listen To The Losers’: Trump Cautions Against Criticisms Over Potential Iran Deal To Reopen Strait Of Hormuz",
+      "url": "https://dailycaller.com/2026/05/24/donald-trump-cautions-against-criticisms-potential-iran-deal-reopen-hormuz-strait/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-05-24T23:37:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ted Cruz and Lindsey Graham lead Republicans blasting Trump for 'disastrous mistake' on his emerging Iran deal",
+      "url": "https://www.dailymail.com/news/article-15845201/Ted-Cruz-Lindsey-Graham-Trump-Iran-deal.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-24T23:02:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Scott Ritter: The US administration lost a patriot and truth-teller in Tulsi Gabbard",
+      "url": "https://www.rt.com/news/640525-tulsi-gabbard-patriot-truth-teller/",
+      "source": "RT",
+      "publishedAt": "2026-05-24T23:01:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Three Months In, Is Trump Losing The Iran War?",
+      "url": "https://www.huffpost.com/entry/trump-losing-iran-war_n_6a137d19e4b0f1ba1f669bea",
+      "source": "HuffPost",
+      "publishedAt": "2026-05-24T22:38:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Deadly Israeli strikes pound south, east Lebanon",
+      "url": "https://japantoday.com/category/world/deadly-israeli-strikes-pound-south-east-lebanon",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-24T21:13:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says there is no rush for Iran deal; U.S. blockade stays",
+      "url": "https://japantoday.com/category/world/trump-says-there-is-no-rush-for-iran-deal-us-blockade-stays2",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-24T21:13:08Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Von der Leyen to head to Lithuania for drone crisis talks",
+      "url": "https://www.politico.eu/article/ursula-von-der-leyen-lithuania-drone-crisis-talks/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-05-24T20:01:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump tempers expectations of a Middle East deal with Iran",
+      "url": "https://punchng.com/trump-tempers-expectations-of-a-middle-east-deal-with-iran/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-24T19:36:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu says Trump agrees Iran deal must remove nuclear threat",
+      "url": "https://www.channelnewsasia.com/asia/netanyahu-trump-iran-nuclear-lebanon-attacks-6139021",
+      "source": "CNA",
+      "publishedAt": "2026-05-24T19:33:48Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Netanyahu says Trump agrees Iran deal must remove nuclear threat",
+      "url": "https://www.channelnewsasia.com/world/netanyahu-trump-iran-nuclear-lebanon-attacks-6139021",
+      "source": "CNA",
+      "publishedAt": "2026-05-24T19:33:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Trump's deal making leaves Iran in the driver's seat and Israel more vulnerable",
       "url": "https://www.abc.net.au/news/2026-05-25/tingle-trump-deal-iran-war-israel-vulnerable/106716792",
@@ -9,22 +137,6 @@
       "publishedAt": "2026-05-24T19:24:30Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Israeli strikes kill six in southern Lebanon, amid fresh evacuation orders",
-      "url": "https://www.aljazeera.com/news/2026/5/24/israeli-strikes-kill-six-in-southern-lebanon-amid-fresh-evacuation-orders",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-24T19:09:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Blasts ‘Losers’ Criticizing Potential Iran Deal After Republican Uproar",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/05/24/trump-blasts-losers-criticizing-potential-iran-deal-after-republican-uproar/",
-      "source": "Forbes",
-      "publishedAt": "2026-05-24T19:01:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Ukraine’s battlefield is transforming the future of NATO",
@@ -59,22 +171,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Israeli strikes kill four in Lebanon as Hezbollah fire on northern Israel continues",
-      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-05-24/ty-article/.premium/israeli-strikes-kill-four-in-lebanon-as-hezbollah-fire-on-israel-continues/0000019e-5954-d394-addf-fb7ef5c20000",
-      "source": "Haaretz",
-      "publishedAt": "2026-05-24T15:51:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Republicans Attack Each Other Over Possible Iran Deal: What We Know",
-      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/05/24/republicans-attack-each-other-over-possible-iran-deal-what-we-know/",
-      "source": "Forbes",
-      "publishedAt": "2026-05-24T15:08:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "US and Iran could strike a deal to end the war shortly",
       "url": "https://www.thejournal.ie/us-and-iran-could-strike-deal-to-end-war-shortly-7050182-May2026/",
       "source": "TheJournal.ie",
@@ -91,52 +187,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Details of potential U.S.-Iran deal begin to emerge after Trump announces progress",
-      "url": "https://www.cbc.ca/news/world/details-emerge-us-deal-with-iran-9.7210359",
-      "source": "CBC News",
-      "publishedAt": "2026-05-24T13:08:59Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Leader's strategies for Persian Gulf, Hormuz Strait to ensure future of region: Top general",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-presstv09.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-24T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Iran's embassy says US shifting blame after Rubio accuses Tehran of threatening energy market",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-presstv10.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-05-24T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Enemy fired 2,100 projectiles at Abu Musa island during war but failed to break Iran's resolve: IRGC advisor",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-presstv02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-24T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Bahrain Sentences 9 To Life In Prison For Alleged Collaboration With IRGC",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260524-rferl05.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-24T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Details of potential US-Iran deal begin to emerge after Trump announces progress",
-      "url": "https://abcnews.com/US/wireStory/details-potential-us-iran-deal-begin-emerge-after-133264607",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-05-24T11:00:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Russia moves four satellites to close gap with commercial radar satellite delivering intelligence to Ukraine, while fifth satellite makes similar move — US officials believe some of them to be part of an anti-satellite weapons program",
@@ -163,22 +219,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Will Military Tech Firms Spark a Revolution in American Defense?",
-      "url": "https://www.forbes.com/sites/williamhartung/2026/05/24/will-military-tech-firms-spark-a-revolution-in-american-defense/",
-      "source": "Forbes",
-      "publishedAt": "2026-05-24T09:19:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Report: Iran Agrees to Give up Enriched Uranium in ‘Largely Negotiated’ Trump‑Announced Deal",
-      "url": "https://www.breitbart.com/politics/2026/05/24/report-iran-agrees-to-give-up-enriched-uranium-in-largely-negotiated-trump%e2%80%91announced-deal/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-05-24T08:58:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "“They don’t like each other:” Is Russia and Iran’s alliance falling apart?",
       "url": "https://www.aljazeera.com/features/longform/2026/5/24/they-dont-like-each-other-is-russia-and-irans-alliance-falling-apart",
       "source": "Al Jazeera English",
@@ -195,52 +235,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran War: Trump Announces Iran Deal with Iran Already Disputing His Claims; Hawk Heads Exploding; Even if Pact Concluded, Strait of Hormuz Traffic Expected to Reach Only 40% of Old Level by Year End",
-      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-trump-announces-iran-deal-with-iran-already-disputing-his-claims-hawk-heads-exploding-even-if-pact-concluded-strait-of-hormuz-traffic-expected-to-reach-only-40-of-old-level-by-year-end.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-24T07:36:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran seek to finalize 'largely negotiated' deal to end war",
-      "url": "https://www.hurriyetdailynews.com/us-iran-seek-to-finalize-largely-negotiated-deal-to-end-war-222466",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-24T06:39:42Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Iran rejects Rubio's claims, blames US sanctions for global energy crisis",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-rejects-rubios-claims-blames-us-sanctions-for-energy-crisis/articleshow/131289234.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-24T06:17:13Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "A $2.89 trillion military surge signals the sharpest global arms buildup since WWII",
-      "url": "https://economictimes.indiatimes.com/news/defence/world-order-shift-global-arms-race-2025-defence-spending-geopolitics-military-budget/articleshow/131288160.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-24T03:19:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran's UN envoy rejects US allegations about drone attack on UAE nuclear plant",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260523-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-23T11:38:55Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Taiwan detects 16 sorties of Chinese military aircraft, 8 vessels around itself",
-      "url": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-16-sorties-of-chinese-military-aircraft-8-vessels-around-itself/articleshow/131273053.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-23T06:09:38Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
     }
   ]
 }

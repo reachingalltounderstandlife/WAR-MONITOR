@@ -1,14 +1,230 @@
 {
-  "updated": "2026-05-28T09:59:13Z",
-  "count": 35,
+  "updated": "2026-05-28T15:51:08Z",
+  "count": 37,
   "articles": [
     {
-      "title": "Donald Trump 'risks triggering a global financial crisis due to Iran war, unpredictable trade policies and pulling US away from its global leadership role'",
-      "url": "https://www.dailymail.com/news/article-15851541/Donald-Trump-risks-triggering-global-financial-crisis-Iran-war-unpredictable-trade-policies-pulling-US-away-global-leadership-role.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-27T09:35:20Z",
+      "title": "US-NATO Persistent Targetting of Children. Moscow Has Ordered Massive Retaliatory Strikes",
+      "url": "https://www.globalresearch.ca/us-nato-persistent-targetting-of-children-moscow-has-ordered-massive-retaliatory-strikes/5927923",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-27T15:49:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Intensified IDF airstrikes in Lebanon follow surge in Hizbullah drone attacks",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/05/27/intensified-idf-airstrikes-in-lebanon-follow-surge-in-hizbullah-drone-attacks/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-27T15:36:54Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "As Israel Steps up Air Strikes in Lebanon, Beirut’s Metropolis Cinema Forges Ahead With South Screens Festival That Oliver Laxe Will Attend",
+      "url": "https://variety.com/2026/film/festivals/israel-air-strikes-lebanon-beirut-metropolis-oliver-laxe-1236759825/",
+      "source": "Variety",
+      "publishedAt": "2026-05-27T15:23:51Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Transcript: The Scary Thing Trump Might Do on His Birthday",
+      "url": "https://newrepublic.com/article/210914/transcript-scary-thing-trump-might-birthday",
+      "source": "The New Republic",
+      "publishedAt": "2026-05-27T15:20:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel orders evacuation of Lebanese city as conflict with Hezbollah escalates",
+      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo",
+      "source": "BBC News",
+      "publishedAt": "2026-05-27T15:16:13Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "WATCH LIVE: Trump holds Cabinet meeting during negotiations to end the Iran war",
+      "url": "https://www.pbs.org/newshour/politics/watch-live-trump-holds-cabinet-meeting-during-negotiations-to-end-the-iran-war",
+      "source": "PBS",
+      "publishedAt": "2026-05-27T15:00:07Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Europe Is Starting to Think Putin Will Expand the War Beyond Ukraine",
+      "url": "https://freerepublic.com/focus/f-news/4381163/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-05-27T14:45:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran-US draft deal would see blockade end and Hormuz reopen, state TV claims",
+      "url": "https://www.abc.net.au/news/2026-05-28/iran-war-us-draft-peace-deal-memorandum-hormuz-blockade/106730174",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-27T14:38:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S.-NATO “Go Home”: Towards “A Russian-Style Monroe Doctrine” in the South Caucasus?",
+      "url": "https://www.globalresearch.ca/implement-russia-monroe-doctrine-south-caucasus/5927808",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-27T14:31:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "News24 | Iran says 'low' possibility of return to war with US",
+      "url": "https://www.news24.com/world/iran-says-low-possibility-of-return-to-war-with-us-20260527-0865",
+      "source": "News24",
+      "publishedAt": "2026-05-27T14:25:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Asks for 'Islamic Unity' from Countries It Bombed",
+      "url": "https://www.breitbart.com/middle-east/2026/05/27/iran-asks-for-islamic-unity-from-countries-it-bombed/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-05-27T14:23:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "British Spy Chief: Russia Is Attacking Europe 'Daily'",
+      "url": "https://www.newser.com/story/389906/british-spy-chief-russia-is-attacking-europe-daily.html",
+      "source": "Newser",
+      "publishedAt": "2026-05-27T14:15:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why is Israel attacking Lebanon’s Nabatieh, the major southern city?",
+      "url": "https://www.aljazeera.com/news/2026/5/27/why-is-israel-attacking-lebanons-nabatieh-the-major-southern-city",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-27T14:00:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "UK Petrol Prices Hit Highest Level Since 2022",
+      "url": "https://oilprice.com/Energy/Energy-General/UK-Petrol-Prices-Hit-Highest-Level-Since-2022.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-05-27T14:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hyperreal Politics: When the Simulation Becomes Too Absurd to Satirize — Part 3",
+      "url": "https://www.fairobserver.com/politics/hyperreal-politics-when-the-simulation-becomes-too-absurd-to-satirize-part-3/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-05-27T13:54:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel says it killed new Hamas military leader in Gaza - AP News",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183429010",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-05-27T13:52:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran says 'low' possibility of return to war with US",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-low-possibility-of-return-to-war-with-us/articleshow/131352565.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-27T13:48:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel escalates strikes on Hezbollah amid rising regional tensions",
+      "url": "https://cryptobriefing.com/israel-escalates-strikes-on-hezbollah-amid-rising-regional-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-27T13:42:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump privately ridiculed by Muslim allies over brazen Israel demand in Iran peace deal... but insiders reveal cunning ploy",
+      "url": "https://www.dailymail.com/news/article-15852219/trump-muslim-allies-israel-iran-deal.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-27T13:36:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Will US-Iran deal bring peace to Lebanon?",
+      "url": "https://theweek.com/world-news/israel-lebanon-hezbollah-war-ceasefire",
+      "source": "The Week Magazine",
+      "publishedAt": "2026-05-27T13:32:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Escalation in Iran",
+      "url": "https://reason.com/2026/05/27/escalation-in-iran/",
+      "source": "Reason",
+      "publishedAt": "2026-05-27T13:28:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Baltics urgently need a de-escalation mechanism; Belarus can help",
+      "url": "https://www.aljazeera.com/opinions/2026/5/27/the-baltics-urgently-need-a-de-escalation-mechanism-belarus-can-help",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-27T13:24:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "World awaits news on U.S.-Iran talks as Israel launches more strikes on Hezbollah",
+      "url": "https://www.cbsnews.com/video/world-awaits-news-on-us-iran-talks-as-israel-launches-more-strikes-on-hezbollah/",
+      "source": "CBS News",
+      "publishedAt": "2026-05-27T13:11:29Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Security and Defence Partnership Treaty: the projects the UK and Poland will deliver together",
+      "url": "https://www.gov.uk/government/news/security-and-defence-partnership-treaty-the-projects-the-uk-and-poland-will-deliver-together",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-05-27T13:00:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea tests nuclear-capable cruise missiles, and crypto is funding the program",
+      "url": "https://cryptobriefing.com/north-korea-missiles-crypto-funding/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-27T12:24:15Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "GCHQ Annual Lecture 2026 - as delivered",
+      "url": "https://www.globalsecurity.org/intell/library/news/2026/intell-260527-gchq01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-27T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Norway and France sign mutual defence agreement",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260527-govno01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-27T12:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "China’s Y-20 Tanker Intercepted while Refueling J-16 Fighters Near Taiwan",
+      "url": "https://theaviationist.com/2026/05/27/china-y-20-intercepted-refueling-j-16s-near-taiwan/",
+      "source": "Theaviationist.com",
+      "publishedAt": "2026-05-27T11:43:11Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
     },
     {
       "title": "Western arms makers are lining up to test their weapons on Ukraine's battlefields",
@@ -19,156 +235,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israel Increases Attacks on Lebanon as US-Iran Talks Crawl On",
-      "url": "https://financialpost.com/pmn/business-pmn/israel-increases-attacks-on-lebanon-as-us-iran-talks-crawl-on",
-      "source": "Financial Post",
-      "publishedAt": "2026-05-27T09:33:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Miller Doctrine",
-      "url": "http://prospect.org/2026/05/27/jun-2026-miller-doctrine-foreign-policy/",
-      "source": "The American Prospect",
-      "publishedAt": "2026-05-27T09:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel says it killed new Hamas military wing leader in Gaza",
-      "url": "https://www.cbc.ca/news/world/israel-gaza-hamas-9.7213357",
-      "source": "CBC News",
-      "publishedAt": "2026-05-27T08:54:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "News24 | Israel Defence Minister Katz celebrates killing new Hamas armed wing commander",
-      "url": "https://www.news24.com/world/israel-defence-minister-katz-celebrates-killing-new-hamas-armed-wing-commander-20260527-0407",
-      "source": "News24",
-      "publishedAt": "2026-05-27T08:50:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel says killed new chief of Hamas armed wing in Gaza strike",
-      "url": "https://www.channelnewsasia.com/world/israel-killed-new-hamas-armed-wing-chief-gaza-strike-mohammed-odeh-6144386",
-      "source": "CNA",
-      "publishedAt": "2026-05-27T08:47:05Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli air attack kills at least two in southern Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/5/27/israeli-air-attack-kills-at-least-two-in-southern-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-27T08:41:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel declares new area of Lebanon 'a combat zone'",
-      "url": "https://www.rte.ie/news/middle-east/2026/0527/1575446-lebanon-israel/",
-      "source": "RTE",
-      "publishedAt": "2026-05-27T08:21:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "At least 31 killed in Israeli attacks on Lebanon",
-      "url": "https://www.rte.ie/news/world/2026/0527/1575446-lebanon-israeli-attacks/",
-      "source": "RTE",
-      "publishedAt": "2026-05-27T08:21:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel says it killed Hamas' new armed wing chief in Gaza",
-      "url": "https://www.rte.ie/news/world/2026/0527/1575448-israel-gaza/",
-      "source": "RTE",
-      "publishedAt": "2026-05-27T08:19:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Middle East: Israel says Hamas' armed wing chief killed",
-      "url": "https://www.dw.com/en/israel-gaza-iran-live-blog/live-77308741",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-27T08:09:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel says it has killed new head of the terror group's armed wing and 'sent him to meet his associates in hell'",
-      "url": "https://www.dailymail.com/news/article-15851269/Israel-says-killed-new-head-terror-groups-armed-wing-sent-meet-associates-hell.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-27T07:51:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
-      "url": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-27T06:48:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil pulls back as traders look for progress on talks",
-      "url": "https://www.rte.ie/news/business/2026/0527/1575430-oil-optimism/",
-      "source": "RTE",
-      "publishedAt": "2026-05-27T06:47:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea says it tested new warheads, technology and navigation in latest launches",
       "url": "https://abcnews.com/International/wireStory/north-korea-tested-new-warheads-technology-navigation-latest-133331467",
       "source": "Abcnews.com",
       "publishedAt": "2026-05-27T06:33:06Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders",
-      "url": "https://economictimes.indiatimes.com/news/defence/drone-incursions-sow-fear-chaos-along-natos-baltic-and-finnish-borders/articleshow/131343024.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-27T06:30:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Dozens killed in Lebanon as Israel intensifies strikes and expands ground operations",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/05/27/dozens-killed-in-lebanon-as-israel-intensifies-strikes-and-expands-ground-operations/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-27T06:23:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine Has Become NATO’s Real-World Laboratory for AI Warfare, Drones and Terrorism Against Russia",
-      "url": "https://sputnikglobe.com/20260527/ukraine-has-become-natos-real-world-laboratory-for-ai-warfare-drones-and-terrorism-against-russia-1124192925.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-05-27T06:07:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Analysis-Errant Ukrainian drones fuel tensions on NATO's eastern flank",
-      "url": "https://www.yahoo.com/news/articles/analysis-errant-ukrainian-drones-fuel-060523433.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-27T06:06:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "‘Deep suspicion’ of US lingers as Iran ponders agreement to end war",
-      "url": "https://www.aljazeera.com/news/2026/5/27/deep-suspicion-of-us-lingers-as-iran-ponders-agreement-to-end-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-27T06:03:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea’s AI-powered missile tests signal growing threat to global stability",
@@ -195,14 +267,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Spare Us The Selective Outrage",
-      "url": "https://victorhanson.com/spare-us-the-selective-outrage/",
-      "source": "Victorhanson.com",
-      "publishedAt": "2026-05-27T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korean leader oversees drill of AI-guided cruise and ballistic missiles",
       "url": "https://www.israelnationalnews.com/news/427654",
       "source": "Israelnationalnews.com",
@@ -219,60 +283,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "NATO Warns Russia’s Hybrid War Is Targeting Europe’s Energy Grid",
-      "url": "https://oilprice.com/Energy/Energy-General/NATO-Warns-Russias-Hybrid-War-Is-Targeting-Europes-Energy-Grid.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-05-26T21:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "‘The next blow will be more painful’: Russian experts are signaling something bigger than retaliation",
-      "url": "https://www.rt.com/russia/640605-russian-experts-are-signaling-retaliation/",
-      "source": "RT",
-      "publishedAt": "2026-05-26T19:11:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Taiwan Scrambles Fighter Jets As China Encroaches With Combat Patrols",
       "url": "https://dailycaller.com/2026/05/26/taiwan-scrambles-fighter-jets-as-china-encroaches-with-combat-patrols/",
       "source": "The Daily Caller",
       "publishedAt": "2026-05-26T19:03:13Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Funerals, Beauty Queens and Bombs: The Ukrainian city that won’t let Putin win",
-      "url": "https://www.foxnews.com/world/funerals-beauty-queens-bombs-ukrainian-city-wont-let-putin-win",
-      "source": "Fox News",
-      "publishedAt": "2026-05-26T18:41:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Declares Himself in Perfect Health After Physical Exam",
-      "url": "https://english.aawsat.com/world/5277521-trump-declares-himself-perfect-health-after-physical-exam",
-      "source": "Aawsat.com",
-      "publishedAt": "2026-05-26T18:30:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Coffee Break: Armed Madhouse – The Cuba Temptation",
-      "url": "https://www.nakedcapitalism.com/2026/05/coffee-break-armed-madhouse-the-cuba-temptation.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-26T18:00:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Amid Rumors of a Visit by China’s Leader, North Korea Fires Close-Range Ballistic Missiles",
-      "url": "https://thediplomat.com/2026/05/amid-rumors-of-a-visit-by-chinas-leader-north-korea-fires-close-range-ballistic-missiles/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-05-26T14:28:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "Will China really invade Taiwan in the next five years?",

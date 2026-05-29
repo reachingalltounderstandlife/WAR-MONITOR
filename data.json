@@ -1,7 +1,135 @@
 {
-  "updated": "2026-05-29T15:26:35Z",
-  "count": 37,
+  "updated": "2026-05-29T20:23:16Z",
+  "count": 39,
   "articles": [
+    {
+      "title": "Saudi Arabia Seeks Non-Aggression Pact with Iran Modeled After 1975 Helsinki Accords",
+      "url": "https://www.activistpost.com/saudi-arabia-seeks-non-aggression-pact-with-iran-modeled-after-1975-helsinki-accords/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-05-28T20:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran Peace Deal Won’t Eliminate Security Risks",
+      "url": "https://www.forbes.com/sites/michaelpdempsey/2026/05/28/us-iran-peace-deal-wont-eliminate-security-risks/",
+      "source": "Forbes",
+      "publishedAt": "2026-05-28T19:31:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel continues attacks on Lebanon, striking Beirut and country’s south",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/05/28/israel-continues-attacks-on-lebanon-striking-beirut-and-countrys-south/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-28T19:07:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
+      "url": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-28T19:03:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine Enters New Phase of Escalation After Terrorist Attack on Starobelsk, Lugansk",
+      "url": "https://www.globalresearch.ca/ukraine-escalation-terrorist-attack-starobelsk/5928026",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-28T19:00:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli military strikes southern suburb of Beirut before crucial Lebanon-Israel talks in Washington",
+      "url": "https://www.seattlepi.com/news/world/article/israeli-strikes-kill-at-least-8-in-lebanon-s-22280123.php",
+      "source": "seattlepi.com",
+      "publishedAt": "2026-05-28T18:51:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "RT reports from Beirut after Israeli strikes (VIDEOS)",
+      "url": "https://www.rt.com/news/640691-israel-strikes-beirut-lebanon/",
+      "source": "RT",
+      "publishedAt": "2026-05-28T18:40:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Report: US demanding Israel coordinate Beirut strikes, prohibits collapsing buildings",
+      "url": "https://www.israelnationalnews.com/news/427776",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-28T18:32:19Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "California Chemical Plant That Threatened to Explode Was Making F-35 Parts for America’s Forever Wars",
+      "url": "https://www.jezebel.com/california-chemical-plant-tank-explosion-leak-garden-grove-gkn-aerospace-f35-fighter-iran-war-israel",
+      "source": "Jezebel",
+      "publishedAt": "2026-05-28T17:54:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel intensifies strikes on Lebanon during ceasefire, videos show",
+      "url": "https://www.bbc.com/news/videos/c4g0kqxqz92o",
+      "source": "BBC News",
+      "publishedAt": "2026-05-28T17:45:13Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Major bombing raids across southern Lebanon as strike hits town where Irish monument located",
+      "url": "https://www.thejournal.ie/south-lebanon-bombing-hezbollah-israeli-defence-forces-unifil-7054200-May2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-05-28T17:34:49Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel strikes Beirut, escalating conflict with Hezbollah",
+      "url": "https://cryptobriefing.com/israel-strikes-beirut-escalating-conflict-with-hezbollah/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-28T17:30:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S. And Iran Reach Deal—Pending Trump’s Approval",
+      "url": "https://www.forbes.com/sites/saradorn/2026/05/28/us-and-iran-reach-deal-pending-trumps-approval/",
+      "source": "Forbes",
+      "publishedAt": "2026-05-28T17:03:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "In Sign Of Deepening Ties, Russia And Afghan Taliban Sign Military Deal",
+      "url": "https://www.rferl.org/a/russia-taliban-afghanistan-military-agreement-shoigu-yaqub/33767652.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-05-28T16:37:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What the Latest China-Russia Summit Means for Ukraine",
+      "url": "https://thediplomat.com/2026/05/what-the-latest-china-russia-summit-means-for-ukraine/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-05-28T16:27:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Finland's Economic Minister Warns Japan on National Security",
+      "url": "https://newsonjapan.com/article/149418.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-05-28T16:12:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "CNN Fact-Checker Torpedoes Trump Over Gaffes and Whoppers at Cabinet Meeting",
       "url": "https://www.mediaite.com/media/news/cnn-fact-checker-torpedoes-trump-over-gaffes-and-whoppers-at-cabinet-meeting/",
@@ -27,36 +155,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "IDF Spokesman: More than 2,500 terrorists killed, Hezbollah fighting a war of survival",
-      "url": "https://www.israelnationalnews.com/news/427765",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-28T15:16:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Metropolis Cinema Chief Hania Mroue on Opening a Festival in Beirut Amid Israeli Air Strikes: ‘Not Only Are We Surviving the War,’ but We’re Creating ‘Something That Has Meaning’",
-      "url": "https://variety.com/2026/film/festivals/metropolis-cinema-hania-mroue-beirut-fest-israeli-strikes-1236760997/",
-      "source": "Variety",
-      "publishedAt": "2026-05-28T15:06:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Trump’s call to expand Abraham accords is destined to fail",
       "url": "https://theconversation.com/trumps-call-to-expand-abraham-accords-is-destined-to-fail-283997",
       "source": "The Conversation Africa",
       "publishedAt": "2026-05-28T14:54:41Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Israel strikes Beirut targeting Iranian militia leader as Middle East tensions reignite",
-      "url": "https://cryptobriefing.com/israel-beirut-strike-iranian-militia-crypto/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-28T14:52:13Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Trump plan to give start-ups plutonium harvested from Cold War–era nuclear weapons is risky, experts say",
@@ -99,22 +203,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US Strikes Iran Military Targets Near Hormuz",
-      "url": "https://www.rigzone.com/news/wire/us_strikes_iran_military_targets_near_hormuz-28-may-2026-183796-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-05-28T14:00:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel conducts targeted strike in Beirut, hitting Iranian militia leader",
-      "url": "https://cryptobriefing.com/israel-beirut-strike-iranian-militia-leader/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-28T13:59:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "The Brits, French, & Germans Are Now Right on Russia’s Doorstep",
       "url": "https://www.nakedcapitalism.com/2026/05/the-brits-french-germans-are-now-right-on-russias-doorstep.html",
       "source": "Nakedcapitalism.com",
@@ -139,38 +227,6 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Israel carries out strike on Beirut suburbs, first near capital in weeks",
-      "url": "https://www.channelnewsasia.com/world/israel-carries-out-strike-beirut-suburbs-first-near-capital-in-weeks-6147551",
-      "source": "CNA",
-      "publishedAt": "2026-05-28T13:25:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "A 'More Decisive' Response",
-      "url": "https://reason.com/2026/05/28/a-more-decisive-response/",
-      "source": "Reason",
-      "publishedAt": "2026-05-28T13:20:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran and US trade air strikes after Trump dismisses Hormuz deal",
-      "url": "https://www.abc.net.au/news/2026-05-28/kuwait-reports-missile-attack-us-air-base/106735230",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-28T13:17:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "American “Micro-Militarism,” or How Defeat in the Iran War Will Accelerate American Global Decline",
-      "url": "https://www.fairobserver.com/world-news/american-micro-militarism-or-how-defeat-in-the-iran-war-will-accelerate-american-global-decline/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-05-28T13:14:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Disappearance of the “Peace President”",
       "url": "https://www.globalresearch.ca/disappearance-peace-president/5927980",
       "source": "Globalresearch.ca",
@@ -179,52 +235,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israel the lonely",
-      "url": "https://www.nrc.nl/nieuws/2026/05/28/israel-the-lonely-a4928445",
-      "source": "Www.nrc.nl",
-      "publishedAt": "2026-05-28T13:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea: New report sheds light on chemical weapons",
       "url": "https://www.dw.com/en/north-korea-new-report-sheds-light-on-chemical-weapons/a-77329770",
       "source": "DW (English)",
       "publishedAt": "2026-05-28T12:13:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "In Sign Of Deepening Ties, Russia And Afghan Taliban Sign Military Deal",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260528-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-28T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "EU Morphing Into Military Bloc Aimed At Russia - Intel Chief",
-      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/05/russia-260528-sputnik02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-28T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Kyiv's Envoy Says Patriot Missiles Are Critical As Zelenskyy Appeals To Trump",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260528-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-28T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Latvia emphasises united and decisive EU action as the strongest defence against Russian threats, including hybrid threats and disinformation",
-      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/05/russia-260528-latvia-mfa01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-28T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "What Everyone is Missing About North Korea’s Reunification Strategy",

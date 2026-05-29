@@ -1,54 +1,230 @@
 {
-  "updated": "2026-05-29T09:52:26Z",
-  "count": 31,
+  "updated": "2026-05-29T15:26:35Z",
+  "count": 37,
   "articles": [
     {
-      "title": "Iran War: US Attacks Iran for Second Day as Trump Rejects Leaked Iranian Outline of Terms, Threatens to Bomb Oman; US Draining of Strategic Petroleum Reserve to Contain Energy Prices Means Energy Cliff Arrives Sooner",
-      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-us-attacks-iran-for-second-day-as-trump-rejects-leaked-iranian-outline-of-terms-threatens-to-bomb-oman-us-draining-of-strategic-petroleum-reserve-to-contain-energy-prices-means-energy-clif.html",
+      "title": "CNN Fact-Checker Torpedoes Trump Over Gaffes and Whoppers at Cabinet Meeting",
+      "url": "https://www.mediaite.com/media/news/cnn-fact-checker-torpedoes-trump-over-gaffes-and-whoppers-at-cabinet-meeting/",
+      "source": "Mediaite",
+      "publishedAt": "2026-05-28T15:26:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Report says Iran and U.S. reach outline ceasefire deal after latest attacks",
+      "url": "https://www.yahoo.com/news/articles/iran-us-trade-air-strikes-042536270.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-05-28T15:23:51Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S. military accuses Iran of ceasefire violation after Kuwait comes under missile attack",
+      "url": "https://www.pbs.org/newshour/world/us-military-accuses-iran-of-ceasefire-violation-after-kuwait-comes-under-missile-attack",
+      "source": "PBS",
+      "publishedAt": "2026-05-28T15:18:45Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IDF Spokesman: More than 2,500 terrorists killed, Hezbollah fighting a war of survival",
+      "url": "https://www.israelnationalnews.com/news/427765",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-28T15:16:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Metropolis Cinema Chief Hania Mroue on Opening a Festival in Beirut Amid Israeli Air Strikes: ‘Not Only Are We Surviving the War,’ but We’re Creating ‘Something That Has Meaning’",
+      "url": "https://variety.com/2026/film/festivals/metropolis-cinema-hania-mroue-beirut-fest-israeli-strikes-1236760997/",
+      "source": "Variety",
+      "publishedAt": "2026-05-28T15:06:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump’s call to expand Abraham accords is destined to fail",
+      "url": "https://theconversation.com/trumps-call-to-expand-abraham-accords-is-destined-to-fail-283997",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-05-28T14:54:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes Beirut targeting Iranian militia leader as Middle East tensions reignite",
+      "url": "https://cryptobriefing.com/israel-beirut-strike-iranian-militia-crypto/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-28T14:52:13Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump plan to give start-ups plutonium harvested from Cold War–era nuclear weapons is risky, experts say",
+      "url": "https://www.scientificamerican.com/article/experts-warn-against-trump-plan-to-give-cold-war-plutonium-to-nuclear-power-companies/",
+      "source": "Scientific American",
+      "publishedAt": "2026-05-28T14:30:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "News24 | Why has Trump threatened to bomb Oman, amid Iran war escalation?",
+      "url": "https://www.news24.com/world/why-has-trump-threatened-to-bomb-oman-amid-iran-war-escalation-20260528-0862",
+      "source": "News24",
+      "publishedAt": "2026-05-28T14:26:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Brits, French, and Germans Are Now Right on Russia’s Doorstep.",
+      "url": "https://www.globalresearch.ca/brits-french-germans-russia-doorstep/5927988",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-28T14:19:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kyiv’s Envoy Says Patriots Are Critical As Zelenskyy Makes Rare Appeal To Trump And US Congress",
+      "url": "https://www.rferl.org/a/ukraine-us-patriot-missiles-zelenskyy-appeal-trump-congress/33767500.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-05-28T14:09:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Drone warfare is turning the tables for Ukraine against Russia",
+      "url": "https://financialpost.com/financial-times/drone-warfare-turning-tables-for-ukraine-russia",
+      "source": "Financial Post",
+      "publishedAt": "2026-05-28T14:02:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Strikes Iran Military Targets Near Hormuz",
+      "url": "https://www.rigzone.com/news/wire/us_strikes_iran_military_targets_near_hormuz-28-may-2026-183796-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-05-28T14:00:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel conducts targeted strike in Beirut, hitting Iranian militia leader",
+      "url": "https://cryptobriefing.com/israel-beirut-strike-iranian-militia-leader/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-28T13:59:14Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Brits, French, & Germans Are Now Right on Russia’s Doorstep",
+      "url": "https://www.nakedcapitalism.com/2026/05/the-brits-french-germans-are-now-right-on-russias-doorstep.html",
       "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-28T09:15:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil shipments, drone makers, and a poisoned code library targeted in recent APT campaigns",
-      "url": "https://www.helpnetsecurity.com/2026/05/28/eset-apt-activity-report/",
-      "source": "Help Net Security",
-      "publishedAt": "2026-05-28T09:00:53Z",
+      "publishedAt": "2026-05-28T13:55:05Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Iran and US Trade Air Strikes After Trump Dismisses Report of Hormuz Deal",
-      "url": "https://www.insurancejournal.com/news/international/2026/05/28/871579.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-05-28T08:49:31Z",
+      "title": "North Korea Says It Successfully Tested AI-Guided Missile",
+      "url": "https://www.breitbart.com/asia/2026/05/28/north-korea-says-it-successfully-tested-ai-guided-missile/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-05-28T13:48:50Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "China’s Navy Is Shifting Pressure Beyond the Taiwan Strait",
+      "url": "https://thediplomat.com/2026/05/chinas-navy-is-shifting-pressure-beyond-the-taiwan-strait/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-05-28T13:29:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Israel carries out strike on Beirut suburbs, first near capital in weeks",
+      "url": "https://www.channelnewsasia.com/world/israel-carries-out-strike-beirut-suburbs-first-near-capital-in-weeks-6147551",
+      "source": "CNA",
+      "publishedAt": "2026-05-28T13:25:12Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "ESET APT Activity Report Q4 2025–Q1 2026",
-      "url": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2025-q1-2026/",
-      "source": "We Live Security",
-      "publishedAt": "2026-05-28T08:45:00Z",
+      "title": "A 'More Decisive' Response",
+      "url": "https://reason.com/2026/05/28/a-more-decisive-response/",
+      "source": "Reason",
+      "publishedAt": "2026-05-28T13:20:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran and US trade air strikes after Trump dismisses Hormuz deal",
+      "url": "https://www.abc.net.au/news/2026-05-28/kuwait-reports-missile-attack-us-air-base/106735230",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-28T13:17:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "American “Micro-Militarism,” or How Defeat in the Iran War Will Accelerate American Global Decline",
+      "url": "https://www.fairobserver.com/world-news/american-micro-militarism-or-how-defeat-in-the-iran-war-will-accelerate-american-global-decline/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-05-28T13:14:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Disappearance of the “Peace President”",
+      "url": "https://www.globalresearch.ca/disappearance-peace-president/5927980",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-28T13:07:29Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Iran attacks US airbase after Trump condemns Tehran's peace plan and strikes regime drone site near Strait of Hormuz",
-      "url": "https://www.dailymail.com/news/article-15854635/Iran-attacks-US-airbase-Trump-condemns-Tehrans-peace-plan-strikes-regime-drone-site-near-Strait-Hormuz.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-28T08:16:59Z",
+      "title": "Israel the lonely",
+      "url": "https://www.nrc.nl/nieuws/2026/05/28/israel-the-lonely-a4928445",
+      "source": "Www.nrc.nl",
+      "publishedAt": "2026-05-28T13:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "What’s happening on Iran war day 90 as US launches new strikes",
-      "url": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-28T07:20:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "North Korea: New report sheds light on chemical weapons",
+      "url": "https://www.dw.com/en/north-korea-new-report-sheds-light-on-chemical-weapons/a-77329770",
+      "source": "DW (English)",
+      "publishedAt": "2026-05-28T12:13:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "In Sign Of Deepening Ties, Russia And Afghan Taliban Sign Military Deal",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260528-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-28T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "EU Morphing Into Military Bloc Aimed At Russia - Intel Chief",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/05/russia-260528-sputnik02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-28T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kyiv's Envoy Says Patriot Missiles Are Critical As Zelenskyy Appeals To Trump",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260528-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-28T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Latvia emphasises united and decisive EU action as the strongest defence against Russian threats, including hybrid threats and disinformation",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/05/russia-260528-latvia-mfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-28T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "What Everyone is Missing About North Korea’s Reunification Strategy",
@@ -59,86 +235,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "US Strikes Iran Military Site Near Hormuz",
-      "url": "https://www.rigzone.com/news/wire/us_strikes_iran_military_site_near_hormuz-28-may-2026-183796-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-05-28T06:58:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "News24 | Israel hits Tyre amid vow to intensify Lebanon ground operations against Hezbollah",
-      "url": "https://www.news24.com/world/israel-hits-tyre-amid-vow-to-intensify-lebanon-ground-operations-against-hezbollah-20260528-0327",
-      "source": "News24",
-      "publishedAt": "2026-05-28T06:50:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Iran Exchange Strikes Near Strait of Hormuz Testing Fragile Ceasefire in Volatile Region",
-      "url": "https://www.ibtimes.com.au/us-iran-tensions-strikes-strait-hormuz-1869604",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-05-28T06:45:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US and Iran Trade Strikes Near Hormuz Testing Fragile Ceasefire Amid Lebanon Escalation",
-      "url": "https://www.ibtimes.com.au/us-iran-tensions-escalate-strait-hormuz-1869596",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-05-28T06:23:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran war has complicated plans for an international force in Gaza that has yet to materialize",
-      "url": "https://abcnews.com/International/wireStory/iran-war-complicated-plans-international-force-gaza-materialize-133372461",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-05-28T06:11:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US strikes Iran, drawing retaliatory attack on American base",
-      "url": "https://www.hurriyetdailynews.com/us-strikes-iran-drawing-retaliatory-attack-on-american-base-222614",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-28T06:06:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel strikes Tyre after declaring 'combat zones' in south Lebanon",
-      "url": "https://www.hurriyetdailynews.com/israel-strikes-tyre-after-declaring-combat-zones-in-south-lebanon-222613",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-28T06:03:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Neutrality as Vulnerability: Russia’s Hybrid Playbook in Moldova",
-      "url": "https://smallwarsjournal.com/2026/05/28/neutrality-as-vulnerability-russias-hybrid-playbook-in-moldova/",
-      "source": "Smallwarsjournal.com",
-      "publishedAt": "2026-05-28T06:00:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO weaponized Ukraine into live-fire lab for AI, drones and terror strikes on Russia",
-      "url": "https://www.naturalnews.com/2026-05-28-nato-weaponized-ukraine-into-live-fire-lab.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-28T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "'We Are Ready': Czech Republic Now Backing Trump Hormuz Strategy",
-      "url": "https://freerepublic.com/focus/f-news/4381252/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-28T04:07:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Singaporean Foreign Minister Winds Up Working Visit to North Korea",
       "url": "https://thediplomat.com/2026/05/singaporean-foreign-minister-winds-up-working-visit-to-north-korea/",
       "source": "The Diplomat",
@@ -147,52 +243,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Trump’s May primary scorecard: From the Politics Desk",
-      "url": "https://www.nbcnews.com/politics/politics-news/trumps-may-primary-scorecard-politics-desk-rcna347217",
-      "source": "NBC News",
-      "publishedAt": "2026-05-27T21:15:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy asks Trump for more U.S. air defense help against Russian missile attacks, Kyiv says",
-      "url": "https://www.pbs.org/newshour/world/zelenskyy-asks-trump-for-more-u-s-air-defense-help-against-russian-missile-attacks-kyiv-says",
-      "source": "PBS",
-      "publishedAt": "2026-05-27T20:53:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Is Making NATO Stronger, Lithuania’s Foreign Minister Says",
-      "url": "http://foreignpolicy.com/2026/05/27/kestutis-budrys-lithuanian-foreign-minister-iran-trump-drones-ukraine/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-27T20:16:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelensky pleads with Trump for more Patriot missile systems as fears mount over more Russian strikes",
-      "url": "https://nypost.com/2026/05/27/us-news/zelensky-pleads-with-trump-for-more-patriot-missile-systems/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-27T19:57:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "China Needs North Korea on Side",
       "url": "http://foreignpolicy.com/2026/05/27/xi-jinping-kim-jong-un-china-north-korea-visit/",
       "source": "Foreign Policy",
       "publishedAt": "2026-05-27T18:07:26Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "US ally pledges support for Trump's push to break Iran's grip on Hormuz: 'We are ready to contribute'",
-      "url": "https://www.foxnews.com/world/us-ally-pledges-support-trumps-push-break-irans-grip-hormuz-we-ready-contribute",
-      "source": "Fox News",
-      "publishedAt": "2026-05-27T17:35:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea tests nuclear-capable cruise missiles, and crypto is funding the program",
@@ -239,14 +295,6 @@
       "url": "https://economictimes.indiatimes.com/news/defence/north-korea-tests-ai-guided-missiles-and-artillery-rockets-designed-for-modern-warfare-kcna-says/articleshow/131342249.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-27T05:27:48Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea tests new missile launch system — report",
-      "url": "https://www.dw.com/en/north-korea-tests-new-missile-launch-system-report/a-77306896",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-27T02:12:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

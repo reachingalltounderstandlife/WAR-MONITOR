@@ -1,78 +1,142 @@
 {
-  "updated": "2026-05-29T03:30:03Z",
-  "count": 34,
+  "updated": "2026-05-29T09:52:26Z",
+  "count": 31,
   "articles": [
     {
-      "title": "Israel orders mass evacuation in southern Lebanon amid escalation with Hezbollah",
-      "url": "https://english.khabarhub.com/2026/28/550948/",
-      "source": "Khabarhub.com",
-      "publishedAt": "2026-05-28T02:41:53Z",
+      "title": "Iran War: US Attacks Iran for Second Day as Trump Rejects Leaked Iranian Outline of Terms, Threatens to Bomb Oman; US Draining of Strategic Petroleum Reserve to Contain Energy Prices Means Energy Cliff Arrives Sooner",
+      "url": "https://www.nakedcapitalism.com/2026/05/iran-war-us-attacks-iran-for-second-day-as-trump-rejects-leaked-iranian-outline-of-terms-threatens-to-bomb-oman-us-draining-of-strategic-petroleum-reserve-to-contain-energy-prices-means-energy-clif.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-28T09:15:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil shipments, drone makers, and a poisoned code library targeted in recent APT campaigns",
+      "url": "https://www.helpnetsecurity.com/2026/05/28/eset-apt-activity-report/",
+      "source": "Help Net Security",
+      "publishedAt": "2026-05-28T09:00:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran and US Trade Air Strikes After Trump Dismisses Report of Hormuz Deal",
+      "url": "https://www.insurancejournal.com/news/international/2026/05/28/871579.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-05-28T08:49:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "ESET APT Activity Report Q4 2025–Q1 2026",
+      "url": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q4-2025-q1-2026/",
+      "source": "We Live Security",
+      "publishedAt": "2026-05-28T08:45:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran attacks US airbase after Trump condemns Tehran's peace plan and strikes regime drone site near Strait of Hormuz",
+      "url": "https://www.dailymail.com/news/article-15854635/Iran-attacks-US-airbase-Trump-condemns-Tehrans-peace-plan-strikes-regime-drone-site-near-Strait-Hormuz.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-28T08:16:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What’s happening on Iran war day 90 as US launches new strikes",
+      "url": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-28T07:20:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What Everyone is Missing About North Korea’s Reunification Strategy",
+      "url": "https://warontherocks.com/what-everyone-is-missing-about-north-koreas-reunification-strategy/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-05-28T07:15:46Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US Strikes Iran Military Site Near Hormuz",
+      "url": "https://www.rigzone.com/news/wire/us_strikes_iran_military_site_near_hormuz-28-may-2026-183796-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-05-28T06:58:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "News24 | Israel hits Tyre amid vow to intensify Lebanon ground operations against Hezbollah",
+      "url": "https://www.news24.com/world/israel-hits-tyre-amid-vow-to-intensify-lebanon-ground-operations-against-hezbollah-20260528-0327",
+      "source": "News24",
+      "publishedAt": "2026-05-28T06:50:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US and Iran Exchange Strikes Near Strait of Hormuz Testing Fragile Ceasefire in Volatile Region",
+      "url": "https://www.ibtimes.com.au/us-iran-tensions-strikes-strait-hormuz-1869604",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-05-28T06:45:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "U.S. Military Conducts Another Strike Against Iran After Trump Says Iran Is 'Negotiating On Fumes'",
-      "url": "https://www.huffpost.com/entry/iran-us-trump_n_6a17a868e4b0457678e86a16",
-      "source": "HuffPost",
-      "publishedAt": "2026-05-28T02:33:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. strikes Iran again, official says, after Trump denies deal on Strait of Hormuz",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-28/ty-article-live/u-s-strikes-iran-again-official-says-after-trump-denies-hormuz-deal/0000019e-6c4c-d1b9-a9bf-fcec07c00000",
-      "source": "Haaretz",
-      "publishedAt": "2026-05-28T02:13:09Z",
+      "title": "US and Iran Trade Strikes Near Hormuz Testing Fragile Ceasefire Amid Lebanon Escalation",
+      "url": "https://www.ibtimes.com.au/us-iran-tensions-escalate-strait-hormuz-1869596",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-05-28T06:23:36Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Three months on, Iranians still hold nightly vigils at Ali Khamenei's house",
-      "url": "https://www.abc.net.au/news/2026-05-28/iran-war-three-months-some-iranians-hold-vigils-for-khamenei/106725892",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-28T02:00:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The mullahs’ best weapon isn’t a missile — it’s some in the US media",
-      "url": "https://nypost.com/2026/05/27/opinion/irans-best-weapon-isnt-a-missile-its-some-us-media/",
-      "source": "New York Post",
-      "publishedAt": "2026-05-28T01:55:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US military conducts another strike against Iran after Trump says Iran is 'negotiating on fumes'",
-      "url": "https://abcnews.com/US/wireStory/us-military-conducts-strike-iran-after-trump-iran-133339267",
+      "title": "Iran war has complicated plans for an international force in Gaza that has yet to materialize",
+      "url": "https://abcnews.com/International/wireStory/iran-war-complicated-plans-international-force-gaza-materialize-133372461",
       "source": "Abcnews.com",
-      "publishedAt": "2026-05-28T01:47:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump’s bind deepens with Hormuz shut and hawks pushing war",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/trumps-bind-deepens-with-hormuz-shut-and-hawks-pushing-war/articleshow/131361474.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-28T01:47:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Legal group demands US action over Ireland's 'settlement goods' ban",
-      "url": "https://www.israelnationalnews.com/news/427724",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-28T01:38:21Z",
+      "publishedAt": "2026-05-28T06:11:01Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "US imposes sanctions on Iranian agency trying to control shipping in the Strait of Hormuz",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/us-imposes-sanctions-on-iranian-agency-trying-to-control-shipping-in-the-strait-of-hormuz/articleshow/131361365.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-28T01:19:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "US strikes Iran, drawing retaliatory attack on American base",
+      "url": "https://www.hurriyetdailynews.com/us-strikes-iran-drawing-retaliatory-attack-on-american-base-222614",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-28T06:06:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel strikes Tyre after declaring 'combat zones' in south Lebanon",
+      "url": "https://www.hurriyetdailynews.com/israel-strikes-tyre-after-declaring-combat-zones-in-south-lebanon-222613",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-28T06:03:40Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Neutrality as Vulnerability: Russia’s Hybrid Playbook in Moldova",
+      "url": "https://smallwarsjournal.com/2026/05/28/neutrality-as-vulnerability-russias-hybrid-playbook-in-moldova/",
+      "source": "Smallwarsjournal.com",
+      "publishedAt": "2026-05-28T06:00:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO weaponized Ukraine into live-fire lab for AI, drones and terror strikes on Russia",
+      "url": "https://www.naturalnews.com/2026-05-28-nato-weaponized-ukraine-into-live-fire-lab.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-28T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "'We Are Ready': Czech Republic Now Backing Trump Hormuz Strategy",
+      "url": "https://freerepublic.com/focus/f-news/4381252/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-05-28T04:07:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Singaporean Foreign Minister Winds Up Working Visit to North Korea",
@@ -83,52 +147,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Trump appears to threaten to 'blow up' ally Oman",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-appears-to-threaten-to-blow-up-ally-oman/articleshow/131361198.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-28T00:37:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel’s military tells residents across southern Lebanon to leave as it fights Hezbollah - AP News",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183432218",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-05-27T23:53:27Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli military tells residents across southern Lebanon to leave as it fights Hezbollah",
-      "url": "https://www.pbs.org/newshour/world/israeli-military-tells-residents-across-southern-lebanon-to-leave-as-it-fights-hezbollah",
-      "source": "PBS",
-      "publishedAt": "2026-05-27T22:56:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel pounds southern Lebanon after declaring it a ‘combat zone’",
-      "url": "https://www.rt.com/news/640665-israel-strikes-southern-lebanon/",
-      "source": "RT",
-      "publishedAt": "2026-05-27T22:02:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel declares new swathe of Lebanon 'a combat zone,' warns residents to leave",
-      "url": "https://japantoday.com/category/world/israel-declares-new-swathe-of-lebanon-%27a-combat-zone-%27-warns-residents-to-leave",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-27T21:38:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Trump’s May primary scorecard: From the Politics Desk",
       "url": "https://www.nbcnews.com/politics/politics-news/trumps-may-primary-scorecard-politics-desk-rcna347217",
       "source": "NBC News",
       "publishedAt": "2026-05-27T21:15:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Zelenskyy asks Trump for more U.S. air defense help against Russian missile attacks, Kyiv says",
@@ -137,14 +161,6 @@
       "publishedAt": "2026-05-27T20:53:13Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Accuses Iran of Stalling Peace Talks",
-      "url": "http://foreignpolicy.com/2026/05/27/trump-iran-us-war-peace-talks-stalling-midterm-elections/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-27T20:24:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Trump Is Making NATO Stronger, Lithuania’s Foreign Minister Says",
@@ -175,46 +191,6 @@
       "url": "https://www.foxnews.com/world/us-ally-pledges-support-trumps-push-break-irans-grip-hormuz-we-ready-contribute",
       "source": "Fox News",
       "publishedAt": "2026-05-27T17:35:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy pushes U.S. for more Patriot missiles, warning of Russian attacks",
-      "url": "https://www.cbsnews.com/news/zelenskyy-patriot-missiles-letter-trump/",
-      "source": "CBS News",
-      "publishedAt": "2026-05-27T17:25:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UK spy chief says West between peace and war, as Russia ramps up cyberattacks",
-      "url": "https://www.abc.net.au/news/2026-05-28/spy-chief-ai-russia-cyberattacks/106730302",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-27T16:00:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US-NATO Persistent Targetting of Children. Moscow Has Ordered Massive Retaliatory Strikes",
-      "url": "https://www.globalresearch.ca/us-nato-persistent-targetting-of-children-moscow-has-ordered-massive-retaliatory-strikes/5927923",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-27T15:49:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Transcript: The Scary Thing Trump Might Do on His Birthday",
-      "url": "https://newrepublic.com/article/210914/transcript-scary-thing-trump-might-birthday",
-      "source": "The New Republic",
-      "publishedAt": "2026-05-27T15:20:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europe Is Starting to Think Putin Will Expand the War Beyond Ukraine",
-      "url": "https://freerepublic.com/focus/f-news/4381163/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-27T14:45:47Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

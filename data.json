@@ -1,212 +1,188 @@
 {
-  "updated": "2026-05-30T08:26:27Z",
-  "count": 32,
+  "updated": "2026-05-30T13:26:34Z",
+  "count": 29,
   "articles": [
     {
-      "title": "Drone hits Romania apartment block during Russian attack on neighboring Ukraine",
-      "url": "https://www.nbcnews.com/world/ukraine/russian-drone-hits-romania-apartment-block-nato-ukraine-rcna347495",
-      "source": "NBC News",
-      "publishedAt": "2026-05-29T07:53:44Z",
+      "title": "Russian drone targeting Ukraine crashes into Romanian apartment building",
+      "url": "https://www.pbs.org/newshour/world/russian-drone-targeting-ukraine-crashes-into-romanian-apartment-building",
+      "source": "PBS",
+      "publishedAt": "2026-05-29T13:23:43Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "JD Vance says 'it's hard to say when or if' Trump will sign Iran ceasefire deal after negotiators agreed terms",
-      "url": "https://www.dailymail.com/news/article-15857879/JD-Vance-says-hard-say-Trump-sign-Iran-ceasefire-deal-negotiators-agreed-terms.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-29T07:50:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu orders Israel's military to take control of 70 per cent of Gaza",
-      "url": "https://www.dailymail.com/news/article-15857755/Netanyahu-orders-Israels-military-control-70-cent-Gaza.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-29T07:46:06Z",
+      "title": "News24 | 55 children killed, 212 hurt in Lebanon since Israeli ceasefire, says UN",
+      "url": "https://www.news24.com/world/55-children-killed-212-hurt-in-lebanon-since-israeli-ceasefire-says-un-20260529-0699",
+      "source": "News24",
+      "publishedAt": "2026-05-29T12:50:09Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "How Indian PM Modi’s efforts to isolate Pakistan ‘backfired’",
-      "url": "https://www.aljazeera.com/news/2026/5/29/how-indian-pm-modis-efforts-to-isolate-pakistan-backfired",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-29T07:22:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran, US Tentatively Agree to Renew Truce for 60 Days",
-      "url": "https://www.rigzone.com/news/wire/iran_us_tentatively_agree_to_renew_truce_for_60_days-29-may-2026-183804-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-05-29T07:10:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
-      "url": "https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-29T07:04:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Friday",
-      "url": "https://www.thelocal.de/20260529/today-in-germany-a-roundup-of-the-latest-news-on-friday-124",
-      "source": "The Local Germany",
-      "publishedAt": "2026-05-29T06:30:05Z",
+      "title": "How the China-US Reset Recasts the Quad",
+      "url": "https://thediplomat.com/2026/05/how-the-china-us-reset-recasts-the-quad/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-05-29T12:33:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Nato member Romania accuses Russia of escalation after drone hits building",
-      "url": "https://www.irishtimes.com/world/europe/2026/05/29/nato-member-romania-accuses-russia-of-escalation-after-drone-hits-building/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-29T06:26:48Z",
+      "title": "Putin soldier is wrapped in clingfilm, hung upside down and beaten by commander in latest example of brutal punishment",
+      "url": "https://www.dailymail.com/news/article-15858241/Putin-soldier-wrapped-clingfilm-hung-upside-beaten-commander-latest-example-brutal-punishment.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-29T12:14:03Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war",
-      "url": "https://abcnews.com/International/wireStory/stalemate-ukraine-discontent-home-putin-ready-escalate-war-133409450",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-05-29T06:16:58Z",
+      "title": "Trump Threatens to ‘Blow Up’ Oman Despite Centuries of US Ties",
+      "url": "https://www.globalresearch.ca/trump-threatens-blow-up-oman/5928159",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-05-29T12:03:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu Says Israeli Troops Move North Of Litani River",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260529-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Leader's advisor: Iran remains formidable obstacle to US-Israeli malicious plans in West Asia",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260529-presstv04.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah lawmaker says 'no choice but resistance' as Israel expands aggression in Lebanon",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260529-presstv03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Foreign Minister Tsahkna: Russia's drone strike in Romania underscores the need to increase pressure on Russia",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260529-estonia-mfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-29T12:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "US & Iran on a tightrope over a 60-day ceasefire agreement – Conflicting reports about downing of a US aircraft",
-      "url": "https://en.protothema.gr/2026/05/29/us-iran-on-a-tightrope-over-a-60-day-ceasefire-agreement-conflicting-reports-about-downing-of-a-us-aircraft/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-05-29T06:10:00Z",
+      "title": "Europe, NATO Warn Moscow After Drone Hits Building In Romania",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260529-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia Has Means to Destroy Anyone Targeting Its Air Defense Bases - Putin",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/05/russia-260529-sputnik01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Sopot Declaration",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260529-pl-mfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "World News in Brief: Drone strike in Romania condemned, Lebanon and South Sudan updates",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260529-unnews05.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Netanyahu orders Israeli military to expand Gaza occupation to 70%",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260529-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-29T11:53:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran promises ‘utter ruin’ if war restarts. Here’s what could happen if diplomacy fails",
+      "url": "https://www.cnn.com/2026/05/29/middleeast/iran-ceasefire-prepare-war-next-intl",
+      "source": "CNN",
+      "publishedAt": "2026-05-29T11:48:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Friday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/05/29/friday-hili-dialogue-579/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-05-29T11:45:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. And Iranian Negotiators Reach Tentative Deal To Extend Ceasefire And Start New Nuclear Talks",
+      "url": "https://www.huffpost.com/entry/iran-us-ceasefire-nuclear-talks_n_6a1979b5e4b0dade602f129a",
+      "source": "HuffPost",
+      "publishedAt": "2026-05-29T11:41:11Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "JD Vance confirms tentative US-Iran deal but says it’s unclear if Trump will approve it",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/05/29/jd-vance-confirms-tentative-us-iran-deal-but-says-its-unclear-if-trump-will-approve-it/",
+      "title": "Israel, Lebanon officials to meet. And, judge won't block Trump's mail-in voting order",
+      "url": "https://www.npr.org/2026/05/29/g-s1-124776/up-first-newsletter-israel-lebanon-iran-war-e-jean-carroll-trump-cbs-60-minutes-voting",
+      "source": "NPR",
+      "publishedAt": "2026-05-29T11:40:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Will Russia expand the Ukraine war into Europe?",
+      "url": "https://theweek.com/world-news/russia-romania-drone-expand-war-ukraine",
+      "source": "The Week Magazine",
+      "publishedAt": "2026-05-29T11:31:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump is in a weaker bargaining position with Iran than Obama was in 2015",
+      "url": "https://indianexpress.com/article/opinion/columns/trump-iran-obama-jcpoa-strait-hormuz-10714309/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-05-29T11:20:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘It’s like trying to grasp a wet bar of soap’: EU prepares for potential talks with Putin",
+      "url": "https://www.irishtimes.com/world/europe/2026/05/29/its-like-trying-to-grasp-a-wet-bar-of-soap-eu-prepares-for-potential-talks-with-slippery-putin/",
       "source": "The Irish Times",
-      "publishedAt": "2026-05-29T06:07:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russian drone hits apartment block in NATO-member Romania, injuring two people - as Europe warns 'line has been crossed'",
-      "url": "https://www.dailymail.com/news/article-15857719/Russian-drone-Romania.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-29T06:04:10Z",
+      "publishedAt": "2026-05-29T11:12:57Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war",
-      "url": "https://www.yahoo.com/news/world/articles/stalemate-ukraine-discontent-home-putin-060311140.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-05-29T06:03:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "title": "US-Iran 60-day proposal: What we know",
+      "url": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-29T10:23:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
-      "title": "Pentagon faces multi-year gap in missile stocks after Iran war, report says",
-      "url": "https://www.naturalnews.com/2026-05-29-pentagon-faces-multiyear-gap-missile-stocks-iran-war.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-29T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ceasefire Violations: Iranian Missiles Target Kuwait as American Drones Strike Near Bandar Abbas",
-      "url": "https://www.naturalnews.com/2026-05-29-ceasefire-violations-iran-targets-kuwait-after-us-strike.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-29T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trumpâs 5,000 troop surge to Poland sparks Russian warning of âmilitary-technicalâ response",
-      "url": "https://www.naturalnews.com/2026-05-29-trumps-troop-surge-poland-sparks-russian-warning.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-05-29T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian drone launched against Ukraine crashes in Romania, injuring 2",
-      "url": "https://abcnews.com/International/wireStory/russian-drone-launched-ukraine-crashes-romania-injuring-2-133408857",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-05-29T05:37:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iranian FA chief unaware of Azmoun World Cup call-up plans",
-      "url": "https://www.channelnewsasia.com/sport/iranian-fa-chief-unaware-azmoun-world-cup-call-up-plans-6149146",
-      "source": "CNA",
-      "publishedAt": "2026-05-29T05:33:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Civilians in Lebanon hit hardest as Israel targets Hezbollah",
-      "url": "https://www.dw.com/en/civilians-in-lebanon-hit-hardest-as-israel-targets-hezbollah/a-77332295",
+      "title": "Israel, Lebanon set for Pentagon talks after heavy strikes",
+      "url": "https://www.dw.com/en/israel-lebanon-set-for-pentagon-talks-after-strikes-vance-says-iran-deal-close-but-not-there-yet/live-77338255",
       "source": "DW (English)",
-      "publishedAt": "2026-05-29T05:29:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel concerned US-Iran agreement could limit IDF in Lebanon",
-      "url": "https://www.israelnationalnews.com/news/427796",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-29T05:08:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Apparently, Putin is now acting crazy because the Ukraine war went wrong.",
-      "url": "https://english.gossiplankanews.com/2026/05/apparently-putin-is-now-acting-crazy.html",
-      "source": "Gossiplankanews.com",
-      "publishedAt": "2026-05-29T04:30:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Residents in Lebanon's south caught in the middle as fighting intensifies",
-      "url": "https://www.abc.net.au/news/2026-05-29/southern-lebanon-israel-hezbollah-conflict-evacuation-warnings/106735794",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-29T02:00:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran truce deal awaits Trump as strikes test ceasefire",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-truce-deal-awaits-trump-as-strikes-test-ceasefire/articleshow/131379796.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-29T01:21:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel hits Lebanese capital in ‘targeted strike’",
-      "url": "https://thechronicle.com.gh/israel-hits-lebanese-capital-in-targeted-strike/",
-      "source": "Thechronicle.com.gh",
-      "publishedAt": "2026-05-29T00:53:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Russia warns US against sending more troops to its borders",
-      "url": "https://www.rt.com/news/640702-poland-us-troops-deployment/",
-      "source": "RT",
-      "publishedAt": "2026-05-28T23:45:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Groundhog Day: Iran War Edition",
-      "url": "http://foreignpolicy.com/2026/05/28/iran-war-trump-mou-deal-lebanon-israel/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-28T22:02:31Z",
+      "publishedAt": "2026-05-29T10:13:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

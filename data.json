@@ -1,7 +1,135 @@
 {
-  "updated": "2026-05-30T19:13:11Z",
-  "count": 30,
+  "updated": "2026-05-31T03:42:08Z",
+  "count": 25,
   "articles": [
+    {
+      "title": "US Expects Hezbollah to De-Escalate — Rubio Tells Lebanon's President",
+      "url": "https://sputnikglobe.com/20260530/us-expects-hezbollah-to-de-escalate--rubio-tells-lebanons-president-1124213357.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-05-30T03:39:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli forces push further into Lebanon as delegations meet in US",
+      "url": "https://www.digitaljournal.com/world/israeli-forces-push-further-into-lebanon-as-delegations-meet-in-us/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-05-30T03:37:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IMF, World Bank Warn Northern Hemisphere Economies at Risk if Hormuz Crisis Persists",
+      "url": "https://sputnikglobe.com/20260530/imf-world-bank-warn-northern-hemisphere-economies-at-risk-if-hormuz-crisis-persists-1124213221.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-05-30T03:17:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IRGC Warns: We Will Bring 'Utter Ruin' If U.S. Blockade Continues",
+      "url": "https://freerepublic.com/focus/f-news/4381534/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-05-30T02:04:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump insists on red lines as Iran deal remains elusive",
+      "url": "https://economictimes.indiatimes.com/news/defence/trump-insists-on-red-lines-as-iran-deal-remains-elusive/articleshow/131402515.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-30T01:38:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Romania drone incident, response to NATO threats: Key takeaways from Putin’s chat with journalists",
+      "url": "https://www.rt.com/russia/640757-putin-ukraine-conflict-romania-kazakhstan/",
+      "source": "RT",
+      "publishedAt": "2026-05-30T01:03:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump concludes meeting on potential Iran deal without announcing decision",
+      "url": "https://www.abc.net.au/news/2026-05-30/trump-concludes-meeting-on-iran-without-announcing-a-decision/106740394",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-29T22:17:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Japan sends SDF personnel to NATO's Ukraine support hub in Germany",
+      "url": "https://japantoday.com/category/politics/japan-sends-sdf-personnel-to-nato%27s-ukraine-support-hub-in-germany",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-29T21:31:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Romania says Russian drone hit apartment block; NATO vows to defend alliance territory",
+      "url": "https://japantoday.com/category/world/romania-says-russian-drone-hit-apartment-block-nato-vows-to-defend-alliance-territory4",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-29T21:25:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says he will soon decide on Iran deal, says Hormuz Strait must open",
+      "url": "https://japantoday.com/category/world/trump-says-will-soon-decide-on-iran-deal-says-hormuz-strait-must-open",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-29T21:24:32Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel Suggests Renewing Iran Military Strikes if U.S. Deal Does Not Materialize",
+      "url": "https://www.breitbart.com/middle-east/2026/05/29/israel-suggests-renewing-iran-military-strikes-if-u-s-deal-does-not-materialize/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-05-29T21:19:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.N. Blacklists Israel, Russia for Sexual Violence in Conflict",
+      "url": "http://foreignpolicy.com/2026/05/29/israel-russia-sexual-violence-un-report-guterres/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-05-29T20:49:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump making final decision on Iran deal",
+      "url": "https://punchng.com/trump-making-final-decision-on-iran-deal/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-29T20:37:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelensky warns Russia is prepping 'new massive attack' after drone strike in Romania - while Putin claims Moscow 'has never threatened' European countries",
+      "url": "https://www.dailymail.com/news/article-15859589/Zelensky-warns-Russia-prepping-new-massive-attack-Romania.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-29T20:37:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "This is the dangerous myth holding America hostage",
+      "url": "https://www.rt.com/news/640755-dangerous-myth-holding-america/",
+      "source": "RT",
+      "publishedAt": "2026-05-29T20:32:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Congress quietly moves to integrate US and Israeli militaries",
+      "url": "https://freerepublic.com/focus/f-news/4381482/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-05-29T20:25:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Ukraine-bound Russian drone crashes into Romanian building",
       "url": "https://economictimes.indiatimes.com/news/defence/ukraine-bound-russian-drone-crashes-into-romanian-building/articleshow/131397946.cms",
@@ -59,22 +187,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Possible NATO responses to Romania drone crash",
-      "url": "https://economictimes.indiatimes.com/news/defence/possible-nato-responses-to-romania-drone-crash/articleshow/131396894.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-29T18:02:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump says he will decide imminently whether to accept Iran ceasefire deal - but Tehran already cast doubt",
-      "url": "https://www.dailymail.com/news/article-15859225/Trump-decide-imminently-Iran-ceasefire-deal.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-29T17:46:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "WSJ report: UAE launched dozens of airstrikes in Iran in coordination with US and Israel",
       "url": "https://www.israelnationalnews.com/news/427824",
       "source": "Israelnationalnews.com",
@@ -83,162 +195,10 @@
       "_label": "Iran War"
     },
     {
-      "title": "America First? Swamp’s new draft defense bill opens up taxpayer purse to foreigners",
-      "url": "https://www.wnd.com/2026/05/america-first-swamps-new-draft-defense-bill-opens/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-05-29T17:21:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israeli troops advance into Lebanon, complicating peace deal prospects",
-      "url": "https://cryptobriefing.com/israeli-troops-advance-into-lebanon-complicating-peace-deal-prospects/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-29T17:16:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war",
-      "url": "https://www.pbs.org/newshour/world/with-a-stalemate-in-ukraine-and-discontent-at-home-putin-seems-ready-to-escalate-his-war",
-      "source": "PBS",
-      "publishedAt": "2026-05-29T17:14:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Says ‘Final Determination’ on Iran Truce Is Coming",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-says-final-determination-on-iran-truce-is-coming",
-      "source": "Financial Post",
-      "publishedAt": "2026-05-29T17:09:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran draft agreement includes end to Lebanon war, signals regional de-escalation",
-      "url": "https://cryptobriefing.com/us-iran-draft-agreement-includes-end-to-lebanon-war-signals-regional-de/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-29T16:46:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel controls 60% of Gaza — and aims to expand hold to 70% amid Hamas war, Benjamin Netanyahu says",
-      "url": "https://www.jns.org/news/israel-news/netanyahu-israel-controls-60-of-gaza-aims-to-expand-hold-to-70",
-      "source": "JNS.org",
-      "publishedAt": "2026-05-29T16:27:05Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli PM says Lebanon ground offensive has expanded past key river",
-      "url": "https://www.cbc.ca/news/world/israel-lebanon-litani-river-9.7216696",
-      "source": "CBC News",
-      "publishedAt": "2026-05-29T16:15:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Five killed in Lebanon as Israeli forces advance across key Litani River",
-      "url": "https://www.aljazeera.com/news/2026/5/29/five-killed-in-lebanon-as-israeli-forces-advance-across-key-litani-river",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-29T15:59:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump meeting with aides to make 'final determination' on moving forward with Iran deal",
-      "url": "https://www.pbs.org/newshour/world/trump-meeting-with-aides-to-make-final-determination-on-moving-forward-with-iran-deal",
-      "source": "PBS",
-      "publishedAt": "2026-05-29T15:51:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "News24 | Vance says progress made as US-Iran deal awaits Trump green light",
-      "url": "https://www.news24.com/world/vance-says-progress-made-as-us-iran-deal-awaits-trump-green-light-20260529-0914",
-      "source": "News24",
-      "publishedAt": "2026-05-29T15:14:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Just what are Israel’s long-term plans for Gaza?",
-      "url": "https://www.aljazeera.com/news/2026/5/29/just-what-are-israels-long-term-plans-for",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-29T15:01:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran ceasefire agreement has yet to be approved by Trump",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/05/29/us-iran-ceasefire-agreement-has-yet-to-be-approved-by-trump/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-29T14:36:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "South Korea pushes nuclear-powered submarine plan",
       "url": "https://www.dw.com/en/south-korea-pushes-nuclear-powered-submarine-plan/a-77348692",
       "source": "DW (English)",
       "publishedAt": "2026-05-29T13:34:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump Threatens to ‘Blow Up’ Oman Despite Centuries of US Ties",
-      "url": "https://www.globalresearch.ca/trump-threatens-blow-up-oman/5928159",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-05-29T12:03:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump plan to give start-ups plutonium harvested from Cold War–era nuclear weapons is risky, experts say",
-      "url": "https://www.scientificamerican.com/article/experts-warn-against-trump-plan-to-give-cold-war-plutonium-to-nuclear-power-companies/",
-      "source": "Scientific American",
-      "publishedAt": "2026-05-28T14:30:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "North Korea Says It Successfully Tested AI-Guided Missile",
-      "url": "https://www.breitbart.com/asia/2026/05/28/north-korea-says-it-successfully-tested-ai-guided-missile/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-05-28T13:48:50Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "China’s Navy Is Shifting Pressure Beyond the Taiwan Strait",
-      "url": "https://thediplomat.com/2026/05/chinas-navy-is-shifting-pressure-beyond-the-taiwan-strait/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-05-28T13:29:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "North Korea: New report sheds light on chemical weapons",
-      "url": "https://www.dw.com/en/north-korea-new-report-sheds-light-on-chemical-weapons/a-77329770",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-28T12:13:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "What Everyone is Missing About North Korea’s Reunification Strategy",
-      "url": "https://warontherocks.com/what-everyone-is-missing-about-north-koreas-reunification-strategy/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-05-28T07:15:46Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Singaporean Foreign Minister Winds Up Working Visit to North Korea",
-      "url": "https://thediplomat.com/2026/05/singaporean-foreign-minister-winds-up-working-visit-to-north-korea/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-05-28T00:38:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

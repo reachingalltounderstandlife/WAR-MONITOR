@@ -1,44 +1,108 @@
 {
-  "updated": "2026-05-31T03:42:08Z",
-  "count": 25,
+  "updated": "2026-05-31T08:43:12Z",
+  "count": 23,
   "articles": [
     {
-      "title": "US Expects Hezbollah to De-Escalate — Rubio Tells Lebanon's President",
-      "url": "https://sputnikglobe.com/20260530/us-expects-hezbollah-to-de-escalate--rubio-tells-lebanons-president-1124213357.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-05-30T03:39:00Z",
+      "title": "Europe Is Facing Up to a Painful Vulnerability to Drone Warfare",
+      "url": "https://financialpost.com/pmn/business-pmn/europe-is-facing-up-to-a-painful-vulnerability-to-drone-warfare",
+      "source": "Financial Post",
+      "publishedAt": "2026-05-30T08:03:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
+      "url": "https://www.aljazeera.com/news/2026/5/30/iran-war-what-is-happening-on-day-92-as-trump-weighs-iran-deal",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-30T07:30:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US warns it is capable of resuming war with Iran",
+      "url": "https://www.rte.ie/news/middle-east/2026/0530/1575998-us-iran-conflict/",
+      "source": "RTE",
+      "publishedAt": "2026-05-30T06:54:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war: US says ready to resume hostilities, Hegseth warns",
+      "url": "https://www.dw.com/en/iran-war-us-says-ready-to-resume-hostilities-hegseth-warns/live-77353339",
+      "source": "DW (English)",
+      "publishedAt": "2026-05-30T06:35:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war: Trump toughens terms for potential deal with US",
+      "url": "https://www.dw.com/en/iran-war-trump-toughens-terms-for-potential-deal-with-us/live-77353339",
+      "source": "DW (English)",
+      "publishedAt": "2026-05-30T06:35:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli forces push further into Lebanon as delegations meet in US",
+      "url": "https://www.hurriyetdailynews.com/israel-says-forces-pushing-further-into-lebanon-222680",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-30T06:31:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US warns capable of resuming war with Iran as deal remains elusive",
+      "url": "https://www.hurriyetdailynews.com/us-warns-capable-of-resuming-war-with-iran-as-deal-remains-elusive-222678",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-30T06:24:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "News24 | US warns capable of resuming war with Iran as deal remains elusive",
+      "url": "https://www.news24.com/world/us-warns-capable-of-resuming-war-with-iran-as-deal-remains-elusive-20260530-0367",
+      "source": "News24",
+      "publishedAt": "2026-05-30T06:08:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US warns capable of resuming war with Iran as deal remains elusive",
+      "url": "https://www.digitaljournal.com/world/us-warns-capable-of-resuming-war-with-iran-as-deal-remains-elusive/article",
+      "source": "Digital Journal",
+      "publishedAt": "2026-05-30T06:02:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump: No Sanctions Relief For Iran as Part of Deal",
+      "url": "https://www.naturalnews.com/2026-05-30-trump-no-sanctions-relief-for-iran.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-30T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli Airstrikes Hit Beirut Suburbs After Months of Relative Calm, Killing 14",
+      "url": "https://www.naturalnews.com/2026-05-30-israeli-airstrikes-hit-beirut-suburbs-14-dead.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-30T06:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Israeli forces push further into Lebanon as delegations meet in US",
-      "url": "https://www.digitaljournal.com/world/israeli-forces-push-further-into-lebanon-as-delegations-meet-in-us/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-05-30T03:37:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "Hormuz, Ukraine and Japan: Three stories that mattered this week",
+      "url": "https://www.livemint.com/opinion/online-views/iran-war-hormuz-blockade-russia-ukraine-war-japan-ageing-population-11780115848080.html",
+      "source": "Livemint",
+      "publishedAt": "2026-05-30T05:58:47Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
-      "title": "IMF, World Bank Warn Northern Hemisphere Economies at Risk if Hormuz Crisis Persists",
-      "url": "https://sputnikglobe.com/20260530/imf-world-bank-warn-northern-hemisphere-economies-at-risk-if-hormuz-crisis-persists-1124213221.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-05-30T03:17:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "IRGC Warns: We Will Bring 'Utter Ruin' If U.S. Blockade Continues",
-      "url": "https://freerepublic.com/focus/f-news/4381534/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-30T02:04:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump insists on red lines as Iran deal remains elusive",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-insists-on-red-lines-as-iran-deal-remains-elusive/articleshow/131402515.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-30T01:38:50Z",
+      "title": "US threatens renewed war as Iran deal remains elusive",
+      "url": "https://punchng.com/us-threatens-renewed-war-as-iran-deal-remains-elusive/",
+      "source": "The Punch",
+      "publishedAt": "2026-05-30T05:53:38Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -49,14 +113,6 @@
       "publishedAt": "2026-05-30T01:03:32Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump concludes meeting on potential Iran deal without announcing decision",
-      "url": "https://www.abc.net.au/news/2026-05-30/trump-concludes-meeting-on-iran-without-announcing-a-decision/106740394",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-05-29T22:17:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Japan sends SDF personnel to NATO's Ukraine support hub in Germany",
@@ -75,22 +131,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump says he will soon decide on Iran deal, says Hormuz Strait must open",
-      "url": "https://japantoday.com/category/world/trump-says-will-soon-decide-on-iran-deal-says-hormuz-strait-must-open",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-29T21:24:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel Suggests Renewing Iran Military Strikes if U.S. Deal Does Not Materialize",
-      "url": "https://www.breitbart.com/middle-east/2026/05/29/israel-suggests-renewing-iran-military-strikes-if-u-s-deal-does-not-materialize/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-05-29T21:19:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "U.N. Blacklists Israel, Russia for Sexual Violence in Conflict",
       "url": "http://foreignpolicy.com/2026/05/29/israel-russia-sexual-violence-un-report-guterres/",
       "source": "Foreign Policy",
@@ -99,36 +139,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump making final decision on Iran deal",
-      "url": "https://punchng.com/trump-making-final-decision-on-iran-deal/",
-      "source": "The Punch",
-      "publishedAt": "2026-05-29T20:37:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Zelensky warns Russia is prepping 'new massive attack' after drone strike in Romania - while Putin claims Moscow 'has never threatened' European countries",
       "url": "https://www.dailymail.com/news/article-15859589/Zelensky-warns-Russia-prepping-new-massive-attack-Romania.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-05-29T20:37:20Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "This is the dangerous myth holding America hostage",
-      "url": "https://www.rt.com/news/640755-dangerous-myth-holding-america/",
-      "source": "RT",
-      "publishedAt": "2026-05-29T20:32:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Congress quietly moves to integrate US and Israeli militaries",
-      "url": "https://freerepublic.com/focus/f-news/4381482/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-05-29T20:25:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine-bound Russian drone crashes into Romanian building",
@@ -161,38 +177,6 @@
       "publishedAt": "2026-05-29T18:28:55Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Russian rate of losses in Ukraine almost triples in one year",
-      "url": "https://www.aljazeera.com/features/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-29T18:28:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Show HN: Simple news aggregator with source bias meters",
-      "url": "https://unbiasthenews.com",
-      "source": "Unbiasthenews.com",
-      "publishedAt": "2026-05-29T18:21:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli forces push further north into Lebanon as US hosts peace talks in Washington",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/05/29/israeli-forces-push-further-north-into-lebanon-as-us-hosts-peace-talks-in-washington/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-05-29T18:12:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "WSJ report: UAE launched dozens of airstrikes in Iran in coordination with US and Israel",
-      "url": "https://www.israelnationalnews.com/news/427824",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-29T17:46:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "South Korea pushes nuclear-powered submarine plan",

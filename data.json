@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-31T13:42:43Z",
-  "count": 27,
+  "updated": "2026-05-31T19:15:09Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "US enforces blockade in Gulf of Oman, disables Gambia-flagged vessel",
+      "url": "https://cryptobriefing.com/us-enforces-blockade-in-gulf-of-oman-disables-gambia-flagged-vessel/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-05-30T18:26:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US 'more than capable' of resuming Iran war: Hegseth",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-more-than-capable-of-resuming-iran-war-hegseth/articleshow/131413634.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-30T17:47:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Getting Iran’s right to enrich wrong",
+      "url": "https://www.wnd.com/2026/05/getting-irans-right-enrich-wrong/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-05-30T17:47:42Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Russia Signs Military Cooperation Deal With Afghanistan’s Taliban Government",
+      "url": "https://oilprice.com/Geopolitics/Europe/Russia-Signs-Military-Cooperation-Deal-With-Afghanistans-Taliban-Government.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-05-30T17:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Congress Is Poised to Integrate US and Israeli Militaries More Closely Than Ever",
+      "url": "https://responsiblestatecraft.org/israel-us-military/",
+      "source": "Responsiblestatecraft.org",
+      "publishedAt": "2026-05-30T16:59:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel launches more south Lebanon strikes after warnings",
+      "url": "https://www.channelnewsasia.com/world/israel-launches-more-south-lebanon-strikes-after-warnings-6151526",
+      "source": "CNA",
+      "publishedAt": "2026-05-30T15:20:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Dutch deputy PM says US criticism of Europe 'necessary', cites Ukraine war as wake-up call",
       "url": "https://www.channelnewsasia.com/world/netherlands-dpm-defence-minister-dilan-yesilgoz-zegerius-interview-shangri-la-dialogue-6151461",
@@ -59,14 +107,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Reining in the Pentagon: Can the Military-Industrial Beast Be Tamed?",
-      "url": "https://www.fairobserver.com/politics/reining-in-the-pentagon-can-the-military-industrial-beast-be-tamed/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-05-30T11:54:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korean POWs: Political pawns in Russia’s war on Ukraine?",
       "url": "https://www.aljazeera.com/video/101-east/2026/5/30/north-korean-pows-political-pawns-in-russias-war-on-ukraine",
       "source": "Al Jazeera English",
@@ -99,28 +139,20 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
-      "url": "https://www.aljazeera.com/news/2026/5/30/iran-war-what-is-happening-on-day-92-as-trump-weighs-iran-deal",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-30T07:30:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "US warns it is capable of resuming war with Iran",
       "url": "https://www.rte.ie/news/middle-east/2026/0530/1575998-us-iran-conflict/",
       "source": "RTE",
       "publishedAt": "2026-05-30T06:54:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran war: US says ready to resume hostilities, Hegseth warns",
       "url": "https://www.dw.com/en/iran-war-us-says-ready-to-resume-hostilities-hegseth-warns/live-77353339",
       "source": "DW (English)",
       "publishedAt": "2026-05-30T06:35:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran war: Trump toughens terms for potential deal with US",
@@ -143,22 +175,6 @@
       "url": "https://www.hurriyetdailynews.com/us-warns-capable-of-resuming-war-with-iran-as-deal-remains-elusive-222678",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-05-30T06:24:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "News24 | US warns capable of resuming war with Iran as deal remains elusive",
-      "url": "https://www.news24.com/world/us-warns-capable-of-resuming-war-with-iran-as-deal-remains-elusive-20260530-0367",
-      "source": "News24",
-      "publishedAt": "2026-05-30T06:08:55Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US warns capable of resuming war with Iran as deal remains elusive",
-      "url": "https://www.digitaljournal.com/world/us-warns-capable-of-resuming-war-with-iran-as-deal-remains-elusive/article",
-      "source": "Digital Journal",
-      "publishedAt": "2026-05-30T06:02:20Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -199,14 +215,6 @@
       "url": "https://www.dailymail.com/news/article-15859589/Zelensky-warns-Russia-prepping-new-massive-attack-Romania.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-05-29T20:37:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine-bound Russian drone crashes into Romanian building",
-      "url": "https://economictimes.indiatimes.com/news/defence/ukraine-bound-russian-drone-crashes-into-romanian-building/articleshow/131397946.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-29T19:04:52Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

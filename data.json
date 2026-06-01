@@ -1,7 +1,55 @@
 {
-  "updated": "2026-05-31T19:15:09Z",
-  "count": 28,
+  "updated": "2026-06-01T03:57:09Z",
+  "count": 23,
   "articles": [
+    {
+      "title": "Market Outlook: US-Iran talks, crude oil among 5 factors to drive D-St in first week of June",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-outlook-us-iran-talks-crude-oil-among-5-factors-to-drive-d-st-in-first-week-of-june/articleshow/131418464.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-31T03:51:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. disables vessel accused of violating Hormuz blockade",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-31/ty-article-live/u-s-disables-vessel-accused-of-violating-hormuz-blockade/0000019e-7b88-d618-a9be-7fefd21c0000",
+      "source": "Haaretz",
+      "publishedAt": "2026-05-31T01:03:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran-U.S. war could erupt again, warns Washington as Strait of Hormuz blockade continues. What to expect this week?",
+      "url": "https://economictimes.indiatimes.com/news/international/us/iran-u-s-war-could-erupt-again-warns-washington-as-strait-of-hormuz-blockade-continues-what-to-expect-this-week/articleshow/131417567.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-31T01:00:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanese PM accuses Israel of 'scorched-earth policy'",
+      "url": "https://www.rte.ie/news/middle-east/2026/0531/1576079-lebanon-israel/",
+      "source": "RTE",
+      "publishedAt": "2026-05-31T00:27:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli launches strikes near ancient heritage castle site in southern Lebanon",
+      "url": "https://japantoday.com/category/world/israeli-strikes-reportedly-pound-near-crusader-built-castle-in-lebanon",
+      "source": "Japan Today",
+      "publishedAt": "2026-05-30T21:06:41Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hezbollah command center erupts in secondary explosions",
+      "url": "https://www.israelnationalnews.com/news/427842",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-05-30T19:56:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "US enforces blockade in Gulf of Oman, disables Gambia-flagged vessel",
       "url": "https://cryptobriefing.com/us-enforces-blockade-in-gulf-of-oman-disables-gambia-flagged-vessel/",
@@ -83,28 +131,20 @@
       "_label": "Iran War"
     },
     {
-      "title": "UAE joined US-Israeli aggression against Iran from outset: Report",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260530-presstv08.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-30T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel Issues New Evacuation Orders in Southern Lebanon",
       "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260530-rferl03.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-05-30T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Lebanese PM warns of 'dangerous' Israeli escalation as fighting intensifies in south",
       "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260530-presstv09.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-05-30T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "North Korean POWs: Political pawns in Russia’s war on Ukraine?",
@@ -139,92 +179,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US warns it is capable of resuming war with Iran",
-      "url": "https://www.rte.ie/news/middle-east/2026/0530/1575998-us-iran-conflict/",
-      "source": "RTE",
-      "publishedAt": "2026-05-30T06:54:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran war: US says ready to resume hostilities, Hegseth warns",
-      "url": "https://www.dw.com/en/iran-war-us-says-ready-to-resume-hostilities-hegseth-warns/live-77353339",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-30T06:35:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran war: Trump toughens terms for potential deal with US",
-      "url": "https://www.dw.com/en/iran-war-trump-toughens-terms-for-potential-deal-with-us/live-77353339",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-30T06:35:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli forces push further into Lebanon as delegations meet in US",
-      "url": "https://www.hurriyetdailynews.com/israel-says-forces-pushing-further-into-lebanon-222680",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-30T06:31:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US warns capable of resuming war with Iran as deal remains elusive",
-      "url": "https://www.hurriyetdailynews.com/us-warns-capable-of-resuming-war-with-iran-as-deal-remains-elusive-222678",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-05-30T06:24:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Romania drone incident, response to NATO threats: Key takeaways from Putin’s chat with journalists",
       "url": "https://www.rt.com/russia/640757-putin-ukraine-conflict-romania-kazakhstan/",
       "source": "RT",
       "publishedAt": "2026-05-30T01:03:32Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Japan sends SDF personnel to NATO's Ukraine support hub in Germany",
-      "url": "https://japantoday.com/category/politics/japan-sends-sdf-personnel-to-nato%27s-ukraine-support-hub-in-germany",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-29T21:31:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Romania says Russian drone hit apartment block; NATO vows to defend alliance territory",
-      "url": "https://japantoday.com/category/world/romania-says-russian-drone-hit-apartment-block-nato-vows-to-defend-alliance-territory4",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-29T21:25:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "U.N. Blacklists Israel, Russia for Sexual Violence in Conflict",
-      "url": "http://foreignpolicy.com/2026/05/29/israel-russia-sexual-violence-un-report-guterres/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-05-29T20:49:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelensky warns Russia is prepping 'new massive attack' after drone strike in Romania - while Putin claims Moscow 'has never threatened' European countries",
-      "url": "https://www.dailymail.com/news/article-15859589/Zelensky-warns-Russia-prepping-new-massive-attack-Romania.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-29T20:37:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "South Korea pushes nuclear-powered submarine plan",
-      "url": "https://www.dw.com/en/south-korea-pushes-nuclear-powered-submarine-plan/a-77348692",
-      "source": "DW (English)",
-      "publishedAt": "2026-05-29T13:34:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

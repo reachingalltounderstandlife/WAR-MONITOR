@@ -1,70 +1,150 @@
 {
-  "updated": "2026-06-01T03:57:09Z",
+  "updated": "2026-06-01T11:30:55Z",
   "count": 23,
   "articles": [
     {
-      "title": "Market Outlook: US-Iran talks, crude oil among 5 factors to drive D-St in first week of June",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-outlook-us-iran-talks-crude-oil-among-5-factors-to-drive-d-st-in-first-week-of-june/articleshow/131418464.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-31T03:51:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. disables vessel accused of violating Hormuz blockade",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-31/ty-article-live/u-s-disables-vessel-accused-of-violating-hormuz-blockade/0000019e-7b88-d618-a9be-7fefd21c0000",
+      "title": "Northern Israel subjected to ongoing Hezbollah rocket fire as IDF deepens Lebanon offensive",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-31/ty-article/.premium/northern-israel-hit-with-hezbollah-rocket-fire-as-idf-deepens-lebanon-offensive/0000019e-7d7e-dddb-a1de-7fff46cd0000",
       "source": "Haaretz",
-      "publishedAt": "2026-05-31T01:03:00Z",
+      "publishedAt": "2026-05-31T11:29:02Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Iran-U.S. war could erupt again, warns Washington as Strait of Hormuz blockade continues. What to expect this week?",
-      "url": "https://economictimes.indiatimes.com/news/international/us/iran-u-s-war-could-erupt-again-warns-washington-as-strait-of-hormuz-blockade-continues-what-to-expect-this-week/articleshow/131417567.cms",
+      "title": "Israeli army captures strategic Beaufort Castle as troops push deeper into Lebanon",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/05/31/israeli-army-captures-strategic-beaufort-castle-as-troops-push-deeper-into-lebanon/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-31T11:19:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine has a war lesson for NATO forces: Drone units need to be constantly on the move with command centers buried deep",
+      "url": "https://www.businessinsider.com/ukraine-tells-west-drone-command-centers-must-be-mobile-underground-2026-5",
+      "source": "Business Insider",
+      "publishedAt": "2026-05-31T11:16:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran says does not trust US as Trump toughens terms",
+      "url": "https://www.hurriyetdailynews.com/iran-chief-negotiator-says-no-deal-with-us-until-iranian-rights-secured-222717",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-05-31T11:06:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "To Break the Siege",
+      "url": "https://www.nybooks.com/online/2026/05/31/to-break-the-siege-gaza-flotilla/",
+      "source": "The New York Review of Books",
+      "publishedAt": "2026-05-31T11:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 5/31/2026",
+      "url": "https://www.nakedcapitalism.com/2026/05/links-5-31-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-05-31T10:55:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel captures a key Lebanon site, crossing Litani River in deepest incursion in 26 years",
+      "url": "https://www.nbcnews.com/world/lebanon/israel-captures-key-lebanon-site-crossing-litani-river-rcna347732",
+      "source": "NBC News",
+      "publishedAt": "2026-05-31T10:39:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran says no deal with US unless its rights secured",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-no-deal-with-us-unless-its-rights-secured/articleshow/131421648.cms",
       "source": "The Times of India",
-      "publishedAt": "2026-05-31T01:00:28Z",
+      "publishedAt": "2026-05-31T10:31:02Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Lebanese PM accuses Israel of 'scorched-earth policy'",
-      "url": "https://www.rte.ie/news/middle-east/2026/0531/1576079-lebanon-israel/",
-      "source": "RTE",
-      "publishedAt": "2026-05-31T00:27:58Z",
+      "title": "Trump Says US 'Very Close' to Iran Deal But Warns Military Option Remains",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/05/iran-260531-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-05-31T10:10:25Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Israeli launches strikes near ancient heritage castle site in southern Lebanon",
-      "url": "https://japantoday.com/category/world/israeli-strikes-reportedly-pound-near-crusader-built-castle-in-lebanon",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-30T21:06:41Z",
+      "title": "Iran’s reopened underground missile sites show limits of US bombing plan | CNN",
+      "url": "https://www.cnn.com/2026/05/31/us/iran-tunnels-reopened-us-strategy-bombing-invs",
+      "source": "CNN",
+      "publishedAt": "2026-05-31T10:00:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli troops seize castle in deepest incursion into Lebanon in 26 years",
+      "url": "https://www.abc.net.au/news/2026-05-31/israeli-army-captures-beaufort-castle-southern-lebanon-hezbollah/106742856",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-05-31T09:38:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine’s ramped-up drone power is transforming its fortunes against Russia",
+      "url": "https://www.irishtimes.com/world/europe/2026/05/31/ukraines-ramped-up-drone-power-is-transforming-its-fortunes-against-russia/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-05-31T08:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran says does not trust US as Trump toughens terms",
+      "url": "https://www.channelnewsasia.com/world/iran-does-not-trust-us-trump-deal-terms-6152266",
+      "source": "CNA",
+      "publishedAt": "2026-05-31T07:35:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Hezbollah command center erupts in secondary explosions",
-      "url": "https://www.israelnationalnews.com/news/427842",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-05-30T19:56:00Z",
+      "title": "Panic on beach in northern Israel during Hezbollah strikes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/panic-on-beach-in-northern-israel-during-hezbollah-strikes",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-05-31T06:43:04Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "US enforces blockade in Gulf of Oman, disables Gambia-flagged vessel",
-      "url": "https://cryptobriefing.com/us-enforces-blockade-in-gulf-of-oman-disables-gambia-flagged-vessel/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-30T18:26:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "US to Reduce Military Commitments to NATO, Officials Say",
+      "url": "https://www.naturalnews.com/2026-05-31-us-officials-reduce-military-commitments-to-nato.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-05-31T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
-      "title": "US 'more than capable' of resuming Iran war: Hegseth",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-more-than-capable-of-resuming-iran-war-hegseth/articleshow/131413634.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-30T17:47:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "Iran war: Trump toughens terms for potential deal — reports",
+      "url": "https://www.dw.com/en/iran-war-trump-toughens-terms-for-potential-deal-reports/live-77353339",
+      "source": "DW (English)",
+      "publishedAt": "2026-05-31T05:42:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Concerns mount that Belarus could be a launchpad for a new Russian offensive in Ukraine",
+      "url": "https://abcnews.com/International/wireStory/concerns-mount-belarus-launchpad-new-russian-offensive-ukraine-133460131",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-05-31T04:14:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Company Testing Humanoid Robots in War Zone in Ukraine - Reports",
+      "url": "https://sputnikglobe.com/20260531/us-company-testing-humanoid-robots-in-war-zone-in-ukraine---reports-1124220105.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-05-31T03:58:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Getting Iran’s right to enrich wrong",
@@ -83,68 +163,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Congress Is Poised to Integrate US and Israeli Militaries More Closely Than Ever",
-      "url": "https://responsiblestatecraft.org/israel-us-military/",
-      "source": "Responsiblestatecraft.org",
-      "publishedAt": "2026-05-30T16:59:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel launches more south Lebanon strikes after warnings",
-      "url": "https://www.channelnewsasia.com/world/israel-launches-more-south-lebanon-strikes-after-warnings-6151526",
-      "source": "CNA",
-      "publishedAt": "2026-05-30T15:20:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Dutch deputy PM says US criticism of Europe 'necessary', cites Ukraine war as wake-up call",
       "url": "https://www.channelnewsasia.com/world/netherlands-dpm-defence-minister-dilan-yesilgoz-zegerius-interview-shangri-la-dialogue-6151461",
       "source": "CNA",
       "publishedAt": "2026-05-30T13:34:05Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel deepens Lebanon incursion: heritage sites targeted, soldiers wounded",
-      "url": "https://economictimes.indiatimes.com/news/defence/israel-deepens-lebanon-incursion-heritage-sites-targeted-soldiers-wounded/articleshow/131409726.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-05-30T13:08:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hegseth Says US Ready to Resume Iran Strikes If Talks Fail",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260530-rferl04.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-30T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Five Americans injured in Iranian missile strike on Kuwait base: Report",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260530-presstv03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-30T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel Issues New Evacuation Orders in Southern Lebanon",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260530-rferl03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-30T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanese PM warns of 'dangerous' Israeli escalation as fighting intensifies in south",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260530-presstv09.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-05-30T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "North Korean POWs: Political pawns in Russia’s war on Ukraine?",
@@ -159,30 +183,6 @@
       "url": "https://economictimes.indiatimes.com/news/defence/europe-is-facing-up-to-a-painful-vulnerability-to-drone-warfare/articleshow/131408158.cms",
       "source": "The Times of India",
       "publishedAt": "2026-05-30T11:05:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A New Iron Curtain Is Inevitable",
-      "url": "https://www.nakedcapitalism.com/2026/05/a-new-iron-curtain-is-inevitable.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-05-30T10:16:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europe Is Facing Up to a Painful Vulnerability to Drone Warfare",
-      "url": "https://financialpost.com/pmn/business-pmn/europe-is-facing-up-to-a-painful-vulnerability-to-drone-warfare",
-      "source": "Financial Post",
-      "publishedAt": "2026-05-30T08:03:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Romania drone incident, response to NATO threats: Key takeaways from Putin’s chat with journalists",
-      "url": "https://www.rt.com/russia/640757-putin-ukraine-conflict-romania-kazakhstan/",
-      "source": "RT",
-      "publishedAt": "2026-05-30T01:03:32Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

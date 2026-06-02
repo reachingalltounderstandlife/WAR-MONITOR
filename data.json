@@ -1,124 +1,164 @@
 {
-  "updated": "2026-06-02T16:21:55Z",
-  "count": 29,
+  "updated": "2026-06-02T20:46:57Z",
+  "count": 31,
   "articles": [
     {
-      "title": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
-      "url": "https://www.aljazeera.com/news/2026/6/1/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-01T16:15:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran warns northern Israel residents to evacuate as Middle East tensions rattle crypto markets",
-      "url": "https://cryptobriefing.com/iran-warns-northern-israel-evacuate-crypto-impact/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-01T16:11:44Z",
+      "title": "Stocks Rise on Trump’s Iran Remarks, AI Optimism: Markets Wrap",
+      "url": "https://financialpost.com/pmn/business-pmn/stocks-rise-on-trumps-iran-remarks-ai-optimism-markets-wrap",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-01T20:23:06Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "'Sit back and relax': Can Trump afford to go back to war with Iran?",
-      "url": "https://economictimes.indiatimes.com/news/defence/sit-back-and-relax-can-trump-afford-to-go-back-to-war-with-iran/articleshow/131446060.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-01T16:09:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "A Trump Deal With Iran Could Spell Trouble for Netanyahu",
+      "url": "http://foreignpolicy.com/2026/06/01/trump-israel-iran-war-deal-election-netanyahu/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-06-01T20:15:41Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
-      "title": "Report: Lebanese Speaker told US Hezbollah ready for immediate ceasefire",
-      "url": "https://www.israelnationalnews.com/news/427956",
+      "title": "Israeli military targeting first responders in southern Lebanon – RT correspondent (VIDEO)",
+      "url": "https://www.rt.com/news/640804-idf-targeting-rescuers-southern-lebanon-rt-correspondent/",
+      "source": "RT",
+      "publishedAt": "2026-06-01T20:13:48Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Says Israel, Hezbollah Agreed to Halt Fighting",
+      "url": "https://www.newser.com/story/390218/trump-says-israel-hezbollah-agreed-to-halt-fighting.html",
+      "source": "Newser",
+      "publishedAt": "2026-06-01T20:09:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Oil prices jump as Iran suspends peace talks",
+      "url": "https://punchng.com/oil-prices-jump-as-iran-suspends-peace-talks/",
+      "source": "The Punch",
+      "publishedAt": "2026-06-01T20:05:48Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Netanyahu after call with Trump: If Hezbollah attacks us, we will strike Dahieh",
+      "url": "https://www.israelnationalnews.com/news/427968",
       "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-01T16:08:00Z",
+      "publishedAt": "2026-06-01T19:56:32Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "SUMMER OF WAR",
-      "url": "https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d",
-      "source": "Associated Press",
-      "publishedAt": "2026-06-01T16:07:36Z",
+      "title": "Trump says he spoke to Lebanon's Hezbollah through intermediaries",
+      "url": "https://www.channelnewsasia.com/world/trump-says-he-spoke-lebanons-hezbollah-through-intermediaries-6154951",
+      "source": "CNA",
+      "publishedAt": "2026-06-01T19:51:06Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Missiles Fly In Persian Gulf As US, Iran Deal Hangs In Balance",
-      "url": "https://dailycaller.com/2026/06/01/persian-gulf-missiles-iran-us-kuwait-deal-hangs-balance/",
+      "title": "Lebanon's US embassy says Hezbollah accepted US proposal on 'mutual cessation of attacks'",
+      "url": "https://www.channelnewsasia.com/world/lebanons-us-embassy-says-hezbollah-accepted-us-proposal-mutual-cessation-attacks-6154951",
+      "source": "CNA",
+      "publishedAt": "2026-06-01T19:51:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon's US embassy says Hezbollah accepted US proposal on 'mutual cessation of attacks'",
+      "url": "https://www.channelnewsasia.com/world/lebanon-us-embassy-hezbollah-proposal-mutual-cessation-attacks-6154951",
+      "source": "CNA",
+      "publishedAt": "2026-06-01T19:51:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Stocks Up as Trump Cites Rapid Pace in Iran Talks: Markets Wrap",
+      "url": "https://financialpost.com/pmn/business-pmn/stocks-up-as-trump-cites-rapid-pace-in-iran-talks-markets-wrap-2",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-01T19:47:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran targets US air base as fresh attacks strain ceasefire efforts, lift oil prices",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-targets-us-air-base-as-fresh-attacks-strain-ceasefire-efforts-lift-oil-prices/articleshow/131449733.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-01T19:23:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hackers breach senior US Space Force official’s Instagram account and post Iranian propaganda | CNN Politics",
+      "url": "https://www.cnn.com/2026/06/01/politics/hackers-space-force-official-instagram-iranian-propaganda",
+      "source": "CNN",
+      "publishedAt": "2026-06-01T18:47:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Will Russia expand the war to Europe as its Ukraine push falters?",
+      "url": "https://theweek.com/politics/will-russia-expand-the-war-to-europe-as-its-ukraine-push-falters",
+      "source": "The Week Magazine",
+      "publishedAt": "2026-06-01T18:47:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Tries To Restrain Israel, Hezbollah After Bibi Orders Strikes On Beirut",
+      "url": "https://dailycaller.com/2026/06/01/trump-restrain-israel-hezbollah-bibi-strikes-beirut/",
       "source": "The Daily Caller",
-      "publishedAt": "2026-06-01T16:04:37Z",
+      "publishedAt": "2026-06-01T18:26:02Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates - BBC",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183543968",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-06-01T15:53:37Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Can You Stop a Hypersonic Missile?",
-      "url": "https://protortyp.github.io/posts/can-you-stop-a-hypersonic/",
-      "source": "Github.io",
-      "publishedAt": "2026-06-01T15:51:30Z",
+      "title": "Trump Says Iran Talks Still On, Attacks in Lebanon to Halt",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-says-iran-talks-still-on-attacks-in-lebanon-to-halt",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-01T18:25:39Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Oil Jumps Over $6 On Iran Report Of Halted U.S.-Tehran Exchanges, Hormuz Blockade Risk",
-      "url": "https://www.huffpost.com/entry/oil-prices-rise-us-iran-halted-message-exchanges_n_6a1da673e4b0ba3173010884",
-      "source": "HuffPost",
-      "publishedAt": "2026-06-01T15:47:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli airstrikes on Beirut resume as US ceasefire efforts collapse",
-      "url": "https://cryptobriefing.com/israeli-airstrikes-on-beirut-resume-as-us-ceasefire-efforts-collapse/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-01T15:20:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Halts US Negotiations, Vows Full Blockade of Strait of Hormuz in Escalating Conflict",
-      "url": "https://www.ibtimes.com.au/iran-halts-talks-threatens-hormuz-closure-1869910",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-06-01T15:19:56Z",
+      "title": "U.S. bombs Iranian military sites and downs missiles Tehran fired at troops in Kuwait",
+      "url": "https://www.pbs.org/newshour/world/u-s-bombs-iranian-military-sites-and-downs-missiles-tehran-fired-at-troops-in-kuwait",
+      "source": "PBS",
+      "publishedAt": "2026-06-01T17:45:23Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "US trades strikes with divided Iran regime as peace talks stall",
-      "url": "https://freerepublic.com/focus/f-chat/4381881/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-06-01T15:11:59Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "title": "Another NATO ally signs onto European nuclear umbrella as continent boosts self-defense",
+      "url": "https://www.foxnews.com/politics/another-nato-ally-signs-onto-european-nuclear-umbrella-continent-boosts-self-defense",
+      "source": "Fox News",
+      "publishedAt": "2026-06-01T17:31:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
-      "title": "Iranian State Media Says Talks With US Suspended as Missiles Fired at US Forces During Ceasefire",
-      "url": "https://www.mediaite.com/media/news/iranian-state-media-says-talks-with-us-suspended-as-missiles-fired-at-us-forces-during-ceasefire/",
-      "source": "Mediaite",
-      "publishedAt": "2026-06-01T15:05:56Z",
+      "title": "Trump Says Deal Will ‘Work Out Well’ Even as US, Iran Clash",
+      "url": "https://military.com/trump-says-deal-will-work-out-well-even-as-us-iran-clash",
+      "source": "Military.com",
+      "publishedAt": "2026-06-01T17:22:15Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Inside The Iran Deal That May Change Nothing — But Could Smash Oil Prices Anyway",
-      "url": "https://oilprice.com/Energy/Energy-General/Inside-The-Iran-Deal-That-May-Change-Nothing-But-Could-Smash-Oil-Prices-Anyway.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-06-01T15:00:00Z",
+      "title": "MISSILES FLY",
+      "url": "https://www.yahoo.com/news/politics/articles/iran-says-it-does-not-trust-us-as-trump-toughens-terms-123058406.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-01T17:04:36Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran suspends negotiations with US via mediators",
-      "url": "https://www.rte.ie/news/2026/0601/1576222-iran-us-negotiations/",
-      "source": "RTE",
-      "publishedAt": "2026-06-01T14:32:47Z",
+      "title": "Pakistan’s Diplomatic Pivot Makes It a Trump-Era Power Player",
+      "url": "http://foreignpolicy.com/2026/06/01/trump-pakistan-iran-peace-munir-crypto-power/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-06-01T17:04:21Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -129,14 +169,6 @@
       "publishedAt": "2026-06-01T14:22:28Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "News24 | Iran warns US: Lebanon ceasefire is non-negotiable as Middle East tensions spiral",
-      "url": "https://www.news24.com/world/iran-warns-us-lebanon-ceasefire-is-non-negotiable-as-middle-east-tensions-spiral-20260601-0845",
-      "source": "News24",
-      "publishedAt": "2026-06-01T14:06:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "France’s “Forward Deterrence” Vis-à-vis Russia Raises The Risk Of Nuclear War",
@@ -209,22 +241,6 @@
       "publishedAt": "2026-06-01T08:38:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Fences Not F-35s: Drone Attacks and the Illogic of Gulf Procurement",
-      "url": "https://warontherocks.com/fences-not-f-35s-drone-attacks-and-the-illogic-of-gulf-procurement/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-06-01T07:30:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Deterring Russia Beneath the Waves: Securing NATO’s Critical Undersea Infrastructure",
-      "url": "https://warontherocks.com/deterring-russia-beneath-the-waves-securing-natos-critical-undersea-infrastructure/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-06-01T07:15:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Trump’s nuclear review, and why it’s needed in an uncertain world",

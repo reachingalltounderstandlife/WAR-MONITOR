@@ -1,30 +1,110 @@
 {
-  "updated": "2026-06-01T21:31:27Z",
-  "count": 27,
+  "updated": "2026-06-02T03:52:49Z",
+  "count": 29,
   "articles": [
     {
-      "title": "Iran says it does not trust U.S. as Trump toughens terms",
-      "url": "https://japantoday.com/category/world/trump-says-iran-has-agreed-to-no-nuclear-weapons",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-31T21:22:45Z",
+      "title": "IDF orders evacuation of Beirut's southern Dahiyeh suburbs before strikes",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-06-01/ty-article-live/for-the-first-time-since-cease-fire-sirens-sound-in-tiberias-and-surroundings/0000019e-812f-d719-af9f-eb6f9b300000",
+      "source": "Haaretz",
+      "publishedAt": "2026-06-01T03:23:44Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah",
-      "url": "https://japantoday.com/category/world/netanyahu-orders-deeper-israeli-incursion-into-lebanon-to-hit-hezbollah1",
-      "source": "Japan Today",
-      "publishedAt": "2026-05-31T21:22:27Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "title": "Israel Escalates Airstrikes Amid Gaza Suffering Despite Ceasefire",
+      "url": "https://www.globalresearch.ca/israel-escalates-airstrikes-gaza/5928220",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-01T03:10:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
-      "title": "Israel seeks US approval for expanded Beirut strikes amid rising tensions",
-      "url": "https://cryptobriefing.com/israel-seeks-us-approval-for-expanded-beirut-strikes-amid-rising-tensions/",
+      "title": "US backs Israeli military escalation against Hezbollah in Lebanon",
+      "url": "https://cryptobriefing.com/us-backs-israeli-military-escalation-against-hezbollah-in-lebanon/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-05-31T21:00:50Z",
+      "publishedAt": "2026-06-01T02:58:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran digs out underground missile sites during cease-fire with US: report",
+      "url": "https://nypost.com/2026/05/31/world-news/iran-reopens-underground-missile-sites-during-cease-fire-report/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-01T02:47:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel expands military actions in Lebanon, impacting Iran peace deal prospects",
+      "url": "https://cryptobriefing.com/israel-expands-military-actions-in-lebanon-impacting-iran-peace-deal-prospects/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-01T02:17:30Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "Oil Price Today (June 1): Crude oil gains over 2% as Israel attacks Iran-backed Hezbollah. What are experts saying?",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-1-crude-oil-gains-over-2-as-israel-attacks-iran-backed-hezbollah-what-are-experts-saying/articleshow/131432157.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-01T02:00:27Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel captures historic Beaufort Castle in deepest Lebanon advance in decades",
+      "url": "https://www.thehindubusinessline.com/news/world/israel-captures-historic-beaufort-castle-in-deepest-lebanon-advance-in-decades/article71046762.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-01T00:36:04Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Oil prices jump over 2% as Israel intensifies military operations in Lebanon",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/oil-prices-jump-over-2-as-israel-intensifies-military-operations-in-lebanon/article71046769.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-01T00:33:04Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Oil prices rise more than 2% as Israel steps up incursion into Lebanon",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-more-than-2-as-israel-steps-up-incursion-into-lebanon/articleshow/131431610.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-01T00:31:33Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US stock Market on Monday: S&P 500, Dow Jones, Nasdaq to jump big on June 1? Here are critical factors",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-on-monday-sp-500-dow-jones-nasdaq-to-jump-big-on-june-1-here-are-critical-factors/articleshow/131431569.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-01T00:30:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "What triggered Israel’s Lebanon ground offensive expansion? #world",
+      "url": "https://alltoc.com/world/what-triggered-israels-lebanon-ground-offensive-expansion",
+      "source": "Alltoc.com",
+      "publishedAt": "2026-06-01T00:03:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Ukrainian drones strike oil pumping station 800 miles into Russian territory",
+      "url": "https://www.dailymail.com/news/article-15862711/Ukrainian-drones-strike-oil-pumping-station.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-31T22:48:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hezbollah's 'game changing' night-hunting weapon punches through Israel's defenses: expert",
+      "url": "https://www.foxnews.com/world/hezbollahs-game-changing-night-hunting-weapon-punches-through-israels-defenses-expert",
+      "source": "Fox News",
+      "publishedAt": "2026-05-31T22:26:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "Don’t repeat Afghanistan in Iran",
@@ -83,52 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "IRGC congratulates athletes amid ongoing US-Israeli conflict",
-      "url": "https://cryptobriefing.com/irgc-congratulates-athletes-amid-ongoing-us-israeli-conflict/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-05-31T19:30:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu orders deeper Israeli incursion into Lebanon to hit Hezbollah",
-      "url": "https://www.channelnewsasia.com/world/netanyahu-orders-deeper-israeli-incursion-lebanon-hit-hezbollah-6152796",
-      "source": "CNA",
-      "publishedAt": "2026-05-31T19:17:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel moves deeper into Lebanon, captures medieval castle (VIDEOS)",
-      "url": "https://www.rt.com/news/640789-israel-lebanon-beaufort-fortress/",
-      "source": "RT",
-      "publishedAt": "2026-05-31T19:10:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Congress moves to deepen military ties with Israel: Why it matters",
-      "url": "https://www.aljazeera.com/news/2026/5/31/us-congress-moves-to-deepen-military-ties-with-israel-why-it-matters",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-31T18:40:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" May 31, 2026",
       "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-05-31-2026/",
       "source": "CBS News",
       "publishedAt": "2026-05-31T18:21:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel PM says capturing medieval castle of Beaufort a 'dramatic shift' in Lebanon offensive",
-      "url": "https://www.thejournal.ie/israel-pm-says-capturing-medieval-castle-of-beaufort-a-dramatic-shift-in-lebanon-offensive-7057506-May2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-05-31T18:16:59Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Why NATO’s defense spending imbalance lasted for decades",
@@ -193,30 +233,6 @@
       "publishedAt": "2026-05-31T06:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Concerns mount that Belarus could be a launchpad for a new Russian offensive in Ukraine",
-      "url": "https://abcnews.com/International/wireStory/concerns-mount-belarus-launchpad-new-russian-offensive-ukraine-133460131",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-05-31T04:14:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Getting Iran’s right to enrich wrong",
-      "url": "https://www.wnd.com/2026/05/getting-irans-right-enrich-wrong/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-05-30T17:47:42Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "North Korean POWs: Political pawns in Russia’s war on Ukraine?",
-      "url": "https://www.aljazeera.com/video/101-east/2026/5/30/north-korean-pows-political-pawns-in-russias-war-on-ukraine",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-05-30T11:30:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

@@ -1,30 +1,190 @@
 {
-  "updated": "2026-06-02T10:21:25Z",
-  "count": 25,
+  "updated": "2026-06-02T16:21:55Z",
+  "count": 29,
   "articles": [
     {
-      "title": "Trump Says Deal Will ‘Work Out Well’ Even as US, Iran Clash",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-says-deal-will-work-out-well-even-as-us-iran-clash",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-01T10:14:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran trade new attacks amid talks: Here’s what we know",
-      "url": "https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know",
+      "title": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
+      "url": "https://www.aljazeera.com/news/2026/6/1/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks",
       "source": "Al Jazeera English",
-      "publishedAt": "2026-06-01T10:13:39Z",
+      "publishedAt": "2026-06-01T16:15:28Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "US Bombs Iranian Military Sites and Kuwait Is Hit by Drone and Missile Fire",
-      "url": "https://military.com/us-bombs-iranian-military-sites-and-kuwait-is-hit-by-drone-and-missile-fire",
-      "source": "Military.com",
-      "publishedAt": "2026-06-01T10:01:22Z",
+      "title": "Iran warns northern Israel residents to evacuate as Middle East tensions rattle crypto markets",
+      "url": "https://cryptobriefing.com/iran-warns-northern-israel-evacuate-crypto-impact/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-01T16:11:44Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "'Sit back and relax': Can Trump afford to go back to war with Iran?",
+      "url": "https://economictimes.indiatimes.com/news/defence/sit-back-and-relax-can-trump-afford-to-go-back-to-war-with-iran/articleshow/131446060.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-01T16:09:52Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Report: Lebanese Speaker told US Hezbollah ready for immediate ceasefire",
+      "url": "https://www.israelnationalnews.com/news/427956",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-01T16:08:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "SUMMER OF WAR",
+      "url": "https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d",
+      "source": "Associated Press",
+      "publishedAt": "2026-06-01T16:07:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Missiles Fly In Persian Gulf As US, Iran Deal Hangs In Balance",
+      "url": "https://dailycaller.com/2026/06/01/persian-gulf-missiles-iran-us-kuwait-deal-hangs-balance/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-06-01T16:04:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates - BBC",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183543968",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-01T15:53:37Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Can You Stop a Hypersonic Missile?",
+      "url": "https://protortyp.github.io/posts/can-you-stop-a-hypersonic/",
+      "source": "Github.io",
+      "publishedAt": "2026-06-01T15:51:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil Jumps Over $6 On Iran Report Of Halted U.S.-Tehran Exchanges, Hormuz Blockade Risk",
+      "url": "https://www.huffpost.com/entry/oil-prices-rise-us-iran-halted-message-exchanges_n_6a1da673e4b0ba3173010884",
+      "source": "HuffPost",
+      "publishedAt": "2026-06-01T15:47:32Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli airstrikes on Beirut resume as US ceasefire efforts collapse",
+      "url": "https://cryptobriefing.com/israeli-airstrikes-on-beirut-resume-as-us-ceasefire-efforts-collapse/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-01T15:20:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran Halts US Negotiations, Vows Full Blockade of Strait of Hormuz in Escalating Conflict",
+      "url": "https://www.ibtimes.com.au/iran-halts-talks-threatens-hormuz-closure-1869910",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-06-01T15:19:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US trades strikes with divided Iran regime as peace talks stall",
+      "url": "https://freerepublic.com/focus/f-chat/4381881/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-01T15:11:59Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iranian State Media Says Talks With US Suspended as Missiles Fired at US Forces During Ceasefire",
+      "url": "https://www.mediaite.com/media/news/iranian-state-media-says-talks-with-us-suspended-as-missiles-fired-at-us-forces-during-ceasefire/",
+      "source": "Mediaite",
+      "publishedAt": "2026-06-01T15:05:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Inside The Iran Deal That May Change Nothing — But Could Smash Oil Prices Anyway",
+      "url": "https://oilprice.com/Energy/Energy-General/Inside-The-Iran-Deal-That-May-Change-Nothing-But-Could-Smash-Oil-Prices-Anyway.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-06-01T15:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran suspends negotiations with US via mediators",
+      "url": "https://www.rte.ie/news/2026/0601/1576222-iran-us-negotiations/",
+      "source": "RTE",
+      "publishedAt": "2026-06-01T14:32:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Can War Between Europe and Moscow Be Avoided? Russia’s “1941” Warning",
+      "url": "https://www.globalresearch.ca/war-europe-moscow-russia-1941-warning/5928270",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-01T14:22:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "News24 | Iran warns US: Lebanon ceasefire is non-negotiable as Middle East tensions spiral",
+      "url": "https://www.news24.com/world/iran-warns-us-lebanon-ceasefire-is-non-negotiable-as-middle-east-tensions-spiral-20260601-0845",
+      "source": "News24",
+      "publishedAt": "2026-06-01T14:06:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "France’s “Forward Deterrence” Vis-à-vis Russia Raises The Risk Of Nuclear War",
+      "url": "https://www.nakedcapitalism.com/2026/06/frances-forward-deterrence-vis-a-vis-russia-raises-the-risk-of-nuclear-war.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-06-01T13:55:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia Uses Oreshnik Missiles to Retaliate Hitting Military Facilities in Kiev Region",
+      "url": "https://www.globalresearch.ca/russia-oreshnik-missiles-retaliate-ukrainian-terror/5928359",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-01T13:51:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian Drone Strike in Romania Injures Civilians Near NATO Border",
+      "url": "https://military.com/russian-drone-strike-in-romania-injures-civilians-near-nato-border",
+      "source": "Military.com",
+      "publishedAt": "2026-06-01T13:42:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Image Shows Russia Fielded a New A-50U Airborne Early Warning Aircraft",
+      "url": "https://theaviationist.com/2026/06/01/russia-fielded-a-new-a-50u/",
+      "source": "Theaviationist.com",
+      "publishedAt": "2026-06-01T13:35:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Gitanas Nausėda addressed the NATO Parliamentary Assembly: Our adversaries would be wise not to test our resolve",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260601-lithuania-pres01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-01T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Day 1,559 of WW3. Moscow adds air-defense vehicles to its skyline for purely aesthetic reasons. France intercepts a shadow fleet tanker in the Atlantic, and Lickspittle Luka rattles his toy saber at Ukraine. This is your Monday Ukraine War thread [News]",
+      "url": "https://www.fark.com/comments/14085142/Day-1559-of-WW3-Moscow-adds-air-defense-vehicles-to-its-skyline-for-purely-aesthetic-reasons-France-intercepts-a-shadow-fleet-tanker-in-Atlantic-Lickspittle-Luka-rattles-his-toy-saber-at-Ukraine-This-is-your-Monday-Ukraine-War-thread",
+      "source": "Fark.com",
+      "publishedAt": "2026-06-01T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Rough Times Ahead in Caucasus Regardless of Armenia Election Outcome",
@@ -33,46 +193,6 @@
       "publishedAt": "2026-06-01T10:00:11Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel Orders Strikes On Beirut’s Southern Suburbs As Hezbollah Fires Rockets",
-      "url": "https://www.huffpost.com/entry/lebanon-israel-hezbollah_n_6a1d54d9e4b032392fa397c0",
-      "source": "HuffPost",
-      "publishedAt": "2026-06-01T09:55:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Tehran Accuses US Of 'Contradictory Demands' Amid New Round Of Attacks",
-      "url": "https://www.rferl.org/a/iran-us-exchange-fire-peace-deal/33770033.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-06-01T09:49:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran official: We see ourselves as allies of Lebanon",
-      "url": "https://www.israelnationalnews.com/news/427936",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-01T09:29:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S. bombs Iranian military sites as Kuwait hit by drone and missile fire",
-      "url": "https://www.cbc.ca/news/world/iran-u-s-war-kuwait-9.7218733",
-      "source": "CBC News",
-      "publishedAt": "2026-06-01T09:27:47Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump’s Fickle Iran Policy",
-      "url": "https://www.thenation.com/?post_type=article&p=599088",
-      "source": "Thenation.com",
-      "publishedAt": "2026-06-01T09:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "How China keeps North Korea's economy alive",
@@ -91,22 +211,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Israel Expands Lebanon Assault With Iran-US Talks in Balance",
-      "url": "https://www.insurancejournal.com/news/international/2026/06/01/871911.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-06-01T08:30:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles",
-      "url": "https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-01T07:40:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Fences Not F-35s: Drone Attacks and the Illogic of Gulf Procurement",
       "url": "https://warontherocks.com/fences-not-f-35s-drone-attacks-and-the-illogic-of-gulf-procurement/",
       "source": "War on the Rocks",
@@ -123,84 +227,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US military strikes in Iran, Lebanon amid ongoing peace negotiations",
-      "url": "https://cryptobriefing.com/us-military-strikes-in-iran-lebanon-amid-ongoing-peace-negotiations/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-01T07:12:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "News24 | Trump slams ‘unpatriotic Republicans’ as US, Iran exchange tit-for-tat fire",
-      "url": "https://www.news24.com/world/trump-slams-unpatriotic-republicans-as-us-iran-exchange-tit-for-tat-fire-20260601-0422",
-      "source": "News24",
-      "publishedAt": "2026-06-01T07:10:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia Strikes Ukrainian Military-Linked Energy Facilities With Precision Weapons and Drones, Defense Ministry Says",
-      "url": "https://www.naturalnews.com/2026-06-01-russia-strikes-ukranian-military-linked-energy-facilities.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-01T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukrainian drones strike oil pumping station 800 miles into Russian territory",
-      "url": "https://www.dailymail.com/news/article-15862711/Ukrainian-drones-strike-oil-pumping-station.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-05-31T22:48:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump’s nuclear review, and why it’s needed in an uncertain world",
       "url": "https://www.wnd.com/2026/05/trumps-nuclear-review-why-its-needed-uncertain-world/",
       "source": "Wnd.com",
       "publishedAt": "2026-05-31T20:41:58Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" May 31, 2026",
-      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-05-31-2026/",
-      "source": "CBS News",
-      "publishedAt": "2026-05-31T18:21:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why NATO’s defense spending imbalance lasted for decades",
-      "url": "https://www.foxnews.com/politics/why-natos-defense-spending-imbalance-lasted-decades",
-      "source": "Fox News",
-      "publishedAt": "2026-05-31T16:47:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A Baltic Pressure Campaign For President Trump To End Russia’s War",
-      "url": "https://www.forbes.com/sites/davedeptula/2026/05/31/a-baltic-pressure-campaign-for-president-trump-to-end-russias-war/",
-      "source": "Forbes",
-      "publishedAt": "2026-05-31T15:16:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Full transcript: Ukrainian President Volodymyr Zelenskyy on \"Face the Nation with Margaret Brennan,\" May 31, 2026",
-      "url": "https://www.cbsnews.com/news/volodymyr-zelenskyy-ukraine-president-face-the-nation-transcript-05-31-2026/",
-      "source": "CBS News",
-      "publishedAt": "2026-05-31T12:13:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Day 1,558 of WW3: Russia has begun forming its third and largest outer air defense ring encompassing Moscow. Gee... think they're getting nervous? This is your Sunday Ukraine conversation [News]",
-      "url": "https://www.fark.com/comments/14084474/Day-1558-of-WW3-Russia-has-begun-forming-its-third-largest-outer-air-defense-ring-encompassing-Moscow-Gee-think-theyre-getting-nervous-This-is-your-Sunday-Ukraine-conversation",
-      "source": "Fark.com",
-      "publishedAt": "2026-05-31T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

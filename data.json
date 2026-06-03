@@ -1,102 +1,166 @@
 {
-  "updated": "2026-06-02T20:46:57Z",
-  "count": 31,
+  "updated": "2026-06-03T03:58:50Z",
+  "count": 29,
   "articles": [
     {
-      "title": "Stocks Rise on Trump’s Iran Remarks, AI Optimism: Markets Wrap",
-      "url": "https://financialpost.com/pmn/business-pmn/stocks-rise-on-trumps-iran-remarks-ai-optimism-markets-wrap",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-01T20:23:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "A Trump Deal With Iran Could Spell Trouble for Netanyahu",
-      "url": "http://foreignpolicy.com/2026/06/01/trump-israel-iran-war-deal-election-netanyahu/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-06-01T20:15:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli military targeting first responders in southern Lebanon – RT correspondent (VIDEO)",
-      "url": "https://www.rt.com/news/640804-idf-targeting-rescuers-southern-lebanon-rt-correspondent/",
-      "source": "RT",
-      "publishedAt": "2026-06-01T20:13:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Says Israel, Hezbollah Agreed to Halt Fighting",
-      "url": "https://www.newser.com/story/390218/trump-says-israel-hezbollah-agreed-to-halt-fighting.html",
-      "source": "Newser",
-      "publishedAt": "2026-06-01T20:09:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Oil prices jump as Iran suspends peace talks",
-      "url": "https://punchng.com/oil-prices-jump-as-iran-suspends-peace-talks/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-01T20:05:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu after call with Trump: If Hezbollah attacks us, we will strike Dahieh",
-      "url": "https://www.israelnationalnews.com/news/427968",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-01T19:56:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump says he spoke to Lebanon's Hezbollah through intermediaries",
-      "url": "https://www.channelnewsasia.com/world/trump-says-he-spoke-lebanons-hezbollah-through-intermediaries-6154951",
-      "source": "CNA",
-      "publishedAt": "2026-06-01T19:51:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon's US embassy says Hezbollah accepted US proposal on 'mutual cessation of attacks'",
-      "url": "https://www.channelnewsasia.com/world/lebanons-us-embassy-says-hezbollah-accepted-us-proposal-mutual-cessation-attacks-6154951",
-      "source": "CNA",
-      "publishedAt": "2026-06-01T19:51:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon's US embassy says Hezbollah accepted US proposal on 'mutual cessation of attacks'",
-      "url": "https://www.channelnewsasia.com/world/lebanon-us-embassy-hezbollah-proposal-mutual-cessation-attacks-6154951",
-      "source": "CNA",
-      "publishedAt": "2026-06-01T19:51:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Stocks Up as Trump Cites Rapid Pace in Iran Talks: Markets Wrap",
-      "url": "https://financialpost.com/pmn/business-pmn/stocks-up-as-trump-cites-rapid-pace-in-iran-talks-markets-wrap-2",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-01T19:47:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran targets US air base as fresh attacks strain ceasefire efforts, lift oil prices",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-targets-us-air-base-as-fresh-attacks-strain-ceasefire-efforts-lift-oil-prices/articleshow/131449733.cms",
+      "title": "Sensex falls over 400 points, Nifty below 23,250 amid US-Iran tensions, persistent FII selling",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-400-points-nifty-below-23250-amid-us-iran-tensions-persistent-fii-selling/articleshow/131454214.cms",
       "source": "The Times of India",
-      "publishedAt": "2026-06-01T19:23:43Z",
+      "publishedAt": "2026-06-02T03:55:26Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Hackers breach senior US Space Force official’s Instagram account and post Iranian propaganda | CNN Politics",
-      "url": "https://www.cnn.com/2026/06/01/politics/hackers-space-force-official-instagram-iranian-propaganda",
-      "source": "CNN",
-      "publishedAt": "2026-06-01T18:47:32Z",
+      "title": "Trump tells ABC News he thinks there will be an Iran deal 'over the next week'",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-06-02/ty-article-live/trump-tells-abc-news-he-thinks-there-will-be-an-iran-deal-over-the-next-week/0000019e-8607-d126-a99e-e7878e480000",
+      "source": "Haaretz",
+      "publishedAt": "2026-06-02T02:14:58Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Seeking deal with Iran, Trump promises calm in Lebanon",
+      "url": "https://www.dw.com/en/seeking-deal-with-iran-trump-promises-calm-in-lebanon/a-77383546",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-02T01:43:00Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Trump promises calm in Lebanon with eyes on peace with Iran",
+      "url": "https://www.dw.com/en/trump-promises-calm-in-lebanon-with-eyes-on-peace-with-iran/a-77383546",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-02T01:43:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "MK Tur-Paz criticizes Lebanon campaign: This stagnation is a disgrace",
+      "url": "https://www.israelnationalnews.com/news/427976",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-02T01:39:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Aims to Calm Lebanon Tensions to Keep Peace Talks Alive",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-aims-to-calm-lebanon-tensions-to-keep-peace-talks-alive-3",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-02T01:24:52Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon says Hezbollah agrees to US-backed plan to halt attacks on Israel",
+      "url": "https://english.khabarhub.com/2026/02/551967/",
+      "source": "Khabarhub.com",
+      "publishedAt": "2026-06-02T01:24:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Says Iran Deal Could Be Reached ‘over Next Week’ After Fixing Israel-Hezbollah ‘Glitch’",
+      "url": "https://www.breitbart.com/politics/2026/06/01/trump-iran-deal-reached-next-week-fixing-israel-hezbollah-glitch/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-06-02T01:17:38Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "'What are you doing?': Trump blasts Netanyahu in call over Lebanon strikes, calls him 'crazy'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/what-the-are-you-doing-trump-blasts-netanyahu-in-call-over-lebanon-strikes-calls-him-crazy/articleshow/131452611.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-02T01:09:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "'You're f***ing crazy': The difficult call between Trump and Netanyahu",
+      "url": "https://www.israelnationalnews.com/news/427975",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-02T01:08:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump announces Israel-Hezbollah de-escalation after talks with Netanyahu",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-announces-israel-hezbollah-de-escalation-after-talks-with-netanyahu/article71050909.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-02T00:54:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says ‘I Really Don’t Care’ If Iran Negotiations Are Over Because They ‘Started to Get Very Boring’",
+      "url": "https://www.mediaite.com/politics/trump/trump-says-i-really-dont-care-if-iran-negotiations-are-over-because-they-started-to-get-very-boring/",
+      "source": "Mediaite",
+      "publishedAt": "2026-06-02T00:51:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon partial ceasefire announced but attacks continue",
+      "url": "https://www.rte.ie/news/middle-east/2026/0602/1576268-lebanon-ceasefire/",
+      "source": "RTE",
+      "publishedAt": "2026-06-02T00:44:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Partial Lebanon ceasefire announced but attacks continue",
+      "url": "https://www.rte.ie/news/middle-east/2026/0602/1576268-israel-lebanon/",
+      "source": "RTE",
+      "publishedAt": "2026-06-02T00:44:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue",
+      "url": "https://economictimes.indiatimes.com/news/defence/lebanon-announces-partial-ceasefire-between-israel-hezbollah-but-attacks-continue/articleshow/131452495.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-02T00:43:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil rises as diplomacy between US, Iran stalls",
+      "url": "https://punchng.com/oil-rises-as-diplomacy-between-us-iran-stalls/",
+      "source": "The Punch",
+      "publishedAt": "2026-06-02T00:09:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "New Approaches to National Security",
+      "url": "https://www.hoover.org/research/new-approaches-national-security",
+      "source": "Hoover.org",
+      "publishedAt": "2026-06-02T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Trump Is Suddenly Asking Americans to Look Away",
+      "url": "https://www.theatlantic.com/newsletters/2026/06/trump-iran-kennedy-center-weaponization-fund/687395/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-06-01T21:59:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The last exit from the Ukraine conflict may already be closing",
+      "url": "https://www.rt.com/news/640821-spirit-of-anchorage-is-dead/",
+      "source": "RT",
+      "publishedAt": "2026-06-01T21:18:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine’s doing more regime change in the EU than in Russia",
+      "url": "https://www.rt.com/news/640833-eu-ukraine-drones-lithuania/",
+      "source": "RT",
+      "publishedAt": "2026-06-01T21:02:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Will Russia expand the war to Europe as its Ukraine push falters?",
@@ -107,60 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump Tries To Restrain Israel, Hezbollah After Bibi Orders Strikes On Beirut",
-      "url": "https://dailycaller.com/2026/06/01/trump-restrain-israel-hezbollah-bibi-strikes-beirut/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-06-01T18:26:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Says Iran Talks Still On, Attacks in Lebanon to Halt",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-says-iran-talks-still-on-attacks-in-lebanon-to-halt",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-01T18:25:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. bombs Iranian military sites and downs missiles Tehran fired at troops in Kuwait",
-      "url": "https://www.pbs.org/newshour/world/u-s-bombs-iranian-military-sites-and-downs-missiles-tehran-fired-at-troops-in-kuwait",
-      "source": "PBS",
-      "publishedAt": "2026-06-01T17:45:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Another NATO ally signs onto European nuclear umbrella as continent boosts self-defense",
       "url": "https://www.foxnews.com/politics/another-nato-ally-signs-onto-european-nuclear-umbrella-continent-boosts-self-defense",
       "source": "Fox News",
       "publishedAt": "2026-06-01T17:31:52Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Says Deal Will ‘Work Out Well’ Even as US, Iran Clash",
-      "url": "https://military.com/trump-says-deal-will-work-out-well-even-as-us-iran-clash",
-      "source": "Military.com",
-      "publishedAt": "2026-06-01T17:22:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "MISSILES FLY",
-      "url": "https://www.yahoo.com/news/politics/articles/iran-says-it-does-not-trust-us-as-trump-toughens-terms-123058406.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-01T17:04:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pakistan’s Diplomatic Pivot Makes It a Trump-Era Power Player",
-      "url": "http://foreignpolicy.com/2026/06/01/trump-pakistan-iran-peace-munir-crypto-power/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-06-01T17:04:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Can War Between Europe and Moscow Be Avoided? Russia’s “1941” Warning",
@@ -203,30 +219,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Gitanas Nausėda addressed the NATO Parliamentary Assembly: Our adversaries would be wise not to test our resolve",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260601-lithuania-pres01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-01T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Day 1,559 of WW3. Moscow adds air-defense vehicles to its skyline for purely aesthetic reasons. France intercepts a shadow fleet tanker in the Atlantic, and Lickspittle Luka rattles his toy saber at Ukraine. This is your Monday Ukraine War thread [News]",
-      "url": "https://www.fark.com/comments/14085142/Day-1559-of-WW3-Moscow-adds-air-defense-vehicles-to-its-skyline-for-purely-aesthetic-reasons-France-intercepts-a-shadow-fleet-tanker-in-Atlantic-Lickspittle-Luka-rattles-his-toy-saber-at-Ukraine-This-is-your-Monday-Ukraine-War-thread",
-      "source": "Fark.com",
-      "publishedAt": "2026-06-01T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Rough Times Ahead in Caucasus Regardless of Armenia Election Outcome",
-      "url": "https://www.nakedcapitalism.com/2026/06/rough-times-ahead-in-caucasus-regardless-of-armenia-election-outcome.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-06-01T10:00:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "How China keeps North Korea's economy alive",
       "url": "https://www.dw.com/en/how-china-keeps-north-koreas-economy-alive/a-77295494",
       "source": "DW (English)",
@@ -241,14 +233,6 @@
       "publishedAt": "2026-06-01T08:38:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump’s nuclear review, and why it’s needed in an uncertain world",
-      "url": "https://www.wnd.com/2026/05/trumps-nuclear-review-why-its-needed-uncertain-world/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-05-31T20:41:58Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

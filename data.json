@@ -1,134 +1,158 @@
 {
-  "updated": "2026-06-03T03:58:50Z",
-  "count": 29,
+  "updated": "2026-06-03T10:56:42Z",
+  "count": 25,
   "articles": [
     {
-      "title": "Sensex falls over 400 points, Nifty below 23,250 amid US-Iran tensions, persistent FII selling",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-over-400-points-nifty-below-23250-amid-us-iran-tensions-persistent-fii-selling/articleshow/131454214.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-02T03:55:26Z",
+      "title": "Iran War: Iran Rug Pulls Trump by Suspending Talks Over Ceasefire Violations, Escalating with Demands to End Attacks in Gaza and West Bank, Threat to Close Hormuz and Choke Bab El-Mandib; More on How Hormuz Traffic Will Stay Low Even if “Deal” Agreed",
+      "url": "https://www.nakedcapitalism.com/2026/06/iran-war-iran-rug-pulls-trump-by-suspending-talks-over-ceasefire-violations-escalating-with-demands-to-end-attacks-in-gaza-and-west-bank-threat-to-close-hormuz-and-choke-bab-el-mandib-more-on-how.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-06-02T10:55:41Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Trump tells ABC News he thinks there will be an Iran deal 'over the next week'",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-06-02/ty-article-live/trump-tells-abc-news-he-thinks-there-will-be-an-iran-deal-over-the-next-week/0000019e-8607-d126-a99e-e7878e480000",
+      "title": "Israel and Hezbollah trade new attacks despite Trump promise of de-escalatoion",
+      "url": "https://www.nbcnews.com/world/lebanon/israel-hezbollah-attacks-lebanon-trump-iran-war-peace-talks-rcna348010",
+      "source": "NBC News",
+      "publishedAt": "2026-06-02T10:49:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Former Senior Trump NSC Official Says Diplomacy 'Alive' As US, Iran, Battle For Leverage",
+      "url": "https://www.rferl.org/a/former-senior-trump-nsc-official-says-diplomacy-alive-as-us-iran-battle-for-leverage/33770891.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-06-02T10:41:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil Pulls Back as Trump Claims Lebanon Ceasefire Deal Is Within Reach",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Pulls-Back-as-Trump-Claims-Lebanon-Ceasefire-Deal-Is-Within-Reach.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-06-02T10:30:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump tells Netanyahu, ‘You’re f—ing crazy’ and Wall Street sees it as a sign he’s losing patience with the war and wants it done",
+      "url": "https://fortune.com/2026/06/02/trump-netanyahu-youre-crazy-wall-street-iran-war/",
+      "source": "Fortune",
+      "publishedAt": "2026-06-02T10:17:24Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "How does Iran’s leadership view the emerging deal with the US?",
+      "url": "https://www.aljazeera.com/news/2026/6/2/how-does-irans-leadership-view-the-emerging-deal-with-the-us-2",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-02T09:59:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Wider Europe Briefing: Why The EU Won't Name A Russia Envoy",
+      "url": "https://www.rferl.org/a/eu-russia-envoy-gerhard-schroeder-putin/33770809.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-06-02T09:59:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Middle East updates: US-Iran talks appear to stall again",
+      "url": "https://www.dw.com/en/middle-east-updates-us-iran-talks-appear-to-stall-again/live-77386529",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-02T09:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Middle East updates: US-Iran talks appear to stall",
+      "url": "https://www.dw.com/en/middle-east-updates-us-iran-talks-appear-to-stall/live-77386529",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-02T09:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Reportedly Calls Netanyahu ‘Crazy,’ Pushes Israeli Leader to Back Down on Beirut Attack",
+      "url": "https://time.com/article/2026/06/02/trump-netanyahu-crazy-lebanon-hezbollah-ceasefire-iran-us-peace-deal/",
+      "source": "Time",
+      "publishedAt": "2026-06-02T09:00:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Four killed in Lebanon as Trump says Israel and Hezbollah to de-escalate",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-06-02/ty-article/lebanese-media-reports-4-dead-in-israeli-strikes-after-trumps-limited-truce/0000019e-875e-db6c-adff-bffe00650000",
       "source": "Haaretz",
-      "publishedAt": "2026-06-02T02:14:58Z",
+      "publishedAt": "2026-06-02T08:37:58Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Seeking deal with Iran, Trump promises calm in Lebanon",
-      "url": "https://www.dw.com/en/seeking-deal-with-iran-trump-promises-calm-in-lebanon/a-77383546",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-02T01:43:00Z",
+      "title": "News24 | Lebanon announces partial ceasefire between Hezbollah and Israel",
+      "url": "https://www.news24.com/world/lebanon-announces-partial-ceasefire-between-hezbollah-and-israel-20260602-0292",
+      "source": "News24",
+      "publishedAt": "2026-06-02T07:10:05Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Trump promises calm in Lebanon with eyes on peace with Iran",
-      "url": "https://www.dw.com/en/trump-promises-calm-in-lebanon-with-eyes-on-peace-with-iran/a-77383546",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-02T01:43:00Z",
+      "title": "Russia launched 37% more attacks but still lost ground in May, Ukrainian war tracker says",
+      "url": "https://www.businessinsider.com/deep-state-ukraine-war-tracker-russia-lost-ground-may-offensive-2026-6",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-02T06:12:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Towards the Disintegration of Germany, by Thierry Meyssan",
+      "url": "https://www.voltairenet.org/article224627.html",
+      "source": "Red Voltaire",
+      "publishedAt": "2026-06-02T06:09:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Israel is quietly emerging as the biggest winner from the Iran war",
+      "url": "https://www.dailymail.com/news/article-15864561/battle-board-israel-quietly-emerging-biggest-winner-iran-war.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-02T06:03:06Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "MK Tur-Paz criticizes Lebanon campaign: This stagnation is a disgrace",
-      "url": "https://www.israelnationalnews.com/news/427976",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-02T01:39:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Aims to Calm Lebanon Tensions to Keep Peace Talks Alive",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-aims-to-calm-lebanon-tensions-to-keep-peace-talks-alive-3",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-02T01:24:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon says Hezbollah agrees to US-backed plan to halt attacks on Israel",
-      "url": "https://english.khabarhub.com/2026/02/551967/",
-      "source": "Khabarhub.com",
-      "publishedAt": "2026-06-02T01:24:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Says Iran Deal Could Be Reached ‘over Next Week’ After Fixing Israel-Hezbollah ‘Glitch’",
-      "url": "https://www.breitbart.com/politics/2026/06/01/trump-iran-deal-reached-next-week-fixing-israel-hezbollah-glitch/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-06-02T01:17:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "'What are you doing?': Trump blasts Netanyahu in call over Lebanon strikes, calls him 'crazy'",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/what-the-are-you-doing-trump-blasts-netanyahu-in-call-over-lebanon-strikes-calls-him-crazy/articleshow/131452611.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-02T01:09:10Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "'You're f***ing crazy': The difficult call between Trump and Netanyahu",
-      "url": "https://www.israelnationalnews.com/news/427975",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-02T01:08:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump announces Israel-Hezbollah de-escalation after talks with Netanyahu",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-announces-israel-hezbollah-de-escalation-after-talks-with-netanyahu/article71050909.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-02T00:54:28Z",
+      "title": "The Killing Machine: Ten Thousand Years and We Still Haven’t Figured This Out",
+      "url": "https://smallwarsjournal.com/2026/06/02/the-killing-machine-ten-thousand-years-and-we-still-havent-figured-this-out-warfare-civilian-casualties/",
+      "source": "Smallwarsjournal.com",
+      "publishedAt": "2026-06-02T06:00:04Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Trump Says ‘I Really Don’t Care’ If Iran Negotiations Are Over Because They ‘Started to Get Very Boring’",
-      "url": "https://www.mediaite.com/politics/trump/trump-says-i-really-dont-care-if-iran-negotiations-are-over-because-they-started-to-get-very-boring/",
-      "source": "Mediaite",
-      "publishedAt": "2026-06-02T00:51:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "U.S. considers expanding nuclear sharing in Europe as tensions rise",
+      "url": "https://www.naturalnews.com/2026-06-02-expanding-nuclear-sharing-europe-tensions.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-02T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
-      "title": "Lebanon partial ceasefire announced but attacks continue",
-      "url": "https://www.rte.ie/news/middle-east/2026/0602/1576268-lebanon-ceasefire/",
-      "source": "RTE",
-      "publishedAt": "2026-06-02T00:44:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "Ukraine’s $25 billion Patriot deal: Another globalist taxpayer heist disguised as “defense”",
+      "url": "https://www.naturalnews.com/2026-06-02-ukraine-patriot-taxpayer-heist-disguised-as-defense.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-02T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
-      "title": "Partial Lebanon ceasefire announced but attacks continue",
-      "url": "https://www.rte.ie/news/middle-east/2026/0602/1576268-israel-lebanon/",
-      "source": "RTE",
-      "publishedAt": "2026-06-02T00:44:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon announces partial ceasefire between Israel, Hezbollah but attacks continue",
-      "url": "https://economictimes.indiatimes.com/news/defence/lebanon-announces-partial-ceasefire-between-israel-hezbollah-but-attacks-continue/articleshow/131452495.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-02T00:43:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil rises as diplomacy between US, Iran stalls",
-      "url": "https://punchng.com/oil-rises-as-diplomacy-between-us-iran-stalls/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-02T00:09:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "Thanks largely to robots, Ukraine is now talking about winning, not just surviving",
+      "url": "https://www.defenseone.com/technology/2026/06/ukraine-robots-winning/413902/",
+      "source": "Defense One",
+      "publishedAt": "2026-06-02T04:20:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "New Approaches to National Security",
@@ -137,14 +161,6 @@
       "publishedAt": "2026-06-02T00:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Why Trump Is Suddenly Asking Americans to Look Away",
-      "url": "https://www.theatlantic.com/newsletters/2026/06/trump-iran-kennedy-center-weaponization-fund/687395/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-06-01T21:59:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "The last exit from the Ukraine conflict may already be closing",
@@ -167,54 +183,6 @@
       "url": "https://theweek.com/politics/will-russia-expand-the-war-to-europe-as-its-ukraine-push-falters",
       "source": "The Week Magazine",
       "publishedAt": "2026-06-01T18:47:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Another NATO ally signs onto European nuclear umbrella as continent boosts self-defense",
-      "url": "https://www.foxnews.com/politics/another-nato-ally-signs-onto-european-nuclear-umbrella-continent-boosts-self-defense",
-      "source": "Fox News",
-      "publishedAt": "2026-06-01T17:31:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Can War Between Europe and Moscow Be Avoided? Russia’s “1941” Warning",
-      "url": "https://www.globalresearch.ca/war-europe-moscow-russia-1941-warning/5928270",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-06-01T14:22:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "France’s “Forward Deterrence” Vis-à-vis Russia Raises The Risk Of Nuclear War",
-      "url": "https://www.nakedcapitalism.com/2026/06/frances-forward-deterrence-vis-a-vis-russia-raises-the-risk-of-nuclear-war.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-06-01T13:55:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia Uses Oreshnik Missiles to Retaliate Hitting Military Facilities in Kiev Region",
-      "url": "https://www.globalresearch.ca/russia-oreshnik-missiles-retaliate-ukrainian-terror/5928359",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-06-01T13:51:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian Drone Strike in Romania Injures Civilians Near NATO Border",
-      "url": "https://military.com/russian-drone-strike-in-romania-injures-civilians-near-nato-border",
-      "source": "Military.com",
-      "publishedAt": "2026-06-01T13:42:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Image Shows Russia Fielded a New A-50U Airborne Early Warning Aircraft",
-      "url": "https://theaviationist.com/2026/06/01/russia-fielded-a-new-a-50u/",
-      "source": "Theaviationist.com",
-      "publishedAt": "2026-06-01T13:35:58Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

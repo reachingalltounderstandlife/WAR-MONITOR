@@ -1,22 +1,166 @@
 {
-  "updated": "2026-06-04T14:57:24Z",
-  "count": 23,
+  "updated": "2026-06-04T20:07:24Z",
+  "count": 24,
   "articles": [
     {
-      "title": "Israeli attack on Lebanon escalates tensions, impacts ceasefire prospects",
-      "url": "https://cryptobriefing.com/israeli-attack-on-lebanon-escalates-tensions-impacts-ceasefire-prospects/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-03T14:56:13Z",
+      "title": "House again considers war powers resolution to halt military action against Iran",
+      "url": "https://abcnews.com/US/wireStory/house-considers-war-powers-resolution-halt-military-action-133564036",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-03T20:05:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Chaos Reigns As New Clashes Create Cracks In Shaky Iran War Ceasefire",
+      "url": "https://dailycaller.com/2026/06/03/chaos-reigns-new-clashes-create-cracks-shaky-iran-war-ceasefire/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-06-03T19:42:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border - BBC",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183585824",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-03T19:32:44Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Lebanese army says soldier killed in Israeli strike, two others wounded",
-      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-06-03/ty-article/.premium/lebanese-army-says-soldier-killed-in-israeli-strike-two-others-wounded/0000019e-8c90-da37-a19f-ce9a6bd10000",
-      "source": "Haaretz",
-      "publishedAt": "2026-06-03T14:51:47Z",
+      "title": "US, Iran Exchange Military Strikes to Put Fresh Strains on Ceasefire",
+      "url": "https://financialpost.com/pmn/business-pmn/us-iran-exchange-military-strikes-to-put-fresh-strains-on-ceasefire-4",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-03T19:23:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How AI could make wars go nuclear",
+      "url": "https://www.vox.com/technology/490800/nuclear-ai-escalation",
+      "source": "Vox",
+      "publishedAt": "2026-06-03T18:57:05Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran fires missiles, US strikes Iran facility after reports of faltering peace talks",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-fires-missiles-us-strikes-iran-facility-after-reports-of-faltering-peace-talks/articleshow/131490810.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-03T18:30:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump acknowledges calling Netanyahu 'crazy,' says Israel is complicating peace talks with Iran",
+      "url": "https://www.pbs.org/newshour/world/trump-acknowledges-calling-netanyahu-crazy-says-israel-is-complicating-peace-talks-with-iran",
+      "source": "PBS",
+      "publishedAt": "2026-06-03T18:13:18Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "Poland and Lithuania confirm exploring a bigger role in nuclear deterrence",
+      "url": "https://abcnews.com/US/wireStory/poland-lithuania-confirm-exploring-bigger-role-nuclear-deterrence-133560146",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-03T18:06:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+      "source": "BBC News",
+      "publishedAt": "2026-06-03T18:02:52Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran Fires Ballistic Missiles and Drones at Kuwait, Bahrain",
+      "url": "https://legalinsurrection.com/2026/06/iran-fires-ballistic-missiles-and-drones-at-kuwait-bahrain/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-06-03T18:00:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli attacks kill nine in Lebanon, reach Beirut outskirts",
+      "url": "https://www.aljazeera.com/news/2026/6/3/israeli-attacks-kill-nine-in-lebanon-reach-beirut-outskirts",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-03T17:54:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran strikes Kuwait's main airport and kills 1 as ceasefire is tested again",
+      "url": "https://www.pbs.org/newshour/world/iran-strikes-kuwaits-main-airport-and-kills-1-as-ceasefire-is-tested-again",
+      "source": "PBS",
+      "publishedAt": "2026-06-03T17:47:43Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US, Iran Exchange Military Strikes to Put Fresh Strains on Ceasefire",
+      "url": "https://financialpost.com/pmn/business-pmn/us-iran-exchange-military-strikes-to-put-fresh-strains-on-ceasefire-3",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-03T17:46:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Absolute Insanity': Trump Accused of Treating Geopolitical Crisis Like 'A Bizarre Reality Television Show'",
+      "url": "https://radaronline.com/p/trump-treating-geopolitical-crisis-like-reality-television-show-iran-leader/",
+      "source": "Radaronline.com",
+      "publishedAt": "2026-06-03T17:45:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukrainian drones hit St. Petersburg oil terminal before city hosts Russian economic forum",
+      "url": "https://www.cbc.ca/news/world/ukraine-drones-st-petersburg-oil-terminal-9.7222060",
+      "source": "CBC News",
+      "publishedAt": "2026-06-03T17:06:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Western air forces have used centralized headquarters for decades. A top NATO commander said this easy era is over.",
+      "url": "https://www.businessinsider.com/natos-era-big-central-air-operation-centers-is-over-commander-2026-6",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-03T16:55:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Marco Rubio declares Iran war over, citing victory in Operation Epic Fury",
+      "url": "https://cryptobriefing.com/rubio-declares-iran-war-over-epic-fury/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-03T16:49:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukrainian Drones Hit St Petersburg Oil Terminal Ahead Of Russian Economic Forum",
+      "url": "https://www.huffpost.com/entry/ukraine-drone-st-petersburg-oil-russia_n_6a2042a2e4b0ba317304f116",
+      "source": "HuffPost",
+      "publishedAt": "2026-06-03T15:17:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO chief warns young Russians they would die in Ukraine war",
+      "url": "https://www.yahoo.com/news/world/articles/nato-chief-warns-young-russians-151136660.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-03T15:11:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Timothy Snyder on “Superpower Suicide”",
+      "url": "https://dianeravitch.net/2026/06/03/timothy-snyder-on-superpower-suicide/",
+      "source": "Dianeravitch.net",
+      "publishedAt": "2026-06-03T15:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Taliban, Russia are cozying up to each other — why?",
@@ -35,146 +179,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "UPSC Key: Diplomatic Decorum, Definition of Aravalli Hills and Herbal Cigarettes",
-      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-diplomatic-decorum-definition-of-aravalli-hills-and-herbal-cigarettes-10722600/",
-      "source": "The Indian Express",
-      "publishedAt": "2026-06-03T13:46:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Escalation ? Ukraine Targets Russia on Eve of St. Petersburg International Economic Forum (STIEF)",
       "url": "https://www.globalresearch.ca/ukraine-targets-russia-eve-stief/5928656",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-06-03T13:45:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "After the West Asia war, Iran's nuclear programme is harder to track — and riskier: Report",
-      "url": "https://economictimes.indiatimes.com/news/defence/after-the-west-asia-war-irans-nuclear-programme-is-harder-to-track-and-riskier-report/articleshow/131485463.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-03T13:42:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Nuclear Risk Seen Higher Than Before Trump Attacks Began",
-      "url": "https://financialpost.com/pmn/business-pmn/iran-nuclear-risk-seen-higher-than-before-trump-attacks-began",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-03T13:16:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why is France so invested in the future of Lebanon?",
-      "url": "https://www.aljazeera.com/news/2026/6/3/why-is-france-so-invested-in-the-future-of-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-03T13:09:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump claims responsibility for starting US-Iran war, denies Israeli influence",
-      "url": "https://cryptobriefing.com/trump-claims-responsibility-for-starting-us-iran-war-denies-israeli-influence/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-03T12:41:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump confirms he called Netanyahu 'crazy,' as he says Israel is complicating peace talks with Iran",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-confirms-he-called-netanyahu-crazy-as-he-says-israel-is-complicating-peace-talks-with-iran/articleshow/131484202.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-03T12:35:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Blasts Netanyahu On Tense Call, Allegedly: “Everybody Hates You!”",
-      "url": "https://hiphopwired.com/3055706/everybody-hates-you-trump-blasts-netanyahu-on-tense-call/",
-      "source": "Hip-Hop Wired",
-      "publishedAt": "2026-06-03T12:34:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Price Tag for US Military Op Against Iran Exceeds 100Bln -Tracking Data",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260603-sputnik03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-03T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Can Diplomacy Survive? Analyst Dania Arayssi On Iran, Hezbollah, And The Struggle For A Deal",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260603-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-03T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Day 1,561 of WW3. Orcs continue using chemical weapons in Ukraine. Moscow may be ready to bite the mobilization bullet, and Pooty Poot's economic conference gets a splendid view of a burning oil refinery. This is your Wednesday Ukraine War thread [News]",
-      "url": "https://www.fark.com/comments/14087452/Day-1561-of-WW3-Orcs-continue-using-chemical-weapons-in-Ukraine-Moscow-may-be-ready-to-bite-mobilization-bullet-Pooty-Poots-economic-conference-gets-a-splendid-view-of-a-burning-oil-refinery-This-is-your-Wednesday-Ukraine-War-thread",
-      "source": "Fark.com",
-      "publishedAt": "2026-06-03T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine Attacks Energy, Military Sites In St. Petersburg Ahead Of Russia's Economic Forum",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/06/ukraine-260603-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-03T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Latvia calls for stronger collective defense ahead of NATO summit in Türkiye",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260603-azertac01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-03T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran does not seek war, but prepared to continue defending itself if necessary: FM Araghchi",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260603-presstv03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-03T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Forget the Forever Wars. We May Be in Forever Limbo.",
-      "url": "https://www.theatlantic.com/national-security/2026/06/iran-war-may-be-headed-long-term-limbo/687407/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-06-03T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Ukraine strikes St Petersburg, overshadowing Putin forum",
-      "url": "https://www.abc.net.au/news/2026-06-03/ukraine-russia-drones-strike-st-petersburg-nato-chief-kyiv/106756542",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-03T09:44:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine Attacks Energy, Military Sites In St. Petersburg Ahead Of Russia's Economic Forum",
-      "url": "https://www.rferl.org/a/ukraine-russia-st-petersburg-drone-attacks-economic-forum/33771602.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-06-03T09:38:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Rain in Spain Falls Harder on Ukraine: Rethinking the Spanish Civil War Analogy",
-      "url": "https://warontherocks.com/the-rain-in-spain-falls-harder-on-ukraine-rethinking-the-spanish-civil-war-analogy/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-06-03T07:30:21Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

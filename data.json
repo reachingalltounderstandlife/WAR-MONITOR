@@ -1,22 +1,254 @@
 {
-  "updated": "2026-06-05T09:46:37Z",
-  "count": 30,
+  "updated": "2026-06-05T14:48:18Z",
+  "count": 37,
   "articles": [
     {
-      "title": "Iran War: US Attempts Project Freedom 2.0 as Israel Continues Attacks in Lebanon Despite Alleged Ceasefire; Iran Economy Not Harmed by Sanctions, Performed on a Par to Saudis; Rice Prices Jump in Asia",
-      "url": "https://www.nakedcapitalism.com/2026/06/iran-war-us-attempts-project-freedom-2-0-as-israel-continues-attacks-in-lebanon-despite-alleged-ceasefire-iran-economy-not-harmed-by-sanctions-performed-on-a-par-to-saudis-rice-prices-jump-in-asia.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-06-04T09:45:53Z",
+      "title": "The Iran War and the End of the “Middle East”",
+      "url": "https://www.newyorker.com/news/the-lede/the-iran-war-and-the-end-of-the-middle-east",
+      "source": "The New Yorker",
+      "publishedAt": "2026-06-04T14:45:30Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "North Korea unveils new nuclear materials production facility as Kim Jong Un pledges ‘exponential’ arsenal growth",
+      "url": "https://cryptobriefing.com/north-korea-new-nuclear-facility/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-04T14:25:17Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Kim Jong Un Wants to Boost NK's Nukes at 'Exponential Rate'",
+      "url": "https://www.newser.com/story/390433/kim-jong-un-wants-to-boost-nks-nukes-at-exponential-rate.html",
+      "source": "Newser",
+      "publishedAt": "2026-06-04T14:25:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "NEWS: Republicans Oppose Trump Publicly as Trump has Worst Week of Second Term, Screwworm is Back, Trump Health Questions",
+      "url": "https://aaronparnas.substack.com/p/news-republicans-oppose-trump-publicly",
+      "source": "Substack.com",
+      "publishedAt": "2026-06-04T14:12:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "“Total Defense to Europe”. Preparing Combat with a Non-existent Enemy. NATO Military Committee Calls for “National Defense to Include Civilians”",
+      "url": "https://www.globalresearch.ca/nato-national-defense-include-civilians/5928809",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-04T14:09:37Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Taiwan Beefs up Anti-Ship Missile Arsenal to Counter Threat of Chinese Invasion",
+      "url": "https://gcaptain.com/taiwan-beefs-up-anti-ship-missile-arsenal-to-counter-threat-of-chinese-invasion/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-06-04T14:05:42Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Hezbollah Rejects Latest Ceasefire Agreement as Israeli Strikes Kill 4 in Lebanon",
+      "url": "https://military.com/hezbollah-rejects-latest-ceasefire-agreement-as-israeli-strikes-kill-4-in-lebanon",
+      "source": "Military.com",
+      "publishedAt": "2026-06-04T14:00:42Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "100 days of Iran war: Gulf states grapple with security and economic consequences",
-      "url": "https://www.dw.com/en/100-days-of-iran-war-gulf-states-grapple-with-security-and-economic-consequences/a-77393748",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-04T09:39:00Z",
+      "title": "Ukraine war: air campaign intensifies as Russia and Ukraine trade massive drone and missile attacks",
+      "url": "https://theconversation.com/ukraine-war-air-campaign-intensifies-as-russia-and-ukraine-trade-massive-drone-and-missile-attacks-284488",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-06-04T13:58:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump slams bid to curb war powers, says Iran talks in 'final' phase",
+      "url": "https://www.abc.net.au/news/2026-06-04/trump-labels-house-vote-to-curb-iran-war-powers-unpatriotic/106761614",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-04T13:56:09Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Trump's chilling secret trigger that would drag US troops back into all-out Iran war",
+      "url": "https://www.dailymail.com/news/article-15873961/trump-iran-red-line-netanyahu-war.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-04T13:55:08Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Calls Off Netanyahu’s Bombing of Lebanon. Iran Refuses to Negotiate If Attacks on Beirut Continue",
+      "url": "https://www.globalresearch.ca/trump-netanyahu-satellite-images-us-bases/5928776",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-04T13:53:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah rejects Lebanon-Israel ceasefire plan declared in Washington",
+      "url": "https://www.channelnewsasia.com/world/hezbollah-rejects-israel-lebanon-ceasefire-us-iran-6162616",
+      "source": "CNA",
+      "publishedAt": "2026-06-04T13:44:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "You can’t handle the truce: Trump has redefined ‘ceasefire’ in the Middle East",
+      "url": "https://www.rt.com/news/640955-trump-new-ceasefire-definition/",
+      "source": "RT",
+      "publishedAt": "2026-06-04T13:39:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Dangerous Crossroads: Kiev Regime increasingly Relies on US AI Techno Companies to Wage War on Russia, Working Closely with the Pentagon",
+      "url": "https://www.globalresearch.ca/kiev-regime-increasingly-relies-on-us-ai-technofascists-to-wage-war-on-russia/5928825",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-04T13:32:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin faces rival visions of war at Russia's 'Davos'",
+      "url": "https://www.rte.ie/news/business/2026/0604/1576778-russias-davos-conference/",
+      "source": "RTE",
+      "publishedAt": "2026-06-04T13:24:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pentagon Scales Back Military Exercises Due to Rising Fuel Prices - Reports",
+      "url": "https://sputnikglobe.com/20260604/pentagon-scales-back-military-exercises-due-to-rising-fuel-prices---reports-1124259183.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-06-04T13:24:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Moment NATO intercepts six Russian warplanes over the Baltic in tense aerial stand-off",
+      "url": "https://www.dailymail.com/news/article-15873823/NATO-intercepts-six-Russian-warplanes-Baltic-aerial-stand-off.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-04T13:23:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "FO Exclusive: How Beijing is Shaping the Global Order With the Trump and Putin Summits",
+      "url": "https://www.fairobserver.com/region/asia_pacific/fo-exclusive-how-beijing-is-shaping-the-global-order-with-the-trump-and-putin-summits/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-06-04T13:21:35Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "N Korea’s Kim Jong Un calls for ‘exponential’ expansion of nuclear arsenal",
+      "url": "https://www.aljazeera.com/news/2026/6/4/n-koreas-kim-jong-un-calls-for-exponential-expansion-of-nuclear-arsenal",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-04T12:50:09Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Hezbollah rejects latest ceasefire agreement as Israeli strikes kill 4 in Lebanon",
+      "url": "https://economictimes.indiatimes.com/news/defence/hezbollah-rejects-latest-ceasefire-agreement-as-israeli-strikes-kill-4-in-lebanon/articleshow/131507869.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-04T12:49:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Says 'No Tangible Progress' in Talks with U.S.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-No-Tangible-Progress-in-Talks-with-US.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-06-04T12:30:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Putin faces rival visions of war and peace at Russia's 'Davos'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/putin-faces-rival-visions-of-war-and-peace-at-russias-davos/articleshow/131507253.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-04T12:27:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel Pressures Trump to Murder Iran’s Supreme Leader Mojtaba Khamenei and Chief Negotiator Bagher Ghalibaf",
+      "url": "https://www.globalresearch.ca/israel-murder-iran-mojtaba-khamenei-ghalibaf/5928790",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-04T12:24:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "French jets intercepted Russian aircraft 11 times over a week in Baltics",
+      "url": "https://economictimes.indiatimes.com/news/defence/french-jets-intercepted-russian-aircraft-11-times-over-a-week-in-baltics/articleshow/131507153.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-04T12:23:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "IRGC demands immediate halt to Israeli attacks on Lebanon, rejects West's truce",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260604-presstv06.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-04T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon: Another peacekeeper dies in new attack",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260604-unnews01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-04T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Day 1,562 of WW3. UAF provides welcoming fireworks in Saint Petersburg for russia's economic forum. Fire Point test-fires the FP-7 interceptor missile, and Bullfrog-free Budapest offers to host peace talks. This is your Thursday Ukraine War thread [News]",
+      "url": "https://www.fark.com/comments/14088546/Day-1562-of-WW3-UAF-provides-welcoming-fireworks-in-Saint-Petersburg-for-russias-economic-forum-Fire-Point-test-fires-FP-7-interceptor-missile-Bullfrog-free-Budapest-offers-to-host-peace-talks-This-is-your-Thursday-Ukraine-War-thread",
+      "source": "Fark.com",
+      "publishedAt": "2026-06-04T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "R. Kaunas invited the U.S. to extend collaboration in counter-drone defence",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260604-lithuania-mnd01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-04T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Tokyo-Manila EEZ talks aim to counter China: FM",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260604-cna01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-04T12:00:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Kim vows ‘exponential’ boost in nuclear forces",
+      "url": "https://www.hurriyetdailynews.com/kim-vows-exponential-boost-in-nuclear-forces-222897",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-04T10:49:37Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Princess Diana’s timeless parenting tip resonates even today: The emotional intelligence lesson hidden in her letter to sons Prince William and Harry",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/princess-dianas-timeless-parenting-tip-resonates-even-today-the-emotional-intelligence-lesson-hidden-in-her-letter-to-sons-prince-william-and-harry/articleshow/131503634.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-04T10:00:26Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Amid US-Iran war, North Korea flaunts new nuclear fuel facility, Kim Jong Un calls it \"amazing, beyond rhetorical description\"",
@@ -43,92 +275,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Dollar at two-month high as Gulf hostilities flare, yen near intervention zone",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-at-two-month-high-as-gulf-hostilities-flare-yen-near-intervention-zone/articleshow/131501886.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-04T09:23:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-      "source": "Aoav.org.uk",
-      "publishedAt": "2026-06-04T08:45:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "President Trump considers ending Iran ceasefire if US troops killed",
-      "url": "https://cryptobriefing.com/trump-iran-ceasefire-troops-killed/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-04T08:12:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea unveils new plant to produce fuel for nuclear weapons",
       "url": "https://nypost.com/2026/06/04/world-news/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons/",
       "source": "New York Post",
       "publishedAt": "2026-06-04T08:05:25Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "US Says Israel, Lebanon Agreed Truce on Hezbollah Condition",
-      "url": "https://www.rigzone.com/news/wire/us_says_israel_lebanon_agreed_truce_on_hezbollah_condition-04-jun-2026-183847-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-06-04T08:00:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel and Lebanon agree to conditional ceasefire",
-      "url": "https://www.aljazeera.com/news/2026/6/4/israel-and-lebanon-agree-to-conditional-ceasefire",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-04T07:37:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine strike kills 3 in Russian-occupied Crimea",
-      "url": "https://www.hurriyetdailynews.com/ukraine-strike-kills-3-in-russian-occupied-crimea-222886",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-04T07:20:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Lebanon reports Israeli strikes after truce announcement",
-      "url": "https://www.hurriyetdailynews.com/lebanon-reports-israeli-strikes-after-truce-announcement-222885",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-04T07:11:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "News24 | Ceasefire deal reached despite Israel strikes killing 10 in Lebanon",
-      "url": "https://www.news24.com/world/ceasefire-deal-reached-despite-israel-strikes-killing-10-in-lebanon-20260604-0292",
-      "source": "News24",
-      "publishedAt": "2026-06-04T07:10:05Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Sensex recovers 700 points from day’s low, Nifty rises above 23,450. 5 key factors behind market rebound",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-recovers-700-points-from-days-low-nifty-rises-above-23450-5-key-factors-behind-market-rebound/articleshow/131495930.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-04T07:01:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-04T07:01:19Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Taiwan beefs up anti-ship missile arsenal to counter threat of Chinese invasion",
@@ -145,102 +297,6 @@
       "publishedAt": "2026-06-04T06:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Faultlines in a New Epoch of Crisis",
-      "url": "https://www.counterpunch.org/2026/06/04/faultlines-in-a-new-epoch-of-crisis/",
-      "source": "CounterPunch",
-      "publishedAt": "2026-06-04T05:50:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Kim Jong Un Tours New Nuclear Site, Says Output Capacity Doubled",
-      "url": "https://financialpost.com/pmn/business-pmn/kim-jong-un-tours-new-nuclear-site-says-output-capacity-doubled",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-04T05:47:14Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kyiv Seeks Patriot Missiles From Germany to Boost Air Defenses",
-      "url": "https://financialpost.com/pmn/business-pmn/kyiv-seeks-patriot-missiles-from-germany-to-boost-air-defenses",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-04T04:20:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "North Korea unveils plant to fuel nuclear weapons",
-      "url": "https://www.dw.com/en/north-korea-unveils-nuclear-weapons-fuel-production-plant/a-77414339",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-04T03:44:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea unveils a new plant to produce fuel for nuclear weapons",
-      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons/articleshow/131494495.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-04T00:48:54Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea announces opening of a new nuclear facility",
-      "url": "https://www.cbsnews.com/news/north-korea-new-nuclear-facility/",
-      "source": "CBS News",
-      "publishedAt": "2026-06-04T00:45:57Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "NATO Propagandists Again Proclaim That Ukraine Is on the Verge of Winning the War",
-      "url": "https://original.antiwar.com/ted_galen_carpenter/2026/06/03/nato-propagandists-again-proclaim-that-ukraine-is-on-the-verge-of-winning-the-war/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-06-04T00:00:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Poland and Lithuania explore playing bigger role in NATO's nuclear deterrence",
-      "url": "https://www.pbs.org/newshour/world/poland-and-lithuania-explore-playing-bigger-role-in-natos-nuclear-deterrence",
-      "source": "PBS",
-      "publishedAt": "2026-06-03T22:43:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Republicans defy Johnson to advance Democrat-backed Ukraine aid",
-      "url": "https://www.foxnews.com/politics/republicans-defy-johnson-advance-democrat-backed-ukraine-aid",
-      "source": "Fox News",
-      "publishedAt": "2026-06-03T21:39:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Poland and Lithuania confirm exploring a bigger role in nuclear deterrence",
-      "url": "https://abcnews.com/US/wireStory/poland-lithuania-confirm-exploring-bigger-role-nuclear-deterrence-133560146",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-03T18:06:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukrainian drones hit St. Petersburg oil terminal before city hosts Russian economic forum",
-      "url": "https://www.cbc.ca/news/world/ukraine-drones-st-petersburg-oil-terminal-9.7222060",
-      "source": "CBC News",
-      "publishedAt": "2026-06-03T17:06:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Western air forces have used centralized headquarters for decades. A top NATO commander said this easy era is over.",
-      "url": "https://www.businessinsider.com/natos-era-big-central-air-operation-centers-is-over-commander-2026-6",
-      "source": "Business Insider",
-      "publishedAt": "2026-06-03T16:55:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

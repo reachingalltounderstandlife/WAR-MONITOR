@@ -1,7 +1,159 @@
 {
-  "updated": "2026-06-06T03:22:10Z",
-  "count": 41,
+  "updated": "2026-06-06T08:32:02Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "Israeli strikes kill 7 in south Lebanon - civil defence",
+      "url": "https://www.rte.ie/news/middle-east/2026/0605/1576900-israel-lebanon/",
+      "source": "RTE",
+      "publishedAt": "2026-06-05T08:25:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Threats to UK are greater than at any time since the Cold War as Putin ramps up threats, head of Britain's military says",
+      "url": "https://www.dailymail.com/news/article-15876037/Threats-UK-greater-Cold-War-Putin-ramps-threats.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-05T08:17:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Skirmishes in Lebanon as Hezbollah Rejects Mideast Truce",
+      "url": "https://www.rigzone.com/news/wire/skirmishes_in_lebanon_as_hezbollah_rejects_mideast_truce-05-jun-2026-183858-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-06-05T08:12:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel and Lebanon agree to ceasefire deal as Hezbollah calls it a ‘farce’",
+      "url": "https://cryptobriefing.com/israel-lebanon-ceasefire-hezbollah-rejects-bitcoin/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-05T07:49:43Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "China’s Xi headed to North Korea in bid to shore up ties",
+      "url": "https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-05T07:32:30Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "News24 | Netanyahu support plunges in north Israel as Hezbollah rockets drive revolt",
+      "url": "https://www.news24.com/world/netanyahu-support-plunges-in-north-israel-as-hezbollah-rockets-drive-revolt-20260605-0390",
+      "source": "News24",
+      "publishedAt": "2026-06-05T07:10:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukrainian drones hit oil terminal near St. Petersburg, exposing Russian defense gaps",
+      "url": "https://cryptobriefing.com/ukrainian-drones-hit-oil-terminal-near-st-petersburg-exposing-russian-defense/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-05T07:01:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Exclusive: Israel sent troops to Azerbaijan during Iran war, sources say | CNN",
+      "url": "https://www.cnn.com/2026/06/05/middleeast/azerbaijan-israel-iran-war-intl",
+      "source": "CNN",
+      "publishedAt": "2026-06-05T07:00:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IAEA unable to inspect Iranian nuclear sites after US-Israel attacks: AP",
+      "url": "https://cryptobriefing.com/iaea-unable-to-inspect-iranian-nuclear-sites-after-us-israel-attacks-ap/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-05T06:45:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
+      "url": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-05T06:01:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Reportedly Rebukes Netanyahu Over Hezbollah Strikes in Heated Phone Call",
+      "url": "https://www.naturalnews.com/2026-06-05-trump-reportedly-rebukes-netanyahu-over-hezbollah-strikes.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-05T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Tehran Blames U.S. Patriot Missile for Damage on Kuwait Airport",
+      "url": "https://www.naturalnews.com/2026-06-05-tehran-blames-patriot-missile-damage-kuwait-airport.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-05T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel launches fresh wave of devastating strikes across southern Lebanon as U.S.-brokered truce collapses",
+      "url": "https://www.naturalnews.com/2026-06-05-israel-launches-strikes-across-southern-lebanon.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-05T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hezbollah rejects truce, demands Israeli withdrawal from Lebanon",
+      "url": "https://www.hurriyetdailynews.com/hezbollah-rejects-truce-demands-israeli-withdrawal-from-lebanon-222920",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-05T05:40:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "War, Economic Crisis, and Discontent in Putin’s Russia",
+      "url": "https://www.counterpunch.org/2026/06/05/war-economic-crisis-and-discontent-in-putins-russia/",
+      "source": "CounterPunch",
+      "publishedAt": "2026-06-05T05:27:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oman Oil Terminal Attack Rattles the Market's Last Calm Corner",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oman-Oil-Terminal-Attack-Rattles-the-Markets-Last-Calm-Corner.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-06-05T05:26:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Chinese leader Xi Jinping will travel to North Korea next week in first visit since 2019",
+      "url": "https://abcnews.com/International/wireStory/chinese-leader-xi-jinping-travel-north-korea-week-133606596",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-05T04:33:14Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Hezbollah rejection clouds Lebanon ceasefire and prospects for ending Iran war",
+      "url": "https://economictimes.indiatimes.com/news/defence/hezbollah-rejection-clouds-lebanon-ceasefire-and-prospects-for-ending-iran-war/articleshow/131521230.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-05T04:04:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Explainer: How Trump's ceasefires are failing to stop West Asia violence",
+      "url": "https://www.thehindubusinessline.com/news/world/how-trumps-ceasefires-are-failing-to-stop-west-asia-violence/article71063736.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-05T03:27:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Chinese leader Xi Jinping will travel to North Korea next week in first visit since 2019",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/chinese-leader-xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019/articleshow/131520340.cms",
@@ -11,52 +163,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Oil prices drop as Middle East tensions ease",
-      "url": "https://punchng.com/oil-prices-drop-as-middle-east-tensions-ease/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-05T03:05:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Putin allies wishcast nuclear war, America in crisis, and real-estate deals",
       "url": "https://www.defenseone.com/threats/2026/06/putin-allies-wishcast-nuclear-war/413991/",
       "source": "Defense One",
       "publishedAt": "2026-06-05T03:04:14Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel bombs Lebanon as Hezbollah rejects ‘shameless surrender’",
-      "url": "https://www.rt.com/news/641026-israel-lebanon-strikes-hezbollah/",
-      "source": "RT",
-      "publishedAt": "2026-06-05T02:53:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "\"If Iran kills US troops, it would be a good reason to restart war\": US President Trump",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/if-iran-kills-us-troops-it-would-be-a-good-reason-to-restart-war-us-president-trump/articleshow/131519446.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-05T02:28:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel has invaded deeper into Lebanon using this river crossing",
-      "url": "https://www.abc.net.au/news/2026-06-05/israeli-tanks-cross-the-lintani-river-geolocation-verify/106758296",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-05T02:00:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon-Israel truce faces setback after Hezbollah refuses ceasefire proposal",
-      "url": "https://www.thehindubusinessline.com/news/world/lebanon-israel-truce-faces-setback-after-hezbollah-refuses-ceasefire-proposal/article71063735.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-05T01:57:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "18 House Republicans defy Trump to pass Ukraine aid package headed for veto fight",
@@ -91,148 +203,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "House passes bill to provide more Ukraine aid and impose new sanctions on Russia",
-      "url": "https://www.pbs.org/newshour/politics/house-passes-bill-to-provide-more-ukraine-aid-and-impose-new-sanctions-on-russia",
-      "source": "PBS",
-      "publishedAt": "2026-06-05T00:36:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "18 House Republicans defy Trump to pass Ukraine aid package headed for veto fight",
-      "url": "https://www.foxnews.com/politics/house-republicans-defy-trump-pass-ukraine-aid-package-headed-veto-fight",
-      "source": "Fox News",
-      "publishedAt": "2026-06-05T00:28:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "House soundly rejects Tlaib's Lebanon war powers bill",
-      "url": "https://www.israelnationalnews.com/news/428155",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-05T00:25:25Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "House approves new Ukraine aid as Republicans defect",
-      "url": "https://www.cbsnews.com/news/house-ukraine-aid-discharge-petition-vote/",
-      "source": "CBS News",
-      "publishedAt": "2026-06-05T00:12:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why did Israel and Hezbollah keep striking after ceasefire? #world",
-      "url": "https://alltoc.com/world/why-did-israel-and-hezbollah-keep-striking-after-ceasefire",
-      "source": "Alltoc.com",
-      "publishedAt": "2026-06-05T00:03:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-05T00:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran war, Strait of Hormuz reopening: Donald Trump is warned for tactics against Tehran by allies, critics. Here is why",
-      "url": "https://economictimes.indiatimes.com/news/international/us/iran-war-strait-of-hormuz-reopening-donald-trump-is-warned-for-tactics-against-tehran-by-allies-critics-here-is-why/articleshow/131518890.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-04T23:46:57Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Live updates: Hezbollah and Israel trade new strikes as uncertainty surrounds US-Iran talks - CNN",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183604714",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-06-04T23:32:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Oil Steadies After First Drop This Week on Peace Talk Optimism",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-steadies-after-first-drop-this-week-on-peace-talk-optimism",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-04T23:06:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'No point' in meeting Zelensky before peace deal - Putin",
-      "url": "https://www.rte.ie/news/ukraine/2026/0605/1576858-trump-ukraine-russia/",
-      "source": "RTE",
-      "publishedAt": "2026-06-04T23:05:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump says Putin-Zelensky meeting would be 'great'",
-      "url": "https://www.rte.ie/news/world/2026/0604/1576858-trump-ukraine-russia/",
-      "source": "RTE",
-      "publishedAt": "2026-06-04T22:42:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran endgame nears — as Trump faces two stark choices",
-      "url": "https://nypost.com/2026/06/04/opinion/iran-endgame-nears-as-trump-faces-two-stark-choices/",
-      "source": "New York Post",
-      "publishedAt": "2026-06-04T22:27:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Says US Will Win 'Militarily Or On Paper,' Could Meet Iran Supreme Leader If There's Deal",
-      "url": "https://www.rferl.org/a/trump-iran-peace-negotiations-supreme-leader/33772840.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-06-04T22:00:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "IAEA Warns Iran Nuclear Risk Has Increased",
-      "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/IAEA-Warns-Iran-Nuclear-Risk-Has-Increased.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-06-04T22:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea unveils new facility to produce fuel for nuclear weapons",
       "url": "https://www.pbs.org/newshour/world/north-korea-unveils-new-facility-to-produce-fuel-for-nuclear-weapons",
       "source": "PBS",
       "publishedAt": "2026-06-04T21:07:19Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "How Trump Should Approach an Iran Endgame",
-      "url": "http://foreignpolicy.com/2026/06/04/robert-malley-trump-war-iran-negotiations-cease-fire-endgame/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-06-04T21:01:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hezbollah rejects Lebanon ceasefire as Israeli strikes kill four",
-      "url": "https://www.abc.net.au/news/2026-06-05/hezbollah-rejects-latest-lebanon-israel-ceasefire-agreement/106762184",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-04T20:40:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "UN nuclear watchdog raises 'proliferation' fears over Iran sites",
-      "url": "https://www.channelnewsasia.com/world/un-nuclear-watchdog-raises-proliferation-fears-over-iran-sites-6163096",
-      "source": "CNA",
-      "publishedAt": "2026-06-04T18:47:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea unveils a new plant to produce fuel for nuclear weapons",
@@ -275,44 +251,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "FO Exclusive: How Beijing is Shaping the Global Order With the Trump and Putin Summits",
-      "url": "https://www.fairobserver.com/region/asia_pacific/fo-exclusive-how-beijing-is-shaping-the-global-order-with-the-trump-and-putin-summits/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-06-04T13:21:35Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "N Korea’s Kim Jong Un calls for ‘exponential’ expansion of nuclear arsenal",
-      "url": "https://www.aljazeera.com/news/2026/6/4/n-koreas-kim-jong-un-calls-for-exponential-expansion-of-nuclear-arsenal",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-04T12:50:09Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Tokyo-Manila EEZ talks aim to counter China: FM",
       "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260604-cna01.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-06-04T12:00:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Kim vows ‘exponential’ boost in nuclear forces",
-      "url": "https://www.hurriyetdailynews.com/kim-vows-exponential-boost-in-nuclear-forces-222897",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-04T10:49:37Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Princess Diana’s timeless parenting tip resonates even today: The emotional intelligence lesson hidden in her letter to sons Prince William and Harry",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/princess-dianas-timeless-parenting-tip-resonates-even-today-the-emotional-intelligence-lesson-hidden-in-her-letter-to-sons-prince-william-and-harry/articleshow/131503634.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-04T10:00:26Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "Taiwan beefs up anti-ship missile arsenal to counter threat of Chinese invasion",

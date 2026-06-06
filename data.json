@@ -1,22 +1,230 @@
 {
-  "updated": "2026-06-05T19:52:40Z",
-  "count": 37,
+  "updated": "2026-06-06T03:22:10Z",
+  "count": 41,
   "articles": [
     {
-      "title": "Why does capturing the Beaufort mean so much to Israelis?",
-      "url": "https://www.israelnationalnews.com/news/428148",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-04T19:04:19Z",
+      "title": "Chinese leader Xi Jinping will travel to North Korea next week in first visit since 2019",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/chinese-leader-xi-jinping-will-travel-to-north-korea-next-week-in-first-visit-since-2019/articleshow/131520340.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-05T03:07:36Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Oil prices drop as Middle East tensions ease",
+      "url": "https://punchng.com/oil-prices-drop-as-middle-east-tensions-ease/",
+      "source": "The Punch",
+      "publishedAt": "2026-06-05T03:05:09Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "As Hezbollah rejects truce, families on Israel's northern border describe life under fire",
-      "url": "https://www.foxnews.com/world/hezbollah-rejects-truce-families-israels-northern-border-describe-life-under-fire",
-      "source": "Fox News",
-      "publishedAt": "2026-06-04T18:56:45Z",
+      "title": "Putin allies wishcast nuclear war, America in crisis, and real-estate deals",
+      "url": "https://www.defenseone.com/threats/2026/06/putin-allies-wishcast-nuclear-war/413991/",
+      "source": "Defense One",
+      "publishedAt": "2026-06-05T03:04:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel bombs Lebanon as Hezbollah rejects ‘shameless surrender’",
+      "url": "https://www.rt.com/news/641026-israel-lebanon-strikes-hezbollah/",
+      "source": "RT",
+      "publishedAt": "2026-06-05T02:53:24Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "\"If Iran kills US troops, it would be a good reason to restart war\": US President Trump",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/if-iran-kills-us-troops-it-would-be-a-good-reason-to-restart-war-us-president-trump/articleshow/131519446.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-05T02:28:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel has invaded deeper into Lebanon using this river crossing",
+      "url": "https://www.abc.net.au/news/2026-06-05/israeli-tanks-cross-the-lintani-river-geolocation-verify/106758296",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-05T02:00:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon-Israel truce faces setback after Hezbollah refuses ceasefire proposal",
+      "url": "https://www.thehindubusinessline.com/news/world/lebanon-israel-truce-faces-setback-after-hezbollah-refuses-ceasefire-proposal/article71063735.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-05T01:57:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "18 House Republicans defy Trump to pass Ukraine aid package headed for veto fight",
+      "url": "https://freerepublic.com/focus/f-news/4382408/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-05T01:27:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "House passes bill to aid Ukraine and sanction Russia in sign of impatience with Trump's approach to the war",
+      "url": "https://japantoday.com/category/world/house-poised-to-pass-ukraine-aid-over-the-objections-of-republican-leaders",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-05T01:22:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "House passes Ukraine aid bill in another GOP rebuke of Trump’s foreign policy",
+      "url": "https://www.nbcnews.com/politics/congress/house-passes-ukraine-aid-bill-another-gop-rebuke-trumps-foreign-policy-rcna348589",
+      "source": "NBC News",
+      "publishedAt": "2026-06-05T00:47:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "House Passes Bill To Aid Ukraine And Impose New Sanctions On Russia",
+      "url": "https://www.huffpost.com/entry/russia-congress-ukraine-pass-bill_n_6a221bcde4b0ed55359df7b6",
+      "source": "HuffPost",
+      "publishedAt": "2026-06-05T00:45:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "House passes bill to provide more Ukraine aid and impose new sanctions on Russia",
+      "url": "https://www.pbs.org/newshour/politics/house-passes-bill-to-provide-more-ukraine-aid-and-impose-new-sanctions-on-russia",
+      "source": "PBS",
+      "publishedAt": "2026-06-05T00:36:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "18 House Republicans defy Trump to pass Ukraine aid package headed for veto fight",
+      "url": "https://www.foxnews.com/politics/house-republicans-defy-trump-pass-ukraine-aid-package-headed-veto-fight",
+      "source": "Fox News",
+      "publishedAt": "2026-06-05T00:28:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "House soundly rejects Tlaib's Lebanon war powers bill",
+      "url": "https://www.israelnationalnews.com/news/428155",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-05T00:25:25Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "House approves new Ukraine aid as Republicans defect",
+      "url": "https://www.cbsnews.com/news/house-ukraine-aid-discharge-petition-vote/",
+      "source": "CBS News",
+      "publishedAt": "2026-06-05T00:12:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why did Israel and Hezbollah keep striking after ceasefire? #world",
+      "url": "https://alltoc.com/world/why-did-israel-and-hezbollah-keep-striking-after-ceasefire",
+      "source": "Alltoc.com",
+      "publishedAt": "2026-06-05T00:03:39Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-05T00:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran war, Strait of Hormuz reopening: Donald Trump is warned for tactics against Tehran by allies, critics. Here is why",
+      "url": "https://economictimes.indiatimes.com/news/international/us/iran-war-strait-of-hormuz-reopening-donald-trump-is-warned-for-tactics-against-tehran-by-allies-critics-here-is-why/articleshow/131518890.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-04T23:46:57Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Live updates: Hezbollah and Israel trade new strikes as uncertainty surrounds US-Iran talks - CNN",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183604714",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-04T23:32:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Oil Steadies After First Drop This Week on Peace Talk Optimism",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-steadies-after-first-drop-this-week-on-peace-talk-optimism",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-04T23:06:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'No point' in meeting Zelensky before peace deal - Putin",
+      "url": "https://www.rte.ie/news/ukraine/2026/0605/1576858-trump-ukraine-russia/",
+      "source": "RTE",
+      "publishedAt": "2026-06-04T23:05:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says Putin-Zelensky meeting would be 'great'",
+      "url": "https://www.rte.ie/news/world/2026/0604/1576858-trump-ukraine-russia/",
+      "source": "RTE",
+      "publishedAt": "2026-06-04T22:42:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran endgame nears — as Trump faces two stark choices",
+      "url": "https://nypost.com/2026/06/04/opinion/iran-endgame-nears-as-trump-faces-two-stark-choices/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-04T22:27:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says US Will Win 'Militarily Or On Paper,' Could Meet Iran Supreme Leader If There's Deal",
+      "url": "https://www.rferl.org/a/trump-iran-peace-negotiations-supreme-leader/33772840.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-06-04T22:00:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IAEA Warns Iran Nuclear Risk Has Increased",
+      "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/IAEA-Warns-Iran-Nuclear-Risk-Has-Increased.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-06-04T22:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea unveils new facility to produce fuel for nuclear weapons",
+      "url": "https://www.pbs.org/newshour/world/north-korea-unveils-new-facility-to-produce-fuel-for-nuclear-weapons",
+      "source": "PBS",
+      "publishedAt": "2026-06-04T21:07:19Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "How Trump Should Approach an Iran Endgame",
+      "url": "http://foreignpolicy.com/2026/06/04/robert-malley-trump-war-iran-negotiations-cease-fire-endgame/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-06-04T21:01:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah rejects Lebanon ceasefire as Israeli strikes kill four",
+      "url": "https://www.abc.net.au/news/2026-06-05/hezbollah-rejects-latest-lebanon-israel-ceasefire-agreement/106762184",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-04T20:40:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "UN nuclear watchdog raises 'proliferation' fears over Iran sites",
@@ -27,70 +235,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Why war has made Iran's leadership frictions more 'consequential'",
-      "url": "https://www.abc.net.au/news/2026-06-05/wartime-iran-s-leadership-frictions-more-consequential-/106753196",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-04T18:45:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel and Hezbollah Trade Fresh Strikes as Militant Group Rejects Cease-Fire Plan",
-      "url": "https://time.com/article/2026/06/04/hezbollah-rejects-israel-lebanon-ceasefire-agreement-strikes/",
-      "source": "Time",
-      "publishedAt": "2026-06-04T18:45:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Europe Prolonging Ukraine Conflict to Gain Foothold for Threatening Russia - Lavrov",
-      "url": "https://sputnikglobe.com/20260604/europe-prolonging-ukraine-conflict-to-gain-foothold-for-threatening-russia-lavrov-1124264829.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-06-04T18:42:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Kallas proposes EU naval mission for Hormuz",
-      "url": "https://www.rt.com/news/640972-eu-hormuz-naval-mission/",
-      "source": "RT",
-      "publishedAt": "2026-06-04T17:37:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "6 Republicans Defy GOP Leadership By Locking Arms With Democrats To Push For More Ukraine Funding",
-      "url": "https://dailycaller.com/2026/06/04/six-republicans-gop-leadership-democrats-ukraine-war-funding/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-06-04T17:33:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "News24 | Hezbollah rejects truce, vows to keep attacking as ceasefire hangs by a thread",
-      "url": "https://www.news24.com/world/hezbollah-rejects-truce-vows-to-keep-attacking-as-ceasefire-hangs-by-a-thread-20260604-1014",
-      "source": "News24",
-      "publishedAt": "2026-06-04T16:54:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "First IAEA report on Iran's nuclear programme since February shows little change despite war",
-      "url": "https://economictimes.indiatimes.com/news/defence/first-iaea-report-on-irans-nuclear-programme-since-february-shows-little-change-despite-war/articleshow/131512225.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-04T16:43:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli Strikes Kill At Least 9 Overnight In Gaza, Including Children",
-      "url": "https://www.huffpost.com/entry/israeli-strikes-kill-9-gaza-children_n_6a21a2fbe4b0ed55359d52bf",
-      "source": "HuffPost",
-      "publishedAt": "2026-06-04T16:38:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "North Korea unveils a new plant to produce fuel for nuclear weapons",
       "url": "https://www.npr.org/2026/06/04/g-s1-126041/north-korea-unveils-a-new-plant-to-produce-fuel-for-nuclear-weapons",
       "source": "NPR",
@@ -99,52 +243,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "The Lebanon Ceasefire was never meant to hold",
-      "url": "https://www.israelnationalnews.com/news/428142",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-04T16:21:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "With Trump in a Holding Pattern on Iran War, Allies and Critics Worry He Risks Getting Boxed In",
-      "url": "https://military.com/with-trump-in-a-holding-pattern-on-iran-war-allies-and-critics-worry-he-risks-getting-boxed-in",
-      "source": "Military.com",
-      "publishedAt": "2026-06-04T15:43:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "News24 | Kim Jong Un unveils new nuclear facility, vows ‘exponential’ arsenal expansion",
       "url": "https://www.news24.com/world/kim-jong-un-unveils-new-nuclear-facility-vows-exponential-arsenal-expansion-20260604-0941",
       "source": "News24",
       "publishedAt": "2026-06-04T15:42:54Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war",
-      "url": "https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-04T15:41:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hezbollah rejects peace of Israel-Lebanon ceasefire after House votes to curb Trump war powers - Fox News",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183600614",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-06-04T15:13:55Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon’s latest truce: What is different from the April agreement?",
-      "url": "https://www.aljazeera.com/news/2026/6/4/lebanons-latest-truce-what-is-different-from-the-april-agreement",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-04T14:58:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea unveils new nuclear materials production facility as Kim Jong Un pledges ‘exponential’ arsenal growth",
@@ -163,52 +267,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "“Total Defense to Europe”. Preparing Combat with a Non-existent Enemy. NATO Military Committee Calls for “National Defense to Include Civilians”",
-      "url": "https://www.globalresearch.ca/nato-national-defense-include-civilians/5928809",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-06-04T14:09:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Taiwan Beefs up Anti-Ship Missile Arsenal to Counter Threat of Chinese Invasion",
       "url": "https://gcaptain.com/taiwan-beefs-up-anti-ship-missile-arsenal-to-counter-threat-of-chinese-invasion/",
       "source": "gcaptain.com",
       "publishedAt": "2026-06-04T14:05:42Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Ukraine war: air campaign intensifies as Russia and Ukraine trade massive drone and missile attacks",
-      "url": "https://theconversation.com/ukraine-war-air-campaign-intensifies-as-russia-and-ukraine-trade-massive-drone-and-missile-attacks-284488",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-06-04T13:58:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Dangerous Crossroads: Kiev Regime increasingly Relies on US AI Techno Companies to Wage War on Russia, Working Closely with the Pentagon",
-      "url": "https://www.globalresearch.ca/kiev-regime-increasingly-relies-on-us-ai-technofascists-to-wage-war-on-russia/5928825",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-06-04T13:32:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin faces rival visions of war at Russia's 'Davos'",
-      "url": "https://www.rte.ie/news/business/2026/0604/1576778-russias-davos-conference/",
-      "source": "RTE",
-      "publishedAt": "2026-06-04T13:24:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Moment NATO intercepts six Russian warplanes over the Baltic in tense aerial stand-off",
-      "url": "https://www.dailymail.com/news/article-15873823/NATO-intercepts-six-Russian-warplanes-Baltic-aerial-stand-off.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-04T13:23:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "FO Exclusive: How Beijing is Shaping the Global Order With the Trump and Putin Summits",
@@ -225,22 +289,6 @@
       "publishedAt": "2026-06-04T12:50:09Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Putin faces rival visions of war and peace at Russia's 'Davos'",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/putin-faces-rival-visions-of-war-and-peace-at-russias-davos/articleshow/131507253.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-04T12:27:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "French jets intercepted Russian aircraft 11 times over a week in Baltics",
-      "url": "https://economictimes.indiatimes.com/news/defence/french-jets-intercepted-russian-aircraft-11-times-over-a-week-in-baltics/articleshow/131507153.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-04T12:23:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Tokyo-Manila EEZ talks aim to counter China: FM",
@@ -263,22 +311,6 @@
       "url": "https://economictimes.indiatimes.com/news/new-updates/princess-dianas-timeless-parenting-tip-resonates-even-today-the-emotional-intelligence-lesson-hidden-in-her-letter-to-sons-prince-william-and-harry/articleshow/131503634.cms",
       "source": "The Times of India",
       "publishedAt": "2026-06-04T10:00:26Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Amid US-Iran war, North Korea flaunts new nuclear fuel facility, Kim Jong Un calls it \"amazing, beyond rhetorical description\"",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/amid-us-iran-war-north-korea-flaunts-new-nuclear-fuel-facility-kim-jong-un-calls-it-amazing-beyond-rhetorical-description/articleshow/131502051.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-04T09:36:49Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim Jong Un reveals secretive nuclear facility, North Korea vows ‘exponential’ bomb production",
-      "url": "https://indianexpress.com/article/world/north-korea-unveils-nuclear-fuel-plant-kim-vows-exponential-growth-arsenal-10723487/",
-      "source": "The Indian Express",
-      "publishedAt": "2026-06-04T09:34:24Z",
       "_cat": "korea",
       "_label": "N. Korea"
     },

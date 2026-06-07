@@ -1,7 +1,87 @@
 {
-  "updated": "2026-06-07T13:49:44Z",
+  "updated": "2026-06-07T19:20:12Z",
   "count": 35,
   "articles": [
+    {
+      "title": "Ukraine hits St. Petersburg again after Putin rejects talks",
+      "url": "https://www.dw.com/en/ukraine-hits-st-petersburg-again-after-putin-rejects-talks/a-77445845",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-06T18:54:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel has reportedly used white phosphorus near Lebanese cities and towns. What is it?",
+      "url": "https://www.npr.org/2026/06/06/nx-s1-5848668/israel-lebanon-white-phosphorus",
+      "source": "NPR",
+      "publishedAt": "2026-06-06T18:48:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S.-Iran exchange of fire in Gulf tests fragile ceasefire",
+      "url": "https://www.pbs.org/newshour/world/u-s-iran-exchange-of-fire-in-gulf-tests-fragile-ceasefire",
+      "source": "PBS",
+      "publishedAt": "2026-06-06T18:33:58Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel-Hezbollah fighting escalates despite US-brokered ceasefire, Bitcoin drops 3%",
+      "url": "https://cryptobriefing.com/israel-hezbollah-ceasefire-bitcoin-drops/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-06T18:12:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran Fires Ballistic Missiles, Drones at Arab States as Conflict Approaches 100-Day Mark",
+      "url": "https://legalinsurrection.com/2026/06/iran-fires-ballistic-missiles-drones-at-arab-states-as-conflict-approaches-100-day-mark/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-06-06T18:00:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why ceasefires haven’t stopped deadly strikes in Gaza, Lebanon or the Gulf",
+      "url": "https://www.nbcnews.com/world/middle-east/ceasefires-havent-stopped-deadly-strikes-gaza-lebanon-gulf-rcna348774",
+      "source": "NBC News",
+      "publishedAt": "2026-06-06T16:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-06T15:30:53Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Putin's 'Arctic chokehold' tactic that can put London in range of hypersonic nukes: How Russia could seize 400-mile-wide ocean 'gateway' putting UK in crosshairs",
+      "url": "https://www.dailymail.com/news/article-15866881/Putins-Arctic-chokehold-tactic-London-range-hypersonic-nukes-Russia-seize-400-mile-wide-ocean-gateway-putting-UK-crosshairs.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-06T14:50:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says ‘situation with Iran seems to be going quite well’ while U.S. shoots down more missiles and drones near Strait of Hormuz",
+      "url": "https://fortune.com/2026/06/06/trump-iran-war-ceasefire-talks-us-missiles-drones-strait-hormuz/",
+      "source": "Fortune",
+      "publishedAt": "2026-06-06T14:33:32Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/articleshow/131553553.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-06T14:05:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Kim Jong Un vows to build nuclear-armed navy with 'secret underwater weapons' as he tours warship with his daughter",
       "url": "https://www.dailymail.com/news/article-15879219/Kim-Jong-nuclear-navy-underwater-weapons-warship-daughter.html",
@@ -17,22 +97,6 @@
       "publishedAt": "2026-06-06T12:47:28Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Israeli airstrike on southern Lebanon kills Lebanese troops days after ceasefire began",
-      "url": "https://www.cbc.ca/news/world/israeli-airstrike-southern-lebanon-9.7226084",
-      "source": "CBC News",
-      "publishedAt": "2026-06-06T12:43:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US and Iran exchange strikes, threatening fragile ceasefire",
-      "url": "https://www.politico.eu/article/us-iran-war-missile-strikes-undermining-fragile-ceasefire/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-06-06T12:26:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Inside the Obama-era Iran nuclear deal that Trump withdrew from",
@@ -67,22 +131,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Lebanese army colonel, troops killed in Israeli air raid despite ceasefire",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260606-presstv08.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-06T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Saturday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/06/06/saturday-hili-dialogue-585/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-06-06T11:45:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "IRGC pounds US bases in Kuwait, Bahrain after drone attacks on Iranian territory",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260606-presstv01.htm",
       "source": "Globalsecurity.org",
@@ -107,44 +155,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran World Cup squad heads to Mexico as US visa row erupts",
-      "url": "https://sports.yahoo.com/articles/iran-world-cup-squad-heads-103816833.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-06T10:38:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "MP of little UK town at top of Russia's hit list responds to Russian state TV call for missile strike",
       "url": "https://www.ladbible.com/news/uk-news/uk-town-russia-hit-list-missile-strike-736085-20260606",
       "source": "LADbible",
       "publishedAt": "2026-06-06T10:06:12Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran targets Bahrain and Kuwait after renewed US strikes",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-targets-bahrain-and-kuwait-after-renewed-us-strikes/articleshow/131548737.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-06T09:52:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran targets Bahrain and Kuwait after renewed US strikes",
-      "url": "https://www.hurriyetdailynews.com/iran-targets-bahrain-and-kuwait-after-renewed-us-strikes-222966",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-06T09:49:42Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Air raid sirens in Bahrain as Iranian missiles and drones head for Gulf neighbors",
-      "url": "https://abcnews.com/US/wireStory/air-raid-sirens-bahrain-iranian-missiles-drones-head-133642934",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-06T09:36:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "As Armenia heads to the polls, Russia warns against electing 'pro-European forces'",
@@ -255,22 +271,6 @@
       "url": "https://www.breitbart.com/europe/2026/06/05/four-ukrainian-sea-attack-drones-explode-in-and-near-port-of-nato-ally-romania/",
       "source": "Breitbart News",
       "publishedAt": "2026-06-05T17:26:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Finland: 4 suspects in sabotage of undersea cable link with Estonia",
-      "url": "https://www.dw.com/en/finland-4-suspects-in-sabotage-of-undersea-cable-link-with-estonia/a-77440069",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-05T17:17:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine slows Russia’s army but struggles to down ballistic missiles",
-      "url": "https://www.aljazeera.com/news/2026/6/5/ballistics-putins-last-argument-as-ukraine-brings-his-army-to-standstill",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-05T16:52:11Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

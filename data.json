@@ -1,7 +1,167 @@
 {
-  "updated": "2026-06-06T19:20:36Z",
-  "count": 39,
+  "updated": "2026-06-07T03:47:50Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Tensions soar as US shoots down Iranian drones headed for Strait of Hormuz after Trump said 'we're straightening out a little unfinished business'",
+      "url": "https://www.dailymail.com/news/article-15878619/US-shoots-four-Iranian-drones-strikes-donald-trump.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-06T03:14:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump claims Iran's missile arsenal decimated to 'maybe 21, 22 percent' following US strikes",
+      "url": "https://economictimes.indiatimes.com/news/defence/trump-claims-irans-missile-arsenal-decimated-to-maybe-21-22-percent-following-us-strikes/articleshow/131543511.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-06T02:51:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korean leader Kim stresses stronger naval nuclear deterrent",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-naval-nuclear-deterrence-6165971",
+      "source": "CNA",
+      "publishedAt": "2026-06-06T02:43:53Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US attacks Iranian sites after Iran launches drones, in latest Gulf flare-up",
+      "url": "https://www.yahoo.com/news/articles/us-attacks-iranian-coastal-sites-000159581.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-06T02:34:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says Things Are 'Going Quite Well' As U.S. Military Shoots Down Iranian Drones Launched Toward Strait Of Hormuz",
+      "url": "https://www.huffpost.com/entry/iran-us-trump_n_6a237f91e4b0423d0613a569",
+      "source": "HuffPost",
+      "publishedAt": "2026-06-06T02:15:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes southern Lebanon after issuing evacuation warnings to several villages",
+      "url": "https://www.thehindubusinessline.com/news/world/israel-strikes-southern-lebanon-after-issuing-evacuation-warnings-to-several-villages/article71068310.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-06T01:58:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Xi to visit North Korea, showing China’s importance to a nuclear-armed neighbor - The Washington Post",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183615632",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-06T01:52:50Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US intercepts Iranian drones and targets radar installations in Strait of Hormuz region",
+      "url": "https://www.thehindubusinessline.com/news/world/us-intercepts-iranian-drones-and-targets-radar-installations-in-strait-of-hormuz-region/article71068300.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-06T01:48:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korean leader Kim showcases new warship ahead of visit by China's Xi",
+      "url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-showcases-new-warship-ahead-133638097",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-06T01:46:41Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel strikes southern Lebanon after ordering evacuations of nine villages - The Guardian",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183615524",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-06T01:32:50Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US and Iran trade fire in Strait of Hormuz",
+      "url": "https://www.abc.net.au/news/2026-06-06/us-and-iran-trade-fire-near-strait-of-hormuz/106767478",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-06T00:53:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US military says it shot down Iranian drones launched toward Strait of Hormuz",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-shot-down-iranian-drones-launched-toward-strait-of-hormuz/articleshow/131542883.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-06T00:42:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Xi Jinping heads to North Korea for first visit since 2019, signaling shifting Asian power dynamics",
+      "url": "https://cryptobriefing.com/xi-jinping-north-korea-visit-2026/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-06T00:37:16Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Strait of Hormuz boils again: Iranian drones launched toward global oil corridor shot down, says U.S military",
+      "url": "https://economictimes.indiatimes.com/news/international/us/strait-of-hormuz-boils-again-iranian-drones-launched-toward-global-oil-corridor-shot-down-says-u-s-military/articleshow/131542802.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-06T00:09:39Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "ANDREW NEIL: There are many reasons to despise this Government. But when the history books are written, the failure to rearm in the face of clear and present dangers will be the most telling",
+      "url": "https://www.dailymail.com/debate/article-15877919/ANDREW-NEIL-Government-history-books-failure-rearm-dangers.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-06T00:05:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Panic, fear and anger on the streets of Russia as, blast by blast, Ukraine's mastery of long-distance drone warfare turns the tide: Special report by WILL STEWART",
+      "url": "https://www.dailymail.com/news/article-15878123/Panic-fear-anger-streets-Russia-blast-blast-Ukraines-mastery-long-distance-drone-warfare-turns-tide-Special-report-STEWART.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-05T22:06:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "China Announces Xi Jinping’s First Visit to North Korea Since 2019",
+      "url": "https://www.breitbart.com/asia/2026/06/05/china-announces-xi-jinpings-first-visit-to-north-korea-since-2019/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-06-05T21:30:36Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "A US ally is getting nuclear-powered submarines with no AUKUS. Here's how",
+      "url": "https://www.abc.net.au/news/2026-06-06/how-south-korea-submarine-plan-compares-to-aukus/106764594",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-05T21:03:49Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran footballers issued US visas for World Cup, says White House",
+      "url": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-issued-us-visas-for-world-cup-says-white-house",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-05T20:49:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Senior Iranian official: Talks are at a deadlock, the ball is in Trump’s court",
+      "url": "https://www.israelnationalnews.com/news/428195",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-05T19:30:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "How Ukraine Has Turned the Tide",
       "url": "http://foreignpolicy.com/2026/06/05/ukraine-russia-war-putin-zelensky-winning-drones-front-battlefield-peace/",
@@ -9,38 +169,6 @@
       "publishedAt": "2026-06-05T19:00:33Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump’s Red Line Against Iran Killing U.S. Troops Isn’t Anything New",
-      "url": "https://www.forbes.com/sites/pauliddon/2026/06/05/trumps-red-line-against-iran-killing-us-troops-isnt-anything-new/",
-      "source": "Forbes",
-      "publishedAt": "2026-06-05T18:24:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump must ‘accept the reality’ there is no Iran deal on the horizon: Jack Keane",
-      "url": "https://nypost.com/2026/06/05/world-news/jack-keane-calls-for-trump-to-return-to-war-with-iran-lets-go-big/",
-      "source": "New York Post",
-      "publishedAt": "2026-06-05T18:17:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "War will end when fighting stops in Lebanon as well: Iran",
-      "url": "https://economictimes.indiatimes.com/news/defence/war-will-end-when-fighting-stops-in-lebanon-as-well-iran/articleshow/131538745.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-05T18:04:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli Strikes Eliminate Several Hamas Commanders, Hezbollah’s Top Bomb Maker",
-      "url": "https://legalinsurrection.com/2026/06/israeli-strikes-eliminate-several-hamas-commanders-hezbollahs-top-bomb-maker/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-06-05T18:00:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Four Ukrainian Sea Attack Drones Explode in and Near Port of NATO Ally Romania",
@@ -83,44 +211,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "What in the World?",
-      "url": "http://foreignpolicy.com/2026/06/05/news-quiz-malta-election-japan-militarism-iran-peace-negotiations/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-06-05T16:26:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "A Ukrainian naval drone blew up in a NATO port after Russian electronic warfare pushed it off course",
       "url": "https://www.businessinsider.com/ukrainian-naval-drone-exploded-nato-port-after-russian-electronic-warfare-2026-6",
       "source": "Business Insider",
       "publishedAt": "2026-06-05T16:01:46Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "News24 | Ceasefire in name only: Why powerful nations keep bombing and face no consequences",
-      "url": "https://www.news24.com/world/ceasefire-in-name-only-why-powerful-nations-keep-bombing-and-face-no-consequences-20260605-0931",
-      "source": "News24",
-      "publishedAt": "2026-06-05T15:32:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran declares Hezbollah support, demands Israel leave Southern Lebanon — as US peace deal in is doubt",
-      "url": "https://nypost.com/2026/06/05/world-news/iran-declares-support-for-hezbollah-with-us-peace-deal-in-doubt/",
-      "source": "New York Post",
-      "publishedAt": "2026-06-05T15:19:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Selected Articles: Dangerous Crossroads: Kiev Regime Increasingly Relies on US AI Techno Companies to Wage War on Russia, Working Closely with the Pentagon",
-      "url": "https://www.globalresearch.ca/selected-articles-kiev-relies-us-ai-techno-companies-war-russia/5928916",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-06-05T15:07:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Mamdani-backed House hopeful Darializa Avila Chevalier echoed Putin by blaming ‘bullying’ US for Russian invasion of Ukraine",
@@ -139,84 +235,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?",
-      "url": "https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-05T14:12:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Floats Meeting Iran's Supreme Leader, But Only If There's A Deal",
-      "url": "https://oilprice.com/Geopolitics/International/Trump-Floats-Meeting-Irans-Supreme-Leader-But-Only-If-Theres-A-Deal.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-06-05T14:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Will Iran be Europe’s Zeitenwende?",
-      "url": "https://www.fairobserver.com/politics/will-iran-be-europes-zeitenwende/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-06-05T13:48:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How Trump's ceasefires are failing to stop Middle East violence",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trumps-failed-ceasefires-ongoing-violence-in-the-middle-east/articleshow/131533118.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-05T13:47:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea quietly ramps up its nuclear program",
       "url": "https://www.dw.com/en/north-korea-quietly-ramps-up-its-nuclear-program/a-77438060",
       "source": "DW (English)",
       "publishedAt": "2026-06-05T13:47:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "US and Iran Show Little Progress in Talks After Week of Clashes",
-      "url": "https://military.com/us-and-iran-show-little-progress-in-talks-after-week-of-clashes",
-      "source": "Military.com",
-      "publishedAt": "2026-06-05T13:44:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel maintains attacks despite US-brokered deal with Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/6/5/israel-maintains-attacks-despite-us-brokered-deal-with-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-05T13:43:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The teenagers enlisted as agents of mayhem by Russia and Iran",
-      "url": "https://financialpost.com/financial-times/teenagers-agents-mayhem-russia-iran",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-05T13:25:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Drone blast in Romania prompts fresh warning over Ukraine war spillover",
-      "url": "https://www.abc.net.au/news/2026-06-05/drone-blast-in-romania-prompts-fresh-warning-over-ukraine-war/106766706",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-05T13:25:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "News24 | Ukraine’s Zelensky calls for Putin ‘direct engagement’ to end war with Russia",
-      "url": "https://www.news24.com/world/ukraines-zelensky-calls-for-putin-direct-engagement-to-end-war-with-russia-20260605-0803",
-      "source": "News24",
-      "publishedAt": "2026-06-05T13:24:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Iran demands 'zero-tolerance' on nuclear strikes, cites 17 US-Israeli attacks against its facilities",
@@ -233,86 +257,6 @@
       "publishedAt": "2026-06-05T10:50:04Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "China's Xi to visit North Korea in push for deeper ties - Reuters",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183608068",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-06-05T09:52:27Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Russia, US and nuclear: What to expect from Xi-Kim summit",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/russia-us-and-nuclear-what-to-expect-from-xi-kim-summit/articleshow/131528152.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-05T09:50:28Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Chinese leader Xi Jinping to visit North Korea for first time since 2019",
-      "url": "https://www.cbc.ca/news/world/xi-jinping-north-korea-visit-9.7224477",
-      "source": "CBC News",
-      "publishedAt": "2026-06-05T08:56:17Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Chinese Leader Xi Jinping Will Travel To North Korea Next Week In First Visit Since 2019",
-      "url": "https://www.huffpost.com/entry/xi-jinping-to-visit-north-korea_n_6a228cebe4b0a18aef0b63b5",
-      "source": "HuffPost",
-      "publishedAt": "2026-06-05T08:53:32Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "China’s Xi headed to North Korea in bid to shore up ties",
-      "url": "https://www.aljazeera.com/news/2026/6/5/chinas-xi-headed-to-north-korea-in-bid-to-shore-up-ties",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-05T07:32:30Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Chinese leader Xi Jinping will travel to North Korea next week in first visit since 2019",
-      "url": "https://abcnews.com/International/wireStory/chinese-leader-xi-jinping-travel-north-korea-week-133606596",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-05T04:33:14Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Taiwan Beefs up Anti-Ship Missile Arsenal to Counter Threat of Chinese Invasion",
-      "url": "https://gcaptain.com/taiwan-beefs-up-anti-ship-missile-arsenal-to-counter-threat-of-chinese-invasion/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-06-04T14:05:42Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Tokyo-Manila EEZ talks aim to counter China: FM",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260604-cna01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-04T12:00:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Taiwan beefs up anti-ship missile arsenal to counter threat of Chinese invasion",
-      "url": "https://economictimes.indiatimes.com/news/defence/taiwan-beefs-up-anti-ship-missile-arsenal-to-counter-threat-of-chinese-invasion/articleshow/131498424.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-04T06:36:47Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Former CIA Analyst: Iran May Already Have Nuclear Weapon, Raising Strategic Questions",
-      "url": "https://www.naturalnews.com/2026-06-04-former-cia-analyst-iran-may-have-nukes.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-04T06:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

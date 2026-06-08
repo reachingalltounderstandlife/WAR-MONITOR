@@ -1,46 +1,118 @@
 {
-  "updated": "2026-06-08T10:51:14Z",
-  "count": 35,
+  "updated": "2026-06-08T15:49:26Z",
+  "count": 31,
   "articles": [
     {
-      "title": "Pakistani Minister Arrives In Tehran To Press Struggling Peace Process",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260607-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-07T10:38:50Z",
+      "title": "Israeli Army Strikes Residential Buildings in Beirut Suburb",
+      "url": "https://sputnikglobe.com/20260607/israeli-army-strikes-residential-buildings-in-beirut-suburb-1124280338.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-06-07T15:48:28Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Ahead of Market: 10 things that will decide D-Street action on Monday",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-d-street-action-on-monday/articleshow/131564578.cms",
+      "title": "US, Iran appear far from peace deal 100 days since war began",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-iran-appear-far-from-peace-deal-100-days-since-war-began/articleshow/131569411.cms",
       "source": "The Times of India",
-      "publishedAt": "2026-06-07T09:38:23Z",
+      "publishedAt": "2026-06-07T15:38:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel hits Beirut's southern suburbs for first time since ceasefire with Hezbollah",
+      "url": "https://www.cbc.ca/news/world/israel-strike-beirut-suburb-ceasefire-9.7226621",
+      "source": "CBC News",
+      "publishedAt": "2026-06-07T15:36:54Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "How have countries around the world responded to the US-Israel war on Iran?",
-      "url": "https://www.aljazeera.com/news/2026/6/7/how-have-countries-around-the-world-responded-to-the-us-israel-war-on-iran",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-07T09:35:31Z",
+      "title": "Donald Trump urges more 'surgical' strikes against Hezbollah: NBC",
+      "url": "https://economictimes.indiatimes.com/news/defence/donald-trump-urges-more-surgical-strikes-against-hezbollah-nbc/articleshow/131569362.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-07T15:28:53Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S. floats steering frozen Iran assets to Gulf allies for repairs",
+      "url": "https://fortune.com/2026/06/07/us-frozen-iran-assets-gulf-allies-reconstruction-treasury-secretary-bessent/",
+      "source": "Fortune",
+      "publishedAt": "2026-06-07T15:21:29Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "The accomplishments of 100 days of war on Iran are undeniable",
-      "url": "https://www.aljazeera.com/opinions/2026/6/7/the-accomplishments-of-100-days-of-war-on-iran-are-undeniable",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-07T08:55:20Z",
+      "title": "U.S. and Iran appear far from peace deal 100 days since war began",
+      "url": "https://fortune.com/2026/06/07/us-iran-peace-deal-talks-100-days-war-frozen-assets-missiles-drones/",
+      "source": "Fortune",
+      "publishedAt": "2026-06-07T15:15:41Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran after 100 days of war: The triumph of survival",
-      "url": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-07T08:52:20Z",
+      "title": "Israel targets Hezbollah with strike on Beirut despite ceasefire",
+      "url": "https://www.politico.eu/article/israel-targets-hezbollah-beirut-strike-despite-ceasefire/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-06-07T15:04:07Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Surging Inflation and Soaring Unemployment Batter Iranian Economy",
+      "url": "https://www.globalresearch.ca/surging-inflation-soaring-unemployment-batter-iranian-economy/5928912",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-07T14:31:18Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Missiles and negotiations: Iran 100 days into the war with US and Israel",
+      "url": "https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-07T14:14:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How War Exposed US Vulnerability...",
+      "url": "https://www.newsweek.com/how-100-days-iran-war-exposed-us-12038789",
+      "source": "Newsweek",
+      "publishedAt": "2026-06-07T14:00:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pakistan's interior minister is in Tehran as the US downs more Iranian drones over Hormuz",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistans-interior-minister-is-in-tehran-as-the-us-downs-more-iranian-drones-over-hormuz/articleshow/131567635.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-07T13:34:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US says shot down Iran drones as war reaches 100th day",
+      "url": "https://punchng.com/us-says-shot-down-iran-drones-as-war-reaches-100th-day/",
+      "source": "The Punch",
+      "publishedAt": "2026-06-07T12:10:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine Is Not Losing. Russia Is Not Winning.",
+      "url": "https://www.theatlantic.com/ideas/2026/06/ukraine-war-momentum-shift/687444/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-06-07T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO's eastern flank races to rearm as Trump pressure exposes Western Europe's defense gap",
+      "url": "https://www.foxnews.com/world/natos-eastern-flank-races-rearm-trump-pressure-exposes-western-europes-defense-gap",
+      "source": "Fox News",
+      "publishedAt": "2026-06-07T11:00:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "NATO bolsters defences around Sweden and Finland",
@@ -49,14 +121,6 @@
       "publishedAt": "2026-06-07T08:13:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US shoots down two Iranian drones over Strait of Hormuz",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/06/07/us-shoots-down-iranian-drones-threatening-strait-of-hormuz-shipping/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-06-07T07:51:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "China’s Xi Jinping heads to North Korea on June 8, his first Pyongyang visit in seven years",
@@ -75,52 +139,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Israeli strike kills three Lebanese soldiers",
-      "url": "https://www.hurriyetdailynews.com/israeli-strike-kills-three-lebanese-soldiers-222971",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-07T06:51:27Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US says shot down Iran drones in fresh escalation",
-      "url": "https://www.hurriyetdailynews.com/us-says-shot-down-iran-drones-in-fresh-escalation-222970",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-07T06:49:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Live updates: Iran fires waves of missiles into Israel for first time since April ceasefire | CNN",
-      "url": "https://www.cnn.com/2026/06/07/world/live-news/iran-war-trump-israel-lebanon",
-      "source": "CNN",
-      "publishedAt": "2026-06-07T06:36:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US shoots two Iranian drones threatening Strait of Hormuz, as the war enters day 100",
-      "url": "https://www.thejournal.ie/us-shoots-two-iranian-drones-threatening-strait-of-hormuz-as-the-war-enters-day-100-7063004-Jun2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-06-07T06:23:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "What to know about rare visit by China's Xi to North Korea for talks with Kim Jong Un",
       "url": "https://www.thehindubusinessline.com/news/world/what-to-know-about-rare-visit-by-chinas-xi-to-north-korea-for-talks-with-kim-jong-un/article71072479.ece",
       "source": "BusinessLine",
       "publishedAt": "2026-06-07T06:21:24Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Poll: 68% of Americans Want Quick End to Iran War",
-      "url": "https://www.naturalnews.com/2026-06-07-majority-of-americans-want-quick-end-iran-war.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-07T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukrainian Maritime Drone Explodes in Romanian Port of Constanta",
@@ -131,30 +155,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US forces shoot down two Iranian one-way attack drones that threatened international maritime traffic in the Strait of Hormuz",
-      "url": "https://www.dailymail.com/news/article-15880219/US-forces-shoot-Iranian-drones-Strait-Hormuz.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-07T05:55:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US says it shot down Iranian drones in fresh Gulf escalation",
-      "url": "https://punchng.com/us-says-it-shot-down-iranian-drones-in-fresh-gulf-escalation/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-07T05:36:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "By the numbers: 100 days of the US-Israel war on Iran",
-      "url": "https://www.aljazeera.com/news/2026/6/7/by-the-numbers-100-days-of-the-us-israel-war-on-iran",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-07T05:30:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "What to know about a rare visit by China's Xi to North Korea for talks with Kim Jong Un",
       "url": "https://abcnews.com/International/wireStory/rare-visit-chinas-xi-north-korea-talks-kim-133657819",
       "source": "Abcnews.com",
@@ -163,28 +163,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "How many times were the US and Iran on the verge of a deal?",
-      "url": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-07T04:51:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Joint Statement of the Leaders of France, the United Kingdom, Germany and Ukraine",
       "url": "https://www.voltairenet.org/article224667.html",
       "source": "Red Voltaire",
       "publishedAt": "2026-06-07T04:40:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "War, debt and cuts: The price of Israel's security push",
-      "url": "https://economictimes.indiatimes.com/news/defence/war-debt-and-cuts-the-price-of-israels-security-push/articleshow/131561986.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-07T04:36:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Romanian President Admits Drone That Struck Major Regional Port Was Ukrainian",
@@ -263,22 +247,6 @@
       "url": "https://www.ladbible.com/news/uk-news/uk-town-russia-hit-list-missile-strike-736085-20260606",
       "source": "LADbible",
       "publishedAt": "2026-06-06T10:06:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "As Armenia heads to the polls, Russia warns against electing 'pro-European forces'",
-      "url": "https://www.cbc.ca/news/world/armenia-election-russia-vs-europe-9.7225272",
-      "source": "CBC News",
-      "publishedAt": "2026-06-06T08:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "House Advances $8 Billion Ukraine Aid Package Amid Congressional Pushback on Foreign Policy",
-      "url": "https://www.naturalnews.com/2026-06-06-house-advances-ukraine-aid-package-pushback-foreign-policy.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-06T06:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

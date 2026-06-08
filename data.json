@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-07T19:20:12Z",
-  "count": 35,
+  "updated": "2026-06-08T03:54:58Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "US weighs using Iranian assets to fund Gulf reconstruction amid escalating tensions",
+      "url": "https://www.thehindubusinessline.com/news/world/us-weighs-using-iranian-assets-to-fund-gulf-reconstruction-amid-escalating-tensions/article71072185.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-07T02:12:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea calls US push for its denuclearization an 'anachronistic dreams'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/north-korea-calls-us-push-for-its-denuclearization-an-anachronistic-dreams/articleshow/131561072.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-07T01:34:06Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea says nuclear program 'absolutely non-negotiable'",
+      "url": "https://www.dw.com/en/north-korea-nuclear-weapons-non-negotiable-kim-yo-jong/a-77446889",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-07T01:16:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea nuclear programme 'absolutely non-negotiable': leader's sister",
+      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-nuclear-programme-absolutely-non-negotiable-leaders-sister/articleshow/131560919.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-07T00:46:25Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US weighs seizing Iranian assets to rebuild Gulf states hit by Tehran's attacks",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-weighs-seizing-iranian-assets-to-rebuild-gulf-states-hit-by-tehrans-attacks/articleshow/131560888.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-07T00:34:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea reaffirms nuclear status a day before Chinese president's visit",
+      "url": "https://www.channelnewsasia.com/asia/north-korea-nuclear-kim-yo-jong-sister-kim-jong-un-6166811",
+      "source": "CNA",
+      "publishedAt": "2026-06-07T00:18:26Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea reaffirms nuclear status a day before Chinese president's visit",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-nuclear-kim-yo-jong-sister-kim-jong-un-6166811",
+      "source": "CNA",
+      "publishedAt": "2026-06-07T00:18:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Pyongyang reaffirms North Korea's nuclear status ahead of visit by China's Xi",
+      "url": "https://www.cbc.ca/news/world/north-korea-nuclear-9.7226405",
+      "source": "CBC News",
+      "publishedAt": "2026-06-06T23:23:44Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US says shot down Iran drones in fresh escalation",
+      "url": "https://www.rte.ie/news/middle-east/2026/0607/1577148-iran-us/",
+      "source": "RTE",
+      "publishedAt": "2026-06-06T23:04:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US eyes Iranian assets for Gulf reconstruction - sources",
+      "url": "https://www.rte.ie/news/middle-east/2026/0607/1577148-iran-us-talks/",
+      "source": "RTE",
+      "publishedAt": "2026-06-06T23:04:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pentagon boosts Israeli spying threat to ‘critical’ – media",
+      "url": "https://www.rt.com/news/641108-pentagon-israel-spying-threat/",
+      "source": "RT",
+      "publishedAt": "2026-06-06T22:01:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "June 7 1981: Silencing Sadaam’s nuclear threat",
+      "url": "https://www.israelnationalnews.com/news/428221",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-06T21:45:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
     {
       "title": "Ukraine hits St. Petersburg again after Putin rejects talks",
       "url": "https://www.dw.com/en/ukraine-hits-st-petersburg-again-after-putin-rejects-talks/a-77445845",
@@ -51,28 +147,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
-      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-06T15:30:53Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Putin's 'Arctic chokehold' tactic that can put London in range of hypersonic nukes: How Russia could seize 400-mile-wide ocean 'gateway' putting UK in crosshairs",
       "url": "https://www.dailymail.com/news/article-15866881/Putins-Arctic-chokehold-tactic-London-range-hypersonic-nukes-Russia-seize-400-mile-wide-ocean-gateway-putting-UK-crosshairs.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-06-06T14:50:13Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump says ‘situation with Iran seems to be going quite well’ while U.S. shoots down more missiles and drones near Strait of Hormuz",
-      "url": "https://fortune.com/2026/06/06/trump-iran-war-ceasefire-talks-us-missiles-drones-strait-hormuz/",
-      "source": "Fortune",
-      "publishedAt": "2026-06-06T14:33:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up",
@@ -131,30 +211,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "IRGC pounds US bases in Kuwait, Bahrain after drone attacks on Iranian territory",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260606-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-06T11:37:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran Exchange Military Strikes, Further Imperiling Shaky Cease-Fire",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260606-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-06T11:37:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 6/62026",
-      "url": "https://www.nakedcapitalism.com/2026/06/links-6-62026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-06-06T10:59:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "MP of little UK town at top of Russia's hit list responds to Russian state TV call for missile strike",
       "url": "https://www.ladbible.com/news/uk-news/uk-town-russia-hit-list-missile-strike-736085-20260606",
       "source": "LADbible",
@@ -179,14 +235,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "North Korean leader Kim Jong Un showcases new warship with daughter ahead of visit by China’s Xi",
-      "url": "https://nypost.com/2026/06/06/world-news/north-korean-leader-kim-showcases-new-warship-ahead-of-visit-by-chinas-xi/",
-      "source": "New York Post",
-      "publishedAt": "2026-06-06T06:48:24Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "House Advances $8 Billion Ukraine Aid Package Amid Congressional Pushback on Foreign Policy",
       "url": "https://www.naturalnews.com/2026-06-06-house-advances-ukraine-aid-package-pushback-foreign-policy.html",
       "source": "Naturalnews.com",
@@ -195,92 +243,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "North Korea to build 10,000-ton destroyer, state media says before Xi Jinping's visit",
-      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-to-build-10000-ton-destroyer-state-media-says-before-xi-jinpings-visit/articleshow/131544506.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-06T04:38:02Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Xi Jinping heads to North Korea for first time since 2019, and crypto markets are watching the geopolitical chessboard",
-      "url": "https://cryptobriefing.com/xi-jinping-north-korea-visit-crypto-impact/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-06T04:30:04Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korean leader Kim stresses stronger naval nuclear deterrent",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-naval-nuclear-deterrence-6165971",
-      "source": "CNA",
-      "publishedAt": "2026-06-06T02:43:53Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Xi to visit North Korea, showing China’s importance to a nuclear-armed neighbor - The Washington Post",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183615632",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-06-06T01:52:50Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korean leader Kim showcases new warship ahead of visit by China's Xi",
-      "url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-showcases-new-warship-ahead-133638097",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-06T01:46:41Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Xi Jinping heads to North Korea for first visit since 2019, signaling shifting Asian power dynamics",
-      "url": "https://cryptobriefing.com/xi-jinping-north-korea-visit-2026/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-06T00:37:16Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "ANDREW NEIL: There are many reasons to despise this Government. But when the history books are written, the failure to rearm in the face of clear and present dangers will be the most telling",
       "url": "https://www.dailymail.com/debate/article-15877919/ANDREW-NEIL-Government-history-books-failure-rearm-dangers.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-06-06T00:05:17Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Panic, fear and anger on the streets of Russia as, blast by blast, Ukraine's mastery of long-distance drone warfare turns the tide: Special report by WILL STEWART",
-      "url": "https://www.dailymail.com/news/article-15878123/Panic-fear-anger-streets-Russia-blast-blast-Ukraines-mastery-long-distance-drone-warfare-turns-tide-Special-report-STEWART.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-05T22:06:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How Ukraine Has Turned the Tide",
-      "url": "http://foreignpolicy.com/2026/06/05/ukraine-russia-war-putin-zelensky-winning-drones-front-battlefield-peace/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-06-05T19:00:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Four Ukrainian Sea Attack Drones Explode in and Near Port of NATO Ally Romania",
-      "url": "https://www.breitbart.com/europe/2026/06/05/four-ukrainian-sea-attack-drones-explode-in-and-near-port-of-nato-ally-romania/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-06-05T17:26:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran demands 'zero-tolerance' on nuclear strikes, cites 17 US-Israeli attacks against its facilities",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260605-presstv06.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-05T12:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

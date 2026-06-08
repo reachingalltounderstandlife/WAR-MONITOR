@@ -1,100 +1,132 @@
 {
-  "updated": "2026-06-08T15:49:26Z",
-  "count": 31,
+  "updated": "2026-06-08T20:12:39Z",
+  "count": 34,
   "articles": [
     {
-      "title": "Israeli Army Strikes Residential Buildings in Beirut Suburb",
-      "url": "https://sputnikglobe.com/20260607/israeli-army-strikes-residential-buildings-in-beirut-suburb-1124280338.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-06-07T15:48:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran appear far from peace deal 100 days since war began",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-iran-appear-far-from-peace-deal-100-days-since-war-began/articleshow/131569411.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-07T15:38:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel hits Beirut's southern suburbs for first time since ceasefire with Hezbollah",
-      "url": "https://www.cbc.ca/news/world/israel-strike-beirut-suburb-ceasefire-9.7226621",
-      "source": "CBC News",
-      "publishedAt": "2026-06-07T15:36:54Z",
+      "title": "Iran fires missiles at Israel in retaliation for IDF Beirut strikes - as it warns of 'more crushing and regretful blows'",
+      "url": "https://www.dailymail.com/news/article-15881323/Iran-fires-missiles-Israel-warning-Beirut-strikes.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-07T20:09:07Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Donald Trump urges more 'surgical' strikes against Hezbollah: NBC",
-      "url": "https://economictimes.indiatimes.com/news/defence/donald-trump-urges-more-surgical-strikes-against-hezbollah-nbc/articleshow/131569362.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-07T15:28:53Z",
+      "title": "Israel hits Beirut's suburbs in retaliatory attack against Hezbollah",
+      "url": "https://www.npr.org/2026/06/07/nx-s1-5849220/israel-lebanon-beirut-airstrike-ceasefire",
+      "source": "NPR",
+      "publishedAt": "2026-06-07T20:06:33Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "U.S. floats steering frozen Iran assets to Gulf allies for repairs",
-      "url": "https://fortune.com/2026/06/07/us-frozen-iran-assets-gulf-allies-reconstruction-treasury-secretary-bessent/",
-      "source": "Fortune",
-      "publishedAt": "2026-06-07T15:21:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. and Iran appear far from peace deal 100 days since war began",
-      "url": "https://fortune.com/2026/06/07/us-iran-peace-deal-talks-100-days-war-frozen-assets-missiles-drones/",
-      "source": "Fortune",
-      "publishedAt": "2026-06-07T15:15:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel targets Hezbollah with strike on Beirut despite ceasefire",
-      "url": "https://www.politico.eu/article/israel-targets-hezbollah-beirut-strike-despite-ceasefire/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-06-07T15:04:07Z",
+      "title": "Fragile ceasefire in jeopardy as Iran reportedly fires first missiles at Israel",
+      "url": "https://www.cnbc.com/2026/06/07/iran-fires-missiles-israel-ceasefire-strains.html",
+      "source": "CNBC",
+      "publishedAt": "2026-06-07T20:05:12Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Surging Inflation and Soaring Unemployment Batter Iranian Economy",
-      "url": "https://www.globalresearch.ca/surging-inflation-soaring-unemployment-batter-iranian-economy/5928912",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-06-07T14:31:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Missiles and negotiations: Iran 100 days into the war with US and Israel",
-      "url": "https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-07T14:14:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How War Exposed US Vulnerability...",
-      "url": "https://www.newsweek.com/how-100-days-iran-war-exposed-us-12038789",
-      "source": "Newsweek",
-      "publishedAt": "2026-06-07T14:00:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pakistan's interior minister is in Tehran as the US downs more Iranian drones over Hormuz",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistans-interior-minister-is-in-tehran-as-the-us-downs-more-iranian-drones-over-hormuz/articleshow/131567635.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-07T13:34:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US says shot down Iran drones as war reaches 100th day",
-      "url": "https://punchng.com/us-says-shot-down-iran-drones-as-war-reaches-100th-day/",
+      "title": "Iran launches missiles at Israel for first time since Mideast truce",
+      "url": "https://punchng.com/iran-launches-missiles-at-israel-for-first-time-since-mideast-truce/",
       "source": "The Punch",
-      "publishedAt": "2026-06-07T12:10:07Z",
+      "publishedAt": "2026-06-07T20:01:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran fires missiles at Israel",
+      "url": "https://www.rt.com/news/641154-iran-israel-missile-attack/",
+      "source": "RT",
+      "publishedAt": "2026-06-07T20:01:19Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel says Iran launched a missile at it, in a first during fragile ceasefire",
+      "url": "https://www.npr.org/2026/06/07/g-s1-126816/israel-iran-missile-ceasefire",
+      "source": "NPR",
+      "publishedAt": "2026-06-07T19:56:27Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel says Iran launched missiles at it in first attack since cease-fire began in April",
+      "url": "https://nypost.com/2026/06/07/world-news/israel-says-iran-launched-missiles-at-it-in-first-attack-since-cease-fire-began-in-april/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-07T19:52:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran has launched a salvo of ballistic missiles toward Israel",
+      "url": "https://freerepublic.com/focus/f-news/4382760/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-07T19:39:29Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Denies Promising ‘Anything’ About Not Starting Wars To Interviewer. He Was Singing A Different Tune In 2024",
+      "url": "https://dailycaller.com/2026/06/07/donald-trump-denies-promise-anything-not-starting-wars-iran-nbc-news-meet-press-kristen-welker-2024-victory-speech/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-06-07T19:03:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump rips Obama's 'stupid' Iran deal, claims former president thought 'he could bribe them'",
+      "url": "https://www.foxnews.com/media/trump-rips-obamas-stupid-iran-deal-claims-former-president-thought-he-could-bribe-them",
+      "source": "Fox News",
+      "publishedAt": "2026-06-07T18:46:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" June 7, 2026",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-06-07-2026/",
+      "source": "CBS News",
+      "publishedAt": "2026-06-07T18:19:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran vows ‘painful’ response after Israel strikes Beirut’s southern suburbs",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/06/07/iran-vows-painful-response-after-israel-strikes-beiruts-southern-suburbs/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-07T18:17:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF Strikes Hezbollah’s Beirut Stronghold as Terror Group Rejects Ceasefire, Attacks Northern Israel",
+      "url": "https://legalinsurrection.com/2026/06/idf-strikes-hezbollahs-beirut-stronghold-as-terror-group-rejects-ceasefire-attacks-northern-israel/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-06-07T18:00:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump calls Iran war a ‘military exercise’ even as Hormuz fighting heats up and denies promising no new wars — despite repeated pledges",
+      "url": "https://fortune.com/2026/06/07/trump-iran-war-military-exercise-fighting-strait-of-hormuz-no-new-wars-promise/",
+      "source": "Fortune",
+      "publishedAt": "2026-06-07T17:59:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ceasefire Day 61: Against Trump’s Stated Wishes, Israel Bombs Beirut",
+      "url": "https://www.theamericanconservative.com/ceasefire-day-61-against-trumps-stated-wishes-israel-bombs-beirut/",
+      "source": "The American Conservative",
+      "publishedAt": "2026-06-07T17:55:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran threatens retaliation against US, Israel after strikes on Beirut",
+      "url": "https://punchng.com/iran-threatens-retaliation-against-us-israel-after-strikes-on-beirut/",
+      "source": "The Punch",
+      "publishedAt": "2026-06-07T17:54:29Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -241,14 +273,6 @@
       "publishedAt": "2026-06-06T12:00:01Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "MP of little UK town at top of Russia's hit list responds to Russian state TV call for missile strike",
-      "url": "https://www.ladbible.com/news/uk-news/uk-town-russia-hit-list-missile-strike-736085-20260606",
-      "source": "LADbible",
-      "publishedAt": "2026-06-06T10:06:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

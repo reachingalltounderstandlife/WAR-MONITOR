@@ -1,38 +1,150 @@
 {
-  "updated": "2026-06-09T14:47:49Z",
-  "count": 38,
+  "updated": "2026-06-09T20:05:32Z",
+  "count": 34,
   "articles": [
     {
-      "title": "Mixed Messages: Iran Claims to Be Done Bombing Israel but Threatens American Oil Facilities",
-      "url": "https://www.breitbart.com/middle-east/2026/06/08/mixed-messages-iran-claims-to-be-done-bombing-israel-but-threatens-american-oil-facilities/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-06-08T14:42:09Z",
+      "title": "Finland’s foreign minister says Ukraine ‘is now holding the cards’ as Russia signals talks",
+      "url": "https://www.foxnews.com/world/finlands-foreign-minister-says-ukraine-is-now-holding-cards-russia-signals-talks",
+      "source": "Fox News",
+      "publishedAt": "2026-06-08T20:01:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Americanswers… on 5 Live! Why did Trump walk out of his TV interview with Meet The Press?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nqvfkb?at_campaign=rss",
+      "source": "BBC News",
+      "publishedAt": "2026-06-08T19:48:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Statement on Israel’s Targeting of Health Care Workers in Lebanon & Palestine",
-      "url": "https://www.lemkininstitute.com/statements-new-page/statement-on-israel%E2%80%99s-targeting-of-health-care-workers-in-lebanon-%26-palestine",
-      "source": "Lemkininstitute.com",
-      "publishedAt": "2026-06-08T14:42:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran declares: We completed operations against Israel",
-      "url": "https://freerepublic.com/focus/f-news/4382866/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-06-08T14:19:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "News24 | Iran halts Israel operation after first post-truce clash",
-      "url": "https://www.news24.com/world/iran-halts-israel-operation-after-first-post-truce-clash-20260608-0827",
-      "source": "News24",
-      "publishedAt": "2026-06-08T14:15:22Z",
+      "title": "The growing US-Israel split over Iran",
+      "url": "https://www.vox.com/politics/491264/trump-netanyahu-iran-war",
+      "source": "Vox",
+      "publishedAt": "2026-06-08T19:47:40Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Iran fires missiles at Israel for first time since ceasefire, rattling crypto markets",
+      "url": "https://cryptobriefing.com/iran-fires-missiles-israel-ceasefire-crypto/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-08T19:29:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel and Iran end latest outbreak of fighting",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/06/08/israel-and-iran-end-latest-outbreak-of-fighting/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-08T19:22:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu faces angry voters at home and an irate Trump abroad",
+      "url": "https://www.nbcnews.com/world/israel/netanyahu-faces-angry-voters-home-irate-trump-abroad-rcna348934",
+      "source": "NBC News",
+      "publishedAt": "2026-06-08T19:00:41Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Shipping was a murky world, now it's gone 'dark' to cross the Strait of Hormuz",
+      "url": "https://www.abc.net.au/news/2026-06-09/ships-crossing-strait-of-hormuz-iran-us-war/106749220",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-08T18:56:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO jets shoot down drone over Latvia, extending Ukraine spillover fears",
+      "url": "https://www.aljazeera.com/news/2026/6/8/nato-jets-shoot-down-drone-over-latvia-extending-ukraine-spillover-fears",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-08T18:54:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon says Israel has bombed it nearly 3,500 times during ceasefire",
+      "url": "https://economictimes.indiatimes.com/news/defence/lebanon-says-israel-has-bombed-it-nearly-3500-times-during-ceasefire/articleshow/131595906.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-08T18:48:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel and Iran Appear to Pause Strikes After Trading Fire for the First Time Since April Ceasefire",
+      "url": "https://military.com/israel-and-iran-appear-to-pause-strikes-after-trading-fire-for-the-first-time-since-april-ceasefire",
+      "source": "Military.com",
+      "publishedAt": "2026-06-08T18:39:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran, Israel halt attacks after Trump pushes for ceasefire",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-israel-halt-attacks-after-trump-pushes-for-ceasefire/articleshow/131595276.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-08T18:29:32Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Airline profits plummet as US fuel costs nearly double",
+      "url": "https://www.aljazeera.com/economy/2026/6/8/airline-profits-plummet-as-us-fuel-costs-nearly-double",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-08T18:29:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Former IRGC commander to Mondoweiss: Lebanon is Iran’s ‘non-negotiable red line’ in any deal with the U.S.",
+      "url": "https://mondoweiss.net/2026/06/former-irgc-commander-to-mondoweiss-lebanon-is-irans-non-negotiable-red-line-in-any-deal-with-the-u-s/",
+      "source": "Mondoweiss",
+      "publishedAt": "2026-06-08T17:56:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Beijing’s Military Shadow Looms Large Over Key Taiwan Tech Conference",
+      "url": "https://dailycaller.com/2026/06/08/beijings-military-shadow-looms-large-over-computex-taipei-conference/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-06-08T17:52:07Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Trump Is Trying to Shoot His Way Out of US Decline—It Won't Work",
+      "url": "https://www.commondreams.org/opinion/trump-shoot-us-decline",
+      "source": "Common Dreams",
+      "publishedAt": "2026-06-08T17:19:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘Burn for us’: The real message of US-EU ‘nuclear sharing’",
+      "url": "https://www.rt.com/news/641261-us-eu-nuclear-sharing/",
+      "source": "RT",
+      "publishedAt": "2026-06-08T16:35:37Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Xi and Kim express hopes for deeper ties between China and North Korea",
+      "url": "https://nypost.com/2026/06/08/world-news/xi-and-kim-express-hopes-for-deeper-ties-between-china-and-north-korea/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-08T16:07:33Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Xi and Kim pledge deeper cooperation between China and North Korea",
+      "url": "https://www.abc.net.au/news/2026-06-09/xi-jinping-visits-north-korea/106774288",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-08T15:37:13Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Amidst Iran, Ukraine conflicts, China President Xi Jinping, North Korea leader Kim Jong Un sends message to Donald Trump, Vladimir Putin",
@@ -41,14 +153,6 @@
       "publishedAt": "2026-06-08T14:03:26Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Israeli airstrikes hit Tyre and southern Lebanon amid conflict escalation",
-      "url": "https://cryptobriefing.com/israeli-airstrikes-hit-tyre-and-southern-lebanon-amid-conflict-escalation/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-08T13:54:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Kim Jong Un hosts Xi Jinping from a position of rare strength",
@@ -67,44 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump and Bibi Are Fighting",
-      "url": "https://reason.com/2026/06/08/trump-and-bibi-are-fighting/",
-      "source": "Reason",
-      "publishedAt": "2026-06-08T13:26:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Has the Iran war entered a dangerous new phase?",
-      "url": "https://theweek.com/defence/has-the-iran-war-entered-a-dangerous-new-phase",
-      "source": "The Week Magazine",
-      "publishedAt": "2026-06-08T13:10:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel Says It Killed The New Hamas Chief In Recent Strikes",
-      "url": "https://www.activistpost.com/israel-says-it-killed-the-new-hamas-chief-in-recent-strikes/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-06-08T13:04:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "A Different UK Within a Different EU in a More Dangerous World",
       "url": "https://www.fairobserver.com/region/europe/a-different-uk-within-a-different-eu-in-a-more-dangerous-world/",
       "source": "Fair Observer",
       "publishedAt": "2026-06-08T13:00:57Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran Declares End To Strikes On Israel In Credibility Operation",
-      "url": "https://www.rferl.org/a/iran-israel-attacks-pause-trump-deal/33775868.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-06-08T12:53:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Xi and Kim express hopes for greater ties between China and North Korea",
@@ -115,22 +187,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Senior official: Israel halting Iran strikes at Trump's request",
-      "url": "https://www.israelnationalnews.com/news/428312",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-08T12:42:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF spokesman: We will not allow new equations",
-      "url": "https://www.israelnationalnews.com/news/428311",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-08T12:27:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "U.S. Mainstream Media Disinfo: CNN Points to Russia’s “Strategic Defeat”and Ukraine as a “Military Innovator”: The Ukrainian Conflict’s Outcome is Still Far From Decided",
       "url": "https://www.globalresearch.ca/ukrainian-conflicts-outcome-far-decided/5929093",
       "source": "Globalresearch.ca",
@@ -139,44 +195,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "The Latest: Trump dismisses idea that Iran betrays his ‘no new wars’ campaign message",
-      "url": "https://www.yahoo.com/news/politics/articles/latest-trump-dismisses-idea-iran-121908407.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-08T12:19:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran, Israel exchange fire in first clash since truce",
-      "url": "https://www.hurriyetdailynews.com/iran-israel-exchange-fire-in-first-clash-since-truce-223036",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-08T12:19:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Xi and Kim Express Hopes for Greater Ties Between China and North Korea",
       "url": "https://military.com/xi-and-kim-express-hopes-for-greater-ties-between-china-and-north-korea",
       "source": "Military.com",
       "publishedAt": "2026-06-08T12:12:30Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Iran’s attacks on Israel were an attempt to shape the region on its own terms",
-      "url": "https://theconversation.com/irans-attacks-on-israel-were-an-attempt-to-shape-the-region-on-its-own-terms-284742",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-06-08T12:11:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s attacks on Israel were an attempt to shape the region on its own terms – and it might just do so",
-      "url": "https://theconversation.com/irans-attacks-on-israel-were-an-attempt-to-shape-the-region-on-its-own-terms-and-it-might-just-do-so-284742",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-06-08T12:11:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "French jets down mystery drone over Latvia (VIDEO)",
@@ -203,14 +227,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "JUST IN: Trump Responds After Israel and Iran Continue Fighting Overnight – UPDATE: Iran Announces It Will Halt Attacks (VIDEO)",
-      "url": "https://www.thegatewaypundit.com/2026/06/just-trump-responds-after-israel-iran-continue-fighting/",
-      "source": "Thegatewaypundit.com",
-      "publishedAt": "2026-06-08T12:00:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Joint media statement - Australia-Germany 2+2 Ministerial Consultations",
       "url": "https://www.globalsecurity.org/wmd/library/news/australia/2026/australia-260608-aumfa01.htm",
       "source": "Globalsecurity.org",
@@ -233,54 +249,6 @@
       "publishedAt": "2026-06-08T12:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Playing Both Sides",
-      "url": "https://www.motherjones.com/politics/2026/06/jared-kushner-affinity-partners-saudi-fund-investments-deal-qatar-uae-israel-white-house-position-conflict-interest-timeline/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-06-08T11:30:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Xi vows to bring relations with North Korea to 'new heights' as Kim Jong Un lays on lavish ceremony for Chinese president's arrival",
-      "url": "https://www.dailymail.com/news/article-15882499/Xi-vows-bring-relations-North-Korea-new-heights-Kim-Jong-lays-lavish-ceremony-Chinese-presidents-arrival.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-08T10:39:58Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Que peut offrir la Corée du Nord pour que la Chine l'accepte comme puissance nucléaire ? (Anglais)",
-      "url": "https://english.hani.co.kr/arti/english_edition/e_northkorea/1262481.html",
-      "source": "Hani.co.kr",
-      "publishedAt": "2026-06-08T10:36:21Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "How Eastern Europe’s elites learned to love dependence on America",
-      "url": "https://www.rt.com/news/641210-eastern-europes-america-bases/",
-      "source": "RT",
-      "publishedAt": "2026-06-08T10:26:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Drone shot down over Latvia amid concerns over expanding Ukraine war",
-      "url": "https://www.cbsnews.com/news/russia-ukraine-war-latvia-drone-shot-down-nato/",
-      "source": "CBS News",
-      "publishedAt": "2026-06-08T10:04:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine has recaptured more than 600 square kilometres during 2026, Kyiv claims in growing sign tide of war has turned against Putin",
-      "url": "https://www.dailymail.com/news/article-15882281/Ukraine-recaptured-600-square-kilometres-2026-Kyiv-claims-growing-sign-tide-war-turned-against-Putin.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-08T09:44:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Trump and Netanyahu: The Odd Couple",

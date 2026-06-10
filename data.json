@@ -1,14 +1,190 @@
 {
-  "updated": "2026-06-10T15:31:33Z",
-  "count": 36,
+  "updated": "2026-06-10T20:28:07Z",
+  "count": 38,
   "articles": [
     {
-      "title": "Lebanon Is No Longer About Lebanon",
-      "url": "http://foreignpolicy.com/2026/06/09/lebanon-hezbollah-israel-war-trump-middle-east/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-06-09T14:57:57Z",
+      "title": "Foreign Secretary statement on the Middle East: 9 June 2026",
+      "url": "https://www.gov.uk/government/speeches/foreign-secretary-statement-on-the-middle-east-9-june-2026",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-06-09T20:13:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Strategic mastery: Israel's measured response to Iranian aggression",
+      "url": "https://www.israelnationalnews.com/news/428385",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-09T20:11:38Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "Israel Launches New Strikes Against Lebanon While Trump Claims Iran Deal Is Close",
+      "url": "https://www.shtfplan.com/war/israel-launches-new-strikes-against-lebanon-while-trump-claims-iran-deal-is-close",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-06-09T20:00:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel conducts air strikes in Tyre, killing at least 13 despite Iranian warning",
+      "url": "https://cryptobriefing.com/israel-air-strikes-tyre-lebanon-iran-warning/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-09T19:55:08Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Xi hosted Trump and Putin in China, but he boarded a plane for Kim",
+      "url": "https://www.abc.net.au/news/2026-06-10/xi-jinping-s-trip-to-north-korea-kim-jong-un-unusual/106773414",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-09T19:53:02Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Oil Futures Volatility Returns",
+      "url": "https://www.rigzone.com/news/wire/oil_futures_volatility_returns-09-jun-2026-183888-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-06-09T19:47:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine Is Ready to Share Drone Technology with Nordic and Baltic Countries, Zelenskyy Says",
+      "url": "https://military.com/ukraine-is-ready-to-share-drone-technology-with-nordic-and-baltic-countries-zelenskyy-says",
+      "source": "Military.com",
+      "publishedAt": "2026-06-09T19:06:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel Strikes Hezbollah Targets in Lebanese City of Tyre",
+      "url": "https://legalinsurrection.com/2026/06/israel-strikes-hezbollah-targets-in-lebanese-city-of-tyre/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-06-09T19:00:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Fears of Escalation After Trump Says US Must ‘Respond’ to Iran Downing Apache Helicopter",
+      "url": "https://www.commondreams.org/news/trump-respond-iran-helicopter",
+      "source": "Common Dreams",
+      "publishedAt": "2026-06-09T18:55:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump vows response after Iran shoots down US helicopter",
+      "url": "https://punchng.com/trump-vows-response-after-iran-shoots-down-us-helicopter/",
+      "source": "The Punch",
+      "publishedAt": "2026-06-09T18:51:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "TRUMP: Iran responsible for downing American helicopter. USA MUST respond...",
+      "url": "https://abc7.com/post/iran-war-update-trump-says-pilots-are-fine-us-helicopter-crashes-strait-hormuz/19261063/",
+      "source": "KABC-TV",
+      "publishedAt": "2026-06-09T18:00:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Coffee Break: Armed Madhouse – Israel’s Buffer Defense Quandary",
+      "url": "https://www.nakedcapitalism.com/2026/06/coffee-break-armed-madhouse-israels-buffer-defense-quandary.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-06-09T18:00:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "‘Anything but normal’: Uncertainty as Iranians try to get by amid US war",
+      "url": "https://www.aljazeera.com/news/2026/6/9/anything-but-normal-uncertainty-as-iranians-try-to-get-by-amid-us-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-09T17:59:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes Tyre, Lebanon, killing at least eight after first-ever full evacuation order",
+      "url": "https://cryptobriefing.com/israel-strikes-tyre-lebanon-crypto-impact/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-09T17:58:14Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Will Israel's troops take over more of southern Lebanon?",
+      "url": "https://www.dw.com/en/will-israels-troops-take-over-more-of-southern-lebanon/a-77478170",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-09T17:48:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Xi's Visit Signifies China Recognizing North Korea's Nuclear Status – Expert",
+      "url": "https://sputnikglobe.com/20260609/xis-visit-signifies-china-recognizing-north-koreas-nuclear-status-expert-1124290177.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-06-09T17:46:21Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump Orders US Response After Iran Downs Apache Helicopter",
+      "url": "https://dailycaller.com/2026/06/09/trump-orders-us-attack-after-iran-downs-apache-helicopter/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-06-09T17:45:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO country to stop supplying arms to Ukraine",
+      "url": "https://www.rt.com/news/641312-bulgaria-ends-weapons-shipments-ukraine/",
+      "source": "RT",
+      "publishedAt": "2026-06-09T17:24:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says Iran shot down US military helicopter over Strait of Hormuz and vows to respond",
+      "url": "https://www.thejournal.ie/iran-shot-down-apache-helicopter-7065434-Jun2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-06-09T17:15:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "EU proposes entry ban for Russians who fought in Ukraine",
+      "url": "https://www.dw.com/en/eu-plans-russia-entry-ban-war-in-ukraine/a-77474536",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-09T17:14:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "EU proposes entry ban for Russian Ukraine combatants in new sanctions package",
+      "url": "https://www.dw.com/en/eu-proposes-entry-ban-for-russian-ukraine-combatants-in-new-sanctions-package/a-77474536",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-09T17:14:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel kills eight in strike on Lebanon; US rescues helicopter crew from Hormuz",
+      "url": "https://www.channelnewsasia.com/world/israel-kills-eight-in-strike-lebanon-us-rescues-helicopter-crew-hormuz-6171926",
+      "source": "CNA",
+      "publishedAt": "2026-06-09T17:05:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "EU Shift Into Military Bloc Will Erode Its Prosperity for Generations",
+      "url": "https://sputnikglobe.com/20260609/eu-shift-into-military-bloc-will-erode-its-prosperity-for-generations-1124289753.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-06-09T16:55:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "China, North Korea boast better ties after Xi-Kim talks",
@@ -35,54 +211,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Did Netanyahu really ‘defy’ Trump in bombing Iran?",
-      "url": "https://www.aljazeera.com/news/2026/6/9/did-netanyahu-really-defy-trump-in-bombing-iran",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-09T14:48:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian Aggression Masks Economic Difficulties",
-      "url": "https://www.forbes.com/sites/arielcohen/2026/06/09/iranian-aggression-masks-economic-difficulties/",
-      "source": "Forbes",
-      "publishedAt": "2026-06-09T14:30:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF Chief of Staff: 'The strike on Iran was preparation for a more powerful blow'",
-      "url": "https://www.israelnationalnews.com/news/428369",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-09T14:29:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Eight killed in south Lebanon strike as Israel warns entire city to evacuate",
-      "url": "https://www.abc.net.au/news/2026-06-10/israeli-strike-on-tyre-kills-at-least-eight/106778510",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-09T14:12:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why Iran Attacked Israel and Then Backed Off",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/Why-Iran-Attacked-Israel-and-Then-Backed-Off.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-06-09T14:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says in ‘final throes’ of peace deal but at least 8 killed in Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-09T13:41:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Russia deflects drones into Finland for 'gratifying effect', expert warns",
       "url": "https://yle.fi/a/74-20230583",
       "source": "YLE News",
@@ -91,73 +219,17 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israel Tests Iran",
-      "url": "https://reason.com/2026/06/09/israel-tests-iran/",
-      "source": "Reason",
-      "publishedAt": "2026-06-09T13:28:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Red Sea is closed for business: ‘Think carefully about the wisdom ‌of making ⁠a transit’",
-      "url": "https://www.wnd.com/2026/06/red-sea-is-closed-business-think-carefully-about/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-06-09T13:10:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Outrage as Netanyahu is caught SPYING on Trump's Iran negotiators...as JD Vance reveals a chilling truth about Israel",
-      "url": "https://www.dailymail.com/news/article-15885651/Outrage-Netanyahu-caught-SPYING-Trumps-Iran-negotiators-JD-Vances-reveals-chilling-truth-Israel.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-09T13:00:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran ends military operations against Israel, warns of harsher retaliation if Lebanon is attacked",
-      "url": "https://cryptobriefing.com/iran-ends-military-operations-israel-crypto-impact/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-09T12:48:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Is Donald Trump the new Jimmy Carter?",
-      "url": "https://www.irishtimes.com/world/us/2026/06/09/is-donald-trump-the-new-jimmy-carter/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-06-09T12:34:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US chopper crashes near Strait of Hormuz",
-      "url": "https://www.rt.com/news/641285-hormuz-helicopter-us-trump/",
-      "source": "RT",
-      "publishedAt": "2026-06-09T12:17:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "June 8: Iran suspends 'Operation Nasr' after 'painful response' to Zionist regime over Lebanon aggression",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260609-presstv06.htm",
+      "title": "Minister of Defence Antti Häkkänen's speech at the meeting of the Council of Europe's Committee on Social Inclusion and Human Dignity",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260609-finmod01.htm",
       "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-09T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Day 1,567 of WW3. Muscovites start to panic as UAF drones roam freely in russian skies. Best Korea's economy booms from supporting russia, and Lapdog declares Orcistan will resolve the war on the battlefield. This is your Tuesday Ukraine War thread [News]",
-      "url": "https://www.fark.com/comments/14093352/Day-1567-of-WW3-Muscovites-start-to-panic-as-UAF-drones-roam-freely-in-russian-skies-Best-Koreas-economy-booms-from-supporting-russia-Lapdog-declares-Orcistan-will-resolve-war-on-battlefield-This-is-your-Tuesday-Ukraine-War-thread",
-      "source": "Fark.com",
       "publishedAt": "2026-06-09T12:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Minister of Defence Antti Häkkänen's speech at the meeting of the Council of Europe's Committee on Social Inclusion and Human Dignity",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260609-finmod01.htm",
-      "source": "Globalsecurity.org",
+      "title": "Day 1,567 of WW3. Muscovites start to panic as UAF drones roam freely in russian skies. Best Korea's economy booms from supporting russia, and Lapdog declares Orcistan will resolve the war on the battlefield. This is your Tuesday Ukraine War thread [News]",
+      "url": "https://www.fark.com/comments/14093352/Day-1567-of-WW3-Muscovites-start-to-panic-as-UAF-drones-roam-freely-in-russian-skies-Best-Koreas-economy-booms-from-supporting-russia-Lapdog-declares-Orcistan-will-resolve-war-on-battlefield-This-is-your-Tuesday-Ukraine-War-thread",
+      "source": "Fark.com",
       "publishedAt": "2026-06-09T12:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
@@ -193,62 +265,6 @@
       "publishedAt": "2026-06-09T11:10:32Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Russian attacks kill 5 in Ukraine as Zelenskyy hails talks with US envoys",
-      "url": "https://www.aljazeera.com/news/2026/6/9/russian-attacks-kill-5-in-ukraine-as-zelenskyy-hails-talks-with-us-envoys",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-09T10:18:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Wider Europe Briefing: Brussels Slams Serbia's Rule Of Law Shortfall",
-      "url": "https://www.rferl.org/a/serbia-rule-of-law-eu-enlargement-french-german-plan/33776111.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-06-09T10:14:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Fears 'cornered' Putin could strike Britain as Starmer dithers over defence funding plan - with announcement this week 'not locked in'",
-      "url": "https://www.dailymail.com/news/article-15884989/Cornered-Putin-strike-Britain-Starmer-dithers-defence-cash.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-09T08:19:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "China’s Xi, North Korea’s Kim pledge to boost ties at rare Pyongyang summit",
-      "url": "https://www.aljazeera.com/economy/2026/6/9/xi-kim-pledge-to-boost-ties-at-rare-pyongyang-summit",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-09T07:29:06Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "‘As close as lips and teeth’: The highs and lows of China-North Korea ties",
-      "url": "https://www.aljazeera.com/news/2026/6/9/as-close-as-lips-and-teeth-the-highs-and-lows-of-china-north-korea-ties",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-09T06:18:33Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The bad blood between Poland and Ukraine left over from World War II",
-      "url": "https://www.abc.net.au/news/2026-06-09/why-are-poland-and-ukraine-at-odds-about-their-history-/106775122",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-09T00:37:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Long Road: From India Through The Middle East To The Baltics",
-      "url": "https://www.hoover.org/research/long-road-india-through-middle-east-baltics",
-      "source": "Hoover.org",
-      "publishedAt": "2026-06-09T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "The Israel-India Partnership",

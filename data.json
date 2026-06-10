@@ -1,7 +1,151 @@
 {
-  "updated": "2026-06-10T03:36:21Z",
-  "count": 40,
+  "updated": "2026-06-10T09:57:17Z",
+  "count": 38,
   "articles": [
+    {
+      "title": "Iran-Backed Houthi Terrorists Threaten to ‘Ban’ Israel from Red Sea",
+      "url": "https://freerepublic.com/focus/f-news/4382960/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-09T09:19:50Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US revokes Iran's World Cup ticket allocations, two days before tournament starts",
+      "url": "https://www.dailymail.com/news/article-15884929/US-revokes-Irans-World-Cup-ticket-allocations-two-days-tournament-starts.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-09T09:05:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli airstrikes continue in southern Lebanon amid Hezbollah conflict",
+      "url": "https://cryptobriefing.com/israeli-airstrikes-continue-in-southern-lebanon-amid-hezbollah-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-09T08:55:13Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump says pilots fine after U.S. helicopter crashes near Strait of Hormuz",
+      "url": "https://www.cbc.ca/news/world/strait-of-hormuz-helicopter-apache-9.7228020",
+      "source": "CBC News",
+      "publishedAt": "2026-06-09T08:55:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump says peace talks on track after Israel-Iran clashes end",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/trump-says-peace-talks-on-track-after-israel-iran-clashes-end",
+      "source": "Bloomberg",
+      "publishedAt": "2026-06-09T08:53:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Defense Manufacturing Executive Diller Says Drone Era Reshaping Warfare",
+      "url": "https://www.rferl.org/a/us-defense-manufacturing-diller-drone-warfare/33776633.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-06-09T08:49:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Crew members rescued after US Army Apache helicopter crashes over Strait of Hormuz",
+      "url": "https://nypost.com/2026/06/09/world-news/us-army-apache-helicopter-crashes-over-strait-of-hormuz-as-trump-says-us-will-be-able-to-declare-total-victory-in-two-weeks/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-09T08:44:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump says pilots of US helicopter that crashed in Strait of Hormuz are ‘fine’",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/06/09/trump-says-pilots-of-us-helicopter-that-crashed-in-strait-of-hormuz-are-fine/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-09T08:25:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Fears 'cornered' Putin could strike Britain as Starmer dithers over defence funding plan - with announcement this week 'not locked in'",
+      "url": "https://www.dailymail.com/news/article-15884989/Cornered-Putin-strike-Britain-Starmer-dithers-defence-cash.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-09T08:19:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says peace deal with Iran could come in ‘two or three days’",
+      "url": "https://www.politico.eu/article/donald-trump-iran-israel-halted-attacks-after-intervention/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-06-09T08:15:30Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US Defense Manufacturing Executive Sees Hope For Iran-Israel Calm, Says Drone Era Reshaping Warfare",
+      "url": "https://www.rferl.org/a/interview-nathan-diller-drone-warfare-iran-israel/33776470.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-06-09T08:15:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What's next for Trump and Netanyahu in war with Iran",
+      "url": "https://www.cbc.ca/news/world/trump-netanyahu-us-israel-iran-war-9.7227119",
+      "source": "CBC News",
+      "publishedAt": "2026-06-09T08:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump says a 'very good deal' with Iran is 'two or three days' away",
+      "url": "https://www.dailymail.com/news/article-15884965/Trump-deal-Iran-days-away.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-09T07:59:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Report: Netanyahu Called Off Major Iran Strike After Trump Warned Israel Was ‘On Its Own’",
+      "url": "https://www.breitbart.com/politics/2026/06/09/report-netanyahu-called-off-major-iran-strike-after-trump-warned-israel-was-on-its-own/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-06-09T07:56:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil prices fall after Iran-Israel halt attacks",
+      "url": "https://www.rte.ie/news/business/2026/0609/1577487-world-oil-prices/",
+      "source": "RTE",
+      "publishedAt": "2026-06-09T07:43:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "China’s Xi, North Korea’s Kim pledge to boost ties at rare Pyongyang summit",
+      "url": "https://www.aljazeera.com/economy/2026/6/9/xi-kim-pledge-to-boost-ties-at-rare-pyongyang-summit",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-09T07:29:06Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "DIIs' net purchases cross Rs 4 lakh crore on Dalal Street in 2026 while FIIs run away",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/diis-net-purchases-cross-rs-4-lakh-crore-on-dalal-street-in-2026-while-fiis-run-away/articleshow/131604429.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-09T07:27:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘As close as lips and teeth’: The highs and lows of China-North Korea ties",
+      "url": "https://www.aljazeera.com/news/2026/6/9/as-close-as-lips-and-teeth-the-highs-and-lows-of-china-north-korea-ties",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-09T06:18:33Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "Xi Jinping visits North Korea for first meeting with Kim Jong Un in seven years",
       "url": "https://cryptobriefing.com/xi-jinping-north-korea-kim-jong-un-summit/",
@@ -9,102 +153,6 @@
       "publishedAt": "2026-06-09T03:16:56Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Iran and Israel suspend attacks but warn of renewed action if truce is violated",
-      "url": "https://english.khabarhub.com/2026/09/553018/",
-      "source": "Khabarhub.com",
-      "publishedAt": "2026-06-09T03:15:10Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why are oil prices up today, and will Brent and US WTI crude futures continue to rise or fall again? Oil edges higher as investors watch Iran-Israel developments",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-today-and-will-brent-and-us-wti-crude-futures-continue-to-rise-or-fall-again-oil-edges-higher-as-investors-watch-iran-israel-developments/articleshow/131599962.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-09T02:51:44Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel launches retaliatory air strikes on Iran, crypto markets shed over $1 billion in liquidations",
-      "url": "https://cryptobriefing.com/israel-iran-airstrikes-crypto-market-impact/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-09T02:51:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Indian equities set to open flat; IT stocks in focus",
-      "url": "https://www.thehindubusinessline.com/markets/indian-equities-set-to-open-flat-it-stocks-in-focus/article71079141.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-09T02:48:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Dollar hovers around two-month high as Iran-Israel truce hangs in balance",
-      "url": "https://www.thehindubusinessline.com/markets/forex/dollar-hovers-around-two-month-high-as-iran-israel-truce-hangs-in-balance/article71079123.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-09T02:43:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump warns Netanyahu: ‘You’ll be on your own’ if attacks on Iran continue",
-      "url": "https://www.aljazeera.com/news/2026/6/9/trump-warns-netanyahu-youll-be-on-your-own-if-attacks-on-iran-continue",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-09T02:41:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil rises slightly as investors await clarity after Iran-Israel halt attacks",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/oil-rises-slightly-as-investors-await-clarity-after-iran-israel-halt-attacks/article71079126.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-09T02:34:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil Price Today (June 9): Crude oil falls 1% as Israel and Iran pause strikes. Where is liquid gold headed?",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-9-crude-oil-falls-1-as-israel-and-iran-pause-strikes-where-is-liquid-gold-headed/articleshow/131599729.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-09T02:32:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Asian stocks track Wall Street tech bounce, oil eases on Mideast hope",
-      "url": "https://www.digitaljournal.com/article/asian-stocks-track-wall-street-tech-bounce-oil-eases-on-mideast-hope/",
-      "source": "Digital Journal",
-      "publishedAt": "2026-06-09T02:30:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump threatened Netanyahu with withdrawal of support – Axios",
-      "url": "https://www.rt.com/news/641281-trump-threatens-netanyahu-iran/",
-      "source": "RT",
-      "publishedAt": "2026-06-09T02:15:27Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Dollar hovers around two-month high as Iran-Israel truce hangs in balance",
-      "url": "https://economictimes.indiatimes.com/markets/forex/dollar-hovers-around-two-month-high-as-iran-israel-truce-hangs-in-balance/articleshow/131599640.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-09T02:14:42Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "VP JD Vance addresses US-Israel relationship, whether Iran is trying to 'play' the United States",
-      "url": "https://www.foxnews.com/media/vp-jd-vance-addresses-us-israel-relationship-whether-iran-trying-play-united-states",
-      "source": "Fox News",
-      "publishedAt": "2026-06-09T02:06:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "China's Xi vows unwavering support for North Korea's Kim in rare Pyongyang visit",
@@ -115,14 +163,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Netanyahu, Trump at odds over the war they started together",
-      "url": "https://economictimes.indiatimes.com/news/defence/netanyahu-trump-at-odds-over-the-war-they-started-together/articleshow/131599462.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-09T01:43:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The bad blood between Poland and Ukraine left over from World War II",
       "url": "https://www.abc.net.au/news/2026-06-09/why-are-poland-and-ukraine-at-odds-about-their-history-/106775122",
       "source": "ABC News (AU)",
@@ -131,36 +171,20 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump struggles to pull Netanyahu back from return to all-out war: Sources",
-      "url": "https://abcnews.com/Politics/trump-struggles-pull-netanyahu-back-return-war-sources/story?id=133688817",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-09T00:18:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Israel-India Partnership",
-      "url": "https://www.hoover.org/research/israel-india-partnership",
-      "source": "Hoover.org",
-      "publishedAt": "2026-06-09T00:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Freedom Of Navigation In An Age Of Precision Disruption",
-      "url": "https://www.hoover.org/research/freedom-navigation-age-precision-disruption",
-      "source": "Hoover.org",
-      "publishedAt": "2026-06-09T00:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Long Road: From India Through The Middle East To The Baltics",
       "url": "https://www.hoover.org/research/long-road-india-through-middle-east-baltics",
       "source": "Hoover.org",
       "publishedAt": "2026-06-09T00:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "The Israel-India Partnership",
+      "url": "https://www.hoover.org/research/israel-india-partnership",
+      "source": "Hoover.org",
+      "publishedAt": "2026-06-09T00:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "North Korea and China leaders agree to boost ties at Pyongyang summit",
@@ -243,30 +267,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Xi and Kim pledge deeper cooperation between China and North Korea",
-      "url": "https://www.abc.net.au/news/2026-06-09/xi-jinping-visits-north-korea/106774288",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-08T15:37:13Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Amidst Iran, Ukraine conflicts, China President Xi Jinping, North Korea leader Kim Jong Un sends message to Donald Trump, Vladimir Putin",
-      "url": "https://economictimes.indiatimes.com/news/international/us/amidst-iran-ukraine-conflicts-china-president-xi-jinping-north-korea-leader-kim-jong-un-sends-message-to-donald-trump-vladimir-putin/articleshow/131590064.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-08T14:03:26Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim Jong Un hosts Xi Jinping from a position of rare strength",
-      "url": "https://www.nbcnews.com/world/asia/kim-jong-un-xi-jinping-north-korea-china-rcna348930",
-      "source": "NBC News",
-      "publishedAt": "2026-06-08T13:30:21Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Selected Articles: BREAKING: Canadian Member of Parliament Dean Allison Launches “Inquiry” for the COVID-19 Vaccine-Injured",
       "url": "https://www.globalresearch.ca/selected-articles-breaking-canadian-member-parliament-dean-allison-launches-inquiry-covid-19-vaccine-injured/5929124",
       "source": "Globalresearch.ca",
@@ -279,22 +279,6 @@
       "url": "https://www.fairobserver.com/region/europe/a-different-uk-within-a-different-eu-in-a-more-dangerous-world/",
       "source": "Fair Observer",
       "publishedAt": "2026-06-08T13:00:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Xi and Kim express hopes for greater ties between China and North Korea",
-      "url": "https://www.npr.org/2026/06/08/g-s1-126863/xi-and-kim-express-hopes-for-greater-ties-between-china-and-north-korea",
-      "source": "NPR",
-      "publishedAt": "2026-06-08T12:49:50Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "U.S. Mainstream Media Disinfo: CNN Points to Russia’s “Strategic Defeat”and Ukraine as a “Military Innovator”: The Ukrainian Conflict’s Outcome is Still Far From Decided",
-      "url": "https://www.globalresearch.ca/ukrainian-conflicts-outcome-far-decided/5929093",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-06-08T12:23:15Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

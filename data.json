@@ -1,14 +1,190 @@
 {
-  "updated": "2026-06-11T10:21:00Z",
-  "count": 33,
+  "updated": "2026-06-11T15:58:05Z",
+  "count": 35,
   "articles": [
     {
-      "title": "Iran attacks US bases in Jordan, Bahrain",
-      "url": "https://punchng.com/iran-attacks-us-bases-in-jordan-bahrain/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-10T10:09:29Z",
+      "title": "UFC champion says he has been banned from White House fight over criticisms of Trump",
+      "url": "https://sports.yahoo.com/articles/ufc-champion-says-banned-white-153743136.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-10T15:37:43Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "From Qatar to Saudi Arabia: How Pakistan Became the Gulf's Strategic Hedge",
+      "url": "https://sputnikglobe.com/20260610/from-qatar-to-saudi-arabia-how-pakistan-became-the-gulfs-strategic-hedge-1124294959.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-06-10T15:05:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Donald Trump Orders “Self Defense” Strikes On Iran",
+      "url": "https://www.shtfplan.com/member-exclusive/donald-trump-orders-self-defense-strikes-on-iran",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-06-10T15:00:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli airstrikes in southern Lebanon kill 17 amid ongoing conflict",
+      "url": "https://cryptobriefing.com/israeli-airstrikes-in-southern-lebanon-kill-17-amid-ongoing-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-10T14:49:45Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "News24 | Netanyahu caught between the US, Lebanon war, and Iran ceasefire",
+      "url": "https://www.news24.com/world/netanyahu-caught-between-the-us-lebanon-war-and-iran-ceasefire-20260610-0832",
+      "source": "News24",
+      "publishedAt": "2026-06-10T14:29:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US confirms strikes inside Iran amid heightened military tensions",
+      "url": "https://cryptobriefing.com/us-confirms-strikes-inside-iran-amid-heightened-military-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-10T14:22:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Threatens More Bombings After U.S. Strikes: 'Leave If You Want to Be Safe'",
+      "url": "https://www.breitbart.com/middle-east/2026/06/10/iran-threatens-more-bombings-after-u-s-strikes-leave-if-you-want-to-be-safe/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-06-10T14:15:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "China recenters North Korea ties as nuclear silence reshapes balance - NPR",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183733902",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-10T13:52:59Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Watch: IDF eliminates terrorists in southern Lebanon",
+      "url": "https://www.israelnationalnews.com/news/428429",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-10T13:43:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "United States Launches Renewed Attacks on Iran",
+      "url": "https://www.globalresearch.ca/united-states-launches-renewed-attacks-on-iran/5929495",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-10T13:40:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump: Iran Will ‘Have to Pay the Price’ After Tit-for-Tat Strikes",
+      "url": "https://www.dailysignal.com/2026/06/10/trump-iran-pay-the-price/",
+      "source": "Daily Signal",
+      "publishedAt": "2026-06-10T13:36:47Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US bombs Iran’s water facilities: Why that’s so significant",
+      "url": "https://www.aljazeera.com/news/2026/6/10/us-bombs-irans-water-facilities-why-thats-so-significant",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-10T13:27:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Xi Jinping, Sidelined by Putin, Urges Closer Military Ties with North Korea in Kim Summit",
+      "url": "https://www.breitbart.com/asia/2026/06/10/xi-jinping-sidelined-by-putin-urges-closer-military-ties-with-north-korea-in-kim-summit/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-06-10T13:14:37Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Only 1 in 10 Europeans see US as an ally — study",
+      "url": "https://www.dw.com/en/only-1-in-10-europeans-see-us-as-an-ally-study/a-77489708",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-10T13:13:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Netanyahu says he will stand for re-election despite Trump's doubts and corruption charges",
+      "url": "https://www.dailymail.com/news/article-15888789/Netanyahu-election-Trump-doubts-corruption-charges.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-10T12:59:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Morning Minute: Crypto Falls Amidst War Escalation and Mythos Release",
+      "url": "https://decrypt.co/370624/morning-minute-crypto-falls-amidst-war-escalation-and-mythos-release",
+      "source": "Decrypt",
+      "publishedAt": "2026-06-10T12:48:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Chief of Defence Staff Speech at London Tech Week",
+      "url": "https://www.gov.uk/government/speeches/chief-of-defence-staff-speech-at-london-tech-week",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-06-10T12:45:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US and Iran’s exchange of strikes shows how far diplomacy has changed",
+      "url": "https://theconversation.com/us-and-irans-exchange-of-strikes-shows-how-far-diplomacy-has-changed-284786",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-06-10T12:28:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What was left unsaid may be biggest takeaway from Xi-Kim summit - The Japan Times",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183732022",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-10T12:12:56Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Joint Statement from UK and Australia on the Australia-UK Ministerial Consultations: 10 June 2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/uk/2026/uk-260610-ukmod01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-10T12:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Europe's $116B fighter jet 'failure' raises fresh doubts about ability to defend itself without US",
+      "url": "https://www.foxnews.com/politics/europes-116b-fighter-jet-failure-raises-fresh-doubts-about-ability-defend-itself-without-us",
+      "source": "Fox News",
+      "publishedAt": "2026-06-10T11:00:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Bulgaria to end state weapons supply to Ukraine",
+      "url": "https://www.hurriyetdailynews.com/bulgaria-to-end-state-weapons-supply-to-ukraine-223114",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-10T10:32:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "China re‑centers North Korea ties as nuclear silence reshapes balance",
+      "url": "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties",
+      "source": "NPR",
+      "publishedAt": "2026-06-10T10:30:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Bulgaria to end state weapons supply to Ukraine",
@@ -19,68 +195,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israeli defense officials warn of Iran's attempt to limit IDF freedom of action",
-      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-06-10/ty-article/.premium/israeli-defense-officials-warn-of-attempt-to-link-iran-lebanon-fronts/0000019e-ae13-d7a4-a9bf-fedbb5180000",
-      "source": "Haaretz",
-      "publishedAt": "2026-06-10T09:45:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Benjamin Netanyahu to run for re-election, his party says, after Trump raises doubts",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/benjamin-netanyahu-to-run-for-re-election-his-party-says-after-trump-raises-doubts/articleshow/131630557.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-10T09:12:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran targets US bases in Jordan and the Gulf after Trump orders strikes near Hormuz",
-      "url": "https://nypost.com/2026/06/10/world-news/iran-targets-us-bases-in-jordan-and-the-gulf-after-trump-orders-strikes-near-hormuz/",
-      "source": "New York Post",
-      "publishedAt": "2026-06-10T08:59:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil steady as investors weigh renewed US-Iran fighting",
-      "url": "https://www.rte.ie/news/business/2026/0610/1577695-world-oil-prices/",
-      "source": "RTE",
-      "publishedAt": "2026-06-10T08:57:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US launches airstrikes on Iran after blaming Tehran for helicopter crash, prompting retaliation",
-      "url": "https://www.thehindubusinessline.com/news/world/us-launches-airstrikes-on-iran-after-blaming-tehran-for-helicopter-crash-prompting-retaliation/article71084068.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-10T08:45:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "China and North Korea renew ties, complicating U.S. response to Kim's nuclear program",
       "url": "https://www.npr.org/2026/06/10/nx-s1-5851837/china-and-north-korea-renew-ties-complicating-u-s-response-to-kims-nuclear-program",
       "source": "NPR",
       "publishedAt": "2026-06-10T08:42:39Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Israeli leader who pulled out of Lebanon warns against getting stuck again",
-      "url": "https://www.npr.org/2026/06/10/g-s1-126791/israeli-leader-who-pulled-out-of-lebanon-warns-against-getting-stuck-again",
-      "source": "NPR",
-      "publishedAt": "2026-06-10T08:40:59Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S. Launches Airstrikes On Iran After Blaming Tehran For Helicopter Crash, Prompting Retaliation",
-      "url": "https://www.huffpost.com/entry/iran-us-trade-strikes_n_6a291ecde4b02d9edc7e943d",
-      "source": "HuffPost",
-      "publishedAt": "2026-06-10T08:36:29Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "European sentiments towards the US hit an all-time low",
@@ -91,52 +211,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran attacks US army bases in Jordan and Bahrain in latest setback to truce talks",
-      "url": "https://www.thejournal.ie/iran-us-2-7066011-Jun2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-06-10T08:16:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran, US Trade Strikes after American Helicopter Downed",
-      "url": "https://www.rigzone.com/news/wire/iran_us_trade_strikes_after_american_helicopter_downed-10-jun-2026-183890-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-06-10T07:59:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Baltic states fear Russia-Ukraine war spillover after drone incursions",
       "url": "https://www.aljazeera.com/news/longform/2026/6/10/baltic-states-fear-russia-ukraine-war-spillover-after-drone-incursions",
       "source": "Al Jazeera English",
       "publishedAt": "2026-06-10T07:57:57Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US, Iran Attack Each Other Over Apache Downed Near Hormuz Strait",
-      "url": "https://financialpost.com/pmn/business-pmn/us-iran-attack-each-other-over-apache-downed-near-hormuz-strait",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-10T07:46:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war day 103: US strikes after helicopter shot down, Tehran hits back",
-      "url": "https://www.aljazeera.com/news/2026/6/10/iran-war-day-103-us-strikes-after-helicopter-shot-down-tehran-hits-back",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-10T07:16:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "From Trump’s optimism to a new escalation: How the downing of an Apache triggered US strikes & Iranian retaliation",
-      "url": "https://en.protothema.gr/2026/06/10/from-trumps-optimism-to-a-new-escalation-how-the-downing-of-an-apache-triggered-us-strikes-iranian-retaliation/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-06-10T06:07:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "U.S. Business Lobby Chief Says Additional Russia Sanctions Would Be Ineffective",
@@ -155,36 +235,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Ukraine's mid-range drones are its new ace against Russia, but many don't arrive war-ready, pilot says",
-      "url": "https://www.businessinsider.com/ukraine-mid-range-drones-war-ready-test-pilot-spring-2026-6",
-      "source": "Business Insider",
-      "publishedAt": "2026-06-10T04:01:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "'More than any other country in the world' - Ukraine wants to be the biggest drone and robot producer worldwide, outstripping China, Russia, and the US combined —Kyiv claims it could build more than 30 million units annually within years",
-      "url": "https://www.techradar.com/pro/more-than-any-other-country-in-the-world-ukraine-wants-to-be-the-biggest-drone-and-robot-producer-worldwide-outstripping-china-russia-and-the-us-combined-kyiv-could-build-more-than-30-million-units-annually-within-years",
-      "source": "TechRadar",
-      "publishedAt": "2026-06-09T23:40:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Xi concludes his visit to North Korea; Wang Huning inspects Xinjiang; Nationwide AI compute network buildout; Chip controls; Rare earths",
       "url": "https://sinocism.com/p/xi-concludes-his-visit-to-north-korea",
       "source": "Sinocism.com",
       "publishedAt": "2026-06-09T23:02:59Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "U.S. Launches New ‘Self-Defense’ Strikes on Iran Over Apache Helicopter Crash",
-      "url": "http://foreignpolicy.com/2026/06/09/trump-apache-helicopter-attack-iran-oman-lebanon-israel/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-06-09T22:29:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Xi Seeks to Draw North Korea Back Into China’s Orbit",
@@ -211,50 +267,10 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Ukraine Is Ready to Share Drone Technology with Nordic and Baltic Countries, Zelenskyy Says",
-      "url": "https://military.com/ukraine-is-ready-to-share-drone-technology-with-nordic-and-baltic-countries-zelenskyy-says",
-      "source": "Military.com",
-      "publishedAt": "2026-06-09T19:06:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Xi's Visit Signifies China Recognizing North Korea's Nuclear Status – Expert",
       "url": "https://sputnikglobe.com/20260609/xis-visit-signifies-china-recognizing-north-koreas-nuclear-status-expert-1124290177.html",
       "source": "Sputnikglobe.com",
       "publishedAt": "2026-06-09T17:46:21Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "NATO country to stop supplying arms to Ukraine",
-      "url": "https://www.rt.com/news/641312-bulgaria-ends-weapons-shipments-ukraine/",
-      "source": "RT",
-      "publishedAt": "2026-06-09T17:24:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "China, North Korea boast better ties after Xi-Kim talks",
-      "url": "https://www.dw.com/en/china-north-korea-boast-better-ties-after-xi-kim-talks/a-77477935",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-09T14:57:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "China, North Korea to expand cooperation after Xi-Kim talks",
-      "url": "https://www.dw.com/en/china-north-korea-xi-jinping-kim-jong-un-relationship-nuclear-program/a-77477935",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-09T14:57:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "China's President Xi returns home after closely watched trip to North Korea",
-      "url": "https://abcnews.com/International/wireStory/chinas-president-xi-returns-home-after-closely-watched-133706632",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-09T11:47:17Z",
       "_cat": "korea",
       "_label": "N. Korea"
     },

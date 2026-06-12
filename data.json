@@ -1,14 +1,126 @@
 {
-  "updated": "2026-06-12T14:55:52Z",
-  "count": 36,
+  "updated": "2026-06-12T20:08:46Z",
+  "count": 35,
   "articles": [
     {
-      "title": "An AH-64 Apache attack helicopter went down near Iran. Take a closer look at its weapons and capabilities.",
-      "url": "https://www.businessinsider.com/apache-attack-helicopters-weapons-capabilities-photos#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-06-11T14:31:09Z",
+      "title": "In new crude world order, US is largest exporter of crude",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/in-new-crude-world-order-us-is-largest-exporter-of-crude/articleshow/131668589.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-11T19:58:33Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "The Solidarity Assembly for Imprisoned Fugitives and Persecuted Combatants : An Interview on Repression and Resistance in Greece",
+      "url": "https://crimethinc.com/2026/06/11/the-solidarity-assembly-for-imprisoned-fugitives-and-persecuted-combatants-an-interview-on-repression-and-resistance-in-greece",
+      "source": "Crimethinc.com",
+      "publishedAt": "2026-06-11T19:35:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelenskyy Letter Ignites New Questions About CIA’s Putin Assassination Narrative",
+      "url": "https://dailycaller.com/2026/06/11/volodymyr-zelenskyy-letter-vladimir-putin-cia-assassination-attempt/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-06-11T19:30:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The end? Trump cancels planned strikes on Iran, saying a peace deal ‘approved’",
+      "url": "https://www.wnd.com/2026/06/end-trump-cancels-planned-strikes-iran-saying-peace/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-06-11T19:24:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Cancels Planned Iran Strikes in Latest Reversal",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-cancels-planned-iran-strikes-in-latest-reversal",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-11T18:48:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Bombs Water Facilities in Iran, a Possible War Crime Violation",
+      "url": "https://truthout.org/articles/us-bombs-water-facilities-in-iran-a-possible-war-crime-violation/",
+      "source": "Truthout",
+      "publishedAt": "2026-06-11T18:48:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump cancels planned Iran strikes in latest reversal",
+      "url": "https://financialpost.com/news/trump-cancels-iran-strikes",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-11T18:23:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF advances into Lebanon targeting Hezbollah tunnels and drones",
+      "url": "https://cryptobriefing.com/idf-advances-into-lebanon-targeting-hezbollah-tunnels-and-drones/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-11T18:22:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Cancels Strikes, Predicts Peace Deal 'Shortly'",
+      "url": "https://www.newser.com/story/390890/trump-cancels-strikes-cites-progress-in-talks.html",
+      "source": "Newser",
+      "publishedAt": "2026-06-11T18:12:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump cancels strikes against Iran planned for Thursday",
+      "url": "https://www.channelnewsasia.com/world/trump-us-iran-strikes-cancelled-after-talks-6177596",
+      "source": "CNA",
+      "publishedAt": "2026-06-11T18:05:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A Point-by-Point Breakdown of Trump’s Failed Iran War Objectives",
+      "url": "https://theintercept.com/2026/06/11/trump-iran-war-claims-failures/",
+      "source": "The Intercept",
+      "publishedAt": "2026-06-11T18:02:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Vance says Israeli PM Netanyahu 'has got some things wrong'",
+      "url": "https://freerepublic.com/focus/f-news/4383352/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-11T17:48:13Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "EU could ‘sleepwalk’ into conflict with Russia – ex-German navy chief",
+      "url": "https://www.rt.com/news/641432-germany-eu-russia-conflict/",
+      "source": "RT",
+      "publishedAt": "2026-06-11T15:32:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Oil Prices SURGE As US Hits Multiple Targets Across Iran",
+      "url": "https://www.shtfplan.com/war/oil-prices-surge-as-us-hits-multiple-targets-across-iran",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-06-11T15:00:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Washington’s Asian Allies Need a Backup Plan",
+      "url": "http://foreignpolicy.com/2026/06/11/trump-asia-strategy-rethink/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-06-11T14:57:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Iran Is Now More Dangerous Than Ever",
@@ -17,38 +129,6 @@
       "publishedAt": "2026-06-11T14:29:01Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "UAE and Iran meet face-to-face to try to deescalate Middle East tensions",
-      "url": "https://economictimes.indiatimes.com/news/defence/uae-iran-us-war-meet-face-to-face-to-try-to-deescalate-middle-east-tensions-peace-talks-ceasefire/articleshow/131662093.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-11T14:26:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Will Hit Iran “Very Hard” Tonight",
-      "url": "https://www.dailysignal.com/2026/06/11/us-will-hit-iran-very-hard-tonight/",
-      "source": "Daily Signal",
-      "publishedAt": "2026-06-11T14:18:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "News24 | Iran warns Middle East truce 'practically meaningless' after US strikes",
-      "url": "https://www.news24.com/world/iran-warns-mideast-truce-practically-meaningless-after-us-strikes-20260611-0792",
-      "source": "News24",
-      "publishedAt": "2026-06-11T14:12:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says US ‘will be taking Kharg Island’ oil export hub, vows to hit Iran ‘very hard tonight’",
-      "url": "https://freerepublic.com/focus/f-news/4383318/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-06-11T13:52:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "UK Defense Secretary Quits, Says Government Isn’t Willing to Spend Enough on Military",
@@ -71,32 +151,16 @@
       "url": "https://military.com/trump-threatens-to-take-total-control-of-irans-oil-industry-as-ceasefire-teeters",
       "source": "Military.com",
       "publishedAt": "2026-06-11T13:45:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump Calls off Latest Threats to Strike Iran, Citing Progress in Negotiations",
       "url": "https://military.com/trump-calls-off-latest-threats-to-strike-iran-citing-progress-in-negotiations",
       "source": "Military.com",
       "publishedAt": "2026-06-11T13:45:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Says US Will Hit Iran ‘Very Hard’ After Tit-for-Tat Strikes",
-      "url": "https://www.insurancejournal.com/news/international/2026/06/11/873402.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-06-11T13:29:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war ceasefire close to collapse as Trump promises more strikes and eventual US control of Iranian oil and gas — follow live",
-      "url": "https://www.dw.com/en/iran-war-ceasefire-close-to-collapse-as-trump-promises-more-strikes-and-eventual-us-control-of-iranian-oil-and-gas-follow-live/live-77498305",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-11T13:13:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Stars and Swipes: Ivanka's island dream and the Balkan backlash",
@@ -107,52 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Analysis-Iran fights to keep Lebanon as leverage in high-stakes US deal",
-      "url": "https://www.yahoo.com/news/articles/analysis-iran-fights-keep-lebanon-120853598.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-11T12:08:53Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Thursday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/06/11/thursday-hili-dialogue-591/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-06-11T11:45:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "UK defense secretary quits over military spending dispute",
       "url": "https://apnews.com/article/britain-defense-secretary-john-healey-quits-533cb2637192f045ca6247ab5a402bac",
       "source": "Associated Press",
       "publishedAt": "2026-06-11T11:25:44Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran-U.S. War: America launches second round of strikes, Tehran hits back at gulf states Bahrain, Kuwait, Jordan",
-      "url": "https://economictimes.indiatimes.com/news/international/us/iran-u-s-war-america-launches-second-round-of-strikes-tehran-hits-back-at-gulf-states-bahrain-kuwait-jordan/articleshow/131657242.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-11T11:04:53Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "News24 | ‘We will be victorious’: Hundreds rally in support of Iran, Hezbollah, Gaza, Yemen",
-      "url": "https://www.news24.com/world/we-will-be-victorious-hundreds-rally-in-support-of-iran-hezbollah-gaza-yemen-20260611-0343",
-      "source": "News24",
-      "publishedAt": "2026-06-11T10:50:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US launches second day of strikes on Iran, Iran fires back at Gulf states, Jordan",
-      "url": "https://www.thehindubusinessline.com/news/world/us-launches-second-day-of-strikes-on-iran-iran-fires-back-at-gulf-states-jordan/article71088725.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-11T10:49:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "‘We must be ready to fight’: Germany army chief warns of rising Russia threat",
@@ -171,42 +195,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran Responds to a Second Day of US Strikes by Firing at Gulf States and Jordan",
-      "url": "https://military.com/iran-responds-to-a-second-day-of-us-strikes-by-firing-at-gulf-states-and-jordan",
-      "source": "Military.com",
-      "publishedAt": "2026-06-11T09:53:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Labour must end its 'infighting' over defence and take two obvious steps to ready Britain for war with Russia, MARK NICOL tells the Daily Mail's Deep Dive podcast",
       "url": "https://www.dailymail.com/news/article-15890069/britain-defenceless-mark-nicol-labour-defence-spending-russia-war-2030-deep-dive-podcast.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-06-11T06:00:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukrainian Missile Strike Hits Regional Capital in Central Russia, Local Governor Confirms",
-      "url": "https://www.naturalnews.com/2026-06-11-ukrainian-missile-strike-hits-central-russia-capital.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-11T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin Powerfully Rebuffed the Hawks Who Want Him to Attack NATO",
-      "url": "https://www.nakedcapitalism.com/2026/06/putin-powerfully-rebuffed-the-hawks-who-want-him-to-attack-nato.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-06-11T05:49:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europe is finally, slowly getting its act together",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/europe-is-finally-slowly-getting-its-act-together/articleshow/131649225.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-11T04:52:55Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

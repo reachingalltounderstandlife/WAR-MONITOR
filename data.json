@@ -1,7 +1,159 @@
 {
-  "updated": "2026-06-12T03:51:34Z",
-  "count": 32,
+  "updated": "2026-06-12T10:10:42Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "NATO is learning from Ukraine that a lot of good-enough weapons today beat a few perfect ones that come too late",
+      "url": "https://www.businessinsider.com/ukraine-shows-nato-perfect-weapons-10-years-maybe-late-speed-2026-6",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-11T09:54:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Responds to a Second Day of US Strikes by Firing at Gulf States and Jordan",
+      "url": "https://military.com/iran-responds-to-a-second-day-of-us-strikes-by-firing-at-gulf-states-and-jordan",
+      "source": "Military.com",
+      "publishedAt": "2026-06-11T09:53:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran is not a normal nation you can make deals with. It’s a national security threat",
+      "url": "https://www.foxnews.com/opinion/iran-normal-nation-make-deals-national-security-threat",
+      "source": "Fox News",
+      "publishedAt": "2026-06-11T09:00:24Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S. Launches Second Day Of Strikes On Iran And Tehran Fires Back At Gulf States And Jordan",
+      "url": "https://www.huffpost.com/entry/iran-us-trade-attacks_n_6a2a6596e4b02d9edc7fc168",
+      "source": "HuffPost",
+      "publishedAt": "2026-06-11T08:58:55Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US and Iran exchange fire for second day, undermining ceasefire and rattling crypto markets",
+      "url": "https://cryptobriefing.com/us-iran-fire-ceasefire-crypto-markets/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-11T08:54:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: Trump Again Strikes Iran Out of Frustration With Refusal to Capitulate; More Reports of Trump’s Unhinged State; Iran Closes Strait of Hormuz; Doubts About Trump Claims of Covert Oil Transits",
+      "url": "https://www.nakedcapitalism.com/2026/06/iran-war-trump-again-strikes-iran-out-of-frustration-with-refusal-to-capitulate-more-reports-of-trumps-unhinged-state-iran-closes-strait-of-hormuz-doubts-about-trump-claims-of-covert-oil-transit.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-06-11T08:53:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Vows More Strikes on Iran Thursday If It Holds Out on Deal",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-vows-more-strikes-on-iran-thursday-if-it-holds-out-on-deal",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-11T08:41:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump vows to strike Iran on Thursday if it holds out on interim peace deal",
+      "url": "https://financialpost.com/news/trump-vows-more-strikes-iran-thursday",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-11T08:41:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "USA Strikes Iran",
+      "url": "https://www.rigzone.com/news/wire/usa_strikes_iran-11-jun-2026-183900-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-06-11T08:29:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump hits Iran with fresh strikes then vows to 'bomb the s*** out of them' if deal is not signed - but Tehran vows to turn the region into 'hell'",
+      "url": "https://www.dailymail.com/news/article-15891217/Trump-hits-Iran-fresh-strikes-vows-bomb-s-deal-not-signed-Tehran-vows-turn-region-hell.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-11T07:56:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF destroys Hezbollah anti-tank launcher, seizes weapons in southern Lebanon",
+      "url": "https://cryptobriefing.com/idf-destroys-hezbollah-anti-tank-launcher-seizes-weapons-in-southern-lebanon/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-11T07:55:56Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "UN watchdog demands Iran provide information on nuclear stockpile",
+      "url": "https://www.aljazeera.com/news/2026/6/11/un-watchdog-demands-iran-provide-information-on-nuclear-stockpile",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-11T07:38:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US launches a second day of strikes on Iran and Iran fires back at the Gulf states and Jordan",
+      "url": "https://abcnews.com/Business/wireStory/us-launches-day-strikes-iran-iran-fires-back-133773500",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-11T07:23:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes Baalbek, Nabatieh amid rising regional tensions",
+      "url": "https://cryptobriefing.com/israel-strikes-baalbek-nabatieh-amid-rising-regional-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-11T06:38:03Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Labour must end its 'infighting' over defence and take two obvious steps to ready Britain for war with Russia, MARK NICOL tells the Daily Mail's Deep Dive podcast",
+      "url": "https://www.dailymail.com/news/article-15890069/britain-defenceless-mark-nicol-labour-defence-spending-russia-war-2030-deep-dive-podcast.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-11T06:00:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukrainian Missile Strike Hits Regional Capital in Central Russia, Local Governor Confirms",
+      "url": "https://www.naturalnews.com/2026-06-11-ukrainian-missile-strike-hits-central-russia-capital.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-11T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin Powerfully Rebuffed the Hawks Who Want Him to Attack NATO",
+      "url": "https://www.nakedcapitalism.com/2026/06/putin-powerfully-rebuffed-the-hawks-who-want-him-to-attack-nato.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-06-11T05:49:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US and Iran trade attacks for a second day, undermining shaky ceasefire",
+      "url": "https://www.thehindubusinessline.com/news/world/wrapup-1-us-and-iran-trade-attacks-for-a-second-day-undermining-shaky-ceasefire/article71087611.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-11T05:16:50Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Europe is finally, slowly getting its act together",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/europe-is-finally-slowly-getting-its-act-together/articleshow/131649225.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-11T04:52:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Is China's Xi worried that North Korea wants \"to confront the U.S.\"?",
       "url": "https://www.cbsnews.com/news/china-north-korea-kim-jong-un-xi-jinping-donald-trump-nuclear-weapons-russia/",
@@ -9,14 +161,6 @@
       "publishedAt": "2026-06-11T03:43:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Strait of Hormuz closes again - Conflicts intensify once more",
-      "url": "https://english.gossiplankanews.com/2026/06/strait-of-hormuz-closes-again-conflicts.html",
-      "source": "Gossiplankanews.com",
-      "publishedAt": "2026-06-11T03:10:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Trump: The Commander-in-Thief",
@@ -27,86 +171,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "U.S. completes fresh wave of 'self‑defense strikes' on Iranian targets, CENTCOM says",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-06-11/ty-article-live/centcom-u-s-completes-fresh-wave-of-self-defense-strikes-on-iranian-targets/0000019e-b424-d7a4-a9bf-f4ec4df70000",
-      "source": "Haaretz",
-      "publishedAt": "2026-06-11T01:29:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US launches new strikes after Trump threatens to attack Iran 'very hard'",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-launches-new-strikes-after-trump-threatens-to-attack-iran-very-hard/articleshow/131646590.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-11T00:33:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Bombs Iran for Second Night After Complaining Talks Have 'Taken Too Long'",
-      "url": "https://www.commondreams.org/news/trump-bombing-iran",
-      "source": "Common Dreams",
-      "publishedAt": "2026-06-11T00:30:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US strikes on Iranian water facility raise legal concerns as geopolitical risk ripples through markets",
-      "url": "https://cryptobriefing.com/us-iran-strike-water-facility-legal-market-risk/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-11T00:08:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "WSJ warns Trump he's 'dancing to Iran's tune' and needs a strategy shakeup",
-      "url": "https://www.rawstory.com/trump-iran-2677025211/",
-      "source": "Raw Story",
-      "publishedAt": "2026-06-10T23:47:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US military launches fresh strikes on Iran as Trump warns of further escalation",
-      "url": "https://www.thehindubusinessline.com/news/world/us-military-launches-fresh-strikes-on-iran-as-trump-warns-of-further-escalation/article71086729.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-10T23:30:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says Israel not involved in US strikes on Iran, crypto markets brace for impact",
-      "url": "https://cryptobriefing.com/trump-israel-iran-strikes-crypto-impact/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-10T23:29:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US strikes Iran as Tehran warns of response to attacks",
-      "url": "https://www.rte.ie/news/middle-east/2026/0611/1577844-middle-east-iran/",
-      "source": "RTE",
-      "publishedAt": "2026-06-10T23:28:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran shuts down Strait of Hormuz after US military strikes",
-      "url": "https://cryptobriefing.com/iran-shuts-down-strait-of-hormuz-after-us-military-strikes/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-10T23:17:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. military says it's striking 'multiple targets' in Iran in 2nd day of renewed fire",
-      "url": "https://www.npr.org/2026/06/10/nx-s1-5853882/us-strike-iran-second-day-renewed-fire",
-      "source": "NPR",
-      "publishedAt": "2026-06-10T22:46:56Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Moscow brands Canada as 'warmonger' amid drone production deal with Ukraine",
       "url": "https://www.cbc.ca/news/canada/moscow-canada-drone-production-tensions-9.7230691",
       "source": "CBC News",
@@ -115,28 +179,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump’s 3 Bad Options in Iran",
-      "url": "https://dailyreckoning.com/trumps-3-bad-options-in-iran/",
-      "source": "Dailyreckoning.com",
-      "publishedAt": "2026-06-10T22:00:44Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Only 11% of Europeans view U.S. as ally, survey shows",
       "url": "https://japantoday.com/category/world/only-11-of-europeans-view-us-as-ally-survey-shows2",
       "source": "Japan Today",
       "publishedAt": "2026-06-10T21:30:31Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump threatens to attack Iran 'very hard' following latest hostilities",
-      "url": "https://japantoday.com/category/world/trump-threatens-to-attack-iran-%27very-hard%27-following-latest-hostilities",
-      "source": "Japan Today",
-      "publishedAt": "2026-06-10T21:30:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "North Koreans behind nearly half of US tech industry hacks, says CrowdStrike | TechCrunch",
@@ -187,22 +235,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Only 1 in 10 Europeans see US as an ally — study",
-      "url": "https://www.dw.com/en/only-1-in-10-europeans-see-us-as-an-ally-study/a-77489708",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-10T13:13:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Chief of Defence Staff Speech at London Tech Week",
-      "url": "https://www.gov.uk/government/speeches/chief-of-defence-staff-speech-at-london-tech-week",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-06-10T12:45:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "What was left unsaid may be biggest takeaway from Xi-Kim summit - The Japan Times",
       "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183732022",
       "source": "Slashdot.org",
@@ -219,36 +251,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Europe's $116B fighter jet 'failure' raises fresh doubts about ability to defend itself without US",
-      "url": "https://www.foxnews.com/politics/europes-116b-fighter-jet-failure-raises-fresh-doubts-about-ability-defend-itself-without-us",
-      "source": "Fox News",
-      "publishedAt": "2026-06-10T11:00:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Bulgaria to end state weapons supply to Ukraine",
-      "url": "https://www.hurriyetdailynews.com/bulgaria-to-end-state-weapons-supply-to-ukraine-223114",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-10T10:32:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "China re‑centers North Korea ties as nuclear silence reshapes balance",
       "url": "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties",
       "source": "NPR",
       "publishedAt": "2026-06-10T10:30:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Bulgaria to end state weapons supply to Ukraine",
-      "url": "https://www.channelnewsasia.com/world/bulgaria-end-state-weapons-supply-ukraine-6171631",
-      "source": "CNA",
-      "publishedAt": "2026-06-10T09:51:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "China and North Korea renew ties, complicating U.S. response to Kim's nuclear program",

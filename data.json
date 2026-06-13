@@ -1,7 +1,111 @@
 {
-  "updated": "2026-06-13T03:36:28Z",
-  "count": 26,
+  "updated": "2026-06-13T08:56:22Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Trump is raising expectations that this time he really will close deal with Iran to wind down war",
+      "url": "https://abcnews.com/US/wireStory/trump-raising-expectations-time-close-deal-iran-wind-133806942",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-12T08:34:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Warnings Putin is preparing for larger war with Europe as satellite images reveal military expansion on NATO border",
+      "url": "https://www.dailymail.com/news/article-15894289/Warnings-Putin-preparing-larger-war-Europe-satellite-images-reveal-military-expansion-NATO-border.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-12T08:24:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "This Week’s Most Popular Articles",
+      "url": "https://www.globalresearch.ca/this-weeks-most-popular-articles-219/5929756",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-12T08:13:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The 2029 warning: NATO's race to rearm ahead of Russia",
+      "url": "https://www.cbc.ca/news/politics/russia-nato-arms-germany-war-canada-9.7232514",
+      "source": "CBC News",
+      "publishedAt": "2026-06-12T08:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz",
+      "url": "https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-12T07:49:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Taking Kharg Island would pose risks for US troops - Reuters",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183756996",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-12T06:12:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Roaming Charges: Data My Eyes",
+      "url": "https://www.counterpunch.org/2026/06/12/roaming-charges-data-my-eyes/",
+      "source": "CounterPunch",
+      "publishedAt": "2026-06-12T06:02:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon under siege: 'Without UNIFIL, we will become the next Gaza'",
+      "url": "https://www.thejournal.ie/gaza-and-lebanon-7068067-Jun2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-06-12T06:00:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Global Economic Drag From US-Iran Conflict Extends Beyond Energy, Analysts Say",
+      "url": "https://www.naturalnews.com/2026-06-12-analysts-global-economic-drag-us-iran-conflict-beyond-energy.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-12T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran says no final decision yet on deal Trump claims will end war",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/06/12/iran-says-no-final-decision-yet-on-deal-trump-claims-will-end-war/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-12T05:55:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran War News Live Updates: Trump claims US-Iran ‘ended,’ but Tehran says no final decision on peace deal yet",
+      "url": "https://indianexpress.com/article/world/us-iran-war-live-updates-trump-tehran-peace-deal-caesefire-new-strikes-middle-east-strait-of-hormuz-10735703/",
+      "source": "The Indian Express",
+      "publishedAt": "2026-06-12T04:40:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu says Trump assured him final Iran deal will mandate removal of enriched uranium",
+      "url": "https://economictimes.indiatimes.com/news/defence/netanyahu-says-trump-assured-him-final-iran-deal-will-mandate-removal-of-enriched-uranium/articleshow/131673861.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-12T04:32:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump is raising expectations that this time he really will close deal with Iran to wind down war",
+      "url": "https://www.yahoo.com/news/politics/articles/us--iran-us-trump-040515953.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-12T04:05:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Dozens of Democratic lawmakers urge Trump to press Israel over Gaza humanitarian crisis",
       "url": "https://www.haaretz.com/israel-news/israel-security/2026-06-12/ty-article-live/democratic-lawmakers-urge-trump-to-press-israel-over-gaza-humanitarian-crisis/0000019e-b985-d335-adbe-f9bf57190000",
@@ -31,8 +135,8 @@
       "url": "https://economictimes.indiatimes.com/news/defence/iran-says-no-final-decision-made-on-deal-that-trump-hopes-could-be-signed-soon/articleshow/131671401.cms",
       "source": "The Times of India",
       "publishedAt": "2026-06-12T01:17:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Europeans Prepare to Defend Themselves, Or Don’t",
@@ -47,40 +151,24 @@
       "url": "https://www.rte.ie/news/middle-east/2026/0612/1578042-iran-trump-us/",
       "source": "RTE",
       "publishedAt": "2026-06-11T23:33:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump criticises reports that memorandum favours Iran",
       "url": "https://www.rte.ie/news/middle-east/2026/0612/1578042-us-iran-trump/",
       "source": "RTE",
       "publishedAt": "2026-06-11T23:33:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran says deal not finalised, Trump hopes to sign soon",
       "url": "https://www.rte.ie/news/middle-east/2026/0612/1578042-iran-says-deal-not-finalised-trump-hopes-to-sign-soon/",
       "source": "RTE",
       "publishedAt": "2026-06-11T23:33:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Report: Turkey urges Syrian President not to join Israel in weakening Hezbollah",
-      "url": "https://www.israelnationalnews.com/news/428515",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-11T23:14:14Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Middle East experts assess prospects for U.S.-Iran deal",
-      "url": "https://www.pbs.org/newshour/show/middle-east-experts-assess-prospects-for-u-s-iran-deal",
-      "source": "PBS",
-      "publishedAt": "2026-06-11T22:50:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "U.K. defense secretary resigns, saying the government isn’t willing to spend enough on the military",
@@ -89,54 +177,6 @@
       "publishedAt": "2026-06-11T22:37:04Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Commentary: US and Iran’s exchange of strikes shows how far diplomacy has changed",
-      "url": "https://www.channelnewsasia.com/commentary/us-israel-iran-war-strikes-diplomacy-peace-deal-6176291",
-      "source": "CNA",
-      "publishedAt": "2026-06-11T21:59:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Sportswashed: FIFA’s Long Love Affair With Authoritarians",
-      "url": "https://www.motherjones.com/politics/2026/06/trump-world-cup-fifa-putin-qatar-soccer-football-politics-sportswashing-boykoff/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-06-11T21:11:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Backpedals on Planned Iran Strikes, Citing Deal Progress",
-      "url": "http://foreignpolicy.com/2026/06/11/trump-cancels-strikes-iran-deal-kharg-island-blockade/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-06-11T21:06:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "“We Will Be Taking Kharg Island” — Trump Threatens Invasion of Iran",
-      "url": "https://truthout.org/articles/we-will-be-taking-kharg-island-trump-threatens-invasion-of-iran/",
-      "source": "Truthout",
-      "publishedAt": "2026-06-11T21:05:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says ‘great’ settlement of war with Iran to be signed within days, triggering reopening of Strait of Hormuz",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/06/11/trump-says-great-settlement-of-war-with-iran-to-be-signed-within-days-triggering-reopening-of-strait-of-hormuz/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-06-11T20:34:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump calls off ‘scheduled’ bombardment of Iran",
-      "url": "https://www.rt.com/news/641439-us-iran-war-escalation/",
-      "source": "RT",
-      "publishedAt": "2026-06-11T20:17:50Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Two top UK defense officials resign over military spending in fresh blow to Keir Starmer",
@@ -155,22 +195,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump Cancels Planned Iran Strikes in Latest Reversal",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-cancels-planned-iran-strikes-in-latest-reversal",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-11T18:48:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF advances into Lebanon targeting Hezbollah tunnels and drones",
-      "url": "https://cryptobriefing.com/idf-advances-into-lebanon-targeting-hezbollah-tunnels-and-drones/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-11T18:22:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "EU could ‘sleepwalk’ into conflict with Russia – ex-German navy chief",
       "url": "https://www.rt.com/news/641432-germany-eu-russia-conflict/",
       "source": "RT",
@@ -179,28 +203,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Washington’s Asian Allies Need a Backup Plan",
-      "url": "http://foreignpolicy.com/2026/06/11/trump-asia-strategy-rethink/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-06-11T14:57:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UK Defense Secretary Quits, Says Government Isn’t Willing to Spend Enough on Military",
-      "url": "https://military.com/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military",
-      "source": "Military.com",
-      "publishedAt": "2026-06-11T13:51:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "How Drone Warfare Is Rewiring Geopolitics and Rewriting the Age of Superpowers",
       "url": "https://www.fairobserver.com/more/science/how-drone-warfare-is-rewiring-geopolitics-and-rewriting-the-age-of-superpowers/",
       "source": "Fair Observer",
       "publishedAt": "2026-06-11T13:47:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Is China's Xi worried that North Korea wants \"to confront the U.S.\"?",

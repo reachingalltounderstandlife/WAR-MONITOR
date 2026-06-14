@@ -1,7 +1,71 @@
 {
-  "updated": "2026-06-14T03:57:36Z",
-  "count": 28,
+  "updated": "2026-06-14T09:31:35Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Lebanon reports strikes in south after Israeli army issues evacuation warning",
+      "url": "https://www.thejournal.ie/lebanon-reports-strikes-in-south-after-israeli-army-issues-evacuation-warning-7070003-Jun2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-06-13T09:05:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon reports Israeli strikes in south after warning",
+      "url": "https://www.rte.ie/news/world/2026/0613/1578244-israel-lebanon/",
+      "source": "RTE",
+      "publishedAt": "2026-06-13T08:31:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Military action flares as potential Iran peace deal looms",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/06/13/military-action-flares-as-potential-iran-peace-deal-looms/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-13T07:26:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Strikes Iranian Drones While Talks Continue for Interim Deal",
+      "url": "https://financialpost.com/pmn/business-pmn/us-strikes-iranian-drones-while-talks-continue-for-interim-deal",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-13T07:10:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO weighs options to defend Europe as US plans to cut forces",
+      "url": "https://www.hurriyetdailynews.com/nato-weighs-options-to-defend-europe-as-us-plans-to-cut-forces-223237",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-13T06:22:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Erdogan Has Intensified His Rhetoric Against Israel: Interests in Syria and the Risk of Escalation in the Eastern Mediterranean",
+      "url": "https://en.protothema.gr/2026/06/13/why-erdogan-has-intensified-his-rhetoric-against-israel-interests-in-syria-and-the-risk-of-escalation-in-the-eastern-mediterranean/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-06-13T05:27:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Europe must end its juvenile taboo against talking to Russia",
+      "url": "https://www.irishtimes.com/opinion/2026/06/14/europe-must-end-its-juvenile-taboo-against-talking-to-russia/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-13T05:00:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why has Trump has backed away from renewed war with Iran?",
+      "url": "https://www.juancole.com/2026/06/trump-backed-renewed.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-06-13T04:04:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Trump's seven objectives that remain unfulfilled as officials say Iran war could soon end",
       "url": "https://economictimes.indiatimes.com/news/defence/trumps-seven-objectives-that-remain-unfulfilled-as-officials-say-iran-war-could-soon-end/articleshow/131697146.cms",
@@ -67,22 +131,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US, Iran signal peace deal near as Tehran claims victory",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-iran-signal-peace-deal-near-as-tehran-claims-victory/articleshow/131696110.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-13T01:08:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran's military has been degraded. What's left?",
-      "url": "https://www.cbc.ca/news/world/iran-targets-military-u-s-9.7233114",
-      "source": "CBC News",
-      "publishedAt": "2026-06-13T00:32:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Pivot to Beijing: How Xi Jinping Became the World’s Indispensable Leader",
       "url": "https://english.khabarhub.com/2026/13/553370/",
       "source": "Khabarhub.com",
@@ -91,28 +139,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "The U.S. and Iran Might Actually Have a Deal",
-      "url": "https://www.theatlantic.com/national-security/2026/06/us-iran-war-deal-trump/687543/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-06-12T23:10:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "What the U.S. and Iran are demanding in the latest peace proposal",
       "url": "https://www.pbs.org/newshour/show/what-the-u-s-and-iran-are-demanding-in-the-latest-peace-proposal",
       "source": "PBS",
       "publishedAt": "2026-06-12T22:55:38Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Report: UAE unlocks up to $20B for Tehran as US-Iran talks enter final stage",
-      "url": "https://www.israelnationalnews.com/news/428564",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-12T22:49:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Trump says ceasefire deal 'close', but it could be on Iran's terms",
@@ -163,14 +195,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump and Netanyahu in lockstep over Iran war, U.S. ambassador to Israel says",
-      "url": "https://www.cbc.ca/news/world/huckabee-trump-netanyahu-iran-9.7233490",
-      "source": "CBC News",
-      "publishedAt": "2026-06-12T20:33:42Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Britain's defence strategy under fire while global nuclear spending surges",
       "url": "https://www.abc.net.au/news/2026-06-13/nuclear-weapons-spending-united-kingdom-defence-aukus/106737440",
       "source": "ABC News (AU)",
@@ -187,44 +211,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran Will Fall Within the Year: Amit Segal and Josh Hammer",
-      "url": "https://www.dailysignal.com/2026/06/12/iran-will-fall-within-the-year/",
-      "source": "Daily Signal",
-      "publishedAt": "2026-06-12T18:30:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Villages 700 years old destroyed to 'uproot people' from their history",
-      "url": "https://www.abc.net.au/news/2026-06-13/biladi-blue-shield-cultural-heritage-war-zone-anthony-by-design/106775904",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-12T18:30:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "South Korea Adds 30 Years to Conservative Ex-President's Life Sentence for North Korea Drone Scheme",
       "url": "https://www.breitbart.com/asia/2026/06/12/south-korea-adds-30-years-conservative-ex-presidents-life-sentence-north-korea-drone-scheme/",
       "source": "Breitbart News",
       "publishedAt": "2026-06-12T18:16:55Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "After Trump cuts aircraft and warships, NATO’s top military officer refocuses Europe’s defense plans on ‘things that we can acquire quickly’",
-      "url": "https://fortune.com/2026/06/12/trump-cuts-nato-europe-defense-russia-pentagon/",
-      "source": "Fortune",
-      "publishedAt": "2026-06-12T15:57:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO weighs options to defend Europe as the US plans for conflict elsewhere",
-      "url": "https://economictimes.indiatimes.com/news/defence/nato-weighs-options-to-defend-europe-as-the-us-plans-for-conflict-elsewhere/articleshow/131688015.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-12T15:10:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-14T14:00:05Z",
-  "count": 30,
+  "updated": "2026-06-14T19:24:40Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "IDF strikes over 70 Hezbollah sites in 24 hours",
+      "url": "https://www.israelnationalnews.com/news/428572",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-13T19:20:07Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Says He’ll Sign Deal With Iran to Reopen Hormuz Sunday",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-says-hell-sign-deal-with-iran-to-reopen-hormuz-sunday",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-13T18:55:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says deal to end war will be signed on Sunday, Iran questions timing",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-deal-to-end-war-will-be-signed-on-sunday-iran-questions-timing/articleshow/131711293.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-13T18:36:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel’s mini-ministerial council to convene as US-Iran deal takes shape",
+      "url": "https://cryptobriefing.com/israel-council-convenes-us-iran-deal/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-13T18:23:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Puffy Putin peril: The West’s latest attempt to scare itself",
+      "url": "https://www.rt.com/news/641503-puffy-putin-west-scare/",
+      "source": "RT",
+      "publishedAt": "2026-06-13T17:43:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia, China, and Iran Are Joining Forces Against Western Pressure",
+      "url": "https://oilprice.com/Geopolitics/North-America/Russia-China-and-Iran-Are-Joining-Forces-Against-Western-Pressure.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-06-13T17:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "As Iran and US near a peace deal, Tehran remembers another bloody conflict",
+      "url": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-13T15:43:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A deal to the end the U.S.-Iran war could be finalized within 24 hours. Tehran wants to charge ships crossing Hormuz ‘for services rendered’",
+      "url": "https://fortune.com/2026/06/13/us-iran-war-peace-deal-ships-strait-of-hormuz-services-rendered-fee/",
+      "source": "Fortune",
+      "publishedAt": "2026-06-13T14:28:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Deal Or No Deal? Nervous Wait Continues Amid Fragile Cease-Fire",
+      "url": "https://www.rferl.org/a/iran-peace-deal-conflicting-reports-fragile-cease-fire/33779736.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-06-13T14:15:33Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Lebanon reports strikes on south as Israel issues broad evacuation warnings",
       "url": "https://www.channelnewsasia.com/world/lebanon-reports-strikes-south-israel-issues-broad-evacuation-warnings-6181136",
@@ -43,14 +115,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Five martyred as Israel strikes southern Lebanon, issues broad evacuation orders",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260613-presstv02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-13T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Final text of a peace deal between US, Iran agreed upon, Pakistan says",
       "url": "https://www.newsnationnow.com/world/us-iran-peace-deal-final-text-agreed-upon/",
       "source": "Newsnationnow.com",
@@ -65,22 +129,6 @@
       "publishedAt": "2026-06-13T11:55:01Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "What we know about a possible deal to end the Iran war",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/what-we-know-about-a-possible-deal-to-end-the-iran-war/articleshow/131703618.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-13T11:50:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran-U. S war, Strait of Hormuz reopen deal between Tehran and Washington: Is the conflict finally ending?",
-      "url": "https://economictimes.indiatimes.com/news/international/us/iran-u-s-war-strait-of-hormuz-reopen-deal-between-tehran-and-washington-is-the-conflict-finally-ending/articleshow/131703403.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-13T11:38:10Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Starmer Refuses to Resign From Office After Defense Minister Jumps Ship",
@@ -115,14 +163,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "U.S.-Iran deal expected to reopen Strait of Hormuz could be signed within days, both sides say",
-      "url": "https://www.nbcnews.com/world/iran/us-iran-deal-expected-reopen-strait-hormuz-signed-days-both-sides-say-rcna349916",
-      "source": "NBC News",
-      "publishedAt": "2026-06-13T10:28:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "How Western Media Normalizes Israel’s Ethnic Cleansing in Lebanon",
       "url": "https://www.nakedcapitalism.com/2026/06/how-western-media-normalizes-israels-ethnic-cleansing-in-lebanon.html",
       "source": "Nakedcapitalism.com",
@@ -139,30 +179,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Lebanon reports strikes in south after Israeli army issues evacuation warning",
-      "url": "https://www.thejournal.ie/lebanon-reports-strikes-in-south-after-israeli-army-issues-evacuation-warning-7070003-Jun2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-06-13T09:05:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Military action flares as potential Iran peace deal looms",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/06/13/military-action-flares-as-potential-iran-peace-deal-looms/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-06-13T07:26:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Strikes Iranian Drones While Talks Continue for Interim Deal",
-      "url": "https://financialpost.com/pmn/business-pmn/us-strikes-iranian-drones-while-talks-continue-for-interim-deal",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-13T07:10:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "NATO weighs options to defend Europe as US plans to cut forces",
       "url": "https://www.hurriyetdailynews.com/nato-weighs-options-to-defend-europe-as-us-plans-to-cut-forces-223237",
       "source": "Hurriyet Daily News",
@@ -171,28 +187,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Why Erdogan Has Intensified His Rhetoric Against Israel: Interests in Syria and the Risk of Escalation in the Eastern Mediterranean",
-      "url": "https://en.protothema.gr/2026/06/13/why-erdogan-has-intensified-his-rhetoric-against-israel-interests-in-syria-and-the-risk-of-escalation-in-the-eastern-mediterranean/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-06-13T05:27:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Europe must end its juvenile taboo against talking to Russia",
       "url": "https://www.irishtimes.com/opinion/2026/06/14/europe-must-end-its-juvenile-taboo-against-talking-to-russia/",
       "source": "The Irish Times",
       "publishedAt": "2026-06-13T05:00:01Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Why has Trump has backed away from renewed war with Iran?",
-      "url": "https://www.juancole.com/2026/06/trump-backed-renewed.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-06-13T04:04:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "After the Fall by Ian Shapiro: Thought-provoking guide to how the world got into this mess",
@@ -215,14 +215,6 @@
       "url": "https://english.khabarhub.com/2026/13/553370/",
       "source": "Khabarhub.com",
       "publishedAt": "2026-06-13T00:15:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO weighs options to defend Europe as U.S. plans for conflict elsewhere",
-      "url": "https://japantoday.com/category/world/nato-weighs-options-to-defend-europe-as-the-us-plans-for-conflict-elsewhere",
-      "source": "Japan Today",
-      "publishedAt": "2026-06-12T20:41:55Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

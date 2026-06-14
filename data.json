@@ -1,20 +1,148 @@
 {
-  "updated": "2026-06-14T09:31:35Z",
-  "count": 27,
+  "updated": "2026-06-14T14:00:05Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Lebanon reports strikes on south as Israel issues broad evacuation warnings",
+      "url": "https://www.channelnewsasia.com/world/lebanon-reports-strikes-south-israel-issues-broad-evacuation-warnings-6181136",
+      "source": "CNA",
+      "publishedAt": "2026-06-13T13:31:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. and Iran expected to sign initial deal within 24 hours, mediator Pakistan says",
+      "url": "https://www.cbc.ca/news/world/pakistan-us-iran-deal-close-9.7234496",
+      "source": "CBC News",
+      "publishedAt": "2026-06-13T12:54:19Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Pete Hegseth's D-Day Remarks Prove the US Is No Longer an Ally to European Democracy",
+      "url": "https://fpif.org/pete-hegseths-invasions/",
+      "source": "Fpif.org",
+      "publishedAt": "2026-06-13T12:19:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Says Iran Deal To Be Signed June 14 Despite Doubts Cast By Tehran",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260613-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-13T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Renewed Fighting In Lebanon Highlights Another Barrier To Peace Deal",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260613-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-13T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Five martyred as Israel strikes southern Lebanon, issues broad evacuation orders",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260613-presstv02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-13T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Final text of a peace deal between US, Iran agreed upon, Pakistan says",
+      "url": "https://www.newsnationnow.com/world/us-iran-peace-deal-final-text-agreed-upon/",
+      "source": "Newsnationnow.com",
+      "publishedAt": "2026-06-13T11:59:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine's defense firms split themselves up to avoid being a big target. Europe now needs to do the same, they say.",
+      "url": "https://www.businessinsider.com/ukraine-splits-weapons-making-warns-europe-must-do-the-same-2026-6#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-13T11:55:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What we know about a possible deal to end the Iran war",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/what-we-know-about-a-possible-deal-to-end-the-iran-war/articleshow/131703618.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-13T11:50:28Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran-U. S war, Strait of Hormuz reopen deal between Tehran and Washington: Is the conflict finally ending?",
+      "url": "https://economictimes.indiatimes.com/news/international/us/iran-u-s-war-strait-of-hormuz-reopen-deal-between-tehran-and-washington-is-the-conflict-finally-ending/articleshow/131703403.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-13T11:38:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Starmer Refuses to Resign From Office After Defense Minister Jumps Ship",
+      "url": "https://www.breitbart.com/europe/2026/06/13/starmer-refuses-to-resign-from-office-after-defence-minister-jumps-ship/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-06-13T11:35:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US, Iran reportedly outline MoU terms; differences remain over nuclear issue, Strait of Hormuz: experts",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260613-globaltimes01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-13T11:23:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Downs Iranian Attack Drones, Even As Momentum For Deal Builds",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260613-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-13T11:23:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 6/13/2026",
+      "url": "https://www.nakedcapitalism.com/2026/06/links-6-13-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-06-13T10:59:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S.-Iran deal expected to reopen Strait of Hormuz could be signed within days, both sides say",
+      "url": "https://www.nbcnews.com/world/iran/us-iran-deal-expected-reopen-strait-hormuz-signed-days-both-sides-say-rcna349916",
+      "source": "NBC News",
+      "publishedAt": "2026-06-13T10:28:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "How Western Media Normalizes Israel’s Ethnic Cleansing in Lebanon",
+      "url": "https://www.nakedcapitalism.com/2026/06/how-western-media-normalizes-israels-ethnic-cleansing-in-lebanon.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-06-13T10:24:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why India wants German submarines – and what Pakistan and China have to do with it",
+      "url": "https://www.dw.com/en/why-india-wants-german-submarines-and-what-pakistan-and-china-have-to-do-with-it/a-77503931",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-13T10:18:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Lebanon reports strikes in south after Israeli army issues evacuation warning",
       "url": "https://www.thejournal.ie/lebanon-reports-strikes-in-south-after-israeli-army-issues-evacuation-warning-7070003-Jun2026/",
       "source": "TheJournal.ie",
       "publishedAt": "2026-06-13T09:05:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon reports Israeli strikes in south after warning",
-      "url": "https://www.rte.ie/news/world/2026/0613/1578244-israel-lebanon/",
-      "source": "RTE",
-      "publishedAt": "2026-06-13T08:31:15Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -67,60 +195,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump's seven objectives that remain unfulfilled as officials say Iran war could soon end",
-      "url": "https://economictimes.indiatimes.com/news/defence/trumps-seven-objectives-that-remain-unfulfilled-as-officials-say-iran-war-could-soon-end/articleshow/131697146.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-13T03:37:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran peace deal looms while new military action flares near Strait of Hormuz",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-peace-deal-looms-while-new-military-action-flares-near-strait-of-hormuz/article71096480.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-13T03:23:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "After the Fall by Ian Shapiro: Thought-provoking guide to how the world got into this mess",
       "url": "https://www.irishtimes.com/culture/books/review/2026/06/13/after-the-fall-by-ian-shapiro-thought-provoking-guide-to-how-the-world-got-into-this-mess/",
       "source": "The Irish Times",
       "publishedAt": "2026-06-13T03:15:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US and Iran signal deal close as Hormuz tensions flare",
-      "url": "https://www.rte.ie/news/middle-east/2026/0613/1578223-middle-east/",
-      "source": "RTE",
-      "publishedAt": "2026-06-13T02:25:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Iran signal deal looms as Hormuz tensions flare",
-      "url": "https://www.rte.ie/news/middle-east/2026/0613/1578223-iran-us-world/",
-      "source": "RTE",
-      "publishedAt": "2026-06-13T02:25:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran peace deal looms while new military action flares near Strait of Hormuz",
-      "url": "https://www.channelnewsasia.com/world/iran-us-peace-deal-near-abbas-araghchi-trump-6180676",
-      "source": "CNA",
-      "publishedAt": "2026-06-13T02:13:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Iran have agreed to wording of a deal to end their war, Pakistan's Shehbaz Sharif says",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-and-iran-have-agreed-to-wording-of-a-deal-to-end-their-war-pakistans-shehbaz-sharif-says/articleshow/131696377.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-13T02:05:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine offensive, Starlink rival, and advice for the West: Key takeaways from Putin’s chat with soldiers",
@@ -139,46 +219,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "What the U.S. and Iran are demanding in the latest peace proposal",
-      "url": "https://www.pbs.org/newshour/show/what-the-u-s-and-iran-are-demanding-in-the-latest-peace-proposal",
-      "source": "PBS",
-      "publishedAt": "2026-06-12T22:55:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump says ceasefire deal 'close', but it could be on Iran's terms",
-      "url": "https://www.abc.net.au/news/2026-06-13/trump-says-ceasefire-is-close-but-it-could-be-on-irans-terms/106793394",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-12T22:12:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S. And Iran Have Agreed To Wording Of A Deal To End Their War, Pakistan's Prime Minister Says",
-      "url": "https://www.huffpost.com/entry/iran-us-war-agreement-pakistan_n_6a2c7b8ee4b0942fb778ece8",
-      "source": "HuffPost",
-      "publishedAt": "2026-06-12T21:39:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "How Israel's operation 'Eternal Darkness' in southern Lebanon is expanding",
-      "url": "https://www.abc.net.au/news/2026-06-13/israel-s-operation-continues-to-expand-in-lebanon/106784908",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-12T21:22:19Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hezbollah says it confronted Israeli troops advancing in south Lebanon",
-      "url": "https://www.channelnewsasia.com/world/hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon-6180266",
-      "source": "CNA",
-      "publishedAt": "2026-06-12T21:03:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "NATO weighs options to defend Europe as U.S. plans for conflict elsewhere",
       "url": "https://japantoday.com/category/world/nato-weighs-options-to-defend-europe-as-the-us-plans-for-conflict-elsewhere",
       "source": "Japan Today",
@@ -187,28 +227,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Keir Starmer says he's staying put after defense secretary's departure hammers his authority",
-      "url": "https://japantoday.com/category/world/keir-starmer-says-he%27s-staying-put-after-defense-secretary%27s-departure-hammers-his-authority",
-      "source": "Japan Today",
-      "publishedAt": "2026-06-12T20:41:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Britain's defence strategy under fire while global nuclear spending surges",
       "url": "https://www.abc.net.au/news/2026-06-13/nuclear-weapons-spending-united-kingdom-defence-aukus/106737440",
       "source": "ABC News (AU)",
       "publishedAt": "2026-06-12T19:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Study: Russia Operating Misinformation Networks in 13 Latin American Countries",
-      "url": "https://www.breitbart.com/latin-america/2026/06/12/study-russia-operating-misinformation-networks-in-13-latin-american-countries/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-06-12T18:45:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "South Korea Adds 30 Years to Conservative Ex-President's Life Sentence for North Korea Drone Scheme",

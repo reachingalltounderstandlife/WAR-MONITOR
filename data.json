@@ -1,7 +1,183 @@
 {
-  "updated": "2026-06-15T04:10:18Z",
-  "count": 29,
+  "updated": "2026-06-15T12:10:22Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "Qatari Officials Arrive In Tehran To Press Peace Process",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260614-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-14T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Any attempt to shape regional security without Iran doomed to fail: Araghchi",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260614-presstv08.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-14T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah fighters successfully ambush Israeli occupation forces in southern Lebanon",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260614-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-14T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran's top security official warns response 'imminent' after Israeli strike on Beirut",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260614-presstv03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-14T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Says Latest Strikes On Beirut 'Should Not Have Happened'",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260614-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-14T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Death Toll From Israeli Strikes on Lebanon Reaches 3,756 - Lebanese Health Ministry",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260614-sputnik05.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-14T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Urges Israel to Refrain From Striking Lebanon",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260614-sputnik01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-14T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "'Resistance will not be cornered', Speaker Qalibaf warns Israel after Beirut attack",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260614-presstv02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-14T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Guterres welcomes US-Iran peace deal as 'critical step' toward ending conflict",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260614-unnews01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-14T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel says military attacked Hezbollah targets in Beirut's southern suburbs on Sunday",
+      "url": "https://economictimes.indiatimes.com/news/defence/israel-says-military-attacked-hezbollah-targets-in-beiruts-southern-suburbs-on-sunday/articleshow/131720365.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-14T11:51:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Sunday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/06/14/sunday-hili-dialogue-590/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-06-14T11:45:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A top NATO commander says the West can no longer count on its homelands staying safe in future wars",
+      "url": "https://www.businessinsider.com/western-homelands-no-longer-guaranteed-safe-future-war-nato-commander-2026-6#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-14T11:05:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 6/14/2016",
+      "url": "https://www.nakedcapitalism.com/2026/06/links-6-14-2016.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-06-14T10:55:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel accuses Hezbollah of ceasefire violation, issues displacement orders",
+      "url": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-14T10:25:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukrainian mother, 28, dies after shielding her two sons as shrapnel from a Russian missile hurtled towards them",
+      "url": "https://www.dailymail.com/news/article-15898585/Ukrainian-mother-28-dies-shielding-two-sons-shrapnel-Russian-missile-hurtled-them.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-14T10:03:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Germany pledges to build Europe's strongest army as NATO allies answer Trump pressure",
+      "url": "https://www.foxnews.com/world/germany-pledges-build-europes-strongest-army-nato-allies-answer-trump-pressure",
+      "source": "Fox News",
+      "publishedAt": "2026-06-14T10:00:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
+      "url": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-14T09:18:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
+      "url": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-14T07:24:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Experts discuss NATO’s future, Türkiye’s strategic role ahead of Ankara summit",
+      "url": "https://www.hurriyetdailynews.com/experts-discuss-natos-future-turkiyes-strategic-role-ahead-of-ankara-summit-223247",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-14T07:08:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Japan Faces Growing Threat as North Korea's Nuclear Arsenal Expands",
+      "url": "https://newsonjapan.com/article/149652.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-06-14T07:07:43Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Lebanon reports strikes on south, east as Israel issues broad evacuation warnings",
+      "url": "https://economictimes.indiatimes.com/news/defence/lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuation-warnings/articleshow/131716025.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-14T05:35:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war: Trump, Pakistan tease deal, but doubts remain",
+      "url": "https://www.dw.com/en/iran-war-trump-pakistan-tease-deal-but-doubts-remain/live-77540182",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-14T05:32:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Trump’s Iran deal achieves none of Israel’s war goals – opposition leader",
       "url": "https://www.rt.com/news/641508-lapid-slams-trump-iran-deal/",
@@ -27,84 +203,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Israel strikes dozens of Hezbollah targets in Lebanon as Trump and Iran inch toward long-awated peace deal",
-      "url": "https://nypost.com/2026/06/13/us-news/israel-strikes-hezbollah-targets-in-lebanon-as-trump-and-iran-on-cusp-of-deal/",
-      "source": "New York Post",
-      "publishedAt": "2026-06-13T22:07:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea declares denuclearization matter irreversibly terminated",
       "url": "https://cryptobriefing.com/north-korea-denuclearization-irreversibly-terminated/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-06-13T22:05:14Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Lebanon reports strikes on south, east as Israel issues broad evacuation warnings",
-      "url": "https://japantoday.com/category/world/lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuation-warnings",
-      "source": "Japan Today",
-      "publishedAt": "2026-06-13T21:09:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump says deal to end war will be signed on Sunday; Iran questions timing",
-      "url": "https://japantoday.com/category/world/trump-says-deal-to-end-war-will-be-signed-on-sunday-iran-questions-timing",
-      "source": "Japan Today",
-      "publishedAt": "2026-06-13T21:09:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "One year ago, the Middle East changed. Nobody knows what comes next.",
-      "url": "https://www.rt.com/news/641497-middle-east-iran-war/",
-      "source": "RT",
-      "publishedAt": "2026-06-13T20:20:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'Who will be accountable for this?': Families grieve sailors killed in Strait of Hormuz",
-      "url": "https://www.abc.net.au/news/2026-06-14/indian-sailors-deaths-strait-of-hormuz/106792790",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-13T19:42:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "IDF strikes over 70 Hezbollah sites in 24 hours",
-      "url": "https://www.israelnationalnews.com/news/428572",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-13T19:20:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Says He’ll Sign Deal With Iran to Reopen Hormuz Sunday",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-says-hell-sign-deal-with-iran-to-reopen-hormuz-sunday",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-13T18:55:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says deal to end war will be signed on Sunday, Iran questions timing",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-deal-to-end-war-will-be-signed-on-sunday-iran-questions-timing/articleshow/131711293.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-13T18:36:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel’s mini-ministerial council to convene as US-Iran deal takes shape",
-      "url": "https://cryptobriefing.com/israel-council-convenes-us-iran-deal/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-13T18:23:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Puffy Putin peril: The West’s latest attempt to scare itself",
@@ -115,60 +219,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Russia, China, and Iran Are Joining Forces Against Western Pressure",
-      "url": "https://oilprice.com/Geopolitics/North-America/Russia-China-and-Iran-Are-Joining-Forces-Against-Western-Pressure.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-06-13T17:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "As Iran and US near a peace deal, Tehran remembers another bloody conflict",
-      "url": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-13T15:43:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "A deal to the end the U.S.-Iran war could be finalized within 24 hours. Tehran wants to charge ships crossing Hormuz ‘for services rendered’",
-      "url": "https://fortune.com/2026/06/13/us-iran-war-peace-deal-ships-strait-of-hormuz-services-rendered-fee/",
-      "source": "Fortune",
-      "publishedAt": "2026-06-13T14:28:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Deal Or No Deal? Nervous Wait Continues Amid Fragile Cease-Fire",
-      "url": "https://www.rferl.org/a/iran-peace-deal-conflicting-reports-fragile-cease-fire/33779736.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-06-13T14:15:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon reports strikes on south as Israel issues broad evacuation warnings",
-      "url": "https://www.channelnewsasia.com/world/lebanon-reports-strikes-south-israel-issues-broad-evacuation-warnings-6181136",
-      "source": "CNA",
-      "publishedAt": "2026-06-13T13:31:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Pete Hegseth's D-Day Remarks Prove the US Is No Longer an Ally to European Democracy",
       "url": "https://fpif.org/pete-hegseths-invasions/",
       "source": "Fpif.org",
       "publishedAt": "2026-06-13T12:19:01Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Final text of a peace deal between US, Iran agreed upon, Pakistan says",
-      "url": "https://www.newsnationnow.com/world/us-iran-peace-deal-final-text-agreed-upon/",
-      "source": "Newsnationnow.com",
-      "publishedAt": "2026-06-13T11:59:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine's defense firms split themselves up to avoid being a big target. Europe now needs to do the same, they say.",
@@ -203,36 +259,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Europe must end its juvenile taboo against talking to Russia",
-      "url": "https://www.irishtimes.com/opinion/2026/06/14/europe-must-end-its-juvenile-taboo-against-talking-to-russia/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-06-13T05:00:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "After the Fall by Ian Shapiro: Thought-provoking guide to how the world got into this mess",
-      "url": "https://www.irishtimes.com/culture/books/review/2026/06/13/after-the-fall-by-ian-shapiro-thought-provoking-guide-to-how-the-world-got-into-this-mess/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-06-13T03:15:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine offensive, Starlink rival, and advice for the West: Key takeaways from Putin’s chat with soldiers",
-      "url": "https://www.rt.com/russia/641486-donbass-starlink-west-putin/",
-      "source": "RT",
-      "publishedAt": "2026-06-13T01:30:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The Pivot to Beijing: How Xi Jinping Became the World’s Indispensable Leader",
       "url": "https://english.khabarhub.com/2026/13/553370/",
       "source": "Khabarhub.com",
       "publishedAt": "2026-06-13T00:15:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "korea",
+      "_label": "N. Korea"
     }
   ]
 }

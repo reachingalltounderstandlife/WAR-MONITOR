@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-14T19:24:40Z",
+  "updated": "2026-06-15T04:10:18Z",
   "count": 29,
   "articles": [
+    {
+      "title": "Trump’s Iran deal achieves none of Israel’s war goals – opposition leader",
+      "url": "https://www.rt.com/news/641508-lapid-slams-trump-iran-deal/",
+      "source": "RT",
+      "publishedAt": "2026-06-14T03:32:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea declares denuclearization irreversibly terminated, raising stakes for crypto security",
+      "url": "https://cryptobriefing.com/north-korea-denuclearization-crypto-security/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-14T02:14:36Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea says nuclear status 'irreversible': State news agency",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-nuclear-status-irreversible-kcna-6181871",
+      "source": "CNA",
+      "publishedAt": "2026-06-14T01:52:53Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel strikes dozens of Hezbollah targets in Lebanon as Trump and Iran inch toward long-awated peace deal",
+      "url": "https://nypost.com/2026/06/13/us-news/israel-strikes-hezbollah-targets-in-lebanon-as-trump-and-iran-on-cusp-of-deal/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-13T22:07:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea declares denuclearization matter irreversibly terminated",
+      "url": "https://cryptobriefing.com/north-korea-denuclearization-irreversibly-terminated/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-13T22:05:14Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Lebanon reports strikes on south, east as Israel issues broad evacuation warnings",
+      "url": "https://japantoday.com/category/world/lebanon-reports-strikes-on-south-east-as-israel-issues-broad-evacuation-warnings",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-13T21:09:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump says deal to end war will be signed on Sunday; Iran questions timing",
+      "url": "https://japantoday.com/category/world/trump-says-deal-to-end-war-will-be-signed-on-sunday-iran-questions-timing",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-13T21:09:02Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "One year ago, the Middle East changed. Nobody knows what comes next.",
+      "url": "https://www.rt.com/news/641497-middle-east-iran-war/",
+      "source": "RT",
+      "publishedAt": "2026-06-13T20:20:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Who will be accountable for this?': Families grieve sailors killed in Strait of Hormuz",
+      "url": "https://www.abc.net.au/news/2026-06-14/indian-sailors-deaths-strait-of-hormuz/106792790",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-13T19:42:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "IDF strikes over 70 Hezbollah sites in 24 hours",
       "url": "https://www.israelnationalnews.com/news/428572",
@@ -83,36 +155,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "U.S. and Iran expected to sign initial deal within 24 hours, mediator Pakistan says",
-      "url": "https://www.cbc.ca/news/world/pakistan-us-iran-deal-close-9.7234496",
-      "source": "CBC News",
-      "publishedAt": "2026-06-13T12:54:19Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Pete Hegseth's D-Day Remarks Prove the US Is No Longer an Ally to European Democracy",
       "url": "https://fpif.org/pete-hegseths-invasions/",
       "source": "Fpif.org",
       "publishedAt": "2026-06-13T12:19:01Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Says Iran Deal To Be Signed June 14 Despite Doubts Cast By Tehran",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260613-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-13T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Renewed Fighting In Lebanon Highlights Another Barrier To Peace Deal",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260613-rferl03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-13T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Final text of a peace deal between US, Iran agreed upon, Pakistan says",
@@ -137,38 +185,6 @@
       "publishedAt": "2026-06-13T11:35:28Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US, Iran reportedly outline MoU terms; differences remain over nuclear issue, Strait of Hormuz: experts",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260613-globaltimes01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-13T11:23:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Downs Iranian Attack Drones, Even As Momentum For Deal Builds",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260613-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-13T11:23:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 6/13/2026",
-      "url": "https://www.nakedcapitalism.com/2026/06/links-6-13-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-06-13T10:59:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How Western Media Normalizes Israel’s Ethnic Cleansing in Lebanon",
-      "url": "https://www.nakedcapitalism.com/2026/06/how-western-media-normalizes-israels-ethnic-cleansing-in-lebanon.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-06-13T10:24:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Why India wants German submarines – and what Pakistan and China have to do with it",
@@ -217,22 +233,6 @@
       "publishedAt": "2026-06-13T00:15:19Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Britain's defence strategy under fire while global nuclear spending surges",
-      "url": "https://www.abc.net.au/news/2026-06-13/nuclear-weapons-spending-united-kingdom-defence-aukus/106737440",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-12T19:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "South Korea Adds 30 Years to Conservative Ex-President's Life Sentence for North Korea Drone Scheme",
-      "url": "https://www.breitbart.com/asia/2026/06/12/south-korea-adds-30-years-conservative-ex-presidents-life-sentence-north-korea-drone-scheme/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-06-12T18:16:55Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

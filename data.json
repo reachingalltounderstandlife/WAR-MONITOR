@@ -1,14 +1,142 @@
 {
-  "updated": "2026-06-16T11:07:59Z",
-  "count": 28,
+  "updated": "2026-06-16T16:49:15Z",
+  "count": 27,
   "articles": [
     {
-      "title": "Relief, hope as US, Iran reach deal to end war",
-      "url": "https://www.hurriyetdailynews.com/relief-hope-as-us-iran-reach-deal-to-end-war-223301",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-15T11:05:20Z",
+      "title": "The nukes stay: China and North Korea are building something bigger",
+      "url": "https://www.rt.com/news/641622-china-north-korea-nukes-stay/",
+      "source": "RT",
+      "publishedAt": "2026-06-15T16:48:54Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump may have won a strategic pause in Iran. Now comes the hard part",
+      "url": "https://www.foxnews.com/opinion/trump-may-won-strategic-pause-iran-comes-hard-part",
+      "source": "Fox News",
+      "publishedAt": "2026-06-15T16:35:37Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Iran links Lebanon conflict resolution to US peace agreement, raising questions for sanctions-tied crypto flows",
+      "url": "https://cryptobriefing.com/iran-lebanon-us-peace-agreement-crypto/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-15T16:29:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel Refuses to Leave Lebanon Despite Reported Inclusion in U.S.-Iran Deal",
+      "url": "https://www.breitbart.com/middle-east/2026/06/15/israel-refuses-to-leave-lebanon-despite-reported-inclusion-in-u-s-iran-deal/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-06-15T16:12:59Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Fresh humiliation for Putin as nuke-capable supersonic bomber crashes down in fireball",
+      "url": "https://www.dailymail.com/news/article-15901371/Fresh-humiliation-Putin-nuke-capable-supersonic-bomber-crashes-fireball.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-15T15:40:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "News24 | Israeli fire kills four in Gaza, mediators hold more ceasefire talks",
+      "url": "https://www.news24.com/world/israeli-fire-kills-four-in-gaza-mediators-hold-more-ceasefire-talks-20260615-0895",
+      "source": "News24",
+      "publishedAt": "2026-06-15T15:24:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "M.O.U. Knowns...And A Lot More Unknowns",
+      "url": "https://freerepublic.com/focus/f-news/4383848/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-15T15:12:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Age of Disposable Peoples. An Indictment Before the Tribunal of History — With Iran as Exhibit",
+      "url": "https://www.globalresearch.ca/disposable-peoples-indictment-history-iran-exhibit/5929888",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-15T15:11:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Changing Operational Environment. Radical Changes in Almost every Aspect of War",
+      "url": "https://www.globalresearch.ca/changing-operational-environment/5929944",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-15T15:01:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Thirteen thousand air strikes for what?",
+      "url": "https://freerepublic.com/focus/f-news/4383842/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-15T14:56:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine to start EU membership talks, ushering in years of reforms while fighting Russia’s war",
+      "url": "https://abcnews.com/International/wireStory/ukraine-start-eu-membership-talks-ushering-years-reforms-133889791",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-15T14:56:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The US tore up the Iran deal. Now it may settle for a weaker one",
+      "url": "https://www.rt.com/news/641616-emerging-us-iran-deal/",
+      "source": "RT",
+      "publishedAt": "2026-06-15T14:43:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran's foreign ministry says 'deep mistrust' in US remains despite deal",
+      "url": "https://www.channelnewsasia.com/world/iran-us-war-agreement-strait-hormuz-sanctions-nuclear-6184871",
+      "source": "CNA",
+      "publishedAt": "2026-06-15T14:34:34Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Shouldn’t Canadians at Least Debate Expanding War Against Russia?",
+      "url": "https://www.antiwar.com/blog/2026/06/15/shouldnt-canadians-at-least-debate-expanding-war-against-russia/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-06-15T14:26:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "News24 | US-Iran deal a ‘catastrophe’ for Israel, analysts say",
+      "url": "https://www.news24.com/world/us-iran-deal-a-catastrophe-for-israel-analysts-say-20260615-0811",
+      "source": "News24",
+      "publishedAt": "2026-06-15T13:35:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The U.S. says Iran will give up its uranium. Iran says it won’t. They’re due to sign a deal on Friday",
+      "url": "https://fortune.com/2026/06/15/what-is-us-iran-deal-nuclear-uranium-strait-hormuz-israel/",
+      "source": "Fortune",
+      "publishedAt": "2026-06-15T13:27:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "New tech and tactics are giving Ukraine rare momentum against Russia",
+      "url": "https://www.businessinsider.com/ukraine-starting-new-phrase-russia-war-with-tech-tactics-progress-2026-6#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-15T11:18:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "The Iran war's biggest loser is Russia",
@@ -23,16 +151,8 @@
       "url": "https://www.nakedcapitalism.com/2026/06/iran-war-iran-and-us-announce-signing-of-memorandum-of-understanding-for-friday-amid-doubts-about-status-of-terms-israel-sabotage-iran-claims-blockade-and-hostilities-on-all-front-to-end-monday-n.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-06-15T10:54:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Inside Iran's brutal World Cup journey: Why horrors of the war have led to a fractured fanbase, the top striker axed over 'act of disloyalty' and the scramble to replace him that involved a TV star, a DNA test and a name change",
-      "url": "https://www.dailymail.com/sport/football/article-15900431/Iran-World-Cup-war.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-15T10:48:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Risk of nuclear catastrophe is worse than ever. We can change that",
@@ -41,30 +161,6 @@
       "publishedAt": "2026-06-15T10:30:52Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "US, Iran send mixed signals on deal after rounds of twists and turns",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260615-globaltimes02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-15T09:52:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump, Iran Say Framework Agreement Reached To End War",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260615-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-15T09:52:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran and US Reach a Tentative Deal to End War as Israel Rules Out Withdrawing from Seized Land",
-      "url": "https://military.com/iran-and-us-reach-a-tentative-deal-to-end-war-as-israel-rules-out-withdrawing-from-seized-land",
-      "source": "Military.com",
-      "publishedAt": "2026-06-15T09:49:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukrainian heritage-listed monastery severely damaged by Russian strike",
@@ -83,46 +179,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "A 60-day clock starts ticking on the US-Iran peace agreement",
-      "url": "https://economictimes.indiatimes.com/news/defence/a-60-day-clock-starts-ticking-on-the-us-iran-peace-agreement/articleshow/131738514.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-15T08:43:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Defense Minister Says Israel Won’t Withdraw From Land Seized In Lebanon, Syria And Gaza",
-      "url": "https://www.huffpost.com/entry/israel-challenges-iran-us-deal_n_6a2fb3b6e4b04478a0610946",
-      "source": "HuffPost",
-      "publishedAt": "2026-06-15T08:22:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Defence minister says Israel won't withdraw from land seized in Lebanon, Syria, Gaza",
-      "url": "https://www.thehindubusinessline.com/news/world/defence-minister-says-israel-wont-withdraw-from-land-seized-in-lebanon-syria-gaza/article71103994.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-15T07:44:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Defense minister says Israel won't withdraw from Lebanon and Gaza",
-      "url": "https://apnews.com/article/iran-us-war-oil-june-15-2026-77406473da38c6c126818610a219dc20",
-      "source": "Associated Press",
-      "publishedAt": "2026-06-15T07:42:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Defense minister says Israel won’t withdraw from land seized in Lebanon, Syria and Gaza",
-      "url": "https://www.seattlepi.com/news/world/article/defense-minister-says-israel-won-t-withdraw-22305317.php",
-      "source": "seattlepi.com",
-      "publishedAt": "2026-06-15T07:41:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "South Korea Could Build Nuclear Submarines, But It Shouldn’t",
       "url": "https://warontherocks.com/south-korea-could-build-nuclear-submarines-but-it-shouldnt/",
       "source": "War on the Rocks",
@@ -135,70 +191,6 @@
       "url": "https://www.dailymail.com/news/article-15900335/Putin-bombs-UNESCO-World-Heritage-Site-cathedral-deadly-night-attacks-Ukraine-calling-Trump-wish-happy-birthday.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-06-15T07:23:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump heads to France amid past tensions with G7 leaders",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-heads-to-france-amid-past-tensions-with-g7-leaders/article71103875.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-15T07:07:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran take center stage at World Cup as Spain make bow",
-      "url": "https://sports.yahoo.com/articles/iran-center-stage-world-cup-061158557.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-15T06:11:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump's track record of insults and awkward moments with the G7 leaders he's meeting in France",
-      "url": "https://abcnews.com/US/wireStory/trumps-track-record-insults-awkward-moments-g7-leaders-133878047",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-15T06:03:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Only 11% of Europeans view U.S. as ally: Historic low signals transatlantic rupture",
-      "url": "https://www.naturalnews.com/2026-06-15-few-europeans-view-us-as-ally.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-15T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "EU Military Buildup Financed Through Debt, Social Spending Cuts, Officials Say",
-      "url": "https://www.naturalnews.com/2026-06-15-eu-military-buildup-debt-social-spending-cuts.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-15T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A peace deal may bring an end to the Iran war, but what did the US and Israel truly achieve?",
-      "url": "https://theconversation.com/a-peace-deal-may-bring-an-end-to-the-iran-war-but-what-did-the-us-and-israel-truly-achieve-285241",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-06-15T05:59:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US, Iran reach deal to end war, reopen Hormuz",
-      "url": "https://punchng.com/us-iran-reach-deal-to-end-war-reopen-hormuz/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-15T05:52:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump's Iran agreement resets the mood ahead of a tense G7 gathering",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trumps-iran-agreement-resets-the-mood-ahead-of-a-tense-g7-gathering/articleshow/131733001.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-15T04:09:54Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

@@ -1,150 +1,150 @@
 {
-  "updated": "2026-06-15T20:53:37Z",
-  "count": 33,
+  "updated": "2026-06-16T03:59:36Z",
+  "count": 25,
   "articles": [
     {
-      "title": "Iran weekly briefing: On the edge of a US-Iran breakthrough, Israel throws an explosive spanner",
-      "url": "https://www.abc.net.au/news/2026-06-15/iran-israel-war-news-briefing/106797420",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-14T20:29:10Z",
+      "title": "Historic monastery on fire as Ukraine faces major attack",
+      "url": "https://www.rte.ie/news/ukraine/2026/0615/1578414-ukraine-strikes/",
+      "source": "RTE",
+      "publishedAt": "2026-06-15T03:51:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Historic monastery on fire as Ukraine faces major attack",
+      "url": "https://www.rte.ie/news/world/2026/0615/1578414-ukraine-strikes/",
+      "source": "RTE",
+      "publishedAt": "2026-06-15T03:51:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Nine killed, historic monastery on fire as Ukraine faces major Russian attacks",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/nine-killed-historic-monastery-on-fire-as-ukraine-faces-major-russian-attacks/articleshow/131732345.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-15T03:26:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Iran-America war ended decisively",
+      "url": "https://english.gossiplankanews.com/2026/06/the-iran-america-war-ended-decisively.html",
+      "source": "Gossiplankanews.com",
+      "publishedAt": "2026-06-15T03:10:24Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Trump unleashes expletive-laden birthday tirade at Netanyahu and claims he has 'no judgment' in extraordinary outburst",
-      "url": "https://www.dailymail.com/news/article-15899143/Trump-unleashes-Netanyahu-Israel-birthday-tirade.html",
+      "title": "Trump says US-Iran deal will keep Strait of Hormuz 'permanently toll-free'; nuclear talks set for Friday in Switzerland",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-us-iran-deal-will-keep-strait-of-hormuz-permanently-toll-free-nuclear-talks-set-for-friday-in-switzerland/articleshow/131731482.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-15T02:39:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "In the chaotic hours before Trump's Iran deal, Netanyahu had other priorities",
+      "url": "https://www.abc.net.au/news/2026-06-15/donald-trump-benjamin-netanyahu-at-odds-hours-before-iran-deal-/106797858",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-15T02:07:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump moves toward reducing US involvement in Iran war, faces significant risks",
+      "url": "https://cryptobriefing.com/trump-iran-war-crypto-market-risks/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-15T02:05:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump veers toward exit in Iran war but risks loom",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-veers-toward-exit-in-iran-war-but-risks-loom/articleshow/131731118.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-15T01:44:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran, U.S. have a deal of sorts. What happens next?",
+      "url": "https://www.cbc.ca/news/world/iran-us-war-agreement-mou-9.7235197",
+      "source": "CBC News",
+      "publishedAt": "2026-06-15T01:40:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Celebrates While America Capitulates",
+      "url": "https://www.theatlantic.com/ideas/2026/06/trump-iran-deal/687547/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-06-15T01:32:45Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump announces peace deal with Iran, declares Strait of Hormuz will reopen: 'Let the oil flow!'",
+      "url": "https://www.foxnews.com/politics/trump-announces-peace-deal-iran-declares-strait-hormuz-reopen-let-oil-flow",
+      "source": "Fox News",
+      "publishedAt": "2026-06-15T01:13:44Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump announces peace deal with Iran, ending hostilities",
+      "url": "https://www.ewtnnews.com/world/us/trump-announces-peace-deal-with-iran-ending-hostilities",
+      "source": "Ewtnnews.com",
+      "publishedAt": "2026-06-15T00:44:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israelis slam proposed US-Iran peace deal as a ‘Bad Deal,’ say it fails to address security concerns",
+      "url": "https://nypost.com/2026/06/14/world-news/israelis-slam-us-iran-peace-deal-as-a-bad-deal/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-15T00:19:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US and Iran announce deal to end military operations as Trump says 'let the oil flow!'",
+      "url": "https://biztoc.com/x/54bd7c1693b63310",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-15T00:17:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How Israel Planned the Gaza Genocide Decades Ago",
+      "url": "https://original.antiwar.com/cook/2026/06/14/how-israel-planned-the-gaza-genocide-decades-ago/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-06-15T00:00:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "With One Strike, Netanyahu Tries To Kill Two Peace Deals",
+      "url": "https://original.antiwar.com/trita-parsi/2026/06/14/with-one-strike-netanyahu-tries-to-kill-two-peace-deals/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-06-15T00:00:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump, Iran Say Framework Agreement Reached To End War",
+      "url": "https://www.rferl.org/a/trump-iran-peace-agreement-pakistan-israel-lebanon/33780270.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-06-14T23:40:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Royal Marines capture tanker from Putin's 'shadow fleet'... just in time for Starmer to boast about it at G7",
+      "url": "https://www.dailymail.com/news/article-15899465/Royal-Marines-capture-tanker-Putins-shadow-fleet-just-time-Starmer-boast-G7.html",
       "source": "Dailymail.com",
-      "publishedAt": "2026-06-14T19:57:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Wants Reporters to Know He’s Very Mad at Netanyahu",
-      "url": "https://www.motherjones.com/politics/2026/06/trump-netanyahu-iran-deal-lebanon/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-06-14T19:32:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel fears Trump weary of ‘highly suspicious’ Netanyahu and could 'flip' amid Iran deal: analyst",
-      "url": "https://www.foxnews.com/world/israel-fears-trump-weary-highly-suspicious-netanyahu-could-flip-amid-iran-deal-analyst",
-      "source": "Fox News",
-      "publishedAt": "2026-06-14T19:16:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "‘Why Did Bibi Have to Do a F*cking Attack?!’ Trump Rages at Netanyahu Over Israel Strikes On Beirut — Says He’s ‘So Pissed Off’",
-      "url": "https://freerepublic.com/focus/f-chat/4383752/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-06-14T19:08:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump criticises Netanyahu after Israeli strikes on Beirut derail Iran peace deal",
-      "url": "https://www.abc.net.au/news/2026-06-15/iran-us-peace-deal-sunday-donald-trump/106796760",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-14T19:00:05Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump says US and Iran are close to a deal as Israel’s attack on Beirut complicates talks",
-      "url": "https://cryptobriefing.com/trump-us-iran-deal-israel-beirut-crypto/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-14T18:19:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF announces elimination of Hezbollah commander behind murder of 5 American soldiers",
-      "url": "https://www.foxnews.com/world/idf-announces-elimination-hezbollah-commander-behind-murder-5-american-soldiers",
-      "source": "Fox News",
-      "publishedAt": "2026-06-14T18:19:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Report: Trump offered Iran more concessions after Beirut strike",
-      "url": "https://www.israelnationalnews.com/news/428628",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-14T18:13:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US-Israeli ‘good cop, bad cop’ tactics outdated – Iran’s chief negotiator",
-      "url": "https://www.rt.com/news/641527-us-israel-good-bad-cop/",
-      "source": "RT",
-      "publishedAt": "2026-06-14T17:54:59Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "‘Why Did Bibi Have to Do a F*cking Attack?!’ Trump Rages at Netanyahu Over Israel Strikes On Beirut — Says He’s ‘So Pissed Off’",
-      "url": "https://www.mediaite.com/media/news/why-did-bibi-have-to-do-a-fcking-attack-trump-rages-at-netanyahu-over-israel-strikes-on-beirut-says-hes-so-pissed-off/",
-      "source": "Mediaite",
-      "publishedAt": "2026-06-14T17:14:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Tells Israel to Stop as Lebanon Attacks Risk Iran Deal",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-tells-israel-to-stop-as-lebanon-attacks-risk-iran-deal",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-14T16:38:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Warns Israel And Iran Not To 'Blow It' After New Strikes Threaten Emerging Ceasefire Deal",
-      "url": "https://www.huffpost.com/entry/iran-war-trump-warns-israel-iran-not-to-blow-it_n_6a2ed2fce4b08741f51b3f61",
-      "source": "HuffPost",
-      "publishedAt": "2026-06-14T16:20:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Secretary of War Pete Hegseth says Israel’s Beirut strike won’t disrupt Iran deal plans",
-      "url": "https://cryptobriefing.com/hegseth-israel-strike-iran-deal/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-14T15:48:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump condemns Israel attack on Beirut, says Iran deal still close",
-      "url": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-14T15:22:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "There Is No Bigger Trump Lie Right Now Than Him Saying the Iran War Is Good for You—or the World",
-      "url": "https://www.commondreams.org/opinion/trump-iran-war-lies",
-      "source": "Common Dreams",
-      "publishedAt": "2026-06-14T14:57:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "No point in US talks after Israeli strike in Beirut – Iran",
-      "url": "https://punchng.com/no-point-in-us-talks-after-israeli-strike-in-beirut-iran/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-14T14:50:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Top Iranian official says Israel’s Dahiyeh strikes show US can’t or won’t live up to deal",
-      "url": "https://freerepublic.com/focus/f-news/4383708/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-06-14T14:44:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "publishedAt": "2026-06-14T21:22:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "A top NATO commander says the West can no longer count on its homelands staying safe in future wars",
@@ -199,70 +199,6 @@
       "url": "https://www.channelnewsasia.com/east-asia/north-korea-nuclear-status-irreversible-kcna-6181871",
       "source": "CNA",
       "publishedAt": "2026-06-14T01:52:53Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea declares denuclearization matter irreversibly terminated",
-      "url": "https://cryptobriefing.com/north-korea-denuclearization-irreversibly-terminated/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-13T22:05:14Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Puffy Putin peril: The West’s latest attempt to scare itself",
-      "url": "https://www.rt.com/news/641503-puffy-putin-west-scare/",
-      "source": "RT",
-      "publishedAt": "2026-06-13T17:43:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Pete Hegseth's D-Day Remarks Prove the US Is No Longer an Ally to European Democracy",
-      "url": "https://fpif.org/pete-hegseths-invasions/",
-      "source": "Fpif.org",
-      "publishedAt": "2026-06-13T12:19:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine's defense firms split themselves up to avoid being a big target. Europe now needs to do the same, they say.",
-      "url": "https://www.businessinsider.com/ukraine-splits-weapons-making-warns-europe-must-do-the-same-2026-6#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-06-13T11:55:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Starmer Refuses to Resign From Office After Defense Minister Jumps Ship",
-      "url": "https://www.breitbart.com/europe/2026/06/13/starmer-refuses-to-resign-from-office-after-defence-minister-jumps-ship/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-06-13T11:35:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why India wants German submarines – and what Pakistan and China have to do with it",
-      "url": "https://www.dw.com/en/why-india-wants-german-submarines-and-what-pakistan-and-china-have-to-do-with-it/a-77503931",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-13T10:18:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO weighs options to defend Europe as US plans to cut forces",
-      "url": "https://www.hurriyetdailynews.com/nato-weighs-options-to-defend-europe-as-us-plans-to-cut-forces-223237",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-13T06:22:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Pivot to Beijing: How Xi Jinping Became the World’s Indispensable Leader",
-      "url": "https://english.khabarhub.com/2026/13/553370/",
-      "source": "Khabarhub.com",
-      "publishedAt": "2026-06-13T00:15:19Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

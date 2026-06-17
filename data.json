@@ -1,44 +1,196 @@
 {
-  "updated": "2026-06-17T10:53:16Z",
-  "count": 29,
+  "updated": "2026-06-17T15:25:36Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "From JCPOA exit to the 2026 deal: How US-Iran ties soured under Trump",
+      "url": "https://www.aljazeera.com/news/2026/6/16/from-jcpoa-exit-to-the-2026-deal-how-us-iran-ties-soured-under-trump",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-16T15:21:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘I’m Not Happy’: Trump Rebukes Israel, Directly Calls Out IDF",
+      "url": "https://dailycaller.com/2026/06/16/donald-trump-israel-benjamin-netanyahu-idf-lebanon-hezbollah-iran-war/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-06-16T14:59:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US intel assesses Iran can shut down the Strait of Hormuz at will from now on | CNN Politics",
+      "url": "https://www.cnn.com/2026/06/16/politics/us-intel-assessment-iran-shut-strait-hormuz",
+      "source": "CNN",
+      "publishedAt": "2026-06-16T14:51:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Betrayal of the Iranian People",
+      "url": "https://www.theatlantic.com/international/2026/06/iran-war-humanitarian-crisis/687559/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-06-16T14:40:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "China, North Korea Draw Closer Amid a Weakening US",
+      "url": "https://www.globalresearch.ca/china-north-korea-draw-closer-weakening-us/5930008",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-16T14:12:54Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump Criticizes Israel Over Lebanon at G7 Summit in France",
+      "url": "https://biztoc.com/x/697c50af5bf35337",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-16T14:07:04Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump's Ceasefire Definition Sounds Wrong. History Sadly Suggests Otherwise.",
+      "url": "https://reason.com/2026/06/16/trumps-ceasefire-definition-sounds-wrong-history-sadly-suggests-otherwise/",
+      "source": "Reason",
+      "publishedAt": "2026-06-16T14:00:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘It’s just a Big Band-Aid’: Fragile US‑Iran truce masks deep faultlines",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/06/16/its-just-a-big-band-aid-fragile-usiran-truce-masks-deep-faultlines/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-16T13:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Back to Bad Beginnings: The Iran-US Memorandum of Understanding",
+      "url": "https://www.globalresearch.ca/iran-us-memorandum-understanding/5930033",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-16T13:29:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon",
+      "url": "https://freerepublic.com/focus/f-news/4383993/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-16T13:28:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Video: Mearsheimer, Karaganov, and the Return of the Unthinkable Nuclear Option in the European Strategic Theatre",
+      "url": "https://www.globalresearch.ca/mearsheimer-karaganov-nuclear-option-european-strategic-theatre/5929962",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-16T13:23:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Delayed Drone Technology Deal Puts Polish MiG-29 Transfer to Ukraine on Hold",
+      "url": "https://theaviationist.com/2026/06/16/polish-mig-29-transfer-to-ukraine-on-hold/",
+      "source": "Theaviationist.com",
+      "publishedAt": "2026-06-16T13:13:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Geneva to host Iran-US deal event: What other pacts have been signed there?",
+      "url": "https://www.aljazeera.com/news/2026/6/16/geneva-to-host-iran-us-deal-event-what-other-pacts-have-been-signed-there",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-16T13:05:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran, Trump have a common problem in their deal to end the war: Israel",
+      "url": "https://fortune.com/2026/06/16/iran-us-deal-israel-lebanon-obstacle-ceasefire/",
+      "source": "Fortune",
+      "publishedAt": "2026-06-16T12:57:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Says Netanyahu Has to Be 'More Responsible With Respect to Lebanon'",
+      "url": "https://time.com/article/2026/06/16/trump-netanyahu-israel-warning-hezbollah-us-iran-peace-deal/",
+      "source": "Time",
+      "publishedAt": "2026-06-16T12:48:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Carney tells Zelenskyy the 'tide is turning' in war, announces new sanctions against Russia",
+      "url": "https://nationalpost.com/news/carney-tells-zelenskyy-the-tide-is-turning-in-war-announces-new-sanctions-against-russia",
+      "source": "National Post",
+      "publishedAt": "2026-06-16T12:40:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "G7 allies scramble to put Ukraine back atop Donald Trump's agenda as war drags on",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/g7-allies-scramble-to-put-ukraine-back-atop-trumps-agenda-as-war-drags-on/articleshow/131771927.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-16T12:17:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Day 1,574 of WW3. Moscow double-taps rescue workers in Kharkiv, destroys a post office sorting center, and tries to burn down a thousand-year old cathedral, but calling russians \"orcs\" is somehow dehumanizing. This is your Tuesday Ukraine War thread [News]",
+      "url": "https://www.fark.com/comments/14100896/Day-1574-of-WW3-Moscow-double-taps-rescue-workers-in-Kharkiv-destroys-a-post-office-sorting-center-tries-to-burn-down-a-thousand-year-old-cathedral-but-calling-russians-orcs-is-somehow-dehumanizing-This-is-your-Tuesday-Ukraine-War-thread",
+      "source": "Fark.com",
+      "publishedAt": "2026-06-16T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Deal States 'Loud And Clear' Iran Won't Have Nuclear Weapons, Trump Says",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260616-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-16T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iranian Foreign Minister: New Round Of Talks To Begin On June 19",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260616-rferl07.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-16T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran Warns Israel Over Lebanon Strikes",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260616-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-16T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "How Germany and Poland rebooted relations 35 years ago",
+      "url": "https://www.dw.com/en/how-germany-and-poland-rebooted-relations-35-years-ago/a-77576779",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-16T11:52:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Has America Lost The Strategic Game In The South China Sea?",
+      "url": "https://freerepublic.com/focus/f-chat/4383976/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-16T11:51:20Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
     {
       "title": "Israel Has a Plan to Keep Calling Its Own Shots",
       "url": "http://foreignpolicy.com/2026/06/16/israel-netanyahu-trump-iran-deal-war-lebanon-deal-shots/",
       "source": "Foreign Policy",
       "publishedAt": "2026-06-16T10:47:37Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Deal States 'Loud And Clear' Iran Won't Have Nuclear Weapons, Trump Says",
-      "url": "https://www.rferl.org/a/trump-deal-iran-nuclear-weapons/33782189.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-06-16T10:38:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran says talks on final US deal to begin this week",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-talks-on-final-us-deal-to-begin-this-week/articleshow/131768443.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-16T10:36:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says 'all hell will rain down' on Iran if they get a nuclear weapon under the terms of deal and slams claims US will have to pay large sums to Tehran",
-      "url": "https://www.dailymail.com/news/article-15903821/Trump-says-hell-rain-Iran-nuclear-weapon-terms-deal-slams-claims-US-pay-large-sums-Tehran.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-16T10:34:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump is ‘not happy’ with Israel over Lebanon strikes amid Iran peace deal talks",
-      "url": "https://nypost.com/2026/06/16/us-news/trump-is-not-happy-with-israel-over-lebanon-strikes-amid-iran-peace-deal-talks/",
-      "source": "New York Post",
-      "publishedAt": "2026-06-16T10:33:20Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -51,36 +203,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump: 'Israel should let Syria take care of Hezbollah, they'd do a better job'",
-      "url": "https://www.israelnationalnews.com/flashes/687885",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-16T10:09:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran FM says ending war including in Lebanon 'most important issue' in US deal",
-      "url": "https://www.hurriyetdailynews.com/iran-fm-says-ending-war-including-in-lebanon-most-important-issue-in-us-deal-223342",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-16T09:20:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "G7 leaders open summit talks on Ukraine and the Middle East as Zelenskyy joins in France",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/g7-leaders-open-summit-talks-on-ukraine-and-the-middle-east-as-zelenskyy-joins-in-france/articleshow/131765551.cms",
       "source": "The Times of India",
       "publishedAt": "2026-06-16T08:53:58Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran FM says ending war including in Lebanon 'most important issue' in US deal",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-fm-says-ending-war-including-in-lebanon-most-important-issue-in-us-deal/articleshow/131765771.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-16T08:42:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Moscow slams NATO member’s test of POW camp for Russians",
@@ -91,58 +219,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "World reacts as Iran and US reach tentative deal to end war",
-      "url": "https://thechronicle.com.gh/world-reacts-as-iran-and-us-reach-tentative-deal-to-end-war/",
-      "source": "Thechronicle.com.gh",
-      "publishedAt": "2026-06-16T08:11:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Insists Iran Deal Will Hold",
-      "url": "https://www.rigzone.com/news/wire/trump_insists_iran_deal_will_hold-16-jun-2026-183927-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-06-16T07:45:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Every night these women pledge allegiance to a regime accused of brutalising them",
-      "url": "https://www.abc.net.au/news/2026-06-16/women-of-iran-pro-khamenei-and-regime-inside-tehran/106751552",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-16T07:00:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israelis Express Anger and Anxiety Over New U.S.-Iran Deal",
-      "url": "https://www.naturalnews.com/2026-06-16-israelis-angry-anxious-new-us-iran-deal.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-16T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Are Dubai holidays finally back on - and will flights get cheaper? Experts predict what the fragile end to the Middle East war will mean for tourists",
-      "url": "https://www.dailymail.com/travel/article-15900359/dubai-holidays-flights-cheaper-experts-predict-end-middle-east-war-tourists.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-16T05:45:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "G7 leaders open summit talks in France on Ukraine and the Middle East",
       "url": "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit",
       "source": "NPR",
       "publishedAt": "2026-06-16T05:37:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "G7 leaders open summit talks on Ukraine and West Asia as Zelenskyy joins in France",
-      "url": "https://www.thehindubusinessline.com/news/world/g7-leaders-open-summit-talks-on-ukraine-and-west-asia-as-zelenskyy-joins-in-france/article71107712.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-16T05:15:57Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -153,46 +233,6 @@
       "publishedAt": "2026-06-16T04:00:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Trump Arrives At G7 Summit Looking For Momentum After Announcing Deal To End Iran War",
-      "url": "https://www.huffpost.com/entry/trump-arrive-g7-summit-iran-deal_n_6a30c78ae4b07679090f6d54",
-      "source": "HuffPost",
-      "publishedAt": "2026-06-16T03:51:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "'Victory' or 'peace': Russian Orthodox believers question Church's war stance",
-      "url": "https://freerepublic.com/focus/f-religion/4383942/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-06-16T02:08:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "COLONEL RICHARD KEMP: For all the bravado from Sir Keir, this tanker operation was hardly the D-Day landings",
-      "url": "https://www.dailymail.com/news/article-15899675/COLONEL-RICHARD-KEMP-bravado-Sir-Keir-tanker-operation-D-Day-landings.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-16T00:00:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Keir Starmer meets with Donald Trump for the first time since the US President made 'no Churchill' dig about the PM",
-      "url": "https://www.dailymail.com/news/article-15901991/Keir-Starmer-meets-Donald-Trump-Churchill-dig.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-15T22:02:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Pressure piled on Russia as Prime Minister steps up support to power Ukraine at G7 Summit",
-      "url": "https://www.gov.uk/government/news/pressure-piled-on-russia-as-prime-minister-steps-up-support-to-power-ukraine-at-g7-summit",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-06-15T21:30:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "‘Trump has sold us out’: Israelis react with anger and anxiety to new Iran deal",

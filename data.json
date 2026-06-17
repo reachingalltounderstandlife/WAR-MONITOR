@@ -1,7 +1,167 @@
 {
-  "updated": "2026-06-16T20:48:59Z",
-  "count": 32,
+  "updated": "2026-06-17T04:00:41Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Has America Lost The Strategic Game In The South China Sea?",
+      "url": "https://www.americanthinker.com/articles/2026/06/has_america_lost_the_strategic_game_in_the_south_china_sea.html",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-06-16T04:00:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Trump Arrives At G7 Summit Looking For Momentum After Announcing Deal To End Iran War",
+      "url": "https://www.huffpost.com/entry/trump-arrive-g7-summit-iran-deal_n_6a30c78ae4b07679090f6d54",
+      "source": "HuffPost",
+      "publishedAt": "2026-06-16T03:51:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Netanyahu and Trump on collision course as US, Iran agree to halt war",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/netanyahu-and-trump-on-collision-course-as-us-iran-agree-to-halt-war/articleshow/131757503.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-16T02:26:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Pyrrhic victory': Iran war leaves no clear winners, experts say",
+      "url": "https://economictimes.indiatimes.com/news/defence/pyrrhic-victory-iran-war-leaves-no-clear-winners-experts-say/articleshow/131757519.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-16T02:25:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "'Victory' or 'peace': Russian Orthodox believers question Church's war stance",
+      "url": "https://freerepublic.com/focus/f-religion/4383942/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-16T02:08:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon's Abandoned Lives",
+      "url": "https://www.bbc.co.uk/programmes/p0ns3607",
+      "source": "BBC News",
+      "publishedAt": "2026-06-16T00:30:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "COLONEL RICHARD KEMP: For all the bravado from Sir Keir, this tanker operation was hardly the D-Day landings",
+      "url": "https://www.dailymail.com/news/article-15899675/COLONEL-RICHARD-KEMP-bravado-Sir-Keir-tanker-operation-D-Day-landings.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-16T00:00:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How Israelis are responding to Trump's Iran peace plan",
+      "url": "https://www.pbs.org/newshour/show/how-israelis-are-responding-to-trumps-iran-peace-plan",
+      "source": "PBS",
+      "publishedAt": "2026-06-15T22:50:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Geart Deal’ to end war to be signed on June 19",
+      "url": "https://thehillstimes.in/international/geart-deal-to-end-war-to-be-signed-on-june-19",
+      "source": "Thehillstimes.in",
+      "publishedAt": "2026-06-15T22:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Keir Starmer meets with Donald Trump for the first time since the US President made 'no Churchill' dig about the PM",
+      "url": "https://www.dailymail.com/news/article-15901991/Keir-Starmer-meets-Donald-Trump-Churchill-dig.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-15T22:02:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Netanyahu calls Iran peace deal ‘Trump’s decision’ — but defends it after anger from Israeli pols",
+      "url": "https://nypost.com/2026/06/15/world-news/netanyahu-calls-iran-peace-deal-trumps-decision-but-defends-it/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-15T21:45:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu and Trump on collision course as U.S., Iran agree to halt war",
+      "url": "https://japantoday.com/category/features/opinions/analysis-netanyahu-and-trump-on-collision-course-as-us-iran-agree-to-halt-war1",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-15T21:38:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Initial deal to end U.S.-Iran war moves toward formal signing despite lingering questions",
+      "url": "https://japantoday.com/category/world/defense-minister-says-israel-won%E2%80%99t-withdraw-from-land-seized-in-lebanon-syria-and-gaza",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-15T21:35:44Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "News of U.S.-Iran peace deal sparks anger among Israelis, who lash out at Netanyahu",
+      "url": "https://japantoday.com/category/world/interim-us-iran-peace-deal-sparks-anger-among-israelis-who-lash-out-at-netanyahu",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-15T21:34:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pressure piled on Russia as Prime Minister steps up support to power Ukraine at G7 Summit",
+      "url": "https://www.gov.uk/government/news/pressure-piled-on-russia-as-prime-minister-steps-up-support-to-power-ukraine-at-g7-summit",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-06-15T21:30:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia's Biggest Offensive Push of 2026⚔️ 681 Missiles & Drones Hit Ukraine MS 2026.06.15",
+      "url": "https://freerepublic.com/focus/f-chat/4383904/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-15T21:26:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US's peace deal with Iran in jeopardy as Netanyahu refuses to withdraw Israeli troops from southern Lebanon",
+      "url": "https://www.dailymail.com/news/article-15902447/USs-peace-deal-Iran-jeopardy-Netanyahu-refuses-withdraw-Israeli-troops-southern-Lebanon.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-15T21:20:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "An Understanding That a Deal Might Happen",
+      "url": "https://www.theatlantic.com/national-security/2026/06/memorandum-understanding-deal-might-happen/687554/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-06-15T21:12:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S.-Iran Peace Deal Arrives Just in Time for G-7 Summit",
+      "url": "http://foreignpolicy.com/2026/06/15/us-iran-peace-deal-mou-trump-g7-summit-israel-lebanon/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-06-15T20:56:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Belarus rules out military action against Ukraine as Lukashenko pursues crypto-friendly pivot",
+      "url": "https://cryptobriefing.com/belarus-rules-out-ukraine-military-action-crypto/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-15T20:54:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "EU officially launches Ukraine and Moldova accession process",
       "url": "https://www.aljazeera.com/news/2026/6/15/eu-officially-launches-ukraine-and-moldova-accession-processes",
@@ -9,14 +169,6 @@
       "publishedAt": "2026-06-15T20:46:46Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Monsters Far and Near",
-      "url": "https://freerepublic.com/focus/f-news/4383900/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-06-15T20:26:47Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Trump touts Iran deal and Ukraine ambition as he arrives at G7",
@@ -35,180 +187,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Can Washington force Israel to comply with a U.S.-Iranian peace deal it rejects?",
-      "url": "https://www.cbc.ca/news/world/united-states-iran-peace-agreement-9.7235703",
-      "source": "CBC News",
-      "publishedAt": "2026-06-15T19:58:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran and US agree peace deal roadmap: What is and isn’t known",
-      "url": "https://www.rt.com/news/641641-iran-us-peace-deal/",
-      "source": "RT",
-      "publishedAt": "2026-06-15T19:04:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The MoU Is Not the Final ‘Deal’",
-      "url": "https://www.antiwar.com/blog/2026/06/15/the-mou-is-not-the-final-deal/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-06-15T19:01:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "From Hormuz to Houston: The U.S. Takeover of Global Energy Flows Ramps Up",
-      "url": "https://oilprice.com/Energy/Crude-Oil/From-Hormuz-to-Houston-The-US-Takeover-of-Global-Energy-Flows-Ramps-Up.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-06-15T19:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iranian Americans plan protests as soccer team prepares for World Cup opener",
-      "url": "https://cryptobriefing.com/iranian-americans-protests-world-cup-crypto/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-15T18:59:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel launches over 130 projectiles into Lebanon as US-Iran deal framework takes shape",
-      "url": "https://cryptobriefing.com/israel-lebanon-strikes-us-iran-crypto-impact/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-15T18:56:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Truce Between the U.S. and Iran Was the Easy Part",
-      "url": "http://foreignpolicy.com/2026/06/15/iran-united-states-trump-truce-war-israel-nuclear/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-06-15T18:46:25Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Irish Times view on the US-Iran deal: Trump accepts defeat",
-      "url": "https://www.irishtimes.com/opinion/editorials/2026/06/15/the-irish-times-view-on-the-us-iran-deal-trump-accepts-defeat/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-06-15T18:33:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "MoU is less: Trump's birthday breakthrough has strings attached",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/mou-is-less-trumps-birthday-breakthrough-has-strings-attached/articleshow/131752796.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-15T18:24:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Straitjacket of Washington: Limits of US unilateralism are evident in consequences of its deal with Iran",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/straitjacket-of-washington-limits-of-us-unilateralism-are-evident-in-consequences-of-its-deal-with-iran/articleshow/131752771.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-15T18:16:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Germany misses Nazism – Lavrov",
-      "url": "https://www.rt.com/russia/641625-germany-misses-nazism-lavrov/",
-      "source": "RT",
-      "publishedAt": "2026-06-15T18:02:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Iran war’s end is being greatly exaggerated",
-      "url": "https://www.vox.com/politics/491939/iran-ceasefire-trump",
-      "source": "Vox",
-      "publishedAt": "2026-06-15T17:56:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Sure?: Trump Announces Preliminary Deal To End Iran War",
-      "url": "https://hiphopwired.com/3057157/trump-announces-preliminary-deal-to-end-iran-war/",
-      "source": "Hip-Hop Wired",
-      "publishedAt": "2026-06-15T17:46:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon’s displaced return as ceasefire raises uncertain hopes",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/06/15/lebanons-displaced-return-as-ceasefire-raises-uncertain-hopes/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-06-15T17:45:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Secretary of State for Defence on Russian Shadow Fleet interdiction",
-      "url": "https://www.gov.uk/government/speeches/secretary-of-state-for-defence-on-russian-shadow-fleet-interdiction",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-06-15T17:42:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump could get frosty G7 reception amid confusion over Iran ceasefire",
-      "url": "https://www.abc.net.au/news/2026-06-16/mixed-messages-from-trump-and-iran-on-peace-deal-as-g7-begins/106801110",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-15T17:25:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Interim US-Iran peace deal sparks anger among Israelis, who lash out at Netanyahu",
-      "url": "https://www.yahoo.com/news/politics/articles/interim-us-iran-peace-deal-165711186.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-15T16:57:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The nukes stay: China and North Korea are building something bigger",
       "url": "https://www.rt.com/news/641622-china-north-korea-nukes-stay/",
       "source": "RT",
       "publishedAt": "2026-06-15T16:48:54Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Fresh humiliation for Putin as nuke-capable supersonic bomber crashes down in fireball",
-      "url": "https://www.dailymail.com/news/article-15901371/Fresh-humiliation-Putin-nuke-capable-supersonic-bomber-crashes-fireball.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-15T15:40:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Changing Operational Environment. Radical Changes in Almost every Aspect of War",
-      "url": "https://www.globalresearch.ca/changing-operational-environment/5929944",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-06-15T15:01:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine to start EU membership talks, ushering in years of reforms while fighting Russia’s war",
-      "url": "https://abcnews.com/International/wireStory/ukraine-start-eu-membership-talks-ushering-years-reforms-133889791",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-15T14:56:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Shouldn’t Canadians at Least Debate Expanding War Against Russia?",
-      "url": "https://www.antiwar.com/blog/2026/06/15/shouldnt-canadians-at-least-debate-expanding-war-against-russia/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-06-15T14:26:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran War: Iran and US Announce Signing of Memorandum of Understanding for Friday, Amid Doubts About Status of Terms, Israel Sabotage; Iran Claims Blockade and Hostilities on All Front to End Monday Night",
@@ -233,30 +217,6 @@
       "publishedAt": "2026-06-15T07:30:50Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Japan Faces Growing Threat as North Korea's Nuclear Arsenal Expands",
-      "url": "https://newsonjapan.com/article/149652.php",
-      "source": "Newsonjapan.com",
-      "publishedAt": "2026-06-14T07:07:43Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea declares denuclearization irreversibly terminated, raising stakes for crypto security",
-      "url": "https://cryptobriefing.com/north-korea-denuclearization-crypto-security/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-14T02:14:36Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea says nuclear status 'irreversible': State news agency",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-nuclear-status-irreversible-kcna-6181871",
-      "source": "CNA",
-      "publishedAt": "2026-06-14T01:52:53Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

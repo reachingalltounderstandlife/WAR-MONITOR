@@ -1,38 +1,166 @@
 {
-  "updated": "2026-06-18T03:52:09Z",
-  "count": 33,
+  "updated": "2026-06-18T10:18:20Z",
+  "count": 32,
   "articles": [
     {
-      "title": "Iran says US war deal requires Israel to withdraw from Lebanon",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-says-us-war-deal-requires-israel-to-withdraw-from-lebanon/article71111828.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-17T02:56:56Z",
+      "title": "Benjamin Netanyahu, Israel's arch-survivor, set to face voter fury over Iran deal",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/benjamin-netanyahu-israels-arch-survivor-set-to-face-voter-fury-over-iran-deal/articleshow/131795470.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-17T10:14:41Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "White House talking points claim victories in initial Iran deal but often don't meet reality",
-      "url": "https://economictimes.indiatimes.com/news/defence/white-house-talking-points-claim-victories-in-initial-iran-deal-but-often-dont-meet-reality/articleshow/131784531.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-17T02:33:04Z",
+      "title": "Israel launches strikes on Lebanon despite Trump criticism, sending Bitcoin below $63K",
+      "url": "https://cryptobriefing.com/israel-lebanon-strikes-bitcoin-crypto-impact/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-17T10:10:05Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+      "url": "https://www.bbc.com/news/articles/c7vyn17g832o",
+      "source": "BBC News",
+      "publishedAt": "2026-06-17T10:01:42Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "G7 Leaders Back Trump's Plan To End Iran War That Faces Skepticism At Home",
+      "url": "https://www.huffpost.com/entry/g7-summit-trump-iran-deal_n_6a326d66e4b07b79d93c560c",
+      "source": "HuffPost",
+      "publishedAt": "2026-06-17T10:00:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IEA reports on oil market post-war as US and Iran prepare to sign peace deal",
+      "url": "https://cryptobriefing.com/iea-oil-market-us-iran-peace-deal/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-17T09:14:04Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran says the initial deal to end the war with US requires Israel to withdraw from Lebanon",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-says-the-initial-deal-to-end-the-war-with-us-requires-israel-to-withdraw-from-lebanon/articleshow/131784484.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-17T02:27:28Z",
+      "title": "Trump in Defeat",
+      "url": "https://www.theatlantic.com/national-security/2026/06/trump-defeat-iran-war/687566/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-06-17T09:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "G7 leaders demand ceasefire in Lebanon, welcome Iran deal",
+      "url": "https://www.channelnewsasia.com/world/us-iran-deal-g7-leaders-welcome-it-demand-ceasefire-lebanon-6189816",
+      "source": "CNA",
+      "publishedAt": "2026-06-17T08:45:56Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Elon Musk's AI tool Grok was used in strikes against Iran, Trump administration says",
-      "url": "https://economictimes.indiatimes.com/news/defence/elon-musks-ai-tool-grok-was-used-in-strikes-against-iran-trump-administration-says/articleshow/131784423.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-17T02:19:32Z",
+      "title": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
+      "url": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-17T07:24:12Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Tehran celebrates 'victory' over America ahead of deal agreement on Friday - as first Iranian oil tankers exit US blockade",
+      "url": "https://www.dailymail.com/news/article-15906591/Tehran-celebrates-victory-America-ahead-deal-agreement-Friday-Iranian-oil-tankers-exit-US-blockade.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-17T07:15:29Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Poland and Germany to sign scaled down defence deals",
+      "url": "https://www.thelocal.de/20260617/poland-and-germany-to-sign-scaled-down-defence-deals",
+      "source": "The Local Germany",
+      "publishedAt": "2026-06-17T07:07:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel launches fresh strikes on Lebanon despite Trump, G7 push",
+      "url": "https://www.hurriyetdailynews.com/several-israeli-strikes-hit-south-lebanon-state-media-223383",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-17T06:58:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Poland, Germany to sign scaled down defense deals",
+      "url": "https://www.hurriyetdailynews.com/poland-germany-to-sign-scaled-down-defense-deals-223372",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-17T06:26:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UK military investigates after Russian warship fires warning shots near yacht in the Channel",
+      "url": "https://abcnews.com/International/wireStory/uk-military-investigates-after-russian-warship-fires-warning-133927188",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-17T06:20:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Poland and Germany to sign scaled down defence deals",
+      "url": "https://www.channelnewsasia.com/world/poland-and-germany-sign-scaled-down-defence-deals-6189286",
+      "source": "CNA",
+      "publishedAt": "2026-06-17T06:02:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iranian tankers exit US blockade zone ahead of peace talks",
+      "url": "https://www.hurriyetdailynews.com/iranian-tankers-exit-us-blockade-zone-ahead-of-peace-talks-223369",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-17T06:00:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Section 224 and the Debate Over U.S.-Israel Security Cooperation",
+      "url": "https://www.naturalnews.com/2026-06-17-section-224-debate-over-us-israel-cooperation.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-17T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian tankers exit US blockade zone ahead of peace talks",
+      "url": "https://www.thejournal.ie/iran-oil-tankers-strait-of-hormuz-blockade-7072989-Jun2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-06-17T05:58:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Back to Bad Beginnings: The Iran-US Memorandum of Understanding",
+      "url": "https://www.counterpunch.org/2026/06/17/back-to-bad-beginnings-the-iran-us-memorandum-of-understanding/",
+      "source": "CounterPunch",
+      "publishedAt": "2026-06-17T05:55:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "South Korea president urges Trump to help make peace with North",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/south-korea-president-urges-trump-to-help-make-peace-with-north/articleshow/131786668.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-17T05:00:28Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Germany and Poland to sign a new defense deal as balance of power in Europe shifts",
+      "url": "https://abcnews.com/International/wireStory/germany-poland-sign-new-defense-deal-balance-power-133949912",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-17T04:32:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "The President is winning the geopolitical battle with China",
@@ -43,14 +171,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Report: Iran has launched night drones in Strait of Hormuz since deal with U.S.",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-06-17/ty-article-live/report-iran-has-launched-night-drones-in-strait-of-hormuz-since-deal-with-u-s/0000019e-d335-d2be-abbf-fbff52c60000",
-      "source": "Haaretz",
-      "publishedAt": "2026-06-17T02:11:50Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "South Korea's Lee asks Trump to lead peaceful diplomacy with North Korea",
       "url": "https://www.channelnewsasia.com/east-asia/south-korea-lee-jae-myung-donald-trump-lead-diplomacy-north-6188401",
       "source": "CNA",
@@ -59,92 +179,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Trump criticises Israel's tactics in Lebanon, says it is killing civilians",
-      "url": "https://www.channelnewsasia.com/world/trump-criticise-israel-strikes-lebanon-hezbollah-iran-peace-deal-6188651",
-      "source": "CNA",
-      "publishedAt": "2026-06-17T02:07:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Despite MOU: IRGC launching nightly drone strikes on ships in Hormuz",
-      "url": "https://www.israelnationalnews.com/news/428746",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-17T01:55:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "I didn’t like that Netanyahu attacked over a very minor drone attack— they’re attack was too much— and Without the United States, without me, there would be NO ISRAEL....great relationship with Bibi but now he has to be more responsible with Lebanon",
-      "url": "https://freerepublic.com/focus/f-chat/4384083/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-06-17T01:39:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Brent climbs to $79.43 as traders weigh durability of US-Iran peace deal",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-climbs-to-79-43-as-traders-weigh-durability-of-us-iran-peace-deal/articleshow/131783926.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-17T01:12:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U. S-Iran deal to collapse? Top Tehran diplomat sounds warning related to reopening of Strait of Hormuz, resumption of all-out war",
-      "url": "https://economictimes.indiatimes.com/news/international/us/u-s-iran-deal-to-collapse-top-tehran-diplomat-sounds-warning-related-to-reopening-of-strait-of-hormuz-resumption-of-all-out-war/articleshow/131783842.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-17T01:03:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Republican-led Senate rejects resolution to limit Trump’s Iran strikes",
-      "url": "https://cryptobriefing.com/senate-rejects-iran-war-powers-resolution/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-17T00:21:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US President Trump criticises Israel's tactics in Lebanon",
-      "url": "https://www.rte.ie/news/middle-east/2026/0617/1578838-trump-israel-us/",
-      "source": "RTE",
-      "publishedAt": "2026-06-17T00:14:47Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump criticises Israel's Lebanon bombing tactics",
-      "url": "https://www.rte.ie/news/middle-east/2026/0617/1578838-israel-lebanon/",
-      "source": "RTE",
-      "publishedAt": "2026-06-17T00:14:47Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Hey, POTUS, The Point of the War Was What Again?",
       "url": "https://original.antiwar.com/david_stockman/2026/06/16/hey-potus-the-point-of-the-war-was-what-again/",
       "source": "Antiwar.com",
       "publishedAt": "2026-06-17T00:00:12Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "The Fragile US-Iran MOU and the Limits of the Trump-Netanyahu Partnership",
-      "url": "https://original.antiwar.com/timothy_hopper/2026/06/16/the-fragile-us-iran-mou-and-the-limits-of-the-trump-netanyahu-partnership/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-06-17T00:00:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump’s Iran truce marks a defeat for American power",
-      "url": "https://www.rt.com/news/641683-trumps-iran-truce-marks-defeat/",
-      "source": "RT",
-      "publishedAt": "2026-06-16T23:19:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Elon Musk Can Join Up With Ukraine Forces To Shoot Down Iran’s Drones",
@@ -171,60 +211,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Russian warship fired warning shots near U.K.-registered yacht in English Channel",
-      "url": "https://www.cbc.ca/news/world/russian-warship-warning-shots-yacht-english-channel-9.7237627",
-      "source": "CBC News",
-      "publishedAt": "2026-06-16T20:39:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin wanted to make Russia great again. Instead, Ukraine is the new rising power in Europe",
-      "url": "https://theconversation.com/putin-wanted-to-make-russia-great-again-instead-ukraine-is-the-new-rising-power-in-europe-284827",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-06-16T20:07:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian Warship Fires Warning Shots Near British Yacht",
-      "url": "https://www.insurancejournal.com/news/international/2026/06/16/874011.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-06-16T19:14:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump: History’s greatest choker",
       "url": "https://www.israelnationalnews.com/news/428734",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-06-16T19:07:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Russian Frigate Opens Fire With Warning Shots in the English Channel",
-      "url": "https://theaviationist.com/2026/06/16/russian-frigate-opens-fire-with-warning-shots-in-the-english-channel/",
-      "source": "Theaviationist.com",
-      "publishedAt": "2026-06-16T18:52:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Canada-Ukraine Defense Ties Fit Policy of Escalating Conflict From Overseas - Ambassador",
-      "url": "https://sputnikglobe.com/20260616/canada-ukraine-defense-ties-fit-policy-of-escalating-conflict-from-overseas---ambassador-1124321070.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-06-16T18:03:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Baltics turn precarious geography into a focus on defense and resilience",
-      "url": "https://www.poynter.org/fact-checking/2026/how-lithuania-latvia-and-estonia-prepare-for-russia/",
-      "source": "Poynter",
-      "publishedAt": "2026-06-16T17:41:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Optics of peace first, details later: The US-Iran 60-day challenge",

@@ -1,7 +1,111 @@
 {
-  "updated": "2026-06-18T15:21:05Z",
-  "count": 35,
+  "updated": "2026-06-18T20:23:52Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "Russia wants to reset Persian Gulf security – Can it?",
+      "url": "https://www.rt.com/news/641749-russia-gulf-security-reset/",
+      "source": "RT",
+      "publishedAt": "2026-06-17T19:56:13Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Trump’s astonishing betrayal of Israel’s security imperatives",
+      "url": "https://www.israelnationalnews.com/news/428798",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-17T19:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Deadly UAV strike on bus shows Ukraine trying to drag Belarus into conflict – experts to RT (VIDEOS)",
+      "url": "https://www.rt.com/russia/641748-ukrainian-drone-attack-bus-belarusian-children-experts-to-rt/",
+      "source": "RT",
+      "publishedAt": "2026-06-17T19:28:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Has Trump achieved his goals in the war with Iran?",
+      "url": "https://www.rte.ie/news/world/2026/0617/1578992-trump-war-goals/",
+      "source": "RTE",
+      "publishedAt": "2026-06-17T19:16:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Strait of Hormuz to reopen, U.S. to lift Iran sanctions under 14-point deal seeking to end Iran war",
+      "url": "https://www.nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513",
+      "source": "NBC News",
+      "publishedAt": "2026-06-17T18:26:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Aoun insists Lebanon-Israel talks are separate from Iran deal",
+      "url": "https://www.israelnationalnews.com/news/428789",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-17T18:05:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "There are still 4 Iran-war issues to be addressed before the economy can declare 'all-clear,' Mohamed El-Erian says",
+      "url": "https://www.businessinsider.com/iran-war-deal-trump-ceasefire-global-economy-marktes-israel-lebanon-2026-6#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-17T17:43:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Pentagon Might Win the Lottery",
+      "url": "https://www.theatlantic.com/national-security/2026/06/the-pentagon-might-win-the-lottery/687568/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-06-17T17:33:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Framework for the Iran Peace Deal Means Total Humiliation for Trump",
+      "url": "https://www.thenation.com/article/world/iran-peace-deal-trump/",
+      "source": "Thenation.com",
+      "publishedAt": "2026-06-17T17:22:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Middle East: Trump could restart Iran war if deal not signed",
+      "url": "https://www.dw.com/en/middle-east-trump-could-restart-iran-war-if-deal-not-signed/live-77593730",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-17T17:18:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IRAN ORDERS ISRAEL OUT OF LEBANON",
+      "url": "https://www.pbs.org/newshour/world/iran-says-the-deal-to-end-the-war-with-the-u-s-requires-israel-to-withdraw-from-lebanon",
+      "source": "PBS",
+      "publishedAt": "2026-06-17T17:00:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Israel has Iran MoU copy as deal nears; calls Iranians ‘tough negotiators’",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-israel-has-iran-mou-copy-as-deal-nears-calls-iranians-tough-negotiators/articleshow/131806542.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-17T16:33:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Says He Spoke With al-Shaara About Hezbollah: “He’s No Boy Scout and He Doesn’t Like Them”",
+      "url": "https://en.protothema.gr/2026/06/17/trump-says-he-spoke-with-al-shaara-about-hezbollah-hes-no-boy-scout-and-he-doesnt-like-them/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-06-17T16:30:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Nato member Finland lifts its ban on nuclear weapons in huge new blow to Putin",
       "url": "https://www.dailymail.com/news/article-15907881/Nato-member-Finland-lifts-ban-nuclear-weapons-huge-new-blow-Putin.html",
@@ -19,36 +123,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Hezbollah drone strike wounds five IDF soldiers in Lebanon escalation",
-      "url": "https://cryptobriefing.com/hezbollah-drone-strike-wounds-five-idf-soldiers-in-lebanon-escalation/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-17T14:26:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Senate Fails to Pass War Powers Act Ninth Time as Trump Touts US-Iran Deal",
       "url": "https://military.com/senate-one-vote-shy-of-passing-war-powers-act-as-trump-touts-us-iran-deal",
       "source": "Military.com",
       "publishedAt": "2026-06-17T13:54:23Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Trump Reaches His Limits in Iran",
-      "url": "https://peoplesreview.com.np/2026/06/17/trump-reaches-his-limits-in-iran/",
-      "source": "Peoplesreview.com.np",
-      "publishedAt": "2026-06-17T13:34:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "G7 Leaders Back Trump’s Plan to End Iran War That Faces Skepticism at Home",
-      "url": "https://military.com/g7-leaders-back-trumps-plan-to-end-iran-war-that-faces-skepticism-at-home",
-      "source": "Military.com",
-      "publishedAt": "2026-06-17T13:32:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Trump's War In Iran Is A Staggering Failure On Nearly Every Level",
@@ -59,36 +139,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Israeli air strikes on Lebanon continue despite US-Iran deal",
-      "url": "https://www.aljazeera.com/news/2026/6/17/israeli-air-strikes-on-lebanon-continue-threatening-us-iran-deal",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-17T13:15:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says he will resume bombing campaign if he does not like US-Iran deal",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/06/17/trump-says-he-will-resume-bombing-campaign-if-he-does-not-like-us-iran-deal/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-06-17T13:04:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Why Trump's Ukraine Peace Plan Faces Serious Obstacles",
       "url": "https://www.forbes.com/sites/andyjsemotiuk/2026/06/17/why-trumps-ukraine-peace-plan-faces-serious-obstacles/",
       "source": "Forbes",
       "publishedAt": "2026-06-17T12:57:12Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "“Good Cop, Bad Cop” Games of Washington and Tel Aviv: Iran-U.S. “Memorandum of Understanding”, Already Violated by Tel Aviv in South Lebanon",
-      "url": "https://www.globalresearch.ca/memorandum-understanding-iran-united-states-violated-tel-aviv/5930293",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-06-17T12:23:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Finland lifts nuclear weapons ban, deepens NATO integration",
@@ -107,68 +163,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump Says Syria Better Than Israel at Fighting Hezbollah - Bloomberg.com",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183931486",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-06-17T12:12:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu-Trump relations reach breaking point: Israeli media",
-      "url": "https://www.globalsecurity.org/wmd/library/news/israel/2026/06/israel-260617-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-17T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump admits world had just 'four weeks' of oil left without Iran deal",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260617-presstv04.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-17T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US military used Elon Musk's Grok AI in aerial assaults on Iran: Pentagon",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260617-presstv02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-17T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Day 1,575 of WW3. Ukrainian Su-24 crashes during combat mission, killing the aircrew. Jealous orcs destroy gas stations in Sumy, and Moscow tries to deflect blame for hitting Kyiv's Pechersk Lavra cathedral. This is your Wednesday Ukraine War thread [News]",
       "url": "https://www.fark.com/comments/14102052/Day-1575-of-WW3-Ukrainian-Su-24-crashes-during-combat-mission-killing-aircrew-Jealous-orcs-destroy-gas-stations-in-Sumy-Moscow-tries-to-deflect-blame-for-hitting-Kyivs-Pechersk-Lavra-cathedral-This-is-your-Wednesday-Ukraine-War-thread",
       "source": "Fark.com",
       "publishedAt": "2026-06-17T12:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Five Israeli occupation forces injured in drone attack in southern Lebanon",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260617-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-17T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon: 12 children killed, maimed daily, despite Hezbollah-Israel truce",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260617-unnews02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-17T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Donald Trump and Benjamin Netanyahu have different war aims – can the Iran peace deal survive?",
-      "url": "https://theconversation.com/donald-trump-and-benjamin-netanyahu-have-different-war-aims-can-the-iran-peace-deal-survive-285402",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-06-17T11:51:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine says even its obsolete drone-war tech still has value for friendly countries bracing for Shahed-style attacks",
@@ -199,14 +199,6 @@
       "url": "https://abcnews.com/International/wireStory/uk-military-investigates-after-russian-warship-fires-warning-133927188",
       "source": "Abcnews.com",
       "publishedAt": "2026-06-17T06:20:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Poland and Germany to sign scaled down defence deals",
-      "url": "https://www.channelnewsasia.com/world/poland-and-germany-sign-scaled-down-defence-deals-6189286",
-      "source": "CNA",
-      "publishedAt": "2026-06-17T06:02:55Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

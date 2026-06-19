@@ -1,7 +1,159 @@
 {
-  "updated": "2026-06-19T10:24:15Z",
-  "count": 28,
+  "updated": "2026-06-19T15:12:59Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Republicans Slam Trump for Caving to Iran in ‘Disaster’ of a Deal",
+      "url": "http://www.rollingstone.com/politics/politics-news/trump-iran-deal-slammed-republicans-1235580368/",
+      "source": "Rolling Stone",
+      "publishedAt": "2026-06-18T15:07:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Residents return to war-ravaged southern Lebanon with hope and sorrow after the US-Iran deal",
+      "url": "https://abcnews.com/International/wireStory/residents-return-war-ravaged-southern-lebanon-hope-sorrow-133995171",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-18T15:02:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump-Netanyahu tensions: Have Israeli and US leaders clashed before?",
+      "url": "https://www.aljazeera.com/features/2026/6/18/trump-netanyahu-tensions-have-israeli-and-us-leaders-clashed-before",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-18T14:44:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Türkiye's security council meets amid US-Iran deal",
+      "url": "https://www.hurriyetdailynews.com/turkiyes-security-council-meets-amid-us-iran-deal-223454",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-18T14:40:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Iran Deal Drives Oil Prices Down, But Uncertainty Looms",
+      "url": "https://www.forbes.com/sites/arielcohen/2026/06/18/the-iran-deal-drives-oil-prices-down-but-uncertainty-looms/",
+      "source": "Forbes",
+      "publishedAt": "2026-06-18T14:36:19Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Iran ceasefire deal confirms what we’ve been saying for years: military might doesn’t work",
+      "url": "https://theconversation.com/iran-ceasefire-deal-confirms-what-weve-been-saying-for-years-military-might-doesnt-work-277523",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-06-18T14:21:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Europe Starts to Understand Foreign Policy Rep. Kaja Kallas’s “Absurdity” Toward Russia – Media",
+      "url": "https://www.globalresearch.ca/eu-understand-kallas-absurdity-russia/5930466",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-18T13:45:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "First Tankers Cross Strait Under Iran Deal; Israeli Strikes Raise Doubt in Lebanon",
+      "url": "https://www.insurancejournal.com/news/international/2026/06/18/874281.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-06-18T13:31:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "£750 million package to provide Ukraine with 150,000 drones and boost air defence",
+      "url": "https://www.gov.uk/government/news/750-million-package-to-provide-ukraine-with-150000-drones-and-boost-air-defence",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-06-18T13:30:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelenskyy says 'Moscow will burn' if Russian strikes continue",
+      "url": "https://www.abc.net.au/news/2026-06-18/zelenskyy-says-moscow-will-burn-if-russian-strikes-continue/106816266",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-18T13:24:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon says Israeli strikes kill three",
+      "url": "https://www.channelnewsasia.com/world/lebanon-says-israeli-strikes-kill-three-6193326",
+      "source": "CNA",
+      "publishedAt": "2026-06-18T13:24:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon says Israeli strikes kill three",
+      "url": "https://www.channelnewsasia.com/world/israel-strikes-lebanon-hezbollah-us-iran-deal-6193326",
+      "source": "CNA",
+      "publishedAt": "2026-06-18T13:24:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli attacks on southern Lebanon kill three despite US-Iran deal",
+      "url": "https://www.aljazeera.com/news/2026/6/18/israeli-attacks-on-southern-lebanon-kill-three-despite-us-iran-deal",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-18T13:04:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Did not trade dignity for any threat': Pezeshkian calls US-Iran MOU a 'historical document' from a 'powerful Iran'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/did-not-trade-dignity-for-any-threat-pezeshkian-calls-us-iran-mou-a-historical-document-from-a-powerful-iran/articleshow/131830550.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-18T12:19:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Tankers cross Strait of Hormuz after Iran deal signed, while Israeli strikes Lebanon",
+      "url": "https://www.cbc.ca/news/world/strait-of-hormuz-tankers-pass-iran-israel-strikes-lebanon-9.7239768",
+      "source": "CBC News",
+      "publishedAt": "2026-06-18T12:12:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Deal Provides Economic Boost, But Hormuz Shipping Is Key",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260618-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-18T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Day 1,576 of WW3. Federov say UAF can isolate Crimea by cutting orc logistics. EU Council makes diplomatic overtures to Moscow, and Netherlands punches above its weight with a half-billion Euro aid package. This is your Thursday Ukraine war thread [News]",
+      "url": "https://www.fark.com/comments/14103224/Day-1576-of-WW3-Federov-say-UAF-can-isolate-Crimea-by-cutting-orc-logistics-EU-Council-makes-diplomatic-overtures-to-Moscow-Netherlands-punches-above-its-weight-with-a-half-billion-Euro-aid-package-This-is-your-Thursday-Ukraine-war-thread",
+      "source": "Fark.com",
+      "publishedAt": "2026-06-18T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump can’t sell his lies, even in Versailles",
+      "url": "https://www.salon.com/2026/06/18/trump-cant-sell-his-lies-even-in-versailles/",
+      "source": "Salon",
+      "publishedAt": "2026-06-18T10:45:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Transcript: Trump’s Fox Allies, Rattled, Admit It on Live TV: He Lost",
+      "url": "https://newrepublic.com/article/212041/transcript-trump-fox-allies-rattled-admit-live-tv-lost",
+      "source": "The New Republic",
+      "publishedAt": "2026-06-18T10:36:51Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
     {
       "title": "Poland and Germany Tighten Security Ties with Bilateral Defense Agreement",
       "url": "https://www.breitbart.com/europe/2026/06/18/poland-and-germany-tighten-security-ties-with-bilateral-defense-agreement/",
@@ -19,14 +171,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran says missile programme not part of talks with US",
-      "url": "https://punchng.com/iran-says-missile-programme-not-part-of-talks-with-us/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-18T09:26:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Hegseth tells NATO US will review force presence in Europe",
       "url": "https://www.digitaljournal.com/article/hegseth-tells-nato-us-will-review-force-presence-in-europe/",
       "source": "Digital Journal",
@@ -35,132 +179,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "MORNING GLORY: GOP’s top job now is rebuilding America’s defenses fast",
-      "url": "https://www.foxnews.com/opinion/morning-glory-gops-top-job-rebuilding-americas-defenses-fast",
-      "source": "Fox News",
-      "publishedAt": "2026-06-18T09:00:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump signs deal in Versailles to end war with Iran",
-      "url": "https://www.politico.eu/article/iran-us-sign-preliminary-peace-agreement/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-06-18T07:56:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "On best friends",
-      "url": "https://www.israelnationalnews.com/news/428816",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-18T07:16:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Defence Secretary hails progress by NATO allies",
-      "url": "https://punchng.com/us-defence-secretary-hails-progress-by-nato-allies/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-18T06:05:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Defends Iran Deal as Way to Avoid “Economic Catastrophe”",
-      "url": "https://www.naturalnews.com/2026-06-18-trump-defends-iran-deal-avoid-economic-catastrophe.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-18T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hopeful But Not Out of the Woods Yet: A Brutal Analysis of the Iran Peace Deal",
-      "url": "https://www.naturalnews.com/2026-06-18-hopeful-but-not-out-of-woods-yet.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-18T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lavrov: EU Abandoning Economic Roots to Become Anti-Russian Military Bloc",
-      "url": "https://www.naturalnews.com/2026-06-18-lavrov-eu-abandoning-economic-roots-military-bloc.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-18T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump shifts focus back to Ukraine peace talks amid European concerns over sidelining",
-      "url": "https://www.naturalnews.com/2026-06-18-trump-shifts-focus-back-to-ukraine-peace-talks.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-18T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Finland sheds nuclear ban, raising escalation fears on Russia’s border",
-      "url": "https://www.naturalnews.com/2026-06-18-finland-nuclear-ban-escalation-russia-border.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-18T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump, Iran's president sign deal to end Mideast war",
-      "url": "https://www.hurriyetdailynews.com/trump-irans-president-sign-deal-to-end-mideast-war-223424",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-18T05:52:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The “X-ray” of the U.S.–Iran agreement signed by Trump: What Tehran gains, where Washington backed down, and the pitfalls for Israel",
       "url": "https://en.protothema.gr/2026/06/18/the-x-ray-of-the-u-s-iran-agreement-signed-by-trump-what-tehran-gains-where-washington-backed-down-and-the-pitfalls-for-israel/",
       "source": "Protothema.gr",
       "publishedAt": "2026-06-18T05:33:42Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "A nest of vipers: G7 Summit and the United States",
-      "url": "https://www.americanthinker.com/blog/2026/06/a_nest_of_vipers_g7_summit_and_the_united_states.html",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-06-18T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "U.S. And Iran Presidents Sign Ceasefire Agreement, But Trump Says He Could Still Resume Attacks",
-      "url": "https://www.huffpost.com/entry/us-iran-ceasefire-agreement_n_6a336935e4b057a50ceaceb8",
-      "source": "HuffPost",
-      "publishedAt": "2026-06-18T03:48:44Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Behavior of Coordinated SSH Brute Force Attacks over the last three months [Guest Diary], (Wed, Jun 17th)",
-      "url": "https://isc.sans.edu/diary/33086",
-      "source": "Sans.edu",
-      "publishedAt": "2026-06-18T01:49:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Inside the chaotic Iran talks that let Trump claim victory, but not yet peace",
-      "url": "https://economictimes.indiatimes.com/news/defence/inside-the-chaotic-iran-talks-that-let-trump-claim-victory-but-not-yet-peace/articleshow/131815319.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-18T01:49:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump signs Iran ceasefire deal, warns of renewed bombing if Tehran violates pact",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-signs-iran-ceasefire-deal-warns-of-renewed-bombing-if-tehran-violates-pact/articleshow/131815003.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-18T00:42:53Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "How Stable Is the China-North Korea Alliance?",
@@ -177,14 +201,6 @@
       "publishedAt": "2026-06-17T22:59:15Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "As The US Pulls Back, NATO Ponies Up",
-      "url": "https://dailycaller.com/2026/06/17/nato-us-europe-ponies-up/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-06-17T20:46:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Russia wants to reset Persian Gulf security – Can it?",

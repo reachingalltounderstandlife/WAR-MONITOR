@@ -1,14 +1,78 @@
 {
-  "updated": "2026-06-19T15:12:59Z",
-  "count": 30,
+  "updated": "2026-06-19T19:48:03Z",
+  "count": 29,
   "articles": [
     {
-      "title": "Republicans Slam Trump for Caving to Iran in ‘Disaster’ of a Deal",
-      "url": "http://www.rollingstone.com/politics/politics-news/trump-iran-deal-slammed-republicans-1235580368/",
-      "source": "Rolling Stone",
-      "publishedAt": "2026-06-18T15:07:29Z",
+      "title": "Oil flows through strait but Lebanon strikes raise peace doubts",
+      "url": "https://www.abc.net.au/news/2026-06-19/oil-flows-through-strait-but-lebanon-strikes-raise-peace-doubts/106816852",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-18T19:39:04Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "'Wake up': Vance slams Israeli critics of Iran deal",
+      "url": "https://www.abc.net.au/news/2026-06-19/jd-vance-on-israel-iran-deal-lebanon-strikes-and-donald-trump/106816852",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-18T19:39:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Treaty of Versailles 2.0: Macron played the Trump card, laden in gold",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/treaty-of-versailles-2-0-macron-played-the-trump-card-laden-in-gold/articleshow/131841274.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-18T19:21:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Mixed signs of peace: 3 Saudi oil tankers cross Hormuz, Israel strikes Lebanon",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/mixed-signs-of-peace-3-saudi-oil-tankers-cross-hormuz-israel-strikes-lebanon/articleshow/131841214.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-18T19:15:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How Iran won the war",
+      "url": "https://www.vox.com/podcasts/492390/us-iran-war-peace-deal-how-iran-won",
+      "source": "Vox",
+      "publishedAt": "2026-06-18T18:44:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump confirms US support for Israel in potential Iran attack as crypto markets react to Middle East tensions",
+      "url": "https://cryptobriefing.com/trump-us-support-israel-iran-crypto-markets/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-18T17:46:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Defiant Netanyahu refuses to pull troops out of Lebanon despite Iran peace deal",
+      "url": "https://nypost.com/2026/06/18/world-news/defiant-netanyahu-refuses-to-pull-troops-out-of-lebanon/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-18T16:43:47Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Vance issues harsh warning to Israelis slamming Trump’s Iran deal",
+      "url": "https://nypost.com/2026/06/18/world-news/vance-issues-harsh-warning-to-israelis-slamming-trumps-iran-deal/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-18T16:39:42Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Moscow Oil Refinery Spectacularly Explodes After Ukraine Drone Strike",
+      "url": "https://www.breitbart.com/europe/2026/06/18/moscow-oil-refinery-spectacularly-explodes-after-ukraine-drone-strike/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-06-18T15:44:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Residents return to war-ravaged southern Lebanon with hope and sorrow after the US-Iran deal",
@@ -23,8 +87,8 @@
       "url": "https://www.aljazeera.com/features/2026/6/18/trump-netanyahu-tensions-have-israeli-and-us-leaders-clashed-before",
       "source": "Al Jazeera English",
       "publishedAt": "2026-06-18T14:44:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Türkiye's security council meets amid US-Iran deal",
@@ -43,28 +107,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Iran ceasefire deal confirms what we’ve been saying for years: military might doesn’t work",
-      "url": "https://theconversation.com/iran-ceasefire-deal-confirms-what-weve-been-saying-for-years-military-might-doesnt-work-277523",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-06-18T14:21:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Europe Starts to Understand Foreign Policy Rep. Kaja Kallas’s “Absurdity” Toward Russia – Media",
       "url": "https://www.globalresearch.ca/eu-understand-kallas-absurdity-russia/5930466",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-06-18T13:45:43Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "First Tankers Cross Strait Under Iran Deal; Israeli Strikes Raise Doubt in Lebanon",
-      "url": "https://www.insurancejournal.com/news/international/2026/06/18/874281.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-06-18T13:31:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "£750 million package to provide Ukraine with 150,000 drones and boost air defence",
@@ -81,54 +129,6 @@
       "publishedAt": "2026-06-18T13:24:43Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Lebanon says Israeli strikes kill three",
-      "url": "https://www.channelnewsasia.com/world/lebanon-says-israeli-strikes-kill-three-6193326",
-      "source": "CNA",
-      "publishedAt": "2026-06-18T13:24:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon says Israeli strikes kill three",
-      "url": "https://www.channelnewsasia.com/world/israel-strikes-lebanon-hezbollah-us-iran-deal-6193326",
-      "source": "CNA",
-      "publishedAt": "2026-06-18T13:24:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli attacks on southern Lebanon kill three despite US-Iran deal",
-      "url": "https://www.aljazeera.com/news/2026/6/18/israeli-attacks-on-southern-lebanon-kill-three-despite-us-iran-deal",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-18T13:04:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'Did not trade dignity for any threat': Pezeshkian calls US-Iran MOU a 'historical document' from a 'powerful Iran'",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/did-not-trade-dignity-for-any-threat-pezeshkian-calls-us-iran-mou-a-historical-document-from-a-powerful-iran/articleshow/131830550.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-18T12:19:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Tankers cross Strait of Hormuz after Iran deal signed, while Israeli strikes Lebanon",
-      "url": "https://www.cbc.ca/news/world/strait-of-hormuz-tankers-pass-iran-israel-strikes-lebanon-9.7239768",
-      "source": "CBC News",
-      "publishedAt": "2026-06-18T12:12:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Deal Provides Economic Boost, But Hormuz Shipping Is Key",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260618-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-18T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Day 1,576 of WW3. Federov say UAF can isolate Crimea by cutting orc logistics. EU Council makes diplomatic overtures to Moscow, and Netherlands punches above its weight with a half-billion Euro aid package. This is your Thursday Ukraine war thread [News]",
@@ -167,14 +167,6 @@
       "url": "https://www.dailymail.com/news/article-15910381/Pete-Hegseth-warns-NATO-US-review-military-presence-Europe-wake-shameful-lack-Iran-war-support.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-06-18T09:39:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hegseth tells NATO US will review force presence in Europe",
-      "url": "https://www.digitaljournal.com/article/hegseth-tells-nato-us-will-review-force-presence-in-europe/",
-      "source": "Digital Journal",
-      "publishedAt": "2026-06-18T09:10:10Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

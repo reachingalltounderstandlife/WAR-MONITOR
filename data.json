@@ -1,7 +1,135 @@
 {
-  "updated": "2026-06-19T19:48:03Z",
-  "count": 29,
+  "updated": "2026-06-20T03:34:12Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Lebanon archbishop warns of 'grave and critical moment' for Christian district of Tyre",
+      "url": "https://freerepublic.com/focus/f-religion/4384451/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-19T03:31:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US faces tough path to new Iran nuclear deal",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-faces-tough-path-to-new-iran-nuclear-deal/articleshow/131846019.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-19T03:31:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Vance shelves Switzerland visit as US-Iran talks hit early hurdles; Israel reaffirms commitment to peace process",
+      "url": "https://www.thehindubusinessline.com/news/world/vance-shelves-switzerland-visit-as-us-iran-talks-hit-early-hurdles-israel-reaffirms-commitment-to-peace-process/article71120656.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-19T03:28:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran war: There are many questions about the peace deal. Here are (some) answers.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-there-are-many-questions-about-the-peace-deal-here-are-some-answers-/articleshow/131844831.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-19T02:28:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "White House: Vance not travelling to Switzerland for Friday's technical talks with Iran 'as of now'",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-06-19/ty-article-live/white-house-vance-not-travelling-for-fridays-talks-with-iran-as-of-now/0000019e-dd90-d2b1-a5bf-ffb7ed4a0000",
+      "source": "Haaretz",
+      "publishedAt": "2026-06-19T02:08:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Residents return to war-ravaged southern Lebanon with hope and sorrow after the US-Iran deal",
+      "url": "https://abcnews.com/Business/wireStory/residents-return-war-ravaged-southern-lebanon-hope-sorrow-133995172",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-19T01:51:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US ends naval restrictions on Iran",
+      "url": "https://english.khabarhub.com/2026/19/554545/",
+      "source": "Khabarhub.com",
+      "publishedAt": "2026-06-19T01:45:53Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "High-wire diplomacy delivered US-Iran deal but hardest stage lies ahead, sources say",
+      "url": "https://economictimes.indiatimes.com/news/defence/high-wire-diplomacy-delivered-us-iran-deal-but-hardest-stage-lies-ahead-sources-say/articleshow/131844430.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-19T01:36:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli attacks on southern Lebanon kill three despite US-Iran deal - Al Jazeera",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183974586",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-19T01:32:04Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Tim Ferriss Show Transcripts: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early (#870)",
+      "url": "https://tim.blog/2026/06/18/sebastian-mallaby-transcript/",
+      "source": "Tim.blog",
+      "publishedAt": "2026-06-19T01:24:30Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "The Vance Peace Deal",
+      "url": "http://foreignpolicy.com/2026/06/18/vance-peace-deal-trump-iran-israel-lebanon-nuclear-mou/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-06-18T21:59:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Censored Lavrov article Politico refused to publish (FULL TEXT)",
+      "url": "https://www.rt.com/russia/641806-lavrov-censored-politico-article/",
+      "source": "RT",
+      "publishedAt": "2026-06-18T21:53:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Is Putin Finally Feeling Pressure?",
+      "url": "https://www.newyorker.com/news/q-and-a/is-putin-finally-feeling-pressure",
+      "source": "The New Yorker",
+      "publishedAt": "2026-06-18T21:50:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Republicans blast Trump's Iran agreement as details emerge",
+      "url": "https://japantoday.com/category/world/republicans-blast-trump%27s-iran-agreement-as-details-emerge",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-18T21:37:19Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Pete Hegseth Dishes Out Blunt Message To NATO Leaders In Brussels",
+      "url": "https://dailycaller.com/2026/06/18/pete-hegseth-blunt-message-nato-leaders-brussels/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-06-18T20:46:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
+      "url": "https://www.aljazeera.com/news/2026/6/18/pro-israel-hawks-in-us-criticise-iran-mou-but-avoid-clashing-with-trump",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-18T20:26:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Oil flows through strait but Lebanon strikes raise peace doubts",
       "url": "https://www.abc.net.au/news/2026-06-19/oil-flows-through-strait-but-lebanon-strikes-raise-peace-doubts/106816852",
@@ -35,60 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "How Iran won the war",
-      "url": "https://www.vox.com/podcasts/492390/us-iran-war-peace-deal-how-iran-won",
-      "source": "Vox",
-      "publishedAt": "2026-06-18T18:44:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump confirms US support for Israel in potential Iran attack as crypto markets react to Middle East tensions",
-      "url": "https://cryptobriefing.com/trump-us-support-israel-iran-crypto-markets/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-18T17:46:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Defiant Netanyahu refuses to pull troops out of Lebanon despite Iran peace deal",
-      "url": "https://nypost.com/2026/06/18/world-news/defiant-netanyahu-refuses-to-pull-troops-out-of-lebanon/",
-      "source": "New York Post",
-      "publishedAt": "2026-06-18T16:43:47Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Vance issues harsh warning to Israelis slamming Trump’s Iran deal",
-      "url": "https://nypost.com/2026/06/18/world-news/vance-issues-harsh-warning-to-israelis-slamming-trumps-iran-deal/",
-      "source": "New York Post",
-      "publishedAt": "2026-06-18T16:39:42Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Moscow Oil Refinery Spectacularly Explodes After Ukraine Drone Strike",
       "url": "https://www.breitbart.com/europe/2026/06/18/moscow-oil-refinery-spectacularly-explodes-after-ukraine-drone-strike/",
       "source": "Breitbart News",
       "publishedAt": "2026-06-18T15:44:29Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Residents return to war-ravaged southern Lebanon with hope and sorrow after the US-Iran deal",
-      "url": "https://abcnews.com/International/wireStory/residents-return-war-ravaged-southern-lebanon-hope-sorrow-133995171",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-18T15:02:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump-Netanyahu tensions: Have Israeli and US leaders clashed before?",
-      "url": "https://www.aljazeera.com/features/2026/6/18/trump-netanyahu-tensions-have-israeli-and-us-leaders-clashed-before",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-18T14:44:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Türkiye's security council meets amid US-Iran deal",
@@ -139,36 +219,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump can’t sell his lies, even in Versailles",
-      "url": "https://www.salon.com/2026/06/18/trump-cant-sell-his-lies-even-in-versailles/",
-      "source": "Salon",
-      "publishedAt": "2026-06-18T10:45:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Transcript: Trump’s Fox Allies, Rattled, Admit It on Live TV: He Lost",
       "url": "https://newrepublic.com/article/212041/transcript-trump-fox-allies-rattled-admit-live-tv-lost",
       "source": "The New Republic",
       "publishedAt": "2026-06-18T10:36:51Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Poland and Germany Tighten Security Ties with Bilateral Defense Agreement",
-      "url": "https://www.breitbart.com/europe/2026/06/18/poland-and-germany-tighten-security-ties-with-bilateral-defense-agreement/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-06-18T10:24:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Pete Hegseth warns NATO the US will 'review' its military presence in Europe in wake of 'shameful' lack of Iran war support",
-      "url": "https://www.dailymail.com/news/article-15910381/Pete-Hegseth-warns-NATO-US-review-military-presence-Europe-wake-shameful-lack-Iran-war-support.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-18T09:39:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "The “X-ray” of the U.S.–Iran agreement signed by Trump: What Tehran gains, where Washington backed down, and the pitfalls for Israel",
@@ -185,54 +241,6 @@
       "publishedAt": "2026-06-18T00:00:13Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "What Did You Expect?",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trump-iran-war-reversals/687590/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-06-17T22:59:15Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Russia wants to reset Persian Gulf security – Can it?",
-      "url": "https://www.rt.com/news/641749-russia-gulf-security-reset/",
-      "source": "RT",
-      "publishedAt": "2026-06-17T19:56:13Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The Pentagon Might Win the Lottery",
-      "url": "https://www.theatlantic.com/national-security/2026/06/the-pentagon-might-win-the-lottery/687568/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-06-17T17:33:31Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "South Korea president urges Trump to help make peace with North",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/south-korea-president-urges-trump-to-help-make-peace-with-north/articleshow/131786668.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-17T05:00:28Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "South Korea's Lee asks Trump to lead peaceful diplomacy with North Korea",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-lee-jae-myung-donald-trump-lead-diplomacy-north-6188401",
-      "source": "CNA",
-      "publishedAt": "2026-06-17T02:11:30Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Hey, POTUS, The Point of the War Was What Again?",
-      "url": "https://original.antiwar.com/david_stockman/2026/06/16/hey-potus-the-point-of-the-war-was-what-again/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-06-17T00:00:12Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

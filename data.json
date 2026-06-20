@@ -1,12 +1,148 @@
 {
-  "updated": "2026-06-20T14:00:19Z",
-  "count": 33,
+  "updated": "2026-06-20T19:24:22Z",
+  "count": 34,
   "articles": [
     {
-      "title": "Oil Markets Need More Than a Peace Deal to Recover",
-      "url": "https://oilprice.com/Energy/Energy-General/Oil-Markets-Need-More-Than-a-Peace-Deal-to-Recover.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-06-19T14:00:00Z",
+      "title": "‘They Do As I Say’ Trump Says Of Israel Amid Disagreement Over Iran Deal",
+      "url": "https://www.forbes.com/sites/saradorn/2026/06/19/they-do-as-i-say-trump-says-of-israel-amid-disagreement-over-iran-deal/",
+      "source": "Forbes",
+      "publishedAt": "2026-06-19T19:20:27Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "WATCH: Israel is furious over Trump’s Iran move, Marc Zell reveals why panic is a mistake",
+      "url": "https://www.wnd.com/2026/06/watch-israel-is-furious-trumps-iran-move-marc/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-06-19T19:01:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Here's What Happened Today: Friday",
+      "url": "https://www.thejournal.ie/evening-fix-news-headlines-82-7076364-Jun2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-06-19T19:00:03Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump confirms he asked Israel to agree to Lebanon ceasefire",
+      "url": "https://www.israelnationalnews.com/news/428904",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-19T18:53:40Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel and Hezbollah agree ceasefire in Lebanon, US says, as more strikes reported",
+      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o",
+      "source": "BBC News",
+      "publishedAt": "2026-06-19T18:34:05Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Intelligence Agencies Warn Trump Israel ‘Likely’ to Undermine Iran Deal: Report",
+      "url": "https://www.mediaite.com/media/news/intelligence-agencies-warn-trump-israel-likely-to-undermine-iran-deal-report/",
+      "source": "Mediaite",
+      "publishedAt": "2026-06-19T18:25:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hezbollah leader vows complete expulsion of Israeli forces from Lebanon",
+      "url": "https://www.israelnationalnews.com/news/428903",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-19T18:02:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Intel Warns Israel Could Sabotage US-Iran Peace Deal - Report",
+      "url": "https://sputnikglobe.com/20260619/us-intel-warns-israel-could-sabotage-us-iran-peace-deal---report-1124334260.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-06-19T17:43:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Four IDF soldiers killed by Hezbollah drone strike in Lebanon - New York Post",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183996288",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-19T17:32:39Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Avoiding 'Munich' after versailles?",
+      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/avoiding-munich-after-versailles/articleshow/131863810.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-19T17:26:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Report: US intelligence warns Netanyahu may sabotage Trump’s Iran deal",
+      "url": "https://www.israelnationalnews.com/news/428902",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-19T17:13:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hormuz ship traffic climbs after war deal: trackers",
+      "url": "https://www.digitaljournal.com/article/hormuz-ship-traffic-climbs-after-war-deal-trackers/",
+      "source": "Digital Journal",
+      "publishedAt": "2026-06-19T17:10:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Nord Stream narrative explosion: Why you’ve only read half the story",
+      "url": "https://www.rt.com/news/632840-nord-stream-ukrainian-narrative/",
+      "source": "RT",
+      "publishedAt": "2026-06-19T17:02:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US and Iran write a tentative chapter of war and peace – Editorial",
+      "url": "https://www.nzherald.co.nz/nz/us-and-iran-write-a-tentative-chapter-of-war-and-peace-editorial/premium/KUHK7KMHRBGYHDHFC3GVZ7GL3Y/",
+      "source": "New Zealand Herald",
+      "publishedAt": "2026-06-19T17:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon: Is US-Iran peace deal a 'victory' for Hezbollah?",
+      "url": "https://www.dw.com/en/lebanon-is-us-iran-peace-deal-a-victory-for-hezbollah/a-77629727",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-19T16:59:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon says 47 killed in strikes, Israel reports deaths of 4 soldiers",
+      "url": "https://economictimes.indiatimes.com/news/defence/lebanon-says-47-killed-in-strikes-israel-reports-deaths-of-4-soldiers/articleshow/131863414.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-19T16:57:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine, Russia, and the Danger of Nuclear Attack on Europe",
+      "url": "https://www.antiwar.com/blog/2026/06/19/ukraine-russia-and-the-danger-of-nuclear-attack-on-europe/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-06-19T16:33:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US push to get Iran talks started hits an early bump due to intense fighting in Lebanon",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-push-to-get-iran-talks-started-hits-an-early-bump-due-to-intense-fighting-in-lebanon/articleshow/131861686.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-19T15:03:57Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -17,110 +153,6 @@
       "publishedAt": "2026-06-19T13:33:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Bibi Tearing Up the Deal",
-      "url": "https://reason.com/2026/06/19/bibi-tearing-up-the-deal/",
-      "source": "Reason",
-      "publishedAt": "2026-06-19T13:24:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Senior US official: Israel and Hezbollah agree to ceasefire starting at 4:00 p.m.",
-      "url": "https://www.israelnationalnews.com/news/428898",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-19T13:08:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The US-Iran Ceasefire: Will Israel Accept It?",
-      "url": "https://www.globalresearch.ca/iran-won-war-washington-will-israel-accept/5930664",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-06-19T12:41:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran deal under immediate strain as fighting flares in Lebanon",
-      "url": "https://www.channelnewsasia.com/world/us-iran-deal-strain-lebanon-fighting-6195806",
-      "source": "CNA",
-      "publishedAt": "2026-06-19T12:33:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran deal under immediate strain after fighting flares in Lebanon",
-      "url": "https://www.channelnewsasia.com/world/us-iran-deal-strain-lebanon-fighting-ceasefire-6195806",
-      "source": "CNA",
-      "publishedAt": "2026-06-19T12:33:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Give Peace a Chance (Not?)",
-      "url": "https://www.kunstler.com/p/give-peace-a-chance-not",
-      "source": "Kunstler.com",
-      "publishedAt": "2026-06-19T12:26:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US-Iran deal under immediate strain as fighting flares in Lebanon",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-iran-deal-under-immediate-strain-as-fighting-flares-in-lebanon/articleshow/131859031.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-19T12:16:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "CNN: US told Iran that Israel will not escalate attacks in Lebanon any further",
-      "url": "https://www.israelnationalnews.com/flashes/688115",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-19T12:08:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Months of war fundamentally change Iran-Gulf ties",
-      "url": "https://www.dw.com/en/months-of-war-fundamentally-change-iran-gulf-ties/a-77626785",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-19T12:01:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US intl. warns Trump administration: Netanyahu may desperately sabotage Iran-US MoU to prolong aggression",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260619-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-19T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pentagon Requests $80Bln From Congress to Cover Costs After Operation in Iran - Reports",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260619-sputnik01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-19T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel And Lebanon's Hezbollah Agree To Renew Cease-Fire",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260619-rferl03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-19T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli regime's only interest is 'permanent war,' Iran's FM Araghchi says",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260619-presstv04.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-19T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Tsahkna at meeting with Wadephul: we will continue to pressure Russia to end the war",
@@ -137,14 +169,6 @@
       "publishedAt": "2026-06-19T12:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US Intel Warns Israel Could Sabotage US-Iran Peace Deal - Report",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260619-sputnik01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-19T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Oil Flows Resume Through Hormuz as Insurers Remain Wary",
@@ -195,14 +219,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Ukraine is advancing. Now is the perfect time for Trump to strengthen NATO",
-      "url": "https://www.foxnews.com/opinion/ukraine-advancing-perfect-time-trump-strengthen-nato-",
-      "source": "Fox News",
-      "publishedAt": "2026-06-19T09:00:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "America’s loss to Iran has set the stage for fundamental shifts in global geopolitics",
       "url": "https://www.livemint.com/opinion/online-views/america-loss-iran-deal-global-geopolitics-world-war-ii-multipolar-russia-china-japan-germany-11781856230103.html",
       "source": "Livemint",
@@ -217,14 +233,6 @@
       "publishedAt": "2026-06-19T07:31:18Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Sergei Lavrov warns of 'nuclear strikes with catastrophic consequences' as Russia is humiliated by Ukrainian oil refinery attack",
-      "url": "https://www.dailymail.com/news/article-15913281/Sergei-Lavrov-warns-nuclear-strikes-catastrophic-consequences-Russia-humiliated-Ukrainian-oil-refinery-attack.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-19T07:16:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "The Tim Ferriss Show Transcripts: Sebastian Mallaby, Biographer of Demis Hassabis — Lessons from 100+ AI Insiders on The Race to Superintelligence, The Religion of AI, and Spotting Breakthroughs Early (#870)",

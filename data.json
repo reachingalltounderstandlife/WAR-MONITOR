@@ -1,22 +1,158 @@
 {
-  "updated": "2026-06-21T04:06:03Z",
-  "count": 30,
+  "updated": "2026-06-21T09:47:50Z",
+  "count": 32,
   "articles": [
     {
-      "title": "Israel Bombs Southern Lebanon Despite Announced Ceasefire",
-      "url": "https://sputnikglobe.com/20260620/israel-bombs-southern-lebanon-despite-announced-ceasefire-1124334883.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-06-20T03:58:00Z",
+      "title": "US-Iran Nuclear Talks Stall as Israel-Hezbollah Clashes Rage On",
+      "url": "https://financialpost.com/pmn/business-pmn/us-iran-nuclear-talks-stall-as-israel-hezbollah-clashes-rage-on",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-20T09:37:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Fighting persists in Lebanon despite a ceasefire as the US-Iran deal is under threat",
+      "url": "https://www.seattlepi.com/news/world/article/fighting-persists-in-lebanon-despite-a-ceasefire-22313240.php",
+      "source": "seattlepi.com",
+      "publishedAt": "2026-06-20T09:36:43Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Israel launches airstrikes on Nabatieh, escalating conflict with Hezbollah",
-      "url": "https://cryptobriefing.com/israel-launches-airstrikes-on-nabatieh-escalating-conflict-with-hezbollah/",
+      "title": "Israeli military strikes Hezbollah targets in southern Lebanon amid conflict escalation",
+      "url": "https://cryptobriefing.com/israeli-military-strikes-hezbollah-targets-in-southern-lebanon-amid-conflict/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-06-20T03:19:34Z",
+      "publishedAt": "2026-06-20T09:34:51Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "US-Iran talks to begin Sunday in Switzerland but Tehran closes the strait over Lebanon fighting",
+      "url": "https://www.yahoo.com/news/world/articles/fighting-persists-lebanon-despite-ceasefire-091508020.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-20T09:15:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The U.S.-Iran talks have been chaotic. But confusion has only grown since the MOU was signed.",
+      "url": "https://www.nbcnews.com/politics/white-house/us-iran-negotiations-chaotic-confusion-only-grown-mou-was-signed-rcna350926",
+      "source": "NBC News",
+      "publishedAt": "2026-06-20T09:00:40Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S. claims Israel-Hezbollah ceasefire back on - Axios",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184005868",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-20T08:53:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Christian leader calls for end to 'illegal and immoral' Ukraine war",
+      "url": "https://www.christiantoday.com/news/christian-leader-calls-for-end-to-illegal-and-immoral-ukraine-war",
+      "source": "Christiantoday.com",
+      "publishedAt": "2026-06-20T08:40:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli strike kills Lebanese soldier amid escalating conflict with Hezbollah",
+      "url": "https://cryptobriefing.com/israeli-strike-kills-lebanese-soldier-amid-escalating-conflict-with-hezbollah/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-20T08:29:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli airstrike in Lebanon kills four civilians, intensifying conflict with Hezbollah",
+      "url": "https://cryptobriefing.com/israeli-airstrike-in-lebanon-kills-four-civilians-intensifying-conflict-with/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-20T08:14:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The 9 at 9: Saturday",
+      "url": "https://www.thejournal.ie/9-at-9-saturday-224-7076838-Jun2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-06-20T07:55:47Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump envoy Steve Witkoff, Iranian minister head to Switzerland for talks",
+      "url": "https://nypost.com/2026/06/20/world-news/trump-envoy-steve-witkoff-iranian-minister-head-to-switzerland-for-talks/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-20T06:48:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel, Hezbollah agree ceasefire as US-Iran deal under strain",
+      "url": "https://www.hurriyetdailynews.com/israel-hezbollah-agree-ceasefire-as-us-iran-deal-under-strain-223485",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-20T06:33:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel continues its attacks on Lebanon, despite agreeing to ceasefire",
+      "url": "https://www.thejournal.ie/israel-lebanon-iran-us-peace-deal-7076809-Jun2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-06-20T06:28:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "PM Modi's blind devotion to Israel hurting India's interests, says Congress",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/pm-modis-blind-devotion-to-israel-hurting-indias-interests-says-congress/articleshow/131871195.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-20T06:18:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon state media says five dead in Israeli strikes",
+      "url": "https://www.rte.ie/news/2026/0620/1579420-middle-east/",
+      "source": "RTE",
+      "publishedAt": "2026-06-20T06:11:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Syria Unwilling and Unprepared to Attack Lebanon, Report Says",
+      "url": "https://www.naturalnews.com/2026-06-20-syria-unwilling-unprepared-to-attack-lebanon.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-20T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Vance’s Switzerland trip postponed as U.S.-Iran deal faces logistical hurdles",
+      "url": "https://www.naturalnews.com/2026-06-20-vance-switzerland-trip-postponed-iran-agreement-logistical-hurdles.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-20T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Analysts Say Ukrainian Drone Strike on Moscow Aimed at Publicity, Civilian Harm",
+      "url": "https://www.naturalnews.com/2026-06-20-ukrainian-drone-strike-moscow-aimed-at-publicity.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-20T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Eight years on, from JCPOA to MoU: How Trump's Iran deal stacks up against Obama's nuclear pact",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/eight-years-on-from-jcpoa-to-mou-how-trumps-iran-deal-stacks-up-against-obamas-nuclear-pact/articleshow/131860484.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-20T04:30:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Germany struggles to find volunteers to confront Russia – media",
@@ -27,54 +163,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "With Lebanon ceasefire set, Trump envoy heads to Switzerland for US-Iran talks",
-      "url": "https://economictimes.indiatimes.com/news/defence/with-lebanon-ceasefire-set-trump-envoy-heads-to-switzerland-for-us-iran-talks/articleshow/131869013.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-20T00:44:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel, Lebanon, and the Fragility of the MoU",
-      "url": "https://www.antiwar.com/blog/2026/06/19/israel-lebanon-and-the-fragility-of-the-mou/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-06-20T00:13:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Give Peace a Chance (Not?)",
-      "url": "https://freerepublic.com/focus/f-news/4384607/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-06-19T23:59:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel and Hezbollah agree to a ceasefire as deadly fighting threatens U.S.-Iran deal",
-      "url": "https://www.pbs.org/newshour/show/israel-and-hezbollah-agree-to-a-ceasefire-as-deadly-fighting-threatens-u-s-iran-agreement",
-      "source": "PBS",
-      "publishedAt": "2026-06-19T22:55:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US and Iran talks face Lebanon war roadblock",
-      "url": "https://thehillstimes.in/international/us-and-iran-talks-face-lebanon-war-roadblock",
-      "source": "Thehillstimes.in",
-      "publishedAt": "2026-06-19T22:35:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Rubio urges Hezbollah disarmament in phone call with Lebanese President",
-      "url": "https://www.israelnationalnews.com/news/428909",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-19T22:29:44Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Zelenskyy Warns Belarus To Remove Signaling Equipment Used By Russia For Attacks",
       "url": "https://www.rferl.org/a/ukraine-belarus-zelenskyy-lukashenko-russia-signal-relay/33784778.html",
       "source": "Radio Free Europe/ Radio Liberty",
@@ -83,76 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Donald Trump insists Israel would have been 'eviscerated' without US support as US secret service expect Netanyahu to scupper peace",
-      "url": "https://www.dailymail.com/news/article-15914897/Trump-claims-Israel-eviscerated-without-US-support.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-19T22:00:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "No Cancellation, Only Delay: US-Iran Talks Face Early Test In Switzerland",
-      "url": "https://www.rferl.org/a/burgenstock-switzerland-vance-us-iran-mou-war/33784777.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-06-19T22:00:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu secretly plotting to TORPEDO Trump's Iran peace deal in intelligence bombshell",
-      "url": "https://freerepublic.com/focus/f-backroom/4384584/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-06-19T21:36:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "PICTURED: The Oldham antiques dealer and proud socialist who boasts of feeding desperate African fighters into Putin's meat grinder",
       "url": "https://www.dailymail.com/news/article-15914879/Oldham-antiques-dealer-feeding-African-fighters-Putins-meat-grinder.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-06-19T21:11:29Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Does Trump have to submit the Iran memorandum of understanding to Congress?",
-      "url": "https://www.aljazeera.com/news/2026/6/19/does-trump-have-to-submit-the-iran-memorandum-of-understanding-to-congress",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-19T21:10:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Poll Shows US Voters Have Disapproved of Trump's War of Choice Against Iran From Beginning to End",
-      "url": "https://www.commondreams.org/news/polling-on-iran-war",
-      "source": "Common Dreams",
-      "publishedAt": "2026-06-19T20:44:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon ceasefire agreed after U.S.-Iran talks in Switzerland scrapped",
-      "url": "https://japantoday.com/category/world/lebanon-ceasefire-agreed-after-us-iran-talks-in-switzerland-scrapped4",
-      "source": "Japan Today",
-      "publishedAt": "2026-06-19T20:39:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "WATCH: Israel is furious over Trump’s Iran move, Marc Zell reveals why panic is a mistake",
-      "url": "https://www.wnd.com/2026/06/watch-israel-is-furious-trumps-iran-move-marc/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-06-19T19:01:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hezbollah leader vows complete expulsion of Israeli forces from Lebanon",
-      "url": "https://www.israelnationalnews.com/news/428903",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-19T18:02:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "The Nord Stream narrative explosion: Why you’ve only read half the story",
@@ -209,14 +233,6 @@
       "publishedAt": "2026-06-19T11:07:23Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Ankara NATO summit to mark turning point for alliance: Defense minister",
-      "url": "https://www.hurriyetdailynews.com/ankara-nato-summit-to-mark-turning-point-for-alliance-defense-minister-223465",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-19T10:17:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "America’s loss to Iran has set the stage for fundamental shifts in global geopolitics",

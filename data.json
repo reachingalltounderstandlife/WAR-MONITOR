@@ -1,124 +1,164 @@
 {
-  "updated": "2026-06-21T14:08:21Z",
-  "count": 31,
+  "updated": "2026-06-21T19:27:47Z",
+  "count": 34,
   "articles": [
     {
-      "title": "Iran latest: Strait of Hormuz closes as Tehran and accuses US and Israel of violating ceasefire deal",
-      "url": "https://www.bbc.com/news/live/c9wq95g0lx2t",
-      "source": "BBC News",
-      "publishedAt": "2026-06-20T14:05:42Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hezbollah breaks ceasefire, launches 50 rockets at IDF soldiers in Lebanon, Israel retaliates",
-      "url": "https://freerepublic.com/focus/f-news/4384666/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-06-20T14:03:10Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran closes Strait of Hormuz again, citing Israel’s attacks in Lebanon, and downplays delayed talks with U.S. that will begin in Switzerland",
-      "url": "https://fortune.com/2026/06/20/iran-strait-of-hormuz-closure-israel-attacks-lebanon-delayed-us-talks-switzerland/",
-      "source": "Fortune",
-      "publishedAt": "2026-06-20T13:57:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iranian state TV says the country's team negotiating with US over the war is going to Switzerland",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iranian-state-tv-says-the-countrys-team-negotiating-with-us-over-the-war-is-going-to-switzerland/articleshow/131877613.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-20T13:52:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Vance to travel to Switzerland for Iran talks amid 2026 ceasefire",
-      "url": "https://cryptobriefing.com/vance-to-travel-to-switzerland-for-iran-talks-amid-2026-ceasefire/",
+      "title": "Israeli airstrikes kill at least 20 in Lebanon despite ceasefire agreement",
+      "url": "https://cryptobriefing.com/israeli-airstrikes-lebanon-ceasefire/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-06-20T13:32:26Z",
+      "publishedAt": "2026-06-20T19:16:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "How Ukraine has humiliated Putin once again with huge drone strikes on his doorstep - prompting furious 'nuclear war' threats",
+      "url": "https://www.dailymail.com/news/article-15914257/Ukraine-humiliated-Putin-huge-drone-strikes-doorstep-furious-nuclear-war-threats.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-20T18:38:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "IDF reveals: Hezbollah launched over 50 projectiles in a single night",
+      "url": "https://www.israelnationalnews.com/news/428915",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-20T18:22:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli officer, 4 soldiers killed in southern Lebanon clashes",
+      "url": "https://cryptobriefing.com/israeli-officer-4-soldiers-killed-in-southern-lebanon-clashes/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-20T18:14:52Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Jake Tapper and Others Pile On Trump’s DoD Over Humiliating Fact-Checking Note",
+      "url": "https://www.mediaite.com/media/news/jake-tapper-and-others-pile-on-trumps-dod-over-humiliating-fact-checking-note/",
+      "source": "Mediaite",
+      "publishedAt": "2026-06-20T17:56:38Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "New Iran MOU leaves Tehran weaker and the U.S. stronger",
+      "url": "https://www.wnd.com/2026/06/new-iran-mou-leaves-tehran-weaker-u-s/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-06-20T17:54:22Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "US-Iran talks to begin Sunday in Switzerland as Tehran closes the strait over Lebanon fighting - AP News",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184011260",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-20T17:52:57Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hezbollah-Israel clashes escalate, complicating Lebanon’s recovery efforts",
+      "url": "https://cryptobriefing.com/hezbollah-israel-clashes-escalate-complicating-lebanons-recovery-efforts/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-20T17:52:07Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran shuts the doors to Strait of Hormuz; alleges US, Israeli violations of ceasefire MOU",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-shuts-the-doors-to-strait-of-hormuz-alleges-us-israeli-violations-of-ceasefire-mou/articleshow/131877119.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-20T13:19:26Z",
+      "title": "US Disputes Iran's Claim Strait Is Closed Again",
+      "url": "https://www.newser.com/story/391426/us-disputes-irans-claim-strait-is-closed-again.html",
+      "source": "Newser",
+      "publishedAt": "2026-06-20T17:52:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "JD Vance arrives in Switzerland after Iran declares Strait of Hormuz closed",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/06/21/jd-vance-arrives-in-switzerland-after-iran-declares-strait-of-hormuz-closed/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-20T17:47:05Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Israel Keeps Hammering Lebanon As Trump's Iran Deal Under Threat",
-      "url": "https://www.huffpost.com/entry/israel-keeps-hammering-lebanon-as-trumps-iran-deal-under-threat_n_6a368f97e4b057a50cee26ec",
+      "title": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan",
+      "url": "https://www.aljazeera.com/news/2026/6/20/us-iran-talks-to-kick-off-sunday-in-switzerland-says",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-20T17:39:08Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli airstrikes kill family of four in Lebanon as crypto markets shed $1B in liquidations",
+      "url": "https://cryptobriefing.com/israeli-airstrikes-lebanon-crypto-liquidations/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-20T16:58:28Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran says it's closing Strait of Hormuz and accuses US and Israel of violating ceasefire deal - BBC",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184010758",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-06-20T16:52:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Bill Maher Mocks Trump Over Iran War Pivot: 'What Happened To The Art Of The Deal?'",
+      "url": "https://www.huffpost.com/entry/bill-maher-mocks-trump-iran-war-deal-what-happened-art-of-the-deal_n_6a36950fe4b04f5fa0c2baee",
       "source": "HuffPost",
-      "publishedAt": "2026-06-20T13:15:30Z",
+      "publishedAt": "2026-06-20T16:37:10Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Diplomats hold US-Iran preparatory discussions at Swiss retreat",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/diplomats-hold-us-iran-preparatory-discussions-at-swiss-retreat/articleshow/131876747.cms",
+      "title": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cwyekkwm1mmo",
+      "source": "BBC News",
+      "publishedAt": "2026-06-20T16:07:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "PETER HITCHENS: Britain is utterly unprepared for war. So why do our stupid leaders court one? The reality would be rationing, rising prices… and no general elections",
+      "url": "https://www.dailymail.com/columnists/article-15916045/PETER-HITCHENS-Britain-unprepared-war-stupid-leaders.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-20T16:06:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Takes Two Steps Back in Ending His Iran War",
+      "url": "https://www.motherjones.com/politics/2026/06/trump-israel-lebanon-iran-ceasefire-failing/",
+      "source": "Mother Jones",
+      "publishedAt": "2026-06-20T15:24:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The West is losing the diplomacy war and ASEAN is quietly winning it",
+      "url": "https://www.rt.com/news/641897-west-is-losing-diplomacy-war/",
+      "source": "RT",
+      "publishedAt": "2026-06-20T15:19:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran says Hormuz closed again after Israel strikes Lebanon",
+      "url": "https://www.hurriyetdailynews.com/iran-says-hormuz-closed-again-after-israel-strikes-lebanon-223503",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-20T14:37:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pakistan says technical-level Iran-US talks on their interim deal will begin Sunday in Switzerland",
+      "url": "https://economictimes.indiatimes.com/news/defence/pakistan-says-technical-level-iran-us-talks-on-their-interim-deal-will-begin-sunday-in-switzerland/articleshow/131878265.cms",
       "source": "The Times of India",
-      "publishedAt": "2026-06-20T12:59:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli strikes kill 16 in Lebanon hours after ceasefire",
-      "url": "https://www.abc.net.au/news/2026-06-20/israeli-strikes-kill-16-in-lebanon-hours-after-ceasefire/106823540",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-20T12:47:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Switzerland to host US-Iran talks as Tehran closes Strait of Hormuz",
-      "url": "https://www.abc.net.au/news/2026-06-20/us-iran-talks-to-take-place-in-switzerland/106823540",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-20T12:47:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli strikes kill 16 in Lebanon hours after ceasefire",
-      "url": "https://biztoc.com/x/b069011b8f153b64",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-20T12:43:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump May Be Drawing Down Iran War, But He’s Demanding Billions More for Bombs",
-      "url": "https://truthout.org/articles/trump-may-be-drawing-down-iran-war-but-hes-demanding-billions-more-for-bombs/",
-      "source": "Truthout",
-      "publishedAt": "2026-06-20T12:34:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump’s new Iran deal faces nuclear blind spot over uranium stockpile, experts warn",
-      "url": "https://www.foxnews.com/politics/trumps-new-iran-deal-faces-nuclear-blind-spot-over-uranium-stockpile-experts-warn",
-      "source": "Fox News",
-      "publishedAt": "2026-06-20T12:00:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Announces Closure Of Strait Of Hormuz",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260620-rferl04.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-20T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Leader's advisor warns of regional energy shutdown if Iran-US MoU stays on paper",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260620-presstv02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-20T12:00:00Z",
+      "publishedAt": "2026-06-20T14:27:14Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -191,22 +231,6 @@
       "url": "https://www.dailymail.com/news/article-15914879/Oldham-antiques-dealer-feeding-African-fighters-Putins-meat-grinder.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-06-19T21:11:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Nord Stream narrative explosion: Why you’ve only read half the story",
-      "url": "https://www.rt.com/news/632840-nord-stream-ukrainian-narrative/",
-      "source": "RT",
-      "publishedAt": "2026-06-19T17:02:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine, Russia, and the Danger of Nuclear Attack on Europe",
-      "url": "https://www.antiwar.com/blog/2026/06/19/ukraine-russia-and-the-danger-of-nuclear-attack-on-europe/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-06-19T16:33:55Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

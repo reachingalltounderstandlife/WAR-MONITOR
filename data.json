@@ -1,7 +1,119 @@
 {
-  "updated": "2026-06-23T03:27:46Z",
-  "count": 25,
+  "updated": "2026-06-23T09:36:09Z",
+  "count": 24,
   "articles": [
+    {
+      "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway closed again",
+      "url": "https://www.cnbc.com/2026/06/22/strait-of-hormuz-iran-us-shipping-oil.html",
+      "source": "CNBC",
+      "publishedAt": "2026-06-22T09:02:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Crude prices drop after US-Iran talks",
+      "url": "https://punchng.com/crude-prices-drop-after-us-iran-talks/",
+      "source": "The Punch",
+      "publishedAt": "2026-06-22T09:00:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Why are Poland and Ukraine at odds about their history?",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/why-are-poland-and-ukraine-at-odds-about-their-history/articleshow/131904925.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-22T08:58:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Shipping Slows Through Hormuz After Iran Claims Waterway Closed Again",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260622-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-22T08:51:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran wrap second day of talks after rough start",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-wrap-second-day-of-talks-after-rough-start/articleshow/131904707.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-22T08:47:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Walter Isaacson’s biography of Elon Musk describes how one private decision kept Starlink dark near Crimea in 2022, leaving Ukrainian sea drones suddenly offline before they reached Russia’s Black Sea Fleet",
+      "url": "https://spacedaily.com/j-v-walter-isaacsons-biography-of-elon-musk-describes-how-a-single-private-decision-cut-starlink-connectivity-near-ukrainian-front-lines-in-2022-leaving-an-advancing-military-unit-suddenly-offline/",
+      "source": "Space Daily",
+      "publishedAt": "2026-06-22T08:10:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "European Gas Edges Higher After Rocky Start to Iran Peace Talks",
+      "url": "https://financialpost.com/pmn/business-pmn/european-gas-edges-higher-after-rocky-start-to-iran-peace-talks",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-22T07:40:40Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "JD Vance says US and Iran can 'turn over new leaf' as Swiss resort talks enter second day",
+      "url": "https://www.thejournal.ie/iran-us-peaces-7077821-Jun2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-06-22T07:38:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Booker: Trump, Netanyahu Threaten Middle East Peace",
+      "url": "https://www.newser.com/story/391447/booker-trump-netanyahu-threaten-middle-east-peace.html",
+      "source": "Newser",
+      "publishedAt": "2026-06-22T07:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Is Trump’s Real Plan to Declare a National Emergency and Invoke the Defense Production Act?",
+      "url": "https://www.naturalnews.com/2026-06-22-trump-real-plan-declare-emergency-invoke-dpa.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-22T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Kremlin Warns NATO of a “Devastating Response” After the Largest Ukrainian Drone Attack on Moscow",
+      "url": "https://www.naturalnews.com/2026-06-22-kremlin-devastating-response-after-largest-drone-attack.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-22T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US marks 'encouraging progress' in peace talks with Iran after summit was nearly derailed by Trump's fiery threat",
+      "url": "https://www.dailymail.com/news/article-15918723/US-marks-encouraging-progress-peace-talks-Iran.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-06-22T05:31:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Crude prices drop, most stocks rise on 'positive' US-Iran talks",
+      "url": "https://www.hurriyetdailynews.com/crude-prices-drop-most-stocks-rise-on-positive-us-iran-talks-223535",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-22T05:07:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "'Progress', say mediators, after Iran-US talks on ending war",
+      "url": "https://www.hurriyetdailynews.com/progress-say-mediators-after-iran-us-talks-on-ending-war-223534",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-22T05:03:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Is Zelensky about to attack Belarus?",
       "url": "https://freerepublic.com/focus/f-news/4384859/posts",
@@ -27,30 +139,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Crude prices drop, most stocks rise on ‘positive’ US-Iran talks",
-      "url": "https://www.digitaljournal.com/article/crude-prices-drop-most-stocks-rise-on-positive-us-iran-talks/",
-      "source": "Digital Journal",
-      "publishedAt": "2026-06-22T03:00:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S., Iran agree on roadmap for final deal and plan to end military operations in Lebanon",
-      "url": "https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html",
-      "source": "CNBC",
-      "publishedAt": "2026-06-22T02:17:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Oil Price Today (June 22): Crude oil rises above $80 as Iran shuts Strait of Hormuz again. What are experts saying?",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-22-crude-oil-rises-above-80-as-iran-shuts-strait-of-hormuz-again-what-are-experts-saying/articleshow/131899953.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-22T02:12:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "US-Iran negotiations go into Day 2 after Trump shakes talks with threats, Hormuz closure",
       "url": "https://www.thehindubusinessline.com/news/world/us-iran-negotiations-go-into-day-2-after-trump-shakes-talks-with-threats-hormuz-closure/article71131546.ece",
       "source": "BusinessLine",
@@ -67,82 +155,10 @@
       "_label": "Iran War"
     },
     {
-      "title": "WATCH: Dangerous sneaker waves in Northern California",
-      "url": "https://abcnews.com/video/134083018/",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-22T01:09:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "WATCH: Crowd holds carjacking suspect",
-      "url": "https://abcnews.com/video/134083446/",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-22T00:24:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Oil prices climb after fresh Trump threat as US-Iran peace talks begin",
-      "url": "https://www.straitstimes.com/business/companies-markets/oil-prices-climb-after-fresh-trump-threat-as-us-iran-peace-talks-begin",
-      "source": "The Straits Times",
-      "publishedAt": "2026-06-21T23:48:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "US-Iran talks in Switzerland: What is known so far?",
       "url": "https://www.rt.com/news/641945-us-iranian-talks-switzerland/",
       "source": "RT",
       "publishedAt": "2026-06-21T23:02:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil Climbs After Fresh Trump Threat as US-Iran Peace Talks Begin",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-climbs-after-fresh-trump-threat-as-us-iran-peace-talks-begin",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-21T22:58:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Inside Israel’s intimidating Iron Dome is a nation simply ‘fighting for survival’",
-      "url": "https://www.news.com.au/world/middle-east/inside-israels-iron-dome-were-fighting-for-survival/news-story/46ad1f1c2153037cf4b7640124fa8a72",
-      "source": "News.com.au",
-      "publishedAt": "2026-06-21T21:53:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "As Vance meets top Iranian officials in Switzerland, Trump threatens Tehran from afar",
-      "url": "https://abcnews.com/International/wireStory/vance-meets-top-iranian-officials-switzerland-trump-threatens-134071079",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-21T21:33:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump threatens Iran with fresh strikes as Vance leads peace talks in Switzerland",
-      "url": "https://japantoday.com/category/world/trump-threatens-iran-with-fresh-strikes-as-vance-leads-peace-talks-in-switzerland",
-      "source": "Japan Today",
-      "publishedAt": "2026-06-21T21:18:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S.-Iran talks just started and Trump is already threatening to attack, causing negotiations to pause",
-      "url": "https://fortune.com/2026/06/21/us-iran-trump-threat-attack-negotiations-pause-lebanon/",
-      "source": "Fortune",
-      "publishedAt": "2026-06-21T21:09:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "TENSION, WALKOUTS",
-      "url": "https://www.yahoo.com/news/world/articles/israel-strikes-south-lebanon-despite-101359673.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-21T20:46:36Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -153,14 +169,6 @@
       "publishedAt": "2026-06-21T20:36:56Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran briefing: Trump threatens Iran's negotiators as two sides meet",
-      "url": "https://www.abc.net.au/news/2026-06-22/iran-israel-war-news-briefing/106825842",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-06-21T20:33:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "This Geothermal Startup Plans To Use Oil Tech For Green Energy",
@@ -183,22 +191,6 @@
       "url": "https://www.businessinsider.com/nato-can-no-longer-sit-back-defending-skies-nato-commander-2026-6#article",
       "source": "Business Insider",
       "publishedAt": "2026-06-21T11:37:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Germany is itching to get revenge on Russia for 1945",
-      "url": "https://www.rt.com/news/641917-germany-russia-revenge-1945/",
-      "source": "RT",
-      "publishedAt": "2026-06-21T08:46:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "France Yellow Vests Week 394*Ukraine War Escalated At G7 In France, Russian Reaction*China Mineral Supplies And Economic Warfare In G7, EU Talks*Iranian Opposition Protest Banned*Protest Today*",
-      "url": "https://freerepublic.com/focus/f-bloggers/4384758/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-06-21T04:19:12Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

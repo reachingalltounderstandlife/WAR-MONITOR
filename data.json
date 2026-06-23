@@ -1,7 +1,151 @@
 {
-  "updated": "2026-06-22T20:46:26Z",
-  "count": 23,
+  "updated": "2026-06-23T03:27:46Z",
+  "count": 25,
   "articles": [
+    {
+      "title": "Is Zelensky about to attack Belarus?",
+      "url": "https://freerepublic.com/focus/f-news/4384859/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-22T03:26:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US and Iran agree to end 110-day conflict, reopen Strait of Hormuz",
+      "url": "https://cryptobriefing.com/us-and-iran-agree-to-end-110-day-conflict-reopen-strait-of-hormuz/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-22T03:14:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelensky doubles down on ultimatum to Russia’s ally",
+      "url": "https://www.rt.com/news/641947-zelensky-belarus-lukashenko-ultimatum/",
+      "source": "RT",
+      "publishedAt": "2026-06-22T03:12:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Crude prices drop, most stocks rise on ‘positive’ US-Iran talks",
+      "url": "https://www.digitaljournal.com/article/crude-prices-drop-most-stocks-rise-on-positive-us-iran-talks/",
+      "source": "Digital Journal",
+      "publishedAt": "2026-06-22T03:00:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S., Iran agree on roadmap for final deal and plan to end military operations in Lebanon",
+      "url": "https://www.cnbc.com/2026/06/22/us-iran-roadmap-final-deal-switzerland-talks-lebanon-deconfliction.html",
+      "source": "CNBC",
+      "publishedAt": "2026-06-22T02:17:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Oil Price Today (June 22): Crude oil rises above $80 as Iran shuts Strait of Hormuz again. What are experts saying?",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-22-crude-oil-rises-above-80-as-iran-shuts-strait-of-hormuz-again-what-are-experts-saying/articleshow/131899953.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-22T02:12:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US-Iran negotiations go into Day 2 after Trump shakes talks with threats, Hormuz closure",
+      "url": "https://www.thehindubusinessline.com/news/world/us-iran-negotiations-go-into-day-2-after-trump-shakes-talks-with-threats-hormuz-closure/article71131546.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-22T01:41:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran talks go into Day 2 after Trump threats, Hormuz closure",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-talks-go-into-day-2-after-trump-threats-hormuz-closure/articleshow/131899608.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-22T01:22:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "WATCH: Dangerous sneaker waves in Northern California",
+      "url": "https://abcnews.com/video/134083018/",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-22T01:09:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "WATCH: Crowd holds carjacking suspect",
+      "url": "https://abcnews.com/video/134083446/",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-22T00:24:58Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Oil prices climb after fresh Trump threat as US-Iran peace talks begin",
+      "url": "https://www.straitstimes.com/business/companies-markets/oil-prices-climb-after-fresh-trump-threat-as-us-iran-peace-talks-begin",
+      "source": "The Straits Times",
+      "publishedAt": "2026-06-21T23:48:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US-Iran talks in Switzerland: What is known so far?",
+      "url": "https://www.rt.com/news/641945-us-iranian-talks-switzerland/",
+      "source": "RT",
+      "publishedAt": "2026-06-21T23:02:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil Climbs After Fresh Trump Threat as US-Iran Peace Talks Begin",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-climbs-after-fresh-trump-threat-as-us-iran-peace-talks-begin",
+      "source": "Financial Post",
+      "publishedAt": "2026-06-21T22:58:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Inside Israel’s intimidating Iron Dome is a nation simply ‘fighting for survival’",
+      "url": "https://www.news.com.au/world/middle-east/inside-israels-iron-dome-were-fighting-for-survival/news-story/46ad1f1c2153037cf4b7640124fa8a72",
+      "source": "News.com.au",
+      "publishedAt": "2026-06-21T21:53:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "As Vance meets top Iranian officials in Switzerland, Trump threatens Tehran from afar",
+      "url": "https://abcnews.com/International/wireStory/vance-meets-top-iranian-officials-switzerland-trump-threatens-134071079",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-21T21:33:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump threatens Iran with fresh strikes as Vance leads peace talks in Switzerland",
+      "url": "https://japantoday.com/category/world/trump-threatens-iran-with-fresh-strikes-as-vance-leads-peace-talks-in-switzerland",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-21T21:18:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S.-Iran talks just started and Trump is already threatening to attack, causing negotiations to pause",
+      "url": "https://fortune.com/2026/06/21/us-iran-trump-threat-attack-negotiations-pause-lebanon/",
+      "source": "Fortune",
+      "publishedAt": "2026-06-21T21:09:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "TENSION, WALKOUTS",
+      "url": "https://www.yahoo.com/news/world/articles/israel-strikes-south-lebanon-despite-101359673.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-21T20:46:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Senate Wades Even Deeper Into Bloody Years-Long Proxy War In New Defense Bill",
       "url": "https://dailycaller.com/2026/06/21/senate-2027-ndaa-ukraine-proxy-war/",
@@ -19,92 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump Threatens Iran as JD Vance Announces “Great Progress” on Ceasefire",
-      "url": "https://www.motherjones.com/politics/2026/06/trump-threatens-iran-as-jd-vance-announces-great-progress-on-ceasefire/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-06-21T20:11:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘Outrageous’: Watch Fox News anchor Mark Levin suddenly trash Trump",
-      "url": "https://www.wnd.com/2026/06/outrageous-watch-fox-news-anchor-mark-levin-suddenly/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-06-21T19:51:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump and Iran quarrel on social media while peace talks proceed in Switzerland",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/06/21/trump-and-iran-quarrel-on-social-media-while-peace-talks-proceed-in-switzerland/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-06-21T18:38:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Fox Host Mark Levin Is Now Trashing Trump",
-      "url": "https://dailycaller.com/2026/06/21/mark-levin-trashing-donald-trump-israel-iran-war/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-06-21T18:05:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran warns US to 'be careful' after Trump threat",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-us-to-be-careful-after-trump-threat/articleshow/131895663.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-21T18:03:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian negotiators said to still be engaged in talks with US",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-negotiators-said-to-still-be-engaged-in-talks-with-us/articleshow/131895545.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-21T17:55:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Vance hopes US, Iran can turn 'new leaf' with talks",
-      "url": "https://www.channelnewsasia.com/world/vance-hopes-us-iran-can-turn-new-leaf-talks-6198646",
-      "source": "CNA",
-      "publishedAt": "2026-06-21T17:54:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranians walk out of talks venue after Trump threat",
-      "url": "https://www.channelnewsasia.com/world/iranians-walk-out-talks-venue-after-trump-threat-6198646",
-      "source": "CNA",
-      "publishedAt": "2026-06-21T17:54:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Thriller in Switzerland after Trump’s threats to Iran’s negotiators – “Better to be careful,” says Ghalibaf",
-      "url": "https://en.protothema.gr/2026/06/21/thriller-in-switzerland-after-trumps-threats-to-irans-negotiators-better-to-be-careful-says-ghalibaf/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-06-21T17:43:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "This Geothermal Startup Plans To Use Oil Tech For Green Energy",
       "url": "https://www.forbes.com/sites/the-prototype/2026/06/21/this-geothermal-startup-plans-to-use-oil-tech-for-green-energy/",
       "source": "Forbes",
       "publishedAt": "2026-06-21T17:30:30Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump threatens to 'hit Iran very hard again' while Vance in Switzerland for talks",
-      "url": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance",
-      "source": "NPR",
-      "publishedAt": "2026-06-21T17:29:57Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Can Andy Burnham be a better prime minister than Keir Starmer?",
@@ -137,54 +201,6 @@
       "publishedAt": "2026-06-21T04:19:12Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "It's the Government's duty to prepare us for war: Ex-national security chief DOMINIC MURPHY says Britain must teach civilians what to do in the event of a conflict - before it's too late",
-      "url": "https://www.dailymail.com/debate/article-15916449/Ex-national-security-chief-Britain-teach-civilians-conflict.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-20T21:30:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How Ukraine has humiliated Putin once again with huge drone strikes on his doorstep - prompting furious 'nuclear war' threats",
-      "url": "https://www.dailymail.com/news/article-15914257/Ukraine-humiliated-Putin-huge-drone-strikes-doorstep-furious-nuclear-war-threats.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-20T18:38:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "New Iran MOU leaves Tehran weaker and the U.S. stronger",
-      "url": "https://www.wnd.com/2026/06/new-iran-mou-leaves-tehran-weaker-u-s/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-06-20T17:54:22Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "PETER HITCHENS: Britain is utterly unprepared for war. So why do our stupid leaders court one? The reality would be rationing, rising prices… and no general elections",
-      "url": "https://www.dailymail.com/columnists/article-15916045/PETER-HITCHENS-Britain-unprepared-war-stupid-leaders.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-20T16:06:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump’s Second Gamble on Iran",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trumps-second-gamble-on-iran/687650/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-06-20T11:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Eight years on, from JCPOA to MoU: How Trump's Iran deal stacks up against Obama's nuclear pact",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/eight-years-on-from-jcpoa-to-mou-how-trumps-iran-deal-stacks-up-against-obamas-nuclear-pact/articleshow/131860484.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-20T04:30:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

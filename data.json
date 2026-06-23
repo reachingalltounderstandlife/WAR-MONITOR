@@ -1,22 +1,158 @@
 {
-  "updated": "2026-06-23T09:36:09Z",
-  "count": 24,
+  "updated": "2026-06-23T14:45:20Z",
+  "count": 26,
   "articles": [
     {
-      "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway closed again",
-      "url": "https://www.cnbc.com/2026/06/22/strait-of-hormuz-iran-us-shipping-oil.html",
+      "title": "Vance hails 'great progress' in U.S.-Iran talks despite 'threatening' and 'whining'",
+      "url": "https://www.cnbc.com/2026/06/22/vance-iran-ceasefire-talks-iaea-inspectors.html",
       "source": "CNBC",
-      "publishedAt": "2026-06-22T09:02:20Z",
+      "publishedAt": "2026-06-22T14:41:41Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Crude prices drop after US-Iran talks",
-      "url": "https://punchng.com/crude-prices-drop-after-us-iran-talks/",
-      "source": "The Punch",
-      "publishedAt": "2026-06-22T09:00:23Z",
+      "title": "Iran-US talks to end war beset by tension, mistrust",
+      "url": "https://www.dw.com/en/iran-us-talks-to-end-war-beset-by-tension-mistrust/a-77661546",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-22T14:40:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "Will the US-Iran talks in Switzerland deliver peace? It’s unlikely",
+      "url": "https://theconversation.com/will-the-us-iran-talks-in-switzerland-deliver-peace-its-unlikely-285734",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-06-22T14:30:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Is Russia Losing the War?",
+      "url": "https://gilbertdoctorow.substack.com/p/is-russia-losing-the-war",
+      "source": "Substack.com",
+      "publishedAt": "2026-06-22T14:26:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanese President Discusses With US Vice President Lebanon-Israel Ceasefire",
+      "url": "https://sputnikglobe.com/20260622/lebanese-president-discusses-with-us-vice-president-lebanon-israel-ceasefire-1124343031.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-06-22T13:36:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli airstrikes in Lebanon complicate US-Iran negotiations",
+      "url": "https://cryptobriefing.com/israeli-airstrikes-in-lebanon-complicate-us-iran-negotiations/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-22T13:31:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "WATCH: Sloth bear cubs make Smithsonian National Zoo debut",
+      "url": "https://abcnews.com/video/134093154/",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-22T13:26:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Nuclear Inspectors",
+      "url": "https://reason.com/2026/06/22/nuclear-inspectors/",
+      "source": "Reason",
+      "publishedAt": "2026-06-22T13:16:54Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The US-Iran talks are going nowhere",
+      "url": "https://www.rt.com/news/641967-iran-us-talks-going-nowhere/",
+      "source": "RT",
+      "publishedAt": "2026-06-22T13:12:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ben Gvir to Netanyahu: Tell Trump the truth",
+      "url": "https://www.israelnationalnews.com/news/429016",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-22T13:11:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "JD Vance hails ‘good foundation’ for Iran deal after direct talks",
+      "url": "https://www.vanguardngr.com/2026/06/jd-vance-hails-good-foundation-for-iran-deal-after-direct-talks/",
+      "source": "Vanguard",
+      "publishedAt": "2026-06-22T12:55:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump and the Iran Deal – Another Programmed Deception",
+      "url": "https://www.globalresearch.ca/trump-iran-deal-programmed-deception/5930885",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-22T12:52:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine is showing the West why cheap sensors could be key to defending the skies in future wars",
+      "url": "https://www.businessinsider.com/ukraine-showing-west-cheap-sensors-key-future-air-war-2026-6#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-22T12:16:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Senior commander: Iran ready for any enemy scenario",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260622-presstv07.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-22T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Qatar urges end to Israeli occupation of Lebanon, condemns regime's attacks",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260622-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-22T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Monday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/06/22/monday-hili-dialogue-574/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-06-22T11:45:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin under pressure...",
+      "url": "https://www.kyivpost.com/post/78676",
+      "source": "Kyiv Post",
+      "publishedAt": "2026-06-22T11:00:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex rises 291 points, Nifty above 24,100; markets rebound on global cues",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-22nd-june-2026/article71129135.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-22T10:56:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 6/22/2026",
+      "url": "https://www.nakedcapitalism.com/2026/06/links-6-22-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-06-22T10:55:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "Why are Poland and Ukraine at odds about their history?",
@@ -27,60 +163,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Shipping Slows Through Hormuz After Iran Claims Waterway Closed Again",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260622-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-22T08:51:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran wrap second day of talks after rough start",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-wrap-second-day-of-talks-after-rough-start/articleshow/131904707.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-22T08:47:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Walter Isaacson’s biography of Elon Musk describes how one private decision kept Starlink dark near Crimea in 2022, leaving Ukrainian sea drones suddenly offline before they reached Russia’s Black Sea Fleet",
       "url": "https://spacedaily.com/j-v-walter-isaacsons-biography-of-elon-musk-describes-how-a-single-private-decision-cut-starlink-connectivity-near-ukrainian-front-lines-in-2022-leaving-an-advancing-military-unit-suddenly-offline/",
       "source": "Space Daily",
       "publishedAt": "2026-06-22T08:10:21Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "European Gas Edges Higher After Rocky Start to Iran Peace Talks",
-      "url": "https://financialpost.com/pmn/business-pmn/european-gas-edges-higher-after-rocky-start-to-iran-peace-talks",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-22T07:40:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "JD Vance says US and Iran can 'turn over new leaf' as Swiss resort talks enter second day",
-      "url": "https://www.thejournal.ie/iran-us-peaces-7077821-Jun2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-06-22T07:38:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Booker: Trump, Netanyahu Threaten Middle East Peace",
-      "url": "https://www.newser.com/story/391447/booker-trump-netanyahu-threaten-middle-east-peace.html",
-      "source": "Newser",
-      "publishedAt": "2026-06-22T07:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Is Trump’s Real Plan to Declare a National Emergency and Invoke the Defense Production Act?",
-      "url": "https://www.naturalnews.com/2026-06-22-trump-real-plan-declare-emergency-invoke-dpa.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-22T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Kremlin Warns NATO of a “Devastating Response” After the Largest Ukrainian Drone Attack on Moscow",
@@ -91,30 +179,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US marks 'encouraging progress' in peace talks with Iran after summit was nearly derailed by Trump's fiery threat",
-      "url": "https://www.dailymail.com/news/article-15918723/US-marks-encouraging-progress-peace-talks-Iran.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-22T05:31:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Crude prices drop, most stocks rise on 'positive' US-Iran talks",
-      "url": "https://www.hurriyetdailynews.com/crude-prices-drop-most-stocks-rise-on-positive-us-iran-talks-223535",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-22T05:07:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "'Progress', say mediators, after Iran-US talks on ending war",
-      "url": "https://www.hurriyetdailynews.com/progress-say-mediators-after-iran-us-talks-on-ending-war-223534",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-22T05:03:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Is Zelensky about to attack Belarus?",
       "url": "https://freerepublic.com/focus/f-news/4384859/posts",
       "source": "Freerepublic.com",
@@ -123,44 +187,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US and Iran agree to end 110-day conflict, reopen Strait of Hormuz",
-      "url": "https://cryptobriefing.com/us-and-iran-agree-to-end-110-day-conflict-reopen-strait-of-hormuz/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-22T03:14:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Zelensky doubles down on ultimatum to Russia’s ally",
       "url": "https://www.rt.com/news/641947-zelensky-belarus-lukashenko-ultimatum/",
       "source": "RT",
       "publishedAt": "2026-06-22T03:12:41Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US-Iran negotiations go into Day 2 after Trump shakes talks with threats, Hormuz closure",
-      "url": "https://www.thehindubusinessline.com/news/world/us-iran-negotiations-go-into-day-2-after-trump-shakes-talks-with-threats-hormuz-closure/article71131546.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-06-22T01:41:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran talks go into Day 2 after Trump threats, Hormuz closure",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-talks-go-into-day-2-after-trump-threats-hormuz-closure/articleshow/131899608.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-22T01:22:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran talks in Switzerland: What is known so far?",
-      "url": "https://www.rt.com/news/641945-us-iranian-talks-switzerland/",
-      "source": "RT",
-      "publishedAt": "2026-06-21T23:02:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Senate Wades Even Deeper Into Bloody Years-Long Proxy War In New Defense Bill",
@@ -175,22 +207,6 @@
       "url": "https://www.forbes.com/sites/the-prototype/2026/06/21/this-geothermal-startup-plans-to-use-oil-tech-for-green-energy/",
       "source": "Forbes",
       "publishedAt": "2026-06-21T17:30:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Can Andy Burnham be a better prime minister than Keir Starmer?",
-      "url": "https://www.irishtimes.com/world/uk/2026/06/21/can-andy-burnham-be-a-better-prime-minister-than-keir-starmer/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-06-21T17:05:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A top NATO commander says cheap drones are breaking the West's old air-defense playbook",
-      "url": "https://www.businessinsider.com/nato-can-no-longer-sit-back-defending-skies-nato-commander-2026-6#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-06-21T11:37:02Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

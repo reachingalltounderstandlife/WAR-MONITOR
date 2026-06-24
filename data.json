@@ -1,7 +1,127 @@
 {
-  "updated": "2026-06-23T20:02:05Z",
-  "count": 25,
+  "updated": "2026-06-24T03:29:38Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "North Korea's Kim vows to accelerate military buildup: KCNA",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-accelerate-military-build-up-6202041",
+      "source": "CNA",
+      "publishedAt": "2026-06-23T00:31:06Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Russia Is Single-Handedly Standing Against The West: Putin",
+      "url": "https://www.activistpost.com/russia-is-single-handedly-standing-against-the-west-putin/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-06-23T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon should be Israel’s ‘playground’ – minister",
+      "url": "https://www.rt.com/news/641987-lebanon-israel-playground-minister/",
+      "source": "RT",
+      "publishedAt": "2026-06-22T23:37:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Vance touts progress in Iran talks as U.S. temporarily lifts oil sanctions",
+      "url": "https://www.pbs.org/newshour/show/vance-touts-progress-in-iran-talks-as-u-s-temporarily-lifts-oil-sanctions",
+      "source": "PBS",
+      "publishedAt": "2026-06-22T22:55:57Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Kim: Nuclear buildup only way for N. Korea",
+      "url": "https://biztoc.com/x/ce20cd697f120828",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-22T22:53:47Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea's Kim says country will exercise its position as nuclear state, KCNA reports​​",
+      "url": "https://uk.news.yahoo.com/north-koreas-kim-says-country-214346897.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-22T22:44:59Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Starmer Resigns as Burnham Eyes Top Job",
+      "url": "http://foreignpolicy.com/2026/06/22/keir-starmer-uk-prime-minister-resignation-andy-burnham-labour/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-06-22T22:13:02Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Optimism after first talks as U.S. waives Iran sanctions and Lebanon fighting abates",
+      "url": "https://japantoday.com/category/world/optimism-after-first-talks-as-us-waives-iran-sanctions-and-lebanon-fighting-abates",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-22T21:27:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Vance: Iran Deal Has ‘Successful Foundation’",
+      "url": "https://www.dailysignal.com/2026/06/22/vance-iran-deal-has-successful-foundation/",
+      "source": "Daily Signal",
+      "publishedAt": "2026-06-22T21:20:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Russia preparing hybrid attacks on NATO's eastern flank, intelligence warns",
+      "url": "https://www.foxnews.com/world/russia-preparing-hybrid-attacks-natos-eastern-flank-intelligence-warns",
+      "source": "Fox News",
+      "publishedAt": "2026-06-22T20:59:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A warmer tone prevails at G-7 summit",
+      "url": "https://theweek.com/world-news/a-warmer-tone-prevails-at-g7-summit",
+      "source": "The Week Magazine",
+      "publishedAt": "2026-06-22T20:52:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What's been achieved by the US–Iran talks so far",
+      "url": "https://www.abc.net.au/news/2026-06-23/results-of-us-iran-talks-in-switzerland/106830092",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-22T20:40:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu, Katz and Zamir issue a rare joint statement",
+      "url": "https://www.israelnationalnews.com/news/429039",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-22T20:33:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli attacks kill over 4,100 in Lebanon, escalating conflict with Hezbollah",
+      "url": "https://cryptobriefing.com/israeli-attacks-kill-over-4100-in-lebanon-escalating-conflict-with-hezbollah/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-22T20:25:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "How the Iran Deal Sets the Stage for More Conflict",
+      "url": "http://foreignpolicy.com/2026/06/22/trump-iran-israel-war-oil-deal-gaza/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-06-22T20:16:49Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Obama-era inspection flaws in Iran could persist as experts warn of nuclear blind spots",
       "url": "https://www.foxnews.com/politics/obama-era-inspection-flaws-iran-could-persist-experts-warn-nuclear-blind-spots",
@@ -67,14 +187,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "U.S.–Iran accord draws applause from Bishop Zaidan",
-      "url": "https://www.ewtnnews.com/world/us/u-s-iran-accord-draws-applause-from-bishop-zaidan",
-      "source": "Ewtnnews.com",
-      "publishedAt": "2026-06-22T16:30:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Trump Tests the Limits of Farcepolitik",
       "url": "http://foreignpolicy.com/2026/06/22/trump-iran-memorandum-ceasefire-delusion-farcepolitik/",
       "source": "Foreign Policy",
@@ -91,42 +203,10 @@
       "_label": "Iran War"
     },
     {
-      "title": "Israel Reserves Full Freedom of Action in Southern Lebanon – Prime Minister",
-      "url": "https://sputnikglobe.com/20260622/israel-reserves-full-freedom-of-action-in-southern-lebanon--prime-minister-1124343776.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-06-22T15:16:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Netanyahu’s war on Iran was a pitch for Israel’s future, and it failed",
       "url": "https://mondoweiss.net/2026/06/netanyahus-war-on-iran-was-a-pitch-for-israels-future-and-it-failed/",
       "source": "Mondoweiss",
       "publishedAt": "2026-06-22T14:56:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Vance hails 'great progress' in U.S.-Iran talks despite 'threatening' and 'whining'",
-      "url": "https://www.cnbc.com/2026/06/22/vance-iran-ceasefire-talks-iaea-inspectors.html",
-      "source": "CNBC",
-      "publishedAt": "2026-06-22T14:41:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran-US talks to end war beset by tension, mistrust",
-      "url": "https://www.dw.com/en/iran-us-talks-to-end-war-beset-by-tension-mistrust/a-77661546",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-22T14:40:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Will the US-Iran talks in Switzerland deliver peace? It’s unlikely",
-      "url": "https://theconversation.com/will-the-us-iran-talks-in-switzerland-deliver-peace-its-unlikely-285734",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-06-22T14:30:38Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -137,22 +217,6 @@
       "publishedAt": "2026-06-22T14:26:41Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Lebanese President Discusses With US Vice President Lebanon-Israel Ceasefire",
-      "url": "https://sputnikglobe.com/20260622/lebanese-president-discusses-with-us-vice-president-lebanon-israel-ceasefire-1124343031.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-06-22T13:36:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli airstrikes in Lebanon complicate US-Iran negotiations",
-      "url": "https://cryptobriefing.com/israeli-airstrikes-in-lebanon-complicate-us-iran-negotiations/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-22T13:31:10Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Ukraine is showing the West why cheap sensors could be key to defending the skies in future wars",
@@ -175,30 +239,6 @@
       "url": "https://www.kyivpost.com/post/78676",
       "source": "Kyiv Post",
       "publishedAt": "2026-06-22T11:00:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why are Poland and Ukraine at odds about their history?",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/why-are-poland-and-ukraine-at-odds-about-their-history/articleshow/131904925.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-22T08:58:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Walter Isaacson’s biography of Elon Musk describes how one private decision kept Starlink dark near Crimea in 2022, leaving Ukrainian sea drones suddenly offline before they reached Russia’s Black Sea Fleet",
-      "url": "https://spacedaily.com/j-v-walter-isaacsons-biography-of-elon-musk-describes-how-a-single-private-decision-cut-starlink-connectivity-near-ukrainian-front-lines-in-2022-leaving-an-advancing-military-unit-suddenly-offline/",
-      "source": "Space Daily",
-      "publishedAt": "2026-06-22T08:10:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Kremlin Warns NATO of a “Devastating Response” After the Largest Ukrainian Drone Attack on Moscow",
-      "url": "https://www.naturalnews.com/2026-06-22-kremlin-devastating-response-after-largest-drone-attack.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-22T06:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

@@ -1,7 +1,151 @@
 {
-  "updated": "2026-06-25T03:27:15Z",
-  "count": 35,
+  "updated": "2026-06-25T09:22:16Z",
+  "count": 39,
   "articles": [
+    {
+      "title": "North Korea commissions largest-ever warship",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/north-korea-commissions-largest-ever-warship",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-24T08:57:33Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "As Netanyahu keeps IDF in the dark, officers warn against emerging Lebanon 'deconflicting cell'",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-06-24/ty-article/.premium/as-netanyahu-keeps-idf-in-the-dark-officials-warn-against-new-lebanon-mechanism/0000019e-f80d-d1a6-adde-fc3d54120000",
+      "source": "Haaretz",
+      "publishedAt": "2026-06-24T08:35:40Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "'Pragmatists' vs 'hardliners': Is Iran split over US deal?",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/pragmatists-vs-hardliners-is-iran-split-over-us-deal/articleshow/131960869.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-24T08:28:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea’s Kim unveils plans for 10,000-ton warships, nuclear navy",
+      "url": "https://www.vanguardngr.com/2026/06/north-koreas-kim-unveils-plans-for-10000-ton-warships-nuclear-navy/",
+      "source": "Vanguard",
+      "publishedAt": "2026-06-24T07:43:12Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "From Vietnam to Iran: Wartime Diplomacy and Secret Deals",
+      "url": "https://warontherocks.com/from-vietnam-to-iran-wartime-diplomacy-and-secret-deals/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-06-24T07:30:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
+      "url": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-24T07:04:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Kim Jong-un Hails Nuclear-Armed Navy as New Destroyer Enters Service",
+      "url": "https://sputnikglobe.com/20260624/kim-jong-un-hails-nuclear-armed-navy-as-new-destroyer-enters-service-1124351557.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-06-24T06:54:25Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US Congress passes symbolic Iran war rebuke to Trump",
+      "url": "https://www.hurriyetdailynews.com/us-congress-passes-symbolic-iran-war-rebuke-to-trump-223626",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-24T06:54:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia and NATO march toward a wider war as Russia deploys nuclear-capable bombers in the Arctic",
+      "url": "https://www.naturalnews.com/2026-06-24-russia-and-nato-march-toward-wider-war.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-24T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump demands nuclear inspections “into infinity” as fragile Iran deal holds",
+      "url": "https://www.naturalnews.com/2026-06-24-trump-demands-nuclear-inspections-into-infinity.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-24T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hyundai Bayon SUV spied alongside Maruti Victoris: Details",
+      "url": "https://timesofindia.indiatimes.com/auto/cars/hyundai-bayon-suv-spied-alongside-maruti-victoris-details/articleshow/131956078.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-24T05:30:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Mumbai local shocker: 22-year-old stabbed in first-class coach",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/argument-over-closing-train-door-turns-violent-22-year-old-stabbed-on-mumbai-local/articleshow/131955452.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-24T05:24:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "ICAI CA Inter May result 2026 released at caresults.icai.org: Direct link to download scorecards",
+      "url": "https://timesofindia.indiatimes.com/education/news/icai-ca-inter-may-result-2026-released-at-caresults-icai-org-direct-link-to-download-scorecards/articleshow/131955920.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-24T05:22:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Gurgaon police arrest man, apprehend juvenile for dangerous stunt on Sohna Expressway; Scorpio seized",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/gurgaon-police-arrest-man-apprehend-juvenile-for-dangerous-stunt-on-sohna-expressway-scorpio-seized/articleshow/131955742.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-24T05:10:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea's Kim claims progress on nuclear-armed navy with new warship",
+      "url": "https://www.thehindubusinessline.com/news/world/north-koreas-kim-claims-progress-on-nuclear-armed-navy-with-new-warship/article71140254.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-24T04:44:04Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "RPSC SI result 2026 released at rpsc.rajasthan.gov.in: Check direct link to download Rajasthan Police scorecards",
+      "url": "https://timesofindia.indiatimes.com/education/news/rpsc-si-result-2026-released-at-rpsc-rajasthan-gov-in-check-direct-link-to-download-rajasthan-police-scorecards/articleshow/131955048.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-24T04:39:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelensky Keeps Threatening Belarus",
+      "url": "https://www.lewrockwell.com/2026/06/no_author/zelensky-keeps-threatening-belarus/",
+      "source": "Lewrockwell.com",
+      "publishedAt": "2026-06-24T04:01:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kim Jong Un deploys nuclear destroyer, ordering fleet of 10,000-ton warships",
+      "url": "https://www.israelnationalnews.com/news/429104",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-24T03:56:24Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "North Korea's Kim unveils plans for 10,000-tonne warships, nuclear navy",
       "url": "https://biztoc.com/x/63a9eaf4afebdbb1",
@@ -35,36 +179,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "North Korea's Kim unveils plans for 10,000-ton warships, nuclear navy",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-unveils-nuclear-navy-warship-plans-6205001",
-      "source": "CNA",
-      "publishedAt": "2026-06-24T00:42:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Congress passes war powers measure instructing Trump to end Iran conflict",
-      "url": "https://cryptobriefing.com/congress-war-powers-iran-crypto-impact/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-24T00:41:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The war we must fight to win",
-      "url": "https://www.vanguardngr.com/2026/06/the-war-we-must-fight-to-win/",
-      "source": "Vanguard",
-      "publishedAt": "2026-06-24T00:27:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Netanyahu Cannot Have a Veto Over US Iran Diplomacy",
       "url": "https://original.antiwar.com/greg_pence/2026/06/23/netanyahu-cannot-have-a-veto-over-us-iran-diplomacy/",
       "source": "Antiwar.com",
       "publishedAt": "2026-06-24T00:00:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Why Space Is Becoming A Critical Domain Of Modern Warfare",
@@ -83,14 +203,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
-      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o",
-      "source": "BBC News",
-      "publishedAt": "2026-06-23T20:45:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Putin says NATO is preparing for war against his country",
       "url": "https://en.protothema.gr/2026/06/23/putin-says-nato-is-preparing-for-war-against-his-country/",
       "source": "Protothema.gr",
@@ -103,16 +215,16 @@
       "url": "https://theconversation.com/iran-just-outlasted-the-worlds-most-powerful-military-what-can-australia-learn-from-its-strategies-284443",
       "source": "The Conversation Africa",
       "publishedAt": "2026-06-23T19:25:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Australians financially supporting family in Lebanon say they have no other option",
       "url": "https://www.abc.net.au/news/2026-06-24/lebanese-australians-supporting-family-amid-war-lebanon/106779272",
       "source": "ABC News (AU)",
       "publishedAt": "2026-06-23T18:46:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump: Iran has agreed to 'N' checks till infinity; no talks with IAEA, says Tehran",
@@ -131,20 +243,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Et tu, Donald?",
-      "url": "https://www.israelnationalnews.com/news/429085",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-23T17:35:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel Rejects Iran & US Calls To Halt War With Lebanon",
       "url": "https://www.shtfplan.com/headline-news/israel-rejects-iran-us-calls-to-halt-war-with-lebanon",
       "source": "Shtfplan.com",
       "publishedAt": "2026-06-23T17:30:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "West no longer hiding plans for war with Russia – Putin",
@@ -153,22 +257,6 @@
       "publishedAt": "2026-06-23T15:01:51Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "The Strait of Hormuz is ‘open’ — but it’s mined, half-empty, and subject to tolls both sides say they might charge",
-      "url": "https://fortune.com/2026/06/23/strait-hormuz-tolls-iran-us-shipping-mines-ceasefire/",
-      "source": "Fortune",
-      "publishedAt": "2026-06-23T14:49:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump cheers much-needed dip in oil prices and declares Strait of Hormuz OPEN… as peace with Iran remains in the balance",
-      "url": "https://www.dailymail.com/news/article-15922817/Trump-cheers-needed-dip-oil-prices-declares-Strait-Hormuz-OPEN-peace-Iran-remains-balance.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-23T14:37:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Poland, Ukraine, and the Ongoing Battle Over the Ukrainian Insurgent Army",
@@ -195,14 +283,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "GOP Senator Warns Of Trump-Iran ‘Rope-A-Dope’ Deal Theory",
-      "url": "https://www.huffpost.com/entry/gop-senator-tim-sheehy-trump-iran-deal-theory-rope-a-dope_n_6a3a51f7e4b0488a51ae3c29",
-      "source": "HuffPost",
-      "publishedAt": "2026-06-23T12:44:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "An Australian View of the New Trump Iran Deal",
       "url": "https://thediplomat.com/2026/06/an-australian-view-of-the-new-trump-iran-deal/",
       "source": "The Diplomat",
@@ -225,54 +305,6 @@
       "publishedAt": "2026-06-23T12:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Putin says West preparing for war with Russia, warns Moscow ready to respond",
-      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/06/russia-260623-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-23T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hezbollah says Israeli project 'broken,' urges full withdrawal from Lebanon",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260623-presstv04.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-23T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Europe must be ready to replace key US weaponry 'soon': EU defence chief",
-      "url": "https://economictimes.indiatimes.com/news/defence/europe-must-be-ready-to-replace-key-us-weaponry-soon-eu-defence-chief/articleshow/131936042.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-23T11:32:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "North Korea’s Kim vows to accelerate military buildup",
-      "url": "https://www.vanguardngr.com/2026/06/north-koreas-kim-vows-to-accelerate-military-buildup/",
-      "source": "Vanguard",
-      "publishedAt": "2026-06-23T09:26:22Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korean leader criticizes Japan as turning into 'war state'",
-      "url": "https://japantoday.com/category/politics/update1-north-korean-leader-criticizes-japan-as-turning-into-war-state",
-      "source": "Japan Today",
-      "publishedAt": "2026-06-23T07:26:48Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea's Kim vows to accelerate military buildup",
-      "url": "https://biztoc.com/x/b1ffd8e9c8180354",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-23T06:14:31Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "Why is the US in Iran?",

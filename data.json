@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-24T19:44:03Z",
+  "updated": "2026-06-25T03:27:15Z",
   "count": 35,
   "articles": [
+    {
+      "title": "North Korea's Kim unveils plans for 10,000-tonne warships, nuclear navy",
+      "url": "https://biztoc.com/x/63a9eaf4afebdbb1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-06-24T03:02:31Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Kim Jong Un calls for North Korea to build 2 large warships per year in major naval expansion push: report",
+      "url": "https://www.foxnews.com/world/kim-jong-un-calls-north-korea-build-two-large-warships-per-year-major-naval-expansion-push",
+      "source": "Fox News",
+      "publishedAt": "2026-06-24T02:20:08Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea commissions first 5,000-ton destroyer, vows to build a nuclear navy",
+      "url": "https://cryptobriefing.com/north-korea-destroyer-nuclear-navy-crypto/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-24T02:05:38Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea's Kim claims progress on nuclear-armed navy as new warship is placed into service",
+      "url": "https://abcnews.com/International/wireStory/north-koreas-kim-claims-progress-nuclear-armed-navy-134153016",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-24T01:57:59Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea's Kim unveils plans for 10,000-ton warships, nuclear navy",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-unveils-nuclear-navy-warship-plans-6205001",
+      "source": "CNA",
+      "publishedAt": "2026-06-24T00:42:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Congress passes war powers measure instructing Trump to end Iran conflict",
+      "url": "https://cryptobriefing.com/congress-war-powers-iran-crypto-impact/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-24T00:41:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The war we must fight to win",
+      "url": "https://www.vanguardngr.com/2026/06/the-war-we-must-fight-to-win/",
+      "source": "Vanguard",
+      "publishedAt": "2026-06-24T00:27:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu Cannot Have a Veto Over US Iran Diplomacy",
+      "url": "https://original.antiwar.com/greg_pence/2026/06/23/netanyahu-cannot-have-a-veto-over-us-iran-diplomacy/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-06-24T00:00:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why Space Is Becoming A Critical Domain Of Modern Warfare",
+      "url": "https://www.forbes.com/sites/zitaballingerfletcher/2026/06/23/why-space-is-becoming-a-critical-domain-of-modern-warfare/",
+      "source": "Forbes",
+      "publishedAt": "2026-06-23T22:58:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S., Iran spar over nuclear checks as stranded ships poised to leave Gulf",
+      "url": "https://japantoday.com/category/world/us-iran-spar-over-nuclear-checks-as-stranded-ships-poised-to-leave-gulf",
+      "source": "Japan Today",
+      "publishedAt": "2026-06-23T21:33:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Congress passes war powers measure for first time, rebuking Trump's war with Iran",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o",
+      "source": "BBC News",
+      "publishedAt": "2026-06-23T20:45:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin says NATO is preparing for war against his country",
+      "url": "https://en.protothema.gr/2026/06/23/putin-says-nato-is-preparing-for-war-against-his-country/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-06-23T19:59:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Iran just outlasted the world’s most powerful military. What can Australia learn from its strategies?",
       "url": "https://theconversation.com/iran-just-outlasted-the-worlds-most-powerful-military-what-can-australia-learn-from-its-strategies-284443",
@@ -71,8 +167,8 @@
       "url": "https://www.dailymail.com/news/article-15922817/Trump-cheers-needed-dip-oil-prices-declares-Strait-Hormuz-OPEN-peace-Iran-remains-balance.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-06-23T14:37:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Poland, Ukraine, and the Ongoing Battle Over the Ukrainian Insurgent Army",
@@ -103,8 +199,8 @@
       "url": "https://www.huffpost.com/entry/gop-senator-tim-sheehy-trump-iran-deal-theory-rope-a-dope_n_6a3a51f7e4b0488a51ae3c29",
       "source": "HuffPost",
       "publishedAt": "2026-06-23T12:44:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "An Australian View of the New Trump Iran Deal",
@@ -121,22 +217,6 @@
       "publishedAt": "2026-06-23T12:30:46Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "The President of the United States of America is also the……",
-      "url": "https://www.activistpost.com/the-president-of-the-united-states-of-america-is-also-the/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-06-23T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Says No Plans to Allow Inspections Of Bombed Nuclear Sites",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260623-rferl05.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-23T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Day 1,581 of WW3. Belarusian opposition claims Minsk is preparing to enter the war against Ukraine. Orc legislator wants mandatory military training for 5th graders, and Moscow sets up SAM sites in city parks. This is your Tuesday Ukraine War thread [News]",
@@ -163,42 +243,10 @@
       "_label": "Lebanon"
     },
     {
-      "title": "‘What ceasefire?’: In northern Israel, locals doubt an agreement can end the war with Hezbollah - CNN",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184052482",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-06-23T11:32:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Europe must be ready to replace key US weaponry 'soon': EU defence chief",
       "url": "https://economictimes.indiatimes.com/news/defence/europe-must-be-ready-to-replace-key-us-weaponry-soon-eu-defence-chief/articleshow/131936042.cms",
       "source": "The Times of India",
       "publishedAt": "2026-06-23T11:32:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The US and Israel’s (Covert and Overt) Political and Election Meddling, on Multiple Continents, Is Off the Charts",
-      "url": "https://www.nakedcapitalism.com/2026/06/the-us-and-israels-covert-and-overt-election-meddling-on-multiple-continents-is-off-the-charts-2.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-06-23T10:45:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel continues operations in Lebanon despite US-brokered ceasefire",
-      "url": "https://cryptobriefing.com/israel-continues-operations-in-lebanon-despite-us-brokered-ceasefire/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-23T10:41:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Europe's defense ambitions get reality check",
-      "url": "https://www.dw.com/en/europes-defense-ambitions-get-reality-check/a-77650976",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-23T09:50:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -231,54 +279,6 @@
       "url": "https://www.counterpunch.org/2026/06/23/why-is-the-us-in-iran/",
       "source": "CounterPunch",
       "publishedAt": "2026-06-23T05:57:58Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "North Korea's Kim vows to accelerate military buildup: KCNA",
-      "url": "https://economictimes.indiatimes.com/news/defence/north-koreas-kim-vows-to-accelerate-military-buildup-kcna/articleshow/131926889.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-23T05:56:13Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea reaffirms nuclear state position as its crypto theft machine funds the arsenal",
-      "url": "https://cryptobriefing.com/north-korea-nuclear-crypto-theft-funding/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-06-23T03:47:37Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea's Kim vows to accelerate military buildup: KCNA",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-accelerate-military-build-up-6202041",
-      "source": "CNA",
-      "publishedAt": "2026-06-23T00:31:06Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim: Nuclear buildup only way for N. Korea",
-      "url": "https://biztoc.com/x/ce20cd697f120828",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-06-22T22:53:47Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea's Kim says country will exercise its position as nuclear state, KCNA reports​​",
-      "url": "https://uk.news.yahoo.com/north-koreas-kim-says-country-214346897.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-22T22:44:59Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Monday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/06/22/monday-hili-dialogue-574/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-06-22T11:45:12Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
     }

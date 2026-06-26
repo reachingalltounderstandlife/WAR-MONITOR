@@ -1,7 +1,119 @@
 {
-  "updated": "2026-06-26T14:21:50Z",
+  "updated": "2026-06-26T19:44:55Z",
   "count": 37,
   "articles": [
+    {
+      "title": "Lukashenko says he warned Ukraine not to drag Belarus into war",
+      "url": "https://www.yahoo.com/news/articles/russia-denies-wsj-report-pushing-094740728.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-25T18:51:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Has Given at Least $21.7 Billion in Military Aid to Israel Since War in Gaza Began, Report Says",
+      "url": "https://military.com/daily-news/2025/10/07/us-has-given-least-217-billion-military-aid-israel-war-gaza-began-report-says.html",
+      "source": "Military.com",
+      "publishedAt": "2026-06-25T18:43:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran: UK Navy reports cargo vessel hit in Strait of Hormuz",
+      "url": "https://www.dw.com/en/iran-uk-navy-reports-cargo-vessel-hit-in-strait-of-hormuz/live-77702733",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-25T18:25:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Counterterrorism Aircraft Could Be Surprisingly Useful in a Taiwan War",
+      "url": "https://thediplomat.com/2026/06/us-counterterrorism-aircraft-could-be-surprisingly-useful-in-a-taiwan-war/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-06-25T18:02:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Polish opposition to EU membership for Ukraine surges – poll",
+      "url": "https://www.rt.com/news/642160-poles-against-ukraine-eu-membership/",
+      "source": "RT",
+      "publishedAt": "2026-06-25T18:00:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "British Military Says Cargo Ship Was Hit While Crossing Strait of Hormuz",
+      "url": "https://www.breitbart.com/europe/2026/06/25/british-military-says-cargo-ship-was-hit-while-crossing-strait-of-hormuz/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-06-25T17:17:38Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Row With Republican Senator Clouds US Drive to Sell Iran Deal to Gulf Allies",
+      "url": "https://gcaptain.com/trump-row-with-republican-senator-clouds-us-drive-to-sell-iran-deal-to-gulf-allies/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-06-25T17:13:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "British military says a cargo ship was hit while moving through the Strait of Hormuz",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/british-military-says-a-cargo-ship-was-hit-while-moving-through-the-strait-of-hormuz/articleshow/131999460.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-25T17:12:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
+      "url": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-25T17:11:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "EU member vows to oppose Ukraine arms loan",
+      "url": "https://www.rt.com/news/642126-slovakia-ukraine-arms-supplies/",
+      "source": "RT",
+      "publishedAt": "2026-06-25T16:43:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Rubio seeks to allay Gulf state fears, but allies have reason to worry about peace deal",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/06/25/rubio-seeks-to-allay-gulf-state-fears-but-allies-have-reason-to-worry-about-peace-deal/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-06-25T16:08:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel: No troop withdrawal timeframe from Lebanon, Gaza",
+      "url": "https://www.rte.ie/news/middle-east/2026/0625/1580345-israel-south-lebanon/",
+      "source": "RTE",
+      "publishedAt": "2026-06-25T15:32:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel kills three in Lebanon as Rubio praises progress in Washington talks",
+      "url": "https://www.aljazeera.com/news/2026/6/25/israel-kills-three-in-lebanon-as-rubio-praises-progress-in-washington-talks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-25T15:05:45Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "IRGC warns against new Hormuz route for ships: What we know",
+      "url": "https://www.aljazeera.com/news/2026/6/25/irgc-warns-against-new-hormuz-route-for-ships-what-we-know",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-25T14:33:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Deconfliction and disarmament: Can both be pursued in Lebanon?",
       "url": "https://www.aljazeera.com/news/2026/6/25/deconfliction-and-disarmament-can-both-be-pursued-in-lebanon",
@@ -31,8 +143,8 @@
       "url": "https://www.fairobserver.com/region/europe/europes-alliance-trap-autonomy-ambitions-and-nato-dependence/",
       "source": "Fair Observer",
       "publishedAt": "2026-06-25T12:54:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Europe’s War Hype Running on Empty?",
@@ -51,24 +163,16 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Iran Demands Accountability For NATO's 'Complicity' With US In War",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260625-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-25T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Foreign Minister Tsahkna in Gdańsk: Ukraine's battlefield experience is invaluable for strengthening Europe's defence capabilities",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/06/ukraine-260625-estonia-mfa01.htm",
+      "title": "Franco-Italian joint statement.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/france/2026/france-260625-elysee01.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-06-25T12:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Franco-Italian joint statement.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/france/2026/france-260625-elysee01.htm",
+      "title": "Foreign Minister Tsahkna in Gdańsk: Ukraine's battlefield experience is invaluable for strengthening Europe's defence capabilities",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/06/ukraine-260625-estonia-mfa01.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-06-25T12:00:00Z",
       "_cat": "ukraine",
@@ -83,36 +187,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Gdańsk Declaration",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260625-lithuania-pres02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-25T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The President: The security of the Eastern Flank is the security of all of Europe",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260625-lithuania-pres01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-25T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Japan's pursuit of nuclear weapons has become a real threat: Defense Spokesperson",
       "url": "https://www.globalsecurity.org/wmd/library/news/japan/2026/japan-260625-prc-mnd01.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-06-25T12:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Ukrainian commander says the way NATO's trying to develop naval drones makes him uneasy",
-      "url": "https://www.businessinsider.com/ukrainian-commander-nato-developing-naval-drones-2026-6#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-06-25T11:43:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Oil Tankers Navigate the Strait of Hormuz Despite Threats from Iran's Revolutionary Guard",
@@ -123,92 +203,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "US says wants deal with Iran but not ‘at any price’",
-      "url": "https://www.vanguardngr.com/2026/06/us-says-wants-deal-with-iran-but-not-at-any-price/",
-      "source": "Vanguard",
-      "publishedAt": "2026-06-25T11:15:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 6/25/2026",
-      "url": "https://www.nakedcapitalism.com/2026/06/links-6-25-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-06-25T10:55:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "FBI warns battlefield-style drone attacks could reach US: 'Only a matter of time'",
-      "url": "https://www.foxnews.com/politics/fbi-warns-battlefield-style-drone-attacks-could-reach-us-only-matter-time",
-      "source": "Fox News",
-      "publishedAt": "2026-06-25T10:00:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil Tanker Navigates Strait Of Hormuz Despite Threats From Iran's Revolutionary Guard",
-      "url": "https://www.huffpost.com/entry/us-iran-strait-of-hormuz_n_6a3ce8d9e4b09ad6867857e9",
-      "source": "HuffPost",
-      "publishedAt": "2026-06-25T08:45:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Ημερήσια Γεωπολιτική Επισκόπηση - 25/06/2026",
-      "url": "https://i-epikaira.blogspot.com/2026/06/25062026_02519150.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-06-25T08:29:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "An oil tanker navigates the Strait of Hormuz despite threats from Iran’s Revolutionary Guard",
-      "url": "https://nypost.com/2026/06/25/world-news/an-oil-tanker-navigates-the-strait-of-hormuz-despite-threats-from-irans-revolutionary-guard/",
-      "source": "New York Post",
-      "publishedAt": "2026-06-25T07:56:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil tanker navigates Strait of Hormuz despite threats from Iran's Revolutionary Guard",
-      "url": "https://abcnews.com/Business/wireStory/oil-tanker-navigates-strait-hormuz-despite-threats-irans-134196000",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-06-25T06:39:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "An oil tanker navigates the Strait of Hormuz despite threats from Iran's Revolutionary Guard",
-      "url": "https://www.yahoo.com/news/world/articles/oil-tanker-navigates-strait-hormuz-061149587.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-25T06:11:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "The Code War: A Race to What End?",
       "url": "https://smallwarsjournal.com/2026/06/25/the-code-war-a-race-to-what-end/",
       "source": "Smallwarsjournal.com",
       "publishedAt": "2026-06-25T06:00:40Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Senate Passes Iran War Powers Resolution in Symbolic Rebuke of Trump Policy",
-      "url": "https://www.naturalnews.com/2026-06-25-senate-passes-resolution-symbolic-rebuke-of-trump-policy.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-25T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli strike on south Lebanon kills two, Hezbollah accuses it of truce 'violation'",
-      "url": "https://economictimes.indiatimes.com/news/defence/israeli-strike-on-south-lebanon-kills-two-hezbollah-accuses-it-of-truce-violation/articleshow/131982057.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-25T04:17:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Gas, nukes, and historical bad blood: Can Eastern Europe pull itself together?",

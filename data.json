@@ -1,14 +1,150 @@
 {
-  "updated": "2026-06-26T09:23:18Z",
-  "count": 32,
+  "updated": "2026-06-26T14:21:50Z",
+  "count": 37,
   "articles": [
     {
-      "title": "NATO allies to pledge billions in arms deals, Ukraine aid at Ankara summit",
-      "url": "https://www.politico.eu/article/nato-allies-arms-contracts-weapon-production-ankara-summit/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-06-25T09:00:39Z",
+      "title": "Deconfliction and disarmament: Can both be pursued in Lebanon?",
+      "url": "https://www.aljazeera.com/news/2026/6/25/deconfliction-and-disarmament-can-both-be-pursued-in-lebanon",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-25T14:10:27Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The flaws at the heart of Donald Trump’s Iran ceasefire deal",
+      "url": "https://theconversation.com/the-flaws-at-the-heart-of-donald-trumps-iran-ceasefire-deal-286185",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-06-25T14:09:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The World War is Not Over Yet. Trump’s Bid to Dominate the World",
+      "url": "https://www.globalresearch.ca/world-war-not-over-trump-bid-dominate-world/5931332",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-25T13:28:19Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "Europe’s Alliance Trap: Autonomy Ambitions and NATO Dependence",
+      "url": "https://www.fairobserver.com/region/europe/europes-alliance-trap-autonomy-ambitions-and-nato-dependence/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-06-25T12:54:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Europe’s War Hype Running on Empty?",
+      "url": "https://sputnikglobe.com/20260625/europes-war-hype-running-on-empty-1124357962.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-06-25T12:38:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Defense Minister: 'Every dollar given to Iran goes to terror'",
+      "url": "https://www.israelnationalnews.com/news/429188",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-25T12:31:27Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran Demands Accountability For NATO's 'Complicity' With US In War",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260625-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-25T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Foreign Minister Tsahkna in Gdańsk: Ukraine's battlefield experience is invaluable for strengthening Europe's defence capabilities",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/06/ukraine-260625-estonia-mfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-25T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Franco-Italian joint statement.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/france/2026/france-260625-elysee01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-25T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Day 1,583 of WW3. Pooty Poot deploys more air defense systems to Moscow and the Kerch Bridge- but UAF strikes don't matter. Lickspittle Luka shuts down the transmitters that help guide orc drone attacks. This is your Thursday Ukraine War thread [News]",
+      "url": "https://www.fark.com/comments/14110578/Day-1583-of-WW3-Pooty-Poot-deploys-more-air-defense-systems-to-Moscow-the-Kerch-Bridge-but-UAF-strikes-dont-matter-Lickspittle-Luka-shuts-down-transmitters-that-help-guide-orc-drone-attacks-This-is-your-Thursday-Ukraine-War-thread",
+      "source": "Fark.com",
+      "publishedAt": "2026-06-25T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Gdańsk Declaration",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260625-lithuania-pres02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-25T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The President: The security of the Eastern Flank is the security of all of Europe",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260625-lithuania-pres01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-25T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Japan's pursuit of nuclear weapons has become a real threat: Defense Spokesperson",
+      "url": "https://www.globalsecurity.org/wmd/library/news/japan/2026/japan-260625-prc-mnd01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-25T12:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Ukrainian commander says the way NATO's trying to develop naval drones makes him uneasy",
+      "url": "https://www.businessinsider.com/ukrainian-commander-nato-developing-naval-drones-2026-6#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-25T11:43:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Oil Tankers Navigate the Strait of Hormuz Despite Threats from Iran's Revolutionary Guard",
+      "url": "https://military.com/oil-tankers-navigate-the-strait-of-hormuz-despite-threats-from-irans-revolutionary-guard",
+      "source": "Military.com",
+      "publishedAt": "2026-06-25T11:35:43Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US says wants deal with Iran but not ‘at any price’",
+      "url": "https://www.vanguardngr.com/2026/06/us-says-wants-deal-with-iran-but-not-at-any-price/",
+      "source": "Vanguard",
+      "publishedAt": "2026-06-25T11:15:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 6/25/2026",
+      "url": "https://www.nakedcapitalism.com/2026/06/links-6-25-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-06-25T10:55:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "FBI warns battlefield-style drone attacks could reach US: 'Only a matter of time'",
+      "url": "https://www.foxnews.com/politics/fbi-warns-battlefield-style-drone-attacks-could-reach-us-only-matter-time",
+      "source": "Fox News",
+      "publishedAt": "2026-06-25T10:00:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "Oil Tanker Navigates Strait Of Hormuz Despite Threats From Iran's Revolutionary Guard",
@@ -67,68 +203,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Ritter Accuses Google’s Eric Schmidt of Funding “Terrorist” Drones Targeting Ukrainian Civilians",
-      "url": "https://www.naturalnews.com/2026-06-25-ritter-accuses-google-schmidt-funding-terrorist-drones-ukraine.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-06-25T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israeli strike on south Lebanon kills two, Hezbollah accuses it of truce 'violation'",
       "url": "https://economictimes.indiatimes.com/news/defence/israeli-strike-on-south-lebanon-kills-two-hezbollah-accuses-it-of-truce-violation/articleshow/131982057.cms",
       "source": "The Times of India",
       "publishedAt": "2026-06-25T04:17:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Trapped by his Self-Inflicted War",
-      "url": "https://www.juancole.com/2026/06/trump-trapped-inflicted.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-06-25T04:06:12Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Netherlands ramps up Lebanese military support to neutralize Hezbollah",
-      "url": "https://www.israelnationalnews.com/news/429167",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-06-25T03:58:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Practical Bankruptcy of Ideological Purity: Political Will and Historical Blindness",
-      "url": "https://www.globalresearch.ca/ideological-purity-political-will-historical-blindness/5930755",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-06-25T02:27:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UK Openly Brags about Testing Missiles that Can Hit Moscow, On Behalf of Kiev Regime",
-      "url": "https://www.globalresearch.ca/uk-openly-brags-about-testing-missiles-that-can-hit-moscow-on-behalf-of-kiev-regime/5931338",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-06-25T02:22:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump 2.0’s Escalation Strategy Against Russia. Starting to Take Shape?",
-      "url": "https://www.globalresearch.ca/trump-escalation-strategy-against-russia/5931193",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-06-25T02:07:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump's astounding remark to Netanyahu during expletive-laden shouting match over Hamas peace deal: 'The Jews are sick of you'",
-      "url": "https://www.dailymail.com/news/article-15927597/Trumps-astounding-remark-Netanyahu-expletive.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-25T00:01:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Gas, nukes, and historical bad blood: Can Eastern Europe pull itself together?",
@@ -139,30 +219,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Maine gas prices drop back below $4 with Iran talks ongoing",
-      "url": "https://www.pressherald.com/2026/06/24/maine-gas-prices-drop-back-below-4-with-iran-talks-ongoing/",
-      "source": "Press Herald",
-      "publishedAt": "2026-06-24T18:44:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli defence minister says 'no US demand' to withdraw from Lebanon",
-      "url": "https://economictimes.indiatimes.com/news/defence/israeli-defence-minister-says-no-us-demand-to-withdraw-from-lebanon/articleshow/131973420.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-06-24T16:58:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Undefeated: Here’s how Iran sees the outcome of its war with the US",
-      "url": "https://www.rt.com/news/642057-undefeated-iran-us-marandi/",
-      "source": "RT",
-      "publishedAt": "2026-06-24T16:25:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Kim's Plans in 'Overtaking the World' Hitched to This Ship",
       "url": "https://www.newser.com/story/391625/kim-jong-un-hails-new-symbol-of-his-navys-power.html",
       "source": "Newser",
@@ -171,28 +227,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Did Trump Surrender to Iran?",
-      "url": "https://www.theatlantic.com/podcasts/2026/06/david-frum-show-vivian-salama-trump-surrender-iran/687677/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-06-24T16:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea Leader Vows To Put Nukes on Warships",
       "url": "https://biztoc.com/x/665bad7cebbecacb",
       "source": "Biztoc.com",
       "publishedAt": "2026-06-24T15:26:37Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Gwyneth Paltrow Pivots to Genocide",
-      "url": "https://skepchick.org/2026/06/gwyneth-paltrow-pivots-to-genocide/",
-      "source": "Skepchick.org",
-      "publishedAt": "2026-06-24T14:27:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Kim Jong Un signals nuclear ambitions at sea with major naval buildup",

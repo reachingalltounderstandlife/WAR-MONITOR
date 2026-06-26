@@ -1,7 +1,103 @@
 {
-  "updated": "2026-06-26T03:35:07Z",
-  "count": 37,
+  "updated": "2026-06-26T09:23:18Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "NATO allies to pledge billions in arms deals, Ukraine aid at Ankara summit",
+      "url": "https://www.politico.eu/article/nato-allies-arms-contracts-weapon-production-ankara-summit/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-06-25T09:00:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Oil Tanker Navigates Strait Of Hormuz Despite Threats From Iran's Revolutionary Guard",
+      "url": "https://www.huffpost.com/entry/us-iran-strait-of-hormuz_n_6a3ce8d9e4b09ad6867857e9",
+      "source": "HuffPost",
+      "publishedAt": "2026-06-25T08:45:52Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Ημερήσια Γεωπολιτική Επισκόπηση - 25/06/2026",
+      "url": "https://i-epikaira.blogspot.com/2026/06/25062026_02519150.html",
+      "source": "Blogspot.com",
+      "publishedAt": "2026-06-25T08:29:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "An oil tanker navigates the Strait of Hormuz despite threats from Iran’s Revolutionary Guard",
+      "url": "https://nypost.com/2026/06/25/world-news/an-oil-tanker-navigates-the-strait-of-hormuz-despite-threats-from-irans-revolutionary-guard/",
+      "source": "New York Post",
+      "publishedAt": "2026-06-25T07:56:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil tanker navigates Strait of Hormuz despite threats from Iran's Revolutionary Guard",
+      "url": "https://abcnews.com/Business/wireStory/oil-tanker-navigates-strait-hormuz-despite-threats-irans-134196000",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-06-25T06:39:08Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "An oil tanker navigates the Strait of Hormuz despite threats from Iran's Revolutionary Guard",
+      "url": "https://www.yahoo.com/news/world/articles/oil-tanker-navigates-strait-hormuz-061149587.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-06-25T06:11:49Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Code War: A Race to What End?",
+      "url": "https://smallwarsjournal.com/2026/06/25/the-code-war-a-race-to-what-end/",
+      "source": "Smallwarsjournal.com",
+      "publishedAt": "2026-06-25T06:00:40Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Senate Passes Iran War Powers Resolution in Symbolic Rebuke of Trump Policy",
+      "url": "https://www.naturalnews.com/2026-06-25-senate-passes-resolution-symbolic-rebuke-of-trump-policy.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-25T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ritter Accuses Google’s Eric Schmidt of Funding “Terrorist” Drones Targeting Ukrainian Civilians",
+      "url": "https://www.naturalnews.com/2026-06-25-ritter-accuses-google-schmidt-funding-terrorist-drones-ukraine.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-25T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli strike on south Lebanon kills two, Hezbollah accuses it of truce 'violation'",
+      "url": "https://economictimes.indiatimes.com/news/defence/israeli-strike-on-south-lebanon-kills-two-hezbollah-accuses-it-of-truce-violation/articleshow/131982057.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-25T04:17:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Trapped by his Self-Inflicted War",
+      "url": "https://www.juancole.com/2026/06/trump-trapped-inflicted.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-06-25T04:06:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Netherlands ramps up Lebanese military support to neutralize Hezbollah",
+      "url": "https://www.israelnationalnews.com/news/429167",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-06-25T03:58:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "The Practical Bankruptcy of Ideological Purity: Political Will and Historical Blindness",
       "url": "https://www.globalresearch.ca/ideological-purity-political-will-historical-blindness/5930755",
@@ -43,22 +139,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Top European leaders vow ‘strong’ support for Ukraine ahead of NATO summit",
-      "url": "https://www.aljazeera.com/news/2026/6/24/top-european-leaders-vow-strong-support-for-ukraine-ahead-of-nato-summit",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-24T20:24:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Germany's Merz rallies European NATO allies ahead of summit",
-      "url": "https://www.dw.com/en/germanys-merz-rallies-european-nato-allies-ahead-of-summit/a-77698670",
-      "source": "DW (English)",
-      "publishedAt": "2026-06-24T19:57:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Maine gas prices drop back below $4 with Iran talks ongoing",
       "url": "https://www.pressherald.com/2026/06/24/maine-gas-prices-drop-back-below-4-with-iran-talks-ongoing/",
       "source": "Press Herald",
@@ -67,52 +147,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "PM remarks: 24 June 2026",
-      "url": "https://www.gov.uk/government/speeches/pm-remarks-24-june-2026",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-06-24T17:46:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "European Leaders Vow to Take On NATO Burden as Trump Draws Down",
-      "url": "https://financialpost.com/pmn/business-pmn/european-leaders-vow-to-take-on-nato-burden-as-trump-draws-down",
-      "source": "Financial Post",
-      "publishedAt": "2026-06-24T17:42:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A consolatory hug goodbye: European leaders embrace Keir Starmer at Berlin summit as departing PM makes one of his final foreign trips",
-      "url": "https://www.dailymail.com/news/article-15926993/A-consolatory-hug-goodbye-European-leaders-embrace-Keir-Starmer-Berlin-summit-departing-PM-makes-one-final-foreign-trips.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-24T17:34:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "8 Reasons Why NATO Should Be A Defense Priority For The United States",
-      "url": "https://www.forbes.com/sites/zitaballingerfletcher/2026/06/24/8-reasons-why-nato-should-be-a-defense-priority-for-the-united-states/",
-      "source": "Forbes",
-      "publishedAt": "2026-06-24T17:17:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israeli defence minister says 'no US demand' to withdraw from Lebanon",
       "url": "https://economictimes.indiatimes.com/news/defence/israeli-defence-minister-says-no-us-demand-to-withdraw-from-lebanon/articleshow/131973420.cms",
       "source": "The Times of India",
       "publishedAt": "2026-06-24T16:58:31Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "How the Russia-Ukraine War Rewired Southeast Asia’s Arms Trade",
-      "url": "https://thediplomat.com/2026/06/how-the-russia-ukraine-war-rewired-southeast-asias-arms-trade/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-06-24T16:40:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Undefeated: Here’s how Iran sees the outcome of its war with the US",
@@ -131,14 +171,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "No US demand to withdraw from Lebanon – Israeli defence minister",
-      "url": "https://www.vanguardngr.com/2026/06/no-us-demand-to-withdraw-from-lebanon-israeli-defence-minister/",
-      "source": "Vanguard",
-      "publishedAt": "2026-06-24T16:22:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Did Trump Surrender to Iran?",
       "url": "https://www.theatlantic.com/podcasts/2026/06/david-frum-show-vivian-salama-trump-surrender-iran/687677/",
       "source": "The Atlantic",
@@ -147,28 +179,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Why the Iran Deal Might Endure",
-      "url": "http://foreignpolicy.com/2026/06/24/ali-vaez-iran-deal-united-states-memorandum-understanding-hezbollah-lebanon-ali-vaez-oil-sanctions/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-06-24T15:47:55Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "North Korea Leader Vows To Put Nukes on Warships",
       "url": "https://biztoc.com/x/665bad7cebbecacb",
       "source": "Biztoc.com",
       "publishedAt": "2026-06-24T15:26:37Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Mona Khalil, sea turtle conservationist, killed in Israeli strike in Lebanon",
-      "url": "https://www.cbc.ca/radio/asithappens/mona-khalil-obit-9.7246301",
-      "source": "CBC News",
-      "publishedAt": "2026-06-24T14:54:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Gwyneth Paltrow Pivots to Genocide",
@@ -187,44 +203,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Baffled Iranian negotiators 'are reading Trump's The Art of the Deal to try and understand why he threatens to \"bomb the s*** out of them\" while negotiating ceasefire'",
-      "url": "https://www.dailymail.com/news/article-15926005/Baffled-Iranian-mediators-reading-Trumps-Art-Deal-try-understand-threatens-bomb-s-negotiating-ceasefire.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-24T13:07:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Safety Is When There’s No One Dying",
-      "url": "https://www.nybooks.com/online/2026/06/24/safety-is-when-theres-no-one-dying-lebanon-children/",
-      "source": "The New York Review of Books",
-      "publishedAt": "2026-06-24T12:48:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump's Iran 'Deal'",
-      "url": "https://freerepublic.com/focus/f-news/4385214/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-06-24T12:39:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump vs. Trump: The President Who Mistakes Noise for Power",
       "url": "https://www.globalresearch.ca/trump-president-mistakes-noise-power/5931079",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-06-24T12:09:07Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Israeli Defense Minister Says Country's Forces Won't Withdraw From Lebanon",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260624-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-24T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Kim Jong-un Hails Nuclear-Armed Navy as New Destroyer Enters Service",
@@ -243,36 +227,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "US Senate approves Iran war powers resolution: What that means for Trump",
-      "url": "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-24T11:25:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea commissions warship as Kim eyes nuclear navy",
       "url": "https://www.aljazeera.com/gallery/2026/6/24/north-korea-commissions-warship-as-kim-eyes-nuclear-navy",
       "source": "Al Jazeera English",
       "publishedAt": "2026-06-24T11:24:15Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Iran says deal to end Mideast war ‘declaration of US defeat’",
-      "url": "https://www.vanguardngr.com/2026/06/iran-says-deal-to-end-mideast-war-declaration-of-us-defeat/",
-      "source": "Vanguard",
-      "publishedAt": "2026-06-24T11:21:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran says deal to end Mideast war 'declaration of US defeat'",
-      "url": "https://www.hurriyetdailynews.com/iran-says-deal-to-end-mideast-war-declaration-of-us-defeat-223631",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-24T10:39:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea commissions largest-ever warship",

@@ -1,7 +1,63 @@
 {
-  "updated": "2026-06-28T13:43:34Z",
-  "count": 34,
+  "updated": "2026-06-28T19:17:37Z",
+  "count": 36,
   "articles": [
+    {
+      "title": "Probe Reveals Reason for US Bombing of Iranian Girls School – Report",
+      "url": "https://freerepublic.com/focus/f-chat/4385700/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-27T18:11:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah Rejects Israel-Lebanon Agreement, Calls It Invalid - Leader",
+      "url": "https://sputnikglobe.com/20260627/hezbollah-rejects-israel-lebanon-agreement-calls-it-invalid-leader-1124368102.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-06-27T18:03:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+      "url": "https://www.bbc.com/news/articles/cx2kpn0eeweo",
+      "source": "BBC News",
+      "publishedAt": "2026-06-27T17:54:11Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli airstrikes target southern Lebanon amid plans for prolonged IDF presence",
+      "url": "https://cryptobriefing.com/israeli-airstrikes-target-southern-lebanon-amid-plans-for-prolonged-idf-presence/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-27T16:17:49Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Probe reveals reason for US bombing of Iranian girls school – Bloomberg",
+      "url": "https://www.rt.com/news/642288-us-bombing-iranian-girls-school-reason/",
+      "source": "RT",
+      "publishedAt": "2026-06-27T14:55:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah rejects US-brokered Israel-Lebanon security deal as 'surrender'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-hezbollah-rejects-us-brokered-israel-lebanon-security-deal-as-surrender/articleshow/132036671.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-27T14:13:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Major Update: Trump Seeks End of Separation of Church and State to Push Christian Values, Iran Strikes, Millions Lose Health Insurance",
+      "url": "https://aaronparnas.substack.com/p/major-update-trump-seeks-end-of-separation",
+      "source": "Substack.com",
+      "publishedAt": "2026-06-27T13:55:04Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Americans drop opposition to Trump's Iran war as peace is within grasp... but are skeptical it'll last",
       "url": "https://www.dailymail.com/news/article-15933553/trump-iran-poll-americans-peace-deal.html",
@@ -35,6 +91,22 @@
       "_label": "Lebanon"
     },
     {
+      "title": "Hezbollah Rejects Israel-Lebanon Deal",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260627-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-27T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Bahrain Reports Iranian Drone Attack After US Strikes",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260627-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-06-27T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
       "title": "Leader's advisor warns US, Israel of high casualties in any future aggression against Iran",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260627-presstv01.htm",
       "source": "Globalsecurity.org",
@@ -63,62 +135,6 @@
       "url": "https://www.abc.net.au/news/2026-06-27/iran-hits-us-targets-as-bahrain-reports-drone-attack/106851316",
       "source": "ABC News (AU)",
       "publishedAt": "2026-06-27T11:49:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Saturday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/06/27/saturday-hili-dialogue-588/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-06-27T11:45:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel strikes southern Lebanon day after U.S.-brokered deal, report says",
-      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-06-27/ty-article/israel-strikes-southern-lebanon-day-after-u-s-brokered-deal-report-says/0000019f-08a7-dfe2-a79f-69bf7e990000",
-      "source": "Haaretz",
-      "publishedAt": "2026-06-27T11:15:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Vance vs. Rubio: Iran Edition",
-      "url": "https://www.theatlantic.com/national-security/2026/06/lebanon-israel-us-mou-vance-rubio/687715/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-06-27T11:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Links 6/27/2026",
-      "url": "https://www.nakedcapitalism.com/2026/06/links-6-27-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-06-27T10:59:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran War: US Attacks Iran After Iran Fires on Vessels Using Oman Channel; Israel-Lebanon “Peace” Scheme Moves to Cede Southern Lebanon to Israel, Undercutting Hezbollah and Iran",
-      "url": "https://www.nakedcapitalism.com/2026/06/iran-war-us-attacks-iran-after-iran-fires-on-vessels-using-oman-channel-israel-lebanon-peace-scheme-moves-to-cede-southern-lebanon-to-israel-undercutting-hezbollah-and-iran.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-06-27T10:58:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Could Israel’s coming election see an end to Netanyahu’s political career?",
-      "url": "https://www.aljazeera.com/news/2026/6/27/could-israels-coming-election-see-an-end-to-netanyahus-political-career",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-27T10:35:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
-      "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-27T10:32:24Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

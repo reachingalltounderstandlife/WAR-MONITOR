@@ -1,36 +1,124 @@
 {
-  "updated": "2026-06-27T19:18:23Z",
-  "count": 34,
+  "updated": "2026-06-28T03:40:40Z",
+  "count": 33,
   "articles": [
     {
-      "title": "Israel and Lebanon sign framework agreement with U.S. in ‘first step’ toward peace, Rubio says",
-      "url": "https://www.nbcnews.com/world/israel/israel-lebanon-sign-framework-agreement-us-first-step-peace-rubio-says-rcna351973",
-      "source": "NBC News",
-      "publishedAt": "2026-06-26T18:53:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
+      "title": "Ignore The Defeatists: President Trump Will Not Give Up Trying To Denuclearize North Korea",
+      "url": "https://dailycaller.com/2026/06/26/trump-north-korea-nuclear-weapons-china-russia-diplomacy/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-06-27T03:22:17Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
-      "title": "Iran Reasserts Its Right to Control Shipping in Strait of Hormuz After Ship Hit Near Oman",
-      "url": "https://gcaptain.com/iran-reasserts-its-right-to-control-shipping-in-strait-of-hormuz-after-ship-hit-near-oman/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-06-26T18:29:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel’s ‘campaign between the wars’: How strategy to contain Iran and its allies risks further straining ties with US",
-      "url": "https://theconversation.com/israels-campaign-between-the-wars-how-strategy-to-contain-iran-and-its-allies-risks-further-straining-ties-with-us-284697",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-06-26T18:04:56Z",
+      "title": "US-Iran War Live Updates: IRGC claims retaliatory strikes on US sites in Gulf, warns of 'broader response'",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-trump-hezbollah-israel-ceasefire-peace-deal-strait-of-hormuz-oil-prices-crude-oil-price-talks-jd-vance-latest-updates/liveblog/132027855.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-27T03:05:46Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "US, Lebanon, Israel sign framework agreement",
-      "url": "https://www.dw.com/en/us-lebanon-israel-sign-framework-agreement/a-77729374",
+      "title": "Sacred ceremony in Beirut marked by Hezbollah 'resistance' and mourning",
+      "url": "https://www.abc.net.au/news/2026-06-27/lebanon-beirut-ashura-ceremony-marked-by-hezbollah-resistance/106850386",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-27T02:32:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US strikes Iran in response to attack on cargo ship",
+      "url": "https://www.rte.ie/news/middle-east/2026/0627/1580601-iran-us-world/",
+      "source": "RTE",
+      "publishedAt": "2026-06-27T01:07:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US strikes Iran following attack on cargo ship in Strait of Hormuz",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-strikes-iran-following-attack-on-cargo-ship-in-strait-of-hormuz/articleshow/132027019.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-27T00:38:29Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US and Iran trade strikes, Hezbollah warns of ‘civil war’ over Israel-Lebanon deal: Live updates",
+      "url": "https://www.rt.com/news/642255-iran-us-strikes-lebanon-protests/",
+      "source": "RT",
+      "publishedAt": "2026-06-27T00:13:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US strikes Iran in response to ship attack that Trump called a ceasefire violation",
+      "url": "https://www.thehindubusinessline.com/news/world/us-strikes-iran-in-response-to-ship-attack-that-trump-called-a-ceasefire-violation/article71153092.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-06-26T23:50:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon, Israel, US sign trilateral framework agreement in Washington",
+      "url": "https://www.hurriyetdailynews.com/lebanon-israel-us-sign-trilateral-framework-agreement-in-washington-223734",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-06-26T23:03:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What is the framework agreement signed by Israel and Lebanon?",
+      "url": "https://www.aljazeera.com/news/2026/6/26/what-is-the-framework-agreement-signed-by-israel-and-lebanon",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-26T22:56:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S. aircraft attack Iran in response to drone strike on cargo ship that Tehran called ‘ceasefire management’ as both sides wrestle for Hormuz control",
+      "url": "https://fortune.com/2026/06/26/us-aircraft-attack-iran-drone-strike-cargo-ship-ceasefire-strait-of-hormuz/",
+      "source": "Fortune",
+      "publishedAt": "2026-06-26T22:22:02Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US strikes Iran sites after cargo ship attack",
+      "url": "https://www.vanguardngr.com/2026/06/us-strikes-iran-sites-after-cargo-ship-attack/",
+      "source": "Vanguard",
+      "publishedAt": "2026-06-26T22:12:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US strikes Iran in response to drone strike on commercial ship",
+      "url": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-26T21:08:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Strikes Iranian Missile, Drone Sites in Retaliatory Strait of Hormuz Attack",
+      "url": "https://military.com/us-strikes-iranian-missile-drone-sites-in-retaliatory-strait-hormuz-attack",
+      "source": "Military.com",
+      "publishedAt": "2026-06-26T21:03:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US carries out 'additional strikes' on Iran",
+      "url": "https://www.dw.com/en/us-carries-out-additional-strikes-on-iran/live-77729995",
       "source": "DW (English)",
-      "publishedAt": "2026-06-26T17:56:00Z",
+      "publishedAt": "2026-06-26T20:50:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran trade strike warnings, threatening truce",
+      "url": "https://www.dw.com/en/us-iran-trade-strikes-as-truce-faces-threat/live-77729995",
+      "source": "DW (English)",
+      "publishedAt": "2026-06-26T20:50:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -41,14 +129,6 @@
       "publishedAt": "2026-06-26T16:37:54Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Venezuela earthquakes, Sudan atrocity warnings, and undercounted heatwave tolls: The Cheat Sheet",
-      "url": "https://www.thenewhumanitarian.org/news/2026/06/26/venezuela-earthquake-sudan-atrocity-europe-heatwave-cheat-sheet",
-      "source": "The New Humanitarian",
-      "publishedAt": "2026-06-26T15:15:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine",
@@ -71,8 +151,8 @@
       "url": "https://i-epikaira.blogspot.com/2026/06/26062026.html",
       "source": "Blogspot.com",
       "publishedAt": "2026-06-26T15:00:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Not Imaginary: The Deterrence Gap is Real and America Needs Low-Yield Nukes",
@@ -83,28 +163,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Mediators Worked Through Threats and Strikes to Broker the US-Iran Deal, and Challenges Remain",
-      "url": "https://military.com/mediators-worked-through-threats-and-strikes-to-broker-the-us-iran-deal-and-challenges-remain",
-      "source": "Military.com",
-      "publishedAt": "2026-06-26T14:05:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran slams the GCC and the US for ‘interventionist’ statement: What we know",
-      "url": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-26T14:04:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Ukrainian Drones STRIKE Russia’s Top Missile Production Plant — Then THIS Happened..",
       "url": "https://freerepublic.com/focus/f-bloggers/4385533/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-06-26T14:04:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Ukraine launches one of its heaviest drone attacks on Russia",
@@ -131,52 +195,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israel's Netanyahu faces election challenge from hawkish ex-general",
-      "url": "https://www.yahoo.com/news/articles/israels-netanyahu-faces-election-challenge-130812012.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-06-26T13:08:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "House Dismisses 250-Year James Madison Legacy",
       "url": "https://www.globalresearch.ca/house-dismisses-250-year-madison-legacy/5931521",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-06-26T12:34:03Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran's top military command warns of response to any Israeli threat",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260626-presstv07.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-26T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran condemns 'meddlesome and provocative' GCC-US joint statement",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260626-presstv06.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-26T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian strikes force US to mull relocating Fifth Fleet assets from Bahrain to occupied territories: Report",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260626-presstv03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-26T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel claims killing 6 Hezbollah members in southern Lebanon as it persists in ceasefire violations",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260626-presstv06.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-26T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Ukraine unleashes one of its heaviest drone bombardments of Russia",
@@ -201,14 +225,6 @@
       "publishedAt": "2026-06-26T11:27:09Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "US strikes Iran after Strait of Hormuz cargo ship attack as ceasefire tensions escalate",
-      "url": "https://www.foxnews.com/live-news/iran-drone-strait-of-hormuz-israel-lebanon-conflict-june-26-2026",
-      "source": "Fox News",
-      "publishedAt": "2026-06-26T11:03:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "North Korea's Kim Calls for 'Destructive' Military Posture as South Vows to Boost Drones",
@@ -249,30 +265,6 @@
       "publishedAt": "2026-06-26T02:25:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea commissions new nuclear-armed warship Choe Hyon",
-      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260625-presstv01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-25T12:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Japan's pursuit of nuclear weapons has become a real threat: Defense Spokesperson",
-      "url": "https://www.globalsecurity.org/wmd/library/news/japan/2026/japan-260625-prc-mnd01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-25T12:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The Code War: A Race to What End?",
-      "url": "https://smallwarsjournal.com/2026/06/25/the-code-war-a-race-to-what-end/",
-      "source": "Smallwarsjournal.com",
-      "publishedAt": "2026-06-25T06:00:40Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

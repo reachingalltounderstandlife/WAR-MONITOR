@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-01T14:31:58Z",
-  "count": 25,
+  "updated": "2026-07-01T19:52:36Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Britain's military boosted by £15billion spend in huge move to defend against Russian attack",
+      "url": "https://freerepublic.com/focus/f-news/4386119/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-06-30T19:15:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran, US, and Lebanon form committee to end war in Lebanon",
+      "url": "https://cryptobriefing.com/iran-us-lebanon-committee-end-war/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-30T19:10:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UK Boosts Military Spending by $20 Billion but Critics Say It’s Not Enough",
+      "url": "https://military.com/uk-boosts-military-spending-by-20-billion-but-critics-say-its-not-enough",
+      "source": "Military.com",
+      "publishedAt": "2026-06-30T16:01:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel Continues Military Intervention in Lebanon, Readying For Permanent Occupation",
+      "url": "https://www.shtfplan.com/war/israel-continues-military-intervention-in-lebanon-readying-for-permanent-occupation",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-06-30T15:00:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "The Illusion of Peace. Iran and Russia Have Fallen into the Same “Diplomacy Trap”",
       "url": "https://www.globalresearch.ca/iran-russia-diplomacy-trap/5931947",
@@ -75,14 +107,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "PM speech announcing the Defence Investment Plan: 30 June 2026",
-      "url": "https://www.gov.uk/government/speeches/pm-speech-announcing-the-defence-investment-plan-30-june-2026",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-06-30T11:52:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "SCOTUS to rule on birthright citizenship. And, U.S. murder rate nears new low",
       "url": "https://www.npr.org/2026/06/30/g-s1-131004/up-first-newsletter-supreme-court-tps-birthright-citizenship-iran-war-us-murder-rate",
       "source": "NPR",
@@ -97,14 +121,6 @@
       "publishedAt": "2026-06-30T11:44:11Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Kallas to meet Erdoğan ahead of pivotal NATO summit",
-      "url": "https://www.politico.eu/article/kaja-kallas-meet-recep-tayyip-erdogan-ahead-nato-summit/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-06-30T11:18:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Uncertainty Over Qatar Diplomacy Clouds Prospects For U.S.-Iran Deal",
@@ -151,16 +167,16 @@
       "url": "https://www.aljazeera.com/news/2026/6/30/what-is-iran-looking-for-in-any-upcoming-talks-with-the-us",
       "source": "Al Jazeera English",
       "publishedAt": "2026-06-30T06:33:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Hezbollah Chief Declares Lebanon-Israel Agreement Null and Void, Vows Continued Resistance",
       "url": "https://www.naturalnews.com/2026-06-30-hezbollah-chief-declares-lebanon-israel-agreement-null-void.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-06-30T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump says Iran requested Qatar meeting, despite Tehran denying any direct negotiations planned",

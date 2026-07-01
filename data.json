@@ -1,7 +1,79 @@
 {
-  "updated": "2026-06-30T19:54:38Z",
-  "count": 27,
+  "updated": "2026-07-01T03:41:58Z",
+  "count": 26,
   "articles": [
+    {
+      "title": "Lebanon Reports Israeli Military Destruction Despite Alleged Peace Deal",
+      "url": "https://www.breitbart.com/middle-east/2026/06/29/lebanon-reports-israeli-military-destruction-despite-alleged-peace-deal/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-06-30T01:20:19Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran says this. The US says that. A look at the trickiest issues in the unresolved conflict",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-says-this-the-us-says-that-a-look-at-the-trickiest-issues-in-the-unresolved-conflict/articleshow/132081772.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-06-30T01:15:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO and Kiev seek weapons to destroy Russian airfields – Moscow",
+      "url": "https://www.rt.com/russia/642374-nato-weapons-ukraine-russia-airfields/",
+      "source": "RT",
+      "publishedAt": "2026-06-29T23:58:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "International efforts to end North Korea’s nuclear weapons program have failed. Here’s what comes next",
+      "url": "https://theconversation.com/international-efforts-to-end-north-koreas-nuclear-weapons-program-have-failed-heres-what-comes-next-284083",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-06-29T23:45:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "We Are Entering The Most Dangerous Chapter Of World War III As The Agreement With Iran Collapses",
+      "url": "https://www.shtfplan.com/headline-news/we-are-entering-the-most-dangerous-chapter-of-world-war-iii-as-the-agreement-with-iran-collapses",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-06-29T22:30:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Iran meeting to take place in Qatar",
+      "url": "https://www.vanguardngr.com/2026/06/trump-says-iran-meeting-to-take-place-in-qatar-2/",
+      "source": "Vanguard",
+      "publishedAt": "2026-06-29T21:41:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. official says $6 billion in frozen Iranian assets will be released, while Oman discusses possible Hormuz service fees with Tehran",
+      "url": "https://fortune.com/2026/06/29/frozen-iranian-assets-release-us-ceasefire-talks-oman-hormuz-service-fees/",
+      "source": "Fortune",
+      "publishedAt": "2026-06-29T20:57:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "NASDAQ 100 rises 2% as US and Iran agree to halt strikes, resume talks",
+      "url": "https://cryptobriefing.com/nasdaq-100-rises-2-as-us-and-iran-agree-to-halt-strikes-resume-talks/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-29T20:18:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Germany could bring back conscription next year – senior MP",
+      "url": "https://www.rt.com/news/642364-germany-conscription-back-next-year/",
+      "source": "RT",
+      "publishedAt": "2026-06-29T20:11:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Congress to Vote on New Lebanon War Powers Resolution as Israel's Occupation Threatens to Blow Up Iran-US Peace Deal",
       "url": "https://www.commondreams.org/news/lebanon-war-powers-resolution-2677125839",
@@ -67,52 +139,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Lebanon Latest: Israel strikes as Hezbollah condemns new deal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/aje-onl-aje_onl_lebanon_wrap-290626",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-29T15:30:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon’s displaced begin to return home, but some have nowhere to go",
-      "url": "https://www.aljazeera.com/features/2026/6/29/lebanons-displaced-begin-to-return-home-but-some-have-nowhere-to-go",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-29T15:25:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Russia could attack Nato one year after Ukraine war, Dutch minister warns as Kremlin threatens Finland over its nuke deployment stance",
       "url": "https://www.dailymail.com/news/article-15938601/Russia-attack-Nato-one-year-Ukraine-war-Dutch-minister-warns-Kremlin-threatens-Finland-nuke-deployment-stance.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-06-29T15:03:34Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "The US and Iran Exchange Strikes",
-      "url": "https://www.shtfplan.com/war/the-us-and-iran-exchange-strikes",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-06-29T15:00:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Halliburton, Valero and 3 More Stocks Set Up for a Fragile Hormuz Truce",
-      "url": "https://oilprice.com/Energy/Energy-General/Halliburton-Valero-and-3-More-Stocks-Set-Up-for-a-Fragile-Hormuz-Truce.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-06-29T15:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "url": "https://www.bbc.com/news/articles/c872rjw17qpo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-06-29T14:52:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "With America in Retreat, Europe Now Depends on Ukraine",
@@ -123,28 +155,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "The Day Iran Proved the U.S. Can No Longer Dictate Terms in West Asia",
-      "url": "https://www.activistpost.com/the-day-iran-proved-the-u-s-can-no-longer-dictate-terms-in-west-asia/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-06-29T14:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Russia could attack NATO one year after Ukraine war: Dutch govt",
       "url": "https://economictimes.indiatimes.com/news/defence/russia-could-attack-nato-one-year-after-ukraine-war-dutch-govt/articleshow/132072507.cms",
       "source": "The Times of India",
       "publishedAt": "2026-06-29T13:00:16Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Meeks Delivers Remarks During Floor Debate on Lebanon War Powers Resolution",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260629-housecfa-democrats01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-29T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "\"Türkiye, with its powerful military and advanced defense industry, contributes to NATO's security\"",
@@ -187,36 +203,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Russians fight over fuel at gas stations as Putin is forced to admit the country faces shortages in wake of Ukrainian attacks",
-      "url": "https://www.dailymail.com/news/article-15937687/Russians-fight-fuel-gas-stations-Putin-forced-admit-country-faces-shortages-wake-Ukrainian-attacks.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-06-29T09:03:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Has Ukraine Turned the Tide?",
-      "url": "http://prospect.org/2026/06/29/ukraine-russia-trump-turned-the-tide/",
-      "source": "The American Prospect",
-      "publishedAt": "2026-06-29T09:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "A New Force Posture Concept for Europeanizing Extended Nuclear Deterrence",
       "url": "https://warontherocks.com/a-new-force-posture-concept-for-europeanizing-extended-nuclear-deterrence/",
       "source": "War on the Rocks",
       "publishedAt": "2026-06-29T07:30:58Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "S Korea, Japan reaffirm pledge to denuclearize Korean peninsula",
-      "url": "https://www.hurriyetdailynews.com/s-korea-japan-reaffirm-pledge-to-denuclearize-korean-peninsula-223766",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-06-28T09:04:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

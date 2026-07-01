@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-01T03:41:58Z",
-  "count": 26,
+  "updated": "2026-07-01T09:42:23Z",
+  "count": 25,
   "articles": [
+    {
+      "title": "Military dominance, strategic defeat",
+      "url": "https://mondediplo.com/2026/07/10usa",
+      "source": "Mondediplo.com",
+      "publishedAt": "2026-06-30T09:18:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine's war drone pilots must first survive the 'Killhouse'",
+      "url": "https://www.businessinsider.com/ukrainians-want-to-fly-drones-first-survive-killhouse-2026-6#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-30T08:17:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "SNB intervenes to stabilize franc amid Iran-US-Israel conflict",
+      "url": "https://cryptobriefing.com/snb-intervenes-to-stabilize-franc-amid-iran-us-israel-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-06-30T07:18:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Strikes Iran in Retaliation to Hormuz Ship Attack",
+      "url": "https://www.globalresearch.ca/us-strikes-iran-retaliation-hormuz-ship-attack/5931866",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-06-30T06:59:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What is Iran looking for in any upcoming talks with the US?",
+      "url": "https://www.aljazeera.com/news/2026/6/30/what-is-iran-looking-for-in-any-upcoming-talks-with-the-us",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-06-30T06:33:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah Chief Declares Lebanon-Israel Agreement Null and Void, Vows Continued Resistance",
+      "url": "https://www.naturalnews.com/2026-06-30-hezbollah-chief-declares-lebanon-israel-agreement-null-void.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-06-30T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukrainians Sour on U.S. Leadership",
+      "url": "https://news.gallup.com/poll/711992/ukrainians-sour-washington-views-war-stabilize.aspx",
+      "source": "Gallup.com",
+      "publishedAt": "2026-06-30T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says Iran requested Qatar meeting, despite Tehran denying any direct negotiations planned",
+      "url": "https://www.thejournal.ie/trump-says-iran-requested-qatar-meeting-despite-uncertainty-7085673-Jun2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-06-30T05:53:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why America’s global appeal is in decline",
+      "url": "https://www.rt.com/news/642375-americas-global-appeal-in-decline/",
+      "source": "RT",
+      "publishedAt": "2026-06-30T05:31:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Two deals show Trump's different approaches to Middle East key players",
+      "url": "https://www.abc.net.au/news/2026-06-30/trumps-different-approaches-to-middle-east-israel-lebanon-iran/106854906",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-06-30T05:09:30Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Lebanon Reports Israeli Military Destruction Despite Alleged Peace Deal",
       "url": "https://www.breitbart.com/middle-east/2026/06/29/lebanon-reports-israeli-military-destruction-despite-alleged-peace-deal/",
@@ -79,8 +159,8 @@
       "url": "https://www.commondreams.org/news/lebanon-war-powers-resolution-2677125839",
       "source": "Common Dreams",
       "publishedAt": "2026-06-29T19:45:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "A response to the opponents of space-based interceptors in Golden Dome",
@@ -89,54 +169,6 @@
       "publishedAt": "2026-06-29T18:43:04Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Trump Says US-Iran Talks Will Resume on Tuesday — Tehran Hasn’t Confirmed",
-      "url": "https://truthout.org/articles/trump-says-us-iran-talks-will-resume-on-tuesday-tehran-hasnt-confirmed/",
-      "source": "Truthout",
-      "publishedAt": "2026-06-29T18:22:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Iran Pause Strikes but Disagree Over Next Steps on Talks",
-      "url": "https://military.com/us-and-iran-pause-strikes-but-disagree-over-next-steps-on-talks",
-      "source": "Military.com",
-      "publishedAt": "2026-06-29T18:21:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Mediators Set Up De-escalation Channels Ahead of US-Iran Talks",
-      "url": "https://gcaptain.com/mediators-set-up-de-escalation-channels-ahead-of-us-iran-talks/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-06-29T17:23:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How Israel uses water as a weapon of war from the Palestine to Lebanon",
-      "url": "https://mondoweiss.net/2026/06/how-israel-uses-water-as-a-weapon-of-war-from-the-palestine-to-lebanon/",
-      "source": "Mondoweiss",
-      "publishedAt": "2026-06-29T16:55:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Skepticism In Iran Over Israel-Lebanon Framework Agreement",
-      "url": "https://www.rferl.org/a/iran-lebanon-israel-framework-deal-condemn/33791135.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-06-29T16:03:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The US-Iran MoU looks at managing the pain rather than ending the war",
-      "url": "https://www.aljazeera.com/news/2026/6/29/the-us-iran-mou-looks-at-managing-the-pain-rather-than-ending-the-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-29T15:51:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Russia could attack Nato one year after Ukraine war, Dutch minister warns as Kremlin threatens Finland over its nuke deployment stance",
@@ -159,46 +191,6 @@
       "url": "https://economictimes.indiatimes.com/news/defence/russia-could-attack-nato-one-year-after-ukraine-war-dutch-govt/articleshow/132072507.cms",
       "source": "The Times of India",
       "publishedAt": "2026-06-29T13:00:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "\"Türkiye, with its powerful military and advanced defense industry, contributes to NATO's security\"",
-      "url": "https://www.globalsecurity.org/wmd/library/news/turkey/2026/turkey-260629-turkey-president01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-06-29T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia Appears to Arm LNG Tanker in Baltic as Maritime Tensions With NATO Deepen",
-      "url": "https://gcaptain.com/russia-appears-to-arm-lng-tanker-in-baltic-as-maritime-tensions-with-nato-deepen/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-06-29T11:19:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Drone relayers off: Ukraine’s diplomatic triumph over Russia ally Belarus",
-      "url": "https://www.aljazeera.com/news/2026/6/29/drone-relayers-off-ukraines-diplomatic-triumph-over-belarus",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-29T11:18:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia-Ukraine war: Why has Putin rejected limits on long-range strikes?",
-      "url": "https://www.aljazeera.com/news/2026/6/29/russia-ukraine-war-why-has-putin-rejected-limits-on-long-range-strikes",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-06-29T09:58:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ημερήσια Γεωπολιτική Επισκόπηση - 29/06/2026",
-      "url": "https://i-epikaira.blogspot.com/2026/06/29062026.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-06-29T09:35:44Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

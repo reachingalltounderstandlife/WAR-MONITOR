@@ -1,7 +1,111 @@
 {
-  "updated": "2026-07-02T13:56:59Z",
-  "count": 25,
+  "updated": "2026-07-02T19:22:07Z",
+  "count": 21,
   "articles": [
+    {
+      "title": "Trump won't return U.S. to full war in Iran 'unless he has to,' Vance says",
+      "url": "https://www.cbc.ca/news/world/vance-iran-u-s-trump-war-talks-9.7255319",
+      "source": "CBC News",
+      "publishedAt": "2026-07-01T19:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia intercepts ballistic missile over Moscow, blames Ukraine’s FP-9",
+      "url": "https://cryptobriefing.com/russia-intercepts-ballistic-missile-over-moscow-blames-ukraines-fp-9/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-01T18:39:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia’s Security and Trade Blocs Show Signs of Fracturing",
+      "url": "https://oilprice.com/Geopolitics/Europe/Russias-Security-and-Trade-Blocs-Show-Signs-of-Fracturing.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-07-01T18:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US, Iran enter talks to reopen Hormuz and unfreeze assets",
+      "url": "https://www.rte.ie/news/world/2026/0701/1581313-iran-us-talks/",
+      "source": "RTE",
+      "publishedAt": "2026-07-01T17:48:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran enter talks to reopen Hormuz and unfreeze assets",
+      "url": "https://www.rte.ie/news/middle-east/2026/0701/1581313-iran-us-talks/",
+      "source": "RTE",
+      "publishedAt": "2026-07-01T17:48:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The secret small print in Trump's Iran deal that's turning voters harshly against it",
+      "url": "https://www.dailymail.com/news/article-15941713/secret-print-trump-iran-deal.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-01T17:48:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Is Stronger After The War With The US",
+      "url": "https://www.shtfplan.com/war/iran-is-stronger-after-the-war-with-the-us",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-07-01T17:30:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What military capabilities does Iran possess as it negotiates with US?",
+      "url": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-01T17:19:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu tells Hezbollah, Iran to ‘get out of here’ during southern Lebanon visit",
+      "url": "https://nypost.com/2026/07/01/world-news/netanyahu-tells-hezbollah-iran-to-get-out-of-here-during-southern-lebanon-visit/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-01T17:08:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "In Mideast and around the world, everyone's talking 'ceasefire.' But what does it really mean?",
+      "url": "https://abcnews.com/International/wireStory/mideast-world-everyones-talking-ceasefire-134380242",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-01T17:07:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Sees 10 Million Barrels Via Hormuz Sapping Iran Oil Leverage",
+      "url": "https://financialpost.com/pmn/business-pmn/us-sees-10-million-barrels-via-hormuz-sapping-iran-oil-leverage",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-01T16:45:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel defence minister says troops to stay in Lebanon, Syria, Gaza 'until further notice'",
+      "url": "https://www.channelnewsasia.com/world/israel-troop-withdrawal-lebanon-syria-gaza-hezbollah-6225431",
+      "source": "CNA",
+      "publishedAt": "2026-07-01T16:29:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump upbeat as US, Iran hold indirect talks in Qatar",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-upbeat-as-us-iran-hold-indirect-talks-in-qatar/articleshow/132119334.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-01T16:20:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Ukraine hits Russian oil refinery and missile component plant, Zelenskiy says",
       "url": "https://freerepublic.com/focus/f-news/4386201/posts",
@@ -35,14 +139,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran warns of immediate response amid US-Israel tensions",
-      "url": "https://cryptobriefing.com/iran-warns-of-immediate-response-amid-us-israel-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-01T12:48:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Day 1,589 of WW3. More bad news for Orcistan: Ukraine purchases 16 Gripen E warplanes. Moscow closes rail crossings into the Baltics, and the repatriated bodies of UAF troops are rigged with explosives. This is your Wednesday Ukraine war thread [News]",
       "url": "https://www.fark.com/comments/14116684/Day-1589-of-WW3-More-bad-news-for-Orcistan-Ukraine-purchases-16-Gripen-E-warplanes-Moscow-closes-rail-crossings-into-Baltics-the-repatriated-bodies-of-UAF-troops-are-rigged-with-explosives-This-is-your-Wednesday-Ukraine-war-thread",
       "source": "Fark.com",
@@ -65,134 +161,6 @@
       "publishedAt": "2026-07-01T11:56:02Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump’s War in the Middle East Has One Clear Winner: China",
-      "url": "https://www.motherjones.com/politics/2026/07/trump-iran-war-middle-east-winner-china-clean-energy/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-07-01T11:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel threatens third attack on Iran despite US diplomacy efforts",
-      "url": "https://cryptobriefing.com/israel-threatens-third-attack-on-iran-despite-us-diplomacy-efforts/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-01T11:16:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. And Iran Enter Technical Talks To Secure Peace Deal, Restart Shipping",
-      "url": "https://www.huffpost.com/entry/us-iran-doha-talks_n_6a44ef3fe4b07b95cff2f479",
-      "source": "HuffPost",
-      "publishedAt": "2026-07-01T10:56:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US and Iran enter technical talks to secure peace deal, restart shipping",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-and-iran-engage-in-critical-talks-to-restore-peace-and-shipping-in-the-strait-of-hormuz/articleshow/132112946.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-01T10:56:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "NATO allies to commit €70B in long-term security aid for Ukraine at 2026 summit",
-      "url": "https://cryptobriefing.com/nato-allies-to-commit-70b-in-long-term-security-aid-for-ukraine-at-2026-summit/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-01T10:33:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel defence minister says troops to stay ‘indefinitely’ in Lebanon, Syria, Gaza",
-      "url": "https://www.vanguardngr.com/2026/07/israel-defence-minister-says-troops-to-stay-indefinitely-in-lebanon-syria-gaza/",
-      "source": "Vanguard",
-      "publishedAt": "2026-07-01T10:05:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What Defense Leaders Will Discuss At The 2026 NATO Summit",
-      "url": "https://www.forbes.com/sites/marktemnycky/2026/07/01/what-defense-leaders-will-discuss-at-the-2026-nato-summit/",
-      "source": "Forbes",
-      "publishedAt": "2026-07-01T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel-Lebanon Deal Sparks Protests, Raises Fears of Lasting Occupation",
-      "url": "https://military.com/israel-lebanon-deal-sparks-protests-raises-fears-of-lasting-occupation",
-      "source": "Military.com",
-      "publishedAt": "2026-07-01T09:01:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Middle East Has a New Saudi-Led Axis",
-      "url": "http://foreignpolicy.com/2026/07/01/saudi-qatar-pakistan-turkey-egypt-uae-axis-alliance-iran-middle-east/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-01T08:52:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US and Iran enter technical talks to secure peace deal, restart shipping",
-      "url": "https://www.channelnewsasia.com/world/us-iran-talks-secure-peace-deal-restart-shipping-6224371",
-      "source": "CNA",
-      "publishedAt": "2026-07-01T08:44:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu’s joke outrages bereaved families",
-      "url": "https://www.israelnationalnews.com/news/429471",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-07-01T08:34:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran officials to hold indirect talks in Doha",
-      "url": "https://www.rte.ie/news/world/2026/0701/1581208-middle-east/",
-      "source": "RTE",
-      "publishedAt": "2026-07-01T08:07:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Turkey’s manufacturing contracts as Iran war disrupts supply chains",
-      "url": "https://cryptobriefing.com/turkey-manufacturing-pmi-iran-war-supply-chains/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-01T07:11:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Talks in Qatar after US-Iran deal: What we know",
-      "url": "https://www.rte.ie/news/world/2026/0701/1581199-qatar-deals/",
-      "source": "RTE",
-      "publishedAt": "2026-07-01T06:48:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Talks to resume in Qatar after US-Iran deal",
-      "url": "https://www.hurriyetdailynews.com/talks-to-resume-in-qatar-after-us-iran-deal-223873",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-01T05:47:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Talks in Qatar after US-Iran deal: What we know",
-      "url": "https://economictimes.indiatimes.com/news/defence/talks-in-qatar-after-us-iran-deal-what-we-know/articleshow/132106435.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-01T05:08:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "KTSSMing Them Softly",

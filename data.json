@@ -1,7 +1,103 @@
 {
-  "updated": "2026-07-03T09:15:41Z",
+  "updated": "2026-07-03T14:00:38Z",
   "count": 25,
   "articles": [
+    {
+      "title": "Russia Ramps Up Pressure on Kyiv With Deadliest Strikes in Months",
+      "url": "https://oilprice.com/Geopolitics/International/Russia-Ramps-Up-Pressure-on-Kyiv-With-Deadliest-Strikes-in-Months.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-07-02T14:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "With Hormuz reopened, has the oil shortage turned into a glut?",
+      "url": "https://www.aljazeera.com/news/2026/7/2/with-hormuz-reopened-has-the-oil-shortage-turned-into-a-glut",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-02T13:48:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Phony Ceasefire: Calm Before The Storm?",
+      "url": "https://www.forbes.com/sites/arielcohen/2026/07/02/the-phony-ceasefire-calm-before-the-storm/",
+      "source": "Forbes",
+      "publishedAt": "2026-07-02T12:20:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Reckoning With the Evolving China-Russia Threat",
+      "url": "https://thediplomat.com/2026/07/reckoning-with-the-evolving-china-russia-threat/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-07-02T12:03:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia's Attack On Kyiv Sparks Fresh Calls In US, Europe For Tougher Action",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260702-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-02T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Thursday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/07/02/thursday-hili-dialogue-594/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-07-02T11:45:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia waged a drone campaign in Europe and likely launched drones from shadow ships, report says",
+      "url": "https://abcnews.com/International/wireStory/russia-waged-drone-campaign-europe-launched-drones-shadow-134400766",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-02T11:10:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Drones spotted buzzing RAF bases were launched from Russian shadow fleet tanker sailing near UK, report reveals",
+      "url": "https://www.dailymail.com/news/article-15947471/Drones-RAF-bases-launched-Russia.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-02T10:51:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Palestinians face uncertain future as Gaza marks 1,000 days of war",
+      "url": "https://www.hurriyetdailynews.com/palestinians-face-uncertain-future-as-gaza-marks-1-000-days-of-war-223929",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-02T10:23:02Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "CENTCOM considers relocating US bases to Israel’s Negev after Iran attacks",
+      "url": "https://cryptobriefing.com/centcom-considers-relocating-us-bases-to-israels-negev-after-iran-attacks/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-02T10:15:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IRAN-US MOU: Bürgenstock Didn’t Collapse, It Was Sabotaged",
+      "url": "https://www.activistpost.com/iran-us-mou-burgenstock-didnt-collapse-it-was-sabotaged/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-07-02T10:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Tehran warns against attacks as it prepares for Khamenei funeral",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/02/tehran-warns-against-attacks-as-it-prepares-for-khamenei-funeral/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-02T09:33:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "On the Eve of the NATO Summit, Is Europe Rearming Against a Phantom Russia?",
       "url": "https://www.thenation.com/?post_type=article&p=602952",
@@ -67,138 +163,42 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Facing barbs and pressure from Trump, Europe's leaders close ranks",
-      "url": "https://abcnews.com/International/wireStory/facing-barbs-pressure-trump-europes-leaders-close-ranks-134399170",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-02T04:57:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia strikes in central Kyiv kill at least eight people and injure dozens",
-      "url": "https://www.abc.net.au/news/2026-07-02/russia-strikes-central-kyiv-death-toll/106870544",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-02T04:46:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "History Continues to Serve Foreign Policy: Why Israel Finally Recognized the Armenian Genocide",
-      "url": "https://www.juancole.com/2026/07/continues-recognized-armenian.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-07-02T04:15:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian airstrikes kill 10, injure dozens in Kyiv",
-      "url": "https://www.rte.ie/news/ukraine/2026/0702/1581351-ukraine-russia/",
-      "source": "RTE",
-      "publishedAt": "2026-07-02T04:12:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian air strikes kill eight, injure dozens in Kyiv",
-      "url": "https://www.rte.ie/news/ukraine/2026/0702/1581351-ukraine-russia-world/",
-      "source": "RTE",
-      "publishedAt": "2026-07-02T04:12:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A quest for survival amid the Great Himalayan Game",
-      "url": "https://peoplesreview.com.np/2026/07/02/a-quest-for-survival-amid-the-great-himalayan-game/",
-      "source": "Peoplesreview.com.np",
-      "publishedAt": "2026-07-02T03:46:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Frozen Assets Expedited, IAEA Access Denied — Ghalibaf",
-      "url": "https://sputnikglobe.com/20260702/frozen-assets-expedited-iaea-access-denied--ghalibaf-1124384492.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-07-02T03:18:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘Buckle up’: ex-advisor Kellogg says Trump should brace Americans for Round Two with Iran",
-      "url": "https://nypost.com/2026/07/01/world-news/keith-kellogg-says-trump-should-brace-americans-for-round-two-with-iran-buckle-up/",
-      "source": "New York Post",
-      "publishedAt": "2026-07-02T00:20:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran Leave Qatar Talks With Hormuz Future Still Unclear",
-      "url": "http://wwd.com/sourcing-journal/logistics/strait-of-hormuz-tolls-fees-iran-war-oman-qatar-surcharges-hapag-lloyd-maersk-1239050434/",
-      "source": "WWD",
-      "publishedAt": "2026-07-01T22:31:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Traffic Through The Strait Of Hormuz Is Way Below Pre-War Levels As Trump Is Briefed On Options For “All-Out War”",
       "url": "http://theeconomiccollapseblog.com/traffic-through-the-strait-of-hormuz-is-way-below-pre-war-levels-as-trump-is-briefed-on-options-for-all-out-war/",
       "source": "Theeconomiccollapseblog.com",
       "publishedAt": "2026-07-01T20:11:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump won't return U.S. to full war in Iran 'unless he has to,' Vance says",
       "url": "https://www.cbc.ca/news/world/vance-iran-u-s-trump-war-talks-9.7255319",
       "source": "CBC News",
       "publishedAt": "2026-07-01T19:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US, Iran enter talks to reopen Hormuz and unfreeze assets",
       "url": "https://www.rte.ie/news/world/2026/0701/1581313-iran-us-talks/",
       "source": "RTE",
       "publishedAt": "2026-07-01T17:48:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US, Iran enter talks to reopen Hormuz and unfreeze assets",
       "url": "https://www.rte.ie/news/middle-east/2026/0701/1581313-iran-us-talks/",
       "source": "RTE",
       "publishedAt": "2026-07-01T17:48:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The secret small print in Trump's Iran deal that's turning voters harshly against it",
       "url": "https://www.dailymail.com/news/article-15941713/secret-print-trump-iran-deal.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-07-01T17:48:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Is Stronger After The War With The US",
-      "url": "https://www.shtfplan.com/war/iran-is-stronger-after-the-war-with-the-us",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-07-01T17:30:37Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu tells Hezbollah, Iran to ‘get out of here’ during southern Lebanon visit",
-      "url": "https://nypost.com/2026/07/01/world-news/netanyahu-tells-hezbollah-iran-to-get-out-of-here-during-southern-lebanon-visit/",
-      "source": "New York Post",
-      "publishedAt": "2026-07-01T17:08:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "In Mideast and around the world, everyone's talking 'ceasefire.' But what does it really mean?",
-      "url": "https://abcnews.com/International/wireStory/mideast-world-everyones-talking-ceasefire-134380242",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-01T17:07:20Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

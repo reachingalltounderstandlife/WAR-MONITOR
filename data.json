@@ -1,7 +1,127 @@
 {
-  "updated": "2026-07-03T14:00:38Z",
-  "count": 25,
+  "updated": "2026-07-03T19:19:32Z",
+  "count": 23,
   "articles": [
+    {
+      "title": "Trump wants ‘senseless killing’ in Ukraine to end – US official",
+      "url": "https://www.vanguardngr.com/2026/07/trump-wants-senseless-killing-in-ukraine-to-end-us-official/",
+      "source": "Vanguard",
+      "publishedAt": "2026-07-02T18:46:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "“He’s Mister Iran”: How Netanyahu Made a Better Iran Deal Impossible",
+      "url": "https://www.motherjones.com/politics/2026/07/hes-mister-iran-how-netanyahu-made-a-better-iran-deal-impossible/",
+      "source": "Mother Jones",
+      "publishedAt": "2026-07-02T18:43:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
+      "url": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-02T17:34:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian ballistic missile operations: 2024–2026",
+      "url": "https://www.longwarjournal.org/archives/2026/07/iranian-ballistic-missile-operations-2024-2026.php",
+      "source": "Longwarjournal.org",
+      "publishedAt": "2026-07-02T17:31:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Sees 10 Million Barrels Via Hormuz Sapping Iran Oil Leverage",
+      "url": "https://gcaptain.com/us-sees-10-million-barrels-via-hormuz-sapping-iran-oil-leverage/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-07-02T17:22:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Minister of Defense: 'Prepare for independent attack on Iran'",
+      "url": "https://www.israelnationalnews.com/news/429555",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-02T17:20:37Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "How Florida’s Cuban Diaspora and the Israeli Lobby Came Together — and Are Coming Apart",
+      "url": "https://theintercept.com/2026/07/02/tomdispatch-trump-florida-cuba-latin-america-lobby-israel-aipac/",
+      "source": "The Intercept",
+      "publishedAt": "2026-07-02T17:01:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia unleashes nearly 600 missiles and drones on Kyiv in deadliest strike since May",
+      "url": "https://www.foxnews.com/world/russia-unleashes-nearly-600-missiles-drones-kyiv-deadliest-strike-since-may",
+      "source": "Fox News",
+      "publishedAt": "2026-07-02T16:41:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel marks 1,000 days since Oct. 7 Hamas massacre that killed over 1,200 people",
+      "url": "https://nypost.com/2026/07/02/world-news/israel-marks-1000-days-since-oct-7-hamas-massacre-that-killed-over-1200-people/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-02T16:25:51Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran Negotiations Day 15: Indirect Talks Conclude in Doha",
+      "url": "https://www.theamericanconservative.com/iran-negotiations-day-15-indirect-talks-conclude-in-doha/",
+      "source": "The American Conservative",
+      "publishedAt": "2026-07-02T15:45:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "MEGA STRIKE on KYIV — 570 Drones & Missil, THOUSANDS of Drones Still in Reserve.",
+      "url": "https://freerepublic.com/focus/f-bloggers/4386373/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-02T15:10:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Europe is learning to live with Erdogan’s Turkey",
+      "url": "https://www.irishtimes.com/world/europe/2026/07/02/why-europe-is-learning-to-live-with-erdogans-turkey/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-02T15:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran turns Khamenei funeral into show of power",
+      "url": "https://www.dw.com/en/iran-turns-khamenei-funeral-into-show-of-power/a-77805433",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-02T14:54:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Georgescu Demands Resignation of “Illegitimate” Romanian President Dan: Says Deal with Zelensky Poses “Real Danger to Romania’s Survival”",
+      "url": "https://www.thegatewaypundit.com/2026/07/georgescu-demands-resignation-illegitimate-romanian-president-dan-says/",
+      "source": "Thegatewaypundit.com",
+      "publishedAt": "2026-07-02T14:30:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "CENTCOM considers relocating US bases from Gulf States to Negev after painful Iran strikes - report",
+      "url": "https://freerepublic.com/focus/f-news/4386366/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-02T14:22:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Russia Ramps Up Pressure on Kyiv With Deadliest Strikes in Months",
       "url": "https://oilprice.com/Geopolitics/International/Russia-Ramps-Up-Pressure-on-Kyiv-With-Deadliest-Strikes-in-Months.html",
@@ -15,14 +135,6 @@
       "url": "https://www.aljazeera.com/news/2026/7/2/with-hormuz-reopened-has-the-oil-shortage-turned-into-a-glut",
       "source": "Al Jazeera English",
       "publishedAt": "2026-07-02T13:48:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Phony Ceasefire: Calm Before The Storm?",
-      "url": "https://www.forbes.com/sites/arielcohen/2026/07/02/the-phony-ceasefire-calm-before-the-storm/",
-      "source": "Forbes",
-      "publishedAt": "2026-07-02T12:20:15Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -43,26 +155,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Thursday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/07/02/thursday-hili-dialogue-594/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-07-02T11:45:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Russia waged a drone campaign in Europe and likely launched drones from shadow ships, report says",
       "url": "https://abcnews.com/International/wireStory/russia-waged-drone-campaign-europe-launched-drones-shadow-134400766",
       "source": "Abcnews.com",
       "publishedAt": "2026-07-02T11:10:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Drones spotted buzzing RAF bases were launched from Russian shadow fleet tanker sailing near UK, report reveals",
-      "url": "https://www.dailymail.com/news/article-15947471/Drones-RAF-bases-launched-Russia.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-02T10:51:39Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -73,46 +169,6 @@
       "publishedAt": "2026-07-02T10:23:02Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "CENTCOM considers relocating US bases to Israel’s Negev after Iran attacks",
-      "url": "https://cryptobriefing.com/centcom-considers-relocating-us-bases-to-israels-negev-after-iran-attacks/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-02T10:15:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "IRAN-US MOU: Bürgenstock Didn’t Collapse, It Was Sabotaged",
-      "url": "https://www.activistpost.com/iran-us-mou-burgenstock-didnt-collapse-it-was-sabotaged/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-07-02T10:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Tehran warns against attacks as it prepares for Khamenei funeral",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/07/02/tehran-warns-against-attacks-as-it-prepares-for-khamenei-funeral/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-02T09:33:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "On the Eve of the NATO Summit, Is Europe Rearming Against a Phantom Russia?",
-      "url": "https://www.thenation.com/?post_type=article&p=602952",
-      "source": "Thenation.com",
-      "publishedAt": "2026-07-02T09:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ημερήσια Γεωπολιτική Επισκόπηση - 02/07/2026",
-      "url": "https://i-epikaira.blogspot.com/2026/07/02072026.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-07-02T08:54:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Dynamics of Reciprocity in Disarmament Law: A Clinical Appraisal of the 11th NPT RevCon Failure",
@@ -129,78 +185,6 @@
       "publishedAt": "2026-07-02T07:30:31Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Putin's revenge: Kyiv is hit by huge drone and missile attack in Russian retaliation for Ukraine's long-range strikes",
-      "url": "https://www.dailymail.com/news/article-15946973/Putins-revenge-Kyiv-hit-huge-drone-missile-attack-Russian-retaliation-Ukraines-long-range-strikes.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-02T06:23:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump says progress made with Iran, despite inconclusive end to talks",
-      "url": "https://www.thejournal.ie/trump-sees-progress-as-us-iran-hold-qatar-talks-7088136-Jul2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-07-02T06:15:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine War Intensifies With Strikes on Russian Energy Infrastructure",
-      "url": "https://www.naturalnews.com/2026-07-02-ukraine-war-intensifies-strikes-russian-energy-infrastructure.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-02T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Palestinians face uncertain future as Gaza marks 1,000 days of war",
-      "url": "https://www.yahoo.com/news/world/articles/palestinians-face-uncertain-future-gaza-050357592.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-02T05:03:57Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Traffic Through The Strait Of Hormuz Is Way Below Pre-War Levels As Trump Is Briefed On Options For “All-Out War”",
-      "url": "http://theeconomiccollapseblog.com/traffic-through-the-strait-of-hormuz-is-way-below-pre-war-levels-as-trump-is-briefed-on-options-for-all-out-war/",
-      "source": "Theeconomiccollapseblog.com",
-      "publishedAt": "2026-07-01T20:11:44Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump won't return U.S. to full war in Iran 'unless he has to,' Vance says",
-      "url": "https://www.cbc.ca/news/world/vance-iran-u-s-trump-war-talks-9.7255319",
-      "source": "CBC News",
-      "publishedAt": "2026-07-01T19:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US, Iran enter talks to reopen Hormuz and unfreeze assets",
-      "url": "https://www.rte.ie/news/world/2026/0701/1581313-iran-us-talks/",
-      "source": "RTE",
-      "publishedAt": "2026-07-01T17:48:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US, Iran enter talks to reopen Hormuz and unfreeze assets",
-      "url": "https://www.rte.ie/news/middle-east/2026/0701/1581313-iran-us-talks/",
-      "source": "RTE",
-      "publishedAt": "2026-07-01T17:48:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The secret small print in Trump's Iran deal that's turning voters harshly against it",
-      "url": "https://www.dailymail.com/news/article-15941713/secret-print-trump-iran-deal.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-01T17:48:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

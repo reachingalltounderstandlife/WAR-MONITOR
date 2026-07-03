@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-02T19:22:07Z",
-  "count": 21,
+  "updated": "2026-07-03T02:50:46Z",
+  "count": 22,
   "articles": [
+    {
+      "title": "‘Buckle up’: ex-advisor Kellogg says Trump should brace Americans for Round Two with Iran",
+      "url": "https://nypost.com/2026/07/01/world-news/keith-kellogg-says-trump-should-brace-americans-for-round-two-with-iran-buckle-up/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-02T00:20:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran Leave Qatar Talks With Hormuz Future Still Unclear",
+      "url": "http://wwd.com/sourcing-journal/logistics/strait-of-hormuz-tolls-fees-iran-war-oman-qatar-surcharges-hapag-lloyd-maersk-1239050434/",
+      "source": "WWD",
+      "publishedAt": "2026-07-01T22:31:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Traffic Through The Strait Of Hormuz Is Way Below Pre-War Levels As Trump Is Briefed On Options For “All-Out War”",
+      "url": "http://theeconomiccollapseblog.com/traffic-through-the-strait-of-hormuz-is-way-below-pre-war-levels-as-trump-is-briefed-on-options-for-all-out-war/",
+      "source": "Theeconomiccollapseblog.com",
+      "publishedAt": "2026-07-01T20:11:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Trump won't return U.S. to full war in Iran 'unless he has to,' Vance says",
       "url": "https://www.cbc.ca/news/world/vance-iran-u-s-trump-war-talks-9.7255319",
@@ -79,16 +103,8 @@
       "url": "https://abcnews.com/International/wireStory/mideast-world-everyones-talking-ceasefire-134380242",
       "source": "Abcnews.com",
       "publishedAt": "2026-07-01T17:07:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Sees 10 Million Barrels Via Hormuz Sapping Iran Oil Leverage",
-      "url": "https://financialpost.com/pmn/business-pmn/us-sees-10-million-barrels-via-hormuz-sapping-iran-oil-leverage",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-01T16:45:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israel defence minister says troops to stay in Lebanon, Syria, Gaza 'until further notice'",
@@ -103,8 +119,8 @@
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-upbeat-as-us-iran-hold-indirect-talks-in-qatar/articleshow/132119334.cms",
       "source": "The Times of India",
       "publishedAt": "2026-07-01T16:20:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Ukraine hits Russian oil refinery and missile component plant, Zelenskiy says",
@@ -161,14 +177,6 @@
       "publishedAt": "2026-07-01T11:56:02Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "KTSSMing Them Softly",
-      "url": "https://www.armscontrolwonk.com/archive/1222063/ktssming-them-softly/",
-      "source": "Armscontrolwonk.com",
-      "publishedAt": "2026-06-30T21:58:44Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

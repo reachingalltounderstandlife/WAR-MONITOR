@@ -1,30 +1,134 @@
 {
-  "updated": "2026-07-04T02:46:53Z",
-  "count": 24,
+  "updated": "2026-07-04T08:34:28Z",
+  "count": 28,
   "articles": [
     {
-      "title": "Kyiv suffers deadliest attack this year, after Russia 'unleashed hell'",
-      "url": "https://www.abc.net.au/news/2026-07-03/ukraine-kyiv-deadliest-attack-2026-russia-invasion-war/106874742",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-03T02:06:46Z",
+      "title": "Putin Shrugs Off Fuel Shortages In Russia As He Ramps Up Attacks On Ukraine",
+      "url": "https://www.huffpost.com/entry/russia-putin-doubling-down_n_6a476fbee4b07748e75cd4a1",
+      "source": "HuffPost",
+      "publishedAt": "2026-07-03T08:23:06Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "The Salesman in the Oval Office",
-      "url": "https://original.antiwar.com/thomas_karat/2026/07/02/the-salesman-in-the-oval-office/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-07-03T00:00:41Z",
+      "title": "Trump says NATO 'were not there for us' and says it is 'ridiculous for the USA to continue along this one-sided path'",
+      "url": "https://www.dailymail.com/news/article-15950239/Trump-says-NATO-not-says-ridiculous-USA-continue-one-sided-path.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-03T08:17:13Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Russia pounds Kyiv with missiles and drones after Ukraine's strikes on oil infrastructure",
-      "url": "https://www.pbs.org/newshour/show/russia-pounds-kyiv-with-missiles-and-drones-after-ukraines-strikes-on-oil-infrastructure",
-      "source": "PBS",
-      "publishedAt": "2026-07-02T22:55:52Z",
+      "title": "Putin 'is planning Polish incursion to test NATO's response'",
+      "url": "https://www.dailymail.com/news/article-15950143/Putin-planning-Polish-incursion-test-NATOs-response.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-03T08:12:20Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "Iran’s Khamenei funeral: Which world leaders are attending?",
+      "url": "https://www.aljazeera.com/news/2026/7/3/irans-khamenei-funeral-which-world-leaders-are-attending",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-03T08:04:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Report: US feared Israel could target Iranian negotiators during talks",
+      "url": "https://www.israelnationalnews.com/news/429587",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-03T08:03:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine: Russia strikes kill 4, day of mourning in Kyiv",
+      "url": "https://www.dw.com/en/ukraine-russia-strikes-kill-4-day-of-mourning-in-kyiv/a-77813693",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-03T07:38:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine: Russia strikes kill four, day of mourning in Kyiv",
+      "url": "https://www.dw.com/en/ukraine-russia-strikes-kill-four-day-of-mourning-in-kyiv/a-77813693",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-03T07:38:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine: Russia strikes kill 4 as Kyiv holds day of mourning",
+      "url": "https://www.dw.com/en/ukraine-russia-strikes-kill-4-as-kyiv-holds-day-of-mourning/a-77813693",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-03T07:38:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Misguided and Misunderstood: Trump’s Approach to U.S. Troops in Europe",
+      "url": "https://warontherocks.com/misguided-and-misunderstood-trumps-approach-to-u-s-troops-in-europe/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-07-03T07:30:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO Summit 2026: What are the key challenges facing the alliance?",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/nato-summit-2026-what-are-the-key-challenges-facing-the-alliance/articleshow/132154984.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-03T07:16:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin shrugs off fuel shortages in Russia as he ramps up attacks on Ukraine",
+      "url": "https://abcnews.com/International/wireStory/putin-shrugs-off-fuel-shortages-russia-ramps-attacks-134433266",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-03T06:32:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Upgrade imminent: Iran’s missile saturation exposes critical gaps in Israel’s Iron Dome",
+      "url": "https://www.naturalnews.com/2026-07-03-irans-missile-saturation-reveals-critical-gaps-iron-dome.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-03T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. seeks to compete with Russia in the Arctic, invests in six Coast Guard Icebreakers",
+      "url": "https://www.naturalnews.com/2026-07-03-us-to-compete-with-russia-in-arctic.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-03T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How Trump Sabotaged Independence Day",
+      "url": "https://www.juancole.com/2026/07/trump-sabotaged-independence.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-07-03T04:15:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Taiwan faces potential Chinese blockade, invasion amid rising tensions: Reuters",
+      "url": "https://cryptobriefing.com/taiwan-faces-potential-chinese-blockade-invasion-amid-rising-tensions-reuters/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-03T03:22:58Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "'Just about everything we need': Trump claims Iran has accepted nearly all US conditions",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/just-about-everything-we-need-trump-claims-iran-has-accepted-nearly-all-us-conditions/articleshow/132151254.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-03T02:52:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "Peter Thiel’s Secret Group “Dialog”—A Death Blow to Democracy?",
@@ -51,84 +155,28 @@
       "_label": "Iran War"
     },
     {
-      "title": "Russia's Attack On Kyiv Sparks Fresh Calls In US, Europe For Tougher Action",
-      "url": "https://www.rferl.org/a/ukraine-kyiv-russia-washington-europe-nato/33795007.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-07-02T20:48:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israel Reportedly Attempted To Shoot Down Iran’s Negotiators",
       "url": "https://dailycaller.com/2026/07/02/israel-reportedly-attempted-shoot-down-iran-negotiators/",
       "source": "The Daily Caller",
       "publishedAt": "2026-07-02T20:40:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "This EU state’s anti-Russian crusade has become a strategic dead end",
-      "url": "https://www.rt.com/russia/642505-eu-states-anti-russian-crusade/",
-      "source": "RT",
-      "publishedAt": "2026-07-02T20:09:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Thursday, July 2. Russia’s War On Ukraine: News And Information From Ukraine",
-      "url": "https://www.forbes.com/sites/katyasoldak/2026/07/02/thursday-july-2-russias-war-on-ukraine-news-and-information-from-ukraine/",
-      "source": "Forbes",
-      "publishedAt": "2026-07-02T19:32:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "German Prosecutors: Ukraine Behind Nord Stream Destruction",
-      "url": "https://legalinsurrection.com/2026/07/german-prosecutors-ukraine-behind-nord-stream-destruction/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-07-02T19:24:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump wants ‘senseless killing’ in Ukraine to end – US official",
-      "url": "https://www.vanguardngr.com/2026/07/trump-wants-senseless-killing-in-ukraine-to-end-us-official/",
-      "source": "Vanguard",
-      "publishedAt": "2026-07-02T18:46:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "“He’s Mister Iran”: How Netanyahu Made a Better Iran Deal Impossible",
       "url": "https://www.motherjones.com/politics/2026/07/hes-mister-iran-how-netanyahu-made-a-better-iran-deal-impossible/",
       "source": "Mother Jones",
       "publishedAt": "2026-07-02T18:43:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "How US-Iran war may push Gulf countries to ‘diversify’ security alliances",
       "url": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances",
       "source": "Al Jazeera English",
       "publishedAt": "2026-07-02T17:34:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian ballistic missile operations: 2024–2026",
-      "url": "https://www.longwarjournal.org/archives/2026/07/iranian-ballistic-missile-operations-2024-2026.php",
-      "source": "Longwarjournal.org",
-      "publishedAt": "2026-07-02T17:31:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Sees 10 Million Barrels Via Hormuz Sapping Iran Oil Leverage",
-      "url": "https://gcaptain.com/us-sees-10-million-barrels-via-hormuz-sapping-iran-oil-leverage/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-07-02T17:22:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Minister of Defense: 'Prepare for independent attack on Iran'",
@@ -137,14 +185,6 @@
       "publishedAt": "2026-07-02T17:20:37Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Russia unleashes nearly 600 missiles and drones on Kyiv in deadliest strike since May",
-      "url": "https://www.foxnews.com/world/russia-unleashes-nearly-600-missiles-drones-kyiv-deadliest-strike-since-may",
-      "source": "Fox News",
-      "publishedAt": "2026-07-02T16:41:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Israel marks 1,000 days since Oct. 7 Hamas massacre that killed over 1,200 people",
@@ -167,14 +207,6 @@
       "url": "https://www.dw.com/en/iran-turns-khamenei-funeral-into-show-of-power/a-77805433",
       "source": "DW (English)",
       "publishedAt": "2026-07-02T14:54:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "CENTCOM considers relocating US bases from Gulf States to Negev after painful Iran strikes - report",
-      "url": "https://freerepublic.com/focus/f-news/4386366/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-02T14:22:27Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-04T19:09:40Z",
-  "count": 30,
+  "updated": "2026-07-05T02:57:31Z",
+  "count": 26,
   "articles": [
+    {
+      "title": "European Conservatives Bring Unity Message to US: Ukraine Matters. Iran Does, Too",
+      "url": "https://www.rferl.org/a/europe-conservatives-ukraine-iran-trump-nato/33796570.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-07-04T00:59:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "With queues at the petrol pump and his soldiers' life expectancy as low as 20 minutes, Putin has never looked so desperate: ANDREW NEIL",
+      "url": "https://www.dailymail.com/columnists/article-15951687/Soldiers-life-expectancy-low-Putin-desperate.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-04T00:08:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran bids farewell to late supreme leader (PHOTOS, VIDEOS)",
+      "url": "https://www.rt.com/news/642540-iran-ayatollah-ali-khamenei-funeral/",
+      "source": "RT",
+      "publishedAt": "2026-07-03T23:13:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. was concerned Israel might try to kill Iran negotiators, sources say",
+      "url": "https://www.nbcnews.com/world/iran/us-officials-warned-iran-israel-might-try-kill-negotiators-sources-rcna352883",
+      "source": "NBC News",
+      "publishedAt": "2026-07-03T20:23:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Polish PM warns critical months ahead in face of Russian threat",
       "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o",
@@ -59,6 +91,14 @@
       "_label": "Iran War"
     },
     {
+      "title": "NATO leaders including Trump to affirm 'ironclad commitment' to collective defence in Ankara, summit text says",
+      "url": "https://www.yahoo.com/news/politics/articles/nato-leaders-affirm-ironclad-commitment-132630989.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-03T13:43:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
       "title": "Marco Rubio's secret plot against Pete Hegseth EXPOSED as war chief is left humiliated over troop scheme",
       "url": "https://www.dailymail.com/news/article-15950859/Marco-Rubios-secret-plot-against-Pete-Hegseth-EXPOSED-war-chief-left-humiliated-troop-scheme.html",
       "source": "Dailymail.com",
@@ -105,30 +145,6 @@
       "publishedAt": "2026-07-03T12:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "WSJ: “Bombshell” plan for US forces in Europe was prepared for announcement by Hegseth to NATO",
-      "url": "https://en.protothema.gr/2026/07/03/wsj-bombshell-plan-for-us-forces-in-europe-was-prepared-for-announcement-by-hegseth-to-nato/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-07-03T11:14:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Links 7/3/2026",
-      "url": "https://www.nakedcapitalism.com/2026/07/links-7-3-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-03T10:55:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The UK’s Latest “Debanking” Scandal Should Give Everyone Pause",
-      "url": "https://www.nakedcapitalism.com/2026/07/the-uks-latest-debanking-scandal-should-give-everyone-pause.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-03T10:45:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "IDF week in review: Tunnels destroyed in Gaza, Central Command arrests 60 terrorists",
@@ -179,14 +195,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Upgrade imminent: Iran’s missile saturation exposes critical gaps in Israel’s Iron Dome",
-      "url": "https://www.naturalnews.com/2026-07-03-irans-missile-saturation-reveals-critical-gaps-iron-dome.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-03T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "How Trump Sabotaged Independence Day",
       "url": "https://www.juancole.com/2026/07/trump-sabotaged-independence.html",
       "source": "Juancole.com",
@@ -201,46 +209,6 @@
       "publishedAt": "2026-07-03T03:22:58Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Angsty in Ankara",
-      "url": "http://foreignpolicy.com/2026/07/02/nato-summit-ankara-trump-rutte-erdogan-ukraine-iran/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-02T22:03:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel Reportedly Attempted To Shoot Down Iran’s Negotiators",
-      "url": "https://dailycaller.com/2026/07/02/israel-reportedly-attempted-shoot-down-iran-negotiators/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-07-02T20:40:05Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "“He’s Mister Iran”: How Netanyahu Made a Better Iran Deal Impossible",
-      "url": "https://www.motherjones.com/politics/2026/07/hes-mister-iran-how-netanyahu-made-a-better-iran-deal-impossible/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-07-02T18:43:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Dynamics of Reciprocity in Disarmament Law: A Clinical Appraisal of the 11th NPT RevCon Failure",
-      "url": "http://opiniojuris.org/2026/07/02/dynamics-of-reciprocity-in-disarmament-law-a-clinical-appraisal-of-the-11th-npt-revcon-failure/",
-      "source": "Opiniojuris.org",
-      "publishedAt": "2026-07-02T08:00:22Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The Blind Spots in Chinese Military Studies",
-      "url": "https://warontherocks.com/the-blind-spots-in-chinese-military-studies/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-07-02T07:30:31Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

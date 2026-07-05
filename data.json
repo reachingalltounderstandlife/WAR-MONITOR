@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-05T13:27:41Z",
+  "updated": "2026-07-05T19:15:26Z",
   "count": 27,
   "articles": [
+    {
+      "title": "Trump: Netanyahu 'Knows Who the Boss Is’ as Leaders Plan White House Meeting",
+      "url": "https://www.breitbart.com/middle-east/2026/07/04/trump-netanyahu-knows-who-the-boss-is-as-leaders-plan-white-house-meeting/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-07-04T19:09:08Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "'Let us wail!' Iranians flock to Khamenei's funeral after wartime death",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/let-us-wail-iranians-flock-to-khameneis-funeral-after-wartime-death/articleshow/132186886.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-04T18:56:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US warns Poland of ossible Russian invasion",
+      "url": "https://www.israelnationalnews.com/news/429621",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-04T18:37:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump hints Israel’s Benjamin Netanyahu may visit US as early as next week",
+      "url": "https://www.aljazeera.com/news/2026/7/4/trump-hints-israels-benjamin-netanyahu-may-visit-us-as-early-as-next-week",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-04T18:17:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine attacks St Petersburg, says Russian seizure of key town a 'lie'",
+      "url": "https://economictimes.indiatimes.com/news/defence/ukraine-attacks-st-petersburg-says-russian-seizure-of-key-town-a-lie/articleshow/132183013.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-04T14:30:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The UK’s £298B Defence Investment Plan At A Glance: 6th Generation Force Design or Creative Accounting?",
+      "url": "https://theaviationist.com/2026/07/04/uk-defence-investment-plan-at-a-glance/",
+      "source": "Theaviationist.com",
+      "publishedAt": "2026-07-04T14:20:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ali Khamenei’s body in public pilgrimage: A sea of ​​people on the streets of Tehran (video-photos)",
+      "url": "https://en.protothema.gr/2026/07/04/ali-khameneis-body-in-public-pilgrimage-a-sea-of-people-on-the-streets-of-tehran-video-photos/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-07-04T14:13:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ayalon criticizes US-Iran MoU as ‘massive surrender’ amid strained relations",
+      "url": "https://cryptobriefing.com/ayalon-criticizes-us-iran-mou-as-massive-surrender-amid-strained-relations/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-04T13:51:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Thousands of Iranians gather in Tehran to mourn Khamenei",
       "url": "https://www.rte.ie/news/middle-east/2026/0704/1581758-khamenei-funeral/",
@@ -107,38 +171,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "No one does more for Palestinians than EU – Von der Leyen",
-      "url": "https://www.rt.com/news/642560-von-der-leyen-eu-helping-palestinians/",
-      "source": "RT",
-      "publishedAt": "2026-07-04T04:55:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "European Conservatives Bring Unity Message to US: Ukraine Matters. Iran Does, Too",
-      "url": "https://www.rferl.org/a/europe-conservatives-ukraine-iran-trump-nato/33796570.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-07-04T00:59:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "With queues at the petrol pump and his soldiers' life expectancy as low as 20 minutes, Putin has never looked so desperate: ANDREW NEIL",
-      "url": "https://www.dailymail.com/columnists/article-15951687/Soldiers-life-expectancy-low-Putin-desperate.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-04T00:08:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran bids farewell to late supreme leader (PHOTOS, VIDEOS)",
-      "url": "https://www.rt.com/news/642540-iran-ayatollah-ali-khamenei-funeral/",
-      "source": "RT",
-      "publishedAt": "2026-07-03T23:13:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "U.S. was concerned Israel might try to kill Iran negotiators, sources say",
       "url": "https://www.nbcnews.com/world/iran/us-officials-warned-iran-israel-might-try-kill-negotiators-sources-rcna352883",
       "source": "NBC News",
@@ -153,22 +185,6 @@
       "publishedAt": "2026-07-03T16:00:28Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Assassination fears gripped White House as Israel staged plot to kill Iran's peace negotiators",
-      "url": "https://www.dailymail.com/news/article-15950937/Assassination-fears-gripped-White-House-Israel-staged-plot-kill-Irans-peace-negotiators.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-03T15:14:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US officials attempted to warn Iran of fears that Israel would assassinate mediators",
-      "url": "https://www.cnn.com/2026/07/03/politics/assassination-warning-us-israel-iran",
-      "source": "CNN",
-      "publishedAt": "2026-07-03T13:54:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ayatollah Ali Khamenei, who led Iran with iron fist, will be buried",
@@ -191,22 +207,6 @@
       "url": "http://prospect.org/2026/07/03/marco-rubios-dangerous-diplomacy-in-lebanon/",
       "source": "The American Prospect",
       "publishedAt": "2026-07-03T09:15:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lawfare Archive: Exploding Pagers and Air Strikes",
-      "url": "https://shows.acast.com/lawfare/episodes/lawfare-archive-exploding-pagers-and-air-strikes",
-      "source": "Acast.com",
-      "publishedAt": "2026-07-03T09:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Venezuela’s “skyrocketing” needs, AI risks at the UN, and refugees at the World Cup: The Cheat Sheet",
-      "url": "https://www.thenewhumanitarian.org/news/2026/07/03/venezuela-skyrocketing-needs-ai-risks-un-refugees-world-cup-cheat-sheet",
-      "source": "The New Humanitarian",
-      "publishedAt": "2026-07-03T08:55:36Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

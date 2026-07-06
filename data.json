@@ -1,7 +1,143 @@
 {
-  "updated": "2026-07-06T10:17:26Z",
-  "count": 26,
+  "updated": "2026-07-06T15:28:46Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "Ahead Of High-Stakes NATO Summit, Ex-US Envoy To OSCE James Gilmore Says Alliance Is Renewing Itself",
+      "url": "https://www.rferl.org/a/33797187.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-07-05T15:19:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel launches airstrike on the town of nabatieh al-Fawqa in southern lebanon",
+      "url": "https://cryptobriefing.com/israel-launches-airstrike-on-the-town-of-nabatieh-al-fawqa-in-southern-lebanon/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-05T15:16:41Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump moves the goalposts for NATO after demanding members spend more. ‘We don’t need their money — we don’t need anything. I just want loyalty’",
+      "url": "https://fortune.com/2026/07/05/trump-nato-summit-member-defense-spending-burden-sharing-loyalty/",
+      "source": "Fortune",
+      "publishedAt": "2026-07-05T14:09:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO Chief Faces Challenge At Summit As Trump Demands 'Loyalty' And Not Just Burden-Sharing",
+      "url": "https://www.huffpost.com/entry/ap-eu-nato-summit-rutte-trump_n_6a4a4ea3e4b03060a850d285",
+      "source": "HuffPost",
+      "publishedAt": "2026-07-05T12:34:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelensky and Putin Hold Separate Talks With President Trump on Ending War",
+      "url": "https://www.breitbart.com/europe/2026/07/05/zelensky-and-putin-hold-separate-talks-with-president-trump/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-07-05T12:34:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Scrutinising the Unpardonable: The AUKUS Public Inquiry So Far",
+      "url": "https://www.globalresearch.ca/aukus-public-inquiry-so-far/5932414",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-05T12:16:45Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Iranians pray for slain supreme leader Khamenei in son’s absence",
+      "url": "https://punchng.com/iranians-pray-for-slain-supreme-leader-khamenei-in-sons-absence/",
+      "source": "The Punch",
+      "publishedAt": "2026-07-05T12:08:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Khamenei Funeral Prayers Held Without Mojtaba; Other Sons Attend",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260705-rferl05.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-05T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel confirms it deployed Iron Dome to UAE amid war on Iran",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260705-presstv05.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-05T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Qalibaf: Iran not at peace with US; MoU implementation difficult but possible",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260705-presstv04.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-05T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian Supreme Leader Mojtaba Khamenei Still Absent From Father's Funeral",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260705-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-05T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump-Zelenskyy Meeting Set For NATO Summit Amid US Push To End Russia's War",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260705-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-05T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ahead Of High-Stakes NATO Summit, Ex-US Envoy To OSCE James Gilmore Says Alliance Is Renewing Itself",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260705-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-05T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea test-fires strategic cruise missile, other weapons from Kang Kon naval destroyer",
+      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260705-presstv01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-05T12:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Carney to travel to Turkey, where NATO allies will focus on managing Trump",
+      "url": "https://toronto.citynews.ca/2026/07/05/carney-to-travel-to-turkey-where-nato-allies-will-focus-on-managing-trump/",
+      "source": "Citynews.ca",
+      "publishedAt": "2026-07-05T11:34:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How Trump is turning NATO into a cash machine",
+      "url": "https://www.politico.com/news/2026/07/05/nato-trump-cash-machine-00985766",
+      "source": "Politico",
+      "publishedAt": "2026-07-05T11:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iranians pray for slain Khamenei but son and successor absent",
+      "url": "https://www.vanguardngr.com/2026/07/iranians-pray-for-slain-khamenei-but-son-and-successor-absent/",
+      "source": "Vanguard",
+      "publishedAt": "2026-07-05T10:17:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "1 killed in attack on Crimea as Putin and Zelensky hold separate Trump calls",
       "url": "https://nypost.com/2026/07/05/world-news/crimea-attack-kills-1-as-putin-and-zelensky-hold-separate-trump-calls/",
@@ -43,22 +179,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump offered to help 'find solutions' to end Ukraine war in 90-minute phone call with Putin - as Kremlin accuses Kyiv of 'terrorism' after drone strikes on oil terminals",
-      "url": "https://www.dailymail.com/news/article-15954001/Trump-offered-solutions-Ukraine-war-phone.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-05T09:08:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "America’s battlefield dominance is under serious threat",
-      "url": "https://economictimes.indiatimes.com/news/defence/americas-battlefield-dominance-is-under-serious-threat/articleshow/132193035.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-05T09:03:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "China raises pressure on Taiwan with expanded coast guard patrols",
       "url": "https://cryptobriefing.com/china-raises-pressure-on-taiwan-with-expanded-coast-guard-patrols/",
       "source": "Crypto Briefing",
@@ -67,60 +187,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "NATO chief faces challenge at summit as Trump demands 'loyalty'",
-      "url": "https://www.hurriyetdailynews.com/nato-chief-faces-challenge-at-summit-as-trump-demands-loyalty-224001",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-05T08:24:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO's eastern flank prepares to fend off Russia — with or without America",
-      "url": "https://www.businessinsider.com/nato-eastern-flank-prepares-to-fend-off-russia-without-us-2026-6",
-      "source": "Business Insider",
-      "publishedAt": "2026-07-05T08:01:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO's eastern flank prepares to fend off Russia — with or without America",
-      "url": "https://www.businessinsider.com/nato-eastern-flank-prepares-to-fend-off-russia-without-us-2026-6#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-07-05T08:01:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin and Trump discuss Ukraine in call ahead of Nato summit",
-      "url": "https://www.irishtimes.com/world/us/2026/07/05/putin-and-trump-discuss-ukraine-in-call-ahead-of-nato-summit/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-05T07:46:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO chief faces challenge at summit as Trump demands 'loyalty' and not just burden-sharing",
-      "url": "https://abcnews.com/International/wireStory/nato-chief-faces-challenge-summit-trump-demands-loyalty-134493185",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-05T06:41:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iranian Commander Warns U.S., Israel Against Attacks as Khamenei Funeral Preparations Underway",
       "url": "https://www.naturalnews.com/2026-07-05-iranian-commander-warns-against-attacks-khamenei-funeral.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-07-05T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Regev reveals: Israel gave Iron Dome batteries to UAE",
-      "url": "https://www.israelnationalnews.com/news/429642",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-07-05T05:29:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Kim Jong Un seen observing weapons tests from new North Korean naval destroyer",
@@ -151,24 +223,8 @@
       "url": "https://www.aljazeera.com/news/2026/7/4/lebanons-aoun-calls-on-us-to-keep-always-standing-beside-his-country",
       "source": "Al Jazeera English",
       "publishedAt": "2026-07-04T20:06:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Leaders Know UAE Backs Massacres in Sudan. Stopping Them Would Be Too Costly.",
-      "url": "https://responsiblestatecraft.org/sudan-civil-war-massacre/",
-      "source": "Responsiblestatecraft.org",
-      "publishedAt": "2026-07-04T19:49:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Middle Eastern Experts Warn That President Trump Has Walked Into A Globalist Trap In Iran",
-      "url": "https://freerepublic.com/focus/f-news/4386674/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-04T19:27:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump: Netanyahu 'Knows Who the Boss Is’ as Leaders Plan White House Meeting",

@@ -1,7 +1,127 @@
 {
-  "updated": "2026-07-07T02:57:24Z",
-  "count": 28,
+  "updated": "2026-07-07T09:38:03Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Russian Missile And Drone Attack On Ukraine's Capital Kills At Least 11",
+      "url": "https://www.huffpost.com/entry/russia-attacks-kyiv_n_6a4b7306e4b05c9d0338abcf",
+      "source": "HuffPost",
+      "publishedAt": "2026-07-06T09:24:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US taking stock of NATO as Trump heads to Turkey for summit",
+      "url": "https://abcnews.com/Politics/us-taking-stock-nato-trump-heads-turkey-summit/story?id=134444596",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-06T09:06:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian strike kills 14 around Kyiv on eve of NATO summit",
+      "url": "https://www.vanguardngr.com/2026/07/russian-strike-kills-14-around-kyiv-on-eve-of-nato-summit/",
+      "source": "Vanguard",
+      "publishedAt": "2026-07-06T09:02:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump's calls, Ukraine's strikes and Russia's barrage on Kyiv put markets on alert",
+      "url": "https://www.cnbc.com/2026/07/06/ukraine-russia-kyiv-trump-putin-zelenskyy.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-06T08:32:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine fails to intercept Russian ballistic missiles amid Patriot shortage",
+      "url": "https://cryptobriefing.com/ukraine-fails-to-intercept-russian-ballistic-missiles-amid-patriot-shortage/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-06T08:32:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A year after a disastrous maiden launch, North Korea's new destroyer is up and firing its guns",
+      "url": "https://www.businessinsider.com/north-korea-destroyer-disastrous-firing-kang-kon-kim-jong-un-2026-7#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-06T07:53:07Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Russian missile and drone attack on Ukraine's capital kills at least 12",
+      "url": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-12",
+      "source": "NPR",
+      "publishedAt": "2026-07-06T07:41:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian missile and drone attack on Ukraine's capital kills at least 11",
+      "url": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-11",
+      "source": "NPR",
+      "publishedAt": "2026-07-06T07:41:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia's missile and drone attacks on Ukraine kill at least 22",
+      "url": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-ukraine",
+      "source": "NPR",
+      "publishedAt": "2026-07-06T07:41:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Not just an addendum: Making resilience a key pillar of Europe’s defence",
+      "url": "https://www.iss.europa.eu/publications/briefs/not-just-addendum-making-resilience-key-pillar-europes-defence",
+      "source": "Europa.eu",
+      "publishedAt": "2026-07-06T07:15:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin unleashes hell on Kyiv with 'evil' drone strikes - as Trump threatens Nato over defence ahead of key alliance summit",
+      "url": "https://www.dailymail.com/news/article-15955567/Putin-unleashes-hell-Kyiv-evil-drone-strikes-Trump-threatens-Nato-defence-ahead-key-alliance-summit.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-06T06:49:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel ready for military action amid fragile ceasefire with Iran",
+      "url": "https://cryptobriefing.com/israel-ready-for-military-action-amid-fragile-ceasefire-with-iran/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-06T06:34:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Pentagon Struggling to Replenish Weapons Stockpiles After Iran War, GAO Report Says",
+      "url": "https://www.naturalnews.com/2026-07-06-pentagon-struggling-replenish-weapons-after-iran-war-report.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-06T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Dozens of Foreign Delegations Arrive in Tehran for Funeral of Iran’s Late Supreme Leader",
+      "url": "https://www.naturalnews.com/2026-07-06-foreign-delegations-arrive-tehran-funeral-ali-khamenei.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-06T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Scrutinizing the Unpardonable: The AUKUS Public Inquiry So Far",
+      "url": "https://www.counterpunch.org/2026/07/06/scrutinizing-the-unpardonable-the-aukus-public-inquiry-so-far/",
+      "source": "CounterPunch",
+      "publishedAt": "2026-07-06T05:50:26Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
     {
       "title": "Netanyahu says some Lebanese Christian villages 'asked to be annexed' by Israel",
       "url": "https://economictimes.indiatimes.com/news/defence/netanyahu-says-some-lebanese-christian-villages-asked-to-be-annexed-by-israel/articleshow/132205856.cms",
@@ -11,68 +131,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Make NATO European? How Trump is reshaping the alliance",
-      "url": "https://economictimes.indiatimes.com/news/defence/make-nato-european-how-trump-is-reshaping-the-alliance/articleshow/132205541.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-06T02:07:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine: Renewed attacks on Kyiv leave several killed",
-      "url": "https://www.dw.com/en/ukraine-renewed-attacks-on-kyiv-leave-several-killed/a-77841452",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-06T01:46:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine: Several killed in renewed attacks on Kyiv",
-      "url": "https://www.dw.com/en/ukraine-several-killed-in-renewed-attacks-on-kyiv/a-77841452",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-06T01:46:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine: Renewed attacks on Kyiv leave at least eight injured",
-      "url": "https://www.dw.com/en/ukraine-renewed-attacks-on-kyiv-leave-at-least-eight-injured/a-77841452",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-06T01:27:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia Launches Fresh Attack On Kyiv Following Zelenskyy Warning Of Impending Strike",
-      "url": "https://www.rferl.org/a/ukraine-kyiv-zelenskyy-russia-attack-nato-putin/33797564.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-07-06T01:01:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia attacks Ukrainian capital Kyiv with ballistic missiles on eve of critical NATO summit | CNN",
-      "url": "https://www.cnn.com/2026/07/05/europe/kyiv-ballistic-missile-attack-july-6-intl-hnk",
-      "source": "CNN",
-      "publishedAt": "2026-07-06T00:32:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "American Decline, Chinese Exposure | Sinification: June 2026",
       "url": "https://sinocism.com/p/american-decline-chinese-exposure",
       "source": "Sinocism.com",
       "publishedAt": "2026-07-05T22:31:12Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Putin's 85-minute call to Trump on American Independence Day",
-      "url": "https://english.gossiplankanews.com/2026/07/putins-85-minute-call-to-trump-on.html",
-      "source": "Gossiplankanews.com",
-      "publishedAt": "2026-07-05T22:30:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Netanyahu says some Lebanese Christian villages ‘asked to be annexed’ by Israel",
@@ -89,14 +153,6 @@
       "publishedAt": "2026-07-05T20:24:24Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Trump-Zelenskyy Meeting Set For NATO Summit Amid US Push To End Russia's War",
-      "url": "https://www.rferl.org/a/33797244.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-07-05T19:19:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Kim Jong Un vows to possess 'absolute power' as he watches weapons test at new 5,000-tonne warship",
@@ -149,30 +205,6 @@
     {
       "title": "Khamenei Funeral Prayers Held Without Mojtaba; Other Sons Attend",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260705-rferl05.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-05T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel confirms it deployed Iron Dome to UAE amid war on Iran",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260705-presstv05.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-05T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Qalibaf: Iran not at peace with US; MoU implementation difficult but possible",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260705-presstv04.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-05T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian Supreme Leader Mojtaba Khamenei Still Absent From Father's Funeral",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260705-rferl01.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-07-05T12:00:00Z",
       "_cat": "iran",

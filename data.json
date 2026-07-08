@@ -1,30 +1,118 @@
 {
-  "updated": "2026-07-08T02:33:35Z",
-  "count": 28,
+  "updated": "2026-07-08T08:25:25Z",
+  "count": 32,
   "articles": [
     {
-      "title": "Trump heads to Turkey as NATO is strained by Russian attacks, U.S. impatience",
-      "url": "https://www.cnbc.com/2026/07/07/trump-nato-turkey-russia-ukraine-spending.html",
-      "source": "CNBC",
-      "publishedAt": "2026-07-07T02:18:31Z",
+      "title": "Russia touts ‘war with NATO’ amid losses in Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/7/7/russia-touts-war-with-nato-amid-losses-in-ukraine",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-07T08:22:39Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o",
-      "source": "BBC News",
-      "publishedAt": "2026-07-07T02:07:15Z",
+      "title": "Active, Articulated Silence: European Union’s Response to the War in Iran",
+      "url": "http://opiniojuris.org/2026/07/07/active-articulated-silence-european-unions-response-to-the-war-in-iran/",
+      "source": "Opiniojuris.org",
+      "publishedAt": "2026-07-07T08:00:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "More than a summit: NATO 3.0 and Türkiye’s vision for global peace",
+      "url": "https://www.hurriyetdailynews.com/more-than-a-summit-nato-3-0-and-turkiyes-vision-for-global-peace-224082",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-07T07:48:40Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Germany to borrow €800bn for rearmament in historic shift",
-      "url": "https://freerepublic.com/focus/f-news/4386959/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-07T00:36:41Z",
+      "title": "One attack, one warning: The world's energy lifeline is still vulnerable",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/qatar-lng-tanker-attack-hormuz-shipping-risks-oil-markets-one-attack-one-warning-the-worlds-energy-lifeline-is-still-vulnerable-iran-us-deal/articleshow/132233827.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-07T07:41:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "One attack, one warning: The world's energy lifeline is still vulnerable",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/qatar-lng-tanker-attack-hormuz-shipping-risks-oil-markets-one-attack-one-warning-the-worlds-energy-lifeline-is-still-vulnerable-iran-us-deal/articleshow/132232591.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-07T07:41:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Stubb to FT: Russian public turning against war",
+      "url": "https://yle.fi/a/74-20235197",
+      "source": "YLE News",
+      "publishedAt": "2026-07-07T07:19:20Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "NATO set to unveil billions in arms deals to prove its firepower to Trump",
+      "url": "https://economictimes.indiatimes.com/news/defence/natos-billions-arms-deals-to-impress-trump-at-turkey-summit/articleshow/132232747.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-07T07:07:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO Agreed To Spend 5%. It Still Can't Say Which War Comes First.",
+      "url": "https://www.forbes.com/sites/guneyyildiz/2026/07/07/nato-agreed-to-spend-5-it-still-cant-say-which-war-comes-first/",
+      "source": "Forbes",
+      "publishedAt": "2026-07-07T07:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump meets NATO leaders in Turkey as alliance debates defense spending and Ukraine strategy",
+      "url": "https://cryptobriefing.com/trump-nato-summit-turkey-defense-spending/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-07T06:59:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia's missile and drone attacks on Ukraine kill at least 22",
+      "url": "https://abcnews.com/International/wireStory/russias-missile-drone-attacks-ukraine-kill-22-134506761",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-07T06:58:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO set to unveil billions in arms deals to prove its firepower to Trump",
+      "url": "https://abcnews.com/International/wireStory/nato-set-unveil-billions-arms-deals-prove-firepower-134538415",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-07T06:55:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO readies for a ‘big reveal' on arms deals to prove its firepower to Trump",
+      "url": "https://www.thehindubusinessline.com/news/world/nato-readies-for-a-big-reveal-on-arms-deals-to-prove-its-firepower-to-trump/article71192518.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-07T06:55:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO summit begins: Who is attending and what is at stake?",
+      "url": "https://www.aljazeera.com/news/2026/7/7/nato-summit-begins-who-is-attending-and-what-is-at-stake",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-07T06:12:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Natural gas tanker set ablaze in Strait of Hormuz as Iran launches latest strike while country mourns Ayatollah",
+      "url": "https://www.dailymail.com/news/article-15958371/Tanker-set-ablaze-Strait-Hormuz-strike-Iran-mourns-Ayatollah.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-07T06:02:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "Iranian loyalists vow to assassinate Trump during Ayatollah Khamenei’s funeral: ‘There will be blood’",
@@ -33,22 +121,6 @@
       "publishedAt": "2026-07-06T23:17:04Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Can NATO allies deliver on promises to increase military spending?",
-      "url": "https://www.pbs.org/newshour/show/can-nato-allies-deliver-on-promises-to-increase-military-spending",
-      "source": "PBS",
-      "publishedAt": "2026-07-06T22:55:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Horrifying Ukraine pics show cruel wrath of Russian strikes that killed 21 people",
-      "url": "https://nypost.com/2026/07/06/world-news/russian-missile-attack-on-ukraine-kills-21-photos-show-horror/",
-      "source": "New York Post",
-      "publishedAt": "2026-07-06T20:31:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "After Displacing Hundreds of Thousands, Netanyahu Claims Lebanese Christians Want Israel to Annex Their Villages",
@@ -75,28 +147,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Who is Turkey's Erdoğan? How NATO's most unpredictable leader keeps reinventing himself",
-      "url": "https://www.foxnews.com/world/who-turkeys-erdogan-how-natos-most-unpredictable-leader-keeps-reinventing-himself",
-      "source": "Fox News",
-      "publishedAt": "2026-07-06T19:34:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Ημερήσια Γεωπολιτική Επισκόπηση - 06/07/2026",
       "url": "https://i-epikaira.blogspot.com/2026/07/06072026.html",
       "source": "Blogspot.com",
       "publishedAt": "2026-07-06T19:09:24Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Russia launches massive missile and drone attack on Kyiv days before NATO summit",
-      "url": "https://cryptobriefing.com/russia-kyiv-attack-nato-crypto-markets/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-06T18:31:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Headteacher among four killed in deadliest Israeli attack on Lebanon since latest ceasefire",
@@ -123,14 +179,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Khamenei’s funeral begins with no sight of successor",
-      "url": "https://theweek.com/world-news/iran-khamenei-funeral-war",
-      "source": "The Week Magazine",
-      "publishedAt": "2026-07-06T15:29:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump’s weekend war approach to Iran might never end",
       "url": "https://www.salon.com/2026/07/06/trumps-weekend-war-approach-to-iran-might-never-end/",
       "source": "Salon",
@@ -155,14 +203,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Iran Turns Kurdistan Region Into a Proxy Battlefield",
-      "url": "https://www.fairobserver.com/world-news/middle-east-news/iran-turns-kurdistan-region-into-a-proxy-battlefield/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-07-06T12:23:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Fox’s Brian Kilmeade Presses Netanyahu on Iran War: ‘Why Is That Government Still Standing?’",
       "url": "https://www.mediaite.com/media/tv/foxs-brian-kilmeade-presses-netanyahu-on-iran-war-why-is-that-government-still-standing/",
       "source": "Mediaite",
@@ -175,16 +215,8 @@
       "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260706-rferl03.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-07-06T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Renews Threat To 'Finish The Job' With Military Action Against Iran",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260706-rferl03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-06T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Monday: Hili dialogue",

@@ -1,7 +1,111 @@
 {
-  "updated": "2026-07-08T14:01:35Z",
-  "count": 31,
+  "updated": "2026-07-08T19:22:31Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "Show HN: Brief: a news reader that condenses ~140k daily articles to few stories",
+      "url": "https://briefnews.co/",
+      "source": "Briefnews.co",
+      "publishedAt": "2026-07-07T19:08:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Video shows men who attended Khamenei's funeral and the man who didn't",
+      "url": "https://www.abc.net.au/news/2026-07-08/the-missing-khamenei-and-the-men-who-were-in-the-crowd/106883826",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-07-07T18:38:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How drones transformed Iran's Axis of Resistance militias in Lebanon, Gaza, Yemen and Iraq",
+      "url": "https://www.dw.com/en/how-drones-transformed-irans-axis-of-resistance-militias-in-lebanon-gaza-yemen-and-iraq/a-77864220",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-07T18:18:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How drones transformed Iran's relationships with its proxies",
+      "url": "https://www.dw.com/en/iran-war-drones-hamas-houthis-yemen-strait-of-hormuz-hezbollah/a-77864220",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-07T18:18:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hormuz Strikes Threaten Progress on Europe’s De-mining Mission",
+      "url": "https://gcaptain.com/hormuz-strikes-threaten-progress-on-europes-de-mining-mission/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-07-07T17:43:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Carney meets with allied nations in Turkey on margins of NATO summit",
+      "url": "https://www.nationalobserver.com/2026/07/07/news/carney-meets-allied-nations-turkey-margins-nato-summit",
+      "source": "National Observer",
+      "publishedAt": "2026-07-07T16:58:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Decolonise How? | Lessons on media ethics from the Middle East",
+      "url": "https://www.thenewhumanitarian.org/podcasts/2026/07/07/decolonise-how-lessons-media-ethics-middle-east",
+      "source": "The New Humanitarian",
+      "publishedAt": "2026-07-07T15:35:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "When the war against Iran meets AI‑driven warfare, the real casualty may be our planet’s water, energy and climate stability",
+      "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/07/07/when-the-war-against-iran-meets-ai-driven-warfare-the-real-casualty-may-be-our-planets-water-energy-and-climate-stability/",
+      "source": "Lse.ac.uk",
+      "publishedAt": "2026-07-07T15:26:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF finds RPGs, anti-tank launchers in Lebanese civilian home amid 2026 conflict",
+      "url": "https://cryptobriefing.com/idf-finds-rpgs-anti-tank-launchers-in-lebanese-civilian-home-amid-2026-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-07T15:21:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Nine countries commit to global defence bank, Canada says",
+      "url": "https://www.yahoo.com/news/politics/articles/nine-countries-commit-global-defence-134013928.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-07T15:13:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Six Key Issues to Watch at NATO’s Ankara Summit",
+      "url": "https://oilprice.com/Geopolitics/Europe/Six-Key-Issues-to-Watch-at-NATOs-Ankara-Summit.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-07-07T15:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘Sometimes you get along with the toughest people’: Trump moves to lift Turkey sanctions, clearing the country’s path back to F-35s",
+      "url": "https://fortune.com/2026/07/07/trump-turkey-sanctions-f35-erdogan-nato/",
+      "source": "Fortune",
+      "publishedAt": "2026-07-07T14:32:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel Could Be Propagandizing Christians At A Church Near You. Here’s How",
+      "url": "https://dailycaller.com/2026/07/07/israel-propaganda-christian-churches-us-federal-records/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-07-07T14:07:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Kiev lit the fuse – Russia lit up Kiev",
       "url": "https://www.rt.com/news/642677-kiev-moscow-drone-strikes/",
@@ -67,108 +171,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Russia & Ukraine Trade Some Of Biggest Strikes Of War On Eve Of NATO Summit",
-      "url": "https://www.shtfplan.com/war/russia-ukraine-trade-some-of-biggest-strikes-of-war-on-eve-of-nato-summit",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-07-07T12:30:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO Meets In Turkey To Counter Putin From The East And Trump From The West",
-      "url": "https://www.huffpost.com/entry/nato-putin-trump_n_6a469593e4b001e08fc3f029",
-      "source": "HuffPost",
-      "publishedAt": "2026-07-07T12:00:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Six Things To Watch For As NATO Summit Kicks Off In Turkey",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260707-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-07T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Day 1,595 of WW3. Ukraine is reportedly completely out of PAC-3 interceptor missiles, leaving them defenseless against ballistic missiles. UAF responds to orc terror attacks by hitting fuel and power systems. This is your Tuesday Ukraine War thread [News]",
-      "url": "https://www.fark.com/comments/14122534/Day-1595-of-WW3-Ukraine-is-reportedly-completely-out-of-PAC-3-interceptor-missiles-leaving-them-defenseless-against-ballistic-missiles-UAF-responds-to-orc-terror-attacks-by-hitting-fuel-power-systems-This-is-your-Tuesday-Ukraine-War-thread",
-      "source": "Fark.com",
-      "publishedAt": "2026-07-07T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Turkiye's Ownership of Russian S-400 Air Defense Systems Not Obstacle to F-35's Sale -Trump",
-      "url": "https://www.globalsecurity.org/wmd/library/news/turkey/2026/turkey-260707-sputnik01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-07T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Links 7/7/2026",
-      "url": "https://www.nakedcapitalism.com/2026/07/links-7-7-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-07T10:59:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Iran's ex president Ahmadinejad 'comes back from the dead' as he is seen at Supreme Leader's funeral - weeks after state-media announced his death in US war",
       "url": "https://www.dailymail.com/news/article-15958667/Ahmadinejad-dead-Iran-ex-presidentSupreme-Leaders-funeral-dead-US-war.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-07-07T10:21:38Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Oil is back to pre-war levels. Here's a timeline of how the market weathered a historic supply shock.",
-      "url": "https://www.businessinsider.com/crude-oil-price-iran-war-impact-levels-supply-shock-trump-2026-7#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-07-07T08:55:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Active, Articulated Silence: European Union’s Response to the War in Iran",
-      "url": "http://opiniojuris.org/2026/07/07/active-articulated-silence-european-unions-response-to-the-war-in-iran/",
-      "source": "Opiniojuris.org",
-      "publishedAt": "2026-07-07T08:00:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "One attack, one warning: The world's energy lifeline is still vulnerable",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/qatar-lng-tanker-attack-hormuz-shipping-risks-oil-markets-one-attack-one-warning-the-worlds-energy-lifeline-is-still-vulnerable-iran-us-deal/articleshow/132233827.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-07T07:41:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "One attack, one warning: The world's energy lifeline is still vulnerable",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/qatar-lng-tanker-attack-hormuz-shipping-risks-oil-markets-one-attack-one-warning-the-worlds-energy-lifeline-is-still-vulnerable-iran-us-deal/articleshow/132232591.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-07T07:41:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Natural gas tanker set ablaze in Strait of Hormuz as Iran launches latest strike while country mourns Ayatollah",
-      "url": "https://www.dailymail.com/news/article-15958371/Tanker-set-ablaze-Strait-Hormuz-strike-Iran-mourns-Ayatollah.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-07T06:02:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian loyalists vow to assassinate Trump during Ayatollah Khamenei’s funeral: ‘There will be blood’",
-      "url": "https://nypost.com/2026/07/06/world-news/iranian-loyalists-vow-to-assassinate-trump-during-ayatollah-khameneis-funeral/",
-      "source": "New York Post",
-      "publishedAt": "2026-07-06T23:17:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "After Displacing Hundreds of Thousands, Netanyahu Claims Lebanese Christians Want Israel to Annex Their Villages",
@@ -191,38 +199,6 @@
       "url": "https://www.cbc.ca/news/world/south-lebanon-israeli-strike-deaths-9.7260054",
       "source": "CBC News",
       "publishedAt": "2026-07-06T17:15:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump’s weekend war approach to Iran might never end",
-      "url": "https://www.salon.com/2026/07/06/trumps-weekend-war-approach-to-iran-might-never-end/",
-      "source": "Salon",
-      "publishedAt": "2026-07-06T15:02:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli attack on vehicle in Lebanon kills at least four",
-      "url": "https://www.aljazeera.com/news/2026/7/6/israeli-attack-on-vehicle-in-lebanon-kills-at-least-four",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-06T14:22:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "You Are A Terrorist If You Resist Data Centers & Israel’s Infiltration Of Flock and AI Surveillance",
-      "url": "https://www.activistpost.com/you-are-a-terrorist-if-you-resist-data-centers-israels-infiltration-of-flock-and-ai-surveillance/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-07-06T14:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Fox’s Brian Kilmeade Presses Netanyahu on Iran War: ‘Why Is That Government Still Standing?’",
-      "url": "https://www.mediaite.com/media/tv/foxs-brian-kilmeade-presses-netanyahu-on-iran-war-why-is-that-government-still-standing/",
-      "source": "Mediaite",
-      "publishedAt": "2026-07-06T12:12:41Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

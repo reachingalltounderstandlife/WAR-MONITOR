@@ -1,7 +1,143 @@
 {
-  "updated": "2026-07-08T19:22:31Z",
-  "count": 28,
+  "updated": "2026-07-09T02:51:54Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "US launches new strikes against Iran after three ships were hit in Strait of Hormuz",
+      "url": "https://www.thehindubusinessline.com/news/world/us-launches-new-strikes-against-iran-after-three-ships-were-hit-in-strait-of-hormuz/article71196414.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-08T02:49:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu Accuses Pro-Israel Democrat of Trying To ‘Excuse Anti-Semitism’",
+      "url": "https://www.mediaite.com/media/tv/netanyahu-accuses-pro-israel-democrat-of-trying-to-excuse-anti-semitism/",
+      "source": "Mediaite",
+      "publishedAt": "2026-07-08T02:47:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ireland passes bill banning imports from Israeli communities in Judea and Samaria",
+      "url": "https://www.israelnationalnews.com/news/429819",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-08T02:41:25Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Europe replacing US as NATO’s main anti-Russian actor – expert",
+      "url": "https://www.rt.com/news/642708-europe-main-anti-russian-nato/",
+      "source": "RT",
+      "publishedAt": "2026-07-08T01:20:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hegseth slated for first Israel visit to address Turkey F-35 concerns",
+      "url": "https://www.israelnationalnews.com/news/429815",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-08T00:13:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Secretary of War to visit Israel amid $3B F-35 jet sale talks",
+      "url": "https://cryptobriefing.com/us-secretary-of-war-to-visit-israel-amid-3b-f-35-jet-sale-talks/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-08T00:11:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Resumes 'Powerful Strikes' on Iran After Attacks on Strait of Hormuz Shipping",
+      "url": "https://www.commondreams.org/news/renewed-strikes-on-iran",
+      "source": "Common Dreams",
+      "publishedAt": "2026-07-07T23:56:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine pushes new approach to end Russia war ahead of Trump-Zelensky meeting",
+      "url": "https://nypost.com/2026/07/07/world-news/ukraine-pushes-new-approach-to-end-russia-war-ahead-of-trump-zelensky-meeting/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-07T23:22:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian missiles strike Ukraine’s capital, Kyiv, for third time in a week",
+      "url": "https://www.aljazeera.com/news/2026/7/7/russian-missile-strikes-hit-ukraines-capital-kyiv-for-third-time-in-a-week",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-07T22:53:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO’s $50 Billion Effort Seeks Deep-Strike Weapons Without US",
+      "url": "https://financialpost.com/pmn/business-pmn/natos-50-billion-effort-seeks-deep-strike-weapons-without-us",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-07T21:56:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US launches a series of 'powerful' strikes on Iran after attacks on ships in Strait of Hormuz",
+      "url": "https://www.dailymail.com/news/article-15960669/US-launches-series-powerful-strikes-Iran.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-07T21:37:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO Goes Shopping",
+      "url": "http://foreignpolicy.com/2026/07/07/nato-summit-trump-rutte-ankara-defense-spending/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-07-07T21:11:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Chilling secret video smuggled out of Iran exposes grim reality of Ayatollah's funeral - and the Israel scar that refuses to heal",
+      "url": "https://www.dailymail.com/news/article-15959311/Chilling-secret-video-smuggled-Iran-exposes-grim-reality-Ayatollahs-funeral-Israel-scar-refuses-heal.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-07T21:00:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump lashes out at NATO as first day of summit wraps in Turkiye",
+      "url": "https://www.aljazeera.com/news/2026/7/7/trump-lashes-out-at-nato-as-first-day-of-summit-wraps-in-turkiye",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-07T20:08:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s Lebanon deal puts Iran agreement to the test with ‘wild card’ Hezbollah: US official",
+      "url": "https://nypost.com/2026/07/07/us-news/trumps-israel-lebanon-deal-puts-us-iran-mou-into-action-us-official/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-07T19:54:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Attacks on Kyiv ahead of NATO summit: What is Putin's goal?",
+      "url": "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putins-goal/a-77867330",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-07T19:46:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO Unveils Billions in Arms Deals to Prove Its Firepower as Trump Again Demands Greenland",
+      "url": "https://military.com/nato-unveils-billions-in-arms-deals-to-prove-its-firepower-as-trump-again-demands-greenland",
+      "source": "Military.com",
+      "publishedAt": "2026-07-07T19:25:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Show HN: Brief: a news reader that condenses ~140k daily articles to few stories",
       "url": "https://briefnews.co/",
@@ -31,16 +167,8 @@
       "url": "https://www.dw.com/en/iran-war-drones-hamas-houthis-yemen-strait-of-hormuz-hezbollah/a-77864220",
       "source": "DW (English)",
       "publishedAt": "2026-07-07T18:18:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hormuz Strikes Threaten Progress on Europe’s De-mining Mission",
-      "url": "https://gcaptain.com/hormuz-strikes-threaten-progress-on-europes-de-mining-mission/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-07-07T17:43:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Carney meets with allied nations in Turkey on margins of NATO summit",
@@ -51,22 +179,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Decolonise How? | Lessons on media ethics from the Middle East",
-      "url": "https://www.thenewhumanitarian.org/podcasts/2026/07/07/decolonise-how-lessons-media-ethics-middle-east",
-      "source": "The New Humanitarian",
-      "publishedAt": "2026-07-07T15:35:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "When the war against Iran meets AI‑driven warfare, the real casualty may be our planet’s water, energy and climate stability",
-      "url": "https://blogs.lse.ac.uk/internationaldevelopment/2026/07/07/when-the-war-against-iran-meets-ai-driven-warfare-the-real-casualty-may-be-our-planets-water-energy-and-climate-stability/",
-      "source": "Lse.ac.uk",
-      "publishedAt": "2026-07-07T15:26:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "IDF finds RPGs, anti-tank launchers in Lebanese civilian home amid 2026 conflict",
       "url": "https://cryptobriefing.com/idf-finds-rpgs-anti-tank-launchers-in-lebanese-civilian-home-amid-2026-conflict/",
       "source": "Crypto Briefing",
@@ -75,100 +187,28 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Nine countries commit to global defence bank, Canada says",
-      "url": "https://www.yahoo.com/news/politics/articles/nine-countries-commit-global-defence-134013928.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-07T15:13:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Six Key Issues to Watch at NATO’s Ankara Summit",
-      "url": "https://oilprice.com/Geopolitics/Europe/Six-Key-Issues-to-Watch-at-NATOs-Ankara-Summit.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-07-07T15:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "‘Sometimes you get along with the toughest people’: Trump moves to lift Turkey sanctions, clearing the country’s path back to F-35s",
-      "url": "https://fortune.com/2026/07/07/trump-turkey-sanctions-f35-erdogan-nato/",
-      "source": "Fortune",
-      "publishedAt": "2026-07-07T14:32:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israel Could Be Propagandizing Christians At A Church Near You. Here’s How",
       "url": "https://dailycaller.com/2026/07/07/israel-propaganda-christian-churches-us-federal-records/",
       "source": "The Daily Caller",
       "publishedAt": "2026-07-07T14:07:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Kiev lit the fuse – Russia lit up Kiev",
-      "url": "https://www.rt.com/news/642677-kiev-moscow-drone-strikes/",
-      "source": "RT",
-      "publishedAt": "2026-07-07T13:46:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The US Has Lost the War Against Iran: American Influence and Its Military Bases Occupying the Middle East Has Ended",
-      "url": "https://www.globalresearch.ca/us-lost-war-iran-american-influence-military-bases-middle-east-ended/5932565",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-07T13:45:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Global Balance of Power: NATO Creates Risks, Not Security for Türkiye.",
-      "url": "https://www.globalresearch.ca/nato-creates-risks-not-security-turkiye/5932599",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-07T13:16:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO unveils billions in arms deals to prove its firepower as Trump arrives in Ankara",
-      "url": "https://www.thehindubusinessline.com/news/world/nato-unveils-billions-in-arms-deals-to-prove-its-firepower-as-trump-arrives-in-ankara/article71193354.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-07T13:08:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine launches drone barrage at Moscow as Zelensky attends NATO summit",
-      "url": "https://cryptobriefing.com/ukraine-launches-drone-barrage-at-moscow-as-zelensky-attends-nato-summit/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-07T13:00:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The US War on Iran Continues. Playacting for Peace While Managing Malicious War",
       "url": "https://www.globalresearch.ca/us-war-iran-continues/5932590",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-07-07T12:58:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine launches drone barrage at Moscow as Zelensky heads to NATO summit",
-      "url": "https://www.rt.com/russia/642672-ukraine-drones-nato-summit/",
-      "source": "RT",
-      "publishedAt": "2026-07-07T12:58:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The Manufacture of Impunity.",
       "url": "https://www.globalresearch.ca/manufacture-impunity/5932595",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-07-07T12:47:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran's ex president Ahmadinejad 'comes back from the dead' as he is seen at Supreme Leader's funeral - weeks after state-media announced his death in US war",
@@ -177,54 +217,6 @@
       "publishedAt": "2026-07-07T10:21:38Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "After Displacing Hundreds of Thousands, Netanyahu Claims Lebanese Christians Want Israel to Annex Their Villages",
-      "url": "https://www.breitbart.com/middle-east/2026/07/06/after-displacing-hundreds-thousands-netanyahu-claims-lebanese-christians-want-israel-annex-their-villages/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-07-06T20:07:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Headteacher among four killed in deadliest Israeli attack on Lebanon since latest ceasefire",
-      "url": "https://www.bbc.co.uk/news/articles/crlwwwyy70do",
-      "source": "BBC News",
-      "publishedAt": "2026-07-06T17:44:57Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli strike kills 4, including school principal, in south Lebanon: Health Ministry",
-      "url": "https://www.cbc.ca/news/world/south-lebanon-israeli-strike-deaths-9.7260054",
-      "source": "CBC News",
-      "publishedAt": "2026-07-06T17:15:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korean Leader Kim Observes Weapons Tests from New Naval Destroyer",
-      "url": "https://military.com/north-korean-leader-kim-observes-weapons-tests-from-new-naval-destroyer",
-      "source": "Military.com",
-      "publishedAt": "2026-07-06T09:54:56Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "A year after a disastrous maiden launch, North Korea's new destroyer is up and firing its guns",
-      "url": "https://www.businessinsider.com/north-korea-destroyer-disastrous-firing-kang-kon-kim-jong-un-2026-7#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-07-06T07:53:07Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Scrutinizing the Unpardonable: The AUKUS Public Inquiry So Far",
-      "url": "https://www.counterpunch.org/2026/07/06/scrutinizing-the-unpardonable-the-aukus-public-inquiry-so-far/",
-      "source": "CounterPunch",
-      "publishedAt": "2026-07-06T05:50:26Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

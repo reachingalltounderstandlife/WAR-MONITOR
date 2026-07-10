@@ -1,7 +1,135 @@
 {
-  "updated": "2026-07-09T19:43:38Z",
-  "count": 26,
+  "updated": "2026-07-10T02:54:09Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "US to let Ukraine produce Patriot interceptor missiles – Trump",
+      "url": "https://www.rt.com/news/642782-ukraine-produce-patriot-missile-trump/",
+      "source": "RT",
+      "publishedAt": "2026-07-09T02:31:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US strikes Iran, reinstates oil sanctions, but Tehran has already raked in billions",
+      "url": "https://www.abc.net.au/news/2026-07-09/iran-united-states-tehran-makes-billions-as-blockade-lifts/106884040",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-07-09T02:00:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pray Trump means it this time when he says the Iran cease-fire is ‘over’",
+      "url": "https://nypost.com/2026/07/08/opinion/pray-trump-means-it-this-time-when-he-says-the-iran-cease-fire-is-over/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-08T22:19:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Detecting Atomic Weapons in Space",
+      "url": "https://www.universetoday.com/articles/detecting-atomic-weapons-in-space",
+      "source": "Universe Today",
+      "publishedAt": "2026-07-08T22:17:39Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Trump's European allies add distance on Iran following testy NATO summit",
+      "url": "https://www.cnbc.com/2026/07/08/trump-iran-nato-summit-war-hormuz-strait.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-08T22:06:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Hands NATO a Mixed Bag",
+      "url": "http://foreignpolicy.com/2026/07/08/trump-nato-ankara-summit-iran-ukraine-greenland-spain/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-07-08T22:06:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Do Iran and the U.S. Keep Fighting During a Cease-Fire?",
+      "url": "https://www.theatlantic.com/national-security/2026/07/trump-iran-airstrikes-ceasefire-hormuz/687851/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-07-08T22:04:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why Putin’s nuclear threats aren’t working anymore",
+      "url": "https://www.vox.com/politics/494737/russian-ukraine-nuclear-putin",
+      "source": "Vox",
+      "publishedAt": "2026-07-08T21:55:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Is the US at war with Iran again?",
+      "url": "https://www.vox.com/the-logoff-newsletter-trump/494739/us-iran-war-strait-hormuz-trump-strikes-ceasefire",
+      "source": "Vox",
+      "publishedAt": "2026-07-08T21:54:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump warms up to ‘winner’ Zelensky after last year’s Oval Office blowup: ‘good relationship’",
+      "url": "https://nypost.com/2026/07/08/us-news/trump-warms-up-to-zelensky-after-last-years-oval-office-blowup-good-relationship/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-08T21:53:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US moves to delist Syria as a ‘state sponsor of terrorism’",
+      "url": "https://www.aljazeera.com/news/2026/7/8/us-moves-to-delist-syria-as-a-state-sponsor-of-terrorism",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-08T21:36:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How Ukraine won the first great robot war",
+      "url": "https://www.defenseone.com/technology/2026/07/how-ukraine-won-first-great-robot-war/414658/",
+      "source": "Defense One",
+      "publishedAt": "2026-07-08T21:02:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Qatar Role as USA-Iran Mediator Jeopardized",
+      "url": "https://www.rigzone.com/news/wire/qatar_role_as_usairan_mediator_jeopardized-08-jul-2026-184090-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-07-08T20:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Devastating Cuba: The American Empire is declining, and trying to drag everyone down with it",
+      "url": "https://www.rt.com/news/642779-devastating-cuba-us-empire/",
+      "source": "RT",
+      "publishedAt": "2026-07-08T19:55:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran vows retaliation for recent US military strikes",
+      "url": "https://cryptobriefing.com/iran-vows-retaliation-for-recent-us-military-strikes/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-08T19:54:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says US May Strike Iran Again, Threatens New Blockade",
+      "url": "https://military.com/trump-says-us-may-strike-iran-again-threatens-new-blockade",
+      "source": "Military.com",
+      "publishedAt": "2026-07-08T19:45:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Propaganda Sustains Russians Fighting in Ukraine",
       "url": "http://foreignpolicy.com/2026/07/08/propaganda-sustains-russians-fighting-in-ukraine/",
@@ -39,40 +167,8 @@
       "url": "https://www.abc.net.au/news/2026-07-09/doran-trump-iran-ceasefire-over/106895214",
       "source": "ABC News (AU)",
       "publishedAt": "2026-07-08T18:45:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump declares Iran ceasefire ‘over’ as crypto markets slide and oil surges",
-      "url": "https://cryptobriefing.com/trump-iran-ceasefire-over-crypto-markets/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-08T18:44:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Says He’ll Let Ukraine Make Patriot Missiles. It Won’t Be Easy",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-says-hell-let-ukraine-make-patriot-missiles-it-wont-be-easy",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-08T18:41:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UN chief warns of Persian Gulf conflict risks amid Iran-Israel tensions",
-      "url": "https://cryptobriefing.com/un-chief-warns-of-persian-gulf-conflict-risks-amid-iran-israel-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-08T18:29:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "NATO is building an AI 'Kill Web' to stop Russian attackers in their tracks",
-      "url": "https://www.businessinsider.com/nato-builds-ai-kill-web-to-stop-russian-attackers-2026-7#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-07-08T18:22:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israeli attacks on Lebanon kill 4,321, wound 12,203: Lebanon’s Health Ministry",
@@ -83,30 +179,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "At NATO, Trump Speaks For Putin, Disparages Spain, Trashes NATO",
-      "url": "https://www.huffpost.com/entry/trump-disrupts-nato-summit-turkey_n_6a4e5fdee4b0c806bbf0a803",
-      "source": "HuffPost",
-      "publishedAt": "2026-07-08T17:51:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump calls Iran 'scum' and Ukraine gets big win on wild day at NATO",
-      "url": "https://www.abc.net.au/news/2026-07-09/donald-trump-says-iran-is-scum-as-ukraine-gets-nato-summit-win/106894912",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-08T17:35:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Says The US-Iran Ceasefire Is Over",
-      "url": "https://www.shtfplan.com/war/trump-says-the-us-iran-ceasefire-is-over",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-07-08T17:30:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israeli drone strike in Lebanon kills two amid fragile ceasefire",
       "url": "https://cryptobriefing.com/israeli-drone-strike-in-lebanon-kills-two-amid-fragile-ceasefire/",
       "source": "Crypto Briefing",
@@ -115,68 +187,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
-      "url": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-08T17:24:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Price Of Oil Skyrockets And Stock Prices Crash After Trump Declares That The Ceasefire With Iran Is Over",
-      "url": "http://theeconomiccollapseblog.com/the-price-of-oil-skyrockets-and-stock-prices-crash-after-trump-declares-that-the-ceasefire-with-iran-is-over/",
-      "source": "Theeconomiccollapseblog.com",
-      "publishedAt": "2026-07-08T17:20:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO’s New Enemy Is the Thermometer",
-      "url": "http://foreignpolicy.com/2026/07/08/nato-heat-climate-change/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-08T17:12:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel prepares for possibility of renewed full-scale war following US attacks on Iran",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/07/08/israel-prepares-for-possibility-of-renewed-full-scale-war-following-us-attacks-on-iran/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-08T16:27:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "IDF demolishes buildings in Taiba amid ongoing Lebanon conflict",
       "url": "https://cryptobriefing.com/idf-demolishes-buildings-in-taiba-amid-ongoing-lebanon-conflict/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-07-08T16:21:17Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Another Trump Ceasefire with Iran Crumbles",
-      "url": "https://theintercept.com/2026/07/08/trump-us-iran-ceasefire/",
-      "source": "The Intercept",
-      "publishedAt": "2026-07-08T16:08:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump’s Iran strike comments shake markets, Brent crude hits two-week high",
-      "url": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-08T15:53:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran conflict escalates as ceasefire collapses in 2026 Iran War",
-      "url": "https://cryptobriefing.com/us-iran-conflict-escalates-as-ceasefire-collapses-in-2026-iran-war/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-08T15:10:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Iran ceasefire was always going to break – here’s why",

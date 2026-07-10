@@ -1,7 +1,135 @@
 {
-  "updated": "2026-07-10T14:22:45Z",
-  "count": 32,
+  "updated": "2026-07-10T19:24:57Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "How Türkiye went from problem child to power broker in NATO",
+      "url": "https://www.rt.com/news/642817-turkiye-nato-problem-power/",
+      "source": "RT",
+      "publishedAt": "2026-07-09T19:16:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Irish Times view on the Nato summit: the alliance reconfigures",
+      "url": "https://www.irishtimes.com/opinion/editorials/2026/07/09/the-irish-times-view-on-the-nato-summit-the-alliance-reconfigures/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-09T19:04:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Christopher Walker: The West Must Stop Treating Russia, China, And Iran As Isolated Challenges",
+      "url": "https://www.rferl.org/a/christopher-walker-russia-china-iran-authoritarian-axis/33800288.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-07-09T17:49:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "New US, Iran fighting erupts ahead of Khamenei burial",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/new-us-iran-fighting-erupts-ahead-of-khamenei-burial/articleshow/132295240.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-09T17:38:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran targets US military sites in Gulf as Israel warns it could 'strike again'",
+      "url": "https://www.abc.net.au/news/2026-07-10/iran-us-trade-strikes-/106899742",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-07-09T17:18:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran strikes back at US targets in Gulf states and warns Trump faces a 'crushing response' if attacks continue as ceasefire crumbles",
+      "url": "https://www.dailymail.com/news/article-15966051/Iran-strikes-US-targets-Gulf-states-warns-Trump-faces-crushing-response-attacks-continue-ceasefire-crumbles.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-09T17:18:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF Chief: 'Jets on immediate takeoff alert to act in Iran'",
+      "url": "https://www.israelnationalnews.com/news/429915",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-09T16:56:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel ready for more war on Iran should Trump ask for backup, sources tell The Post",
+      "url": "https://nypost.com/2026/07/09/world-news/israel-ready-for-more-war-on-iran-should-trump-ask-for-backup-sources-tell-the-post/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-09T16:51:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Baghdad: The Illusion of Peace",
+      "url": "https://www.nybooks.com/online/2026/07/09/baghdad-the-illusion-of-peace/",
+      "source": "The New York Review of Books",
+      "publishedAt": "2026-07-09T16:40:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s Portfolio Has Directly Benefited From His Global Military Escalations",
+      "url": "https://responsiblestatecraft.org/trump-defense-stocks/",
+      "source": "Responsiblestatecraft.org",
+      "publishedAt": "2026-07-09T16:30:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Drone Has Replaced the Tank",
+      "url": "https://www.activistpost.com/the-drone-has-replaced-the-tank/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-07-09T16:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO Projects Unity as Leaders Rally Behind Ukraine",
+      "url": "https://oilprice.com/Energy/Energy-General/NATO-Projects-Unity-as-Leaders-Rally-Behind-Ukraine.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-07-09T16:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s Ukraine Strategy at NATO Is America First in Action",
+      "url": "https://www.dailysignal.com/2026/07/09/trump-ukraine-nato-america-first/",
+      "source": "Daily Signal",
+      "publishedAt": "2026-07-09T15:40:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Jailed Catholic woman's hunger strike highlights Iran religious persecution — US demands action",
+      "url": "https://www.foxnews.com/world/jailed-catholic-womans-hunger-strike-highlights-iran-religious-persecution-us-demands-action",
+      "source": "Fox News",
+      "publishedAt": "2026-07-09T15:28:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Fox Military Expert Warns Trump Got a ‘Little Squishy’ in Dealing With Iran in Recent Weeks",
+      "url": "https://www.mediaite.com/media/tv/fox-military-expert-warns-trump-got-a-little-squishy-in-dealing-with-iran-in-recent-weeks/",
+      "source": "Mediaite",
+      "publishedAt": "2026-07-09T15:02:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Musings on the Funeral Ceremony in Tehran",
+      "url": "https://www.globalresearch.ca/musings-funeral-ceremony-tehran/5932833",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-09T14:48:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "After the NATO summit: The road to European leadership in defence",
       "url": "https://www.iss.europa.eu/publications/commentary/after-nato-summit-road-european-leadership-defence",
@@ -35,132 +163,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "NATO can't just stockpile millions of drones and hope they'll still matter in the next war, officials warn",
-      "url": "https://www.businessinsider.com/nato-cant-stockpile-lots-drones-maybe-out-date-next-war-2026-7#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-07-09T13:20:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO can't just stockpile millions of drones and hope they'll still matter in the next war, officials warn",
-      "url": "https://www.businessinsider.com/nato-cant-stockpile-lots-drones-maybe-out-date-next-war-2026-7",
-      "source": "Business Insider",
-      "publishedAt": "2026-07-09T13:20:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO Leaders Meet in Ankara, but Disunity Remains. Turkey’s S-400 Air Defense System. “The US and Europe are no longer a Unified Bloc”",
-      "url": "https://www.globalresearch.ca/nato-leaders-meet-ankara-disunity-remains/5932826",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-09T13:00:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Japan reacts to Donald Trump’s “Islamic Republic of Japan” remark",
-      "url": "https://soranews24.com/2026/07/09/japan-reacts-to-donald-trumps-islamic-republic-of-japan-remark/",
-      "source": "SoraNews24",
-      "publishedAt": "2026-07-09T13:00:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Huge crowds gather in Mashhad for burial of Iran's supreme leader",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo",
-      "source": "BBC News",
-      "publishedAt": "2026-07-09T12:48:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Attacks in South Africa Undermining the Country and Africa as a Whole",
-      "url": "https://www.globalresearch.ca/attacks-south-africa-undermining-country-africa-whole/5932779",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-09T12:42:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "‘We are not at war’ – NATO state questions bloc’s Ukraine strategy",
-      "url": "https://www.rt.com/news/642800-babis-nato-ukraine-strategy/",
-      "source": "RT",
-      "publishedAt": "2026-07-09T12:36:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why are US Special Forces Deployed in Taiwan?",
-      "url": "https://www.globalresearch.ca/why-are-us-special-forces-deployed-in-taiwan/5932816",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-09T12:30:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Deferring a Crisis: The Iran-US Ceasefire Cracks",
       "url": "https://www.globalresearch.ca/iran-us-ceasefire-cracks/5932838",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-07-09T12:25:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "When Iran launched strikes against the UAE, influencers and ex-pats posted videos of missiles and drone strikes... then it went dark. These are the Iranian strikes the UAE didn't want you to see",
-      "url": "https://www.dailymail.com/news/article-15964869/When-Iran-launched-strikes-against-UAE-influencers-ex-pats-posted-videos-missiles-drone-strikes-went-dark-Iranian-strikes-UAE-didnt-want-you-see.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-09T12:22:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Scientists Ran The Numbers On Nuclear War, And Only 2 Countries Made It Out Alive",
-      "url": "https://www.boredpanda.com/countries-survive-nuclear-war/",
-      "source": "Boredpanda.com",
-      "publishedAt": "2026-07-09T12:05:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Says Military HQ Hit, But US Denies Its Forces Conducting Strike",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260709-rferl04.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-09T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260709-unnews01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-09T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Fresh US Strikes Hit Iran As Tehran Issues Retaliation Warning",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260709-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-09T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Targets Base Housing US Forces In Jordan",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260709-rferl05.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-09T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Says It Targeted Kuwait, Qatar, Bahrain In Drone Attacks",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260709-rferl06.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-09T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Budrys in Ankara: Stability in the Middle East is a shared interest of NATO and the countries of the region",
@@ -239,22 +247,6 @@
       "url": "https://cryptobriefing.com/israeli-drone-strike-in-lebanon-kills-two-amid-fragile-ceasefire/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-07-08T17:26:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF demolishes buildings in Taiba amid ongoing Lebanon conflict",
-      "url": "https://cryptobriefing.com/idf-demolishes-buildings-in-taiba-amid-ongoing-lebanon-conflict/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-08T16:21:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran ceasefire was always going to break – here’s why",
-      "url": "https://theconversation.com/iran-ceasefire-was-always-going-to-break-heres-why-287079",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-07-08T15:04:57Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

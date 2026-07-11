@@ -1,7 +1,127 @@
 {
-  "updated": "2026-07-11T02:31:32Z",
-  "count": 27,
+  "updated": "2026-07-11T07:52:48Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "CNBC Daily Open: A week of narrative whiplash and vibe shifts",
+      "url": "https://www.cnbc.com/2026/07/10/iran-technical-talks-sk-hynix-fed-taskforce-vw-model-cut.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-10T06:56:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US-Iran ceasefire had a built-in detonator. This week it went off",
+      "url": "https://theconversation.com/us-iran-ceasefire-had-a-built-in-detonator-this-week-it-went-off-287224",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-07-10T06:54:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "World Analysis Cannot Be Conducted with a Casino Mentality: The Limits of Game Theory and the Liquidation of the Marxist Method",
+      "url": "https://ozcanbuze947071.substack.com/p/world-analysis-cannot-be-conducted",
+      "source": "Substack.com",
+      "publishedAt": "2026-07-10T06:41:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Says Iran Talks to Continue Despite Hormuz Skirmishes",
+      "url": "https://financialpost.com/pmn/business-pmn/us-says-iran-talks-to-continue-despite-hormuz-skirmishes",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-10T06:24:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "This Week’s Most Popular Articles",
+      "url": "https://www.globalresearch.ca/this-weeks-most-popular-articles-222/5932936",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-10T06:03:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Moscow says the West only pretends to seek peace",
+      "url": "https://www.naturalnews.com/2026-07-10-moscow-west-pretends-seek-peace.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-10T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Bulgaria Says It Has No More Weapons to Send Ukraine as NATO Summit Continues",
+      "url": "https://www.naturalnews.com/2026-07-10-bulgaria-has-no-more-weapons-for-ukraine.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-10T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Approves Patriot Missile Production in Ukraine, Endorses Deep Strikes Into Russia",
+      "url": "https://www.naturalnews.com/2026-07-10-trump-approves-patriot-missile-production-in-ukraine.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-10T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran buries Khamenei after new fighting with US erupts",
+      "url": "https://www.hurriyetdailynews.com/iran-buries-khamenei-after-new-fighting-with-us-erupts-224208",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-10T05:21:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli intelligence warns US of alleged Iranian plot to assassinate Trump: Report",
+      "url": "https://www.thehindubusinessline.com/news/world/israeli-intelligence-warns-us-of-alleged-iranian-plot-to-assassinate-trump-report/article71205260.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-10T04:56:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia no longer believes West wants Ukraine peace talks – Lavrov",
+      "url": "https://www.rt.com/news/642822-russia-west-no-goodwill-talks/",
+      "source": "RT",
+      "publishedAt": "2026-07-10T04:38:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Renewed Gulf Hostilities, Elevated Regional and Global Uncertainty",
+      "url": "https://www.juancole.com/2026/07/hostilities-elevated-uncertainty.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-07-10T04:15:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why We Know More About China’s Next-Generation Fighters Than America’s",
+      "url": "http://foreignpolicy.com/2026/07/10/china-next-generation-fighters-internet-intelligence/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-07-10T04:01:06Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Why Are US Special Forces Deployed in Taiwan?",
+      "url": "https://www.lewrockwell.com/2026/07/no_author/why-are-us-special-forces-deployed-in-taiwan/",
+      "source": "Lewrockwell.com",
+      "publishedAt": "2026-07-10T04:01:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea Strengthens Nuclear Forces — Qualitative and Quantitative Boost",
+      "url": "https://sputnikglobe.com/20260710/north-korea-strengthens-nuclear-forces--qualitative-and-quantitative-boost-1124430275.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-07-10T03:37:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "A bitterly divided Iran grapples with Ali Khamenei's legacy as he is laid to rest",
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-bitterly-divided-iran-grapples-with-ali-khameneis-legacy-as-he-is-laid-to-rest/articleshow/132301011.cms",
@@ -35,22 +155,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Eight Contradictions Behind NATO’s Summit of ‘Love’",
-      "url": "https://original.antiwar.com/mbenjamin/2026/07/09/eight-contradictions-behind-natos-summit-of-love/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-07-10T00:00:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO Lives On",
-      "url": "https://michaelmcfaul.substack.com/p/nato-lives-on",
-      "source": "Substack.com",
-      "publishedAt": "2026-07-10T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "How the US-Iran ceasefire and MOU broke down -- a timeline",
       "url": "https://abcnews.com/Politics/us-iran-ceasefire-mou-broke-timeline/story?id=134622392",
       "source": "Abcnews.com",
@@ -63,104 +167,8 @@
       "url": "https://www.dailymail.com/news/article-15966759/The-forgotten-war-decide-future-Middle-East-Trump-Iran-exchanging-fire-riveting-dispatch-revealed-NEVER-peace-Israels-conflict-Hezbollah-ends.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-07-09T23:14:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel shared intelligence with US of Iranian plot to assassinate Trump, sources say | CNN Politics",
-      "url": "https://www.cnn.com/2026/07/09/politics/trump-assassination-plot-iran-israel",
-      "source": "CNN",
-      "publishedAt": "2026-07-09T23:13:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran War 3 Is Here, And This Sequel Is Going To Be The Most Dramatic Of Them All",
-      "url": "https://www.shtfplan.com/war/iran-war-3-is-here-and-this-sequel-is-going-to-be-the-most-dramatic-of-them-all",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-07-09T22:30:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Video: War or Peace. Who Are the Bad Guys? Russia?",
-      "url": "https://www.globalresearch.ca/video-war-or-peace-who-are-the-bad-guys-russia/5932749",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-09T22:10:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting",
-      "url": "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-09T21:38:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "NATO’s Waiting Game",
-      "url": "http://foreignpolicy.com/2026/07/09/nato-summit-ankara-trump-europe-rutte-erdogan/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-09T21:24:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Burnham is warned he may face the 'Putin test' in his first few weeks of taking charge",
-      "url": "https://www.dailymail.com/news/article-15966331/Burnham-warned-face-Putin-test-weeks-taking-charge.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-09T21:18:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US military denies involvement after explosions heard in Iran",
-      "url": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-09T21:14:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Are We Really Back at War With Iran?",
-      "url": "https://slate.com/news-and-politics/2026/07/trump-war-iran-ceasefire-hormuz.html",
-      "source": "Slate Magazine",
-      "publishedAt": "2026-07-09T21:07:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy",
-      "url": "https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html",
-      "source": "CNBC",
-      "publishedAt": "2026-07-09T20:48:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin was talked out of using nuclear weapon against Ukraine, says former Nato official",
-      "url": "https://www.irishtimes.com/ireland/2026/07/09/putin-was-talked-out-of-using-nuclear-weapon-against-ukraine-says-former-nato-official/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-09T20:24:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How Türkiye went from problem child to power broker in NATO",
-      "url": "https://www.rt.com/news/642817-turkiye-nato-problem-power/",
-      "source": "RT",
-      "publishedAt": "2026-07-09T19:16:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Irish Times view on the Nato summit: the alliance reconfigures",
-      "url": "https://www.irishtimes.com/opinion/editorials/2026/07/09/the-irish-times-view-on-the-nato-summit-the-alliance-reconfigures/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-09T19:04:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Baghdad: The Illusion of Peace",

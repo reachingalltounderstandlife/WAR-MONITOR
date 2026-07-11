@@ -1,7 +1,159 @@
 {
-  "updated": "2026-07-11T07:52:48Z",
+  "updated": "2026-07-11T13:15:11Z",
   "count": 28,
   "articles": [
+    {
+      "title": "Is the Russia-China relationship a threat to Nato?",
+      "url": "https://theweek.com/defence/russia-china-nato-relationship-threat",
+      "source": "The Week Magazine",
+      "publishedAt": "2026-07-10T13:10:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran will respond against Israel if infrastructure attacked: Security official",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-will-respond-against-israel-if-infrastructure-attacked-security-official/articleshow/132312698.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-10T13:06:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s ‘cruel gift’: Why Patriot license will be useless for Ukraine",
+      "url": "https://www.rt.com/news/642844-trumps-cruel-gift-patriot-ukraine-useless/",
+      "source": "RT",
+      "publishedAt": "2026-07-10T12:43:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UK to Lead $50 Billion European Effort for Deep Precision Strike Missile",
+      "url": "https://theaviationist.com/2026/07/10/uk-deep-precision-strike-missile/",
+      "source": "Theaviationist.com",
+      "publishedAt": "2026-07-10T12:17:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel and Lebanon have a long history of failed ceasefires – will this time be any different?",
+      "url": "https://theconversation.com/israel-and-lebanon-have-a-long-history-of-failed-ceasefires-will-this-time-be-any-different-286515",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-07-10T12:09:25Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump 'Holds All The Cards' In Dealing With Iran, Says Heritage Foundation's James Jay Carafano",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260710-rferl04.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-10T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Day 1,598 of WW3. Orcistan managed to get a Su-57 aloft, but it failed to intercept UAF drones headed for Omsk. Orc drones and missiles keep hitting Ukraine as Kyiv works on producing PAC-3 interceptor missiles. This is your Friday Ukraine war thread [News]",
+      "url": "https://www.fark.com/comments/14126278/Day-1598-of-WW3-Orcistan-managed-to-get-a-Su-57-aloft-but-it-failed-to-intercept-UAF-drones-headed-for-Omsk-Orc-drones-missiles-keep-hitting-Ukraine-as-Kyiv-works-on-producing-PAC-3-interceptor-missiles-This-is-your-Friday-Ukraine-war-thread",
+      "source": "Fark.com",
+      "publishedAt": "2026-07-10T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Senators, Administration Agree To Advance Russia Sanctions Bill; Kyiv Hails Move",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260710-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-10T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea Strengthens Nuclear Forces — Qualitative and Quantitative Boost",
+      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260710-sputnik01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-10T12:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Friday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/07/10/friday-hili-dialogue-585/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-07-10T11:45:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran war: Will peace talks resume, and when?",
+      "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-10T11:43:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. Strikes Fail to Break Iran’s Grip on the Strait of Hormuz",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Strikes-Fail-to-Break-Irans-Grip-on-the-Strait-of-Hormuz.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-07-10T11:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump 'Holds All The Cards' In Dealing With Iran, Says Heritage Foundation's James Jay Carafano",
+      "url": "https://www.rferl.org/a/trump-iran-negotiations-heritage-foundation-james-jay-carafano/33800905.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-07-10T11:07:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Mysterious airstrikes hit Iran after US ends its attacks",
+      "url": "https://apnews.com/article/iran-us-israel-war-hormuz-july-10-2026-4bf4fdd1f4d782ff08f60d152909faee",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-10T10:59:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: Conflicting Reports on Momentary Pause – Restart of Talks or Iran Readying Big Strike? Russia Diesel Export Halt and Qatar LNG Pullback Increase Energy Pressure",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-conflicting-reports-on-momentary-pause-restart-of-talks-or-iran-readying-big-strike-russia-diesel-export-halt-and-qatar-lng-pullback-increase-energy-pressure.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-10T10:54:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Europe’s Gathering Backlash Against Palantir Hits NATO Resistance",
+      "url": "https://www.nakedcapitalism.com/2026/07/europes-blacklisting-of-palantir-is-gathering-pace.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-10T10:45:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran buries former supreme leader Khamenei in hometown",
+      "url": "https://www.vanguardngr.com/2026/07/iran-buries-former-supreme-leader-khamenei-in-hometown/",
+      "source": "Vanguard",
+      "publishedAt": "2026-07-10T10:02:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump grants Kyiv Patriots licences: What’s next in the Russia-Ukraine war?",
+      "url": "https://www.aljazeera.com/news/2026/7/10/trump-grants-kyiv-patriots-licences-whats-next-in-the-russia-ukraine-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-10T09:25:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Fears Putin could declare general mobilisation for war after September elections",
+      "url": "https://www.dailymail.com/news/article-15967553/Fears-Putin-declare-general-mobilisation-war-September-elections.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-10T08:34:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "CNBC Daily Open: A week of narrative whiplash and vibe shifts",
       "url": "https://www.cnbc.com/2026/07/10/iran-technical-talks-sk-hynix-fed-taskforce-vw-model-cut.html",
@@ -15,78 +167,6 @@
       "url": "https://theconversation.com/us-iran-ceasefire-had-a-built-in-detonator-this-week-it-went-off-287224",
       "source": "The Conversation Africa",
       "publishedAt": "2026-07-10T06:54:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "World Analysis Cannot Be Conducted with a Casino Mentality: The Limits of Game Theory and the Liquidation of the Marxist Method",
-      "url": "https://ozcanbuze947071.substack.com/p/world-analysis-cannot-be-conducted",
-      "source": "Substack.com",
-      "publishedAt": "2026-07-10T06:41:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US Says Iran Talks to Continue Despite Hormuz Skirmishes",
-      "url": "https://financialpost.com/pmn/business-pmn/us-says-iran-talks-to-continue-despite-hormuz-skirmishes",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-10T06:24:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "This Week’s Most Popular Articles",
-      "url": "https://www.globalresearch.ca/this-weeks-most-popular-articles-222/5932936",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-10T06:03:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Moscow says the West only pretends to seek peace",
-      "url": "https://www.naturalnews.com/2026-07-10-moscow-west-pretends-seek-peace.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-10T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Bulgaria Says It Has No More Weapons to Send Ukraine as NATO Summit Continues",
-      "url": "https://www.naturalnews.com/2026-07-10-bulgaria-has-no-more-weapons-for-ukraine.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-10T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Approves Patriot Missile Production in Ukraine, Endorses Deep Strikes Into Russia",
-      "url": "https://www.naturalnews.com/2026-07-10-trump-approves-patriot-missile-production-in-ukraine.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-10T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran buries Khamenei after new fighting with US erupts",
-      "url": "https://www.hurriyetdailynews.com/iran-buries-khamenei-after-new-fighting-with-us-erupts-224208",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-10T05:21:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli intelligence warns US of alleged Iranian plot to assassinate Trump: Report",
-      "url": "https://www.thehindubusinessline.com/news/world/israeli-intelligence-warns-us-of-alleged-iranian-plot-to-assassinate-trump-report/article71205260.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-10T04:56:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia no longer believes West wants Ukraine peace talks – Lavrov",
-      "url": "https://www.rt.com/news/642822-russia-west-no-goodwill-talks/",
-      "source": "RT",
-      "publishedAt": "2026-07-10T04:38:57Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -95,8 +175,8 @@
       "url": "https://www.juancole.com/2026/07/hostilities-elevated-uncertainty.html",
       "source": "Juancole.com",
       "publishedAt": "2026-07-10T04:15:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Why We Know More About China’s Next-Generation Fighters Than America’s",
@@ -107,36 +187,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Why Are US Special Forces Deployed in Taiwan?",
-      "url": "https://www.lewrockwell.com/2026/07/no_author/why-are-us-special-forces-deployed-in-taiwan/",
-      "source": "Lewrockwell.com",
-      "publishedAt": "2026-07-10T04:01:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea Strengthens Nuclear Forces — Qualitative and Quantitative Boost",
       "url": "https://sputnikglobe.com/20260710/north-korea-strengthens-nuclear-forces--qualitative-and-quantitative-boost-1124430275.html",
       "source": "Sputnikglobe.com",
       "publishedAt": "2026-07-10T03:37:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "A bitterly divided Iran grapples with Ali Khamenei's legacy as he is laid to rest",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-bitterly-divided-iran-grapples-with-ali-khameneis-legacy-as-he-is-laid-to-rest/articleshow/132301011.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-10T02:02:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran buries Ali Khamenei in holy shrine; new Supreme Leader remains out of sight",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-buries-ali-khamenei-in-holy-shrine-new-supreme-leader-remains-out-of-sight/articleshow/132300678.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-10T01:09:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Taiwan’s radar system tracks PLA ballistic missile launch, raising fresh geopolitical risks for markets",
@@ -147,42 +203,10 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Iran buries Khamenei after new fighting erupts with US",
-      "url": "https://www.rte.ie/news/middle-east/2026/0710/1582682-middle-east-iran/",
-      "source": "RTE",
-      "publishedAt": "2026-07-10T00:35:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How the US-Iran ceasefire and MOU broke down -- a timeline",
-      "url": "https://abcnews.com/Politics/us-iran-ceasefire-mou-broke-timeline/story?id=134622392",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-09T23:36:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The forgotten war that will decide the future of the Middle East: Trump and Iran are still exchanging fire. But as this riveting dispatch revealed, there will NEVER be peace until Israel's conflict with Hezbollah ends",
       "url": "https://www.dailymail.com/news/article-15966759/The-forgotten-war-decide-future-Middle-East-Trump-Iran-exchanging-fire-riveting-dispatch-revealed-NEVER-peace-Israels-conflict-Hezbollah-ends.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-07-09T23:14:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Baghdad: The Illusion of Peace",
-      "url": "https://www.nybooks.com/online/2026/07/09/baghdad-the-illusion-of-peace/",
-      "source": "The New York Review of Books",
-      "publishedAt": "2026-07-09T16:40:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Fox Military Expert Warns Trump Got a ‘Little Squishy’ in Dealing With Iran in Recent Weeks",
-      "url": "https://www.mediaite.com/media/tv/fox-military-expert-warns-trump-got-a-little-squishy-in-dealing-with-iran-in-recent-weeks/",
-      "source": "Mediaite",
-      "publishedAt": "2026-07-09T15:02:27Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -195,36 +219,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Deferring a Crisis: The Iran-US Ceasefire Cracks",
-      "url": "https://www.globalresearch.ca/iran-us-ceasefire-cracks/5932838",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-09T12:25:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Budrys in Ankara: Stability in the Middle East is a shared interest of NATO and the countries of the region",
       "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260709-lithuania-mfa03.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-07-09T12:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Iran Warns: No Final Deal If U.S. Threats Persist",
-      "url": "https://www.naturalnews.com/2026-07-09-iran-no-final-deal-if-threats-persist.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-09T06:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why Iran Ceasefire was always going to Break",
-      "url": "https://www.juancole.com/2026/07/ceasefire-always-going.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-07-09T04:04:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

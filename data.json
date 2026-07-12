@@ -1,7 +1,111 @@
 {
-  "updated": "2026-07-12T08:14:03Z",
-  "count": 34,
+  "updated": "2026-07-12T13:16:01Z",
+  "count": 36,
   "articles": [
+    {
+      "title": "I created Iran's Islamic Revolutionary Guard Corps and watched it spiral into monstrous murder machine. I fled to the West... but I don't feel guilty",
+      "url": "https://www.dailymail.com/news/article-15959953/Iran-Islamic-Revolutionary-Guard-Corps-live-West-guilty.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-11T13:03:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "2 people dead, 19 wounded as Russia strikes Ukraine with missiles and drones",
+      "url": "https://www.cbc.ca/news/world/russia-strikes-ukraine-9.7266882",
+      "source": "CBC News",
+      "publishedAt": "2026-07-11T12:53:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran's supreme leader pledges revenge for father's death",
+      "url": "https://www.abc.net.au/news/2026-07-11/iran-s-supreme-leader-pledges-revenge-for-father-s-death/106905744",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-07-11T12:30:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "India vs. Pakistan: Why Islamabad’s Nuclear Posturing Perils the World",
+      "url": "https://www.fairobserver.com/region/central_south_asia/india-vs-pakistan-why-islamabads-nuclear-posturing-perils-the-world/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-07-11T12:12:13Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Russia hits Ukraine's Kyiv, Odesa in fresh attacks",
+      "url": "https://www.dw.com/en/russia-hits-ukraines-kyiv-odesa-in-fresh-attacks/a-77915808",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-11T11:49:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Saturday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/07/11/saturday-hili-dialogue-590/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-07-11T11:45:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "'Locked and Loaded': Terrified Trump threatens to 'decimate' all Iran in late-night post",
+      "url": "https://www.rawstory.com/iran-trump-assassination-2677205876/",
+      "source": "Raw Story",
+      "publishedAt": "2026-07-11T11:34:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Bringing the war to Putin’s front door: Is Ukraine’s energy strike strategy working?",
+      "url": "https://www.foxnews.com/world/bringing-war-putins-front-door-ukraine-energy-strike-strategy-working",
+      "source": "Fox News",
+      "publishedAt": "2026-07-11T11:08:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 7/11/2026",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-11-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-11T10:55:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine won’t produce Patriot missiles despite Trump’s promise – Reuters",
+      "url": "https://www.rt.com/news/642886-ukraine-patriot-trump-germany/",
+      "source": "RT",
+      "publishedAt": "2026-07-11T10:48:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Fight for Hormuz swings between missiles & diplomacy as Iran minister reaches Oman",
+      "url": "https://economictimes.indiatimes.com/news/defence/fight-for-hormuz-swings-between-missiles-and-diplomacy-as-iran-reaches-oman-for-key-meeting/articleshow/132328910.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-11T10:35:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
+      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-11T09:36:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Sealed in blood’: Where does the China-North Korea alliance stand today?",
+      "url": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-11T08:21:20Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
       "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral",
@@ -67,36 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Did JD Vance just attack meritocracy and Milton Friedman?",
-      "url": "https://www.americanthinker.com/blog/2026/07/did-jd-vance-just-attack-meritocracy-and-milton-friedman/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-07-11T04:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "NATO’s last stand?",
       "url": "https://www.americanthinker.com/blog/2026/07/nato-s-last-stand/",
       "source": "Americanthinker.com",
       "publishedAt": "2026-07-11T04:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "'Only Those Prepared for War Can Negotiate With the US' — Iran's Parliament Speaker Warns",
-      "url": "https://sputnikglobe.com/20260711/only-those-prepared-for-war-can-negotiate-with-the-us--irans-parliament-speaker-warns-1124433612.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-07-11T03:59:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump and Meloni have 'strong personalities'. Their rift was laid bare at NATO",
-      "url": "https://www.abc.net.au/news/2026-07-11/trump-and-meloni-rift-laid-bare-at-nato/106903288",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-11T02:09:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Trump administration greenlights legislation to ‘exact a heavy price’ on buyers of Russian oil and gas",
@@ -107,68 +187,20 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Despite Trump’s wishes, Iran is dragging the US into a long war",
-      "url": "https://english.khabarhub.com/2026/11/558009/",
-      "source": "Khabarhub.com",
-      "publishedAt": "2026-07-11T00:15:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Traffic Through The Strait Of Hormuz Is Way Below Pre-War Levels As Trump Is Briefed On Options For “All-Out War”",
       "url": "https://www.activistpost.com/traffic-through-the-strait-of-hormuz-is-way-below-pre-war-levels-as-trump-is-briefed-on-options-for-all-out-war/",
       "source": "Activistpost.com",
       "publishedAt": "2026-07-11T00:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran Is Stronger After The War With The US",
       "url": "https://www.activistpost.com/iran-is-stronger-after-the-war-with-the-us/",
       "source": "Activistpost.com",
       "publishedAt": "2026-07-10T22:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Senate quartet announces breakthrough on sanctions against Russia",
-      "url": "https://cryptobriefing.com/senate-russia-sanctions-breakthrough-2025/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-10T21:43:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Breitbart Business Digest: America’s Millionaire Cashiers Beat Europe’s Lumbering Zombie Elites",
-      "url": "https://www.breitbart.com/economy/2026/07/10/breitbart-business-digest-americas-millionaire-cashiers-beat-europes-lumbering-zombie-elites/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-07-10T21:35:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Is Trump Turning Against Vladimir Putin?",
-      "url": "https://slate.com/news-and-politics/2026/07/russia-ukraine-trump-putin-war.html",
-      "source": "Slate Magazine",
-      "publishedAt": "2026-07-10T21:07:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US Senators, Administration Agree To Advance Russia Sanctions Bill; Kyiv Hails Move",
-      "url": "https://www.rferl.org/a/senate-trump-russia-sanctions-ukraine-graham/33801207.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-07-10T20:56:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel signals readiness for another Iran strike as Trump declares ceasefire over",
-      "url": "https://www.foxnews.com/world/israel-signals-readiness-another-iran-strike-trump-declares-ceasefire-over",
-      "source": "Fox News",
-      "publishedAt": "2026-07-10T20:48:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Kim Jong-un Leads Meeting on Growing 'Quality and Quantity' of North Korea Nuclear Force",
@@ -231,22 +263,6 @@
       "url": "https://whyevolutionistrue.com/2026/07/10/friday-hili-dialogue-585/",
       "source": "Whyevolutionistrue.com",
       "publishedAt": "2026-07-10T11:45:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US-Iran war: Will peace talks resume, and when?",
-      "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-10T11:43:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S. Strikes Fail to Break Iran’s Grip on the Strait of Hormuz",
-      "url": "https://oilprice.com/Energy/Energy-General/US-Strikes-Fail-to-Break-Irans-Grip-on-the-Strait-of-Hormuz.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-07-10T11:30:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

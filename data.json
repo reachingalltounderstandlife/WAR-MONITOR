@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-12T02:37:24Z",
-  "count": 31,
+  "updated": "2026-07-12T08:14:03Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
+      "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-11T08:04:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Senator urges China to help end Russia-Ukraine war by pressuring Moscow",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-senator-urges-china-to-help-end-russia-ukraine-war-by-pressuring-moscow/articleshow/132326822.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-11T08:01:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US pauses Iran attack after ceasefire break as Israel reveals plot to kill Trump - Fox News",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184401696",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-11T05:52:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says US, Iran agree to continue talks but ceasefire over",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-says-us-iran-agree-to-continue-talks-but-ceasefire-over/article71209414.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-11T05:48:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Fidan calls NATO summit consensus ‘historic success’",
+      "url": "https://www.hurriyetdailynews.com/fidan-calls-nato-summit-consensus-historic-success-224236",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-11T05:25:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Poland could cut arms aid to Ukraine as WWII spat continues",
+      "url": "https://www.dw.com/en/poland-could-cut-arms-aid-to-ukraine-as-wwii-spat-continues/a-77893170",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-11T05:19:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea condemns NATO summit, says denuclearisation should start with US allies",
+      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-condemns-nato-summit-says-denuclearisation-should-start-with-us-allies/articleshow/132324691.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-11T05:04:58Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "NATO Vassals Buy Trump ‘Unity’ With $160 Billion Bribe",
+      "url": "https://www.lewrockwell.com/2026/07/no_author/nato-vassals-buy-trump-unity-with-160-billion-bribe/",
+      "source": "Lewrockwell.com",
+      "publishedAt": "2026-07-11T04:01:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Did JD Vance just attack meritocracy and Milton Friedman?",
+      "url": "https://www.americanthinker.com/blog/2026/07/did-jd-vance-just-attack-meritocracy-and-milton-friedman/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-07-11T04:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO’s last stand?",
+      "url": "https://www.americanthinker.com/blog/2026/07/nato-s-last-stand/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-07-11T04:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "'Only Those Prepared for War Can Negotiate With the US' — Iran's Parliament Speaker Warns",
+      "url": "https://sputnikglobe.com/20260711/only-those-prepared-for-war-can-negotiate-with-the-us--irans-parliament-speaker-warns-1124433612.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-07-11T03:59:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Trump and Meloni have 'strong personalities'. Their rift was laid bare at NATO",
       "url": "https://www.abc.net.au/news/2026-07-11/trump-and-meloni-rift-laid-bare-at-nato/106903288",
@@ -91,38 +179,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "How Ukraine’s Drone War Could Drag World Into Nuclear War",
-      "url": "https://dailycaller.com/2026/07/10/russia-nuclear-war-ukraine-latvia-drones/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-07-10T19:28:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Evacuating Art From Ukraine’s Front Lines",
-      "url": "http://foreignpolicy.com/2026/07/10/evacuating-art-from-ukraines-front-lines/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-10T19:01:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "At NATO last year Trump was 'Daddy'. How times have changed",
-      "url": "https://www.abc.net.au/news/2026-07-11/nato-geopolitical-landscape-shifted-around-trump/106900808",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-10T19:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ayatollah Khamenei’s lesson from beyond the grave",
-      "url": "https://www.rt.com/news/642860-iran-khamenei-death-lesson/",
-      "source": "RT",
-      "publishedAt": "2026-07-10T18:06:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump agrees to more Iran talks, but says ceasefire over",
       "url": "https://punchng.com/trump-agrees-to-more-iran-talks-but-says-ceasefire-over/",
       "source": "The Punch",
@@ -137,38 +193,6 @@
       "publishedAt": "2026-07-10T18:04:47Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "How Ukraine Figured Out Trump World",
-      "url": "http://foreignpolicy.com/2026/07/10/dmytro-kuleba-ukraine-russia-war-victory-nato-patriot-missile/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-10T17:48:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "What in the World?",
-      "url": "http://foreignpolicy.com/2026/07/10/news-quiz-china-missile-test-fire-philippines-impeachment-nato-leaders-summit/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-10T17:38:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The US was overconfident before the war. Iran may be overconfident now.",
-      "url": "https://www.vox.com/politics/494968/iran-us-strait-hormuz",
-      "source": "Vox",
-      "publishedAt": "2026-07-10T17:24:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump's dream of a 'new Middle East' in tatters as insiders reveal embarrassing truth about his Gaza peace army",
-      "url": "https://www.dailymail.com/news/article-15968433/Trumps-Middle-East-Gaza-peace-army.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-10T17:01:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "UN finds genocide in Sudan, Iran-US ceasefire suspension, and AI for what? The Cheat Sheet",

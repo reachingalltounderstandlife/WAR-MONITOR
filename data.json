@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-12T13:16:01Z",
-  "count": 36,
+  "updated": "2026-07-12T19:03:24Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "NATO’s ‘Missile Summit’: The arms race Europe just signed up for",
+      "url": "https://www.rt.com/news/642891-natos-missile-summit-ankara/",
+      "source": "RT",
+      "publishedAt": "2026-07-11T18:02:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Approves Patriot Missile Production in Ukraine, Endorses Deep Strikes Into Russia",
+      "url": "https://www.shtfplan.com/war/trump-approves-patriot-missile-production-in-ukraine-endorses-deep-strikes-into-russia",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-07-11T17:00:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US officials in Lebanon for talks about on the withdrawal of Israel from the south of the country",
+      "url": "https://www.thejournal.ie/pilot-zones-us-military-idf-israel-occupation-of-lebanon-7098746-Jul2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-07-11T16:10:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-11T16:05:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran supreme leader vows revenge for father’s killing",
+      "url": "https://punchng.com/iran-supreme-leader-vows-revenge-for-fathers-killing/",
+      "source": "The Punch",
+      "publishedAt": "2026-07-11T15:57:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lockheed Martin set to allow Ukraine to manufacture Patriot interceptors, reshaping global defense supply chains",
+      "url": "https://cryptobriefing.com/ukraine-patriot-interceptor-manufacturing-license/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-11T15:09:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Χαρτογραφώντας το Ρευστό Διεθνές Σύστημα - Ημερήσια Γεωπολιτική Επισκόπηση (11/07/2026)",
+      "url": "https://i-epikaira.blogspot.com/2026/07/11072026.html",
+      "source": "Blogspot.com",
+      "publishedAt": "2026-07-11T13:40:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Rejects US Talks Unless Washington Meets Its Conditions",
+      "url": "https://financialpost.com/pmn/business-pmn/iran-rejects-us-talks-unless-washington-meets-its-conditions",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-11T13:18:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "I created Iran's Islamic Revolutionary Guard Corps and watched it spiral into monstrous murder machine. I fled to the West... but I don't feel guilty",
       "url": "https://www.dailymail.com/news/article-15959953/Iran-Islamic-Revolutionary-Guard-Corps-live-West-guilty.html",
@@ -91,28 +155,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump threatens to 'decimate' Iran if it tries to kill him, as Treasury sanctions alleged Iranian financier",
-      "url": "https://www.cnbc.com/2026/07/11/trump-threat.html",
-      "source": "CNBC",
-      "publishedAt": "2026-07-11T09:36:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "‘Sealed in blood’: Where does the China-North Korea alliance stand today?",
       "url": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today",
       "source": "Al Jazeera English",
       "publishedAt": "2026-07-11T08:21:20Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
-      "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-11T08:04:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "US Senator urges China to help end Russia-Ukraine war by pressuring Moscow",
@@ -123,34 +171,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US pauses Iran attack after ceasefire break as Israel reveals plot to kill Trump - Fox News",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184401696",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-07-11T05:52:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says US, Iran agree to continue talks but ceasefire over",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-says-us-iran-agree-to-continue-talks-but-ceasefire-over/article71209414.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-11T05:48:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Fidan calls NATO summit consensus ‘historic success’",
       "url": "https://www.hurriyetdailynews.com/fidan-calls-nato-summit-consensus-historic-success-224236",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-07-11T05:25:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Poland could cut arms aid to Ukraine as WWII spat continues",
-      "url": "https://www.dw.com/en/poland-could-cut-arms-aid-to-ukraine-as-wwii-spat-continues/a-77893170",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-11T05:19:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -161,30 +185,6 @@
       "publishedAt": "2026-07-11T05:04:58Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "NATO Vassals Buy Trump ‘Unity’ With $160 Billion Bribe",
-      "url": "https://www.lewrockwell.com/2026/07/no_author/nato-vassals-buy-trump-unity-with-160-billion-bribe/",
-      "source": "Lewrockwell.com",
-      "publishedAt": "2026-07-11T04:01:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO’s last stand?",
-      "url": "https://www.americanthinker.com/blog/2026/07/nato-s-last-stand/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-07-11T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump administration greenlights legislation to ‘exact a heavy price’ on buyers of Russian oil and gas",
-      "url": "https://nypost.com/2026/07/10/us-news/trump-administration-greenlights-legislation-to-exact-a-heavy-price-on-buyers-of-russian-oil-and-gas/",
-      "source": "New York Post",
-      "publishedAt": "2026-07-11T00:23:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Traffic Through The Strait Of Hormuz Is Way Below Pre-War Levels As Trump Is Briefed On Options For “All-Out War”",
@@ -257,14 +257,6 @@
       "publishedAt": "2026-07-10T12:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Friday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/07/10/friday-hili-dialogue-585/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-07-10T11:45:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Why We Know More About China’s Next-Generation Fighters Than America’s",

@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-12T19:03:24Z",
-  "count": 35,
+  "updated": "2026-07-13T02:39:42Z",
+  "count": 26,
   "articles": [
+    {
+      "title": "Someone Else Is Bombing Iran, but No One Is Claiming Responsibility",
+      "url": "https://freerepublic.com/focus/f-news/4387647/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-12T02:35:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran declares Hormuz closed after 'unauthorised' vessel hit, warns of 'severe response'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-declares-hormuz-closed-after-unauthorised-vessel-hit-warns-of-severe-response/articleshow/132339703.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-12T01:18:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump suggests standing order to attack Iran if it assassinates him, but Vance would make the call",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-suggests-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call/article71212908.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-12T00:36:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US launches strikes as Iran says Strait of Hormuz closed",
+      "url": "https://www.rte.ie/news/world/2026/0712/1582943-iran-war/",
+      "source": "RTE",
+      "publishedAt": "2026-07-12T00:24:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US launches strikes as Iran says Strait of Hormuz closed",
+      "url": "https://www.rte.ie/news/world/2026/0712/1582943-middle-east/",
+      "source": "RTE",
+      "publishedAt": "2026-07-12T00:24:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran says Strait of Hormuz is closed after striking vessel using ‘unauthorised route’",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-says-strait-of-hormuz-is-closed-after-striking-vessel-using-unauthorised-route/article71212904.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-12T00:21:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran declares Strait of Hormuz closed as 'unauthorised' vessel hit...",
+      "url": "https://ca.news.yahoo.com/iran-declares-strait-hormuz-closed-232134793.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-12T00:00:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US airstrikes target Iran’s energy infrastructure amid 2026 conflict",
+      "url": "https://cryptobriefing.com/us-airstrikes-target-irans-energy-infrastructure-amid-2026-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-11T23:30:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Suggests A Standing Order To Attack Iran If It Assassinates Him — But Vance Would Make The Call",
+      "url": "https://www.huffpost.com/entry/trump-suggests-standing-order-attack-iran-assassinates-him-vance-would-make-call_n_6a52ca0ae4b0aaa374289e03",
+      "source": "HuffPost",
+      "publishedAt": "2026-07-11T23:02:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Kremlin warns Europe mirrors pre-WWII militarization amid Russia-Ukraine conflict",
+      "url": "https://cryptobriefing.com/kremlin-warns-europe-mirrors-pre-wwii-militarization-amid-russia-ukraine/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-11T20:33:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The battle for Taiwan: Long? Short? Bomb? Seize? Or what?",
+      "url": "https://www.wnd.com/2026/07/battle-taiwan-long-short-bomb-seize-what/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-07-11T19:41:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "NATO’s ‘Missile Summit’: The arms race Europe just signed up for",
       "url": "https://www.rt.com/news/642891-natos-missile-summit-ankara/",
@@ -23,24 +111,8 @@
       "url": "https://www.thejournal.ie/pilot-zones-us-military-idf-israel-occupation-of-lebanon-7098746-Jul2026/",
       "source": "TheJournal.ie",
       "publishedAt": "2026-07-11T16:10:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-11T16:05:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran supreme leader vows revenge for father’s killing",
-      "url": "https://punchng.com/iran-supreme-leader-vows-revenge-for-fathers-killing/",
-      "source": "The Punch",
-      "publishedAt": "2026-07-11T15:57:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Lockheed Martin set to allow Ukraine to manufacture Patriot interceptors, reshaping global defense supply chains",
@@ -59,20 +131,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran Rejects US Talks Unless Washington Meets Its Conditions",
-      "url": "https://financialpost.com/pmn/business-pmn/iran-rejects-us-talks-unless-washington-meets-its-conditions",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-11T13:18:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "I created Iran's Islamic Revolutionary Guard Corps and watched it spiral into monstrous murder machine. I fled to the West... but I don't feel guilty",
       "url": "https://www.dailymail.com/news/article-15959953/Iran-Islamic-Revolutionary-Guard-Corps-live-West-guilty.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-07-11T13:03:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "2 people dead, 19 wounded as Russia strikes Ukraine with missiles and drones",
@@ -81,14 +145,6 @@
       "publishedAt": "2026-07-11T12:53:11Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran's supreme leader pledges revenge for father's death",
-      "url": "https://www.abc.net.au/news/2026-07-11/iran-s-supreme-leader-pledges-revenge-for-father-s-death/106905744",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-11T12:30:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "India vs. Pakistan: Why Islamabad’s Nuclear Posturing Perils the World",
@@ -115,28 +171,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "'Locked and Loaded': Terrified Trump threatens to 'decimate' all Iran in late-night post",
-      "url": "https://www.rawstory.com/iran-trump-assassination-2677205876/",
-      "source": "Raw Story",
-      "publishedAt": "2026-07-11T11:34:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Bringing the war to Putin’s front door: Is Ukraine’s energy strike strategy working?",
       "url": "https://www.foxnews.com/world/bringing-war-putins-front-door-ukraine-energy-strike-strategy-working",
       "source": "Fox News",
       "publishedAt": "2026-07-11T11:08:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Links 7/11/2026",
-      "url": "https://www.nakedcapitalism.com/2026/07/links-7-11-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-11T10:55:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine won’t produce Patriot missiles despite Trump’s promise – Reuters",
@@ -147,36 +187,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Fight for Hormuz swings between missiles & diplomacy as Iran minister reaches Oman",
-      "url": "https://economictimes.indiatimes.com/news/defence/fight-for-hormuz-swings-between-missiles-and-diplomacy-as-iran-reaches-oman-for-key-meeting/articleshow/132328910.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-11T10:35:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "‘Sealed in blood’: Where does the China-North Korea alliance stand today?",
       "url": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today",
       "source": "Al Jazeera English",
       "publishedAt": "2026-07-11T08:21:20Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "US Senator urges China to help end Russia-Ukraine war by pressuring Moscow",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-senator-urges-china-to-help-end-russia-ukraine-war-by-pressuring-moscow/articleshow/132326822.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-11T08:01:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Fidan calls NATO summit consensus ‘historic success’",
-      "url": "https://www.hurriyetdailynews.com/fidan-calls-nato-summit-consensus-historic-success-224236",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-11T05:25:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea condemns NATO summit, says denuclearisation should start with US allies",
@@ -193,94 +209,6 @@
       "publishedAt": "2026-07-11T00:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Is Stronger After The War With The US",
-      "url": "https://www.activistpost.com/iran-is-stronger-after-the-war-with-the-us/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-07-10T22:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Kim Jong-un Leads Meeting on Growing 'Quality and Quantity' of North Korea Nuclear Force",
-      "url": "https://www.breitbart.com/asia/2026/07/10/kim-jong-un-leads-meeting-on-growing-quality-and-quantity-of-north-korea-nuclear-force/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-07-10T19:50:38Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump agrees to more Iran talks, but says ceasefire over",
-      "url": "https://punchng.com/trump-agrees-to-more-iran-talks-but-says-ceasefire-over/",
-      "source": "The Punch",
-      "publishedAt": "2026-07-10T18:05:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Report: IDF freezes 'sensitive' Lebanon moves at US request",
-      "url": "https://www.israelnationalnews.com/news/429970",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-07-10T18:04:47Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "UN finds genocide in Sudan, Iran-US ceasefire suspension, and AI for what? The Cheat Sheet",
-      "url": "https://www.thenewhumanitarian.org/news/2026/07/10/un-genocide-sudan-iran-us-ceasefire-suspension-ai-cheat-sheet",
-      "source": "The New Humanitarian",
-      "publishedAt": "2026-07-10T14:02:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel and Lebanon have a long history of failed ceasefires – will this time be any different?",
-      "url": "https://theconversation.com/israel-and-lebanon-have-a-long-history-of-failed-ceasefires-will-this-time-be-any-different-286515",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-07-10T12:09:25Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump 'Holds All The Cards' In Dealing With Iran, Says Heritage Foundation's James Jay Carafano",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260710-rferl04.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-10T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea Strengthens Nuclear Forces — Qualitative and Quantitative Boost",
-      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260710-sputnik01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-10T12:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Why We Know More About China’s Next-Generation Fighters Than America’s",
-      "url": "http://foreignpolicy.com/2026/07/10/china-next-generation-fighters-internet-intelligence/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-10T04:01:06Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "North Korea Strengthens Nuclear Forces — Qualitative and Quantitative Boost",
-      "url": "https://sputnikglobe.com/20260710/north-korea-strengthens-nuclear-forces--qualitative-and-quantitative-boost-1124430275.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-07-10T03:37:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Taiwan’s radar system tracks PLA ballistic missile launch, raising fresh geopolitical risks for markets",
-      "url": "https://cryptobriefing.com/taiwan-radar-tracks-pla-missile-launch/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-10T01:09:33Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
     }
   ]
 }

@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-13T14:30:21Z",
-  "count": 31,
+  "updated": "2026-07-13T19:20:53Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "Inside the weapon-filled tunnels beneath a Lebanon castle which was long a Hezbollah stronghold and used to launch deadly strikes and drones",
+      "url": "https://www.dailymail.com/news/article-15972033/Inside-weapon-filled-tunnels-beneath-Lebanon-castle-long-Hezbollah-stronghold-used-launch-deadly-strikes-drones.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-12T18:49:29Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump, Vance Lead Tributes After Lindsey Graham’s Death",
+      "url": "https://legalinsurrection.com/2026/07/trump-vance-lead-tributes-after-lindsey-grahams-death/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-07-12T18:00:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
+      "url": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-12T17:50:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UN chief urges end to US-Iran conflict amid escalating tensions",
+      "url": "https://cryptobriefing.com/un-chief-urges-end-to-us-iran-conflict-amid-escalating-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-12T17:47:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelenskiy dismisses Ukraine’s prime minister in cabinet shake-up",
+      "url": "https://www.irishtimes.com/world/europe/2026/07/12/zelenskiy-dismisses-ukraines-prime-minister-in-cabinet-shake-up/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-12T15:54:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Launches Fresh Iran Strikes As Tehran Declares Hormuz Closed",
+      "url": "https://gcaptain.com/us-launches-fresh-iran-strikes-as-tehran-declares-hormuz-closed/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-07-12T15:40:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran strikes US 5th Fleet HQ in Bahrain, Al-Udeid Airbase in Qatar",
+      "url": "https://cryptobriefing.com/iran-strikes-us-5th-fleet-hq-in-bahrain-al-udeid-airbase-in-qatar/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-12T15:27:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What made US Republican Senator Lindsey Graham a controversial figure",
+      "url": "https://www.aljazeera.com/news/2026/7/12/what-made-us-republican-senator-lindsey-graham-a-controversial-figure",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-12T15:03:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel fires artillery into southern Lebanon amid fragile ceasefire",
+      "url": "https://cryptobriefing.com/israel-fires-artillery-into-southern-lebanon-amid-fragile-ceasefire/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-12T14:42:57Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US Central Command Says it is Striking Iran in Response to Attack on Civilian Vessel in Strait of Hormuz",
+      "url": "https://military.com/us-central-command-says-it-is-striking-iran-in-response-to-attack-on-civilian-vessel-in-strait-of-hormuz",
+      "source": "Military.com",
+      "publishedAt": "2026-07-12T14:35:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Defiant Sen. Lindsey Graham laughed off Iran putting bullseye on his head days before his death",
       "url": "https://nypost.com/2026/07/12/us-news/defiant-sen-lindsey-graham-laughed-off-iran-putting-bullseye-on-his-head-days-before-his-death/",
@@ -91,28 +171,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "230,000 Russian soldiers reported dead by 1,600th day of conflict",
-      "url": "https://cryptobriefing.com/230000-russian-soldiers-reported-dead-by-1600th-day-of-conflict/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-12T10:53:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iranian officer killed in US-Israeli strikes amid renewed 2026 hostilities",
       "url": "https://cryptobriefing.com/iranian-officer-killed-in-us-israeli-strikes-amid-renewed-2026-hostilities/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-07-12T10:28:58Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Turkiye stabilizes NATO at summit, €70B aid for Ukraine pledged",
-      "url": "https://cryptobriefing.com/turkiye-stabilizes-nato-at-summit-70b-aid-for-ukraine-pledged/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-12T10:10:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran newspaper lists Trump, European leaders as revenge targets",
@@ -127,54 +191,6 @@
       "url": "https://www.hurriyetdailynews.com/us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz-224263",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-07-12T08:55:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran Trade Wave of Attacks as Tehran Says Hormuz Closed",
-      "url": "https://financialpost.com/pmn/business-pmn/us-iran-trade-wave-of-attacks-as-tehran-says-hormuz-closed",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-12T08:29:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US launches fresh strikes on Iran after Hormuz closure",
-      "url": "https://peoplesreview.com.np/2026/07/12/us-launches-fresh-strikes-on-iran-after-hormuz-closure/",
-      "source": "Peoplesreview.com.np",
-      "publishedAt": "2026-07-12T08:15:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
-      "url": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-12T07:53:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Iran exchange fresh strikes as Tehran says Strait of Hormuz is closed",
-      "url": "https://www.irishtimes.com/world/us/2026/07/12/us-and-iran-exchange-fresh-strikes-as-tehran-says-strait-of-hormuz-is-closed/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-12T07:53:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran accuses US of ceasefire violation amid regional conflict escalation",
-      "url": "https://cryptobriefing.com/iran-accuses-us-of-ceasefire-violation-amid-regional-conflict-escalation/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-12T06:47:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran warns US amid escalating 2026 conflict over Strait of Hormuz",
-      "url": "https://cryptobriefing.com/iran-warns-us-amid-escalating-2026-conflict-over-strait-of-hormuz/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-12T06:29:12Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

@@ -1,7 +1,127 @@
 {
-  "updated": "2026-07-13T09:23:07Z",
-  "count": 29,
+  "updated": "2026-07-13T14:30:21Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "Defiant Sen. Lindsey Graham laughed off Iran putting bullseye on his head days before his death",
+      "url": "https://nypost.com/2026/07/12/us-news/defiant-sen-lindsey-graham-laughed-off-iran-putting-bullseye-on-his-head-days-before-his-death/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-12T14:10:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The U.S. is Now Providing the “Patriot” Air Defense System License to Zelensky Neo-Nazi Government. Inevitable Failures, Profit?",
+      "url": "https://www.globalresearch.ca/the-u-s-is-now-providing-the-patriot-air-defense-system-license-to-zelensky-neo-nazi-government-inevitable-failures-profit/5933078",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-12T13:51:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO’s European Wing Advances Long-term Military Buildup, Mobilizing Funds for Military Production. Targeting Russia by 2030",
+      "url": "https://www.globalresearch.ca/nato-european-wing-advances-long-term-military-buildup-targeting-russia-by-2030/5933041",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-12T13:37:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Warning To Kim: Nuclear Weapons Do Leave ‘Fingerprints’",
+      "url": "https://freerepublic.com/focus/f-chat/4387678/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-12T13:30:16Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Republican Lindsey Graham dies at 71: World leaders, US politicians react",
+      "url": "https://www.aljazeera.com/news/2026/7/12/republican-lindsey-graham-dies-at-71-world-leaders-us-politicians-react",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-12T13:08:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "'America and the world have lost a determined leader': Tributes pour in after Sen Lindsey Graham's death",
+      "url": "https://www.foxnews.com/politics/america-world-lost-determined-leader-tributes-pour-sen-lindsey-graham-death",
+      "source": "Fox News",
+      "publishedAt": "2026-07-12T12:54:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "EU defense remains heavily reliant on the United States",
+      "url": "https://www.dw.com/en/eu-defense-remains-heavily-reliant-on-the-united-states/a-77917972",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-12T12:37:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Senator Lindsey Graham, A Leading Republican Backer Of Ukraine, Dies At 71",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260712-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-12T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Footage from Lebanon: Terrorists approach launcher - and are eliminated",
+      "url": "https://www.israelnationalnews.com/news/430025",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-12T11:58:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "NATO Is Going Strong, Actually",
+      "url": "https://www.theatlantic.com/international/2026/07/nato-alliance-trump-europe/687874/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-07-12T11:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 7/12/2026",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-12-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-12T10:55:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "230,000 Russian soldiers reported dead by 1,600th day of conflict",
+      "url": "https://cryptobriefing.com/230000-russian-soldiers-reported-dead-by-1600th-day-of-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-12T10:53:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iranian officer killed in US-Israeli strikes amid renewed 2026 hostilities",
+      "url": "https://cryptobriefing.com/iranian-officer-killed-in-us-israeli-strikes-amid-renewed-2026-hostilities/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-12T10:28:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Turkiye stabilizes NATO at summit, €70B aid for Ukraine pledged",
+      "url": "https://cryptobriefing.com/turkiye-stabilizes-nato-at-summit-70b-aid-for-ukraine-pledged/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-12T10:10:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran newspaper lists Trump, European leaders as revenge targets",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-newspaper-names-trump-and-european-leaders-as-targets-for-revenge/articleshow/132343555.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-12T09:40:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US attacks Iran over ship being hit in Strait of Hormuz",
       "url": "https://www.hurriyetdailynews.com/us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz-224263",
@@ -43,28 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Ukraine boosts defense production, strengthens NATO ties amid Russia conflict",
-      "url": "https://cryptobriefing.com/ukraine-boosts-defense-production-strengthens-nato-ties-amid-russia-conflict/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-12T07:26:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran accuses US of ceasefire violation amid regional conflict escalation",
       "url": "https://cryptobriefing.com/iran-accuses-us-of-ceasefire-violation-amid-regional-conflict-escalation/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-07-12T06:47:47Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Russia is defeated in the Ukrainian war",
-      "url": "https://english.gossiplankanews.com/2026/07/russia-is-defeated-in-ukrainian-war.html",
-      "source": "Gossiplankanews.com",
-      "publishedAt": "2026-07-12T06:35:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran warns US amid escalating 2026 conflict over Strait of Hormuz",
@@ -75,28 +179,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "NATO Summit in Ankara Reveals Deep Divisions, Analysts Say",
-      "url": "https://www.naturalnews.com/2026-07-12-nato-summit-reveals-deep-divisions-analysts-say.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-12T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Lebanese Army to Deploy in South Lebanon Pilot Zones as Israeli Withdrawal Looms",
       "url": "https://www.naturalnews.com/2026-07-12-lebanese-army-deploy-in-south-lebanon-pilot-zones.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-07-12T06:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "ISW: Russian forces face resistance, shift to attrition tactics in Ukraine",
-      "url": "https://cryptobriefing.com/isw-russian-forces-face-resistance-shift-to-attrition-tactics-in-ukraine/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-12T05:11:54Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Warning To Kim: Nuclear Weapons Do Leave ‘Fingerprints’",
@@ -107,84 +195,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "U.S. Attacks Iran Over Ship Being Hit In Strait Of Hormuz; Tehran Lashes Out Again At Gulf Arab States",
-      "url": "https://www.huffpost.com/entry/us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz-tehran-lashes-out-again-gulf-arab-states_n_6a530612e4b09843d52b7444",
-      "source": "HuffPost",
-      "publishedAt": "2026-07-12T03:18:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Someone Else Is Bombing Iran, but No One Is Claiming Responsibility",
-      "url": "https://freerepublic.com/focus/f-news/4387647/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-12T02:35:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran declares Hormuz closed after 'unauthorised' vessel hit, warns of 'severe response'",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-declares-hormuz-closed-after-unauthorised-vessel-hit-warns-of-severe-response/articleshow/132339703.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-12T01:18:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Kremlin warns Europe mirrors pre-WWII militarization amid Russia-Ukraine conflict",
-      "url": "https://cryptobriefing.com/kremlin-warns-europe-mirrors-pre-wwii-militarization-amid-russia-ukraine/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-11T20:33:54Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The battle for Taiwan: Long? Short? Bomb? Seize? Or what?",
-      "url": "https://www.wnd.com/2026/07/battle-taiwan-long-short-bomb-seize-what/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-07-11T19:41:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO’s ‘Missile Summit’: The arms race Europe just signed up for",
-      "url": "https://www.rt.com/news/642891-natos-missile-summit-ankara/",
-      "source": "RT",
-      "publishedAt": "2026-07-11T18:02:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Approves Patriot Missile Production in Ukraine, Endorses Deep Strikes Into Russia",
-      "url": "https://www.shtfplan.com/war/trump-approves-patriot-missile-production-in-ukraine-endorses-deep-strikes-into-russia",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-07-11T17:00:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "US officials in Lebanon for talks about on the withdrawal of Israel from the south of the country",
       "url": "https://www.thejournal.ie/pilot-zones-us-military-idf-israel-occupation-of-lebanon-7098746-Jul2026/",
       "source": "TheJournal.ie",
       "publishedAt": "2026-07-11T16:10:39Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Lockheed Martin set to allow Ukraine to manufacture Patriot interceptors, reshaping global defense supply chains",
-      "url": "https://cryptobriefing.com/ukraine-patriot-interceptor-manufacturing-license/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-11T15:09:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Χαρτογραφώντας το Ρευστό Διεθνές Σύστημα - Ημερήσια Γεωπολιτική Επισκόπηση (11/07/2026)",
-      "url": "https://i-epikaira.blogspot.com/2026/07/11072026.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-07-11T13:40:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "I created Iran's Islamic Revolutionary Guard Corps and watched it spiral into monstrous murder machine. I fled to the West... but I don't feel guilty",

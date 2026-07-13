@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-13T02:39:42Z",
-  "count": 26,
+  "updated": "2026-07-13T09:23:07Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "US attacks Iran over ship being hit in Strait of Hormuz",
+      "url": "https://www.hurriyetdailynews.com/us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz-224263",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-12T08:55:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran Trade Wave of Attacks as Tehran Says Hormuz Closed",
+      "url": "https://financialpost.com/pmn/business-pmn/us-iran-trade-wave-of-attacks-as-tehran-says-hormuz-closed",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-12T08:29:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US launches fresh strikes on Iran after Hormuz closure",
+      "url": "https://peoplesreview.com.np/2026/07/12/us-launches-fresh-strikes-on-iran-after-hormuz-closure/",
+      "source": "Peoplesreview.com.np",
+      "publishedAt": "2026-07-12T08:15:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
+      "url": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-12T07:53:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US and Iran exchange fresh strikes as Tehran says Strait of Hormuz is closed",
+      "url": "https://www.irishtimes.com/world/us/2026/07/12/us-and-iran-exchange-fresh-strikes-as-tehran-says-strait-of-hormuz-is-closed/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-12T07:53:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine boosts defense production, strengthens NATO ties amid Russia conflict",
+      "url": "https://cryptobriefing.com/ukraine-boosts-defense-production-strengthens-nato-ties-amid-russia-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-12T07:26:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran accuses US of ceasefire violation amid regional conflict escalation",
+      "url": "https://cryptobriefing.com/iran-accuses-us-of-ceasefire-violation-amid-regional-conflict-escalation/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-12T06:47:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia is defeated in the Ukrainian war",
+      "url": "https://english.gossiplankanews.com/2026/07/russia-is-defeated-in-ukrainian-war.html",
+      "source": "Gossiplankanews.com",
+      "publishedAt": "2026-07-12T06:35:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran warns US amid escalating 2026 conflict over Strait of Hormuz",
+      "url": "https://cryptobriefing.com/iran-warns-us-amid-escalating-2026-conflict-over-strait-of-hormuz/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-12T06:29:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO Summit in Ankara Reveals Deep Divisions, Analysts Say",
+      "url": "https://www.naturalnews.com/2026-07-12-nato-summit-reveals-deep-divisions-analysts-say.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-12T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanese Army to Deploy in South Lebanon Pilot Zones as Israeli Withdrawal Looms",
+      "url": "https://www.naturalnews.com/2026-07-12-lebanese-army-deploy-in-south-lebanon-pilot-zones.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-12T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "ISW: Russian forces face resistance, shift to attrition tactics in Ukraine",
+      "url": "https://cryptobriefing.com/isw-russian-forces-face-resistance-shift-to-attrition-tactics-in-ukraine/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-12T05:11:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Warning To Kim: Nuclear Weapons Do Leave ‘Fingerprints’",
+      "url": "https://www.americanthinker.com/articles/2026/07/warning-to-kim-nuclear-weapons-do-leave-fingerprints/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-07-12T04:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "U.S. Attacks Iran Over Ship Being Hit In Strait Of Hormuz; Tehran Lashes Out Again At Gulf Arab States",
+      "url": "https://www.huffpost.com/entry/us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz-tehran-lashes-out-again-gulf-arab-states_n_6a530612e4b09843d52b7444",
+      "source": "HuffPost",
+      "publishedAt": "2026-07-12T03:18:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Someone Else Is Bombing Iran, but No One Is Claiming Responsibility",
       "url": "https://freerepublic.com/focus/f-news/4387647/posts",
@@ -15,62 +127,6 @@
       "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-declares-hormuz-closed-after-unauthorised-vessel-hit-warns-of-severe-response/articleshow/132339703.cms",
       "source": "The Times of India",
       "publishedAt": "2026-07-12T01:18:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump suggests standing order to attack Iran if it assassinates him, but Vance would make the call",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-suggests-standing-order-to-attack-iran-if-it-assassinates-him-but-vance-would-make-the-call/article71212908.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-12T00:36:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US launches strikes as Iran says Strait of Hormuz closed",
-      "url": "https://www.rte.ie/news/world/2026/0712/1582943-iran-war/",
-      "source": "RTE",
-      "publishedAt": "2026-07-12T00:24:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US launches strikes as Iran says Strait of Hormuz closed",
-      "url": "https://www.rte.ie/news/world/2026/0712/1582943-middle-east/",
-      "source": "RTE",
-      "publishedAt": "2026-07-12T00:24:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran says Strait of Hormuz is closed after striking vessel using ‘unauthorised route’",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-says-strait-of-hormuz-is-closed-after-striking-vessel-using-unauthorised-route/article71212904.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-12T00:21:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran declares Strait of Hormuz closed as 'unauthorised' vessel hit...",
-      "url": "https://ca.news.yahoo.com/iran-declares-strait-hormuz-closed-232134793.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-12T00:00:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US airstrikes target Iran’s energy infrastructure amid 2026 conflict",
-      "url": "https://cryptobriefing.com/us-airstrikes-target-irans-energy-infrastructure-amid-2026-conflict/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-11T23:30:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Suggests A Standing Order To Attack Iran If It Assassinates Him — But Vance Would Make The Call",
-      "url": "https://www.huffpost.com/entry/trump-suggests-standing-order-attack-iran-assassinates-him-vance-would-make-call_n_6a52ca0ae4b0aaa374289e03",
-      "source": "HuffPost",
-      "publishedAt": "2026-07-11T23:02:35Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -139,14 +195,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "2 people dead, 19 wounded as Russia strikes Ukraine with missiles and drones",
-      "url": "https://www.cbc.ca/news/world/russia-strikes-ukraine-9.7266882",
-      "source": "CBC News",
-      "publishedAt": "2026-07-11T12:53:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "India vs. Pakistan: Why Islamabad’s Nuclear Posturing Perils the World",
       "url": "https://www.fairobserver.com/region/central_south_asia/india-vs-pakistan-why-islamabads-nuclear-posturing-perils-the-world/",
       "source": "Fair Observer",
@@ -155,36 +203,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Russia hits Ukraine's Kyiv, Odesa in fresh attacks",
-      "url": "https://www.dw.com/en/russia-hits-ukraines-kyiv-odesa-in-fresh-attacks/a-77915808",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-11T11:49:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Saturday: Hili dialogue",
       "url": "https://whyevolutionistrue.com/2026/07/11/saturday-hili-dialogue-590/",
       "source": "Whyevolutionistrue.com",
       "publishedAt": "2026-07-11T11:45:20Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Bringing the war to Putin’s front door: Is Ukraine’s energy strike strategy working?",
-      "url": "https://www.foxnews.com/world/bringing-war-putins-front-door-ukraine-energy-strike-strategy-working",
-      "source": "Fox News",
-      "publishedAt": "2026-07-11T11:08:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine won’t produce Patriot missiles despite Trump’s promise – Reuters",
-      "url": "https://www.rt.com/news/642886-ukraine-patriot-trump-germany/",
-      "source": "RT",
-      "publishedAt": "2026-07-11T10:48:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "‘Sealed in blood’: Where does the China-North Korea alliance stand today?",

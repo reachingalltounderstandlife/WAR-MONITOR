@@ -1,7 +1,111 @@
 {
-  "updated": "2026-07-13T19:20:53Z",
-  "count": 33,
+  "updated": "2026-07-14T02:22:56Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Netanyahu says Trump wants to 'exhaust possibility' of diplomacy on Iran nuclear issue",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/netanyahu-says-trump-wants-to-exhaust-possibility-of-diplomacy-on-iran-nuclear-issue/articleshow/132354452.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-13T01:47:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Graham’s final diplomatic mission: Brokering peace between Saudi Arabia and Israel",
+      "url": "https://www.israelnationalnews.com/news/430052",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-13T01:22:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran expands attacks on Gulf states after US strikes, says Strait of Hormuz closed",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-expands-attacks-on-gulf-states-after-us-strikes-says-strait-of-hormuz-closed/articleshow/132354201.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-13T00:38:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Top Republican breaks his silence on Lindsey Graham death conspiracies and details his grueling routine",
+      "url": "https://www.dailymail.com/news/article-15972219/Top-Republican-breaks-silence-Lindsey-Graham-death-conspiracies-details-grueling-routine.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-13T00:18:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Renewed Gulf Hostilities, Elevated Regional and Global Uncertainty",
+      "url": "https://original.antiwar.com/dan_steinbock/2026/07/12/renewed-gulf-hostilities-elevated-regional-and-global-uncertainty/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-07-13T00:00:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'The people have a boiling point - a terrible revenge against the Mullahs is brewing': What's really happening inside Iran... and why its evil leaders are not as safe as they think after Trump's botched war",
+      "url": "https://www.dailymail.com/news/article-15972097/boiling-point-revenge-Mullahs-Iran-evil-leaders-Trumps-botched-war.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-13T00:00:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US launches new wave of strikes against Iran aimed at ‘degrading’ military",
+      "url": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-12T23:03:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran releases AI video depicting death of US Senator Lindsey Graham",
+      "url": "https://cryptobriefing.com/iran-releases-ai-video-depicting-death-of-us-senator-lindsey-graham/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-12T22:55:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Herzog highlights state duty to protect Israelis amid Iran tensions",
+      "url": "https://cryptobriefing.com/herzog-highlights-state-duty-to-protect-israelis-amid-iran-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-12T21:55:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Honorable Gentleman for Ukraine",
+      "url": "https://www.theatlantic.com/national-security/2026/07/lindsey-graham-was-honorable-gentleman-ukraine/687896/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-07-12T21:22:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Death toll from Israeli attacks on Lebanon reaches 4,322 amid ongoing conflict",
+      "url": "https://cryptobriefing.com/death-toll-from-israeli-attacks-on-lebanon-reaches-4322-amid-ongoing-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-12T20:34:32Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US strikes Bandar Abbas, Qeshm Island after ceasefire collapse in Iran War",
+      "url": "https://cryptobriefing.com/us-strikes-bandar-abbas-qeshm-island-after-ceasefire-collapse-in-iran-war/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-12T19:59:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran wants the POTUS dead - and answered Washington’s Strait deadline with a missile",
+      "url": "https://www.israelnationalnews.com/news/430045",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-12T19:44:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Inside the weapon-filled tunnels beneath a Lebanon castle which was long a Hezbollah stronghold and used to launch deadly strikes and drones",
       "url": "https://www.dailymail.com/news/article-15972033/Inside-weapon-filled-tunnels-beneath-Lebanon-castle-long-Hezbollah-stronghold-used-launch-deadly-strikes-drones.html",
@@ -19,22 +123,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
-      "url": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-12T17:50:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "UN chief urges end to US-Iran conflict amid escalating tensions",
-      "url": "https://cryptobriefing.com/un-chief-urges-end-to-us-iran-conflict-amid-escalating-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-12T17:47:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Zelenskiy dismisses Ukraine’s prime minister in cabinet shake-up",
       "url": "https://www.irishtimes.com/world/europe/2026/07/12/zelenskiy-dismisses-ukraines-prime-minister-in-cabinet-shake-up/",
       "source": "The Irish Times",
@@ -43,44 +131,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US Launches Fresh Iran Strikes As Tehran Declares Hormuz Closed",
-      "url": "https://gcaptain.com/us-launches-fresh-iran-strikes-as-tehran-declares-hormuz-closed/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-07-12T15:40:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran strikes US 5th Fleet HQ in Bahrain, Al-Udeid Airbase in Qatar",
-      "url": "https://cryptobriefing.com/iran-strikes-us-5th-fleet-hq-in-bahrain-al-udeid-airbase-in-qatar/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-12T15:27:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What made US Republican Senator Lindsey Graham a controversial figure",
-      "url": "https://www.aljazeera.com/news/2026/7/12/what-made-us-republican-senator-lindsey-graham-a-controversial-figure",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-12T15:03:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel fires artillery into southern Lebanon amid fragile ceasefire",
       "url": "https://cryptobriefing.com/israel-fires-artillery-into-southern-lebanon-amid-fragile-ceasefire/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-07-12T14:42:57Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "US Central Command Says it is Striking Iran in Response to Attack on Civilian Vessel in Strait of Hormuz",
-      "url": "https://military.com/us-central-command-says-it-is-striking-iran-in-response-to-attack-on-civilian-vessel-in-strait-of-hormuz",
-      "source": "Military.com",
-      "publishedAt": "2026-07-12T14:35:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Defiant Sen. Lindsey Graham laughed off Iran putting bullseye on his head days before his death",
@@ -139,60 +195,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US Senator Lindsey Graham, A Leading Republican Backer Of Ukraine, Dies At 71",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260712-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-12T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Footage from Lebanon: Terrorists approach launcher - and are eliminated",
       "url": "https://www.israelnationalnews.com/news/430025",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-07-12T11:58:26Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "NATO Is Going Strong, Actually",
-      "url": "https://www.theatlantic.com/international/2026/07/nato-alliance-trump-europe/687874/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-07-12T11:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Links 7/12/2026",
-      "url": "https://www.nakedcapitalism.com/2026/07/links-7-12-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-12T10:55:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian officer killed in US-Israeli strikes amid renewed 2026 hostilities",
-      "url": "https://cryptobriefing.com/iranian-officer-killed-in-us-israeli-strikes-amid-renewed-2026-hostilities/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-12T10:28:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran newspaper lists Trump, European leaders as revenge targets",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-newspaper-names-trump-and-european-leaders-as-targets-for-revenge/articleshow/132343555.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-12T09:40:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US attacks Iran over ship being hit in Strait of Hormuz",
-      "url": "https://www.hurriyetdailynews.com/us-attacks-iran-over-ship-being-hit-in-strait-of-hormuz-224263",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-12T08:55:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Lebanese Army to Deploy in South Lebanon Pilot Zones as Israeli Withdrawal Looms",
@@ -209,62 +217,6 @@
       "publishedAt": "2026-07-12T04:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "US officials in Lebanon for talks about on the withdrawal of Israel from the south of the country",
-      "url": "https://www.thejournal.ie/pilot-zones-us-military-idf-israel-occupation-of-lebanon-7098746-Jul2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-07-11T16:10:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "I created Iran's Islamic Revolutionary Guard Corps and watched it spiral into monstrous murder machine. I fled to the West... but I don't feel guilty",
-      "url": "https://www.dailymail.com/news/article-15959953/Iran-Islamic-Revolutionary-Guard-Corps-live-West-guilty.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-11T13:03:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "India vs. Pakistan: Why Islamabad’s Nuclear Posturing Perils the World",
-      "url": "https://www.fairobserver.com/region/central_south_asia/india-vs-pakistan-why-islamabads-nuclear-posturing-perils-the-world/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-07-11T12:12:13Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Saturday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/07/11/saturday-hili-dialogue-590/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-07-11T11:45:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "‘Sealed in blood’: Where does the China-North Korea alliance stand today?",
-      "url": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-11T08:21:20Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea condemns NATO summit, says denuclearisation should start with US allies",
-      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-condemns-nato-summit-says-denuclearisation-should-start-with-us-allies/articleshow/132324691.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-11T05:04:58Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Traffic Through The Strait Of Hormuz Is Way Below Pre-War Levels As Trump Is Briefed On Options For “All-Out War”",
-      "url": "https://www.activistpost.com/traffic-through-the-strait-of-hormuz-is-way-below-pre-war-levels-as-trump-is-briefed-on-options-for-all-out-war/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-07-11T00:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

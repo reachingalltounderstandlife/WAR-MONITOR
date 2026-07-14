@@ -1,38 +1,166 @@
 {
-  "updated": "2026-07-14T08:01:10Z",
-  "count": 27,
+  "updated": "2026-07-14T13:39:24Z",
+  "count": 30,
   "articles": [
     {
-      "title": "Renewed US-Iran war is hitting Gulf countries hard",
-      "url": "https://www.dw.com/en/iran-us-war-gulf-states-bahrain-uae-saudi-arabia-qatar-kuwait-strait-of-hormuz/a-77876781",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-13T08:01:00Z",
+      "title": "Lindsey Graham Chose Evil",
+      "url": "https://www.thenation.com/article/politics/lindsey-graham-obituary-trump/",
+      "source": "Thenation.com",
+      "publishedAt": "2026-07-13T13:21:57Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Lindsey Graham death dominates Iranian newspapers' front pages with ‘being sent to hell’ remark and ‘get ready for sudden death’ warning for Trump, Netanyahu and others",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/lindsey-graham-death-dominates-iranian-newspapers-front-pages-with-being-sent-to-hell-remark-and-get-ready-for-sudden-death-warning-for-trump-netanyahu-and-others/articleshow/132368000.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-13T13:19:25Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran escalates attacks on US bases in Gulf states, warns of more 'incidents' in strait",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-escalates-attacks-on-us-bases-in-gulf-states-warns-of-more-incidents-in-strait/article71216321.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-13T07:30:40Z",
+      "title": "Trump Threatens To Take Control Of Hormuz Strait After Fresh Round Of Attacks Rock The Gulf",
+      "url": "https://www.rferl.org/a/trump-threatens-to-take-control-of-hormuz-strait-after-fresh-round-of-attacks-rock-the-gulf/33802722.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-07-13T13:08:34Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East",
-      "url": "https://warontherocks.com/an-unlearned-lesson-the-sorry-record-of-regime-change-operations-in-the-middle-east/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-07-13T07:30:35Z",
+      "title": "Trump has 3 choices to define victory if he wants to beat Iran. None of them are easy",
+      "url": "https://www.foxnews.com/opinion/trump-3-choices-define-victory-beat-iran-none-easy",
+      "source": "Fox News",
+      "publishedAt": "2026-07-13T13:00:53Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "US aircraft nearly exposed Israel’s surprise strike on Iran in 2026 war",
-      "url": "https://cryptobriefing.com/us-aircraft-nearly-exposed-israels-surprise-strike-on-iran-in-2026-war/",
+      "title": "What will happen to Trump’s agenda after Lindsey Graham’s death?",
+      "url": "https://www.aljazeera.com/news/2026/7/13/what-will-happen-to-trumps-agenda-after-lindsey-grahams-death",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-13T12:41:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The War Trump Can’t Control",
+      "url": "https://www.theatlantic.com/podcasts/2026/07/ra-iran-reescalation/687849/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-07-13T12:40:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran missile strikes target US bases amid 2026 conflict escalation",
+      "url": "https://cryptobriefing.com/iran-missile-strikes-target-us-bases-amid-2026-conflict-escalation/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-07-13T07:20:39Z",
+      "publishedAt": "2026-07-13T12:38:05Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Trump Describes Saturday Night Phone Call With Lindsey Graham Hours Before Senator’s Death",
+      "url": "https://www.shtfplan.com/headline-news/trump-describes-saturday-night-phone-call-with-lindsey-graham-hours-before-senators-death",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-07-13T12:30:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "\"Iran Is Not Going to Capitulate\": Jeremy Scahill on Renewed War, Strait of Hormuz & More",
+      "url": "https://www.democracynow.org/2026/7/13/iran_war_scahill",
+      "source": "Democracy Now!",
+      "publishedAt": "2026-07-13T12:20:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran: Living in limbo between war and ceasefire",
+      "url": "https://www.dw.com/en/iran-living-in-limbo-between-war-and-ceasefire/a-77933549",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-13T12:18:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran: Life in limbo between war and ceasefire",
+      "url": "https://www.dw.com/en/iran-life-in-limbo-between-war-and-ceasefire/a-77933549",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-13T12:18:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "March to July: What’s different as US-Iran fighting escalates again?",
+      "url": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-13T12:12:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says US Blockade Of Hormuz Strait Back After Fresh Round Of Attacks Rock The Gulf",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260713-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-13T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "European Union adopts its largest-ever cyber sanctions package against Russia",
+      "url": "https://www.globalsecurity.org/security/library/news/2026/07/sec-260713-estonia-mfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-13T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Foreign Affairs Council in Brussels: Support for Ukraine, security in the Black Sea and the situation in the Middle East centre-stage",
+      "url": "https://www.globalsecurity.org/wmd/library/news/germany/2026/germany-260713-ffo01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-13T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Rocket shortage leaves Europe defenseless in space wars",
+      "url": "https://fortune.com/2026/07/13/rocket-shortage-leaves-europe-defenseless-in-space-wars/",
+      "source": "Fortune",
+      "publishedAt": "2026-07-13T11:18:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia and America Are Rediscovering the Limits of Nuclear Weapons",
+      "url": "https://www.theatlantic.com/ideas/2026/07/nuclear-weapons-limits-cold-war-deterrence/687883/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-07-13T11:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran War: What Happens When the US Hits the Limits of Escalation Options?",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-what-happens-when-the-us-hits-the-limits-of-escalation-options.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-13T10:54:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "NATO Is Still a Sick Puppy",
+      "url": "http://foreignpolicy.com/2026/07/13/nato-trump-europe-summit-ankara-alliance-russia-defense-geopolitics/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-07-13T09:30:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Allies to muster more air defence aid for Ukraine as battlefield momentum shifts",
+      "url": "https://www.yahoo.com/news/articles/allies-muster-more-air-defence-040206051.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-13T09:11:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "'Putin and his family might \"jump\" out of a window': Russian leader under growing pressure from oligarchs as Ukraine's strikes spark more petrol shortages and chaos",
@@ -47,110 +175,6 @@
       "url": "https://www.hurriyetdailynews.com/ukraine-allies-to-gather-in-paris-to-step-up-pressure-on-russia-224301",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-07-13T06:51:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran Attacks U.S. Bases in Four Countries After U.S. Airstrikes",
-      "url": "https://www.naturalnews.com/2026-07-13-iran-attacks-us-bases-in-four-countries.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-13T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine Unlikely to Produce Patriot Missiles Despite Trump’s License Promise, Sources Say",
-      "url": "https://www.naturalnews.com/2026-07-13-ukraine-unlikely-to-produce-patriot-missiles.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-13T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Zakharova Rejects Zelenskyâs Claims on Ukraineâs Air Defense Failures",
-      "url": "https://www.naturalnews.com/2026-07-13-zakharova-rejects-claims-on-ukraine-defense-failures.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-13T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ankara Declaration Signals Shift to NATO 3.0",
-      "url": "https://www.naturalnews.com/2026-07-13-ankara-declaration-signals-shift-to-nato-3.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-13T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO Summit in Ankara Launches Multiple Missile Production Programs Across Europe",
-      "url": "https://www.naturalnews.com/2026-07-13-nato-summit-launches-multiple-missile-production-programs-europe.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-13T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia escalates war tactics, raising NATO clash concerns",
-      "url": "https://cryptobriefing.com/russia-escalates-war-tactics-raising-nato-clash-concerns/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-13T05:41:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US military launches third night of strikes on Iran",
-      "url": "https://www.rte.ie/news/middle-east/2026/0713/1583036-us-iran-strait-hormuz/",
-      "source": "RTE",
-      "publishedAt": "2026-07-13T05:35:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Explosions reported in Iran’s Bandar Abbas amid regional tensions",
-      "url": "https://cryptobriefing.com/explosions-reported-in-irans-bandar-abbas-amid-regional-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-13T04:44:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Allies to muster more air defence aid for Ukraine as battlefield momentum shifts",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/allies-to-muster-more-air-defence-aid-for-ukraine-as-battlefield-momentum-shifts/articleshow/132356175.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-13T04:16:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO's Ankara Summit was more of a warning than an escape",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/natos-ankara-summit-was-more-of-a-warning-than-an-escape/articleshow/132356023.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-13T04:07:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The eight words behind Iran's claim over the Strait of Hormuz",
-      "url": "https://www.abc.net.au/news/2026-07-13/iran-and-united-states-mou-interpretation-strait-of-hormuz/106908594",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-13T02:54:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel to vote in October as Netanyahu support slips amid controversies",
-      "url": "https://www.abc.net.au/news/2026-07-13/israel-election-date-likely-to-be-in-october/106909014",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-13T02:38:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Top Republican breaks his silence on Lindsey Graham death conspiracies and details his grueling routine",
-      "url": "https://www.dailymail.com/news/article-15972219/Top-Republican-breaks-silence-Lindsey-Graham-death-conspiracies-details-grueling-routine.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-13T00:18:07Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

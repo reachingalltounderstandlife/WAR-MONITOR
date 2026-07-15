@@ -1,7 +1,127 @@
 {
-  "updated": "2026-07-15T13:40:04Z",
-  "count": 28,
+  "updated": "2026-07-15T19:08:07Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Trump Scraps Hormuz Toll Plan as U.S.-Iran Conflict Deepens",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Trump-Scraps-Hormuz-Toll-Plan-as-US-Iran-Conflict-Deepens.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-07-14T19:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US and Iran launch strikes as Trump reverses threat to tax ships passing through Strait of Hormuz",
+      "url": "https://www.thejournal.ie/us-and-iran-launch-strikes-trump-reverses-threat-tax-ships-passing-strait-of-hormuz-7101901-Jul2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-07-14T18:44:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s ex-campaign chief leads Israel-backed digital push for MAGA support in Iran war",
+      "url": "https://cryptobriefing.com/trumps-ex-campaign-chief-leads-israel-backed-digital-push-for-maga-support-in/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-14T18:23:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Europe’s military future is starting to take shape",
+      "url": "https://www.rt.com/news/643046-europe-military-future-nato/",
+      "source": "RT",
+      "publishedAt": "2026-07-14T18:09:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Celebrating 250 Years Of Pirateering… Err… “Profiteering” Presidents Of The American Empire",
+      "url": "https://www.activistpost.com/celebrating-250-years-of-pirateering-err-profiteering-presidents-of-the-american-empire/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-07-14T18:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine Intercepts Russian Ballistic Missiles",
+      "url": "https://www.breitbart.com/europe/2026/07/14/ukraine-intercepts-russian-ballistic-missiles/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-07-14T17:48:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "After Hormuz, Iran turns to Red Sea gateway as new pressure point",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/after-hormuz-iran-turns-to-red-sea-gateway-as-new-pressure-point/articleshow/132397784.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-14T17:37:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Bulgaria pulls out of coalition of Ukraine backers",
+      "url": "https://www.rt.com/news/643041-radev-bulgaria-out-coalition-ukraine/",
+      "source": "RT",
+      "publishedAt": "2026-07-14T16:10:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Leading Houthi threatens ‘siege’ on Saudi Arabia after Yemen airport attack",
+      "url": "https://www.aljazeera.com/news/2026/7/14/leading-houthi-threatens-siege-on-saudi-arabia-after-yemen-airport-attack",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-14T15:20:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why Iran shut the Strait of Hormuz after decades of holding back",
+      "url": "https://theconversation.com/why-iran-shut-the-strait-of-hormuz-after-decades-of-holding-back-287326",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-07-14T14:51:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Genocide of South Lebanon",
+      "url": "https://www.thenation.com/article/world/the-genocide-of-south-lebanon/",
+      "source": "Thenation.com",
+      "publishedAt": "2026-07-14T14:38:44Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Can US senator Lindsey Graham’s Ukraine initiatives survive without him?",
+      "url": "https://www.irishtimes.com/world/europe/2026/07/14/can-us-senator-lindsey-grahams-ukraine-initiatives-survive-without-him/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-14T14:28:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hostilities Between US and Iran Resumed. “The MoU is Over” Says Trump",
+      "url": "https://www.globalresearch.ca/hostilities-us-iran-resumed/5933269",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-14T14:23:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia-Ukraine war: What is Europe’s new ballistic missile shield plan?",
+      "url": "https://www.aljazeera.com/news/2026/7/14/russia-ukraine-war-what-is-europes-new-ballistic-missile-shield-plan",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-14T14:03:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Escalation: Why is Germany Buying Hundreds of U.S. ‘Tomahawk’ Cruise Missiles? “Permanent Deployment by The Bundeswehr”. Against Russia?",
+      "url": "https://www.globalresearch.ca/escalation-why-is-germany-buying-hundreds-of-u-s-tomahawk-cruise-missiles-permanent-deployment-by-the-bundeswehr-against-russia/5933255",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-14T13:47:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Day 1602 of WW3. US may move russia sanctions bill to honor Lindsey. This is your Tuesday Ukraine War discussion [News]",
       "url": "https://www.fark.com/comments/14130268/Day-1602-of-WW3-US-may-move-russia-sanctions-bill-to-honor-Lindsey-This-is-your-Tuesday-Ukraine-War-discussion",
@@ -47,24 +167,8 @@
       "url": "https://whyevolutionistrue.com/2026/07/14/tuesday-hili-dialogue-588/",
       "source": "Whyevolutionistrue.com",
       "publishedAt": "2026-07-14T11:45:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "AOC Meets World",
-      "url": "http://foreignpolicy.com/2026/07/14/aoc-progressive-foreign-policy-trump-democrats-taiwan-palestine-munich-2028/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-14T11:00:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Can Gulf countries defend themselves against renewed Iranian attacks?",
-      "url": "https://www.aljazeera.com/news/2026/7/14/can-gulf-countries-defend-themselves-against-renewed-iranian-attacks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-14T10:59:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran And U.S. Stage New Attacks, Battle Over Control Of Strait Of Hormuz",
@@ -75,60 +179,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "US unleashes third wave of punishing strikes on Iran in major five-hour mission with another attack planned TODAY as Trump reveals possible target",
-      "url": "https://freerepublic.com/focus/f-news/4387875/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-14T10:40:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Tehran retaliates across Mideast after U.S. restarts blockade",
-      "url": "https://www.cbc.ca/news/world/us-attacks-iran-tehran-blockade-9.7269216",
-      "source": "CBC News",
-      "publishedAt": "2026-07-14T10:35:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia redirects ships in Azov Sea after Ukraine strikes",
-      "url": "https://www.rte.ie/news/ukraine/2026/0714/1583281-ukraine-war/",
-      "source": "RTE",
-      "publishedAt": "2026-07-14T10:28:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "War and economic crisis frustrate efforts to protect Iran’s rich but endangered wildlife",
-      "url": "https://www.nationalobserver.com/2026/07/14/news/war-economic-crisis-frustrate-efforts-protect-irans-rich-endangered-wildlife",
-      "source": "National Observer",
-      "publishedAt": "2026-07-14T10:23:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Lebanon, Israel hold US-brokered talks in Rome to implement framework deal",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/lebanon-and-israel-resume-us-brokered-peace-talks-in-rome-amid-ongoing-conflict/articleshow/132387804.cms",
       "source": "The Times of India",
       "publishedAt": "2026-07-14T09:59:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US strikes Iran, vows to reimpose naval blockade",
-      "url": "https://www.vanguardngr.com/2026/07/us-strikes-iran-vows-to-reimpose-naval-blockade/",
-      "source": "Vanguard",
-      "publishedAt": "2026-07-14T09:52:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump's fiercest GOP critic became his most influential voice on war and peace",
-      "url": "https://www.foxnews.com/politics/trumps-fiercest-gop-critic-became-his-most-influential-voice-war-peace",
-      "source": "Fox News",
-      "publishedAt": "2026-07-14T09:45:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Companies linked to Iran and the Kremlin are approved by Home Office to sponsor work visas despite being under UK sanctions",
@@ -139,28 +195,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Nato Ankara Summit: why only a federal, unified EU can mount its own credible military defence",
-      "url": "https://theconversation.com/nato-ankara-summit-why-only-a-federal-unified-eu-can-mount-its-own-credible-military-defence-287401",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-07-14T08:42:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Lebanon and Israel hold talks in Rome amid renewed Mideast fighting",
       "url": "https://www.channelnewsasia.com/world/lebanon-israel-hezbollah-peace-talks-rome-us-iran-war-fighting-6253021",
       "source": "CNA",
       "publishedAt": "2026-07-14T08:35:01Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Stubb and Zelensky hold talks at gym",
-      "url": "https://yle.fi/a/74-20236259",
-      "source": "YLE News",
-      "publishedAt": "2026-07-14T07:39:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "US attacks Iran as Tehran fires at tankers in strait",
@@ -215,14 +255,6 @@
       "url": "https://www.theatlantic.com/podcasts/2026/07/ra-iran-reescalation/687849/",
       "source": "The Atlantic",
       "publishedAt": "2026-07-13T12:40:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "\"Iran Is Not Going to Capitulate\": Jeremy Scahill on Renewed War, Strait of Hormuz & More",
-      "url": "https://www.democracynow.org/2026/7/13/iran_war_scahill",
-      "source": "Democracy Now!",
-      "publishedAt": "2026-07-13T12:20:30Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

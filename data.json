@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-16T02:28:27Z",
-  "count": 28,
+  "updated": "2026-07-16T08:10:00Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "Before the Next Mythos Moment: The Case for an AI Threat Fusion Center",
+      "url": "https://warontherocks.com/before-the-next-mythos-moment-the-case-for-an-ai-threat-fusion-center/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-07-15T07:30:14Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Waiting for Hassan: Another Gaza doctor held by Israel without charge",
+      "url": "https://www.aljazeera.com/news/2026/7/15/waiting-for-hassan-another-gaza-doctor-held-by-israel-without-charge",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-15T06:55:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Tehran threatens to halt all Mideast energy exports after US reimposes its blockade on Iran",
+      "url": "https://www.thehindubusinessline.com/news/world/tehran-threatens-to-halt-all-mideast-energy-exports-after-us-reimposes-its-blockade-on-iran/article71224256.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-15T06:22:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US imposes another naval blockade on Iranian ports as row over Hormuz strait continues",
+      "url": "https://www.thejournal.ie/us-blockade-iranian-ports-7102217-Jul2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-07-15T06:00:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump's actions in Iran this week show the world he's run out of options",
+      "url": "https://www.abc.net.au/news/2026-07-15/trumps-actions-in-iran-show-hes-run-out-of-options/106917168",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-07-15T06:00:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Tucker Carlson Exposes How Endless War Is An Engine of Corruption and Control on “Decentralize TV”",
+      "url": "https://www.naturalnews.com/2026-07-15-tucker-carlson-endless-war-engine-corruption-control.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-15T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Downstream Risks From Trump’s War With Iran",
+      "url": "https://www.naturalnews.com/2026-07-15-downstream-risks-from-trumps-war-with-iran.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-15T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Tehran threatens to block more vital seaways as Trump orders renewed Iran blockade",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/15/tehran-threatens-to-block-more-vital-seaways-as-trump-orders-renewed-iran-blockade/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-15T05:27:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Tehran threatens to halt all Mideast energy exports after US reimposes its blockade on Iran",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/tehran-threatens-to-halt-all-mideast-energy-exports-after-us-reimposes-its-blockade-on-iran/articleshow/132406957.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-15T05:17:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Let's Not Negotiate': Trump Uses Bizarre Logic After Renewed Strikes On Iran",
+      "url": "https://www.huffpost.com/entry/donald-trump-iran-dont-want-to-negotiate_n_6a56d699e4b0540b8c7b6990",
+      "source": "HuffPost",
+      "publishedAt": "2026-07-15T05:09:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why Europe is suddenly betting big on drones",
+      "url": "https://www.cnbc.com/2026/07/15/drones-defense-europe-autonomous-weapons.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-15T05:05:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran and US strike sites that signal how each is willing to raise the stakes",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/15/iran-and-us-strike-sites-that-signal-how-each-is-willing-to-raise-the-stakes/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-15T05:00:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO Is Splitting in Two",
+      "url": "http://foreignpolicy.com/2026/07/15/nato-future-ankara-summit/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-07-15T04:01:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanese security detains alleged Israeli spy inside Hezbollah network",
+      "url": "https://www.israelnationalnews.com/news/430181",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-15T03:23:14Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Lowering the nuclear threshold: Is NATO’s new ‘deterrence’ initiative a path to disaster?",
       "url": "https://www.rt.com/news/643068-nato-nuclear-sharing-disaster/",
@@ -11,76 +123,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US Senate Democrats block $1.15 trillion defense bill over Iran war objections",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-senate-democrats-block-1-15-trillion-defense-bill-over-iran-war-objections/articleshow/132403747.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-15T01:26:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US launches fresh Iran strikes, reimposes naval blockade",
-      "url": "https://www.rte.ie/news/middle-east/2026/0715/1583399-middle-east/",
-      "source": "RTE",
-      "publishedAt": "2026-07-15T00:26:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Who Really Controls the Strait of Hormuz?",
-      "url": "https://www.theatlantic.com/newsletters/2026/07/who-controls-strait-of-hormuz/687920/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-07-14T23:32:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war: Tehran says it 'never welcomed war'",
-      "url": "https://www.dw.com/en/iran-war-tehran-says-it-never-welcomed-war/live-77960667",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-14T23:24:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trumps Says Strikes On Iran To Continue As Battle Over Strait Of Hormuz Escalates",
-      "url": "https://www.rferl.org/a/trumps-strikes-iran-battle-strait-of-hormuz-escalates/33803719.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-07-14T23:11:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran launches ballistic missiles from Tabriz and Urmia as Middle East conflict intensifies",
-      "url": "https://cryptobriefing.com/iran-ballistic-missiles-tabriz-urmia-crypto-impact/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-14T23:10:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Gen. Dan Caine pleads with defense contractors to build weapons ‘faster’",
       "url": "https://nypost.com/2026/07/14/world-news/gen-dan-caine-pleads-with-defense-contractors-to-build-weapons-faster/",
       "source": "New York Post",
       "publishedAt": "2026-07-14T22:10:34Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Langley F-22s Return Home from Operation Epic Fury Deployment",
-      "url": "https://theaviationist.com/2026/07/14/langley-f22s-return-epic-fury/",
-      "source": "Theaviationist.com",
-      "publishedAt": "2026-07-14T21:49:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran vows to defend every inch of territory amid military challenges",
-      "url": "https://cryptobriefing.com/iran-vows-to-defend-every-inch-of-territory-amid-military-challenges/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-14T21:48:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Victor Davis Hanson: The World Is Becoming More Pro-American Than It Has Been in Years",
@@ -97,22 +145,6 @@
       "publishedAt": "2026-07-14T20:38:16Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "The Battle For The Strait Of Hormuz Will Show Whether The World Can Survive Without Oil From The Persian Gulf Or Not",
-      "url": "http://theeconomiccollapseblog.com/the-battle-for-the-strait-of-hormuz-will-show-whether-the-world-can-survive-without-oil-from-the-persian-gulf-or-not/",
-      "source": "Theeconomiccollapseblog.com",
-      "publishedAt": "2026-07-14T20:32:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
-      "url": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-14T20:17:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "France licenses missile production in Ukraine",
@@ -135,30 +167,6 @@
       "url": "https://www.rt.com/news/643046-europe-military-future-nato/",
       "source": "RT",
       "publishedAt": "2026-07-14T18:09:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Celebrating 250 Years Of Pirateering… Err… “Profiteering” Presidents Of The American Empire",
-      "url": "https://www.activistpost.com/celebrating-250-years-of-pirateering-err-profiteering-presidents-of-the-american-empire/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-07-14T18:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine Intercepts Russian Ballistic Missiles",
-      "url": "https://www.breitbart.com/europe/2026/07/14/ukraine-intercepts-russian-ballistic-missiles/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-07-14T17:48:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Bulgaria pulls out of coalition of Ukraine backers",
-      "url": "https://www.rt.com/news/643041-radev-bulgaria-out-coalition-ukraine/",
-      "source": "RT",
-      "publishedAt": "2026-07-14T16:10:56Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

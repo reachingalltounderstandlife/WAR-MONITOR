@@ -1,118 +1,190 @@
 {
-  "updated": "2026-07-17T08:07:19Z",
+  "updated": "2026-07-17T13:24:01Z",
   "count": 31,
   "articles": [
     {
-      "title": "US will not win Iran war from the air, says Trump’s former defence secretary",
-      "url": "https://www.irishtimes.com/world/2026/07/16/us-will-not-win-iran-war-from-the-air-says-trumps-former-defence-secretary/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-16T08:05:55Z",
+      "title": "US expands strikes into Tehran area as Iran threatens to ‘resist until the end’",
+      "url": "https://freerepublic.com/focus/f-news/4388171/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-16T13:20:50Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Lindsey Graham’s Passing Exposes Futility of Anti-Russia Hysteria",
+      "url": "https://www.globalresearch.ca/lindsey-graham-passing-exposes-futility-anti-russia-hysteria/5933404",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-16T13:15:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Retaliates Striking Pentagon Bases in Bahrain, Kuwait and Jordan",
+      "url": "https://www.globalresearch.ca/iran-retaliates-striking-pentagon-bases-bahrain-kuwait-jordan/5933472",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-16T13:12:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Despite Ukraine’s Victories, False Narratives About The War Persist",
+      "url": "https://www.forbes.com/sites/marktemnycky/2026/07/16/despite-ukraines-victories-false-narratives-about-the-war-persist/",
+      "source": "Forbes",
+      "publishedAt": "2026-07-16T13:00:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Downstream Risks From Trump’s War With Iran",
+      "url": "https://www.shtfplan.com/headline-news/downstream-risks-from-trumps-war-with-iran",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-07-16T12:30:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine is ousting its pro-tech defense minister after just 6 months. Troops fear it's a monumental victory for Russia.",
+      "url": "https://www.businessinsider.com/ukraine-pro-tech-defense-minister-out-troops-fear-victory-russia-2026-7",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-16T12:01:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine is ousting its pro-tech defense minister after just 6 months. Troops fear it's a monumental victory for Russia.",
+      "url": "https://www.businessinsider.com/ukraine-pro-tech-defense-minister-out-troops-fear-victory-russia-2026-7#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-16T12:01:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "PM's remarks at Kyiv press conference: 16 July 2026",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260716-ukgov03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-16T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia's aggression is the root cause of insecurity: UK statement to the OSCE",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260716-ukfcdo03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-16T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Shaheen Joins Blumenthal and Darline Graham in Introducing Legislation with 60+ Cosponsors to Hold Purchasers of Russian Oil Accountable",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/07/russia-260716-sfrc01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-16T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Prime Minister commits €300 million to fund fighter jets for Ukraine - backing British jobs and bolstering Ukraine's defence",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260716-ukgov01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-16T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Prime Minister commits €300 million to fund fighter jets for Ukraine - backing British jobs and bolstering Ukraine’s defence",
+      "url": "https://www.gov.uk/government/news/prime-minister-commits-300-million-to-fund-fighter-jets-for-ukraine-backing-british-jobs-and-bolstering-ukraines-defence",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-07-16T11:58:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel learned from Iran's missile attacks that it needs far more interceptors than expected. 'It's a race,' missile chief says.",
+      "url": "https://www.businessinsider.com/israel-learned-more-interceptors-needed-iran-missile-chief-2026-7#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-16T11:31:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "WSJ: Trump considers expanding strikes on Iran – Risks of operations targeting Pickaxe mountain & Kharg island",
+      "url": "https://en.protothema.gr/2026/07/16/wsj-trump-considers-expanding-strikes-on-iran-risks-of-operations-targeting-pickaxe-mountain-kharg-island/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-07-16T11:14:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel’s economy shrinks 3.8% in Q1 as Iran conflict hammers consumer spending",
+      "url": "https://cryptobriefing.com/israel-economy-shrinks-q1-iran-war/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-16T11:07:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 7/16/2026",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-16-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-16T10:58:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Europe's investment in defence is a response to Russian aggression: UK statement to the OSCE",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260716-ukfcdo01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-16T10:37:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Warns Strait of Hormuz Is a ‘Red Line’ and Will Resist Until the End",
+      "url": "https://www.insurancejournal.com/news/international/2026/07/16/877825.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-07-16T10:04:33Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US Expands Strikes into Northern Iran and Disables Ship Trying to Run Blockade",
+      "url": "https://military.com/us-expands-strikes-into-northern-iran-and-disables-ship-trying-to-run-blockade",
+      "source": "Military.com",
+      "publishedAt": "2026-07-16T10:01:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US hits tanker with hellfire missiles  while Iran 'targets American bases across the Gulf' as Trump 'considers expanding military operations'",
+      "url": "https://www.dailymail.com/news/article-15981691/US-hits-tanker-hellfire-missiles-Iran-targets-American-bases-Gulf-Trump-considers-expanding-military-operations.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-16T09:42:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "MORNING GLORY: I asked Trump if he was prepared to remove Iran’s new leaders",
+      "url": "https://www.foxnews.com/opinion/morning-glory-asked-trump-prepared-remove-irans-new-leaders",
+      "source": "Fox News",
+      "publishedAt": "2026-07-16T09:00:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran warns Strait of Hormuz is a ‘red line’ and will resist until the end",
+      "url": "https://nypost.com/2026/07/16/world-news/iran-warns-strait-of-hormuz-is-a-red-line-and-will-resist-until-the-end/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-16T08:58:29Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran warns Strait of Hormuz is a 'red line' and will resist until the end",
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-warns-strait-of-hormuz-is-a-red-line-and-will-resist-until-the-end/articleshow/132433213.cms",
       "source": "The Times of India",
       "publishedAt": "2026-07-16T08:05:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Europe’s investment in defence is a response to Russian aggression: UK statement to the OSCE",
-      "url": "https://www.gov.uk/government/speeches/europes-investment-in-defence-is-a-response-to-russian-aggression-uk-statement-to-the-osce",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-07-16T07:42:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Peace That Redistributes War: What Camp David Reveals About Lebanon and Iran",
-      "url": "https://warontherocks.com/the-peace-that-redistributes-war-what-camp-david-reveals-about-lebanon-and-iran/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-07-16T07:30:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US expands strikes into northern Iran and disables ship trying to run blockade",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-launches-strikes-in-northern-iran-and-engages-ship-defying-blockade-amid-escalating-tensions/articleshow/132432429.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-16T07:23:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran exchange blows in rekindled Mideast war",
-      "url": "https://www.hurriyetdailynews.com/us-iran-exchange-blows-in-rekindled-mideast-war-224429",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-16T07:06:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US air strikes hit northern Iran as it disables ship trying to breach blockade",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/07/16/us-air-strikes-hit-northern-iran-as-it-disables-ship-trying-to-breach-blockade/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-16T06:18:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia strikes Ukraine as outgoing British leader Keir Starmer heads to Kyiv",
-      "url": "https://www.cnn.com/2026/07/16/europe/russia-ukraine-attack-keir-starmer-visit-intl-hnk",
-      "source": "CNN",
-      "publishedAt": "2026-07-16T06:04:54Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Stars and Swipes: Lindsey Graham was a consummate political survivor who followed the power",
-      "url": "https://www.thejournal.ie/readme/lindsey-graham-donald-trump-7102705-Jul2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-07-16T06:00:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "It’s All Been Done Before",
-      "url": "https://smallwarsjournal.com/2026/07/16/its-all-been-done-before/",
-      "source": "Smallwarsjournal.com",
-      "publishedAt": "2026-07-16T06:00:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "U.S. Troops to Leave Iraq by End of September, Ending 23-Year Deployment",
-      "url": "https://www.naturalnews.com/2026-07-16-us-troops-leave-iraq-end-of-september.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-16T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Nuclear Fallout + Vaccine Spike Protein: The DNA-Destroying Depopulation Weapon Youâre Not Supposed to Recognize",
-      "url": "https://www.naturalnews.com/2026-07-16-nuclear-fallout-vaccine-spike-protein-dna-destroying-depopulation.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-16T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Strait of Hormuz closure tests Iran-Oman alliance as US-Israeli war escalates into regional crisis",
-      "url": "https://www.naturalnews.com/2026-07-16-strait-of-hormuz-closure-tests-iran-oman-alliance.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-16T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US strikes expand into northern Iran as it disables ship trying to run blockade",
-      "url": "https://abcnews.com/US/wireStory/us-strikes-expand-northern-iran-disables-ship-run-134805777",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-16T05:28:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran No Longer Bound by MoU, Adjusts Tactics",
@@ -139,82 +211,10 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Washington’s Two Rogue Allies in the Middle East Face Off",
-      "url": "https://original.antiwar.com/ted_galen_carpenter/2026/07/15/washingtons-two-rogue-allies-in-the-middle-east-face-off/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-07-16T00:00:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "EXCLUSIVE: Pence pushes to rename bill for Lindsey Graham, recalls final talk: 'Bring Putin to the table'",
-      "url": "https://www.foxnews.com/politics/exclusive-pence-pushes-rename-bill-lindsey-graham-recalls-final-talk-bring-putin-table",
-      "source": "Fox News",
-      "publishedAt": "2026-07-15T23:31:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia launches ballistic missile attack on Kyiv as crypto markets shrug off escalation",
-      "url": "https://cryptobriefing.com/russia-kyiv-missile-attack-crypto-markets/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-15T23:17:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Democrats’ deepening Israel divisions: From the Politics Desk",
-      "url": "https://www.nbcnews.com/politics/politics-news/democrats-deepening-israel-divisions-politics-desk-rcna587725",
-      "source": "NBC News",
-      "publishedAt": "2026-07-15T21:53:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control",
-      "url": "https://www.foxnews.com/world/watch-russian-soldier-thrown-through-air-soviet-era-helicopter-gun-spins-out-control",
-      "source": "Fox News",
-      "publishedAt": "2026-07-15T19:37:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Benjamin Netanyahu sends warning to Iran against attacking Israel: ‘We will respond with power’",
       "url": "https://nypost.com/2026/07/15/world-news/netanyahu-warns-iran-against-attacking-israel-we-will-respond-with-power/",
       "source": "New York Post",
       "publishedAt": "2026-07-15T18:45:27Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon and Israel conclude Rome talks on establishing “Pilot Zones”",
-      "url": "https://en.protothema.gr/2026/07/15/lebanon-and-israel-conclude-rome-talks-on-establishing-pilot-zones/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-07-15T18:39:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon and Israel end sixth round of US-brokered talks",
-      "url": "https://www.aljazeera.com/news/2026/7/15/lebanon-and-israel-end-sixth-round-of-us-brokered",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-15T18:34:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Tells Israel To Leave Lebanon, While Hypocritically Increasing Strikes On Iran",
-      "url": "https://www.shtfplan.com/war/trump-tells-israel-to-leave-lebanon-while-hypocritically-increasing-strikes-on-iran",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-07-15T17:30:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel and Lebanon agree on pilot zones for Hezbollah disarmament as IDF withdrawal looms within days",
-      "url": "https://cryptobriefing.com/israel-lebanon-hezbollah-disarmament-crypto-impact/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-15T16:39:29Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

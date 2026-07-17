@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-16T19:06:45Z",
+  "updated": "2026-07-17T02:31:20Z",
   "count": 30,
   "articles": [
+    {
+      "title": "US intensifies strikes on Iran as fighting spreads across the Gulf and Strait of Hormuz",
+      "url": "https://www.thehindubusinessline.com/news/world/us-intensifies-strikes-on-iran-as-fighting-spreads-across-the-gulf-and-strait-of-hormuz/article71228343.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-16T02:29:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US military says it completed latest strikes on Iran, targets included Bandar Abbas",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-military-says-it-completed-latest-strikes-on-iran-targets-included-bandar-abbas/articleshow/132427915.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-16T02:25:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US broadens Iran offensive; Tehran strikes Bahrain, Kuwait",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-broadens-iran-offensive-tehran-strikes-bahrain-kuwait/articleshow/132427693.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-16T02:01:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US strikes Iran again as Tehran warns of 'existential war' with America",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-strikes-iran-again-as-tehran-warns-of-existential-war-with-america/articleshow/132427415.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-16T01:11:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Washington’s Two Rogue Allies in the Middle East Face Off",
+      "url": "https://original.antiwar.com/ted_galen_carpenter/2026/07/15/washingtons-two-rogue-allies-in-the-middle-east-face-off/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-07-16T00:00:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US inflation eases in June on lower energy costs",
+      "url": "https://punchng.com/us-inflation-eases-in-june-on-lower-energy-costs/",
+      "source": "The Punch",
+      "publishedAt": "2026-07-15T23:52:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "EXCLUSIVE: Pence pushes to rename bill for Lindsey Graham, recalls final talk: 'Bring Putin to the table'",
+      "url": "https://www.foxnews.com/politics/exclusive-pence-pushes-rename-bill-lindsey-graham-recalls-final-talk-bring-putin-table",
+      "source": "Fox News",
+      "publishedAt": "2026-07-15T23:31:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia launches ballistic missile attack on Kyiv as crypto markets shrug off escalation",
+      "url": "https://cryptobriefing.com/russia-kyiv-missile-attack-crypto-markets/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-15T23:17:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Democrats’ deepening Israel divisions: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/democrats-deepening-israel-divisions-politics-desk-rcna587725",
+      "source": "NBC News",
+      "publishedAt": "2026-07-15T21:53:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran says peace deal voided, fighting ‘existential war’ after US attacks",
+      "url": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-15T21:46:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War Latest: U.S. carries out new wave of strikes in escalating battle over Strait of Hormuz - CBS News",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184472270",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-15T19:53:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US reports ‘wave of strikes’ on Iran as war returns",
+      "url": "https://www.vanguardngr.com/2026/07/us-reports-wave-of-strikes-on-iran-as-war-returns-2/",
+      "source": "Vanguard",
+      "publishedAt": "2026-07-15T19:39:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control",
+      "url": "https://www.foxnews.com/world/watch-russian-soldier-thrown-through-air-soviet-era-helicopter-gun-spins-out-control",
+      "source": "Fox News",
+      "publishedAt": "2026-07-15T19:37:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine Isn’t Waiting Around for Patriots",
+      "url": "http://foreignpolicy.com/2026/07/15/ukraine-ballistic-missile-freyja-patriot-europe-france/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-07-15T19:27:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Benjamin Netanyahu sends warning to Iran against attacking Israel: ‘We will respond with power’",
       "url": "https://nypost.com/2026/07/15/world-news/netanyahu-warns-iran-against-attacking-israel-we-will-respond-with-power/",
@@ -43,20 +155,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Mapping the latest US strikes across Iran",
-      "url": "https://www.aljazeera.com/news/2026/7/15/mapping-the-latest-us-strikes-across-iran",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-15T17:38:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump Tells Israel To Leave Lebanon, While Hypocritically Increasing Strikes On Iran",
       "url": "https://www.shtfplan.com/war/trump-tells-israel-to-leave-lebanon-while-hypocritically-increasing-strikes-on-iran",
       "source": "Shtfplan.com",
       "publishedAt": "2026-07-15T17:30:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Ukraine drone strikes pressure Russia’s energy sector, fuel shortages emerge",
@@ -67,44 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran closes Strait of Hormuz amid US, Israel conflict",
-      "url": "https://cryptobriefing.com/iran-closes-strait-of-hormuz-amid-us-israel-conflict/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-15T16:42:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel and Lebanon agree on pilot zones for Hezbollah disarmament as IDF withdrawal looms within days",
       "url": "https://cryptobriefing.com/israel-lebanon-hezbollah-disarmament-crypto-impact/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-07-15T16:39:29Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "US eases UAE access to coveted AI chips after Gulf nation provided help in Iran war",
-      "url": "https://nypost.com/2026/07/15/business/us-eases-uae-access-to-ai-chips-after-providing-help-in-iran-war/",
-      "source": "New York Post",
-      "publishedAt": "2026-07-15T16:14:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran FM visits Qatar days after Iranian attacks",
-      "url": "https://www.vanguardngr.com/2026/07/iran-fm-visits-qatar-days-after-iranian-attacks/",
-      "source": "Vanguard",
-      "publishedAt": "2026-07-15T16:06:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia’s Wartime Support for Iran",
-      "url": "https://freerepublic.com/focus/f-chat/4388062/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-15T15:53:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "What is Pickaxe Mountain, the site threatened by Trump?",
@@ -119,16 +191,8 @@
       "url": "https://www.aljazeera.com/economy/2026/7/15/how-us-iran-escalation-will-test-iraqs-balancing-act",
       "source": "Al Jazeera English",
       "publishedAt": "2026-07-15T15:03:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Says The Quiet Part Out Loud About Ending War With Iran",
-      "url": "https://crooksandliars.com/2026/07/trump-says-quiet-part-loud-about-ending",
-      "source": "Crooksandliars.com",
-      "publishedAt": "2026-07-15T15:00:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "REVEALED: CHINA'S PLAN TO BOMB AMERICAN WARSHIPS",
@@ -139,60 +203,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Russia escalates air campaign as Ukraine faces political upheaval",
-      "url": "https://cryptobriefing.com/russia-escalates-air-campaign-as-ukraine-faces-political-upheaval/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-15T14:39:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Baltics and Poland warn Russia could launch limited military or hybrid provocation against NATO",
-      "url": "https://abcnews.com/International/wireStory/baltics-poland-warn-russia-launch-limited-military-hybrid-134779778",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-15T14:31:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Baltics and Poland warn Russia could launch limited military or hybrid provocation against NATO",
-      "url": "https://abcnews.com/Business/wireStory/baltics-poland-warn-russia-launch-limited-military-hybrid-134782600",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-15T14:30:54Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Kremlin warns foreign troops in Ukraine are legitimate targets amid tensions",
-      "url": "https://cryptobriefing.com/kremlin-warns-foreign-troops-in-ukraine-are-legitimate-targets-amid-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-15T14:23:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran Threatens Wider Energy Chokepoints After Fresh U.S. Strikes",
       "url": "https://gcaptain.com/iran-threatens-wider-energy-chokepoints-after-fresh-u-s-strikes/",
       "source": "gcaptain.com",
       "publishedAt": "2026-07-15T13:44:56Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "NATO’s Flurry of Production Licenses for Kiev Regime – Escalation or Masked Betrayal?",
-      "url": "https://www.globalresearch.ca/natos-flurry-of-production-licenses-for-kiev-regime-escalation-or-masked-betrayal/5933364",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-15T13:14:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "As the US restarts war on Iran, is its weapons stockpile running low?",
-      "url": "https://www.aljazeera.com/news/2026/7/15/as-the-us-restarts-war-on-iran-is-its-weapons-stockpile-running-low",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-15T12:55:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran Threatens to Block More Vital Seaways as Trump Orders Renewed Iran Blockade",
@@ -219,26 +235,10 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Trump's actions in Iran this week show the world he's run out of options",
-      "url": "https://www.abc.net.au/news/2026-07-15/trumps-actions-in-iran-show-hes-run-out-of-options/106917168",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-15T06:00:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Lowering the nuclear threshold: Is NATO’s new ‘deterrence’ initiative a path to disaster?",
       "url": "https://www.rt.com/news/643068-nato-nuclear-sharing-disaster/",
       "source": "RT",
       "publishedAt": "2026-07-15T01:49:23Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Companies linked to Iran and the Kremlin are approved by Home Office to sponsor work visas despite being under UK sanctions",
-      "url": "https://www.dailymail.com/news/article-15964703/Companies-linked-Iran-Kremlin-approved-Home-Office-sponsor-work-visas-despite-UK-sanctions.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-14T08:48:20Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
     }

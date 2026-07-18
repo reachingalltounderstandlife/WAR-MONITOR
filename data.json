@@ -1,28 +1,108 @@
 {
-  "updated": "2026-07-18T07:46:36Z",
+  "updated": "2026-07-18T13:11:07Z",
   "count": 27,
   "articles": [
     {
-      "title": "US hits bridges and collapses tower at key Iranian port as it expands airstrike campaign",
-      "url": "https://nypost.com/2026/07/17/world-news/us-hits-bridges-and-collapses-tower-at-key-iranian-port-as-it-expands-airstrike-campaign/",
-      "source": "New York Post",
-      "publishedAt": "2026-07-17T06:23:41Z",
+      "title": "China, North Korea Exchange High-Level Visits",
+      "url": "https://thediplomat.com/2026/07/china-north-korea-exchange-high-level-visits/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-07-17T12:29:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "EU-Japan-South Korea Cooperation Is Indispensable Now",
+      "url": "https://thediplomat.com/2026/07/eu-japan-south-korea-cooperation-is-indispensable-now/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-07-17T12:08:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260717-unnews01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-17T12:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "US airstrikes hit dozens of Iranian targets in sixth night of new attacks as Donald Trump insists: 'We are winning big in Iran'",
-      "url": "https://www.dailymail.com/news/article-15984337/US-airstrikes-dozens-Iranian-targets-new-attacks.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-17T06:07:54Z",
+      "title": "Iranians Send Anti-War Message To Hard-Liners With Rare Petition",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260717-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-17T12:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran warns of blocking regional oil exports after claiming strike on U.S. Navy in Bahrain",
-      "url": "https://www.naturalnews.com/2026-07-17-iran-warns-of-blocking-regional-oil-exports.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-17T06:00:00Z",
+      "title": "Looking to Expand Surveillance? Is the World Just Losing Its Mind?",
+      "url": "https://www.activistpost.com/looking-to-expand-surveillance-is-the-world-just-losing-its-mind/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-07-17T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Conclusion of the Franco-German Defence and Security Council.",
+      "url": "https://www.globalsecurity.org/wmd/library/news/france/2026/france-260717-elysee02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-17T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iranians Send Anti-War Message To Hard-Liners With Rare Petition",
+      "url": "https://www.rferl.org/a/iran-anti-war-message-hardliners-rare-petition/33805712.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-07-17T11:29:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia’s Arms Buyers Rejoice Over Trump’s Deal With Turkey",
+      "url": "http://foreignpolicy.com/2026/07/17/trump-russia-turkey-arms-sales-caatsa-sanctions-india-erdogan-f35/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-07-17T11:27:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran attacks US airbase in Bahrain amid escalating conflict",
+      "url": "https://cryptobriefing.com/iran-attacks-us-airbase-in-bahrain-amid-escalating-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-17T11:13:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Strikes Bridges and Collapses a Tower at a Key Port as Its Iran Campaign Expands",
+      "url": "https://military.com/us-strikes-bridges-and-collapses-a-tower-at-a-key-port-as-its-iran-campaign-expands",
+      "source": "Military.com",
+      "publishedAt": "2026-07-17T10:02:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s Formula for Forever Wars",
+      "url": "https://theintercept.com/2026/07/17/spencer-ackerman-lindsey-graham-iran-war/",
+      "source": "The Intercept",
+      "publishedAt": "2026-07-17T10:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/7/17/germany-repeats-call-for-eu-force-to-replace-un-peacekeepers-in-lebanon",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-17T09:24:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: US Sixth Wave of Escalation Strikes Hits Bridges, Civilian Infrastructure, More Promised Next Week; Iran Hits Bahrain Refinery, Signaling Ability to Destroy Gulf Energy Assets; Closure of Bab el-Mandeb Strait Expected",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-us-sixth-wave-of-escalation-strikes-hits-bridges-civilian-infrastructure-more-promised-next-week-iran-hits-bahrain-refinery-signaling-ability-to-destroy-gulf-energy-assets-closure-of-ba.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-17T09:18:18Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -39,48 +119,8 @@
       "url": "https://www.israelnationalnews.com/news/430316",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-07-17T05:25:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Iran escalate strikes across Mideast",
-      "url": "https://www.yahoo.com/news/world/articles/ml--iran-us-041126104.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-17T04:11:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Is JD Vance becoming the love child of Bernie Sanders and Tucker Carlson?",
-      "url": "https://www.americanthinker.com/blog/2026/07/is-jd-vance-becoming-the-love-child-of-bernie-sanders-and-tucker-carlson/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-07-17T04:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel steps up campaign to kill all 5,000 Oct. 7 terrorists; 1,200 were killed on the day, 1,500 so far since",
-      "url": "https://freerepublic.com/focus/f-news/4388265/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-17T02:58:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran claims drone attacks on US sites in Kuwait amid 2026 war escalation",
-      "url": "https://cryptobriefing.com/iran-claims-drone-attacks-on-us-sites-in-kuwait-amid-2026-war-escalation/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-17T02:54:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US military says it completed latest strikes on Iran, marking 6th consecutive night of attacks",
-      "url": "https://www.yahoo.com/news/politics/articles/us-military-says-completed-latest-023024185.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-17T02:30:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Drone Assassination Attempts Directed against President V. Putin. Senator L. Graham in Ankara and Kiev",
@@ -131,44 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Ukraine will build 5M drones in 2026. NATO must learn how: deputy commander",
-      "url": "https://www.defenseone.com/threats/2026/07/ukraine-will-build-more-5-million-drones-year-nato-must-take-notes-deputy-chief-says/414819/",
-      "source": "Defense One",
-      "publishedAt": "2026-07-16T16:50:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Mass protests erupt in Ukraine as Zelensky fires popular defence minister",
-      "url": "https://www.dailymail.com/news/article-15982771/Mass-protests-erupt-Ukraine-Zelensky-fires-popular-defence-minister.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-16T15:29:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "PM's remarks at Kyiv press conference: 16 July 2026",
-      "url": "https://www.gov.uk/government/speeches/pms-remarks-at-kyiv-press-conference-16-july-2026",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-07-16T14:38:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "A Divided World Is North Korea’s Greatest Asset",
       "url": "http://foreignpolicy.com/2026/07/16/north-korea-sanctions-nuclear-weapons-united-states-russia-china-united-nations-security-council/",
       "source": "Foreign Policy",
       "publishedAt": "2026-07-16T14:02:45Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Russia’s aggression is the root cause of insecurity: UK statement to the OSCE",
-      "url": "https://www.gov.uk/government/speeches/russias-aggression-is-the-root-cause-of-insecurity-uk-statement-to-the-osce",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-07-16T13:49:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Could Bab Al-Mandeb Be The Next Strait Of Hormuz? Iran Reportedly Asked Houthis To Prepare Closure",
@@ -207,14 +215,6 @@
       "url": "https://nypost.com/2026/07/16/world-news/iran-warns-strait-of-hormuz-is-a-red-line-and-will-resist-until-the-end/",
       "source": "New York Post",
       "publishedAt": "2026-07-16T08:58:29Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran warns Strait of Hormuz is a 'red line' and will resist until the end",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-warns-strait-of-hormuz-is-a-red-line-and-will-resist-until-the-end/articleshow/132433213.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-16T08:05:20Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

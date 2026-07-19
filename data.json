@@ -1,46 +1,78 @@
 {
-  "updated": "2026-07-19T13:14:11Z",
-  "count": 23,
+  "updated": "2026-07-19T19:03:17Z",
+  "count": 24,
   "articles": [
     {
-      "title": "Iran strikes Saudi Arabia for first time in months: FT",
-      "url": "https://cryptobriefing.com/iran-strikes-saudi-arabia-for-first-time-in-months-ft/",
+      "title": "SUPREME LEADER WARNING",
+      "url": "https://www.pbs.org/newshour/world/irans-supreme-leader-in-a-new-statement-warns-of-unforgettable-lessons-if-u-s-continues-attacks",
+      "source": "PBS",
+      "publishedAt": "2026-07-18T18:28:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US military says two service members killed in Iranian strike in Jordan",
+      "url": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-18T18:04:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
+      "url": "https://freerepublic.com/focus/f-news/4388465/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-18T18:02:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
+      "url": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-18T17:35:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US strikes Iran after 2 service members killed in Jordan",
+      "url": "https://www.dw.com/en/us-strikes-iran-after-2-service-members-killed-in-jordan/live-78015388",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-18T17:28:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "SUPREME LEADER WARNING",
+      "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-18-2026-5adfef67554652580963684d9a663af2",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-18T17:22:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What to expect after the US reimposes naval blockade on Iran’s ports?",
+      "url": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-18T16:47:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran strikes Kuwait desalination plants as Strait of Hormuz conflict deepens",
+      "url": "https://cryptobriefing.com/iran-kuwait-desalination-strikes-hormuz-crypto-markets/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-07-18T12:50:01Z",
+      "publishedAt": "2026-07-18T14:53:03Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "US-Iran fighting escalates with infrastructure targeted",
-      "url": "https://www.vanguardngr.com/2026/07/us-iran-fighting-escalates-with-infrastructure-targeted/",
-      "source": "Vanguard",
-      "publishedAt": "2026-07-18T12:28:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Tensions escalate as Iran and U.S. continue to exchange strikes",
-      "url": "https://www.cbc.ca/news/world/iran-us-war-gulf-9.7275317",
-      "source": "CBC News",
-      "publishedAt": "2026-07-18T12:22:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 7/18/2026",
-      "url": "https://www.nakedcapitalism.com/2026/07/links-7-18-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-18T10:59:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump targets Iran's infrastructure in bid to squeeze regime",
-      "url": "https://thehill.com/policy/defense/5975693-us-military-widens-iran-strikes/",
-      "source": "The Hill",
-      "publishedAt": "2026-07-18T10:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "Here's How The First 24 Hours Would Unfold If Kim Jong Un Died Tomorrow",
+      "url": "https://www.buzzfeed.com/jamieko/kim-jong-un-death-what-happens-north-korea",
+      "source": "Buzzfeed",
+      "publishedAt": "2026-07-18T14:16:02Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Occupation BV: The Dutch Infrastructure Behind Israel’s War Economy",
@@ -49,30 +81,6 @@
       "publishedAt": "2026-07-18T10:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US and Iran exchange strikes as they struggle over Strait of Hormuz",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-and-iran-exchange-strikes-as-they-struggle-over-strait-of-hormuz/articleshow/132477414.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-18T09:42:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Kuwait says Iran has struck a water desalination plant, the second such attack in 2 days",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/kuwait-says-iran-has-struck-a-water-desalination-plant-the-second-such-attack-in-2-days/articleshow/132476620.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-18T08:38:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran 'targets US combat aircraft at Bahrain air base' as Trump's forces launch seventh night of strikes against Tehran regime",
-      "url": "https://www.dailymail.com/news/article-15986905/Iran-targets-US-combat-aircraft-Bahrain-air-base.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-18T08:00:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine destroys warehouse of 'Russia's Amazon' in huge strike on Moscow - as Putin's war hits home",

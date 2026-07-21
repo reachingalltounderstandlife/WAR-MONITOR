@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-21T13:45:21Z",
-  "count": 29,
+  "updated": "2026-07-21T19:19:00Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "Trump vows Iran will ‘pay’ for killing US soldiers",
+      "url": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-20T18:21:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "I Was In Lebanon—The Humanitarian Crisis Needs Ceasefire That's More Than 'On Paper Only': OxFam CEO",
+      "url": "https://www.forbes.com/sites/forbestv/2026/07/20/i-was-in-lebanon-the-humanitarian-crisis-needs-ceasefire-thats-more-than-on-paper-only-oxfam-ceo/",
+      "source": "Forbes",
+      "publishedAt": "2026-07-20T18:13:03Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "[1980: Trump called to strike Iran]. Trump’s Middle East comments from 1980 interview resurface following strikes on Iran.",
+      "url": "https://freerepublic.com/focus/f-bloggers/4388675/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-20T17:42:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The 2026 FIFA World Cup was a spectacle from start to finish, for better or worse",
+      "url": "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-was-a-spectacle-from-start-to-finish-for-better-or-worse/",
+      "source": "CBS Sports",
+      "publishedAt": "2026-07-20T17:40:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Is Germany working on a secret nuclear weapons program?",
+      "url": "https://www.rt.com/news/643269-germany-nuclear-weapons-russia-svr/",
+      "source": "RT",
+      "publishedAt": "2026-07-20T16:48:22Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
+      "url": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-20T16:12:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Expansion of US strikes on Iran leads to more retaliation across the Gulf",
+      "url": "https://economictimes.indiatimes.com/news/defence/expansion-of-us-strikes-on-iran-leads-to-more-retaliation-across-the-gulf/articleshow/132519256.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-20T15:51:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Europe Is Back in 1952",
+      "url": "http://foreignpolicy.com/2026/07/20/europe-germany-france-eu-1952/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-07-20T15:01:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Doesn't Have What It Takes to Destroy Iran - Expert",
+      "url": "https://sputnikglobe.com/20260720/us-doesnt-have-what-it-takes-to-destroy-iran-expert-1124469595.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-07-20T15:00:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pakistan can hit an oil jackpot amid a widening US-Iran war",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/pakistan-can-hit-an-oil-jackpot-amid-a-widening-us-iran-war/articleshow/132518320.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-20T14:58:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What are ‘civilian’ sites in international law and where have US, Iran hit?",
+      "url": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-20T14:37:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine hitting civilians because it’s all it can do – former US officer",
+      "url": "https://www.rt.com/russia/643248-ukraine-hitting-civilians-only-thing-it-can-do/",
+      "source": "RT",
+      "publishedAt": "2026-07-20T14:25:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why a 90-year-old treaty limits NATO in the Black Sea",
+      "url": "https://www.dw.com/en/why-a-90-year-old-treaty-limits-nato-in-the-black-sea/a-77966363",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-20T14:10:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Houthis impose Saudi naval blockade, opening new front in US-Iran war",
+      "url": "https://uk.news.yahoo.com/us-launches-iran-strikes-ninth-015151599.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-20T13:52:32Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Moscow Rejects Germany’s Chancellor Merz’s Plan for “Ukraine Security Guarantees”",
       "url": "https://www.globalresearch.ca/moscow-rejects-germany-chancellor-merz-plan-ukraine-security-guarantees-inbox/5933928",
@@ -17,14 +129,6 @@
       "publishedAt": "2026-07-20T13:26:49Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Working Class Hero",
-      "url": "https://reason.com/2026/07/20/working-class-hero/",
-      "source": "Reason",
-      "publishedAt": "2026-07-20T13:26:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Putin meets North Korean foreign minister in diplomatic push",
@@ -43,30 +147,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Since Islamabad MoU: What’s changed for the US, Iran and the Gulf?",
-      "url": "https://www.aljazeera.com/features/2026/7/20/since-islamabad-mou-whats-changed-for-the-us-iran-and-the-gulf",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-20T13:06:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "MAGA-friendly Fox News star Maria Bartiromo hints she's losing patience with Trump by asking VERY pointed question to ex-White House aide",
-      "url": "https://www.dailymail.com/media/article-15990567/Fox-News-MAGA-Maria-Bartiromo-awkward-question-Trump.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-20T12:46:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US names two soldiers killed in Jordan as Iran conflict widens",
-      "url": "https://www.abc.net.au/news/2026-07-20/us-identifies-two-soldiers-killed-in-jordan-after-iranian-attack/106937952",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-20T12:44:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Britain’s New Prime Minister Must Stand Up to Trump",
       "url": "http://foreignpolicy.com/2026/07/20/britain-new-prime-minister-andy-burnham-starmer-trump/",
       "source": "Foreign Policy",
@@ -75,36 +155,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "U.S. death toll in Iran, 'The Odyssey' box office, WarshGPT and more in Morning Squawk",
-      "url": "https://www.cnbc.com/2026/07/20/5-things-to-know-before-the-stock-market-opens.html",
-      "source": "CNBC",
-      "publishedAt": "2026-07-20T12:27:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Monday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/07/20/monday-hili-dialogue-578/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-07-20T11:45:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel-Iran ceasefire sees intense missile exchanges, US joins military operations",
-      "url": "https://cryptobriefing.com/israel-iran-ceasefire-sees-intense-missile-exchanges-us-joins-military/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-20T11:35:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Why is Iran bombing Gulf states while avoiding US naval assets and Israel?",
       "url": "https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel",
       "source": "Al Jazeera English",
       "publishedAt": "2026-07-20T11:35:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Russian President Putin Meets with North Korean Foreign Minister in Latest High-Level Diplomacy",
@@ -113,22 +169,6 @@
       "publishedAt": "2026-07-20T11:34:01Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Ημερήσια Γεωπολιτική Επισκόπηση - 20/07/2026",
-      "url": "https://i-epikaira.blogspot.com/2026/07/20072026_0805838602.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-07-20T11:24:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US military identifies 2 soldiers killed in Iranian attack on Jordan",
-      "url": "https://abcnews.com/US/wireStory/us-military-identifies-2-soldiers-killed-iranian-attack-134910219",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-20T10:59:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "‘Harvest now, decrypt later’: Hackers are stealing data they can’t even read yet—banking on quantum computers to crack it later",
@@ -171,14 +211,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics",
-      "url": "https://www.cnbc.com/2026/07/20/nato-russia-ukraine-war-missile-attacks-drone-europe-defense-.html",
-      "source": "CNBC",
-      "publishedAt": "2026-07-20T04:49:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Russian President Putin meets with North Korean foreign minister in latest high-level diplomacy",
       "url": "https://www.yahoo.com/news/world/articles/russian-president-putin-meets-north-043331862.html",
       "source": "Yahoo Entertainment",
@@ -193,22 +225,6 @@
       "publishedAt": "2026-07-19T23:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "French Rafales and German Eurofighters Conduct First Joint ‘Forward Deterrence’ Drill",
-      "url": "https://theaviationist.com/2026/07/19/french-german-joint-forward-deterrence-drill/",
-      "source": "Theaviationist.com",
-      "publishedAt": "2026-07-19T20:28:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Cuba’s Grid Collapses, HHS Uncovers $3.5 Billion Hospice Fraud, AI to Compete with Big Pharma",
-      "url": "https://www.activistpost.com/cubas-grid-collapses-hhs-uncovers-3-5-billion-hospice-fraud-ai-to-compete-with-big-pharma/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-07-19T19:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Rubio Meets With Lebanese President Ahead Of Discussions With Trump",

@@ -1,86 +1,110 @@
 {
-  "updated": "2026-07-20T19:41:33Z",
-  "count": 22,
+  "updated": "2026-07-21T02:32:10Z",
+  "count": 17,
   "articles": [
+    {
+      "title": "US launches Iran strikes for ninth day as another American confirmed killed",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-launches-iran-strikes-for-ninth-day-as-another-american-confirmed-killed/articleshow/132504228.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-20T02:13:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US launches ninth consecutive day of strikes on Iran as another American confirmed killed",
+      "url": "https://www.thehindubusinessline.com/news/world/us-launches-ninth-consecutive-day-of-strikes-on-iran-as-another-american-confirmed-killed/article71243694.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-20T02:03:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran shoots down US MQ-9 Reaper drone in Kermanshah province",
+      "url": "https://cryptobriefing.com/iran-shoots-down-us-mq-9-reaper-drone-in-kermanshah-province/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-20T02:03:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
+      "url": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-20T01:48:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US launches ninth night of strikes on Iran as it hits out at Gulf neighbours",
+      "url": "https://www.channelnewsasia.com/world/us-iran-strikes-gulf-nations-kuwait-bahrain-6264506",
+      "source": "CNA",
+      "publishedAt": "2026-07-20T01:47:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ship catches fire in Strait of Hormuz as US-Iran conflict escalates",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/ship-catches-fire-in-strait-of-hormuz-as-us-iran-conflict-escalates/articleshow/132503900.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-20T01:08:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US launches more strikes on Iran, says another service member killed",
+      "url": "https://www.abc.net.au/news/2026-07-20/us-military-launches-strikes-on-iran-for-ninth-straight-night/106934804",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-07-20T00:40:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
+      "url": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-19T23:49:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Chinese satellites are being 'used by Iran to hit American bases in the Middle East'",
+      "url": "https://www.dailymail.com/news/article-15989493/Chinese-satellites-used-Iran-American-bases-Middle-East.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-19T23:46:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Apple Maps didn't 'erase' Lebanese town names. Here's evidence",
+      "url": "https://www.snopes.com//fact-check/apple-maps-lebanon/",
+      "source": "Snopes.com",
+      "publishedAt": "2026-07-19T23:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US Announces Another Troop Death as Israel Warns Tehran's Attacks Are Coming Close",
+      "url": "https://military.com/us-announces-another-troop-death-as-israel-warns-tehrans-attacks-are-coming-close",
+      "source": "Military.com",
+      "publishedAt": "2026-07-19T21:12:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "French Rafales and German Eurofighters Conduct First Joint ‘Forward Deterrence’ Drill",
+      "url": "https://theaviationist.com/2026/07/19/french-german-joint-forward-deterrence-drill/",
+      "source": "Theaviationist.com",
+      "publishedAt": "2026-07-19T20:28:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Cuba’s Grid Collapses, HHS Uncovers $3.5 Billion Hospice Fraud, AI to Compete with Big Pharma",
       "url": "https://www.activistpost.com/cubas-grid-collapses-hhs-uncovers-3-5-billion-hospice-fraud-ai-to-compete-with-big-pharma/",
       "source": "Activistpost.com",
       "publishedAt": "2026-07-19T19:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘Sacred unity’: Iran’s supreme leader calls for calm amid political divides",
-      "url": "https://www.aljazeera.com/news/2026/7/19/sacred-unity-irans-supreme-leader-calls-for-calm-amid-political-divides",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-19T18:29:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "For the FIFA finale, Delhi-NCR football fans choose community",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/for-the-fifa-finale-delhi-ncr-football-fans-choose-community/articleshow/132499538.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-19T18:27:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Rajasthan man held for abducting minor girl",
-      "url": "https://timesofindia.indiatimes.com/city/vadodara/rajasthan-man-held-for-abducting-minor-girl/articleshow/132499587.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-19T18:19:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hyderabad citizens rally for education reform, back Sonam Wangchuk",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-citizens-rally-for-education-reform-back-sonam-wangchuk/articleshow/132499560.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-19T18:18:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Chennai ANIU sub-inspector attacked by sickle, hunt on for accused",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/chennai-aniu-sub-inspector-attacked-by-sickle-hunt-on-for-accused/articleshow/132499576.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-19T18:18:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Bandra’s gaothans are open for business — but at what cost to the community?",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/bandras-gaothans-are-open-for-business-but-at-what-cost-to-the-community/articleshow/132499593.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-19T18:16:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "14-year-old dies in Airoli hospital, family go to police",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/14-year-old-dies-in-airoli-hospital-family-go-to-police/articleshow/132499590.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-19T18:16:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Two police personnel arrested accepting Rs 10,000 bribe in Nashik",
-      "url": "https://timesofindia.indiatimes.com/city/nashik/two-police-personnel-arrested-accepting-rs-10000-bribe-in-nashik/articleshow/132499573.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-19T18:15:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "SS (UBT) should introspect, says Minister Girish Mahajan at Nashik Kumbh Mela office",
-      "url": "https://timesofindia.indiatimes.com/city/nashik/ss-ubt-should-introspect-says-minister-girish-mahajan-at-nashik-kumbh-mela-office/articleshow/132499564.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-19T18:15:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Ασύμμετρες απειλές, εύθραυστες συμμαχίες και η αναπόδραστη διολίσθηση προς την \"πολυκρίση\" - Ημερήσια Γεωπολιτική Επισκόπηση (19/07/2026)",
@@ -111,70 +135,6 @@
       "url": "https://cryptobriefing.com/israeli-military-strikes-hezbollah-militants-amid-2026-lebanon-war/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-07-19T02:30:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Would Europeans fight, if it came to that?",
-      "url": "https://www.nrc.nl/nieuws/2026/07/18/would-europeans-fight-if-it-came-to-that-a4932663",
-      "source": "Www.nrc.nl",
-      "publishedAt": "2026-07-18T20:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Lebanon’s Aoun to meet Trump in Washington to discuss Israel talks",
-      "url": "https://www.aljazeera.com/news/2026/7/18/lebanons-aoun-to-meet-trump-in-washington-to-discuss-israel-talks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-18T17:35:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US strikes Iran after 2 service members killed in Jordan",
-      "url": "https://www.dw.com/en/us-strikes-iran-after-2-service-members-killed-in-jordan/live-78015388",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-18T17:28:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Here's How The First 24 Hours Would Unfold If Kim Jong Un Died Tomorrow",
-      "url": "https://www.buzzfeed.com/jamieko/kim-jong-un-death-what-happens-north-korea",
-      "source": "Buzzfeed",
-      "publishedAt": "2026-07-18T14:16:02Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Occupation BV: The Dutch Infrastructure Behind Israel’s War Economy",
-      "url": "https://www.activistpost.com/occupation-bv-the-dutch-infrastructure-behind-israels-war-economy/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-07-18T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine destroys warehouse of 'Russia's Amazon' in huge strike on Moscow - as Putin's war hits home",
-      "url": "https://www.dailymail.com/news/article-15986921/War-Putin-Ukraine-drone-warehouse-Russia-Amazon-Moscow.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-18T07:51:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "News Summary-Intelligence Report 7/17/2026*Newsdump Friday*US War Wounded*14 Killed Gaza*Recall Cyclosporiasis Outbreak*China Landslide*US Air Quality Alerts*Iran War Attacks*China, Russia Reject Trump Allegations*ICE Agent Scrutinized*",
-      "url": "https://freerepublic.com/focus/f-bloggers/4388406/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-18T04:01:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran: US attacks show Trump's word is 'utterly worthless'",
-      "url": "https://www.dw.com/en/iran-us-attacks-show-trumps-word-is-utterly-worthless/live-78015388",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-18T03:18:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

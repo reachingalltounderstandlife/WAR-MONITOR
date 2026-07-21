@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-21T02:32:10Z",
-  "count": 17,
+  "updated": "2026-07-21T08:25:11Z",
+  "count": 20,
   "articles": [
+    {
+      "title": "Iran strikes US targets with increasing precision amid 2026 conflict",
+      "url": "https://cryptobriefing.com/iran-strikes-us-targets-with-increasing-precision-amid-2026-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-20T08:15:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Strikes after Troops Killed as Iran Quits Deal",
+      "url": "https://www.rigzone.com/news/wire/us_strikes_after_troops_killed_as_iran_quits_deal-20-jul-2026-184160-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-07-20T07:59:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why the Red Sea remains one of the world's most dangerous shipping routes",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/why-red-sea-remains-one-of-the-worlds-most-dangerous-shipping-routes-bab-el-mandeb-strait-suez-canal-maritime-security-explained/articleshow/132508729.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-20T07:36:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. Strikes Civilian Infrastructure in Iran; Tehran Retaliates Against Gulf Bases",
+      "url": "https://www.naturalnews.com/2026-07-20-us-strikes-civilian-infrastructure-iran-tehran-retaliates.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-20T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. Senators Block Debate on 2027 NDAA, Cite “Illegal War on Iran”",
+      "url": "https://www.naturalnews.com/2026-07-20-us-senators-block-debate-ndaa-illegal-war-iran.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-20T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Reportedly Orders Houthis to Prepare to Block Bab el-Mandeb Strait Amid Trump’s Threats to Target Power Plants",
+      "url": "https://www.naturalnews.com/2026-07-20-iran-orders-houthis-block-bab-el-mandeb-strait.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-20T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian Military Strikes Ukrainian Ports and Shipping with AI-Equipped Drones, Officials Say",
+      "url": "https://www.naturalnews.com/2026-07-20-russia-strikes-ukrainian-ports-with-ai-equipped-drones.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-20T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics",
+      "url": "https://www.cnbc.com/2026/07/20/nato-russia-ukraine-war-missile-attacks-drone-europe-defense-.html",
+      "source": "CNBC",
+      "publishedAt": "2026-07-20T04:49:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Live updates: US striking Iran again after Trump warned of strong retaliation for the deaths of US service members",
+      "url": "https://www.cnn.com/2026/07/20/world/live-news/iran-war-trump",
+      "source": "CNN",
+      "publishedAt": "2026-07-20T04:48:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian President Putin meets with North Korean foreign minister in latest high-level diplomacy",
+      "url": "https://www.yahoo.com/news/world/articles/russian-president-putin-meets-north-043331862.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-20T04:33:31Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US attacks Iran for ninth day as another soldier killed",
+      "url": "https://www.rte.ie/news/middle-east/2026/0720/1584127-middle-east-iran/",
+      "source": "RTE",
+      "publishedAt": "2026-07-20T04:16:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US launches Iran strikes for ninth day as another American confirmed killed",
       "url": "https://economictimes.indiatimes.com/news/defence/us-launches-iran-strikes-for-ninth-day-as-another-american-confirmed-killed/articleshow/132504228.cms",
@@ -19,76 +107,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran shoots down US MQ-9 Reaper drone in Kermanshah province",
-      "url": "https://cryptobriefing.com/iran-shoots-down-us-mq-9-reaper-drone-in-kermanshah-province/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-20T02:03:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
-      "url": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-20T01:48:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US launches ninth night of strikes on Iran as it hits out at Gulf neighbours",
-      "url": "https://www.channelnewsasia.com/world/us-iran-strikes-gulf-nations-kuwait-bahrain-6264506",
-      "source": "CNA",
-      "publishedAt": "2026-07-20T01:47:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ship catches fire in Strait of Hormuz as US-Iran conflict escalates",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/ship-catches-fire-in-strait-of-hormuz-as-us-iran-conflict-escalates/articleshow/132503900.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-20T01:08:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US launches more strikes on Iran, says another service member killed",
-      "url": "https://www.abc.net.au/news/2026-07-20/us-military-launches-strikes-on-iran-for-ninth-straight-night/106934804",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-20T00:40:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
-      "url": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-19T23:49:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Chinese satellites are being 'used by Iran to hit American bases in the Middle East'",
-      "url": "https://www.dailymail.com/news/article-15989493/Chinese-satellites-used-Iran-American-bases-Middle-East.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-19T23:46:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Apple Maps didn't 'erase' Lebanese town names. Here's evidence",
       "url": "https://www.snopes.com//fact-check/apple-maps-lebanon/",
       "source": "Snopes.com",
       "publishedAt": "2026-07-19T23:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "US Announces Another Troop Death as Israel Warns Tehran's Attacks Are Coming Close",
-      "url": "https://military.com/us-announces-another-troop-death-as-israel-warns-tehrans-attacks-are-coming-close",
-      "source": "Military.com",
-      "publishedAt": "2026-07-19T21:12:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "French Rafales and German Eurofighters Conduct First Joint ‘Forward Deterrence’ Drill",

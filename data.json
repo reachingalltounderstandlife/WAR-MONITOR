@@ -1,12 +1,92 @@
 {
-  "updated": "2026-07-21T19:19:00Z",
-  "count": 31,
+  "updated": "2026-07-22T02:31:09Z",
+  "count": 29,
   "articles": [
     {
-      "title": "Trump vows Iran will ‘pay’ for killing US soldiers",
-      "url": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-20T18:21:39Z",
+      "title": "Report: Israel assesses Iran moved thousands of centrifuges to Pickaxe Mountain",
+      "url": "https://www.israelnationalnews.com/news/430490",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-21T02:24:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "India steps up response to US, Iran deadly ship strikes",
+      "url": "https://www.abc.net.au/news/2026-07-21/indian-government-action-sailors-deaths-strait-of-hormuz/106935430",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-07-21T01:59:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Another tanker attacked in Strait of Hormuz as US attacks Iran for 10th consecutive night",
+      "url": "https://economictimes.indiatimes.com/news/defence/another-tanker-attacked-in-strait-of-hormuz-as-us-attacks-iran-for-10th-consecutive-night/articleshow/132526343.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-21T01:29:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump to decide on broader military offensive targeting Iran",
+      "url": "https://www.israelnationalnews.com/news/430487",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-21T00:19:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Competition For Ukraine: Germany Buys The Future, Poland Holds The Door",
+      "url": "https://www.19fortyfive.com/2026/07/the-competition-for-ukraine-germany-buys-the-future-poland-holds-the-door/",
+      "source": "19fortyfive.com",
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Escalation Possibilities",
+      "url": "https://econbrowser.com/archives/2026/07/escalation-possibilities",
+      "source": "Econbrowser.com",
+      "publishedAt": "2026-07-20T23:16:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pentagon concealing true casualty numbers in Iran war – NYT",
+      "url": "https://www.rt.com/news/643276-pentagon-us-casualty-number-iran/",
+      "source": "RT",
+      "publishedAt": "2026-07-20T23:01:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. launches more strikes on Iran after deaths of service members",
+      "url": "https://www.pbs.org/newshour/show/u-s-launches-more-strikes-on-iran-after-deaths-of-service-members",
+      "source": "PBS",
+      "publishedAt": "2026-07-20T22:55:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump orders airstrikes against Iran for 10th straight night — after vowing to avenge deaths of US soldiers",
+      "url": "https://nypost.com/2026/07/20/us-news/trump-orders-airstrikes-against-iran-for-10th-consecutive-night/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-20T22:17:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "All-out war edges closer with 10th consecutive night of US strikes on Iran",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/20/us-carry-out-10th-consecutive-night-of-strikes-on-iran-bringing-all-out-war-closer/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-20T21:29:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US forces attack Iranian military targets for tenth straight night",
+      "url": "https://www.israelnationalnews.com/news/430483",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-20T21:29:28Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -19,22 +99,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "[1980: Trump called to strike Iran]. Trump’s Middle East comments from 1980 interview resurface following strikes on Iran.",
-      "url": "https://freerepublic.com/focus/f-bloggers/4388675/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-20T17:42:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The 2026 FIFA World Cup was a spectacle from start to finish, for better or worse",
-      "url": "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-was-a-spectacle-from-start-to-finish-for-better-or-worse/",
-      "source": "CBS Sports",
-      "publishedAt": "2026-07-20T17:40:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Is Germany working on a secret nuclear weapons program?",
       "url": "https://www.rt.com/news/643269-germany-nuclear-weapons-russia-svr/",
       "source": "RT",
@@ -43,52 +107,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
-      "url": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-20T16:12:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Expansion of US strikes on Iran leads to more retaliation across the Gulf",
-      "url": "https://economictimes.indiatimes.com/news/defence/expansion-of-us-strikes-on-iran-leads-to-more-retaliation-across-the-gulf/articleshow/132519256.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-20T15:51:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Europe Is Back in 1952",
       "url": "http://foreignpolicy.com/2026/07/20/europe-germany-france-eu-1952/",
       "source": "Foreign Policy",
       "publishedAt": "2026-07-20T15:01:11Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US Doesn't Have What It Takes to Destroy Iran - Expert",
-      "url": "https://sputnikglobe.com/20260720/us-doesnt-have-what-it-takes-to-destroy-iran-expert-1124469595.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-07-20T15:00:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pakistan can hit an oil jackpot amid a widening US-Iran war",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/pakistan-can-hit-an-oil-jackpot-amid-a-widening-us-iran-war/articleshow/132518320.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-20T14:58:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What are ‘civilian’ sites in international law and where have US, Iran hit?",
-      "url": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-20T14:37:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine hitting civilians because it’s all it can do – former US officer",
@@ -203,52 +227,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Russian Military Strikes Ukrainian Ports and Shipping with AI-Equipped Drones, Officials Say",
-      "url": "https://www.naturalnews.com/2026-07-20-russia-strikes-ukrainian-ports-with-ai-equipped-drones.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-20T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Russian President Putin meets with North Korean foreign minister in latest high-level diplomacy",
       "url": "https://www.yahoo.com/news/world/articles/russian-president-putin-meets-north-043331862.html",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-07-20T04:33:31Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Apple Maps didn't 'erase' Lebanese town names. Here's evidence",
-      "url": "https://www.snopes.com//fact-check/apple-maps-lebanon/",
-      "source": "Snopes.com",
-      "publishedAt": "2026-07-19T23:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Rubio Meets With Lebanese President Ahead Of Discussions With Trump",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260719-rferl04.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-19T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Cross-regional military drills validate Taiwan's wartime plans: Experts",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260719-cna03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-19T12:00:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Israeli military strikes Hezbollah militants amid 2026 Lebanon war",
-      "url": "https://cryptobriefing.com/israeli-military-strikes-hezbollah-militants-amid-2026-lebanon-war/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-19T02:30:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

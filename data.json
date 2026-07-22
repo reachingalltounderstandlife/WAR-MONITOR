@@ -1,14 +1,142 @@
 {
-  "updated": "2026-07-22T08:25:50Z",
-  "count": 30,
+  "updated": "2026-07-22T13:48:53Z",
+  "count": 32,
   "articles": [
     {
-      "title": "Iran boasts of destroying Amazon data hub in Bahrain after declaring all out war with America - as Trump unleashes tenth night of strikes",
-      "url": "https://www.dailymail.com/news/article-15992743/Iran-boasts-destroying-Amazon-data-hub-Bahrain-declaring-war-America-Trump-unleashes-tenth-night-strikes.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-21T08:16:13Z",
+      "title": "Iran's forces attack Bahrain and Kuwait after US hits Iranian ports and cities",
+      "url": "https://economictimes.indiatimes.com/news/defence/irans-forces-attack-bahrain-and-kuwait-after-us-hits-iranian-ports-and-cities/articleshow/132538145.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-21T13:46:51Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Iran’s Forces Attack Bahrain and Kuwait After US Hits Iranian Ports and Cities",
+      "url": "https://www.insurancejournal.com/news/international/2026/07/21/878354.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-07-21T13:31:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanon’s President Will Meet With Trump in Washington to Push for Israeli Troop Withdrawal",
+      "url": "https://military.com/lebanons-president-will-meet-with-trump-in-washington-to-push-for-israeli-troop-withdrawal",
+      "source": "Military.com",
+      "publishedAt": "2026-07-21T13:27:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Locked Into the Loop: “Predictive History” and the End of Statesmanship — Part 2",
+      "url": "https://www.fairobserver.com/more/science/locked-into-the-loop-predictive-history-and-the-end-of-statesmanship-part-2/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-07-21T12:56:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Leaked intel report lays bare grim reality for Trump in Iran… as President delays welcoming killed US troops",
+      "url": "https://www.dailymail.com/news/article-15993495/Leaked-intel-report-lays-bare-grim-reality-Trump-Iran-President-delays-welcoming-killed-US-troops.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-21T12:49:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Kremlin Warns Any EU or NATO Troop Deployment to Ukraine Would Be Unacceptable",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260721-sputnik02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-21T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "In apparent 1st, PLA chopper crosses Taiwan Strait median line",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260721-cna02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-21T12:00:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "New bridge between North Korea and China could open soon - 12 years after completion",
+      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260721-rfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-21T12:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Tuesday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/07/21/tuesday-hili-dialogue-589/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-07-21T11:45:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US completes latest airstrikes on Iranian military installations in 2026 conflict",
+      "url": "https://cryptobriefing.com/us-completes-latest-airstrikes-on-iranian-military-installations-in-2026/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-21T11:42:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lebanese army deploys in southern town after Israeli withdrawal, official says",
+      "url": "https://economictimes.indiatimes.com/news/defence/lebanese-army-deploys-in-southern-town-after-israeli-withdrawal-official-says/articleshow/132534958.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-21T11:18:51Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran steps up attacks in return to war with US",
+      "url": "https://www.vanguardngr.com/2026/07/iran-steps-up-attacks-in-return-to-war-with-us/",
+      "source": "Vanguard",
+      "publishedAt": "2026-07-21T11:13:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Mediators race to ease Iran-US tensions with 10-day truce proposal",
+      "url": "https://www.hurriyetdailynews.com/mediators-race-to-ease-iran-us-tensions-with-10-day-truce-proposal-224623",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-21T11:09:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 7/21/2026",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-21-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-21T10:59:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO state’s PM calls pro-Ukraine coalitions ‘all talk’",
+      "url": "https://www.rt.com/news/643284-czech-pm-babis-dismisses-coalition-willing/",
+      "source": "RT",
+      "publishedAt": "2026-07-21T10:23:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Amid U.S.-Iran war, Houthi rebels threaten to blockade another key strait",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates",
+      "source": "NPR",
+      "publishedAt": "2026-07-21T10:21:43Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "MORNING GLORY: America is winning its battle with Iran. It’s only a matter of time",
+      "url": "https://www.foxnews.com/opinion/morning-glory-america-winning-battle-iran-matter-time",
+      "source": "Fox News",
+      "publishedAt": "2026-07-21T09:00:49Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Turkiye Is Poised To Open Up A New Containment Front Against Russia in the Black Sea",
@@ -17,62 +145,6 @@
       "publishedAt": "2026-07-21T08:16:02Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "‘Khamenei’s Funeral One of the Most Impressive Things I Have Ever Witnessed’ – Brazilian Military Officer",
-      "url": "https://www.globalresearch.ca/khamenei-funeral-impressive-brazilian-military-officer/5933937",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-21T06:52:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s Nuclear Facilities Have Been Obliterated — and Suggestions Otherwise are Fake News",
-      "url": "https://freerepublic.com/focus/f-chat/4388745/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-21T06:09:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. Air Defenses Face Challenges Against Iranian Missiles, Officials Say",
-      "url": "https://www.naturalnews.com/2026-07-21-us-air-defenses-face-challenges-iranian-missiles.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-21T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. Strikes in Iran Disrupt Water Supply for 10,000 Residents",
-      "url": "https://www.naturalnews.com/2026-07-21-us-strikes-iran-disrupt-water-supply-for-10000.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-21T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Integrates China’s Beidou System, Shifting Military Balance in Gulf",
-      "url": "https://www.naturalnews.com/2026-07-21-iran-integrates-chinas-beidou-shifting-military-balance-gulf.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-21T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Iran dig in over the Strait of Hormuz, showing the limits of intensifying airstrikes",
-      "url": "https://www.thehindubusinessline.com/news/world/us-and-iran-dig-in-over-the-strait-of-hormuz-showing-the-limits-of-intensifying-airstrikes/article71248015.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-21T04:54:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Iran dig in over the Strait of Hormuz, showing the limits of intensifying airstrikes",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-and-iran-dig-in-over-the-strait-of-hormuz-showing-the-limits-of-intensifying-airstrikes/articleshow/132528082.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-21T04:42:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Von der Leyen Paints Target Signs on Europe With Ukraine Drone Pact",
@@ -84,19 +156,19 @@
     },
     {
       "title": "Lebanon leader to meet Trump as Hezbollah pressure builds",
-      "url": "https://www.rte.ie/news/middle-east/2026/0721/1584319-lebanon-leader-to-meet-trump-as-hezbollah-pressure-builds/",
-      "source": "RTE",
-      "publishedAt": "2026-07-21T03:32:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon leader to meet Trump as Hezbollah pressure builds",
       "url": "https://www.rte.ie/news/middle-east/2026/0721/1584319-israel-lebanon/",
       "source": "RTE",
       "publishedAt": "2026-07-21T03:32:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon leader to meet Trump as Hezbollah pressure builds",
+      "url": "https://www.rte.ie/news/middle-east/2026/0721/1584319-lebanon-leader-to-meet-trump-as-hezbollah-pressure-builds/",
+      "source": "RTE",
+      "publishedAt": "2026-07-21T03:32:28Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "As its support in Lebanon wanes, Hezbollah faces a difficult decision about its future",
@@ -113,14 +185,6 @@
       "publishedAt": "2026-07-21T00:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "I Was In Lebanon—The Humanitarian Crisis Needs Ceasefire That's More Than 'On Paper Only': OxFam CEO",
-      "url": "https://www.forbes.com/sites/forbestv/2026/07/20/i-was-in-lebanon-the-humanitarian-crisis-needs-ceasefire-thats-more-than-on-paper-only-oxfam-ceo/",
-      "source": "Forbes",
-      "publishedAt": "2026-07-20T18:13:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Is Germany working on a secret nuclear weapons program?",
@@ -155,26 +219,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Houthis impose Saudi naval blockade, opening new front in US-Iran war",
-      "url": "https://uk.news.yahoo.com/us-launches-iran-strikes-ninth-015151599.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-20T13:52:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Moscow Rejects Germany’s Chancellor Merz’s Plan for “Ukraine Security Guarantees”",
       "url": "https://www.globalresearch.ca/moscow-rejects-germany-chancellor-merz-plan-ukraine-security-guarantees-inbox/5933928",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-07-20T13:44:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Dutch Intelligence Warns Russia Uses Hacked IP Cameras for Military Espionage",
-      "url": "https://securityaffairs.com/195708/intelligence/dutch-intelligence-warns-russia-uses-hacked-ip-cameras-for-military-espionage.html",
-      "source": "Securityaffairs.com",
-      "publishedAt": "2026-07-20T13:26:49Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -195,44 +243,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Britain’s New Prime Minister Must Stand Up to Trump",
-      "url": "http://foreignpolicy.com/2026/07/20/britain-new-prime-minister-andy-burnham-starmer-trump/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-20T12:35:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why is Iran bombing Gulf states while avoiding US naval assets and Israel?",
-      "url": "https://www.aljazeera.com/news/2026/7/20/why-is-iran-bombing-gulf-states-while-avoiding-us-naval-assets-and-israel",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-20T11:35:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Russian President Putin Meets with North Korean Foreign Minister in Latest High-Level Diplomacy",
       "url": "https://military.com/russian-president-putin-meets-with-north-korean-foreign-minister-in-latest-high-level-diplomacy",
       "source": "Military.com",
       "publishedAt": "2026-07-20T11:34:01Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "‘Harvest now, decrypt later’: Hackers are stealing data they can’t even read yet—banking on quantum computers to crack it later",
-      "url": "https://fortune.com/2026/07/20/harvest-now-decrypt-later-hackers-are-stealing-data-they-cant-even-read-yetbanking-on-quantum-computers-to-crack-it-later/",
-      "source": "Fortune",
-      "publishedAt": "2026-07-20T10:30:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why the Red Sea remains one of the world's most dangerous shipping routes",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/why-red-sea-remains-one-of-the-worlds-most-dangerous-shipping-routes-bab-el-mandeb-strait-suez-canal-maritime-security-explained/articleshow/132508729.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-20T07:36:19Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Russian President Putin meets with North Korean foreign minister in latest high-level diplomacy",

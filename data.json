@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-23T13:53:47Z",
-  "count": 30,
+  "updated": "2026-07-23T19:13:51Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Ukraine has a new butcher-in-chief – all the better to feed Ukrainians to the grinder",
+      "url": "https://www.rt.com/news/643351-ukraine-drapaty-new-butcher/",
+      "source": "RT",
+      "publishedAt": "2026-07-22T19:03:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Threatens to Bomb Iranian Civilian Sites, Potential War Crimes",
+      "url": "https://truthout.org/articles/trump-threatens-to-bomb-iranian-civilian-sites-potential-war-crimes/",
+      "source": "Truthout",
+      "publishedAt": "2026-07-22T18:48:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Volodymyr Zelenskyy’s removal of two top defence officials highlights the role of morale in long wars",
+      "url": "https://theconversation.com/volodymyr-zelenskyys-removal-of-two-top-defence-officials-highlights-the-role-of-morale-in-long-wars-287814",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-07-22T17:51:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Bombed Iran Over Uranium, but His Saudi Besties Get to Make Their Own",
+      "url": "https://www.jezebel.com/trump-bombed-iran-over-uranium-but-his-saudi-besties-get-to-make-their-own",
+      "source": "Jezebel",
+      "publishedAt": "2026-07-22T17:50:52Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "War Chief Wants More Money For War",
+      "url": "https://www.shtfplan.com/war/war-chief-wants-more-money-for-war",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-07-22T17:30:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "DOJ Afraid to Put Things in Writing for Fear It’d Be Used Against Them",
+      "url": "https://newrepublic.com/post/213370/doj-afraid-put-things-writing-minneapolis-cities-church-ice",
+      "source": "The New Republic",
+      "publishedAt": "2026-07-22T17:29:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump BBC Defamation Lawsuit Backfires Big-Time—With Subpoenas Coming",
+      "url": "https://newrepublic.com/post/213372/trump-bbc-defamation-lawsuit-backfires-subpoenas-financial-info",
+      "source": "The New Republic",
+      "publishedAt": "2026-07-22T17:13:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Some Indigenous leaders call premiers' meeting positive but inclusion remains an issue",
+      "url": "https://www.cbc.ca/news/indigenous/indigenous-leaders-premiers-9.7279262",
+      "source": "CBC News",
+      "publishedAt": "2026-07-22T16:58:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s Top Tariff Negotiator Dodges Key Question on Reimbursements",
+      "url": "https://newrepublic.com/post/213369/donald-trump-tariff-negotiator-key-question-reimbursements",
+      "source": "The New Republic",
+      "publishedAt": "2026-07-22T16:16:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Top Gun: Maverick Theory of Pete Hegseth",
+      "url": "https://www.theatlantic.com/national-security/2026/07/top-gun-hegseth-pentagon-leadership/687997/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-07-22T16:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Threatens U.S. Allies as Trump Hints at Strike on Pickaxe Mountain Nuclear Site",
+      "url": "https://legalinsurrection.com/2026/07/iran-threatens-u-s-allies-as-trump-hints-at-strike-on-pickaxe-mountain-nuclear-site/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-07-22T16:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Nolan Wells Autopsy Raises More Questions About Black Teen’s Death",
+      "url": "https://newrepublic.com/post/213368/nolan-wells-autopsy-questions-black-teen-death",
+      "source": "The New Republic",
+      "publishedAt": "2026-07-22T15:54:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Puts Words in the Mouths of Dead Soldiers to Defend His War",
+      "url": "https://newrepublic.com/post/213366/trump-speaks-for-dead-soldiers-iran-war",
+      "source": "The New Republic",
+      "publishedAt": "2026-07-22T15:44:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukrainian Musical Chairs: Zelensky Changes Military Leadership, Again",
+      "url": "https://www.breitbart.com/europe/2026/07/22/ukrainian-musical-chairs-zelensky-changes-military-leadership-again/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-07-22T14:52:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "US directly involved in Ukrainian strikes on Russia – Lavrov",
       "url": "https://www.rt.com/russia/643340-lavrov-us-ukraine-strike-involvement/",
@@ -19,44 +131,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "UK’s Miliband, Streeting: What are their foreign policy, defence records?",
-      "url": "https://www.aljazeera.com/news/2026/7/22/uks-miliband-streeting-what-are-their-foreign-policy-defence-records",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-22T13:41:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Rubio Says Iran-Backed Houthis' Red Sea Blockade 'Problematic'",
-      "url": "https://www.rferl.org/a/rubio-iran-houthis-red-sea-blockade-yemen-us/33809877.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-07-22T13:19:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Lebanon working towards 'complete Israeli withdrawal'",
       "url": "https://www.rte.ie/news/middle-east/2026/0722/1584587-lebanon-israel/",
       "source": "RTE",
       "publishedAt": "2026-07-22T12:28:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Rubio Says Iran-Backed Houthis' Red Sea Blockade 'Problematic'",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260722-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-22T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Wednesday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/07/22/wednesday-hili-dialogue-590/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-07-22T11:45:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
@@ -67,44 +147,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Links 7/22/2026",
-      "url": "https://www.nakedcapitalism.com/2026/07/links-7-22-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-22T10:59:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran War: Iran Rumored to Be Readying Big Attacks as Trump Vows More Escalation and Rubio Disses Talks; Brent Rises to $94 a Barrel as Hormuz Transits Fall, Ships Turn Away from Bab el-Mandeb; Hegseth Fried in Iran Hearings",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-iran-rumored-to-be-readying-big-attacks-as-trump-vows-more-escalation-and-rubio-disses-talks-hegseth-fried-in-iran-hearings.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-22T10:57:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hegseth turns tables on Dems as sparks fly during hearing clash: 'I put this on you'",
-      "url": "https://www.foxnews.com/politics/hegseth-turns-tables-dems-sparks-fly-hearing-clash",
-      "source": "Fox News",
-      "publishedAt": "2026-07-22T10:30:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Why Is NATO Attacking ExxonMobil and Chevron Infrastructure in the Black Sea?",
       "url": "https://www.nakedcapitalism.com/2026/07/why-is-nato-attacking-exxonmobil-and-chevron-infrastructure-in-the-black-sea.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-07-22T10:00:13Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest?",
-      "url": "https://www.aljazeera.com/news/2026/7/22/iran-gulf-hit-as-hormuz-bab-al-mandeb-close-whats-the-latest",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-22T08:43:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine's new top general is a 43-year-old maverick whose bold moves began 12 years ago with a 'flying' armored vehicle",
@@ -137,38 +185,6 @@
       "publishedAt": "2026-07-22T06:00:12Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "John O'Brennan: Orbán is gone, but the EU has a new headache in Bulgaria",
-      "url": "https://www.irishtimes.com/opinion/2026/07/22/john-obrennan-orban-is-gone-but-the-eu-has-a-new-headache-in-bulgaria/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-22T05:00:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine: America’s Enduring Proxy War on Russia",
-      "url": "https://original.antiwar.com/jeffrey_sachs/2026/07/21/ukraine-americas-enduring-proxy-war-on-russia/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-07-22T00:00:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Five Choices For American Strategy Toward Europe",
-      "url": "https://www.thefreedomfrequency.org/p/five-choices-for-american-strategy",
-      "source": "Thefreedomfrequency.org",
-      "publishedAt": "2026-07-22T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia summons Moldovan envoy over ‘threats’ against diplomats",
-      "url": "https://www.rt.com/russia/643314-russia-summons-moldovan-envoy/",
-      "source": "RT",
-      "publishedAt": "2026-07-21T23:20:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Southern Lebanese skeptical of Israel agreement as violence continues",

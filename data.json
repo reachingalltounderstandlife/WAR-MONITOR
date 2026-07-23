@@ -1,20 +1,84 @@
 {
-  "updated": "2026-07-23T02:35:51Z",
-  "count": 30,
+  "updated": "2026-07-23T08:26:47Z",
+  "count": 29,
   "articles": [
     {
-      "title": "'Wrap It Up': Mike Johnson Makes Stunning Comments On Future Of Iran War",
-      "url": "https://www.huffpost.com/entry/mike-johnson-iran-war-donald-trump_n_6a5ffd6fe4b06bbe43f4fb35",
-      "source": "HuffPost",
-      "publishedAt": "2026-07-22T01:24:47Z",
+      "title": "US secretary of state Marco Rubio claims Iran not serious about peace talks",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/22/us-secretary-of-state-marco-rubio-claims-iran-not-serious-about-peace-talks/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-22T06:34:10Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "US Iran war bill climbs to $37.5 billion as Hegseth seeks urgent funding",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-bill-climbs-to-37-5-billion-as-hegseth-seeks-urgent-funding/articleshow/132549136.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-22T00:48:30Z",
+      "title": "Anxiety as Australia issues new travel advice for Middle East countries",
+      "url": "https://www.abc.net.au/news/2026-07-22/australians-travel-advice-middle-east-conflict-us-iran/106944564",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-07-22T06:23:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump plays down prospects of Iran talks amid Red Sea threat",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/trump-plays-down-prospects-for-iran-talks-amid-red-sea-threat",
+      "source": "Bloomberg",
+      "publishedAt": "2026-07-22T06:17:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump vows to help Lebanon pursue peace with Israel",
+      "url": "https://www.hurriyetdailynews.com/trump-vows-to-help-lebanon-pursue-peace-with-israel-224638",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-22T06:03:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says US 'not finished' with Iran as fresh strikes hit Tehran",
+      "url": "https://www.thejournal.ie/trump-iran-us-strikes-tehran-middle-east-7109770-Jul2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-07-22T06:02:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Mind the Gaps: Rethinking Landpower in a Maritime Environment",
+      "url": "https://smallwarsjournal.com/2026/07/22/rethinking-landpower-first-island-chain/",
+      "source": "Smallwarsjournal.com",
+      "publishedAt": "2026-07-22T06:00:12Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "US hits Iran, says war cost at $37.5 bln",
+      "url": "https://www.hurriyetdailynews.com/us-hits-iran-says-war-cost-at-37-5-bln-224636",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-22T05:52:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "M-East war: Almost 100 US troops injured in recent weeks — Pentagon",
+      "url": "https://www.vanguardngr.com/2026/07/m-east-war-almost-100-us-troops-injured-in-recent-weeks-pentagon/",
+      "source": "Vanguard",
+      "publishedAt": "2026-07-22T05:08:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "John O'Brennan: Orbán is gone, but the EU has a new headache in Bulgaria",
+      "url": "https://www.irishtimes.com/opinion/2026/07/22/john-obrennan-orban-is-gone-but-the-eu-has-a-new-headache-in-bulgaria/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-22T05:00:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "War in Iran has cost the US $37.5 billion so far, Pentagon says",
+      "url": "https://www.thehindubusinessline.com/news/world/war-in-iran-has-cost-the-us-375-billion-so-far-pentagon-says/article71251914.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-22T04:26:06Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -35,22 +99,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "'Imagine All the Better Things That Could Have Been Done': Trump Has Blown $37.5 Billion on Iran War",
-      "url": "https://www.commondreams.org/news/cost-of-the-iran-war",
-      "source": "Common Dreams",
-      "publishedAt": "2026-07-21T23:38:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "2 tankers carrying Saudi oil reverse course in Red Sea after Houthi threat, amid widening U.S.-Iran war",
-      "url": "https://www.cbc.ca/news/world/iran-tankers-war-us-9.7278658",
-      "source": "CBC News",
-      "publishedAt": "2026-07-21T23:32:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Russia summons Moldovan envoy over ‘threats’ against diplomats",
       "url": "https://www.rt.com/russia/643314-russia-summons-moldovan-envoy/",
       "source": "RT",
@@ -63,48 +111,8 @@
       "url": "https://www.pbs.org/newshour/show/southern-lebanese-skeptical-of-israel-agreement-as-violence-continues",
       "source": "PBS",
       "publishedAt": "2026-07-21T22:50:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Renewed US-Iran strikes: Is a major war looming?",
-      "url": "https://www.rt.com/news/643312-us-iran-strikes-major-war/",
-      "source": "RT",
-      "publishedAt": "2026-07-21T22:29:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran officials double down on demand for nukes, report warns",
-      "url": "https://www.wnd.com/2026/07/iran-officials-double-down-demand-nuclear-weapons-report/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-07-21T21:17:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
-      "url": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-21T21:17:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What is Pickaxe Mountain? Trump says US will hit Iranian nuclear site 'pretty soon'",
-      "url": "https://abcnews.com/Politics/pickaxe-mountain-trump-us-hit-iranian-nuclear-site/story?id=134957036",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-21T20:59:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Backs His Warmongering Claiming Other Wars Have Done Worse",
-      "url": "https://www.shtfplan.com/war/trump-backs-his-warmongering-claiming-other-wars-have-done-worse",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-07-21T20:00:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "'Not finished': Trump signals US strikes on Iran's Pickaxe Mountain site",
@@ -211,14 +219,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Locked Into the Loop: “Predictive History” and the End of Statesmanship — Part 2",
-      "url": "https://www.fairobserver.com/more/science/locked-into-the-loop-predictive-history-and-the-end-of-statesmanship-part-2/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-07-21T12:56:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "In apparent 1st, PLA chopper crosses Taiwan Strait median line",
       "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260721-cna02.htm",
       "source": "Globalsecurity.org",
@@ -233,14 +233,6 @@
       "publishedAt": "2026-07-21T12:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Lebanese army deploys in southern town after Israeli withdrawal, official says",
-      "url": "https://economictimes.indiatimes.com/news/defence/lebanese-army-deploys-in-southern-town-after-israeli-withdrawal-official-says/articleshow/132534958.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-21T11:18:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

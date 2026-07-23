@@ -1,46 +1,134 @@
 {
-  "updated": "2026-07-23T08:26:47Z",
-  "count": 29,
+  "updated": "2026-07-23T13:53:47Z",
+  "count": 30,
   "articles": [
     {
-      "title": "US secretary of state Marco Rubio claims Iran not serious about peace talks",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/07/22/us-secretary-of-state-marco-rubio-claims-iran-not-serious-about-peace-talks/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-22T06:34:10Z",
+      "title": "US directly involved in Ukrainian strikes on Russia – Lavrov",
+      "url": "https://www.rt.com/russia/643340-lavrov-us-ukraine-strike-involvement/",
+      "source": "RT",
+      "publishedAt": "2026-07-22T13:43:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Could Bab Al-Mandeb Be The Next Strait Of Hormuz? Ships Begin Turning Around In Red Sea",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/22/could-bab-al-mandeb-be-the-next-strait-of-hormuz-ships-begin-turning-around-in-red-sea/",
+      "source": "Forbes",
+      "publishedAt": "2026-07-22T13:42:47Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "UK’s Miliband, Streeting: What are their foreign policy, defence records?",
+      "url": "https://www.aljazeera.com/news/2026/7/22/uks-miliband-streeting-what-are-their-foreign-policy-defence-records",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-22T13:41:33Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Anxiety as Australia issues new travel advice for Middle East countries",
-      "url": "https://www.abc.net.au/news/2026-07-22/australians-travel-advice-middle-east-conflict-us-iran/106944564",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-22T06:23:16Z",
+      "title": "Rubio Says Iran-Backed Houthis' Red Sea Blockade 'Problematic'",
+      "url": "https://www.rferl.org/a/rubio-iran-houthis-red-sea-blockade-yemen-us/33809877.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-07-22T13:19:58Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Trump plays down prospects of Iran talks amid Red Sea threat",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-21/trump-plays-down-prospects-for-iran-talks-amid-red-sea-threat",
-      "source": "Bloomberg",
-      "publishedAt": "2026-07-22T06:17:40Z",
+      "title": "Lebanon working towards 'complete Israeli withdrawal'",
+      "url": "https://www.rte.ie/news/middle-east/2026/0722/1584587-lebanon-israel/",
+      "source": "RTE",
+      "publishedAt": "2026-07-22T12:28:07Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Rubio Says Iran-Backed Houthis' Red Sea Blockade 'Problematic'",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260722-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-22T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Wednesday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/07/22/wednesday-hili-dialogue-590/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-07-22T11:45:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
+      "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-22T11:04:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 7/22/2026",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-22-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-22T10:59:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: Iran Rumored to Be Readying Big Attacks as Trump Vows More Escalation and Rubio Disses Talks; Brent Rises to $94 a Barrel as Hormuz Transits Fall, Ships Turn Away from Bab el-Mandeb; Hegseth Fried in Iran Hearings",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-iran-rumored-to-be-readying-big-attacks-as-trump-vows-more-escalation-and-rubio-disses-talks-hegseth-fried-in-iran-hearings.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-22T10:57:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hegseth turns tables on Dems as sparks fly during hearing clash: 'I put this on you'",
+      "url": "https://www.foxnews.com/politics/hegseth-turns-tables-dems-sparks-fly-hearing-clash",
+      "source": "Fox News",
+      "publishedAt": "2026-07-22T10:30:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why Is NATO Attacking ExxonMobil and Chevron Infrastructure in the Black Sea?",
+      "url": "https://www.nakedcapitalism.com/2026/07/why-is-nato-attacking-exxonmobil-and-chevron-infrastructure-in-the-black-sea.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-22T10:00:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest?",
+      "url": "https://www.aljazeera.com/news/2026/7/22/iran-gulf-hit-as-hormuz-bab-al-mandeb-close-whats-the-latest",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-22T08:43:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine's new top general is a 43-year-old maverick whose bold moves began 12 years ago with a 'flying' armored vehicle",
+      "url": "https://www.businessinsider.com/ukraine-new-top-general-drapatyi-commander-chief-fedorov-flying-bmp-2026-7#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-22T08:35:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine's new top general is a 43-year-old maverick whose bold moves began 12 years ago with a 'flying' armored vehicle",
+      "url": "https://www.businessinsider.com/ukraine-new-top-general-drapatyi-commander-chief-fedorov-flying-bmp-2026-7",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-22T08:34:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Trump vows to help Lebanon pursue peace with Israel",
       "url": "https://www.hurriyetdailynews.com/trump-vows-to-help-lebanon-pursue-peace-with-israel-224638",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-07-22T06:03:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says US 'not finished' with Iran as fresh strikes hit Tehran",
-      "url": "https://www.thejournal.ie/trump-iran-us-strikes-tehran-middle-east-7109770-Jul2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-07-22T06:02:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Mind the Gaps: Rethinking Landpower in a Maritime Environment",
@@ -51,36 +139,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "US hits Iran, says war cost at $37.5 bln",
-      "url": "https://www.hurriyetdailynews.com/us-hits-iran-says-war-cost-at-37-5-bln-224636",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-22T05:52:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "M-East war: Almost 100 US troops injured in recent weeks — Pentagon",
-      "url": "https://www.vanguardngr.com/2026/07/m-east-war-almost-100-us-troops-injured-in-recent-weeks-pentagon/",
-      "source": "Vanguard",
-      "publishedAt": "2026-07-22T05:08:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "John O'Brennan: Orbán is gone, but the EU has a new headache in Bulgaria",
       "url": "https://www.irishtimes.com/opinion/2026/07/22/john-obrennan-orban-is-gone-but-the-eu-has-a-new-headache-in-bulgaria/",
       "source": "The Irish Times",
       "publishedAt": "2026-07-22T05:00:01Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "War in Iran has cost the US $37.5 billion so far, Pentagon says",
-      "url": "https://www.thehindubusinessline.com/news/world/war-in-iran-has-cost-the-us-375-billion-so-far-pentagon-says/article71251914.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-22T04:26:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine: America’s Enduring Proxy War on Russia",
@@ -131,30 +195,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Russia strikes Dnipropetrovsk region, 5 wounded amid ongoing conflict",
-      "url": "https://cryptobriefing.com/russia-strikes-dnipropetrovsk-region-5-wounded-amid-ongoing-conflict/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-21T17:30:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Limits – and Dangers – of the China-Russia Partnership",
-      "url": "https://thediplomat.com/2026/07/the-limits-and-dangers-of-the-china-russia-partnership/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-07-21T17:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia Thwarts More Ukrainian Terror Plots as Enemy Morale Declines – FSB's Alpha Group Veteran",
-      "url": "https://sputnikglobe.com/20260721/russia-thwarts-more-ukrainian-terror-plots-as-enemy-morale-declines--fsbs-alpha-group-veteran-1124474197.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-07-21T16:55:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "How Joe Biden enabled Israel’s war crimes",
       "url": "https://freethoughtblogs.com/singham/2026/07/21/how-joe-biden-enabled-israels-war-crimes/",
       "source": "Freethoughtblogs.com",
@@ -171,22 +211,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Is Germany investing in the right weapons?",
-      "url": "https://www.dw.com/en/is-germany-investing-in-the-right-weapons/a-78054394",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-21T14:13:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Turkiye is Poised to Open Up a New Containment Front Against Russia in the Black Sea",
-      "url": "https://korybko.substack.com/p/turkiye-is-poised-to-open-up-a-new",
-      "source": "Substack.com",
-      "publishedAt": "2026-07-21T14:01:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Lebanese army enters southern town after Israeli withdrawal",
       "url": "https://www.cbc.ca/news/world/south-lebanon-army-israeli-troop-withdraws-9.7277803",
       "source": "CBC News",
@@ -199,22 +223,6 @@
       "url": "https://economictimes.indiatimes.com/news/defence/irans-forces-attack-bahrain-and-kuwait-after-us-hits-iranian-ports-and-cities/articleshow/132538145.cms",
       "source": "The Times of India",
       "publishedAt": "2026-07-21T13:46:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran’s Forces Attack Bahrain and Kuwait After US Hits Iranian Ports and Cities",
-      "url": "https://www.insurancejournal.com/news/international/2026/07/21/878354.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-07-21T13:31:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon’s President Will Meet With Trump in Washington to Push for Israeli Troop Withdrawal",
-      "url": "https://military.com/lebanons-president-will-meet-with-trump-in-washington-to-push-for-israeli-troop-withdrawal",
-      "source": "Military.com",
-      "publishedAt": "2026-07-21T13:27:39Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

@@ -1,7 +1,103 @@
 {
-  "updated": "2026-07-23T19:13:51Z",
-  "count": 32,
+  "updated": "2026-07-24T02:32:53Z",
+  "count": 24,
   "articles": [
+    {
+      "title": "US military carries out strikes on Iran as both sides threaten civilian infrastructure",
+      "url": "https://www.thehindubusinessline.com/news/world/us-military-carries-out-strikes-on-iran-as-both-sides-threaten-civilian-infrastructure/article71256176.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-23T01:57:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US carrying out new wave of Iran strikes as military attacks Islamic Republic for 12th straight night",
+      "url": "https://nypost.com/2026/07/22/world-news/us-carrying-out-new-wave-of-iran-strikes-as-military-attacks-islamic-republic-for-12th-straight-night/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-23T01:07:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US military strikes Iran for 12th straight night as conflict escalates",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-military-strikes-iran-for-12th-straight-night-as-conflict-escalates/articleshow/132570199.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-23T00:57:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Wait, I Thought We Won the War Already?",
+      "url": "https://original.antiwar.com/nolan_denaro/2026/07/22/wait-i-thought-we-won-the-war-already/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-07-23T00:00:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Zionists Are About To Learn It Doesn’t Pay To Sentence Socrates to Death",
+      "url": "https://original.antiwar.com/jason_jones/2026/07/22/zionists-are-about-to-learn-it-doesnt-pay-to-sentence-socrates-to-death/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-07-23T00:00:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump appears to downplay Iran war deaths in posts comparing them to other conflicts",
+      "url": "https://abcnews.com/Politics/trump-appears-downplay-iran-war-deaths-social-posts/story?id=134983380",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-22T23:52:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US withholding $400 million in Ukraine military aid – senator",
+      "url": "https://www.rt.com/news/643357-us-withhold-military-aid-ukraine/",
+      "source": "RT",
+      "publishedAt": "2026-07-22T23:18:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Redistricting pushes incumbents toward the exits: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/redistricting-pushes-incumbents-exits-politics-desk-rcna588800",
+      "source": "NBC News",
+      "publishedAt": "2026-07-22T22:40:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says Soldiers Killed In Iran War Repeated Admin’s Talking Points On Conflict",
+      "url": "https://dailycaller.com/2026/07/22/trump-soldiers-killed-iran-war-nuclear-weapon-talking-points",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-07-22T22:37:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Eyes Pickaxe Mountain Nuclear Site Heavy Strikes: “Iran Hasn’t Seen Anything Yet, We’ve Been Nice”",
+      "url": "https://www.shtfplan.com/war/trump-eyes-pickaxe-mountain-nuclear-site-heavy-strikes-iran-hasnt-seen-anything-yet-weve-been-nice",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-07-22T22:30:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
+      "url": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-22T22:03:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
+      "url": "https://www.aljazeera.com/news/2026/7/22/ukraines-new-military-chief-pledges-to-escalate-retaliation-against-russia",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-22T20:34:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Ukraine has a new butcher-in-chief – all the better to feed Ukrainians to the grinder",
       "url": "https://www.rt.com/news/643351-ukraine-drapaty-new-butcher/",
@@ -9,14 +105,6 @@
       "publishedAt": "2026-07-22T19:03:40Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Threatens to Bomb Iranian Civilian Sites, Potential War Crimes",
-      "url": "https://truthout.org/articles/trump-threatens-to-bomb-iranian-civilian-sites-potential-war-crimes/",
-      "source": "Truthout",
-      "publishedAt": "2026-07-22T18:48:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Volodymyr Zelenskyy’s removal of two top defence officials highlights the role of morale in long wars",
@@ -35,76 +123,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "War Chief Wants More Money For War",
-      "url": "https://www.shtfplan.com/war/war-chief-wants-more-money-for-war",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-07-22T17:30:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "DOJ Afraid to Put Things in Writing for Fear It’d Be Used Against Them",
-      "url": "https://newrepublic.com/post/213370/doj-afraid-put-things-writing-minneapolis-cities-church-ice",
-      "source": "The New Republic",
-      "publishedAt": "2026-07-22T17:29:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump BBC Defamation Lawsuit Backfires Big-Time—With Subpoenas Coming",
-      "url": "https://newrepublic.com/post/213372/trump-bbc-defamation-lawsuit-backfires-subpoenas-financial-info",
-      "source": "The New Republic",
-      "publishedAt": "2026-07-22T17:13:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Some Indigenous leaders call premiers' meeting positive but inclusion remains an issue",
       "url": "https://www.cbc.ca/news/indigenous/indigenous-leaders-premiers-9.7279262",
       "source": "CBC News",
       "publishedAt": "2026-07-22T16:58:20Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump’s Top Tariff Negotiator Dodges Key Question on Reimbursements",
-      "url": "https://newrepublic.com/post/213369/donald-trump-tariff-negotiator-key-question-reimbursements",
-      "source": "The New Republic",
-      "publishedAt": "2026-07-22T16:16:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Top Gun: Maverick Theory of Pete Hegseth",
-      "url": "https://www.theatlantic.com/national-security/2026/07/top-gun-hegseth-pentagon-leadership/687997/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-07-22T16:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Threatens U.S. Allies as Trump Hints at Strike on Pickaxe Mountain Nuclear Site",
-      "url": "https://legalinsurrection.com/2026/07/iran-threatens-u-s-allies-as-trump-hints-at-strike-on-pickaxe-mountain-nuclear-site/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-07-22T16:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Nolan Wells Autopsy Raises More Questions About Black Teen’s Death",
-      "url": "https://newrepublic.com/post/213368/nolan-wells-autopsy-questions-black-teen-death",
-      "source": "The New Republic",
-      "publishedAt": "2026-07-22T15:54:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Puts Words in the Mouths of Dead Soldiers to Defend His War",
-      "url": "https://newrepublic.com/post/213366/trump-speaks-for-dead-soldiers-iran-war",
-      "source": "The New Republic",
-      "publishedAt": "2026-07-22T15:44:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukrainian Musical Chairs: Zelensky Changes Military Leadership, Again",
@@ -155,22 +179,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Ukraine's new top general is a 43-year-old maverick whose bold moves began 12 years ago with a 'flying' armored vehicle",
-      "url": "https://www.businessinsider.com/ukraine-new-top-general-drapatyi-commander-chief-fedorov-flying-bmp-2026-7#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-07-22T08:35:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine's new top general is a 43-year-old maverick whose bold moves began 12 years ago with a 'flying' armored vehicle",
-      "url": "https://www.businessinsider.com/ukraine-new-top-general-drapatyi-commander-chief-fedorov-flying-bmp-2026-7",
-      "source": "Business Insider",
-      "publishedAt": "2026-07-22T08:34:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump vows to help Lebanon pursue peace with Israel",
       "url": "https://www.hurriyetdailynews.com/trump-vows-to-help-lebanon-pursue-peace-with-israel-224638",
       "source": "Hurriyet Daily News",
@@ -185,78 +193,6 @@
       "publishedAt": "2026-07-22T06:00:12Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Southern Lebanese skeptical of Israel agreement as violence continues",
-      "url": "https://www.pbs.org/newshour/show/southern-lebanese-skeptical-of-israel-agreement-as-violence-continues",
-      "source": "PBS",
-      "publishedAt": "2026-07-21T22:50:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "'Not finished': Trump signals US strikes on Iran's Pickaxe Mountain site",
-      "url": "https://www.abc.net.au/news/2026-07-22/trump-pickaxe-mountain/106942520",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-21T18:00:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "'Not finished': Trump signals US strikes on Iran's 'Pickaxe Mountain' site",
-      "url": "https://www.abc.net.au/news/2026-07-22/trump-says-us-will-target-iran-nuclear-development-site/106942520",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-21T18:00:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "How Joe Biden enabled Israel’s war crimes",
-      "url": "https://freethoughtblogs.com/singham/2026/07/21/how-joe-biden-enabled-israels-war-crimes/",
-      "source": "Freethoughtblogs.com",
-      "publishedAt": "2026-07-21T16:32:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Fox’s Bret Baier Weighs In on Trump’s Iran War Being Called a ‘Quagmire’",
-      "url": "https://www.mediaite.com/media/tv/foxs-bret-baier-weighs-in-on-trumps-iran-war-being-called-a-quagmire/",
-      "source": "Mediaite",
-      "publishedAt": "2026-07-21T15:21:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanese army enters southern town after Israeli withdrawal",
-      "url": "https://www.cbc.ca/news/world/south-lebanon-army-israeli-troop-withdraws-9.7277803",
-      "source": "CBC News",
-      "publishedAt": "2026-07-21T13:55:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran's forces attack Bahrain and Kuwait after US hits Iranian ports and cities",
-      "url": "https://economictimes.indiatimes.com/news/defence/irans-forces-attack-bahrain-and-kuwait-after-us-hits-iranian-ports-and-cities/articleshow/132538145.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-21T13:46:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "In apparent 1st, PLA chopper crosses Taiwan Strait median line",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260721-cna02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-21T12:00:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "New bridge between North Korea and China could open soon - 12 years after completion",
-      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260721-rfa01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-21T12:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

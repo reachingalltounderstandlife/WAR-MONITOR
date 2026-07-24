@@ -1,28 +1,100 @@
 {
-  "updated": "2026-07-24T02:32:53Z",
-  "count": 24,
+  "updated": "2026-07-24T08:24:44Z",
+  "count": 25,
   "articles": [
+    {
+      "title": "Houthis Claim Oil Tanker Attacks in Red Sea",
+      "url": "https://www.rigzone.com/news/wire/houthis_claim_oil_tanker_attacks_in_red_sea-23-jul-2026-184193-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-07-23T07:48:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Houthis Open New Front in Iran War by Targeting Ships in Red Sea",
+      "url": "https://financialpost.com/pmn/business-pmn/houthis-open-new-front-in-iran-war-by-targeting-ships-in-red-sea",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-23T07:45:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Houthis target Red Sea shipping as US hits Iran",
+      "url": "https://www.hurriyetdailynews.com/houthis-target-red-sea-shipping-as-us-hits-iran-224698",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-23T06:51:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war: Houthis claim strikes on two Saudi tankers as US attacks on Iran widen",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/23/iran-war-live-updates-us-houthis-donald-trump/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-23T06:27:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
+      "url": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-23T06:08:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NYT Report: Pentagon Withheld Iran War Injury Data",
+      "url": "https://www.naturalnews.com/2026-07-23-nyt-pentagon-withheld-iran-war-injury-data.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-23T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine Conflict Described as Longstanding U.S. Proxy War Against Russia",
+      "url": "https://www.naturalnews.com/2026-07-23-ukraine-conflict-longstanding-us-proxy-war-against-russia.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-23T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran war: Houthis claim strikes on two Saudi tankers as US attacks on Iran widen",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/23/iran-war-houthis-claim-strikes-on-two-saudi-tankers-as-us-attacks-on-iran-widen/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-23T05:37:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "We Are Facing Satan’s Victory",
+      "url": "https://www.lewrockwell.com/2026/07/paul-craig-roberts/we-are-facing-satans-victory/",
+      "source": "Lewrockwell.com",
+      "publishedAt": "2026-07-23T04:01:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran’s version of whack-a-mole",
+      "url": "https://www.americanthinker.com/blog/2026/07/iran-s-version-of-whack-a-mole/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-07-23T04:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "EU/NATO Pressures Greece to Hand Over Its ‘Patriot’ SAMs for Kiev, Copies Soviet S-300?",
+      "url": "https://www.globalresearch.ca/eunato-pressures-greece-to-hand-over-its-patriot-sams-for-kiev-copies-soviet-s-300/5934254",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-23T03:51:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "US military carries out strikes on Iran as both sides threaten civilian infrastructure",
       "url": "https://www.thehindubusinessline.com/news/world/us-military-carries-out-strikes-on-iran-as-both-sides-threaten-civilian-infrastructure/article71256176.ece",
       "source": "BusinessLine",
       "publishedAt": "2026-07-23T01:57:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US carrying out new wave of Iran strikes as military attacks Islamic Republic for 12th straight night",
-      "url": "https://nypost.com/2026/07/22/world-news/us-carrying-out-new-wave-of-iran-strikes-as-military-attacks-islamic-republic-for-12th-straight-night/",
-      "source": "New York Post",
-      "publishedAt": "2026-07-23T01:07:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US military strikes Iran for 12th straight night as conflict escalates",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-military-strikes-iran-for-12th-straight-night-as-conflict-escalates/articleshow/132570199.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-23T00:57:15Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -33,22 +105,6 @@
       "publishedAt": "2026-07-23T00:00:35Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Zionists Are About To Learn It Doesn’t Pay To Sentence Socrates to Death",
-      "url": "https://original.antiwar.com/jason_jones/2026/07/22/zionists-are-about-to-learn-it-doesnt-pay-to-sentence-socrates-to-death/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-07-23T00:00:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump appears to downplay Iran war deaths in posts comparing them to other conflicts",
-      "url": "https://abcnews.com/Politics/trump-appears-downplay-iran-war-deaths-social-posts/story?id=134983380",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-22T23:52:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "US withholding $400 million in Ukraine military aid – senator",
@@ -63,32 +119,8 @@
       "url": "https://www.nbcnews.com/politics/politics-news/redistricting-pushes-incumbents-exits-politics-desk-rcna588800",
       "source": "NBC News",
       "publishedAt": "2026-07-22T22:40:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Says Soldiers Killed In Iran War Repeated Admin’s Talking Points On Conflict",
-      "url": "https://dailycaller.com/2026/07/22/trump-soldiers-killed-iran-war-nuclear-weapon-talking-points",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-07-22T22:37:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Eyes Pickaxe Mountain Nuclear Site Heavy Strikes: “Iran Hasn’t Seen Anything Yet, We’ve Been Nice”",
-      "url": "https://www.shtfplan.com/war/trump-eyes-pickaxe-mountain-nuclear-site-heavy-strikes-iran-hasnt-seen-anything-yet-weve-been-nice",
-      "source": "Shtfplan.com",
-      "publishedAt": "2026-07-22T22:30:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
-      "url": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-22T22:03:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
@@ -139,14 +171,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US directly involved in Ukrainian strikes on Russia – Lavrov",
-      "url": "https://www.rt.com/russia/643340-lavrov-us-ukraine-strike-involvement/",
-      "source": "RT",
-      "publishedAt": "2026-07-22T13:43:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Could Bab Al-Mandeb Be The Next Strait Of Hormuz? Ships Begin Turning Around In Red Sea",
       "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/22/could-bab-al-mandeb-be-the-next-strait-of-hormuz-ships-begin-turning-around-in-red-sea/",
       "source": "Forbes",
@@ -161,22 +185,6 @@
       "publishedAt": "2026-07-22T12:28:07Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
-      "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-22T11:04:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why Is NATO Attacking ExxonMobil and Chevron Infrastructure in the Black Sea?",
-      "url": "https://www.nakedcapitalism.com/2026/07/why-is-nato-attacking-exxonmobil-and-chevron-infrastructure-in-the-black-sea.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-22T10:00:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Trump vows to help Lebanon pursue peace with Israel",

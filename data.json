@@ -1,52 +1,164 @@
 {
-  "updated": "2026-07-24T08:24:44Z",
-  "count": 25,
+  "updated": "2026-07-24T13:41:17Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "Which Middle East nations have nuclear programmes, and how were they built?",
+      "url": "https://www.aljazeera.com/news/2026/7/23/which-middle-east-nations-have-nuclear-programmes-and-how-were-they-built",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-23T12:46:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Third Iran War Is Going To Be Crazy: The Fighting Just Won’t Stop As U.S. Officials Prepare For A Prolonged Period Of Conflict",
+      "url": "https://www.activistpost.com/the-third-iran-war-is-going-to-be-crazy-the-fighting-just-wont-stop-as-u-s-officials-prepare-for-a-prolonged-period-of-conflict/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-07-23T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says He's on the Brink of Approving Biggest Iran Strikes of the War",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260723-sputnik01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-23T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Day 1,611 of WW3. Lapdog Lavrov wants to meet Rubio in Manila in Moscow's never-ending quest to avoid talking to Kyiv. Orc mil-bloggers are panicking about Drapatyi's appointment as UAF Commander in Chief. This is your Thursday Ukraine war thread [News]",
+      "url": "https://www.fark.com/comments/14139800/Day-1611-of-WW3-Lapdog-Lavrov-wants-to-meet-Rubio-in-Manila-in-Moscows-never-ending-quest-to-avoid-talking-to-Kyiv-Orc-mil-bloggers-are-panicking-about-Drapatyis-appointment-as-UAF-Commander-in-Chief-This-is-your-Thursday-Ukraine-war-thread",
+      "source": "Fark.com",
+      "publishedAt": "2026-07-23T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "No Breakthroughs, Little Optimism As Rubio, Lavrov Meet On Ukraine War",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260723-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-23T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
+      "url": "https://www.aljazeera.com/economy/2026/7/23/iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehran",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-23T11:53:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Thursday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/07/23/thursday-hili-dialogue-597/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-07-23T11:45:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US is ready to help end the 'senseless war' in Ukraine, Rubio says",
+      "url": "https://abcnews.com/International/wireStory/us-ready-end-senseless-war-ukraine-quick-deal-135004865",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-23T11:42:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Looks Like $5 Gas Is Back on the Menu",
+      "url": "https://www.jezebel.com/gas-prices-5-dollars-oil-prices-climbing-again-iran-war-peace-collapse-houthis-blockade-bab-al-mandab-saudi-arabia",
+      "source": "Jezebel",
+      "publishedAt": "2026-07-23T11:30:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 7/23/2026",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-23-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-23T10:58:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "No Breakthroughs, Little Optimism As Rubio, Lavrov Meet On Ukraine War",
+      "url": "https://www.rferl.org/a/rubio-ukraine-war-lavrov-meeting-russia/33810551.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-07-23T10:56:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Britain’s quarter century: Blair, populism and the battle over human rights",
+      "url": "https://theconversation.com/britains-quarter-century-blair-populism-and-the-battle-over-human-rights-282676",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-07-23T10:48:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO is looking to create the same battlefield feedback loop Ukraine has",
+      "url": "https://www.businessinsider.com/nato-wants-same-battlefield-feedback-loop-ukraine-mastered-top-general-2026-7",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-23T10:30:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO is looking to create the same battlefield feedback loop Ukraine has",
+      "url": "https://www.businessinsider.com/nato-wants-same-battlefield-feedback-loop-ukraine-mastered-top-general-2026-7#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-23T10:30:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine war: inside the longstanding conflict between politicians and military commanders",
+      "url": "https://theconversation.com/ukraine-war-inside-the-longstanding-conflict-between-politicians-and-military-commanders-288006",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-07-23T10:04:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "South Korea shifting to ‘peace first’ North Korea policy, retains denuclearisation goal",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-north-denuclearisation-peace-first-policy-6273246",
+      "source": "CNA",
+      "publishedAt": "2026-07-23T09:55:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Ramat Gan opens bomb shelters amid escalating US-Iran missile strikes",
+      "url": "https://cryptobriefing.com/ramat-gan-opens-bomb-shelters-amid-escalating-us-iran-missile-strikes/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-23T09:52:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: Trump and Iran Exchange More Threats; Oil at $98 After Ansar Allah Tanker Strikes; House Passes $1.15 Trillion NDAA with Israel “Merger”; Trump Signs Saudi Nuclear Deal",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-and-iran-exchange-more-threats-oil-at-98-after-ansar-allah-tanker-strikes-house-passes-1-15-trillion-ndaa-with-israel-merger-trump-signs-saudi-nuclear-deal.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-23T09:13:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How war in Myanmar is driving a deadly rare earth mining boom",
+      "url": "https://grist.org/international/myanmar-war-rare-earth-mining-landslide-labor/",
+      "source": "Grist",
+      "publishedAt": "2026-07-23T08:45:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
     {
       "title": "Houthis Claim Oil Tanker Attacks in Red Sea",
       "url": "https://www.rigzone.com/news/wire/houthis_claim_oil_tanker_attacks_in_red_sea-23-jul-2026-184193-article/",
       "source": "Rigzone",
       "publishedAt": "2026-07-23T07:48:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Houthis Open New Front in Iran War by Targeting Ships in Red Sea",
-      "url": "https://financialpost.com/pmn/business-pmn/houthis-open-new-front-in-iran-war-by-targeting-ships-in-red-sea",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-23T07:45:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Houthis target Red Sea shipping as US hits Iran",
-      "url": "https://www.hurriyetdailynews.com/houthis-target-red-sea-shipping-as-us-hits-iran-224698",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-23T06:51:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war: Houthis claim strikes on two Saudi tankers as US attacks on Iran widen",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/07/23/iran-war-live-updates-us-houthis-donald-trump/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-23T06:27:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia",
-      "url": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-23T06:08:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "NYT Report: Pentagon Withheld Iran War Injury Data",
-      "url": "https://www.naturalnews.com/2026-07-23-nyt-pentagon-withheld-iran-war-injury-data.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-23T06:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -59,44 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran war: Houthis claim strikes on two Saudi tankers as US attacks on Iran widen",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/07/23/iran-war-houthis-claim-strikes-on-two-saudi-tankers-as-us-attacks-on-iran-widen/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-23T05:37:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "We Are Facing Satan’s Victory",
       "url": "https://www.lewrockwell.com/2026/07/paul-craig-roberts/we-are-facing-satans-victory/",
       "source": "Lewrockwell.com",
       "publishedAt": "2026-07-23T04:01:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s version of whack-a-mole",
-      "url": "https://www.americanthinker.com/blog/2026/07/iran-s-version-of-whack-a-mole/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-07-23T04:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "EU/NATO Pressures Greece to Hand Over Its ‘Patriot’ SAMs for Kiev, Copies Soviet S-300?",
-      "url": "https://www.globalresearch.ca/eunato-pressures-greece-to-hand-over-its-patriot-sams-for-kiev-copies-soviet-s-300/5934254",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-23T03:51:18Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US military carries out strikes on Iran as both sides threaten civilian infrastructure",
-      "url": "https://www.thehindubusinessline.com/news/world/us-military-carries-out-strikes-on-iran-as-both-sides-threaten-civilian-infrastructure/article71256176.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-23T01:57:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Wait, I Thought We Won the War Already?",
@@ -107,14 +187,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "US withholding $400 million in Ukraine military aid – senator",
-      "url": "https://www.rt.com/news/643357-us-withhold-military-aid-ukraine/",
-      "source": "RT",
-      "publishedAt": "2026-07-22T23:18:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Redistricting pushes incumbents toward the exits: From the Politics Desk",
       "url": "https://www.nbcnews.com/politics/politics-news/redistricting-pushes-incumbents-exits-politics-desk-rcna588800",
       "source": "NBC News",
@@ -123,52 +195,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Ukraine’s new military chief pledges to escalate retaliation against Russia",
-      "url": "https://www.aljazeera.com/news/2026/7/22/ukraines-new-military-chief-pledges-to-escalate-retaliation-against-russia",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-22T20:34:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine has a new butcher-in-chief – all the better to feed Ukrainians to the grinder",
-      "url": "https://www.rt.com/news/643351-ukraine-drapaty-new-butcher/",
-      "source": "RT",
-      "publishedAt": "2026-07-22T19:03:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Volodymyr Zelenskyy’s removal of two top defence officials highlights the role of morale in long wars",
-      "url": "https://theconversation.com/volodymyr-zelenskyys-removal-of-two-top-defence-officials-highlights-the-role-of-morale-in-long-wars-287814",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-07-22T17:51:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump Bombed Iran Over Uranium, but His Saudi Besties Get to Make Their Own",
       "url": "https://www.jezebel.com/trump-bombed-iran-over-uranium-but-his-saudi-besties-get-to-make-their-own",
       "source": "Jezebel",
       "publishedAt": "2026-07-22T17:50:52Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Some Indigenous leaders call premiers' meeting positive but inclusion remains an issue",
-      "url": "https://www.cbc.ca/news/indigenous/indigenous-leaders-premiers-9.7279262",
-      "source": "CBC News",
-      "publishedAt": "2026-07-22T16:58:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukrainian Musical Chairs: Zelensky Changes Military Leadership, Again",
-      "url": "https://www.breitbart.com/europe/2026/07/22/ukrainian-musical-chairs-zelensky-changes-military-leadership-again/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-07-22T14:52:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Could Bab Al-Mandeb Be The Next Strait Of Hormuz? Ships Begin Turning Around In Red Sea",

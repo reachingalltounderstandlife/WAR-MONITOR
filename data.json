@@ -1,30 +1,142 @@
 {
-  "updated": "2026-07-24T13:41:17Z",
-  "count": 29,
+  "updated": "2026-07-24T19:22:36Z",
+  "count": 36,
   "articles": [
+    {
+      "title": "Is Germany Working on a Secret Nuclear Weapons Program?",
+      "url": "https://www.globalresearch.ca/germany-working-secret-nuclear-weapons-program/5934360",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-23T19:14:17Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Congress fails to restrict Trump’s Iran war powers",
+      "url": "https://www.rt.com/news/643400-senate-iran-war-powers-resolution/",
+      "source": "RT",
+      "publishedAt": "2026-07-23T18:45:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump threatens Houthis with 'major military punishment'",
+      "url": "https://www.channelnewsasia.com/world/houthis-red-sea-attacks-trump-warn-iran-6274446",
+      "source": "CNA",
+      "publishedAt": "2026-07-23T18:37:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump close to deciding on ‘massive attack’ against Iran after Houthis strike Red Sea tankers",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/23/trump-close-to-deciding-on-massive-attack-against-iran-after-houthis-strike-red-sea-tankers/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-23T18:09:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah brands Aoun's visit to US a 'submission'",
+      "url": "https://www.rte.ie/news/middle-east/2026/0723/1584845-lebanon-middle-east/",
+      "source": "RTE",
+      "publishedAt": "2026-07-23T17:39:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What are the security implications of the US-Saudi nuclear deal?",
+      "url": "https://www.aljazeera.com/news/2026/7/23/what-are-the-security-implications-of-the-us-saudi-nuclear-deal",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-23T17:27:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "There’s Only One Way Out of Trump’s Reckless War",
+      "url": "http://foreignpolicy.com/2026/07/23/iran-united-states-trump-hormuz-war-nuclear/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-07-23T17:09:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil prices jump back over $US100 a barrel as Middle East conflict widens",
+      "url": "https://www.abc.net.au/news/2026-07-24/oil-prices-houthi-iran-us-donald-trump/106952390",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-07-23T16:28:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Is Triggering a Middle East Nuclear Arms Race",
+      "url": "http://foreignpolicy.com/2026/07/23/trump-us-saudi-nuclear-deal-weapons-iran-israel-arms-race/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-07-23T16:17:45Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Yemen faces a new challenge amid prospects of confrontation",
+      "url": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-23T16:17:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Saudi nuclear deal: How will it impact Middle East, US-Iran war?",
+      "url": "https://www.dw.com/en/us-saudi-nuclear-deal-how-will-it-impact-middle-east-us-iran-war/a-78087041",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-23T16:14:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Inklings | What’s this humanitarian leader doing on a US destroyer?",
+      "url": "https://www.thenewhumanitarian.org/newsletter/2026/07/23/inklings-whats-humanitarian-leader-doing-us-destroyer",
+      "source": "The New Humanitarian",
+      "publishedAt": "2026-07-23T15:56:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah says Lebanon president's US visit 'submission' to foreign power",
+      "url": "https://www.channelnewsasia.com/world/hezbollah-says-lebanon-presidents-us-visit-submission-foreign-power-6274166",
+      "source": "CNA",
+      "publishedAt": "2026-07-23T15:36:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Reviewing Peskov’s Interview With Swiss Media",
+      "url": "https://korybko.substack.com/p/reviewing-peskovs-interview-with",
+      "source": "Substack.com",
+      "publishedAt": "2026-07-23T15:35:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Target Practice",
+      "url": "https://www.nybooks.com/online/2026/07/23/target-practice-israel-artificial-intelligence/",
+      "source": "The New York Review of Books",
+      "publishedAt": "2026-07-23T14:05:33Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "U.S. and Ukraine Sign Landmark Drone Cooperation Agreement",
+      "url": "https://oilprice.com/Geopolitics/Europe/US-and-Ukraine-Sign-Landmark-Drone-Cooperation-Agreement.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-07-23T14:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Which Middle East nations have nuclear programmes, and how were they built?",
       "url": "https://www.aljazeera.com/news/2026/7/23/which-middle-east-nations-have-nuclear-programmes-and-how-were-they-built",
       "source": "Al Jazeera English",
       "publishedAt": "2026-07-23T12:46:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Third Iran War Is Going To Be Crazy: The Fighting Just Won’t Stop As U.S. Officials Prepare For A Prolonged Period Of Conflict",
-      "url": "https://www.activistpost.com/the-third-iran-war-is-going-to-be-crazy-the-fighting-just-wont-stop-as-u-s-officials-prepare-for-a-prolonged-period-of-conflict/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-07-23T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Says He's on the Brink of Approving Biggest Iran Strikes of the War",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260723-sputnik01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-23T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Day 1,611 of WW3. Lapdog Lavrov wants to meet Rubio in Manila in Moscow's never-ending quest to avoid talking to Kyiv. Orc mil-bloggers are panicking about Drapatyi's appointment as UAF Commander in Chief. This is your Thursday Ukraine war thread [News]",
@@ -43,44 +155,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
-      "url": "https://www.aljazeera.com/economy/2026/7/23/iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehran",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-23T11:53:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Thursday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/07/23/thursday-hili-dialogue-597/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-07-23T11:45:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "US is ready to help end the 'senseless war' in Ukraine, Rubio says",
       "url": "https://abcnews.com/International/wireStory/us-ready-end-senseless-war-ukraine-quick-deal-135004865",
       "source": "Abcnews.com",
       "publishedAt": "2026-07-23T11:42:39Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Looks Like $5 Gas Is Back on the Menu",
-      "url": "https://www.jezebel.com/gas-prices-5-dollars-oil-prices-climbing-again-iran-war-peace-collapse-houthis-blockade-bab-al-mandab-saudi-arabia",
-      "source": "Jezebel",
-      "publishedAt": "2026-07-23T11:30:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 7/23/2026",
-      "url": "https://www.nakedcapitalism.com/2026/07/links-7-23-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-23T10:58:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "No Breakthroughs, Little Optimism As Rubio, Lavrov Meet On Ukraine War",
@@ -131,20 +211,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Ramat Gan opens bomb shelters amid escalating US-Iran missile strikes",
-      "url": "https://cryptobriefing.com/ramat-gan-opens-bomb-shelters-amid-escalating-us-iran-missile-strikes/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-23T09:52:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Iran War: Trump and Iran Exchange More Threats; Oil at $98 After Ansar Allah Tanker Strikes; House Passes $1.15 Trillion NDAA with Israel “Merger”; Trump Signs Saudi Nuclear Deal",
       "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-and-iran-exchange-more-threats-oil-at-98-after-ansar-allah-tanker-strikes-house-passes-1-15-trillion-ndaa-with-israel-merger-trump-signs-saudi-nuclear-deal.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-07-23T09:13:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "How war in Myanmar is driving a deadly rare earth mining boom",
@@ -155,28 +227,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Houthis Claim Oil Tanker Attacks in Red Sea",
-      "url": "https://www.rigzone.com/news/wire/houthis_claim_oil_tanker_attacks_in_red_sea-23-jul-2026-184193-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-07-23T07:48:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine Conflict Described as Longstanding U.S. Proxy War Against Russia",
-      "url": "https://www.naturalnews.com/2026-07-23-ukraine-conflict-longstanding-us-proxy-war-against-russia.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-23T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "We Are Facing Satan’s Victory",
       "url": "https://www.lewrockwell.com/2026/07/paul-craig-roberts/we-are-facing-satans-victory/",
       "source": "Lewrockwell.com",
       "publishedAt": "2026-07-23T04:01:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Wait, I Thought We Won the War Already?",

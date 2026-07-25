@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-24T19:22:36Z",
-  "count": 36,
+  "updated": "2026-07-25T02:30:59Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "U.S. Concludes 13th Night of Strikes on Iranian Military Targets",
+      "url": "https://freerepublic.com/focus/f-news/4389156/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-24T02:20:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US is ready to help end the 'senseless war' in Ukraine but no quick deal ahead, Rubio says",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-is-ready-to-help-end-the-senseless-war-in-ukraine-but-no-quick-deal-ahead-rubio-says/articleshow/132594732.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-24T02:08:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukrainian F-16 fighter makes history striking down Russian Su-35 jet in war’s first",
+      "url": "https://nypost.com/2026/07/23/world-news/ukrainian-f-16-fighter-makes-history-striking-down-russian-su-35-jet/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-24T01:40:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Art of the Giveaway",
+      "url": "https://www.theatlantic.com/national-security/2026/07/trump-saudi-arabia-nuclear-energy-deal/688040/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-07-24T00:12:18Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "UN envoy for Yemen ‘alarmed’ by Houthis’ Red Sea attacks, calls for talks",
+      "url": "https://www.aljazeera.com/news/2026/7/24/un-envoy-for-yemen-alarmed-by-houthis-red-sea-attacks-calls-for-talks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-24T00:03:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Could Zelensky Suffer Diem’s Fate?",
+      "url": "https://original.antiwar.com/ted_galen_carpenter/2026/07/23/could-zelensky-suffer-diems-fate/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-07-24T00:00:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO’s Shadow Bank: Financing a New Era of Militarisation",
+      "url": "https://www.activistpost.com/natos-shadow-bank-financing-a-new-era-of-militarisation/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-07-24T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S. Military Says It’s Launching New Strikes On Iran As Clashes Escalate Over Shipping Routes",
+      "url": "https://www.huffpost.com/entry/iran-us-strikes-hormuz_n_6a62a4b5e4b0f1b7fc52560a",
+      "source": "HuffPost",
+      "publishedAt": "2026-07-23T23:41:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump warns of largest strikes on Iran yet as Tehran lashes out across Gulf",
+      "url": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-23T21:43:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Not Trump's kind of guy': White House insider leaks President's private thoughts about 'dorky' new UK Prime Minister, by MARK HALPERIN",
+      "url": "https://www.dailymail.com/debate/article-16000225/Trump-British-Prime-Minister-Burnham-dorky-mark-halperin.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-23T21:33:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran’s frightening missile accuracy sparks fears adversaries are helping Tehran target US troops, CIA sites",
+      "url": "https://nypost.com/2026/07/23/world-news/irans-strikes-on-us-troops-cia-facilities-expose-deadly-new-threat-with-russia-and-chinas-help-feared/",
+      "source": "New York Post",
+      "publishedAt": "2026-07-23T20:19:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "LIVE: Pahlavi Prepares FINAL Iran Uprising - UK Joining Trump In Fighting IRGC",
+      "url": "https://freerepublic.com/focus/f-chat/4389117/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-23T20:01:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UK 'ready to defend itself' after Iran says bases are 'legitimate targets'",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1e2542wno",
+      "source": "BBC News",
+      "publishedAt": "2026-07-23T20:00:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Another oil artery under threat? The Houthis are testing Riyadh",
+      "url": "https://www.rt.com/news/643391-houthis-saudi-oill-artery/",
+      "source": "RT",
+      "publishedAt": "2026-07-23T19:42:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Is Germany Working on a Secret Nuclear Weapons Program?",
       "url": "https://www.globalresearch.ca/germany-working-secret-nuclear-weapons-program/5934360",
@@ -11,60 +123,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Congress fails to restrict Trump’s Iran war powers",
-      "url": "https://www.rt.com/news/643400-senate-iran-war-powers-resolution/",
-      "source": "RT",
-      "publishedAt": "2026-07-23T18:45:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump threatens Houthis with 'major military punishment'",
-      "url": "https://www.channelnewsasia.com/world/houthis-red-sea-attacks-trump-warn-iran-6274446",
-      "source": "CNA",
-      "publishedAt": "2026-07-23T18:37:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump close to deciding on ‘massive attack’ against Iran after Houthis strike Red Sea tankers",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/07/23/trump-close-to-deciding-on-massive-attack-against-iran-after-houthis-strike-red-sea-tankers/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-23T18:09:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Hezbollah brands Aoun's visit to US a 'submission'",
       "url": "https://www.rte.ie/news/middle-east/2026/0723/1584845-lebanon-middle-east/",
       "source": "RTE",
       "publishedAt": "2026-07-23T17:39:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What are the security implications of the US-Saudi nuclear deal?",
-      "url": "https://www.aljazeera.com/news/2026/7/23/what-are-the-security-implications-of-the-us-saudi-nuclear-deal",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-23T17:27:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "There’s Only One Way Out of Trump’s Reckless War",
-      "url": "http://foreignpolicy.com/2026/07/23/iran-united-states-trump-hormuz-war-nuclear/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-23T17:09:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil prices jump back over $US100 a barrel as Middle East conflict widens",
-      "url": "https://www.abc.net.au/news/2026-07-24/oil-prices-houthi-iran-us-donald-trump/106952390",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-23T16:28:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump Is Triggering a Middle East Nuclear Arms Race",
@@ -75,28 +139,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Yemen faces a new challenge amid prospects of confrontation",
-      "url": "https://www.aljazeera.com/news/2026/7/23/yemen-faces-a-new-challenge-amid-prospects-of-confrontation",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-23T16:17:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "US-Saudi nuclear deal: How will it impact Middle East, US-Iran war?",
       "url": "https://www.dw.com/en/us-saudi-nuclear-deal-how-will-it-impact-middle-east-us-iran-war/a-78087041",
       "source": "DW (English)",
       "publishedAt": "2026-07-23T16:14:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Inklings | What’s this humanitarian leader doing on a US destroyer?",
-      "url": "https://www.thenewhumanitarian.org/newsletter/2026/07/23/inklings-whats-humanitarian-leader-doing-us-destroyer",
-      "source": "The New Humanitarian",
-      "publishedAt": "2026-07-23T15:56:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Hezbollah says Lebanon president's US visit 'submission' to foreign power",
@@ -163,46 +211,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "No Breakthroughs, Little Optimism As Rubio, Lavrov Meet On Ukraine War",
-      "url": "https://www.rferl.org/a/rubio-ukraine-war-lavrov-meeting-russia/33810551.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-07-23T10:56:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Britain’s quarter century: Blair, populism and the battle over human rights",
-      "url": "https://theconversation.com/britains-quarter-century-blair-populism-and-the-battle-over-human-rights-282676",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-07-23T10:48:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO is looking to create the same battlefield feedback loop Ukraine has",
-      "url": "https://www.businessinsider.com/nato-wants-same-battlefield-feedback-loop-ukraine-mastered-top-general-2026-7",
-      "source": "Business Insider",
-      "publishedAt": "2026-07-23T10:30:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO is looking to create the same battlefield feedback loop Ukraine has",
-      "url": "https://www.businessinsider.com/nato-wants-same-battlefield-feedback-loop-ukraine-mastered-top-general-2026-7#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-07-23T10:30:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine war: inside the longstanding conflict between politicians and military commanders",
-      "url": "https://theconversation.com/ukraine-war-inside-the-longstanding-conflict-between-politicians-and-military-commanders-288006",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-07-23T10:04:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "South Korea shifting to ‘peace first’ North Korea policy, retains denuclearisation goal",
       "url": "https://www.channelnewsasia.com/east-asia/south-korea-north-denuclearisation-peace-first-policy-6273246",
       "source": "CNA",
@@ -241,54 +249,6 @@
       "publishedAt": "2026-07-23T00:00:35Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Redistricting pushes incumbents toward the exits: From the Politics Desk",
-      "url": "https://www.nbcnews.com/politics/politics-news/redistricting-pushes-incumbents-exits-politics-desk-rcna588800",
-      "source": "NBC News",
-      "publishedAt": "2026-07-22T22:40:15Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Trump Bombed Iran Over Uranium, but His Saudi Besties Get to Make Their Own",
-      "url": "https://www.jezebel.com/trump-bombed-iran-over-uranium-but-his-saudi-besties-get-to-make-their-own",
-      "source": "Jezebel",
-      "publishedAt": "2026-07-22T17:50:52Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Could Bab Al-Mandeb Be The Next Strait Of Hormuz? Ships Begin Turning Around In Red Sea",
-      "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/22/could-bab-al-mandeb-be-the-next-strait-of-hormuz-ships-begin-turning-around-in-red-sea/",
-      "source": "Forbes",
-      "publishedAt": "2026-07-22T13:42:47Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon working towards 'complete Israeli withdrawal'",
-      "url": "https://www.rte.ie/news/middle-east/2026/0722/1584587-lebanon-israel/",
-      "source": "RTE",
-      "publishedAt": "2026-07-22T12:28:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump vows to help Lebanon pursue peace with Israel",
-      "url": "https://www.hurriyetdailynews.com/trump-vows-to-help-lebanon-pursue-peace-with-israel-224638",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-22T06:03:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Mind the Gaps: Rethinking Landpower in a Maritime Environment",
-      "url": "https://smallwarsjournal.com/2026/07/22/rethinking-landpower-first-island-chain/",
-      "source": "Smallwarsjournal.com",
-      "publishedAt": "2026-07-22T06:00:12Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
     }
   ]
 }

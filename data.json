@@ -1,7 +1,103 @@
 {
-  "updated": "2026-07-26T08:23:43Z",
-  "count": 26,
+  "updated": "2026-07-26T13:17:45Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "The farce of Trump’s nuclear deal with Saudi Arabia",
+      "url": "https://mondoweiss.net/2026/07/the-farce-of-trumps-nuclear-deal-with-saudi-arabia/",
+      "source": "Mondoweiss",
+      "publishedAt": "2026-07-25T13:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Yemen's Houthis fire missiles, drones at Saudi Arabia",
+      "url": "https://www.cbc.ca/news/world/houthis-missiles-saudi-arabia-hodeida-9.7283754",
+      "source": "CBC News",
+      "publishedAt": "2026-07-25T12:50:40Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "At least 11 killed in Ukrainian and Russian strikes as holiday camp hit",
+      "url": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-25T12:41:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Bridges and infrastructure are hit as US struck deeper into Iran",
+      "url": "https://economictimes.indiatimes.com/news/defence/bridges-and-infrastructure-are-hit-as-us-struck-deeper-into-iran/articleshow/132625387.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-25T12:15:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Day 1,613 of WW3: Russian military unit burns at Engels-2 strategic bomber airbase, while drones strike Yekaterinburg Wildberries logistics warehouses. This is your Saturday Ukraine discussion [News]",
+      "url": "https://www.fark.com/comments/14142284/Day-1613-of-WW3-Russian-military-unit-burns-at-Engels-2-strategic-bomber-airbase-while-drones-strike-Yekaterinburg-Wildberries-logistics-warehouses-This-is-your-Saturday-Ukraine-discussion",
+      "source": "Fark.com",
+      "publishedAt": "2026-07-25T12:15:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pakistan Leads Fresh Push For US-Iran Talks Amid Widening Conflict",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260725-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-25T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Saturday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/07/25/saturday-hili-dialogue-592/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-07-25T11:45:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Bridges and Infrastructure Hit as US Struck Deeper Inside Iran",
+      "url": "https://military.com/bridges-and-infrastructure-hit-as-us-struck-deeper-inside-iran",
+      "source": "Military.com",
+      "publishedAt": "2026-07-25T11:38:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 7/25/2026",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-25-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-25T10:59:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran reports no new U.S. strikes as tensions remain high",
+      "url": "https://abcnews.com/US/wireStory/iran-reports-new-us-strikes-tensions-remain-high-135077829",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-25T10:53:03Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Ukraine Drone Sparks Fire at Tyumen Oil Refinery in Russia",
+      "url": "https://financialpost.com/pmn/business-pmn/ukraine-drone-sparks-fire-at-tyumen-oil-refinery-in-russia",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-25T10:17:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian attack kills 3 in Ukraine; Romania downs second drone in 2 days",
+      "url": "https://cryptobriefing.com/russian-attack-kills-3-in-ukraine-romania-downs-second-drone-in-2-days/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-25T10:14:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Iranian Missiles Strike U.S. Military Sites in Jordan’s Aqaba",
       "url": "https://www.naturalnews.com/2026-07-25-iranian-missiles-strike-us-sites-jordans-aqaba.html",
@@ -75,30 +171,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "US military says it fired on another merchant vessel trying to breach its blockade of Iranian ports",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-fired-on-another-merchant-vessel-trying-to-breach-its-blockade-of-iranian-ports/articleshow/132617321.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-25T00:53:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Saudi Arabia Learns the Limits of Pay to Play",
-      "url": "https://www.theatlantic.com/ideas/2026/07/saudi-arabia-trump-nuclear-deal/688064/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-07-24T23:29:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US intelligence: Mojtaba Khamenei more open to build nuclear bomb",
-      "url": "https://www.israelnationalnews.com/news/430728",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-07-24T22:54:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Here’s Why Trump Is Considering Strikes On Another African Nation",
       "url": "https://dailycaller.com/2026/07/24/trump-considering-strikes-mali-africa-terror-persecution-christians-islamists-sharia-jihad",
       "source": "The Daily Caller",
@@ -115,50 +187,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "ANDREW NEIL: I'm told Trump's physical and mental health are in visible decline - and there's ever more talk about a ground invasion. 150 days on, he has no good options left in Iran debacle",
-      "url": "https://www.dailymail.com/debate/article-16003555/ANDREW-NEIL-Im-told-Trumps-physical-mental-health-visible-decline-theres-talk-ground-invasion-150-days-no-good-options-left-Iran-debacle.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-24T19:31:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "U.S. Army Has Failed To Replenish Stockpiles Of 155mm Artillery Rounds",
       "url": "https://www.forbes.com/sites/petersuciu/2026/07/24/us-army-has-failed-to-replenish-stockpiles-of-155mm-artillery-rounds/",
       "source": "Forbes",
       "publishedAt": "2026-07-24T19:20:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europe Could Help Get Ukraine and Russia to the Negotiating Table",
-      "url": "https://www.rand.org/pubs/commentary/2026/07/europe-could-help-get-ukraine-and-russia-to-the-negotiating.html",
-      "source": "Rand.org",
-      "publishedAt": "2026-07-24T18:45:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia hits drone demonstration near Kyiv, killing 10",
-      "url": "https://www.dw.com/en/russia-hits-drone-demonstration-near-kyiv-killing-10/a-78105704",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-24T17:55:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Long History of “Russian Aggression” in Europe",
-      "url": "https://www.globalresearch.ca/the-long-history-of-russian-aggression-in-europe/5934476",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-24T17:47:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Romanian jet fighter shoots down suspected Russian drone",
-      "url": "https://www.aljazeera.com/news/2026/7/24/romanian-jet-fighter-shoots-down-suspected-russian-drone",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-24T16:53:55Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

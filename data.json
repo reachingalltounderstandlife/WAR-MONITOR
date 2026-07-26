@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-25T19:04:29Z",
-  "count": 35,
+  "updated": "2026-07-26T02:38:32Z",
+  "count": 25,
   "articles": [
+    {
+      "title": "US military says it fired on another merchant vessel trying to breach its blockade of Iranian ports",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-fired-on-another-merchant-vessel-trying-to-breach-its-blockade-of-iranian-ports/articleshow/132617321.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-25T00:53:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Saudi Arabia Learns the Limits of Pay to Play",
+      "url": "https://www.theatlantic.com/ideas/2026/07/saudi-arabia-trump-nuclear-deal/688064/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-07-24T23:29:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US intelligence: Mojtaba Khamenei more open to build nuclear bomb",
+      "url": "https://www.israelnationalnews.com/news/430728",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-24T22:54:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Here’s Why Trump Is Considering Strikes On Another African Nation",
+      "url": "https://dailycaller.com/2026/07/24/trump-considering-strikes-mali-africa-terror-persecution-christians-islamists-sharia-jihad",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-07-24T22:00:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says hasn’t decided on big Iran strikes, Tehran getting ‘serious’",
+      "url": "https://www.vanguardngr.com/2026/07/trump-says-hasnt-decided-on-big-iran-strikes-tehran-getting-serious/",
+      "source": "Vanguard",
+      "publishedAt": "2026-07-24T20:39:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "ANDREW NEIL: I'm told Trump's physical and mental health are in visible decline - and there's ever more talk about a ground invasion. 150 days on, he has no good options left in Iran debacle",
+      "url": "https://www.dailymail.com/debate/article-16003555/ANDREW-NEIL-Im-told-Trumps-physical-mental-health-visible-decline-theres-talk-ground-invasion-150-days-no-good-options-left-Iran-debacle.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-24T19:31:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'End of an era': How the Iran war may change US military strategy",
+      "url": "https://www.abc.net.au/news/2026-07-25/us-military-damage-to-weapons-bases-soldiers-during-iran-war/106954370",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-07-24T19:24:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. Army Has Failed To Replenish Stockpiles Of 155mm Artillery Rounds",
+      "url": "https://www.forbes.com/sites/petersuciu/2026/07/24/us-army-has-failed-to-replenish-stockpiles-of-155mm-artillery-rounds/",
+      "source": "Forbes",
+      "publishedAt": "2026-07-24T19:20:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Europe Could Help Get Ukraine and Russia to the Negotiating Table",
       "url": "https://www.rand.org/pubs/commentary/2026/07/europe-could-help-get-ukraine-and-russia-to-the-negotiating.html",
@@ -67,14 +131,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US Strikes Iran From South to North After Trump Threats Over Red Sea Shipping",
-      "url": "https://gcaptain.com/us-strikes-iran-from-south-to-north-after-trump-threats-over-red-sea-shipping/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-07-24T16:08:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The US scored its first Iranian Shahed kill with a counter-drone system proven in Ukraine",
       "url": "https://www.businessinsider.com/us-military-kill-iranian-drone-system-proven-in-ukraine-2026-7#article",
       "source": "Business Insider",
@@ -87,8 +143,8 @@
       "url": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation",
       "source": "Al Jazeera English",
       "publishedAt": "2026-07-24T16:01:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Romanian F-16 shoots down drone after airspace breach, marking first for NATO ally",
@@ -107,30 +163,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Drones target northern Iraqi city where US forces are based as Iran war escalates",
-      "url": "https://nypost.com/2026/07/24/world-news/drones-target-northern-iraqi-city-where-us-forces-are-based-as-us-iran-fighting-escalates/",
-      "source": "New York Post",
-      "publishedAt": "2026-07-24T14:16:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "No Breakthrough as Top U.S. and Russian Diplomats Meet Over Ukraine",
-      "url": "https://oilprice.com/Geopolitics/Europe/No-Breakthrough-as-Top-US-and-Russian-Diplomats-Meet-Over-Ukraine.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-07-24T14:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Weighs Wider Iranian Attacks With New Truce Still Elusive...",
-      "url": "https://finance.yahoo.com/energy/articles/trump-weighs-wider-iranian-attacks-052349735.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-24T13:00:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Taiwan Requests Compensation for Endless F-16 Fighter Jets Delays",
       "url": "https://www.globalresearch.ca/taiwan-requests-compensation-for-endless-f-16-fighter-jets-delays/5934414",
       "source": "Globalresearch.ca",
@@ -139,28 +171,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "We are Already Fighting World War III and You are the Target",
-      "url": "https://www.globalresearch.ca/fighting-world-war-iii-you-target/5934421",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-24T12:44:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Struggle Session",
-      "url": "https://www.kunstler.com/p/struggle-session-330",
-      "source": "Kunstler.com",
-      "publishedAt": "2026-07-24T12:39:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Escalating US-Iran war, DRC dialogue, and aid worker kidnappings: The Cheat Sheet",
       "url": "https://www.thenewhumanitarian.org/news/2026/07/24/escalating-us-iran-war-drc-dialogue-aid-worker-kidnappings-cheat-sheet",
       "source": "The New Humanitarian",
       "publishedAt": "2026-07-24T12:33:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The Rise of North Korea’s Nuclear-Armed Navy",
@@ -185,102 +201,6 @@
       "publishedAt": "2026-07-24T00:12:18Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Is Germany Working on a Secret Nuclear Weapons Program?",
-      "url": "https://www.globalresearch.ca/germany-working-secret-nuclear-weapons-program/5934360",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-23T19:14:17Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Hezbollah brands Aoun's visit to US a 'submission'",
-      "url": "https://www.rte.ie/news/middle-east/2026/0723/1584845-lebanon-middle-east/",
-      "source": "RTE",
-      "publishedAt": "2026-07-23T17:39:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Is Triggering a Middle East Nuclear Arms Race",
-      "url": "http://foreignpolicy.com/2026/07/23/trump-us-saudi-nuclear-deal-weapons-iran-israel-arms-race/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-23T16:17:45Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "US-Saudi nuclear deal: How will it impact Middle East, US-Iran war?",
-      "url": "https://www.dw.com/en/us-saudi-nuclear-deal-how-will-it-impact-middle-east-us-iran-war/a-78087041",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-23T16:14:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Hezbollah says Lebanon president's US visit 'submission' to foreign power",
-      "url": "https://www.channelnewsasia.com/world/hezbollah-says-lebanon-presidents-us-visit-submission-foreign-power-6274166",
-      "source": "CNA",
-      "publishedAt": "2026-07-23T15:36:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Target Practice",
-      "url": "https://www.nybooks.com/online/2026/07/23/target-practice-israel-artificial-intelligence/",
-      "source": "The New York Review of Books",
-      "publishedAt": "2026-07-23T14:05:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Which Middle East nations have nuclear programmes, and how were they built?",
-      "url": "https://www.aljazeera.com/news/2026/7/23/which-middle-east-nations-have-nuclear-programmes-and-how-were-they-built",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-23T12:46:46Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "South Korea shifting to ‘peace first’ North Korea policy, retains denuclearisation goal",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-north-denuclearisation-peace-first-policy-6273246",
-      "source": "CNA",
-      "publishedAt": "2026-07-23T09:55:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iran War: Trump and Iran Exchange More Threats; Oil at $98 After Ansar Allah Tanker Strikes; House Passes $1.15 Trillion NDAA with Israel “Merger”; Trump Signs Saudi Nuclear Deal",
-      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-and-iran-exchange-more-threats-oil-at-98-after-ansar-allah-tanker-strikes-house-passes-1-15-trillion-ndaa-with-israel-merger-trump-signs-saudi-nuclear-deal.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-23T09:13:03Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "How war in Myanmar is driving a deadly rare earth mining boom",
-      "url": "https://grist.org/international/myanmar-war-rare-earth-mining-landslide-labor/",
-      "source": "Grist",
-      "publishedAt": "2026-07-23T08:45:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "We Are Facing Satan’s Victory",
-      "url": "https://www.lewrockwell.com/2026/07/paul-craig-roberts/we-are-facing-satans-victory/",
-      "source": "Lewrockwell.com",
-      "publishedAt": "2026-07-23T04:01:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Wait, I Thought We Won the War Already?",
-      "url": "https://original.antiwar.com/nolan_denaro/2026/07/22/wait-i-thought-we-won-the-war-already/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-07-23T00:00:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

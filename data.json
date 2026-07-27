@@ -1,54 +1,110 @@
 {
-  "updated": "2026-07-27T09:48:59Z",
-  "count": 28,
+  "updated": "2026-07-27T14:29:38Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "DRAWN IN BLOOD: The Deliberate Demolition of Sykes-Picot and the Architects of the New Middle East",
+      "url": "https://i-epikaira.blogspot.com/2026/07/drawn-in-blood-deliberate-demolition-of.html",
+      "source": "Blogspot.com",
+      "publishedAt": "2026-07-26T14:11:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel and the cost paradox of the Iran war",
+      "url": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-26T14:04:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Nuclear Ambitions?",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/07/nuclear-ambitions",
+      "source": "Lawyersgunsmoneyblog.com",
+      "publishedAt": "2026-07-26T13:26:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Moscow assisting Iran, Zelensky says after Ukrainian attack on ship...",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-903665",
+      "source": "The Jerusalem Post",
+      "publishedAt": "2026-07-26T13:00:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
+      "url": "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-26T12:34:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hungary Escaped The Clutches Of A Power-Mad Autocrat. Can We?",
+      "url": "https://www.huffpost.com/entry/trump-autocracy-hungary_n_6a2ea097e4b0942fb77916dc",
+      "source": "HuffPost",
+      "publishedAt": "2026-07-26T12:00:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Statement Attributed to Iran's Supreme Leader Insists Lebanese Integrity, Hezbollah Safety Paramount In US Talks",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260726-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-26T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Sunday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/07/26/sunday-hili-dialogue-596/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-07-26T11:45:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Life on the List",
+      "url": "https://www.nybooks.com/online/2026/07/26/life-on-the-list/",
+      "source": "The New York Review of Books",
+      "publishedAt": "2026-07-26T11:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 7/26/2026",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-26-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-26T10:55:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Live updates: Iran war news; US appears to pause Iran strikes, as Trump advisers raise concerns - CNN",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184698996",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-26T10:53:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
+      "url": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-26T10:45:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "India’s drone moment has arrived",
       "url": "https://www.rt.com/india/643456-indias-drone-hub-iran-war-lesson/",
       "source": "RT",
       "publishedAt": "2026-07-26T08:18:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran says war to expand further if US attacks continue",
-      "url": "https://punchng.com/iran-says-war-to-expand-further-if-us-attacks-continue/",
-      "source": "The Punch",
-      "publishedAt": "2026-07-26T08:06:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US pauses nightly strikes on Iran as war moves to Red Sea",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/07/26/us-pauses-nightly-strikes-on-iran-as-war-moves-to-red-sea/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-26T07:54:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war spreads to Red Sea and Caspian; No US attacks for first time in two weeks",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-war-spreads-to-red-sea-and-caspian-no-us-attacks-for-first-time-in-two-weeks/article71268735.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-26T06:21:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Desperation continues after Memorandum of Understanding fails to bring order: US military pounds Iranian city of Ahvaz",
-      "url": "https://www.naturalnews.com/2026-07-26-us-military-pounds-iranian-city-of-ahvaz.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-26T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Faces Criticism Over Iran War Death Comments",
-      "url": "https://www.naturalnews.com/2026-07-26-trump-faces-criticism-iran-war-death-comments.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-26T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Russia strikes Kyiv, Kryvyi Rih, and civilian cargo ship in Black Sea",
@@ -63,16 +119,8 @@
       "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities",
       "source": "Al Jazeera English",
       "publishedAt": "2026-07-26T04:40:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Airstrikes have paused and talks are pressing forward, but can US and Iran take the off-ramp?",
-      "url": "https://www.thehindubusinessline.com/news/world/airstrikes-have-paused-and-talks-are-pressing-forward-but-can-us-and-iran-take-the-off-ramp/article71268618.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-26T04:35:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Allies against Iran in unexpected places: Ukraine and Greece",
@@ -81,22 +129,6 @@
       "publishedAt": "2026-07-26T04:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran war spreads to Red Sea and Caspian as Gulf quiet",
-      "url": "https://www.rte.ie/news/middle-east/2026/0726/1585131-middle-east-conflict/",
-      "source": "RTE",
-      "publishedAt": "2026-07-26T03:57:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war spreads to Red Sea and Caspian as Gulf quiet",
-      "url": "https://www.rte.ie/news/middle-east/2026/0726/1585131-iran-war-wrap/",
-      "source": "RTE",
-      "publishedAt": "2026-07-26T03:57:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "70% of Germans don’t believe army can protect the country – YouGov pol",
@@ -185,46 +217,6 @@
       "publishedAt": "2026-07-25T13:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Yemen's Houthis fire missiles, drones at Saudi Arabia",
-      "url": "https://www.cbc.ca/news/world/houthis-missiles-saudi-arabia-hodeida-9.7283754",
-      "source": "CBC News",
-      "publishedAt": "2026-07-25T12:50:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "At least 11 killed in Ukrainian and Russian strikes as holiday camp hit",
-      "url": "https://www.aljazeera.com/news/2026/7/25/at-least-11-killed-in-ukrainian-and-russian-strikes-as-holiday-camp-hit",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-25T12:41:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran reports no new U.S. strikes as tensions remain high",
-      "url": "https://abcnews.com/US/wireStory/iran-reports-new-us-strikes-tensions-remain-high-135077829",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-25T10:53:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S. Officials Say Iran War Nearly Won, but Military Data Shows Unmet Objectives and Depleted Stockpiles",
-      "url": "https://www.naturalnews.com/2026-07-25-us-iran-military-data-unmet-objectives-depleted-stockpiles.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-25T06:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Houthi Claim Missile Strikes on Southern Saudi Arabia",
-      "url": "https://financialpost.com/pmn/business-pmn/houthi-claim-missile-strikes-on-southern-saudi-arabia",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-25T05:56:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

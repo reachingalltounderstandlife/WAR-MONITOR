@@ -1,20 +1,100 @@
 {
-  "updated": "2026-07-27T02:47:09Z",
-  "count": 27,
+  "updated": "2026-07-27T09:48:59Z",
+  "count": 28,
   "articles": [
     {
-      "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
-      "url": "https://abcnews.com/US/wireStory/airstrikes-paused-talks-pressing-forward-us-iran-off-135091184",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-26T01:11:38Z",
+      "title": "India’s drone moment has arrived",
+      "url": "https://www.rt.com/india/643456-indias-drone-hub-iran-war-lesson/",
+      "source": "RT",
+      "publishedAt": "2026-07-26T08:18:33Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Trump avoids Iran escalation amid declining US interceptor stockpiles",
-      "url": "https://cryptobriefing.com/trump-avoids-iran-escalation-amid-declining-us-interceptor-stockpiles/",
+      "title": "Iran says war to expand further if US attacks continue",
+      "url": "https://punchng.com/iran-says-war-to-expand-further-if-us-attacks-continue/",
+      "source": "The Punch",
+      "publishedAt": "2026-07-26T08:06:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US pauses nightly strikes on Iran as war moves to Red Sea",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/26/us-pauses-nightly-strikes-on-iran-as-war-moves-to-red-sea/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-26T07:54:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war spreads to Red Sea and Caspian; No US attacks for first time in two weeks",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-war-spreads-to-red-sea-and-caspian-no-us-attacks-for-first-time-in-two-weeks/article71268735.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-26T06:21:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Desperation continues after Memorandum of Understanding fails to bring order: US military pounds Iranian city of Ahvaz",
+      "url": "https://www.naturalnews.com/2026-07-26-us-military-pounds-iranian-city-of-ahvaz.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-26T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Faces Criticism Over Iran War Death Comments",
+      "url": "https://www.naturalnews.com/2026-07-26-trump-faces-criticism-iran-war-death-comments.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-26T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia strikes Kyiv, Kryvyi Rih, and civilian cargo ship in Black Sea",
+      "url": "https://cryptobriefing.com/russia-strikes-kyiv-kryvyi-rih-and-civilian-cargo-ship-in-black-sea/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-07-26T01:08:23Z",
+      "publishedAt": "2026-07-26T05:47:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+      "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-26T04:40:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Airstrikes have paused and talks are pressing forward, but can US and Iran take the off-ramp?",
+      "url": "https://www.thehindubusinessline.com/news/world/airstrikes-have-paused-and-talks-are-pressing-forward-but-can-us-and-iran-take-the-off-ramp/article71268618.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-26T04:35:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Allies against Iran in unexpected places: Ukraine and Greece",
+      "url": "https://www.americanthinker.com/blog/2026/07/allies-against-iran-in-unexpected-places-ukraine-and-greece/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-07-26T04:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran war spreads to Red Sea and Caspian as Gulf quiet",
+      "url": "https://www.rte.ie/news/middle-east/2026/0726/1585131-middle-east-conflict/",
+      "source": "RTE",
+      "publishedAt": "2026-07-26T03:57:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war spreads to Red Sea and Caspian as Gulf quiet",
+      "url": "https://www.rte.ie/news/middle-east/2026/0726/1585131-iran-war-wrap/",
+      "source": "RTE",
+      "publishedAt": "2026-07-26T03:57:12Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -31,24 +111,8 @@
       "url": "https://economictimes.indiatimes.com/news/defence/iran-backed-houthis-fire-missiles-at-saudi-arabia-in-response-to-airstrikes-in-yemen/articleshow/132635407.cms",
       "source": "The Times of India",
       "publishedAt": "2026-07-26T00:49:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Airstrikes have paused and talks are pressing forward. But can US and Iran take the off-ramp?",
-      "url": "https://economictimes.indiatimes.com/news/defence/airstrikes-have-paused-and-talks-are-pressing-forward-but-can-us-and-iran-take-the-off-ramp/articleshow/132635405.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-26T00:49:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump halts US military strikes on day 13 to allow room for diplomacy with Iran: Report",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-halts-us-military-strikes-on-day-13-to-allow-room-for-diplomacy-with-iran-report/articleshow/132635386.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-26T00:36:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "‘Game of Thrones’ as Ukraine’s president, defense minister split",
@@ -59,28 +123,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Zelenskyy accuses Russia of assisting Iran with satellite imagery of U.S. bases in Middle East - CBS News",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184689696",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-07-25T22:32:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Three Endgames: Scenarios for the Iran War and the Post-American Order",
-      "url": "https://i-epikaira.blogspot.com/2026/07/three-endgames-scenarios-for-iran-war.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-07-25T22:20:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Praxian Genocidal Kill Chain — Part 3",
       "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-3/",
       "source": "Activistpost.com",
       "publishedAt": "2026-07-25T22:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Houthis Fire Missiles At Saudi Arabia In Response To Airstrikes In Yemen",
@@ -89,22 +137,6 @@
       "publishedAt": "2026-07-25T20:37:11Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Visiting UN chief urges respect for Syria's sovereignty, international support",
-      "url": "https://www.channelnewsasia.com/world/visiting-un-chief-urges-respect-syrias-sovereignty-international-support-6278366",
-      "source": "CNA",
-      "publishedAt": "2026-07-25T20:05:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel remains on high alert despite pause in Iran strikes",
-      "url": "https://www.israelnationalnews.com/news/430736",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-07-25T19:22:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Iran-backed Houthis fire missiles at Saudi Arabia in response to airstrikes in Yemen",
@@ -171,36 +203,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Day 1,613 of WW3: Russian military unit burns at Engels-2 strategic bomber airbase, while drones strike Yekaterinburg Wildberries logistics warehouses. This is your Saturday Ukraine discussion [News]",
-      "url": "https://www.fark.com/comments/14142284/Day-1613-of-WW3-Russian-military-unit-burns-at-Engels-2-strategic-bomber-airbase-while-drones-strike-Yekaterinburg-Wildberries-logistics-warehouses-This-is-your-Saturday-Ukraine-discussion",
-      "source": "Fark.com",
-      "publishedAt": "2026-07-25T12:15:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran reports no new U.S. strikes as tensions remain high",
       "url": "https://abcnews.com/US/wireStory/iran-reports-new-us-strikes-tensions-remain-high-135077829",
       "source": "Abcnews.com",
       "publishedAt": "2026-07-25T10:53:03Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Ukraine Drone Sparks Fire at Tyumen Oil Refinery in Russia",
-      "url": "https://financialpost.com/pmn/business-pmn/ukraine-drone-sparks-fire-at-tyumen-oil-refinery-in-russia",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-25T10:17:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian attack kills 3 in Ukraine; Romania downs second drone in 2 days",
-      "url": "https://cryptobriefing.com/russian-attack-kills-3-in-ukraine-romania-downs-second-drone-in-2-days/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-25T10:14:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "U.S. Officials Say Iran War Nearly Won, but Military Data Shows Unmet Objectives and Depleted Stockpiles",

@@ -1,30 +1,118 @@
 {
-  "updated": "2026-07-26T19:07:12Z",
-  "count": 31,
+  "updated": "2026-07-27T02:47:09Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
+      "url": "https://abcnews.com/US/wireStory/airstrikes-paused-talks-pressing-forward-us-iran-off-135091184",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-26T01:11:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump avoids Iran escalation amid declining US interceptor stockpiles",
+      "url": "https://cryptobriefing.com/trump-avoids-iran-escalation-amid-declining-us-interceptor-stockpiles/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-26T01:08:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "70% of Germans don’t believe army can protect the country – YouGov pol",
+      "url": "https://www.rt.com/news/643480-germans-dont-believe-army-protect/",
+      "source": "RT",
+      "publishedAt": "2026-07-26T01:07:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran-backed Houthis fire missiles at Saudi Arabia in response to airstrikes in Yemen",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-backed-houthis-fire-missiles-at-saudi-arabia-in-response-to-airstrikes-in-yemen/articleshow/132635407.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-26T00:49:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Airstrikes have paused and talks are pressing forward. But can US and Iran take the off-ramp?",
+      "url": "https://economictimes.indiatimes.com/news/defence/airstrikes-have-paused-and-talks-are-pressing-forward-but-can-us-and-iran-take-the-off-ramp/articleshow/132635405.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-26T00:49:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump halts US military strikes on day 13 to allow room for diplomacy with Iran: Report",
+      "url": "https://economictimes.indiatimes.com/news/defence/trump-halts-us-military-strikes-on-day-13-to-allow-room-for-diplomacy-with-iran-report/articleshow/132635386.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-26T00:36:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Game of Thrones’ as Ukraine’s president, defense minister split",
+      "url": "https://www.defenseone.com/threats/2026/07/game-thrones-ukraines-president-defense-minister-split/415009/",
+      "source": "Defense One",
+      "publishedAt": "2026-07-25T22:34:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelenskyy accuses Russia of assisting Iran with satellite imagery of U.S. bases in Middle East - CBS News",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184689696",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-25T22:32:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Three Endgames: Scenarios for the Iran War and the Post-American Order",
+      "url": "https://i-epikaira.blogspot.com/2026/07/three-endgames-scenarios-for-iran-war.html",
+      "source": "Blogspot.com",
+      "publishedAt": "2026-07-25T22:20:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Praxian Genocidal Kill Chain — Part 3",
+      "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-3/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-07-25T22:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Houthis Fire Missiles At Saudi Arabia In Response To Airstrikes In Yemen",
+      "url": "https://www.huffpost.com/entry/ap-ml-iran-us-houthis-saudi-arabia_n_6a651d0ce4b021af4925b01c",
+      "source": "HuffPost",
+      "publishedAt": "2026-07-25T20:37:11Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Visiting UN chief urges respect for Syria's sovereignty, international support",
+      "url": "https://www.channelnewsasia.com/world/visiting-un-chief-urges-respect-syrias-sovereignty-international-support-6278366",
+      "source": "CNA",
+      "publishedAt": "2026-07-25T20:05:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel remains on high alert despite pause in Iran strikes",
+      "url": "https://www.israelnationalnews.com/news/430736",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-25T19:22:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Iran-backed Houthis fire missiles at Saudi Arabia in response to airstrikes in Yemen",
       "url": "https://economictimes.indiatimes.com/news/defence/iran-backed-houthis-fire-missiles-at-saudi-arabia-in-response-to-airstrikes-in-yemen/articleshow/132632167.cms",
       "source": "The Times of India",
       "publishedAt": "2026-07-25T18:20:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump ordered military not to conduct strikes in Iran Friday - Axios",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184684944",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-07-25T18:12:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes",
-      "url": "https://www.channelnewsasia.com/world/iran-war-red-sea-caspain-gulf-strikes-6278296",
-      "source": "CNA",
-      "publishedAt": "2026-07-25T17:53:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Canada is taking an outsized role in the construction of the post-American world",
@@ -49,14 +137,6 @@
       "publishedAt": "2026-07-25T15:13:40Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Iran's Mojtaba Khamenei \"far more\" likely to seek nuke weapons than father: Report",
-      "url": "https://economictimes.indiatimes.com/news/defence/irans-mojtaba-khamenei-far-more-likely-to-seek-nuke-weapons-than-father-report/articleshow/132628813.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-25T14:56:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Attack on holiday camp in Russian-held Ukraine kills 11",
@@ -91,52 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Bridges and infrastructure are hit as US struck deeper into Iran",
-      "url": "https://economictimes.indiatimes.com/news/defence/bridges-and-infrastructure-are-hit-as-us-struck-deeper-into-iran/articleshow/132625387.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-25T12:15:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Day 1,613 of WW3: Russian military unit burns at Engels-2 strategic bomber airbase, while drones strike Yekaterinburg Wildberries logistics warehouses. This is your Saturday Ukraine discussion [News]",
       "url": "https://www.fark.com/comments/14142284/Day-1613-of-WW3-Russian-military-unit-burns-at-Engels-2-strategic-bomber-airbase-while-drones-strike-Yekaterinburg-Wildberries-logistics-warehouses-This-is-your-Saturday-Ukraine-discussion",
       "source": "Fark.com",
       "publishedAt": "2026-07-25T12:15:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Pakistan Leads Fresh Push For US-Iran Talks Amid Widening Conflict",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260725-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-25T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Saturday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/07/25/saturday-hili-dialogue-592/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-07-25T11:45:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Bridges and Infrastructure Hit as US Struck Deeper Inside Iran",
-      "url": "https://military.com/bridges-and-infrastructure-hit-as-us-struck-deeper-inside-iran",
-      "source": "Military.com",
-      "publishedAt": "2026-07-25T11:38:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 7/25/2026",
-      "url": "https://www.nakedcapitalism.com/2026/07/links-7-25-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-25T10:59:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Iran reports no new U.S. strikes as tensions remain high",
@@ -163,14 +203,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Durbin: U.S. Delays $400 Million in Ukraine Military Aid Until 2029",
-      "url": "https://www.naturalnews.com/2026-07-25-durbin-us-delays-ukraine-aid-until-2029.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-25T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "U.S. Officials Say Iran War Nearly Won, but Military Data Shows Unmet Objectives and Depleted Stockpiles",
       "url": "https://www.naturalnews.com/2026-07-25-us-iran-military-data-unmet-objectives-depleted-stockpiles.html",
       "source": "Naturalnews.com",
@@ -185,70 +217,6 @@
       "publishedAt": "2026-07-25T05:56:39Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "The Fault Lines of a New Global Era",
-      "url": "https://i-epikaira.blogspot.com/2026/07/the-fault-lines-of-new-global-era.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-07-25T04:48:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "News Summary-Intelligence Report 7/24/2026*Newsdump Friday*Ebola Vax Test*China Hits Back EU Russia Sanctions*Sexual Misconduct Firing Netanyahu Arrest Warrant*Trumpanyahu Meet*Deadly Fight, Israeli Crackdown*Fires France, Spain*War Deaths Altered*",
-      "url": "https://freerepublic.com/focus/f-bloggers/4389281/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-25T04:02:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
-      "url": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-24T16:01:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Taiwan Requests Compensation for Endless F-16 Fighter Jets Delays",
-      "url": "https://www.globalresearch.ca/taiwan-requests-compensation-for-endless-f-16-fighter-jets-delays/5934414",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-24T13:00:14Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Escalating US-Iran war, DRC dialogue, and aid worker kidnappings: The Cheat Sheet",
-      "url": "https://www.thenewhumanitarian.org/news/2026/07/24/escalating-us-iran-war-drc-dialogue-aid-worker-kidnappings-cheat-sheet",
-      "source": "The New Humanitarian",
-      "publishedAt": "2026-07-24T12:33:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Rise of North Korea’s Nuclear-Armed Navy",
-      "url": "https://thediplomat.com/2026/07/the-rise-of-north-koreas-nuclear-armed-navy/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-07-24T12:26:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Ancient Lebanese city of Tyre added to heritage danger list",
-      "url": "https://www.hurriyetdailynews.com/ancient-lebanese-city-of-tyre-added-to-heritage-danger-list-224723",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-24T06:21:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Art of the Giveaway",
-      "url": "https://www.theatlantic.com/national-security/2026/07/trump-saudi-arabia-nuclear-energy-deal/688040/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-07-24T00:12:18Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

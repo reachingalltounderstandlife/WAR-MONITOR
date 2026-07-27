@@ -1,46 +1,190 @@
 {
-  "updated": "2026-07-27T14:29:38Z",
+  "updated": "2026-07-27T19:24:30Z",
   "count": 27,
   "articles": [
+    {
+      "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
+      "url": "https://freerepublic.com/focus/f-chat/4389446/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-26T19:02:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Romania summons Russian envoy as it shoots down third intruding drone",
+      "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-26T18:17:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Romania scrambles F-16 jets to shoot down a suspected Russian ‘Shahed type’ drone, marking the fourth recent violation of NATO airspace",
+      "url": "https://fortune.com/2026/07/26/romania-f16-jets-russian-shahed-type-drone-violation-nato-airspace/",
+      "source": "Fortune",
+      "publishedAt": "2026-07-26T18:16:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Unreleased Documentary Footage Captures Graham’s Obsessive Push for Iran War",
+      "url": "https://freerepublic.com/focus/f-chat/4389441/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-26T18:00:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "After Trump calls off bombing, Iran signals it will halt strikes as long as US does",
+      "url": "https://www.yahoo.com/news/articles/iran-halt-attacks-long-us-144722524.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-26T17:53:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The US Pause in Iran War Escalation Probably Won’t Last",
+      "url": "https://www.motherjones.com/politics/2026/07/the-us-pause-in-iran-war-escalation-probably-wont-last/",
+      "source": "Mother Jones",
+      "publishedAt": "2026-07-26T17:29:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+      "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+      "source": "NPR",
+      "publishedAt": "2026-07-26T17:16:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Romania Scrambles F-16 Jets, Downs Suspected Russian Drone",
+      "url": "https://www.breitbart.com/europe/2026/07/26/romania-scrambles-f-16-jets-downs-suspected-russian-drone/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-07-26T16:56:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S. Pauses Attacks On Iran For A Second Straight Day And Tehran Does Too",
+      "url": "https://www.huffpost.com/entry/iran-war-us-pauses-attacks-second-straight-day_n_6a6634d4e4b04785304393e9",
+      "source": "HuffPost",
+      "publishedAt": "2026-07-26T16:37:30Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Romania scrambles F-16 jets and downs a suspected Russian drone, the third in 3 days",
+      "url": "https://www.yahoo.com/news/world/articles/romania-scrambles-f-16-jets-163243519.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-26T16:32:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lindsey Graham Lobbied Trump, Saudis for War, Footage Shows",
+      "url": "https://www.newser.com/story/393523/lindsey-graham-lobbied-trump-saudis-for-war-footage-shows.html",
+      "source": "Newser",
+      "publishedAt": "2026-07-26T16:15:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran accuses Ukraine of attacking merchant vessel as Caspian Sea becomes new front in global conflict",
+      "url": "https://cryptobriefing.com/iran-ukraine-caspian-sea-attack-crypto-implications/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-26T16:09:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Six Dead as Ukraine and Russia Trade Missile and Drone Strikes",
+      "url": "https://www.breitbart.com/europe/2026/07/26/six-dead-as-ukraine-and-russia-trade-missile-and-drone-strikes-x33348482/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-07-26T15:40:37Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US pauses attacks on Iran for a second straight day and Tehran does too",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-pauses-attacks-on-iran-for-a-second-straight-day-and-tehran-does-too/articleshow/132643760.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-26T15:38:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Singapore condemns attacks on Saudi Arabia, urges all parties to exercise restraint: MFA",
+      "url": "https://www.channelnewsasia.com/singapore/mfa-condemn-red-sea-attacks-saudi-arabia-6279121",
+      "source": "CNA",
+      "publishedAt": "2026-07-26T15:38:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil tanker explodes after colliding with mine in Strait of Hormuz, Iranian media reports - as Trump pauses strikes to allow more time for 'diplomacy'",
+      "url": "https://www.dailymail.com/news/article-16006247/Oil-tanker-explodes-Strait-Hormuz.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-26T15:33:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The U.S. and Iran pause attacks on each other for a second straight day while Tehran continues talks with Oman over Hormuz",
+      "url": "https://fortune.com/2026/07/26/us-iran-war-pause-attacks-tehran-talks-oman-hormuz/",
+      "source": "Fortune",
+      "publishedAt": "2026-07-26T15:31:11Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes",
+      "url": "https://www.channelnewsasia.com/world/iran-says-halt-attacks-if-us-maintains-pause-6279116",
+      "source": "CNA",
+      "publishedAt": "2026-07-26T15:08:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran army says war to ‘expand further’ if US attacks restart",
+      "url": "https://www.vanguardngr.com/2026/07/iran-army-says-war-to-expand-further-if-us-attacks-restart/",
+      "source": "Vanguard",
+      "publishedAt": "2026-07-26T14:42:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US pauses attacks on Iran for a second straight day and Tehran pauses, too",
+      "url": "https://www.news4jax.com/business/2026/07/26/us-pauses-attacks-on-iran-for-a-second-straight-day-and-tehran-pauses-too/",
+      "source": "WJXT News4JAX",
+      "publishedAt": "2026-07-26T14:33:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "DRAWN IN BLOOD: The Deliberate Demolition of Sykes-Picot and the Architects of the New Middle East",
       "url": "https://i-epikaira.blogspot.com/2026/07/drawn-in-blood-deliberate-demolition-of.html",
       "source": "Blogspot.com",
       "publishedAt": "2026-07-26T14:11:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israel and the cost paradox of the Iran war",
       "url": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war",
       "source": "Al Jazeera English",
       "publishedAt": "2026-07-26T14:04:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Nuclear Ambitions?",
-      "url": "https://www.lawyersgunsmoneyblog.com/2026/07/nuclear-ambitions",
-      "source": "Lawyersgunsmoneyblog.com",
-      "publishedAt": "2026-07-26T13:26:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Moscow assisting Iran, Zelensky says after Ukrainian attack on ship...",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-903665",
-      "source": "The Jerusalem Post",
-      "publishedAt": "2026-07-26T13:00:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
       "url": "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel",
       "source": "Al Jazeera English",
       "publishedAt": "2026-07-26T12:34:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Hungary Escaped The Clutches Of A Power-Mad Autocrat. Can We?",
@@ -49,54 +193,6 @@
       "publishedAt": "2026-07-26T12:00:19Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Statement Attributed to Iran's Supreme Leader Insists Lebanese Integrity, Hezbollah Safety Paramount In US Talks",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260726-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-26T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Sunday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/07/26/sunday-hili-dialogue-596/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-07-26T11:45:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Life on the List",
-      "url": "https://www.nybooks.com/online/2026/07/26/life-on-the-list/",
-      "source": "The New York Review of Books",
-      "publishedAt": "2026-07-26T11:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 7/26/2026",
-      "url": "https://www.nakedcapitalism.com/2026/07/links-7-26-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-26T10:55:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Live updates: Iran war news; US appears to pause Iran strikes, as Trump advisers raise concerns - CNN",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184698996",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-07-26T10:53:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
-      "url": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-26T10:45:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "India’s drone moment has arrived",
@@ -111,102 +207,6 @@
       "url": "https://cryptobriefing.com/russia-strikes-kyiv-kryvyi-rih-and-civilian-cargo-ship-in-black-sea/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-07-26T05:47:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
-      "url": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-26T04:40:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Allies against Iran in unexpected places: Ukraine and Greece",
-      "url": "https://www.americanthinker.com/blog/2026/07/allies-against-iran-in-unexpected-places-ukraine-and-greece/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-07-26T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "70% of Germans don’t believe army can protect the country – YouGov pol",
-      "url": "https://www.rt.com/news/643480-germans-dont-believe-army-protect/",
-      "source": "RT",
-      "publishedAt": "2026-07-26T01:07:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran-backed Houthis fire missiles at Saudi Arabia in response to airstrikes in Yemen",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-backed-houthis-fire-missiles-at-saudi-arabia-in-response-to-airstrikes-in-yemen/articleshow/132635407.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-26T00:49:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "‘Game of Thrones’ as Ukraine’s president, defense minister split",
-      "url": "https://www.defenseone.com/threats/2026/07/game-thrones-ukraines-president-defense-minister-split/415009/",
-      "source": "Defense One",
-      "publishedAt": "2026-07-25T22:34:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Praxian Genocidal Kill Chain — Part 3",
-      "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-3/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-07-25T22:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Houthis Fire Missiles At Saudi Arabia In Response To Airstrikes In Yemen",
-      "url": "https://www.huffpost.com/entry/ap-ml-iran-us-houthis-saudi-arabia_n_6a651d0ce4b021af4925b01c",
-      "source": "HuffPost",
-      "publishedAt": "2026-07-25T20:37:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran-backed Houthis fire missiles at Saudi Arabia in response to airstrikes in Yemen",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-backed-houthis-fire-missiles-at-saudi-arabia-in-response-to-airstrikes-in-yemen/articleshow/132632167.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-25T18:20:42Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Canada is taking an outsized role in the construction of the post-American world",
-      "url": "https://www.theglobeandmail.com/opinion/article-carney-canada-role-post-american-world-trump/",
-      "source": "The Globe And Mail",
-      "publishedAt": "2026-07-25T17:38:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukrainian Drones Spark Fires At Russian Oil Refinery And Platform",
-      "url": "https://gcaptain.com/ukrainian-drones-spark-fires-at-russian-oil-refinery-and-platform/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-07-25T16:31:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "U.S. military suddenly goes silent on Iran airstrikes while Houthi rebels and Saudi Arabia exchange attacks in battle over Red Sea shipping",
-      "url": "https://fortune.com/2026/07/25/us-military-silent-iran-airstrikes-houthi-rebels-saudi-arabia-battle-red-sea-shipping/",
-      "source": "Fortune",
-      "publishedAt": "2026-07-25T15:13:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Attack on holiday camp in Russian-held Ukraine kills 11",
-      "url": "https://www.abc.net.au/news/2026-07-26/russian-held-ukrainian-holiday-camp-attacked/106958586",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-25T14:46:19Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

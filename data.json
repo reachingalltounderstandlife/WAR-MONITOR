@@ -1,38 +1,126 @@
 {
-  "updated": "2026-07-28T02:25:35Z",
-  "count": 25,
+  "updated": "2026-07-28T08:30:48Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "Why Norway and Finland Should Preserve Two of Europe’s Most Important Demilitarized Zones",
+      "url": "https://warontherocks.com/why-norway-and-finland-should-preserve-two-of-europes-most-important-demilitarized-zones/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-07-27T07:30:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lull in Fighting as Iran Holds Hormuz Talks with Oman",
+      "url": "https://www.rigzone.com/news/wire/lull_in_fighting_as_iran_holds_hormuz_talks_with_oman-27-jul-2026-184216-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-07-27T07:10:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Michael Hudson: The U.S. Plan to Revive Geoeconomic Dominance",
+      "url": "https://www.nakedcapitalism.com/2026/07/michael-hudson-the-u-s-plan-to-revive-geoeconomic-dominance.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-27T06:29:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
+      "url": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-27T06:15:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s Leaked Oval Office Rant Reveals Frustration Over Unending Iran Conflict",
+      "url": "https://www.naturalnews.com/2026-07-27-trump-leaked-rant-reveals-frustration-iran-conflict.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-27T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. considers special forces raid to seize Iran’s enriched uranium, report says",
+      "url": "https://www.naturalnews.com/2026-07-27-us-special-forces-to-seize-irans-enriched-uranium.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-27T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Accuses Ukraine of Striking Its Cargo Ship in Caspian Sea at Israel’s Request",
+      "url": "https://www.naturalnews.com/2026-07-27-iran-accuses-ukraine-striking-cargo-ship-israels-request.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-27T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. Sends Additional Forces to Middle East, Officials Say",
+      "url": "https://www.naturalnews.com/2026-07-27-us-sends-additional-forces-to-middle-east.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-27T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Global War for Routes and Resources: Why the American Empire is Losing",
+      "url": "https://www.naturalnews.com/2026-07-27-the-global-war-for-routes-and-resources.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-27T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran hold fire as Trump gives talks ‘space’",
+      "url": "https://www.hurriyetdailynews.com/us-iran-hold-fire-as-trump-gives-talks-space-224841",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-27T05:39:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran Threaten Attacks on Civilian Infrastructure (HRW)",
+      "url": "https://www.juancole.com/2026/07/threaten-civilian-infrastructure.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-07-27T04:06:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump-Saudi Atomic Energy Deal: Toward a nuclear Mideast?",
+      "url": "https://www.juancole.com/2026/07/atomic-nuclear-mideast.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-07-27T04:04:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US, Iran pause attacks for second day as ceasefire talks gather pace",
       "url": "https://www.thehindubusinessline.com/news/world/us-iran-pause-attacks-for-second-day-as-ceasefire-talks-gather-pace/article71271257.ece",
       "source": "BusinessLine",
       "publishedAt": "2026-07-27T02:00:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Brent crude drops below $93 as West Asia tensions show signs of easing",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-drops-below-93-as-west-asia-tensions-show-signs-of-easing/article71271251.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-27T01:04:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Syria seeks security pact with Israel, says President Sharaa",
       "url": "https://economictimes.indiatimes.com/news/defence/syria-seeks-security-pact-with-israel-says-president-sharaa/articleshow/132650460.cms",
       "source": "The Times of India",
       "publishedAt": "2026-07-27T00:57:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US, Iran hold fire for second day as ceasefire talks gain momentum",
       "url": "https://economictimes.indiatimes.com/news/defence/us-iran-hold-fire-for-second-day-as-ceasefire-talks-gain-momentum/articleshow/132650413.cms",
       "source": "The Times of India",
       "publishedAt": "2026-07-27T00:46:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "N. Korea says nuclear arsenal will be 'updated steadily'",
@@ -67,22 +155,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Oil prices ease after US and Iran pause their attacks",
-      "url": "https://abcnews.com/US/wireStory/oil-prices-ease-after-us-iran-pause-attacks-135106927",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-26T23:40:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil prices ease after US and Iran pause their attacks",
-      "url": "https://abcnews.com/Business/wireStory/oil-prices-ease-after-us-iran-pause-attacks-135106928",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-26T23:37:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Kim Jong Un's sister blasts ASEAN for urging North Korea denuclearisation",
       "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-sister-blast-asean-denuclearisation-6279516",
       "source": "CNA",
@@ -99,28 +171,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Iran War Day 149: U.S. and Iran Pause Strikes for Second Night",
-      "url": "https://www.theamericanconservative.com/iran-war-day-149-u-s-and-iran-pause-strikes-for-second-night/",
-      "source": "The American Conservative",
-      "publishedAt": "2026-07-26T20:40:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "US Pauses Attacks on Iran for a Second Straight Day and Tehran Does Too",
       "url": "https://military.com/us-pauses-attacks-on-iran-for-a-second-straight-day-and-tehran-does-too",
       "source": "Military.com",
       "publishedAt": "2026-07-26T19:48:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
-      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-26T19:31:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Romania summons Russian envoy as it shoots down third intruding drone",
@@ -169,38 +225,6 @@
       "publishedAt": "2026-07-26T16:37:30Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Romania scrambles F-16 jets and downs a suspected Russian drone, the third in 3 days",
-      "url": "https://www.yahoo.com/news/world/articles/romania-scrambles-f-16-jets-163243519.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-26T16:32:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Lindsey Graham Lobbied Trump, Saudis for War, Footage Shows",
-      "url": "https://www.newser.com/story/393523/lindsey-graham-lobbied-trump-saudis-for-war-footage-shows.html",
-      "source": "Newser",
-      "publishedAt": "2026-07-26T16:15:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran accuses Ukraine of attacking merchant vessel as Caspian Sea becomes new front in global conflict",
-      "url": "https://cryptobriefing.com/iran-ukraine-caspian-sea-attack-crypto-implications/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-26T16:09:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Six Dead as Ukraine and Russia Trade Missile and Drone Strikes",
-      "url": "https://www.breitbart.com/europe/2026/07/26/six-dead-as-ukraine-and-russia-trade-missile-and-drone-strikes-x33348482/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-07-26T15:40:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

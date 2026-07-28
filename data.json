@@ -1,12 +1,124 @@
 {
-  "updated": "2026-07-27T19:24:30Z",
-  "count": 27,
+  "updated": "2026-07-28T02:25:35Z",
+  "count": 25,
   "articles": [
     {
-      "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
-      "url": "https://freerepublic.com/focus/f-chat/4389446/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-26T19:02:29Z",
+      "title": "US, Iran pause attacks for second day as ceasefire talks gather pace",
+      "url": "https://www.thehindubusinessline.com/news/world/us-iran-pause-attacks-for-second-day-as-ceasefire-talks-gather-pace/article71271257.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-27T02:00:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Brent crude drops below $93 as West Asia tensions show signs of easing",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-drops-below-93-as-west-asia-tensions-show-signs-of-easing/article71271251.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-07-27T01:04:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Syria seeks security pact with Israel, says President Sharaa",
+      "url": "https://economictimes.indiatimes.com/news/defence/syria-seeks-security-pact-with-israel-says-president-sharaa/articleshow/132650460.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-27T00:57:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran hold fire for second day as ceasefire talks gain momentum",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-iran-hold-fire-for-second-day-as-ceasefire-talks-gain-momentum/articleshow/132650413.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-27T00:46:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "N. Korea says nuclear arsenal will be 'updated steadily'",
+      "url": "https://biztoc.com/x/4a133b5d5dc048d1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-07-27T00:31:30Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The American Presidency and Perpetual War",
+      "url": "https://original.antiwar.com/andrew-p-napolitano/2026/07/26/the-american-presidency-and-perpetual-war/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-07-27T00:00:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Abe’s Final Victory: Japan’s Defense Revolution and the End of Postwar Pacifism",
+      "url": "https://www.hoover.org/research/abes-final-victory-japans-defense-revolution-and-end-postwar-pacifism",
+      "source": "Hoover.org",
+      "publishedAt": "2026-07-27T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-26T23:44:29Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Oil prices ease after US and Iran pause their attacks",
+      "url": "https://abcnews.com/US/wireStory/oil-prices-ease-after-us-iran-pause-attacks-135106927",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-26T23:40:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil prices ease after US and Iran pause their attacks",
+      "url": "https://abcnews.com/Business/wireStory/oil-prices-ease-after-us-iran-pause-attacks-135106928",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-26T23:37:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Kim Jong Un's sister blasts ASEAN for urging North Korea denuclearisation",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-sister-blast-asean-denuclearisation-6279516",
+      "source": "CNA",
+      "publishedAt": "2026-07-26T22:53:36Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "U.S., Iran pause attacks for 2nd straight day",
+      "url": "https://www.cbc.ca/news/world/us-iran-war-pause-attacks-9.7285221",
+      "source": "CBC News",
+      "publishedAt": "2026-07-26T21:16:14Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran War Day 149: U.S. and Iran Pause Strikes for Second Night",
+      "url": "https://www.theamericanconservative.com/iran-war-day-149-u-s-and-iran-pause-strikes-for-second-night/",
+      "source": "The American Conservative",
+      "publishedAt": "2026-07-26T20:40:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Pauses Attacks on Iran for a Second Straight Day and Tehran Does Too",
+      "url": "https://military.com/us-pauses-attacks-on-iran-for-a-second-straight-day-and-tehran-does-too",
+      "source": "Military.com",
+      "publishedAt": "2026-07-26T19:48:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?",
+      "url": "https://www.aljazeera.com/news/2026/7/26/what-lies-ahead-for-iran-as-scope-of-us-war-grows-beyond-hormuz",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-26T19:31:58Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -33,22 +145,6 @@
       "publishedAt": "2026-07-26T18:00:12Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "After Trump calls off bombing, Iran signals it will halt strikes as long as US does",
-      "url": "https://www.yahoo.com/news/articles/iran-halt-attacks-long-us-144722524.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-26T17:53:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The US Pause in Iran War Escalation Probably Won’t Last",
-      "url": "https://www.motherjones.com/politics/2026/07/the-us-pause-in-iran-war-escalation-probably-wont-last/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-07-26T17:29:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
@@ -105,118 +201,6 @@
       "publishedAt": "2026-07-26T15:40:37Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US pauses attacks on Iran for a second straight day and Tehran does too",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-pauses-attacks-on-iran-for-a-second-straight-day-and-tehran-does-too/articleshow/132643760.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-26T15:38:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Singapore condemns attacks on Saudi Arabia, urges all parties to exercise restraint: MFA",
-      "url": "https://www.channelnewsasia.com/singapore/mfa-condemn-red-sea-attacks-saudi-arabia-6279121",
-      "source": "CNA",
-      "publishedAt": "2026-07-26T15:38:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil tanker explodes after colliding with mine in Strait of Hormuz, Iranian media reports - as Trump pauses strikes to allow more time for 'diplomacy'",
-      "url": "https://www.dailymail.com/news/article-16006247/Oil-tanker-explodes-Strait-Hormuz.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-26T15:33:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The U.S. and Iran pause attacks on each other for a second straight day while Tehran continues talks with Oman over Hormuz",
-      "url": "https://fortune.com/2026/07/26/us-iran-war-pause-attacks-tehran-talks-oman-hormuz/",
-      "source": "Fortune",
-      "publishedAt": "2026-07-26T15:31:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes",
-      "url": "https://www.channelnewsasia.com/world/iran-says-halt-attacks-if-us-maintains-pause-6279116",
-      "source": "CNA",
-      "publishedAt": "2026-07-26T15:08:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran army says war to ‘expand further’ if US attacks restart",
-      "url": "https://www.vanguardngr.com/2026/07/iran-army-says-war-to-expand-further-if-us-attacks-restart/",
-      "source": "Vanguard",
-      "publishedAt": "2026-07-26T14:42:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US pauses attacks on Iran for a second straight day and Tehran pauses, too",
-      "url": "https://www.news4jax.com/business/2026/07/26/us-pauses-attacks-on-iran-for-a-second-straight-day-and-tehran-pauses-too/",
-      "source": "WJXT News4JAX",
-      "publishedAt": "2026-07-26T14:33:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "DRAWN IN BLOOD: The Deliberate Demolition of Sykes-Picot and the Architects of the New Middle East",
-      "url": "https://i-epikaira.blogspot.com/2026/07/drawn-in-blood-deliberate-demolition-of.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-07-26T14:11:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel and the cost paradox of the Iran war",
-      "url": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-26T14:04:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "President Ahmed al-Sharaa: Syria seeking security deal with Israel",
-      "url": "https://www.aljazeera.com/news/2026/7/26/president-ahmed-al-sharaa-syria-seeking-security-deal-with-israel",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-26T12:34:13Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hungary Escaped The Clutches Of A Power-Mad Autocrat. Can We?",
-      "url": "https://www.huffpost.com/entry/trump-autocracy-hungary_n_6a2ea097e4b0942fb77916dc",
-      "source": "HuffPost",
-      "publishedAt": "2026-07-26T12:00:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "India’s drone moment has arrived",
-      "url": "https://www.rt.com/india/643456-indias-drone-hub-iran-war-lesson/",
-      "source": "RT",
-      "publishedAt": "2026-07-26T08:18:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia strikes Kyiv, Kryvyi Rih, and civilian cargo ship in Black Sea",
-      "url": "https://cryptobriefing.com/russia-strikes-kyiv-kryvyi-rih-and-civilian-cargo-ship-in-black-sea/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-26T05:47:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The farce of Trump’s nuclear deal with Saudi Arabia",
-      "url": "https://mondoweiss.net/2026/07/the-farce-of-trumps-nuclear-deal-with-saudi-arabia/",
-      "source": "Mondoweiss",
-      "publishedAt": "2026-07-25T13:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

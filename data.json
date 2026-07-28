@@ -1,7 +1,167 @@
 {
-  "updated": "2026-07-28T08:30:48Z",
-  "count": 28,
+  "updated": "2026-07-28T14:02:40Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "The new shape of Ukraine’s war",
+      "url": "https://www.irishtimes.com/world/europe/2026/07/27/the-new-shape-of-ukraines-war/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-27T14:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Ground Offensive Against U.S. Bases Inconceivable, Analysts Say",
+      "url": "https://www.forbes.com/sites/pauliddon/2026/07/27/iran-ground-offensive-against-us-bases-inconceivable-analysts-say/",
+      "source": "Forbes",
+      "publishedAt": "2026-07-27T13:57:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Global Research Daily: The News Behind the News",
+      "url": "https://www.globalresearch.ca/global-research-daily-news-behind-news-13-5/5934649",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-27T13:28:55Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Russia Puts Ukraine’s Main Port City Odessa Under Pressure",
+      "url": "https://www.globalresearch.ca/russia-puts-ukraine-main-port-city-odessa-under-pressure/5934591",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-27T13:03:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Constant surveillance is pushing NATO to ‘scatter the force’ to survive, top commander says",
+      "url": "https://www.businessinsider.com/nato-must-scatter-force-survive-constant-surveillance-top-commander-2026-7#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-27T13:01:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Protracted War Enormously Enriches the Military Establishment",
+      "url": "https://www.globalresearch.ca/protracted-war-enormously-enriches-military-establishment/5934620",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-27T12:34:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Desperation Continues After MoU Fails To Bring Order: US Military Pounds Iranian City of Ahvaz",
+      "url": "https://www.shtfplan.com/headline-news/desperation-continues-after-mou-fails-to-bring-order-us-military-pounds-iranian-city-of-ahvaz",
+      "source": "Shtfplan.com",
+      "publishedAt": "2026-07-27T12:30:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Fears Iran and Ukraine wars could merge into one conflict as Kyiv strikes Caspian Sea weapons ship heading for Russia and the Islamic Republic threatens revenge",
+      "url": "https://www.dailymail.com/news/article-16007473/Fears-Iran-Ukraine-wars-merge-one-conflict-Kyiv-strikes-Caspian-Sea-weapons-ship-heading-Russia-Islamic-Republic-threatens-revenge.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-27T12:20:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Day 1,615 of WW3. Pooty Poot cancels the Navy Day celebration in Saint Petersburg two years running. Best Korea is sending 30K more bullet-sponges to Orcistan, but Moscow is totally not desperate for manpower. This is your Monday Ukraine War thread [News]",
+      "url": "https://www.fark.com/comments/14143824/Day-1615-of-WW3-Pooty-Poot-cancels-Navy-Day-celebration-in-Saint-Petersburg-two-years-running-Best-Korea-is-sending-30K-more-bullet-sponges-to-Orcistan-but-Moscow-is-totally-not-desperate-for-manpower-This-is-your-Monday-Ukraine-War-thread",
+      "source": "Fark.com",
+      "publishedAt": "2026-07-27T12:00:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon: Israeli strikes 'could amount to international crimes,' warns Türk",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260727-unnews02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-27T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Pour protéger l'Europe de la Russie, l'Estonie va se doter d'une nouvelle usine de munitions… Construite par un fabricant d'armes à la réputation explosive (Anglais)",
+      "url": "https://www.ftm.eu/articles/estonia-arms-manufacturer-jail-brussels-corruption-turkey-investment",
+      "source": "Www.ftm.eu",
+      "publishedAt": "2026-07-27T11:55:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What's behind the pause in US strikes?",
+      "url": "https://www.israelnationalnews.com/news/430829",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-27T11:54:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
+      "url": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
+      "source": "NPR",
+      "publishedAt": "2026-07-27T11:45:56Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Links 7/27/2026",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-27-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-27T10:58:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why has the US halted its bombing of Iran?",
+      "url": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-27T10:55:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: Trump Dithers as Strait of Hormuz Damage Compounds; Ansar Allah-Saudi Conflict Spirals, Adding to Economic Harm; Iran Threatens Retaliation Against Ukraine",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-trump-dithers-as-strait-of-hormuz-damage-compounds-ansar-allah-saudi-conflict-spirals-adding-to-economic-harm-iran-threatens-retaliation-against-ukraine.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-27T10:42:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Rep Thomas Massie says the Iran war has 'significantly weakened' America 'all for Israel'",
+      "url": "https://www.foxnews.com/politics/rep-thomas-massie-iran-war-significantly-weakened-america-israel",
+      "source": "Fox News",
+      "publishedAt": "2026-07-27T10:11:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Mediators make progress in US-Iran negotiations to prevent Middle East war",
+      "url": "https://apnews.com/article/iran-us-hormuz-strait-war-qatar-pakistan-d57e675a7be6dbdd34561909ced240d0",
+      "source": "Associated Press",
+      "publishedAt": "2026-07-27T10:00:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Romania scrambles F-16 jets and downs a suspected Russian drone, the third in 3 days",
+      "url": "https://abcnews.com/International/wireStory/romania-scrambles-16-jets-downs-suspected-russian-drone-135102326",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-27T09:41:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia pulled back from the Arctic, for now. NATO must act before those troops return",
+      "url": "https://www.foxnews.com/opinion/russia-pulled-back-arctic-now-nato-must-act-before-troops-return",
+      "source": "Fox News",
+      "publishedAt": "2026-07-27T09:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Why Norway and Finland Should Preserve Two of Europe’s Most Important Demilitarized Zones",
       "url": "https://warontherocks.com/why-norway-and-finland-should-preserve-two-of-europes-most-important-demilitarized-zones/",
@@ -15,88 +175,16 @@
       "url": "https://www.rigzone.com/news/wire/lull_in_fighting_as_iran_holds_hormuz_talks_with_oman-27-jul-2026-184216-article/",
       "source": "Rigzone",
       "publishedAt": "2026-07-27T07:10:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Michael Hudson: The U.S. Plan to Revive Geoeconomic Dominance",
-      "url": "https://www.nakedcapitalism.com/2026/07/michael-hudson-the-u-s-plan-to-revive-geoeconomic-dominance.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-27T06:29:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
-      "url": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-27T06:15:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump’s Leaked Oval Office Rant Reveals Frustration Over Unending Iran Conflict",
-      "url": "https://www.naturalnews.com/2026-07-27-trump-leaked-rant-reveals-frustration-iran-conflict.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-27T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. considers special forces raid to seize Iran’s enriched uranium, report says",
-      "url": "https://www.naturalnews.com/2026-07-27-us-special-forces-to-seize-irans-enriched-uranium.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-27T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Accuses Ukraine of Striking Its Cargo Ship in Caspian Sea at Israel’s Request",
-      "url": "https://www.naturalnews.com/2026-07-27-iran-accuses-ukraine-striking-cargo-ship-israels-request.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-27T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. Sends Additional Forces to Middle East, Officials Say",
-      "url": "https://www.naturalnews.com/2026-07-27-us-sends-additional-forces-to-middle-east.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-27T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Global War for Routes and Resources: Why the American Empire is Losing",
-      "url": "https://www.naturalnews.com/2026-07-27-the-global-war-for-routes-and-resources.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-27T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran hold fire as Trump gives talks ‘space’",
-      "url": "https://www.hurriyetdailynews.com/us-iran-hold-fire-as-trump-gives-talks-space-224841",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-27T05:39:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran Threaten Attacks on Civilian Infrastructure (HRW)",
-      "url": "https://www.juancole.com/2026/07/threaten-civilian-infrastructure.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-07-27T04:06:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump-Saudi Atomic Energy Deal: Toward a nuclear Mideast?",
       "url": "https://www.juancole.com/2026/07/atomic-nuclear-mideast.html",
       "source": "Juancole.com",
       "publishedAt": "2026-07-27T04:04:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "US, Iran pause attacks for second day as ceasefire talks gather pace",
@@ -131,22 +219,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "The American Presidency and Perpetual War",
-      "url": "https://original.antiwar.com/andrew-p-napolitano/2026/07/26/the-american-presidency-and-perpetual-war/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-07-27T00:00:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Abe’s Final Victory: Japan’s Defense Revolution and the End of Postwar Pacifism",
-      "url": "https://www.hoover.org/research/abes-final-victory-japans-defense-revolution-and-end-postwar-pacifism",
-      "source": "Hoover.org",
-      "publishedAt": "2026-07-27T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
       "url": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei",
       "source": "Al Jazeera English",
@@ -161,70 +233,6 @@
       "publishedAt": "2026-07-26T22:53:36Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "U.S., Iran pause attacks for 2nd straight day",
-      "url": "https://www.cbc.ca/news/world/us-iran-war-pause-attacks-9.7285221",
-      "source": "CBC News",
-      "publishedAt": "2026-07-26T21:16:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US Pauses Attacks on Iran for a Second Straight Day and Tehran Does Too",
-      "url": "https://military.com/us-pauses-attacks-on-iran-for-a-second-straight-day-and-tehran-does-too",
-      "source": "Military.com",
-      "publishedAt": "2026-07-26T19:48:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Romania summons Russian envoy as it shoots down third intruding drone",
-      "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-26T18:17:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Romania scrambles F-16 jets to shoot down a suspected Russian ‘Shahed type’ drone, marking the fourth recent violation of NATO airspace",
-      "url": "https://fortune.com/2026/07/26/romania-f16-jets-russian-shahed-type-drone-violation-nato-airspace/",
-      "source": "Fortune",
-      "publishedAt": "2026-07-26T18:16:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Unreleased Documentary Footage Captures Graham’s Obsessive Push for Iran War",
-      "url": "https://freerepublic.com/focus/f-chat/4389441/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-26T18:00:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
-      "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
-      "source": "NPR",
-      "publishedAt": "2026-07-26T17:16:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Romania Scrambles F-16 Jets, Downs Suspected Russian Drone",
-      "url": "https://www.breitbart.com/europe/2026/07/26/romania-scrambles-f-16-jets-downs-suspected-russian-drone/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-07-26T16:56:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "U.S. Pauses Attacks On Iran For A Second Straight Day And Tehran Does Too",
-      "url": "https://www.huffpost.com/entry/iran-war-us-pauses-attacks-second-straight-day_n_6a6634d4e4b04785304393e9",
-      "source": "HuffPost",
-      "publishedAt": "2026-07-26T16:37:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

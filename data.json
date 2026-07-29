@@ -1,7 +1,151 @@
 {
-  "updated": "2026-07-29T14:06:21Z",
-  "count": 30,
+  "updated": "2026-07-29T19:13:09Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "Over half of Iranians view Netanyahu positively, 40% see Israel-US strikes as ‘humanitarian'",
+      "url": "https://freerepublic.com/focus/f-news/4389689/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-28T18:57:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Follow the Money Toward WWIII",
+      "url": "https://freerepublic.com/focus/f-bloggers/4389685/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-28T18:25:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Follow the Money Toward WWIII",
+      "url": "https://freerepublic.com/focus/f-news/4389685/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-28T18:25:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iranian international students call on province for support amid financial hardship as war drags on",
+      "url": "https://www.cbc.ca/news/canada/toronto/iranian-international-students-financial-hardships-9.7286725",
+      "source": "CBC News",
+      "publishedAt": "2026-07-28T18:15:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelenskiy and Trump discuss efforts to revive peace deal with Russia during Oval Office meeting",
+      "url": "https://www.irishtimes.com/world/us/2026/07/28/zelenskiy-and-trump-discuss-efforts-to-revive-peace-deal-with-russia-during-oval-office-meeting/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-28T18:01:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows",
+      "url": "https://www.aljazeera.com/news/2026/7/28/lindsey-graham-almost-cried-tears-of-joy-over-war-on-iran-footage-shows",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-28T18:01:03Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran Has Figured Out How to Overwhelm U.S. Air Defenses",
+      "url": "https://theintercept.com/2026/07/28/iran-missiles-drones-us-air-defenses/",
+      "source": "The Intercept",
+      "publishedAt": "2026-07-28T17:51:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Guggenheim Abu Dhabi Sets December Opening Date",
+      "url": "https://www.artnews.com/art-news/news/guggenheim-abu-dhabi-sets-december-opening-date-1234793622/",
+      "source": "ARTnews",
+      "publishedAt": "2026-07-28T17:16:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House",
+      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-28T17:12:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Did Trump Just Give Saudi Arabia the Fast Track to a Nuclear Weapon?",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Why-Did-Trump-Just-Give-Saudi-Arabia-the-Fast-Track-to-a-Nuclear-Weapon.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-07-28T17:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Ruthless Zelensky's killer instinct impresses Trump during secret Oval Office huddle after Iran blitz - as he makes bold ask",
+      "url": "https://www.dailymail.com/news/article-16010661/zelensky-trump-secret-oval-office-huddle.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-28T16:53:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How Iran has adapted its missile war and given the US a strategic dilemma",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/28/how-iran-has-adapted-its-missile-war-and-given-the-us-a-strategic-dilemma/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-28T15:58:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UN Human Rights Official Says Israeli Strikes in Lebanon Could Amount to 'War Crimes'",
+      "url": "https://www.commondreams.org/news/israel-war-crimes-lebanon",
+      "source": "Common Dreams",
+      "publishedAt": "2026-07-28T15:49:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Admits to Major Infrastructure Damage from U.S. Strikes",
+      "url": "https://www.breitbart.com/middle-east/2026/07/28/iran-admits-major-infrastructure-damage-u-s-strikes/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-07-28T15:37:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump expresses frustrations with Netanyahu before their first meeting since launching the Iran war",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-expresses-frustrations-with-netanyahu-before-their-first-meeting-since-launching-the-iran-war/articleshow/132688265.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-28T15:13:30Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Russia’s victory over Ukraine to benefit all humanity – academic",
+      "url": "https://www.rt.com/news/643565-russias-victory-over-ukraine-to-benefit-everyone/",
+      "source": "RT",
+      "publishedAt": "2026-07-28T15:05:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Tehran Threatens 'Freeloader' Volodymyr Zelensky After Ukraine Strike on Iran Supply Ship to Russia",
+      "url": "https://www.breitbart.com/middle-east/2026/07/28/tehran-threatens-freeloader-volodymyr-zelensky-after-ukraine-strike-on-iran-supply-ship-to-russia/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-07-28T14:52:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Expresses Frustrations With Netanyahu Before Their First Meeting Since Launching the Iran War",
+      "url": "https://military.com/trump-expresses-frustrations-with-netanyahu-before-their-first-meeting-since-launching-the-iran-war",
+      "source": "Military.com",
+      "publishedAt": "2026-07-28T14:45:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Britain Backs Ukraine With New Electronic Warfare Cooperation",
       "url": "https://oilprice.com/Geopolitics/Europe/Britain-Backs-Ukraine-With-New-Electronic-Warfare-Cooperation.html",
@@ -35,60 +179,20 @@
       "_label": "Iran War"
     },
     {
-      "title": "The U.S. Navy’s Missile Problem in the Shadow of the Iran War",
-      "url": "https://www.globalresearch.ca/us-navy-missile-problem-shadow-iran-war/5934710",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-28T13:28:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Spykman Trap: How the West Built a Fortress and Lost the World",
       "url": "https://i-epikaira.blogspot.com/2026/07/the-spykman-trap-how-west-built.html",
       "source": "Blogspot.com",
       "publishedAt": "2026-07-28T13:27:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Jordan Faces a Dilemma in Its Growing Role in the US-Iran War",
-      "url": "https://military.com/jordan-faces-a-dilemma-in-its-growing-role-in-the-us-iran-war",
-      "source": "Military.com",
-      "publishedAt": "2026-07-28T13:18:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says ‘good chance’ of progress in Iran talks. What we know",
-      "url": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-28T13:06:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Trump welcomes Netanyahu to White House as raging Iran war threatens to sour US-Israel relationship",
       "url": "https://www.foxnews.com/politics/trump-welcomes-netanyahu-white-house-raging-iran-war-threatens-sour-us-israel-relationship",
       "source": "Fox News",
       "publishedAt": "2026-07-28T12:58:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine Hits At Iran In The Caspian Sea. And Things Get Even Messier.",
-      "url": "https://www.rferl.org/a/ukraine-iran-caspian-strikes-ships/33816728.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-07-28T12:31:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine Hits At Iran. In The Caspian Sea, Things Get Even Messier.",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260728-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-28T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Zelenskyy, Trump Meet At White House At Crucial Moment In US-Ukraine Relations",
@@ -99,28 +203,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Why Putin Will Escalate",
-      "url": "http://foreignpolicy.com/2026/07/28/why-putin-will-escalate/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-28T11:59:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why Putin Will Escalate",
-      "url": "http://foreignpolicy.com/2026/07/28/putin-regime-russia-escalation-ukraine-war-nato/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-28T11:59:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Netanyahu’s Palestine Philosophy Is Finally Exposed",
       "url": "http://foreignpolicy.com/2026/07/28/netanyahu-israel-palestine-history-two-state-solution-gaza/",
       "source": "Foreign Policy",
       "publishedAt": "2026-07-28T11:24:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Gulf States Back Plan to Let Iran Collect Voluntary Fees to Use Hormuz",
@@ -131,44 +219,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Sixth month on, US and Iran stuck in vicious cycle of escalation",
-      "url": "https://www.hurriyetdailynews.com/sixth-month-on-us-and-iran-stuck-in-vicious-cycle-of-escalation-224915",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-28T11:05:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Romania shoots down stray drones from Ukraine war after years of incursions",
-      "url": "https://abcnews.com/International/wireStory/nato-member-romania-shoots-stray-drones-ukraine-war-135145424",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-28T10:58:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO member Romania shoots down stray drones from Ukraine war after years of incursions",
-      "url": "https://www.yahoo.com/news/world/articles/nato-member-romania-shoots-down-102916129.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-28T10:29:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump Has Only Humiliating Options Left in Iran",
       "url": "http://nymag.com/intelligencer/article/trump-has-only-humiliating-options-left-in-iran.html",
       "source": "New York Magazine",
       "publishedAt": "2026-07-28T10:00:49Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Zelenskyy To Meet Trump As Former Envoys See Chance To Cement US Support",
-      "url": "https://www.rferl.org/a/ukraine-zelenskyy-trump-talks-washigton/33816609.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-07-28T09:43:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Netanyahu in the White House: What’s on the agenda and what’s next?",
@@ -183,38 +239,6 @@
       "url": "https://www.politico.com/news/2026/07/28/trump-netanyahu-allies-worry-iran-01013125",
       "source": "Politico",
       "publishedAt": "2026-07-28T08:45:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu to meet Trump in a first encounter since the Iran war began",
-      "url": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
-      "source": "NPR",
-      "publishedAt": "2026-07-28T07:42:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump to host Netanyahu, Zelenskiy as Ukraine, Iran wars reach critical stages",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-to-host-netanyahu-zelenskiy-as-ukraine-iran-wars-reach-critical-stages/article71275647.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-28T06:09:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US-mediated Israel-Lebanon talks set for August 4-6 in Rome",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-mediated-israel-lebanon-talks-set-for-august-4-6-in-rome/articleshow/132676492.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-28T05:54:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu heads to US for first time since Iran war",
-      "url": "https://www.rte.ie/news/2026/0728/1585380-trump-netanyahu-meeting/",
-      "source": "RTE",
-      "publishedAt": "2026-07-28T05:51:11Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

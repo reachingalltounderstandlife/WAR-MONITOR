@@ -1,14 +1,126 @@
 {
-  "updated": "2026-07-29T19:13:09Z",
-  "count": 33,
+  "updated": "2026-07-30T02:12:17Z",
+  "count": 29,
   "articles": [
     {
-      "title": "Over half of Iranians view Netanyahu positively, 40% see Israel-US strikes as ‘humanitarian'",
-      "url": "https://freerepublic.com/focus/f-news/4389689/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-28T18:57:36Z",
+      "title": "Trump, Zelenskiy discuss peace talks, Patriot missile production",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-zelenskiy-discuss-peace-talks-patriot-missile-production/articleshow/132697642.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-29T02:04:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US military shoots down Iranian ballistic missiles targeting its Middle East forces",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-military-shoots-down-iranian-ballistic-missiles-targeting-its-middle-east-forces/articleshow/132697119.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-29T00:58:17Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "The U.S. Says It Thwarted An Iranian Missile Attack That Ended A Brief Pause In Fighting",
+      "url": "https://www.huffpost.com/entry/ap-ml-iran-us_n_6a694dc7e4b0fddbd7122958",
+      "source": "HuffPost",
+      "publishedAt": "2026-07-29T00:53:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Says It Intercepted Iran Attack, Sending Oil Prices Surging",
+      "url": "https://financialpost.com/pmn/business-pmn/us-says-it-intercepted-iran-attack-sending-oil-prices-surging",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-28T23:28:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Saudi Arabia strike 'Iran-aligned terrorists' in Iraq after US reports intercepting Iranian missiles. Follow live",
+      "url": "https://www.dw.com/en/iran-war-us-saudi-arabia-strike-iran-backed-iraqi-militias/live-78152241",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-28T23:04:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel, Saudi Arabia, Jordan, Iraq attacked by drones despite lull in US-Iran fighting",
+      "url": "https://freerepublic.com/focus/f-news/4389720/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-28T23:00:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "We’re running out of ways to get oil out of the Middle East",
+      "url": "https://www.vox.com/politics/497014/houthis-saudi-iran-mandeb-hormuz-strait",
+      "source": "Vox",
+      "publishedAt": "2026-07-28T22:41:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Meets With Key Players In Ukraine, Iran Wars, But Offers No Update On Progress",
+      "url": "https://www.huffpost.com/entry/trump-zelenskyy-netanyahu_n_6a68e977e4b098352c2f86b7",
+      "source": "HuffPost",
+      "publishedAt": "2026-07-28T22:11:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump shares no details of Zelensky meeting",
+      "url": "https://www.rt.com/news/643578-trump-zelensky-meeting-us/",
+      "source": "RT",
+      "publishedAt": "2026-07-28T22:07:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lindsey Graham’s funeral: a celebration of war",
+      "url": "https://www.rt.com/news/643591-lindsey-graham-funeral-netanyahu-zelensky/",
+      "source": "RT",
+      "publishedAt": "2026-07-28T22:06:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The US military says it's thwarted an Iranian missile attack on American troops",
+      "url": "https://www.yahoo.com/news/world/articles/saudi-arabia-says-shot-down-215248145.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-28T21:52:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump, Zelenskyy discuss expanding Ukraine’s Patriot missile production in closed meeting ahead of Lindsey Graham’s funeral",
+      "url": "https://fortune.com/2026/07/28/trump-zelenskyy-discuss-expanding-ukraines-patriot-missile-production-in-closed-meeting-ahead-of-lindsey-grahams-funeral/",
+      "source": "Fortune",
+      "publishedAt": "2026-07-28T21:01:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Netanyahu and Zelenskyy meet Trump at the White House as Washington honors Lindsey Graham",
+      "url": "https://fortune.com/2026/07/28/netanyahu-zelenskyy-meet-trump-white-house-lindsey-graham/",
+      "source": "Fortune",
+      "publishedAt": "2026-07-28T20:53:34Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US walks out of UN Security Council meeting during France's remarks",
+      "url": "https://freerepublic.com/focus/f-news/4389699/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-28T20:11:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran debates retaliation after Ukraine attacks merchant ship",
+      "url": "https://cryptobriefing.com/iran-debates-retaliation-after-ukraine-attacks-merchant-ship/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-07-28T19:55:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Follow the Money Toward WWIII",
@@ -27,14 +139,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iranian international students call on province for support amid financial hardship as war drags on",
-      "url": "https://www.cbc.ca/news/canada/toronto/iranian-international-students-financial-hardships-9.7286725",
-      "source": "CBC News",
-      "publishedAt": "2026-07-28T18:15:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Zelenskiy and Trump discuss efforts to revive peace deal with Russia during Oval Office meeting",
       "url": "https://www.irishtimes.com/world/us/2026/07/28/zelenskiy-and-trump-discuss-efforts-to-revive-peace-deal-with-russia-during-oval-office-meeting/",
       "source": "The Irish Times",
@@ -49,22 +153,6 @@
       "publishedAt": "2026-07-28T18:01:03Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Has Figured Out How to Overwhelm U.S. Air Defenses",
-      "url": "https://theintercept.com/2026/07/28/iran-missiles-drones-us-air-defenses/",
-      "source": "The Intercept",
-      "publishedAt": "2026-07-28T17:51:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Guggenheim Abu Dhabi Sets December Opening Date",
-      "url": "https://www.artnews.com/art-news/news/guggenheim-abu-dhabi-sets-december-opening-date-1234793622/",
-      "source": "ARTnews",
-      "publishedAt": "2026-07-28T17:16:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House",
@@ -83,36 +171,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Ruthless Zelensky's killer instinct impresses Trump during secret Oval Office huddle after Iran blitz - as he makes bold ask",
-      "url": "https://www.dailymail.com/news/article-16010661/zelensky-trump-secret-oval-office-huddle.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-28T16:53:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How Iran has adapted its missile war and given the US a strategic dilemma",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/07/28/how-iran-has-adapted-its-missile-war-and-given-the-us-a-strategic-dilemma/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-28T15:58:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "UN Human Rights Official Says Israeli Strikes in Lebanon Could Amount to 'War Crimes'",
       "url": "https://www.commondreams.org/news/israel-war-crimes-lebanon",
       "source": "Common Dreams",
       "publishedAt": "2026-07-28T15:49:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Admits to Major Infrastructure Damage from U.S. Strikes",
-      "url": "https://www.breitbart.com/middle-east/2026/07/28/iran-admits-major-infrastructure-damage-u-s-strikes/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-07-28T15:37:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump expresses frustrations with Netanyahu before their first meeting since launching the Iran war",
@@ -123,36 +187,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Russia’s victory over Ukraine to benefit all humanity – academic",
-      "url": "https://www.rt.com/news/643565-russias-victory-over-ukraine-to-benefit-everyone/",
-      "source": "RT",
-      "publishedAt": "2026-07-28T15:05:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Tehran Threatens 'Freeloader' Volodymyr Zelensky After Ukraine Strike on Iran Supply Ship to Russia",
-      "url": "https://www.breitbart.com/middle-east/2026/07/28/tehran-threatens-freeloader-volodymyr-zelensky-after-ukraine-strike-on-iran-supply-ship-to-russia/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-07-28T14:52:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump Expresses Frustrations With Netanyahu Before Their First Meeting Since Launching the Iran War",
       "url": "https://military.com/trump-expresses-frustrations-with-netanyahu-before-their-first-meeting-since-launching-the-iran-war",
       "source": "Military.com",
       "publishedAt": "2026-07-28T14:45:23Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Britain Backs Ukraine With New Electronic Warfare Cooperation",
-      "url": "https://oilprice.com/Geopolitics/Europe/Britain-Backs-Ukraine-With-New-Electronic-Warfare-Cooperation.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-07-28T14:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Rome Declaration on Combined Threat of Nuclear Weapons and AI",
@@ -163,44 +203,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "The US is Waging a Hybrid World War Against Russia, China, and Iran",
-      "url": "https://korybko.substack.com/p/korybko-to-timofeev-the-us-is-waging",
-      "source": "Substack.com",
-      "publishedAt": "2026-07-28T13:46:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Netanyahu Meets Trump at White House Amid Iran War as Washington Honors Late Sen. Lindsey Graham Today",
-      "url": "https://www.ibtimes.com.au/netanyahu-trump-meeting-us-iran-tensions-graham-funeral-1873134",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-07-28T13:38:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Spykman Trap: How the West Built a Fortress and Lost the World",
-      "url": "https://i-epikaira.blogspot.com/2026/07/the-spykman-trap-how-west-built.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-07-28T13:27:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump welcomes Netanyahu to White House as raging Iran war threatens to sour US-Israel relationship",
       "url": "https://www.foxnews.com/politics/trump-welcomes-netanyahu-white-house-raging-iran-war-threatens-sour-us-israel-relationship",
       "source": "Fox News",
       "publishedAt": "2026-07-28T12:58:26Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Zelenskyy, Trump Meet At White House At Crucial Moment In US-Ukraine Relations",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260728-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-28T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Netanyahu’s Palestine Philosophy Is Finally Exposed",
@@ -225,46 +233,6 @@
       "publishedAt": "2026-07-28T10:00:49Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu in the White House: What’s on the agenda and what’s next?",
-      "url": "https://www.aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-28T09:29:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "‘A disaster for America First’: Trump allies fear Netanyahu meeting will pull US deeper into war with Iran",
-      "url": "https://www.politico.com/news/2026/07/28/trump-netanyahu-allies-worry-iran-01013125",
-      "source": "Politico",
-      "publishedAt": "2026-07-28T08:45:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Global Research Daily: The News Behind the News",
-      "url": "https://www.globalresearch.ca/global-research-daily-news-behind-news-13-5/5934649",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-27T13:28:55Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Trump-Saudi Atomic Energy Deal: Toward a nuclear Mideast?",
-      "url": "https://www.juancole.com/2026/07/atomic-nuclear-mideast.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-07-27T04:04:15Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "N. Korea says nuclear arsenal will be 'updated steadily'",
-      "url": "https://biztoc.com/x/4a133b5d5dc048d1",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-07-27T00:31:30Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

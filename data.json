@@ -1,86 +1,174 @@
 {
-  "updated": "2026-07-30T08:23:19Z",
-  "count": 32,
+  "updated": "2026-07-30T13:56:39Z",
+  "count": 29,
   "articles": [
     {
-      "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
-      "url": "https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-29T08:16:06Z",
+      "title": "Trump vows retaliation after Iran targets US bases in Jordan",
+      "url": "https://www.hurriyetdailynews.com/trump-vows-retaliation-after-iran-targets-us-bases-in-jordan-224986",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-29T13:52:14Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US to hit Iran hard, says Trump",
+      "url": "https://punchng.com/us-to-hit-iran-hard-says-trump/",
+      "source": "The Punch",
+      "publishedAt": "2026-07-29T13:34:03Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Will Germany bring back mandatory military conscription next year?",
-      "url": "https://www.aljazeera.com/news/2026/7/29/will-germany-bring-back-mandatory-military-conscription-next-year",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-29T08:07:19Z",
+      "title": "Trump says US to hit Iran hard",
+      "url": "https://www.vanguardngr.com/2026/07/trump-says-us-to-hit-iran-hard/",
+      "source": "Vanguard",
+      "publishedAt": "2026-07-29T13:27:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why Ukraine’s Strike on Iranian Assets in the Caspian Sea Seeks to Ignite a World War",
+      "url": "https://www.globalresearch.ca/ukraine-strike-iranian-assets-caspian-sea-seeks-ignite-world-war/5934854",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-29T13:23:05Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "US, Saudi forces strike Iran-backed groups in Iraq",
-      "url": "https://www.vanguardngr.com/2026/07/us-saudi-forces-strike-iran-backed-groups-in-iraq/",
+      "title": "10 countries with strongest military in Europe",
+      "url": "https://www.vanguardngr.com/2026/07/10-countries-with-strongest-military-in-europe/",
       "source": "Vanguard",
-      "publishedAt": "2026-07-29T07:46:03Z",
+      "publishedAt": "2026-07-29T12:36:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Struggle Session",
+      "url": "https://freerepublic.com/focus/f-chat/4389772/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-29T12:15:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Live updates: US and Iranian forces resume attacks in Middle East, piercing relative calm - CNN",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184749836",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-07-29T12:13:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How The Iran War Is Changing Security Dynamics In The Middle East",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260729-rferl04.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-29T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Does Iran's Attack On Jordan Mark A Shift In Military Strategy?",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260729-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-29T12:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
       "title": "US Lawmaker Wilson Urges Serbia To Distance Itself From Russia Or Face Hurdles To Integration",
-      "url": "https://www.rferl.org/a/us-wilson-serbia-russia-integration-osce/33816956.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-07-29T06:50:22Z",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/07/russia-260729-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-29T12:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Iran to get Chinese shoulder-launched missile systems in weeks: report",
-      "url": "https://nypost.com/2026/07/29/world-news/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks/",
-      "source": "New York Post",
-      "publishedAt": "2026-07-29T06:46:33Z",
+      "title": "Time is not on Russia's side: UK statement to the OSCE",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260729-ukfcdo01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-29T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Hosts Netanyahu at White House for Closed-Door Talks Focused on Iran Nuclear Threat and Security",
+      "url": "https://www.ibtimes.com.au/trump-netanyahu-iran-nuclear-talks-1873187",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-07-29T11:08:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Links 7/29/2026",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-29-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-29T10:59:30Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "A Dangerous Balancing Act: UAE Quietly Reopens Iran Links While Deepening Ties With U.S. and Israel",
-      "url": "https://www.naturalnews.com/2026-07-29-uae-reopens-tehran-links-alongside-us-israel.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-29T06:00:00Z",
+      "title": "Transcript: Trump’s Rage at Iran Takes Scary Turn—Even MAGA is Rattled",
+      "url": "https://newrepublic.com/article/213664/transcript-trump-rage-iran-takes-scary-turn-even-maga-rattled",
+      "source": "The New Republic",
+      "publishedAt": "2026-07-29T10:46:09Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Trump Threatens to Seize Frozen Iranian Assets Over Ship Attacks",
-      "url": "https://www.naturalnews.com/2026-07-29-trump-threatens-seize-iranian-assets-ship-attacks.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-29T06:00:00Z",
+      "title": "Britain should turn Ukrainian wartime innovation into shared leadership",
+      "url": "https://www.techradar.com/pro/britain-should-turn-ukrainian-wartime-innovation-into-shared-leadership",
+      "source": "TechRadar",
+      "publishedAt": "2026-07-29T10:45:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine claims major Russian oil refinery hit, hours after Zelenskyy, Trump meeting",
+      "url": "https://abcnews.com/International/wireStory/ukraine-hit-major-russian-oil-refinery-hours-after-135181989",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-29T10:26:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran 'considered attacking Ukrainian port in revenge for strikes on Caspian Sea ships heading for Russia' as two wars continue to merge",
+      "url": "https://www.dailymail.com/news/article-16012941/Iran-considered-attacking-Ukrainian-port-revenge-strikes-Caspian-Sea-ships-heading-Russia-two-wars-continue-merge.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-29T10:07:30Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran Claims Strikes on U.S. Bases in Kuwait and Jordan Destroyed Patriot System, Drone Facilities",
-      "url": "https://www.naturalnews.com/2026-07-29-iran-claims-strikes-us-bases-destroyed-patriot-system.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-29T06:00:00Z",
+      "title": "China, Russia, Iran and North Korea form 'axis of aggressors' that could overwhelm US, book warns",
+      "url": "https://www.foxnews.com/world/china-russia-iran-north-korea-form-axis-aggressors-overwhelm-us-book-warns",
+      "source": "Fox News",
+      "publishedAt": "2026-07-29T10:00:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Transcript: Inside AOC’s Foreign Policy Vision",
+      "url": "https://newrepublic.com/article/213647/transcript-inside-aoc-foreign-policy-vision",
+      "source": "The New Republic",
+      "publishedAt": "2026-07-29T10:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
-      "url": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-29T05:43:03Z",
+      "title": "Who are the Iran-backed militias behind Iraq's oil facility attacks?",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/who-are-the-iran-backed-militias-behind-iraqs-oil-facility-attacks/articleshow/132707877.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-29T09:50:50Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "War flares as US, Saudi forces strike Iran-backed militias in Iraq",
-      "url": "https://www.hurriyetdailynews.com/war-flares-as-us-saudi-forces-strike-iran-backed-militias-in-iraq-224943",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-29T05:16:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "“We Must Avert Nuclear Armageddon”",
+      "url": "https://www.thenation.com/?post_type=article&p=605260",
+      "source": "Thenation.com",
+      "publishedAt": "2026-07-29T09:20:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Rival Koreas race to build nuclear-powered submarines",
@@ -91,30 +179,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "US air defence missile stockpiles depleted after recent conflict with Iran: Report",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-air-defence-missile-stockpiles-depleted-after-recent-conflict-with-iran-report/articleshow/132700276.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-29T04:23:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Saudis launch strikes on Iran-backed groups in Iraq",
-      "url": "https://www.rte.ie/news/middle-east/2026/0729/1585551-us-saudis-launch-strikes-on-iran-backed-groups-in-iraq/",
-      "source": "RTE",
-      "publishedAt": "2026-07-29T03:45:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Zelenskyy has 'good meeting' with Trump at White House as he seeks more cooperation with US",
-      "url": "https://www.thehindubusinessline.com/news/world/zelenskyy-has-good-meeting-with-trump-at-white-house-as-he-seeks-more-cooperation-with-us/article71279662.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-07-29T03:42:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israeli PM Benjamin Netanyahu vows to visit New York despite Mamdani's repeated calls for his arrest",
       "url": "https://www.foxnews.com/media/israeli-pm-benjamin-netanyahu-vows-visit-new-york-despite-mamdani-repeated-calls-arrest",
       "source": "Fox News",
@@ -123,68 +187,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Trump, Zelenskiy discuss peace talks, Patriot missile production",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-zelenskiy-discuss-peace-talks-patriot-missile-production/articleshow/132697642.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-29T02:04:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Meets With Key Players In Ukraine, Iran Wars, But Offers No Update On Progress",
-      "url": "https://www.huffpost.com/entry/trump-zelenskyy-netanyahu_n_6a68e977e4b098352c2f86b7",
-      "source": "HuffPost",
-      "publishedAt": "2026-07-28T22:11:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump shares no details of Zelensky meeting",
-      "url": "https://www.rt.com/news/643578-trump-zelensky-meeting-us/",
-      "source": "RT",
-      "publishedAt": "2026-07-28T22:07:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump, Zelenskyy discuss expanding Ukraine’s Patriot missile production in closed meeting ahead of Lindsey Graham’s funeral",
-      "url": "https://fortune.com/2026/07/28/trump-zelenskyy-discuss-expanding-ukraines-patriot-missile-production-in-closed-meeting-ahead-of-lindsey-grahams-funeral/",
-      "source": "Fortune",
-      "publishedAt": "2026-07-28T21:01:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Netanyahu and Zelenskyy meet Trump at the White House as Washington honors Lindsey Graham",
       "url": "https://fortune.com/2026/07/28/netanyahu-zelenskyy-meet-trump-white-house-lindsey-graham/",
       "source": "Fortune",
       "publishedAt": "2026-07-28T20:53:34Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "US walks out of UN Security Council meeting during France's remarks",
-      "url": "https://freerepublic.com/focus/f-news/4389699/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-28T20:11:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran debates retaliation after Ukraine attacks merchant ship",
-      "url": "https://cryptobriefing.com/iran-debates-retaliation-after-ukraine-attacks-merchant-ship/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-28T19:55:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Follow the Money Toward WWIII",
-      "url": "https://freerepublic.com/focus/f-bloggers/4389685/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-28T18:25:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows",
@@ -219,44 +227,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Trump Expresses Frustrations With Netanyahu Before Their First Meeting Since Launching the Iran War",
-      "url": "https://military.com/trump-expresses-frustrations-with-netanyahu-before-their-first-meeting-since-launching-the-iran-war",
-      "source": "Military.com",
-      "publishedAt": "2026-07-28T14:45:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Rome Declaration on Combined Threat of Nuclear Weapons and AI",
       "url": "https://www.globalresearch.ca/rome-declaration-combined-threat-nuclear-weapons-ai-2/5934675",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-07-28T13:55:16Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Trump welcomes Netanyahu to White House as raging Iran war threatens to sour US-Israel relationship",
-      "url": "https://www.foxnews.com/politics/trump-welcomes-netanyahu-white-house-raging-iran-war-threatens-sour-us-israel-relationship",
-      "source": "Fox News",
-      "publishedAt": "2026-07-28T12:58:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu’s Palestine Philosophy Is Finally Exposed",
-      "url": "http://foreignpolicy.com/2026/07/28/netanyahu-israel-palestine-history-two-state-solution-gaza/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-07-28T11:24:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Gulf States Back Plan to Let Iran Collect Voluntary Fees to Use Hormuz",
-      "url": "https://gcaptain.com/gulf-states-back-plan-to-let-iran-collect-voluntary-fees-to-use-hormuz/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-07-28T11:06:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

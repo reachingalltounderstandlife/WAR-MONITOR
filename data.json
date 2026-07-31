@@ -1,110 +1,206 @@
 {
-  "updated": "2026-07-31T08:46:52Z",
-  "count": 25,
+  "updated": "2026-07-31T14:01:55Z",
+  "count": 32,
   "articles": [
     {
-      "title": "Egypt is dragged into Middle East war as drone hits US gas tanker at Mediterranean port - a day after Saudi Arabia joined American strikes in Iraq",
-      "url": "https://www.dailymail.com/news/article-16015793/Egypt-dragged-Middle-East-war-drone-hits-US-gas-tanker-Mediterranean-port-day-Saudi-Arabia-joined-American-strikes-Iraq.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-30T08:21:01Z",
+      "title": "For JD Vance, Blaming Israel Is Easier Than Admitting Iran Won",
+      "url": "https://www.fairobserver.com/world-news/middle-east-news/for-jd-vance-blaming-israel-is-easier-than-admitting-iran-won/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-07-30T13:54:38Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Washington May Be “Learning to Live” With Iran, Ukraine and Israel",
+      "url": "https://www.globalresearch.ca/washington-live-iran-ukraine-israel/5935087",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-30T13:40:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "From a Regional War to a Global Conflagration.",
+      "url": "https://www.globalresearch.ca/regional-war-global-conflagration/5935101",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-30T13:37:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Sweden to Create New Intelligence Agency. Monitoring the Russian Federation",
+      "url": "https://www.globalresearch.ca/sweden-create-new-intelligence-agency/5935061",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-30T13:34:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Administration Considering Neo-Colonial Military Operations in Mali",
+      "url": "https://www.globalresearch.ca/trump-administration-military-operations-mali/5934988",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-07-30T13:32:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "To the last Ukrainian: Why the EU doesn’t want Kiev’s draft dodgers",
+      "url": "https://www.rt.com/news/643643-eu-ukraine-asylum-war/",
+      "source": "RT",
+      "publishedAt": "2026-07-30T13:13:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Boeing blocks Ukraine’s air-defense plan – Welt",
+      "url": "https://www.rt.com/news/643654-ukraine-patriot-interceptors-boeing/",
+      "source": "RT",
+      "publishedAt": "2026-07-30T13:07:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO says a Russian missile crashed in Poland. Ukrainian jets tried to destroy threats right up the border, Warsaw says.",
+      "url": "https://www.businessinsider.com/russia-missile-poland-ukraine-defense-officials-2026-7#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-30T12:20:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO says a Russian missile crashed in Poland. Ukrainian jets tried to destroy threats right up the border, Warsaw says.",
+      "url": "https://www.businessinsider.com/russia-missile-poland-ukraine-defense-officials-2026-7",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-30T12:20:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Iran War is Expanding | Washington Examiner/ACLED",
+      "url": "https://smallwarsjournal.com/2026/07/30/the-iran-war-is-expanding-washington-examiner-acled/",
+      "source": "Smallwarsjournal.com",
+      "publishedAt": "2026-07-30T12:06:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia's history of disregarding the sovereignty and territorial integrity of its neighbours: UK statement to the OSCE",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260730-ukfcdo01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-30T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Day 1,618 of WW3. Zelenskyy meets with Polish PM Tusk in Lublin despite old grievances stirred up by russia. UAF lost an F-16 during a combat mission, and Moscow goes ballistic on Ukrainian civilian targets. This is your Thursday Ukraine war thread [News]",
+      "url": "https://www.fark.com/comments/14147256/Day-1618-of-WW3-Zelenskyy-meets-with-Polish-PM-Tusk-in-Lublin-despite-old-grievances-stirred-up-by-russia-UAF-lost-an-F-16-during-a-combat-mission-Moscow-goes-ballistic-on-Ukrainian-civilian-targets-This-is-your-Thursday-Ukraine-war-thread",
+      "source": "Fark.com",
+      "publishedAt": "2026-07-30T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian Missile Strike On Ukrainian Village Kills Almost Entire Family",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260730-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-30T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Japan's Nuclear Ambition is a Red Line that Should Never be Crossed: Defense Spokesperson",
+      "url": "https://www.globalsecurity.org/wmd/library/news/japan/2026/japan-260730-prc-mnd02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-07-30T12:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Thursday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/07/30/thursday-hili-dialogue-598/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-07-30T11:45:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Two meetings and a funeral: diplomacy on the sidelines of Lindsey Graham’s memorial service",
+      "url": "https://theconversation.com/two-meetings-and-a-funeral-diplomacy-on-the-sidelines-of-lindsey-grahams-memorial-service-288567",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-07-30T11:39:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Egypt Confirms Iranian Drone Hit US Tankers at Damietta Port",
+      "url": "https://freerepublic.com/focus/f-news/4389895/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-30T11:33:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Drone Strike at Egypt’s Damietta Port Raises New Security Threat Near Suez",
+      "url": "https://www.insurancejournal.com/news/international/2026/07/30/879637.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-07-30T11:30:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "5GW: Weapons of Mass Deception",
+      "url": "https://www.spinmagazine.com/2026/07/fifth-generation-warfare/",
+      "source": "Spinmagazine.com",
+      "publishedAt": "2026-07-30T11:30:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "US Sanctions Iran’s ‘Extortion Network’ Over Hormuz Tolls",
+      "url": "https://www.insurancejournal.com/news/international/2026/07/30/879628.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-07-30T11:01:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Erdoğan says Israel’s aggression exacts regional toll",
+      "url": "https://www.hurriyetdailynews.com/erdogan-says-israels-aggression-exacts-regional-toll-225017",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-07-30T10:43:43Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Rob Urie – Empire Versus Civilization: The US Is Now Officially a Pariah State",
+      "url": "https://www.nakedcapitalism.com/2026/07/rob-urie-empire-versus-civilization-the-us-is-now-officially-a-pariah-state.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-30T09:02:21Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "US military completes 'heavy wave' of retaliatory strikes on Iran",
       "url": "https://www.hurriyetdailynews.com/us-military-completes-heavy-wave-of-retaliatory-strikes-on-iran-224997",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-07-30T07:48:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russian strikes kill at least 8, wound more across Ukraine",
-      "url": "https://www.hurriyetdailynews.com/russian-strikes-kill-at-least-8-wound-more-across-ukraine-224996",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-30T07:16:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US military completes ‘heavy wave’ of retaliatory strikes on Iran",
       "url": "https://www.vanguardngr.com/2026/07/us-military-completes-heavy-wave-of-retaliatory-strikes-on-iran/",
       "source": "Vanguard",
       "publishedAt": "2026-07-30T06:41:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Erects Billboard Threatening Trump Amid Ongoing Tensions",
-      "url": "https://www.naturalnews.com/2026-07-30-iran-erects-billboard-threatening-trump-amid-ongoing-tensions.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-30T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Set to Receive Chinese Shoulder-Fired Missile Systems Within Weeks, Sources Say",
-      "url": "https://www.naturalnews.com/2026-07-30-iran-receive-chinese-shoulder-fired-missile-systems.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-30T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia strikes 10 Ukrainian regions in massive overnight barrage; missile believed to have hit Poland",
-      "url": "https://www.naturalnews.com/2026-07-30-russia-strikes-ukrainian-missile-barrage-poland.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-30T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US military completes 'heavy wave' of strikes on Iran after American bases in Jordan targeted",
       "url": "https://www.thejournal.ie/us-military-completes-heavy-wave-of-strikes-on-iran-after-american-bases-in-jordan-targeted-7117214-Jul2026/",
       "source": "TheJournal.ie",
       "publishedAt": "2026-07-30T05:53:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Iran War Live Updates: US-Iran conflict enters new phase with fresh strikes and stalled diplomacy",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-donald-trump-middle-east-conflict-houthis-saudi-red-sea-jordan-strike/liveblog/132727734.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-30T05:17:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russian strikes kill at least 8 across Ukraine",
-      "url": "https://www.rte.ie/news/world/2026/0730/1585730-russia-ukraine-strike/",
-      "source": "RTE",
-      "publishedAt": "2026-07-30T04:36:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "All the latest reports keep focusing on the war itself, not on how russians actually feel about it",
-      "url": "https://cryptobriefing.com/all-the-latest-reports-keep-focusing-on-the-war-itself-not-on-how-russians/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-30T04:22:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump says he'd be 'quite disappointed' if China arms Iran",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-says-hed-be-quite-disappointed-if-china-arms-iran/articleshow/132725918.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-30T03:11:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The last journey of Lindsey Graham, from Washington to the state he loved",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/the-last-journey-of-lindsey-graham-from-washington-to-the-state-he-loved/articleshow/132724903.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-30T02:04:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump says US to hit Iran hard",
@@ -113,14 +209,6 @@
       "publishedAt": "2026-07-29T22:21:46Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Senate advances sweeping Russia sanctions bill targeting top oil buyers, provoking China",
-      "url": "https://www.activistpost.com/senate-advances-sweeping-russia-sanctions-bill-targeting-top-oil-buyers-provoking-china/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-07-29T22:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Trump says US to hit Iran hard",
@@ -139,14 +227,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Russia cannot survive without victory in Ukraine – Medvedev",
-      "url": "https://www.rt.com/news/643635-russia-ukraine-conflict-medvedev/",
-      "source": "RT",
-      "publishedAt": "2026-07-29T21:14:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran pushes back against US as regional attacks heat up",
       "url": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up",
       "source": "Al Jazeera English",
@@ -155,36 +235,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Polish defense minister dismisses claims Russia could attack",
-      "url": "https://www.rt.com/news/643631-polish-defense-minister-dismisses-russia-attack/",
-      "source": "RT",
-      "publishedAt": "2026-07-29T16:28:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iraq’s Balancing Act Is Only Getting Harder as the War Between the US and Iran Widens",
       "url": "https://military.com/iraqs-balancing-act-is-only-getting-harder-as-the-war-between-the-us-and-iran-widens",
       "source": "Military.com",
       "publishedAt": "2026-07-29T15:36:58Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Iraq's balancing act is only getting harder as the war between the US and Iran widens",
-      "url": "https://abcnews.com/International/wireStory/iraqs-balancing-act-harder-war-us-iran-widens-135193297",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-07-29T15:12:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Time is not on Russia's side: UK statement to the OSCE",
-      "url": "https://www.gov.uk/government/speeches/time-is-not-on-russias-side-uk-statement-to-the-osce",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-07-29T15:11:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "China Moves to Lock in a New Edge on Taiwan Before the Next Trump-Xi Summit",

@@ -1,46 +1,118 @@
 {
-  "updated": "2026-07-30T19:23:00Z",
-  "count": 29,
+  "updated": "2026-07-31T02:40:34Z",
+  "count": 27,
   "articles": [
     {
-      "title": "How The Iran War Is Changing Security Dynamics In The Middle East",
-      "url": "https://www.rferl.org/a/iran-war-security-dynamics-middle-east-pakistan/33816861.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-07-29T19:22:51Z",
+      "title": "The last journey of Lindsey Graham, from Washington to the state he loved",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/the-last-journey-of-lindsey-graham-from-washington-to-the-state-he-loved/articleshow/132724903.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-30T02:04:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US launches 'powerful' strikes on Iran after attempted attack on American troops",
+      "url": "https://www.bbc.com/news/articles/c74gwdzywmeo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "source": "BBC News",
+      "publishedAt": "2026-07-30T01:33:59Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "'The winner is Zelenskyy, not Putin': The inland sea where two wars collide",
-      "url": "https://www.abc.net.au/news/2026-07-30/ukraine-and-iran-wars-collide-caspian-sea/106968256",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-29T18:57:01Z",
+      "title": "'Nobody tells Trump what to do': Netanyahu rejects claims he misled Trump on Iran",
+      "url": "https://www.israelnationalnews.com/news/430980",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-30T01:18:16Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Ukraine’s Attack on Iranian Cargo Ship Links Two Wars",
-      "url": "https://oilprice.com/Energy/Energy-General/Ukraines-Attack-on-Iranian-Cargo-Ship-Links-Two-Wars.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-07-29T18:00:00Z",
+      "title": "US launches 'powerful' strikes on Iran after attempted attack on American troops",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo",
+      "source": "BBC News",
+      "publishedAt": "2026-07-30T01:16:55Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+      "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-29T23:34:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'It's his decision': Netanyahu says choice on how to proceed with Iran is Trump's",
+      "url": "https://abcnews.com/US/decision-netanyahu-choice-proceed-iran-trumps/story?id=135203352",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-29T22:49:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says US to hit Iran hard",
+      "url": "https://www.vanguardngr.com/2026/07/trump-says-us-to-hit-iran-hard-2/",
+      "source": "Vanguard",
+      "publishedAt": "2026-07-29T22:21:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Senate advances sweeping Russia sanctions bill targeting top oil buyers, provoking China",
+      "url": "https://www.activistpost.com/senate-advances-sweeping-russia-sanctions-bill-targeting-top-oil-buyers-provoking-china/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-07-29T22:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US-Iran conflict enters new phase as Saudi Arabia helps hit proxies and diplomacy stalls again",
+      "url": "https://abcnews.com/US/wireStory/us-iran-conflict-enters-new-phase-saudi-arabia-135207119",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-07-29T21:42:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says US to hit Iran hard",
+      "url": "https://www.channelnewsasia.com/world/trump-says-us-hit-iran-hard-6286796",
+      "source": "CNA",
+      "publishedAt": "2026-07-29T21:40:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Todd Blanche’s rocky road: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/todd-blanches-rocky-road-politics-desk-rcna589926",
+      "source": "NBC News",
+      "publishedAt": "2026-07-29T21:35:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Great Middle East War Escalates: Trump Has Told Us Exactly What He Plans To Do Next, And It Is Going To Change Everything",
+      "url": "http://theeconomiccollapseblog.com/the-great-middle-east-war-escalates-trump-has-told-us-exactly-what-he-plans-to-do-next-and-it-is-going-to-change-everything/",
+      "source": "Theeconomiccollapseblog.com",
+      "publishedAt": "2026-07-29T21:18:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia cannot survive without victory in Ukraine – Medvedev",
+      "url": "https://www.rt.com/news/643635-russia-ukraine-conflict-medvedev/",
+      "source": "RT",
+      "publishedAt": "2026-07-29T21:14:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Iran pushes back against US as regional attacks heat up",
       "url": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up",
       "source": "Al Jazeera English",
       "publishedAt": "2026-07-29T17:45:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Threatens to Bomb the “F****** S***” Out of Iran After US Base Strike",
-      "url": "https://truthout.org/articles/trump-threatens-to-bomb-the-f-s-out-of-iran-after-us-base-strike/",
-      "source": "Truthout",
-      "publishedAt": "2026-07-29T17:18:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Polish defense minister dismisses claims Russia could attack",
@@ -51,36 +123,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US Sanctions Iran’s ‘Extortion Network’ Over Hormuz Tolls",
-      "url": "https://financialpost.com/pmn/business-pmn/us-sanctions-irans-extortion-network-over-hormuz-tolls",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-29T15:50:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
-      "url": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-29T15:43:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Is Netanyahu’s star waning in Washington? His latest meeting with Trump suggests it may be",
-      "url": "https://theconversation.com/is-netanyahus-star-waning-in-washington-his-latest-meeting-with-trump-suggests-it-may-be-288537",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-07-29T15:41:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Iraq’s Balancing Act Is Only Getting Harder as the War Between the US and Iran Widens",
       "url": "https://military.com/iraqs-balancing-act-is-only-getting-harder-as-the-war-between-the-us-and-iran-widens",
       "source": "Military.com",
       "publishedAt": "2026-07-29T15:36:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iraq's balancing act is only getting harder as the war between the US and Iran widens",
@@ -139,14 +187,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Trump says US to hit Iran hard",
-      "url": "https://www.vanguardngr.com/2026/07/trump-says-us-to-hit-iran-hard/",
-      "source": "Vanguard",
-      "publishedAt": "2026-07-29T13:27:25Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Why Ukraine’s Strike on Iranian Assets in the Caspian Sea Seeks to Ignite a World War",
       "url": "https://www.globalresearch.ca/ukraine-strike-iranian-assets-caspian-sea-seeks-ignite-world-war/5934854",
       "source": "Globalresearch.ca",
@@ -171,68 +211,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Time is not on Russia's side: UK statement to the OSCE",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/07/ukraine-260729-ukfcdo01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-29T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US Lawmaker Wilson Urges Serbia To Distance Itself From Russia Or Face Hurdles To Integration",
-      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/07/russia-260729-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-29T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Hosts Netanyahu at White House for Closed-Door Talks Focused on Iran Nuclear Threat and Security",
-      "url": "https://www.ibtimes.com.au/trump-netanyahu-iran-nuclear-talks-1873187",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-07-29T11:08:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Britain should turn Ukrainian wartime innovation into shared leadership",
-      "url": "https://www.techradar.com/pro/britain-should-turn-ukrainian-wartime-innovation-into-shared-leadership",
-      "source": "TechRadar",
-      "publishedAt": "2026-07-29T10:45:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Rival Koreas race to build nuclear-powered submarines",
       "url": "https://www.irishtimes.com/world/asia-pacific/2026/07/29/rival-koreas-race-to-build-nuclear-powered-submarines/",
       "source": "The Irish Times",
       "publishedAt": "2026-07-29T04:45:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Israeli PM Benjamin Netanyahu vows to visit New York despite Mamdani's repeated calls for his arrest",
-      "url": "https://www.foxnews.com/media/israeli-pm-benjamin-netanyahu-vows-visit-new-york-despite-mamdani-repeated-calls-arrest",
-      "source": "Fox News",
-      "publishedAt": "2026-07-29T03:00:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why Did Trump Just Give Saudi Arabia the Fast Track to a Nuclear Weapon?",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/Why-Did-Trump-Just-Give-Saudi-Arabia-the-Fast-Track-to-a-Nuclear-Weapon.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-07-28T17:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Rome Declaration on Combined Threat of Nuclear Weapons and AI",
-      "url": "https://www.globalresearch.ca/rome-declaration-combined-threat-nuclear-weapons-ai-2/5934675",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-28T13:55:16Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

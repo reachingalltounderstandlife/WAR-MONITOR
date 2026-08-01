@@ -1,7 +1,103 @@
 {
-  "updated": "2026-08-01T08:17:37Z",
-  "count": 28,
+  "updated": "2026-08-01T13:16:21Z",
+  "count": 25,
   "articles": [
+    {
+      "title": "Trump Announces Hamas Disarmament Agreement as Iran Strikes Kuwait Air Base and US Attacks Pause Overnight",
+      "url": "https://www.ibtimes.com.au/trump-historic-hamas-disarmament-agreement-1873293",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-07-31T12:58:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "This May Be Trump’s Biggest Error in the Iran War",
+      "url": "https://www.theatlantic.com/national-security/2026/07/iran-war-trump-misunderstandings/688117/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-07-31T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Drone Attack That Exposed Egypt’s Energy Defenses",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Drone-Attack-That-Exposed-Egypts-Energy-Defenses.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-07-31T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Friday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/07/31/friday-hili-dialogue-588/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-07-31T11:45:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Military flare-up between Houthis and Saudi Arabia challenges relative calm in Yemen",
+      "url": "https://www.dw.com/en/military-flare-up-between-houthis-and-saudi-arabia-challenges-relative-calm-in-yemen/a-78186262",
+      "source": "DW (English)",
+      "publishedAt": "2026-07-31T11:15:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A Tragedy in Iran Might Persuade Hegseth to Change Course",
+      "url": "https://www.theatlantic.com/national-security/2026/07/hegseth-pentagon-civilian-protections-iran/688110/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-07-31T11:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 7/31/2026",
+      "url": "https://www.nakedcapitalism.com/2026/07/links-7-31-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-31T10:59:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: Risk of Widening Conflict as Saudis Form “Defensive” Coalition, Iran Depicts Egypt LNG Platform Attack as Israel False Flag; Postol – Iran Missiles More Powerful Than Oreshnik; IRCG Provides Images of F-35s Destroyed in Jordan",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-risk-of-widening-conflict-as-saudis-form-defensive-coalition-iran-depicts-egypt-lng-platform-attack-as-israel-false-flag-postol-iran-missiles-more-powerful-than-oreshnik-ircg-provid.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-31T10:56:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: Risk of Widening Conflict as Saudis Form “Defensive” Coalition, Iran Depicts Egypt LNG Platform Attack as Israel False Flag; Postol – Iran Missiles More Powerful Than Oreshnik; IRGC Provides Images of F-35s Destroyed in Jordan",
+      "url": "https://www.nakedcapitalism.com/2026/07/iran-war-risk-of-widening-conflict-as-saudis-form-defensive-coalition-iran-depicts-egypt-lng-platform-attack-as-israel-false-flag-postol-iran-missiles-more-powerful-than-oreshnik-irgc-provid.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-07-31T10:56:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why Western Europe needs the Ukraine conflict to continue",
+      "url": "https://www.rt.com/news/643691-why-western-europe-needs-ukraine/",
+      "source": "RT",
+      "publishedAt": "2026-07-31T10:50:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian missile that exploded in Poland was 'nuke capable', Nato member reveals - as alliance warns it will take 'all necessary measures' to defend territory",
+      "url": "https://www.dailymail.com/news/article-16019105/Russian-missile-exploded-Poland-nuke-capable-Nato-necessary-measures-defend-territory.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-31T08:56:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia, Ukraine, and the Danger of Escalation",
+      "url": "https://www.thenation.com/article/world/putin-russia-ukraine-war-negotiations-europe-escalation-diplomacy/",
+      "source": "Thenation.com",
+      "publishedAt": "2026-07-31T08:40:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "How US Senate Russia sanctions could spell 100% tariffs for India, China",
       "url": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china",
@@ -9,14 +105,6 @@
       "publishedAt": "2026-07-31T06:24:37Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Drone Strike on Egyptian Port Raises Concerns of Wider Iran Conflict",
-      "url": "https://www.naturalnews.com/2026-07-31-drone-strike-egyptian-port-raises-iran-conflict.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-31T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Is Trump bluffing about not using Patriot missiles in Ukraine, after locking $58.6 billion Patriot missile deal?",
@@ -27,16 +115,8 @@
       "_label": "Ukraine"
     },
     {
-      "title": "The field marshal remaking Pakistan’s place in the world",
-      "url": "https://www.irishtimes.com/world/asia-pacific/2026/07/28/pakistans-all-powerful-field-marshal-capitalises-on-ties-with-riyadh-while-keeping-a-lid-on-challenges-through-authoritarian-rule/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-31T05:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Early evidence shows North Korea's ballistic missiles are back in the war, Zelenskyy says",
-      "url": "https://www.businessinsider.com/north-korea-missile-ukraine-radushne-zelenskyy-kn23-ballistic-2026-7#article",
+      "url": "https://www.businessinsider.com/north-korea-missile-ukraine-radushne-zelenskyy-kn23-ballistic-2026-7",
       "source": "Business Insider",
       "publishedAt": "2026-07-31T04:47:25Z",
       "_cat": "ukraine",
@@ -44,7 +124,7 @@
     },
     {
       "title": "Early evidence shows North Korea's ballistic missiles are back in the war, Zelenskyy says",
-      "url": "https://www.businessinsider.com/north-korea-missile-ukraine-radushne-zelenskyy-kn23-ballistic-2026-7",
+      "url": "https://www.businessinsider.com/north-korea-missile-ukraine-radushne-zelenskyy-kn23-ballistic-2026-7#article",
       "source": "Business Insider",
       "publishedAt": "2026-07-31T04:47:25Z",
       "_cat": "ukraine",
@@ -59,60 +139,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Oil Price Today (July 31): Crude oil extends fall to $88. What’s behind the decline amid Iran war?",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-31-crude-oil-extends-fall-to-88-whats-behind-the-decline-amid-iran-war/articleshow/132753969.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-31T02:46:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran urges Bulgaria to reconsider hosting US military aircraft",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-urges-bulgaria-to-reconsider-hosting-us-military-aircraft/articleshow/132753667.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-31T02:19:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Vance holds 'no bulls***' conversation with Netanyahu as US unleashed new strikes on Iran",
-      "url": "https://www.dailymail.com/news/article-16018195/jd-vance-benjamin-netanyahu-israel-talks.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-31T02:08:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Scripting An Endgame In The Russia-Ukraine War",
-      "url": "https://www.hindustantimes.com/opinion/scripting-an-endgame-in-the-russia-ukraine-war-101785430034801.html",
-      "source": "Hindustan Times",
-      "publishedAt": "2026-07-31T00:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How shipping risks from Ukraine and Iran wars are converging",
-      "url": "https://www.pbs.org/newshour/show/how-shipping-risks-from-ukraine-and-iran-wars-are-converging",
-      "source": "PBS",
-      "publishedAt": "2026-07-30T22:52:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Is the U.S.-Iran War Expanding?",
       "url": "http://foreignpolicy.com/2026/07/30/us-iran-war-iraq-strikes-saudi-houthis/",
       "source": "Foreign Policy",
       "publishedAt": "2026-07-30T22:07:49Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "‘Moderate’ Netanyahu Alternative Who Met With Dems Wants Israel to Keep Expanding Its Borders",
-      "url": "https://www.commondreams.org/news/yair-lapid-democrats",
-      "source": "Common Dreams",
-      "publishedAt": "2026-07-30T21:48:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "NATO Says Russian Missile Violated Polish Airspace",
@@ -123,52 +155,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Ukraine Could Be Building Patriots Inside A Year – But Still Needs Help Right Now, Envoy Says",
-      "url": "https://www.huffpost.com/entry/ukraine-patriot-factory-missiles_n_6a6b9adee4b01948ae9a91fd",
-      "source": "HuffPost",
-      "publishedAt": "2026-07-30T20:45:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Fetterman Votes With GOP Yet Again on War Powers Resolution to Rein In Trump",
-      "url": "https://www.newsfromthestates.com/article/3-republicans-break-trump-us-senate-vote-block-war-iran",
-      "source": "Newsfromthestates.com",
-      "publishedAt": "2026-07-30T20:30:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Saudi leaders, Netanyahu give Trump input on Iran war as it enters 6th month",
       "url": "https://www.cbsnews.com/news/saudis-netanyahu-trump-iran-war/",
       "source": "CBS News",
       "publishedAt": "2026-07-30T19:13:57Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Iran's Araqchi presses European counterparts over use of bases in US operations",
-      "url": "https://www.yahoo.com/news/articles/irans-araqchi-presses-european-counterparts-142845636.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-30T19:02:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Ukrainian family wiped out by Putin: Ten relatives feared dead in 'evil' Russian strike on home including parents and three children",
-      "url": "https://www.dailymail.com/news/article-16017417/The-Ukrainian-family-wiped-Putin-Ten-relatives-feared-dead-evil-Russian-strike-home-including-parents-three-children.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-30T18:53:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "'Living Nostradamus' says two 2026 prophecies came true… now his darkest warning is unfolding",
-      "url": "https://www.dailymail.com/sciencetech/article-16017653/living-nostradamus-athos-salome-prophecies.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-30T18:30:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Here's why new fronts seem to be opening up across the Middle East",
@@ -183,22 +175,6 @@
       "url": "https://www.israelnationalnews.com/news/431018",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-07-30T15:41:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel May Reduce Dependency On American Jets With New Cruise Missiles",
-      "url": "https://www.forbes.com/sites/pauliddon/2026/07/30/israel-may-reduce-dependency-on-american-jets-with-new-cruise-missiles/",
-      "source": "Forbes",
-      "publishedAt": "2026-07-30T14:05:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Iran War is Expanding | Washington Examiner/ACLED",
-      "url": "https://smallwarsjournal.com/2026/07/30/the-iran-war-is-expanding-washington-examiner-acled/",
-      "source": "Smallwarsjournal.com",
-      "publishedAt": "2026-07-30T12:06:29Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

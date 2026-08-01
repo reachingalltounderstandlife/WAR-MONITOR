@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-31T19:21:51Z",
-  "count": 28,
+  "updated": "2026-08-01T02:39:12Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Iran urges Bulgaria to reconsider hosting US military aircraft",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-urges-bulgaria-to-reconsider-hosting-us-military-aircraft/articleshow/132753667.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-31T02:19:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Vance holds 'no bulls***' conversation with Netanyahu as US unleashed new strikes on Iran",
+      "url": "https://www.dailymail.com/news/article-16018195/jd-vance-benjamin-netanyahu-israel-talks.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-07-31T02:08:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Scripting An Endgame In The Russia-Ukraine War",
+      "url": "https://www.hindustantimes.com/opinion/scripting-an-endgame-in-the-russia-ukraine-war-101785430034801.html",
+      "source": "Hindustan Times",
+      "publishedAt": "2026-07-31T00:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How shipping risks from Ukraine and Iran wars are converging",
+      "url": "https://www.pbs.org/newshour/show/how-shipping-risks-from-ukraine-and-iran-wars-are-converging",
+      "source": "PBS",
+      "publishedAt": "2026-07-30T22:52:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Is the U.S.-Iran War Expanding?",
+      "url": "http://foreignpolicy.com/2026/07/30/us-iran-war-iraq-strikes-saudi-houthis/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-07-30T22:07:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘Moderate’ Netanyahu Alternative Who Met With Dems Wants Israel to Keep Expanding Its Borders",
+      "url": "https://www.commondreams.org/news/yair-lapid-democrats",
+      "source": "Common Dreams",
+      "publishedAt": "2026-07-30T21:48:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO Says Russian Missile Violated Polish Airspace",
+      "url": "http://foreignpolicy.com/2026/07/30/poland-russia-missile-incursion-nato-ukraine-war-strikes/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-07-30T20:49:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine Could Be Building Patriots Inside A Year – But Still Needs Help Right Now, Envoy Says",
+      "url": "https://www.huffpost.com/entry/ukraine-patriot-factory-missiles_n_6a6b9adee4b01948ae9a91fd",
+      "source": "HuffPost",
+      "publishedAt": "2026-07-30T20:45:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Fetterman Votes With GOP Yet Again on War Powers Resolution to Rein In Trump",
+      "url": "https://www.newsfromthestates.com/article/3-republicans-break-trump-us-senate-vote-block-war-iran",
+      "source": "Newsfromthestates.com",
+      "publishedAt": "2026-07-30T20:30:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Saudi leaders, Netanyahu give Trump input on Iran war as it enters 6th month",
       "url": "https://www.cbsnews.com/news/saudis-netanyahu-trump-iran-war/",
@@ -67,36 +139,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "US Navy plans major torpedo stockpile overhaul as military shifts to two-war strategy",
-      "url": "https://www.foxnews.com/politics/us-navy-plans-major-torpedo-stockpile-overhaul-military-shifts-two-war-strategy",
-      "source": "Fox News",
-      "publishedAt": "2026-07-30T15:37:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Why Erdogan won’t fight the West’s war against Russia",
       "url": "https://www.rt.com/news/643632-turkiye-wont-fight-russia/",
       "source": "RT",
       "publishedAt": "2026-07-30T15:33:29Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US Strike on Iran Kills 2-Year-Old Child and Family, Leaves Two Other Kids Beneath Rubble",
-      "url": "https://www.commondreams.org/news/us-strike-kills-children-iran",
-      "source": "Common Dreams",
-      "publishedAt": "2026-07-30T15:03:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran's Strike on Jordan Signals a More Aggressive Military Strategy",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Strike-on-Jordan-Signals-a-More-Aggressive-Military-Strategy.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-07-30T15:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Russia pounds Ukraine in new air attack, killing nine",
@@ -123,44 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US military launches new strikes against Iranian targets, and crypto markets are feeling the heat",
-      "url": "https://cryptobriefing.com/us-iran-strikes-crypto-market-impact-7/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-07-30T14:31:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel May Reduce Dependency On American Jets With New Cruise Missiles",
       "url": "https://www.forbes.com/sites/pauliddon/2026/07/30/israel-may-reduce-dependency-on-american-jets-with-new-cruise-missiles/",
       "source": "Forbes",
       "publishedAt": "2026-07-30T14:05:20Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "From a Regional War to a Global Conflagration.",
-      "url": "https://www.globalresearch.ca/regional-war-global-conflagration/5935101",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-30T13:37:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Sweden to Create New Intelligence Agency. Monitoring the Russian Federation",
-      "url": "https://www.globalresearch.ca/sweden-create-new-intelligence-agency/5935061",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-30T13:34:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Administration Considering Neo-Colonial Military Operations in Mali",
-      "url": "https://www.globalresearch.ca/trump-administration-military-operations-mali/5934988",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-30T13:32:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "The Iran War is Expanding | Washington Examiner/ACLED",
@@ -201,30 +217,6 @@
       "publishedAt": "2026-07-30T09:02:21Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "US military completes 'heavy wave' of retaliatory strikes on Iran",
-      "url": "https://www.hurriyetdailynews.com/us-military-completes-heavy-wave-of-retaliatory-strikes-on-iran-224997",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-30T07:48:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "China Moves to Lock in a New Edge on Taiwan Before the Next Trump-Xi Summit",
-      "url": "https://thediplomat.com/2026/07/china-moves-to-lock-in-a-new-edge-on-taiwan-before-the-next-trump-xi-summit/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-07-29T14:19:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Rival Koreas race to build nuclear-powered submarines",
-      "url": "https://www.irishtimes.com/world/asia-pacific/2026/07/29/rival-koreas-race-to-build-nuclear-powered-submarines/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-07-29T04:45:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-01T02:39:12Z",
-  "count": 27,
+  "updated": "2026-08-01T08:17:37Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "How US Senate Russia sanctions could spell 100% tariffs for India, China",
+      "url": "https://www.aljazeera.com/news/2026/7/31/how-us-senate-russia-sanctions-could-spell-100-tariffs-for-india-china",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-31T06:24:37Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Drone Strike on Egyptian Port Raises Concerns of Wider Iran Conflict",
+      "url": "https://www.naturalnews.com/2026-07-31-drone-strike-egyptian-port-raises-iran-conflict.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-31T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Is Trump bluffing about not using Patriot missiles in Ukraine, after locking $58.6 billion Patriot missile deal?",
+      "url": "https://www.naturalnews.com/2026-07-31-is-trump-bluffing-about-not-using-patriot-missiles-in-ukraine.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-07-31T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The field marshal remaking Pakistan’s place in the world",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/07/28/pakistans-all-powerful-field-marshal-capitalises-on-ties-with-riyadh-while-keeping-a-lid-on-challenges-through-authoritarian-rule/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-07-31T05:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Early evidence shows North Korea's ballistic missiles are back in the war, Zelenskyy says",
+      "url": "https://www.businessinsider.com/north-korea-missile-ukraine-radushne-zelenskyy-kn23-ballistic-2026-7#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-31T04:47:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Early evidence shows North Korea's ballistic missiles are back in the war, Zelenskyy says",
+      "url": "https://www.businessinsider.com/north-korea-missile-ukraine-radushne-zelenskyy-kn23-ballistic-2026-7",
+      "source": "Business Insider",
+      "publishedAt": "2026-07-31T04:47:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Southern Lebanese towns near Beaufort Castle hit by Israeli strikes",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-07-31T04:09:08Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Oil Price Today (July 31): Crude oil extends fall to $88. What’s behind the decline amid Iran war?",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-july-31-crude-oil-extends-fall-to-88-whats-behind-the-decline-amid-iran-war/articleshow/132753969.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-07-31T02:46:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Iran urges Bulgaria to reconsider hosting US military aircraft",
       "url": "https://economictimes.indiatimes.com/news/defence/iran-urges-bulgaria-to-reconsider-hosting-us-military-aircraft/articleshow/132753667.cms",
@@ -107,14 +171,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Houthis in the Iran Conflict: Asymmetric Warfare and Unlikely Surrender",
-      "url": "https://www.thegatewaypundit.com/2026/07/houthis-iran-conflict-asymmetric-warfare-unlikely-surrender/",
-      "source": "Thegatewaypundit.com",
-      "publishedAt": "2026-07-30T18:00:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Here's why new fronts seem to be opening up across the Middle East",
       "url": "https://www.yahoo.com/news/world/articles/ml--iran-us-new-fronts-explainer-170141335.html",
       "source": "Yahoo Entertainment",
@@ -123,52 +179,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "In The Middle Of A War, The Trump Administration Has Cut National Security Staffing In Half",
-      "url": "http://www.techdirt.com/2026/07/30/in-the-middle-of-a-war-the-trump-administration-has-cut-national-security-staffing-in-half/",
-      "source": "Techdirt",
-      "publishedAt": "2026-07-30T16:31:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Reports: Saudi Arabia bombs Sana'a as Houthi-Iraq ties deepen",
       "url": "https://www.israelnationalnews.com/news/431018",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-07-30T15:41:41Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Why Erdogan won’t fight the West’s war against Russia",
-      "url": "https://www.rt.com/news/643632-turkiye-wont-fight-russia/",
-      "source": "RT",
-      "publishedAt": "2026-07-30T15:33:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia pounds Ukraine in new air attack, killing nine",
-      "url": "https://www.rte.ie/news/ukraine/2026/0730/1585837-ukraine-russia/",
-      "source": "RTE",
-      "publishedAt": "2026-07-30T14:57:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran war: Is Ukraine opening a new front in Caspian Sea?",
-      "url": "https://www.dw.com/en/are-iran-and-ukraine-wars-getting-tangled-in-caspian-sea/a-78178784",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-30T14:49:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia blamed for missile that blasted crater in Polish field",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/russia-blamed-for-missile-that-blasted-crater-in-polish-field/articleshow/132743187.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-07-30T14:48:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Israel May Reduce Dependency On American Jets With New Cruise Missiles",
@@ -201,14 +217,6 @@
       "publishedAt": "2026-07-30T11:30:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Erdoğan says Israel’s aggression exacts regional toll",
-      "url": "https://www.hurriyetdailynews.com/erdogan-says-israels-aggression-exacts-regional-toll-225017",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-07-30T10:43:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Rob Urie – Empire Versus Civilization: The US Is Now Officially a Pariah State",

@@ -1,7 +1,87 @@
 {
-  "updated": "2026-08-01T19:05:10Z",
-  "count": 26,
+  "updated": "2026-08-02T02:37:47Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "'Kind of madness': Iran vows to target US, Israeli energy assets if attacked as Trump weighs fresh strikes",
+      "url": "https://economictimes.indiatimes.com/news/defence/kind-of-madness-iran-vows-to-target-us-israeli-energy-assets-if-attacked-as-trump-weighs-fresh-strikes/articleshow/132779396.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-01T01:10:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "White House signals Trump is weighing new strikes on Iran, and other developments in the Middle East",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/white-house-signals-trump-is-weighing-new-strikes-on-iran-and-other-developments-in-the-middle-east/articleshow/132779337.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-01T00:49:19Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Killed Those US Troops In Jordan",
+      "url": "https://www.activistpost.com/trump-killed-those-us-troops-in-jordan/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-08-01T00:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump orders Iran attack as soon as this weekend, WSJ says",
+      "url": "https://fortune.com/2026/07/31/trump-iran-attack-weekend-energy-infrastructure/",
+      "source": "Fortune",
+      "publishedAt": "2026-07-31T22:45:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Orders Iran Attack as Soon as This Weekend, WSJ Says",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-orders-iran-attack-as-soon-as-this-weekend-wsj-says",
+      "source": "Financial Post",
+      "publishedAt": "2026-07-31T22:39:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US and Israel prepare to bomb Iran’s energy infrastructure – media",
+      "url": "https://www.rt.com/news/643737-us-israel-strikes-iran/",
+      "source": "RT",
+      "publishedAt": "2026-07-31T22:34:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say",
+      "url": "https://freerepublic.com/focus/f-news/4390106/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-07-31T21:53:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump now 'not sure' about letting Ukraine build Patriot missiles",
+      "url": "https://www.bbc.co.uk/news/articles/c86n0336082o",
+      "source": "BBC News",
+      "publishedAt": "2026-07-31T21:18:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Report: US and Israel plan strikes against Iranian energy targets",
+      "url": "https://www.israelnationalnews.com/news/431074",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-07-31T21:09:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Canada, allies express renewed concern over North Korean IT worker scheme",
+      "url": "https://www.cbc.ca/news/politics/canada-allies-north-korean-it-workers-9.7292580",
+      "source": "CBC News",
+      "publishedAt": "2026-07-31T19:24:27Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "The great powers are no longer calling all the shots",
       "url": "https://www.abc.net.au/news/2026-08-01/global-politics-driven-strongmen-disturbing-directions/106982606",
@@ -43,14 +123,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Why did Zelensky leave Washington empty-handed?",
-      "url": "https://www.rt.com/russia/643681-zelensky-washington-lindsey-funeral/",
-      "source": "RT",
-      "publishedAt": "2026-07-31T15:03:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "We investigated Russia’s military indoctrination of Ukrainian children in occupied territories – what we found was more shocking than we could have imagined",
       "url": "https://theconversation.com/we-investigated-russias-military-indoctrination-of-ukrainian-children-in-occupied-territories-what-we-found-was-more-shocking-than-we-could-have-imagined-287898",
       "source": "The Conversation Africa",
@@ -67,20 +139,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Saudi Arabia’s Choice: Join Trump in Bombing Iraq. Monumental Mistake",
-      "url": "https://www.globalresearch.ca/saudi-arabia-choice-join-trump-bombing-iraq/5935263",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-31T14:21:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Hamas agrees to disarm, the Iran-US war spirals, and the Refugee Convention at 75: The Cheat Sheet",
       "url": "https://www.thenewhumanitarian.org/news/2026/07/31/hamas-disarm-iran-us-war-refugee-convention-75-cheat-sheet",
       "source": "The New Humanitarian",
       "publishedAt": "2026-07-31T14:21:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Hybrid War Expands as Denmark Hosts Ukrainian Cyber Attacks",
@@ -97,14 +161,6 @@
       "publishedAt": "2026-07-31T14:06:35Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Announces Hamas Disarmament Agreement as Iran Strikes Kuwait Air Base and US Attacks Pause Overnight",
-      "url": "https://www.ibtimes.com.au/trump-historic-hamas-disarmament-agreement-1873293",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-07-31T12:58:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "The Drone Attack That Exposed Egypt’s Energy Defenses",
@@ -155,60 +211,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Is Trump bluffing about not using Patriot missiles in Ukraine, after locking $58.6 billion Patriot missile deal?",
-      "url": "https://www.naturalnews.com/2026-07-31-is-trump-bluffing-about-not-using-patriot-missiles-in-ukraine.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-07-31T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Southern Lebanese towns near Beaufort Castle hit by Israeli strikes",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726",
       "source": "Al Jazeera English",
       "publishedAt": "2026-07-31T04:09:08Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Saudi leaders, Netanyahu give Trump input on Iran war as it enters 6th month",
-      "url": "https://www.cbsnews.com/news/saudis-netanyahu-trump-iran-war/",
-      "source": "CBS News",
-      "publishedAt": "2026-07-30T19:13:57Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Here's why new fronts seem to be opening up across the Middle East",
-      "url": "https://www.yahoo.com/news/world/articles/ml--iran-us-new-fronts-explainer-170141335.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-30T17:01:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Japan's Nuclear Ambition is a Red Line that Should Never be Crossed: Defense Spokesperson",
-      "url": "https://www.globalsecurity.org/wmd/library/news/japan/2026/japan-260730-prc-mnd02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-07-30T12:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "5GW: Weapons of Mass Deception",
-      "url": "https://www.spinmagazine.com/2026/07/fifth-generation-warfare/",
-      "source": "Spinmagazine.com",
-      "publishedAt": "2026-07-30T11:30:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Rob Urie – Empire Versus Civilization: The US Is Now Officially a Pariah State",
-      "url": "https://www.nakedcapitalism.com/2026/07/rob-urie-empire-versus-civilization-the-us-is-now-officially-a-pariah-state.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-07-30T09:02:21Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

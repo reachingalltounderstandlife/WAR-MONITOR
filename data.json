@@ -1,30 +1,102 @@
 {
-  "updated": "2026-08-02T08:21:29Z",
-  "count": 27,
+  "updated": "2026-08-02T13:16:47Z",
+  "count": 23,
   "articles": [
     {
-      "title": "Fears Middle East war could expand as conflict reignites",
-      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0801/1586068-iran-us-conflict/",
-      "source": "RTE",
-      "publishedAt": "2026-08-01T06:00:01Z",
+      "title": "US embassies urge citizens to consider leaving Middle East",
+      "url": "https://www.vanguardngr.com/2026/08/us-embassies-urge-citizens-to-consider-leaving-middle-east/",
+      "source": "Vanguard",
+      "publishedAt": "2026-08-01T13:05:24Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "World braces for weekend of war as Iran names new targets...as Trump mulls fresh round of strikes on Tehran",
-      "url": "https://www.dailymail.com/news/article-16021185/Trump-Iran-war-energy-infrastructure-strikes.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-01T05:34:02Z",
+      "title": "Iran warns against ‘fire of war’ amid US strike threats on energy sites",
+      "url": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-01T12:44:54Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Live updates: US-Iran war; Trump says he’s canceling planned attacks | CNN",
-      "url": "https://www.cnn.com/2026/08/01/world/live-news/iran-war-trump",
-      "source": "CNN",
-      "publishedAt": "2026-08-01T04:40:59Z",
+      "title": "Russia batters Ukrainian capital of Kyiv, killing at least 9",
+      "url": "https://www.cbc.ca/news/world/russia-strikes-kyiv-9.7293585",
+      "source": "CBC News",
+      "publishedAt": "2026-08-01T12:17:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Biggest Clue In US-Iran Conflict Is 'The Dog That Hasn't Barked,' Says War College's Jacob Stoil",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260801-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-08-01T12:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "UAE Seeks To Ease Tensions With Iran While Deepening Military Ties With US, Israel",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260801-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-08-01T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Shock wave",
+      "url": "https://www.defenseone.com/ideas/2026/08/shock-wave-fictional-intelligence/415158/",
+      "source": "Defense One",
+      "publishedAt": "2026-08-01T12:00:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Iran threatens ‘Stone Age’ retaliation as US strike plans accelerate",
+      "url": "https://cryptobriefing.com/iran-threatens-stone-age-retaliation-as-us-strike-plans-accelerate/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-01T11:39:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 8/1/2026",
+      "url": "https://www.nakedcapitalism.com/2026/08/links-8-1-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-08-01T10:55:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump threatens more strikes on Iran, and other developments in the Middle East",
+      "url": "https://abcnews.com/International/wireStory/trump-threatens-strikes-iran-developments-middle-east-135282568",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-01T10:33:42Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The FPV Drone Footage From Ukraine Is Unprecedented",
+      "url": "https://petapixel.com/2026/08/01/the-fpv-drone-footage-from-ukraine-is-unprecedented/",
+      "source": "PetaPixel",
+      "publishedAt": "2026-08-01T10:00:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanese who fled the Israeli invasion visit to see what's left",
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
+      "source": "NPR",
+      "publishedAt": "2026-08-01T10:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump threatens more strikes on Iran as US pushes for Strait of Hormuz reopening",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-threatens-more-strikes-on-iran-as-us-pushes-for-strait-of-hormuz-reopening/articleshow/132785954.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-01T09:13:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Corrupt and Despotic Ukraine Is Not Worth Fighting WWIII",
@@ -35,14 +107,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "'Kind of madness': Iran vows to target US, Israeli energy assets if attacked as Trump weighs fresh strikes",
-      "url": "https://economictimes.indiatimes.com/news/defence/kind-of-madness-iran-vows-to-target-us-israeli-energy-assets-if-attacked-as-trump-weighs-fresh-strikes/articleshow/132779396.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-01T01:10:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "White House signals Trump is weighing new strikes on Iran, and other developments in the Middle East",
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/white-house-signals-trump-is-weighing-new-strikes-on-iran-and-other-developments-in-the-middle-east/articleshow/132779337.cms",
       "source": "The Times of India",
@@ -51,44 +115,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Trump Killed Those US Troops In Jordan",
-      "url": "https://www.activistpost.com/trump-killed-those-us-troops-in-jordan/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-08-01T00:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump orders Iran attack as soon as this weekend, WSJ says",
-      "url": "https://fortune.com/2026/07/31/trump-iran-attack-weekend-energy-infrastructure/",
-      "source": "Fortune",
-      "publishedAt": "2026-07-31T22:45:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Orders Iran Attack as Soon as This Weekend, WSJ Says",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-orders-iran-attack-as-soon-as-this-weekend-wsj-says",
-      "source": "Financial Post",
-      "publishedAt": "2026-07-31T22:39:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Israel prepare to bomb Iran’s energy infrastructure – media",
-      "url": "https://www.rt.com/news/643737-us-israel-strikes-iran/",
-      "source": "RT",
-      "publishedAt": "2026-07-31T22:34:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say",
-      "url": "https://freerepublic.com/focus/f-news/4390106/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-07-31T21:53:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "Zelenskyy asks Trump to help him get Elon Musk's OK to use Starlink to help with strikes on Russia",
+      "url": "https://www.yahoo.com/news/politics/articles/zelenskyy-asks-trump-help-him-213313528.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-07-31T21:33:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Trump now 'not sure' about letting Ukraine build Patriot missiles",
@@ -97,14 +129,6 @@
       "publishedAt": "2026-07-31T21:18:30Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Report: US and Israel plan strikes against Iranian energy targets",
-      "url": "https://www.israelnationalnews.com/news/431074",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-07-31T21:09:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Canada, allies express renewed concern over North Korean IT worker scheme",
@@ -161,62 +185,6 @@
       "publishedAt": "2026-07-31T14:17:48Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Escalation: New British Prime Minister Andy Burnham Confirms Russophobia is London’s Top Priority",
-      "url": "https://www.globalresearch.ca/escalation-new-british-prime-minister-andy-burnham-confirms-russophobia-is-londons-top-priority/5935203",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-31T14:06:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Drone Attack That Exposed Egypt’s Energy Defenses",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Drone-Attack-That-Exposed-Egypts-Energy-Defenses.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-07-31T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Military flare-up between Houthis and Saudi Arabia challenges relative calm in Yemen",
-      "url": "https://www.dw.com/en/military-flare-up-between-houthis-and-saudi-arabia-challenges-relative-calm-in-yemen/a-78186262",
-      "source": "DW (English)",
-      "publishedAt": "2026-07-31T11:15:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why Western Europe needs the Ukraine conflict to continue",
-      "url": "https://www.rt.com/news/643691-why-western-europe-needs-ukraine/",
-      "source": "RT",
-      "publishedAt": "2026-07-31T10:50:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian missile that exploded in Poland was 'nuke capable', Nato member reveals - as alliance warns it will take 'all necessary measures' to defend territory",
-      "url": "https://www.dailymail.com/news/article-16019105/Russian-missile-exploded-Poland-nuke-capable-Nato-necessary-measures-defend-territory.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-07-31T08:56:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia, Ukraine, and the Danger of Escalation",
-      "url": "https://www.thenation.com/article/world/putin-russia-ukraine-war-negotiations-europe-escalation-diplomacy/",
-      "source": "Thenation.com",
-      "publishedAt": "2026-07-31T08:40:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Southern Lebanese towns near Beaufort Castle hit by Israeli strikes",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/aje-onl-nf_south-lebanon-towns-beaufort-hit-by-israeli-strike-300726",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-07-31T04:09:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

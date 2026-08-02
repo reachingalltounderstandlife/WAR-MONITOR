@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-02T13:16:47Z",
-  "count": 23,
+  "updated": "2026-08-02T19:06:57Z",
+  "count": 26,
   "articles": [
+    {
+      "title": "US embassies urge Americans to consider leaving Middle East",
+      "url": "https://punchng.com/us-embassies-urge-americans-to-consider-leaving-middle-east/",
+      "source": "The Punch",
+      "publishedAt": "2026-08-01T18:21:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Welcome to the mega-war: Mideast and European conflicts merge, sucking in more countries along the way—even ones claiming neutrality",
+      "url": "https://fortune.com/2026/08/01/iran-ukraine-mega-war-mideast-european-conflicts-merge-russia-nato-egypt-saudi-coalition/",
+      "source": "Fortune",
+      "publishedAt": "2026-08-01T17:24:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli strikes kill two in Gaza, destroy warehouses",
+      "url": "https://www.rte.ie/news/middle-east/2026/0801/1586125-gaza-israel-strikes/",
+      "source": "RTE",
+      "publishedAt": "2026-08-01T15:51:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US embassies urge citizens to 'consider departing' Middle East",
+      "url": "https://www.channelnewsasia.com/world/us-embassies-urge-citizens-consider-departing-middle-east-6292981",
+      "source": "CNA",
+      "publishedAt": "2026-08-01T15:29:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Get ready to flee, Americans in ten countries warned as US embassies issue stark alert over spiraling Iran war",
+      "url": "https://www.dailymail.com/news/article-16021741/flee-Americans-nine-countries-US-embassies-Iran-war.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-01T14:37:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "After Trump threatens more strikes on Iran, Kuwait and Hormuz shipping face new attacks, while Israel hits Gaza despite Hamas pledge to disarm",
+      "url": "https://fortune.com/2026/08/01/trump-iran-war-kuwait-hormuz-attacks-israel-gaza-hamas/",
+      "source": "Fortune",
+      "publishedAt": "2026-08-01T14:23:02Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "‘Living Nostradamus’ claims two 2026 prophecies have come true — and warns of third dark one playing out",
+      "url": "https://nypost.com/2026/08/01/lifestyle/living-nostradamus-takes-credit-for-predicting-world-cup-outcome-iran-conflict/",
+      "source": "New York Post",
+      "publishedAt": "2026-08-01T13:37:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US embassies urge citizens to consider leaving Middle East",
       "url": "https://www.vanguardngr.com/2026/08/us-embassies-urge-citizens-to-consider-leaving-middle-east/",
@@ -63,8 +119,8 @@
       "url": "https://www.nakedcapitalism.com/2026/08/links-8-1-2026.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-08-01T10:55:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Trump threatens more strikes on Iran, and other developments in the Middle East",
@@ -87,8 +143,8 @@
       "url": "https://www.npr.org/2026/08/01/nx-s1-5910555/lebanon-israel-war-hezbollah",
       "source": "NPR",
       "publishedAt": "2026-08-01T10:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump threatens more strikes on Iran as US pushes for Strait of Hormuz reopening",
@@ -147,42 +203,10 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Netanyahu’s meeting with Trump was not nearly as successful as he claims",
-      "url": "https://mondoweiss.net/2026/07/netanyahus-meeting-with-trump-was-not-nearly-as-successful-as-he-claims/",
-      "source": "Mondoweiss",
-      "publishedAt": "2026-07-31T16:25:29Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "We investigated Russia’s military indoctrination of Ukrainian children in occupied territories – what we found was more shocking than we could have imagined",
       "url": "https://theconversation.com/we-investigated-russias-military-indoctrination-of-ukrainian-children-in-occupied-territories-what-we-found-was-more-shocking-than-we-could-have-imagined-287898",
       "source": "The Conversation Africa",
       "publishedAt": "2026-07-31T14:40:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Nearly 800,000 Weapons unaccounted for in NATO-occupied Ukraine",
-      "url": "https://www.globalresearch.ca/nearly-800000-weapons-unaccounted-for-in-nato-occupied-ukraine/5935256",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-31T14:29:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hamas agrees to disarm, the Iran-US war spirals, and the Refugee Convention at 75: The Cheat Sheet",
-      "url": "https://www.thenewhumanitarian.org/news/2026/07/31/hamas-disarm-iran-us-war-refugee-convention-75-cheat-sheet",
-      "source": "The New Humanitarian",
-      "publishedAt": "2026-07-31T14:21:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hybrid War Expands as Denmark Hosts Ukrainian Cyber Attacks",
-      "url": "https://www.globalresearch.ca/hybrid-war-expands-denmark-hosts-ukrainian-cyber-attacks/5935109",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-07-31T14:17:48Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

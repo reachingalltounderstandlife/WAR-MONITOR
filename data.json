@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-03T14:34:45Z",
-  "count": 26,
+  "updated": "2026-08-03T19:27:13Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "At least 14 dead as Ukraine, Russia exchange strikes",
+      "url": "https://www.rte.ie/news/2026/0802/1586210-ukraine-russia-strikes/",
+      "source": "RTE",
+      "publishedAt": "2026-08-02T19:02:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Saudi Crown Prince MBS urges Trump to ‘prioritise dialogue’ in US-Iran war",
+      "url": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-02T16:10:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Donald Trump wins golf tournament with barely-believable score at his own course... after 'disrespectful' faux pas in front of US troops",
+      "url": "https://www.dailymail.com/sport/golf/article-16023165/donald-trump-golf-tournament-win-new-jersey.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-02T16:02:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The misleading impression given about the Iran war",
+      "url": "https://freethoughtblogs.com/singham/2026/08/02/the-misleading-impression-given-about-the-iran-war/",
+      "source": "Freethoughtblogs.com",
+      "publishedAt": "2026-08-02T15:54:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Outrage Over Apparent US Use of 2,000-Pound Bomb on Iranian Family Home Builds",
+      "url": "https://www.commondreams.org/news/trump-iran-war-crimes",
+      "source": "Common Dreams",
+      "publishedAt": "2026-08-02T15:20:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Moscow views SpaceX’s Starlink as a grave threat, and Ukraine is seeking Trump’s help to get permission to use it for hitting targets inside Russia",
       "url": "https://fortune.com/2026/08/02/spacex-starlink-ukraine-war-trump-elon-musk-targeting-russia/",
@@ -59,30 +99,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-      "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-02T09:43:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "America is exporting bewilderment to the rest of the world",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/america-is-exporting-bewilderment-to-the-rest-of-the-world/articleshow/132803986.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-02T09:01:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Saudi crown prince reportedly urges Trump not to escalate Iran war as US leader weighs new strikes",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-crown-prince-warns-trump-against-escalating-iran-conflict-amid-tensions-and-potential-strikes/articleshow/132803546.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-02T08:24:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "On Ukraine's front lines, female soldiers testing Canadian-designed body armour",
       "url": "https://www.cbc.ca/news/world/ukraine-body-armour-designed-for-women-9.7292202",
       "source": "CBC News",
@@ -91,20 +107,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "War in the Middle East: God, death and time",
-      "url": "https://www.israelnationalnews.com/news/431105",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-08-02T07:42:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump Says He Called Off Impending Attack On Iran, Insists Deal Is Close",
       "url": "https://www.rferl.org/a/iran-war-trump-attacks-hormuz/33820139.html",
       "source": "Radio Free Europe/ Radio Liberty",
       "publishedAt": "2026-08-02T07:37:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump Says He Has Decided To 'Cancel' Impending Attack On Iran, Insists Deal Is Close",

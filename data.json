@@ -1,14 +1,94 @@
 {
-  "updated": "2026-08-02T19:06:57Z",
-  "count": 26,
+  "updated": "2026-08-03T02:39:34Z",
+  "count": 24,
   "articles": [
+    {
+      "title": "Trump announces pause in Iran attack after Tehran reportedly seeks talks, links move to Hormuz reopening",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-announces-pause-in-iran-attack-after-tehran-reportedly-seeks-talks-links-move-to-hormuz-reopening/articleshow/132799145.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-02T02:16:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump announces: I have agreed to cancel the attack on Iran",
+      "url": "https://www.israelnationalnews.com/news/431091",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-08-02T02:16:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war: US may face tough missile defence choices as Gulf conflict depletes stockpiles, top commander says",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-war-us-may-face-tough-missile-defence-choices-as-gulf-conflict-depletes-stockpiles-top-commander-says/articleshow/132799102.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-02T02:08:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes",
+      "url": "https://www.yahoo.com/news/politics/articles/saudi-crown-prince-urges-trump-014040218.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-02T01:40:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran targets Saudi, UAE, Qatar, Israel energy sites amid 2026 conflict escalation",
+      "url": "https://cryptobriefing.com/iran-targets-saudi-uae-qatar-israel-energy-sites-amid-2026-conflict-escalation/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-02T01:36:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran war: Saudi Arabia concerned about Trump’s strike plan on Tehran, Axios reports",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-saudi-arabia-concerned-about-donald-trumps-strike-plan-on-tehran-axios-reports/articleshow/132798939.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-02T01:05:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Vows to Hit U.S. Energy Assets: Hacks Water Plants in attempt to Poison Water in 7 States",
+      "url": "https://offgridsurvival.com/iran-vows-to-hit-u-s-energy-assets-hacks-water-plants-in-attempt-to-poison-water-in-7-states/",
+      "source": "Offgridsurvival.com",
+      "publishedAt": "2026-08-01T22:18:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump threatens more strikes on Iran",
+      "url": "https://www.abc.net.au/news/2026-08-02/donald-trump-threatens-more-strikes-on-iran/106987064",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-08-01T21:58:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US urges its citizens in Middle East to be ready to leave in case of escalation in region",
+      "url": "https://www.bbc.co.uk/news/articles/cgk4nyr0j73o",
+      "source": "BBC News",
+      "publishedAt": "2026-08-01T21:05:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Rubio Protecting Israel PM Netanyahu From ICC as Questions Abound Over Alleged Crimes",
+      "url": "https://military.com/trump-says-marco-rubios-icc-campaign-is-protecting-israel-benajmin-netanyahu-alleged-crimes",
+      "source": "Military.com",
+      "publishedAt": "2026-08-01T21:02:43Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
     {
       "title": "US embassies urge Americans to consider leaving Middle East",
       "url": "https://punchng.com/us-embassies-urge-americans-to-consider-leaving-middle-east/",
       "source": "The Punch",
       "publishedAt": "2026-08-01T18:21:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Welcome to the mega-war: Mideast and European conflicts merge, sucking in more countries along the way—even ones claiming neutrality",
@@ -17,30 +97,6 @@
       "publishedAt": "2026-08-01T17:24:46Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israeli strikes kill two in Gaza, destroy warehouses",
-      "url": "https://www.rte.ie/news/middle-east/2026/0801/1586125-gaza-israel-strikes/",
-      "source": "RTE",
-      "publishedAt": "2026-08-01T15:51:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US embassies urge citizens to 'consider departing' Middle East",
-      "url": "https://www.channelnewsasia.com/world/us-embassies-urge-citizens-consider-departing-middle-east-6292981",
-      "source": "CNA",
-      "publishedAt": "2026-08-01T15:29:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Get ready to flee, Americans in ten countries warned as US embassies issue stark alert over spiraling Iran war",
-      "url": "https://www.dailymail.com/news/article-16021741/flee-Americans-nine-countries-US-embassies-Iran-war.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-01T14:37:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "After Trump threatens more strikes on Iran, Kuwait and Hormuz shipping face new attacks, while Israel hits Gaza despite Hamas pledge to disarm",
@@ -55,24 +111,16 @@
       "url": "https://nypost.com/2026/08/01/lifestyle/living-nostradamus-takes-credit-for-predicting-world-cup-outcome-iran-conflict/",
       "source": "New York Post",
       "publishedAt": "2026-08-01T13:37:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US embassies urge citizens to consider leaving Middle East",
-      "url": "https://www.vanguardngr.com/2026/08/us-embassies-urge-citizens-to-consider-leaving-middle-east/",
-      "source": "Vanguard",
-      "publishedAt": "2026-08-01T13:05:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Iran warns against ‘fire of war’ amid US strike threats on energy sites",
       "url": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites",
       "source": "Al Jazeera English",
       "publishedAt": "2026-08-01T12:44:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Russia batters Ukrainian capital of Kyiv, killing at least 9",
@@ -83,36 +131,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Biggest Clue In US-Iran Conflict Is 'The Dog That Hasn't Barked,' Says War College's Jacob Stoil",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260801-rferl03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-08-01T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "UAE Seeks To Ease Tensions With Iran While Deepening Military Ties With US, Israel",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260801-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-08-01T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Shock wave",
       "url": "https://www.defenseone.com/ideas/2026/08/shock-wave-fictional-intelligence/415158/",
       "source": "Defense One",
       "publishedAt": "2026-08-01T12:00:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Iran threatens ‘Stone Age’ retaliation as US strike plans accelerate",
-      "url": "https://cryptobriefing.com/iran-threatens-stone-age-retaliation-as-us-strike-plans-accelerate/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-01T11:39:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Links 8/1/2026",
@@ -169,46 +193,6 @@
       "publishedAt": "2026-08-01T00:49:19Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Zelenskyy asks Trump to help him get Elon Musk's OK to use Starlink to help with strikes on Russia",
-      "url": "https://www.yahoo.com/news/politics/articles/zelenskyy-asks-trump-help-him-213313528.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-07-31T21:33:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump now 'not sure' about letting Ukraine build Patriot missiles",
-      "url": "https://www.bbc.co.uk/news/articles/c86n0336082o",
-      "source": "BBC News",
-      "publishedAt": "2026-07-31T21:18:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Canada, allies express renewed concern over North Korean IT worker scheme",
-      "url": "https://www.cbc.ca/news/politics/canada-allies-north-korean-it-workers-9.7292580",
-      "source": "CBC News",
-      "publishedAt": "2026-07-31T19:24:27Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The great powers are no longer calling all the shots",
-      "url": "https://www.abc.net.au/news/2026-08-01/global-politics-driven-strongmen-disturbing-directions/106982606",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-07-31T19:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "We investigated Russia’s military indoctrination of Ukrainian children in occupied territories – what we found was more shocking than we could have imagined",
-      "url": "https://theconversation.com/we-investigated-russias-military-indoctrination-of-ukrainian-children-in-occupied-territories-what-we-found-was-more-shocking-than-we-could-have-imagined-287898",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-07-31T14:40:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

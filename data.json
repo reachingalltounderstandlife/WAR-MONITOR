@@ -1,76 +1,100 @@
 {
-  "updated": "2026-08-03T02:39:34Z",
-  "count": 24,
+  "updated": "2026-08-03T09:40:25Z",
+  "count": 25,
   "articles": [
     {
-      "title": "Trump announces pause in Iran attack after Tehran reportedly seeks talks, links move to Hormuz reopening",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/trump-announces-pause-in-iran-attack-after-tehran-reportedly-seeks-talks-links-move-to-hormuz-reopening/articleshow/132799145.cms",
+      "title": "America is exporting bewilderment to the rest of the world",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/america-is-exporting-bewilderment-to-the-rest-of-the-world/articleshow/132803986.cms",
       "source": "The Times of India",
-      "publishedAt": "2026-08-02T02:16:50Z",
+      "publishedAt": "2026-08-02T09:01:15Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Trump announces: I have agreed to cancel the attack on Iran",
-      "url": "https://www.israelnationalnews.com/news/431091",
+      "title": "Saudi crown prince reportedly urges Trump not to escalate Iran war as US leader weighs new strikes",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-crown-prince-warns-trump-against-escalating-iran-conflict-amid-tensions-and-potential-strikes/articleshow/132803546.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-02T08:24:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "On Ukraine's front lines, female soldiers testing Canadian-designed body armour",
+      "url": "https://www.cbc.ca/news/world/ukraine-body-armour-designed-for-women-9.7292202",
+      "source": "CBC News",
+      "publishedAt": "2026-08-02T08:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "War in the Middle East: God, death and time",
+      "url": "https://www.israelnationalnews.com/news/431105",
       "source": "Israelnationalnews.com",
-      "publishedAt": "2026-08-02T02:16:00Z",
+      "publishedAt": "2026-08-02T07:42:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran war: US may face tough missile defence choices as Gulf conflict depletes stockpiles, top commander says",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-war-us-may-face-tough-missile-defence-choices-as-gulf-conflict-depletes-stockpiles-top-commander-says/articleshow/132799102.cms",
+      "title": "Trump Says He Called Off Impending Attack On Iran, Insists Deal Is Close",
+      "url": "https://www.rferl.org/a/iran-war-trump-attacks-hormuz/33820139.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-08-02T07:37:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says He Has Decided To 'Cancel' Impending Attack On Iran, Insists Deal Is Close",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260802-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-08-02T06:50:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump to hold off on new strikes as Middle East allies reach outline of deal to end Iran war",
+      "url": "https://www.thejournal.ie/us-middle-east-allies-reach-outline-of-deal-to-end-iran-war-7119666-Aug2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-08-02T06:36:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran names Saudi, UAE, Qatar and Israeli energy sites as targets if Trump orders new strikes",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-names-saudi-uae-qatar-and-israeli-energy-sites-as-targets-if-trump-orders-new-strikes/article71297217.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-08-02T05:36:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+      "url": "https://freerepublic.com/focus/f-chat/4390263/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-08-02T05:07:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran's leaders show united front over war but are divided over what the goal is",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-leaders-show-united-front-over-war-but-are-divided-over-what-the-goal-is/articleshow/132800560.cms",
       "source": "The Times of India",
-      "publishedAt": "2026-08-02T02:08:49Z",
+      "publishedAt": "2026-08-02T04:59:02Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Trump says Mideast allies have reached outlines of deal to end Iran war, says US to stop new strikes",
-      "url": "https://www.yahoo.com/news/politics/articles/saudi-crown-prince-urges-trump-014040218.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-02T01:40:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran targets Saudi, UAE, Qatar, Israel energy sites amid 2026 conflict escalation",
-      "url": "https://cryptobriefing.com/iran-targets-saudi-uae-qatar-israel-energy-sites-amid-2026-conflict-escalation/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-02T01:36:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran war: Saudi Arabia concerned about Trump’s strike plan on Tehran, Axios reports",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-saudi-arabia-concerned-about-donald-trumps-strike-plan-on-tehran-axios-reports/articleshow/132798939.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-02T01:05:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Vows to Hit U.S. Energy Assets: Hacks Water Plants in attempt to Poison Water in 7 States",
-      "url": "https://offgridsurvival.com/iran-vows-to-hit-u-s-energy-assets-hacks-water-plants-in-attempt-to-poison-water-in-7-states/",
-      "source": "Offgridsurvival.com",
-      "publishedAt": "2026-08-01T22:18:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump threatens more strikes on Iran",
-      "url": "https://www.abc.net.au/news/2026-08-02/donald-trump-threatens-more-strikes-on-iran/106987064",
+      "title": "Trump holds off on new strikes against Iran amid emerging 'deal'",
+      "url": "https://www.abc.net.au/news/2026-08-02/donald-trump-holds-off-on-strikes-against-iran/106987644",
       "source": "ABC News (AU)",
-      "publishedAt": "2026-08-01T21:58:53Z",
+      "publishedAt": "2026-08-02T04:32:56Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "US urges its citizens in Middle East to be ready to leave in case of escalation in region",
-      "url": "https://www.bbc.co.uk/news/articles/cgk4nyr0j73o",
-      "source": "BBC News",
-      "publishedAt": "2026-08-01T21:05:54Z",
+      "title": "Trump halts planned Iran strikes to allow talks",
+      "url": "https://english.khabarhub.com/2026/02/561469/",
+      "source": "Khabarhub.com",
+      "publishedAt": "2026-08-02T03:46:14Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -171,28 +195,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Trump threatens more strikes on Iran as US pushes for Strait of Hormuz reopening",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-threatens-more-strikes-on-iran-as-us-pushes-for-strait-of-hormuz-reopening/articleshow/132785954.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-01T09:13:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Corrupt and Despotic Ukraine Is Not Worth Fighting WWIII",
       "url": "https://www.americanthinker.com/articles/2026/08/corrupt-and-despotic-ukraine-is-not-worth-fighting-wwiii/",
       "source": "Americanthinker.com",
       "publishedAt": "2026-08-01T04:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "White House signals Trump is weighing new strikes on Iran, and other developments in the Middle East",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/white-house-signals-trump-is-weighing-new-strikes-on-iran-and-other-developments-in-the-middle-east/articleshow/132779337.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-01T00:49:19Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

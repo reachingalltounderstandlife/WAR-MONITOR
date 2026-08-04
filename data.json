@@ -1,7 +1,87 @@
 {
-  "updated": "2026-08-04T14:06:43Z",
-  "count": 33,
+  "updated": "2026-08-04T19:35:07Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "Iran Conflict Enters New Phase as Energy Risks Spread",
+      "url": "https://newsonjapan.com/article/150229.php",
+      "source": "Newsonjapan.com",
+      "publishedAt": "2026-08-03T18:10:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran reaffirms support for Hamas as Trump pushes to disarm terror group",
+      "url": "https://www.foxnews.com/world/iran-reaffirms-support-hamas-trump-pushes-disarm-terror-group",
+      "source": "Fox News",
+      "publishedAt": "2026-08-03T17:20:54Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Japan’s 2026 Defense White Paper Warns of China’s Expanding Military Reach in the Pacific",
+      "url": "https://thediplomat.com/2026/08/japans-2026-defense-white-paper-warns-of-chinas-expanding-military-reach-in-the-pacific/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-08-03T17:18:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Why Have China and Russia Just Stepped Out Of The Shadows In The U.S.-Iran War?",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Why-Have-China-and-Russia-Just-Stepped-Out-Of-The-Shadows-In-The-US-Iran-War.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-08-03T17:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Already Vulnerable, Iran’s Media Institutions Suffer in US War of Aggression",
+      "url": "https://truthout.org/articles/already-vulnerable-irans-media-institutions-suffer-in-us-war-of-aggression/",
+      "source": "Truthout",
+      "publishedAt": "2026-08-03T16:18:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'The damage is enormous': Ukraine grapples with record-breaking Russian strikes",
+      "url": "https://abcnews.com/International/russia-sets-new-missile-strike-records-kyiv-sounds/story?id=135184610",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-03T16:15:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Former CENTCOM Deputy Robert Harward: Iran Is Playing for Time",
+      "url": "https://www.rferl.org/a/robert-harward-iran-us-talks/33820999.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-08-03T15:37:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine’s Patriot Shortage Is Only One of the Reasons Its Skies Have Turned Into Swiss Cheese",
+      "url": "https://sputnikglobe.com/20260803/ukraines-patriot-shortage-is-only-one-of-the-reasons-its-skies-have-turned-into-swiss-cheese-1124532774.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-08-03T15:26:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine drone attack on holiday resort kills 7 - Russia",
+      "url": "https://www.rte.ie/news/world/2026/0803/1586288-russia-ukraine/",
+      "source": "RTE",
+      "publishedAt": "2026-08-03T14:59:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iranian Ballistic Missile Attack On Europe Unlikely Soon, Analysts Say",
+      "url": "https://www.forbes.com/sites/pauliddon/2026/08/03/iranian-ballistic-missile-attack-on-europe-unlikely-soon-analysts-say/",
+      "source": "Forbes",
+      "publishedAt": "2026-08-03T14:42:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Kiev’s Plan to Build New Air Defense System Will Not Save Ukraine",
       "url": "https://www.globalresearch.ca/kiev-plan-build-new-air-defense-system-will-not-save-ukraine/5935564",
@@ -67,16 +147,16 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Former CENTCOM Deputy Robert Harward: Iran Is Playing For Time",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260803-rferl03.htm",
+      "title": "Israel launches new attacks on southern Lebanon in violation of truce",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260803-irna03.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-08-03T12:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "Israel launches new attacks on southern Lebanon in violation of truce",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260803-irna03.htm",
+      "title": "Former CENTCOM Deputy Robert Harward: Iran Is Playing For Time",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260803-rferl03.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-08-03T12:00:00Z",
       "_cat": "lebanon",
@@ -107,36 +187,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran Déjà Vu: Trump Once Again Threatens Massive Escalation Against Tehran Only to Walk Back",
-      "url": "https://military.com/iran-dj-vu-trump-once-again-threatens-massive-escalation-against-tehran-only-to-walk-back",
-      "source": "Military.com",
-      "publishedAt": "2026-08-03T10:49:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Russia: Bridge-building with North Korea",
       "url": "https://www.dw.com/en/russia-north-korea-road-bridge-war-in-ukraine/a-78212053",
       "source": "DW (English)",
       "publishedAt": "2026-08-03T10:26:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "How Iran is widening its pressure campaign to force US concessions",
-      "url": "https://economictimes.indiatimes.com/news/defence/how-iran-is-widening-its-pressure-campaign-to-force-us-concessions/articleshow/132827500.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-03T10:06:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Analysis-How Iran is widening its pressure campaign to force US concessions",
-      "url": "https://www.yahoo.com/news/politics/articles/analysis-how-iran-is-widening-its-pressure-campaign-to-force-us-concessions-094656470.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-03T09:46:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "This Week in History: From a ‘Russian’ Arctic to an annexed Kuwait",
@@ -171,44 +227,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Russian Forces Strike Fuel Tanks and Tugboat in Ukrainian Ports, Defense Ministry Says",
-      "url": "https://www.naturalnews.com/2026-08-03-russian-forces-strike-fuel-tanks-tugboat-ukrainian-ports.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-03T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "People killed defending nature in Lebanon",
       "url": "https://theecologist.org/2026/aug/03/people-killed-defending-nature-lebanon",
       "source": "Theecologist.org",
       "publishedAt": "2026-08-03T06:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "News Summary-Intelligence Report Sunday 8/2/2026*Israel Attacks Kill Dozens Gaza*MAGA Senator Calls On MAGA Congressman To Resign*Russian Tanker Stopped By NATO Off Italy*Spokane, Washington Wildfires*Deadly Moscow Bomb Blast...*Trump Talking Iran Talks*",
-      "url": "https://freerepublic.com/focus/f-bloggers/4390385/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-08-03T05:50:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Whatever Happened to Ending 'Endless Wars'?",
-      "url": "https://www.americanthinker.com/articles/2026/08/whatever-happened-to-ending-endless-wars/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-08-03T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Schrödinger’s Patriot: What’s really going on with SAM’s licence transfer to Ukraine",
-      "url": "https://www.americanthinker.com/blog/2026/08/schrodinger-s-patriot-what-s-really-going-on-with-sam-s-licence-transfer-to-ukraine/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-08-03T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran And Russia: Ripe For A Cascading Failure?",
@@ -247,22 +271,6 @@
       "url": "https://www.rferl.org/a/iran-war-trump-attacks-hormuz/33820139.html",
       "source": "Radio Free Europe/ Radio Liberty",
       "publishedAt": "2026-08-02T07:37:57Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Says He Has Decided To 'Cancel' Impending Attack On Iran, Insists Deal Is Close",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260802-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-08-02T06:50:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
-      "url": "https://freerepublic.com/focus/f-chat/4390263/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-08-02T05:07:35Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-03T19:27:13Z",
-  "count": 27,
+  "updated": "2026-08-04T02:23:53Z",
+  "count": 18,
   "articles": [
+    {
+      "title": "Trump says Gulf leaders' input weighed heavily in decision to hold off new Iran strikes",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-gulf-leaders-input-weighed-heavily-in-decision-to-hold-off-new-iran-strikes/articleshow/132816337.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-03T01:53:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Explosion reported near tanker off Oman after Trump announces US-Iran talks",
+      "url": "https://www.israelnationalnews.com/news/431141",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-08-03T01:12:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Iran war: Explosion reported near tanker off Oman coast, crew safe, UKMTO says",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-iran-war-explosion-reported-near-tanker-off-oman-coast-crew-safe-ukmto-says/articleshow/132816030.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-03T00:55:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump: ‘Deal Is Imminent’ as Iran Talks Restart Monday on Denuclearization, Hormuz",
+      "url": "https://www.breitbart.com/politics/2026/08/02/trump-deal-imminent-iran-talks-restart-monday-hormuz-denuclearization/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-08-03T00:41:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump teases Iran talks as Truth Social starts selling fast access to his posts",
+      "url": "https://www.rt.com/news/643786-trump-iran-truth-social/",
+      "source": "RT",
+      "publishedAt": "2026-08-03T00:13:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "After canceling Iran strikes, Trump says negotiations will resume Monday afternoon while Tehran continues Hormuz talks with Oman",
+      "url": "https://fortune.com/2026/08/02/iran-war-trump-negotiations-resume-monday-tehran-hormuz-talks-oman/",
+      "source": "Fortune",
+      "publishedAt": "2026-08-02T23:23:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says Iran Talks to Begin Monday After Scrapping Attack",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-says-iran-talks-to-begin-monday-after-scrapping-attack",
+      "source": "Financial Post",
+      "publishedAt": "2026-08-02T23:15:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump: The talks with Iran will resume tomorrow",
+      "url": "https://www.israelnationalnews.com/news/431138",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-08-02T21:50:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "At least 14 dead as Ukraine, Russia exchange strikes",
       "url": "https://www.rte.ie/news/2026/0802/1586210-ukraine-russia-strikes/",
@@ -19,30 +83,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Donald Trump wins golf tournament with barely-believable score at his own course... after 'disrespectful' faux pas in front of US troops",
-      "url": "https://www.dailymail.com/sport/golf/article-16023165/donald-trump-golf-tournament-win-new-jersey.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-02T16:02:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The misleading impression given about the Iran war",
-      "url": "https://freethoughtblogs.com/singham/2026/08/02/the-misleading-impression-given-about-the-iran-war/",
-      "source": "Freethoughtblogs.com",
-      "publishedAt": "2026-08-02T15:54:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Outrage Over Apparent US Use of 2,000-Pound Bomb on Iranian Family Home Builds",
-      "url": "https://www.commondreams.org/news/trump-iran-war-crimes",
-      "source": "Common Dreams",
-      "publishedAt": "2026-08-02T15:20:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Moscow views SpaceX’s Starlink as a grave threat, and Ukraine is seeking Trump’s help to get permission to use it for hitting targets inside Russia",
       "url": "https://fortune.com/2026/08/02/spacex-starlink-ukraine-war-trump-elon-musk-targeting-russia/",
       "source": "Fortune",
@@ -55,40 +95,16 @@
       "url": "https://www.cnn.com/2026/08/02/middleeast/irans-allied-militias-prove-their-value-in-tehrans-widening-war-intl",
       "source": "CNN",
       "publishedAt": "2026-08-02T12:13:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Israel to pause Iran strikes, says Trump",
-      "url": "https://punchng.com/us-israel-to-pause-iran-strikes-says-trump/",
-      "source": "The Punch",
-      "publishedAt": "2026-08-02T12:05:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump Says He Called Off Impending Attack On Iran, Insists Deal Is Close",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260802-rferl04.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-08-02T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 8/2/2026",
-      "url": "https://www.nakedcapitalism.com/2026/08/links-8-2-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-02T10:55:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump cancels planned attack on Iran",
-      "url": "https://www.rt.com/news/643765-trump-cancels-planned-attack-iran/",
-      "source": "RT",
-      "publishedAt": "2026-08-02T10:37:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Scrapping Excess Weapons Is The Only Practical Road To Peace",
@@ -129,94 +145,6 @@
       "publishedAt": "2026-08-02T05:07:35Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Rubio Protecting Israel PM Netanyahu From ICC as Questions Abound Over Alleged Crimes",
-      "url": "https://military.com/trump-says-marco-rubios-icc-campaign-is-protecting-israel-benajmin-netanyahu-alleged-crimes",
-      "source": "Military.com",
-      "publishedAt": "2026-08-01T21:02:43Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "US embassies urge Americans to consider leaving Middle East",
-      "url": "https://punchng.com/us-embassies-urge-americans-to-consider-leaving-middle-east/",
-      "source": "The Punch",
-      "publishedAt": "2026-08-01T18:21:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Welcome to the mega-war: Mideast and European conflicts merge, sucking in more countries along the way—even ones claiming neutrality",
-      "url": "https://fortune.com/2026/08/01/iran-ukraine-mega-war-mideast-european-conflicts-merge-russia-nato-egypt-saudi-coalition/",
-      "source": "Fortune",
-      "publishedAt": "2026-08-01T17:24:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "After Trump threatens more strikes on Iran, Kuwait and Hormuz shipping face new attacks, while Israel hits Gaza despite Hamas pledge to disarm",
-      "url": "https://fortune.com/2026/08/01/trump-iran-war-kuwait-hormuz-attacks-israel-gaza-hamas/",
-      "source": "Fortune",
-      "publishedAt": "2026-08-01T14:23:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "‘Living Nostradamus’ claims two 2026 prophecies have come true — and warns of third dark one playing out",
-      "url": "https://nypost.com/2026/08/01/lifestyle/living-nostradamus-takes-credit-for-predicting-world-cup-outcome-iran-conflict/",
-      "source": "New York Post",
-      "publishedAt": "2026-08-01T13:37:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran warns against ‘fire of war’ amid US strike threats on energy sites",
-      "url": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-01T12:44:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Russia batters Ukrainian capital of Kyiv, killing at least 9",
-      "url": "https://www.cbc.ca/news/world/russia-strikes-kyiv-9.7293585",
-      "source": "CBC News",
-      "publishedAt": "2026-08-01T12:17:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Shock wave",
-      "url": "https://www.defenseone.com/ideas/2026/08/shock-wave-fictional-intelligence/415158/",
-      "source": "Defense One",
-      "publishedAt": "2026-08-01T12:00:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Links 8/1/2026",
-      "url": "https://www.nakedcapitalism.com/2026/08/links-8-1-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-01T10:55:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The FPV Drone Footage From Ukraine Is Unprecedented",
-      "url": "https://petapixel.com/2026/08/01/the-fpv-drone-footage-from-ukraine-is-unprecedented/",
-      "source": "PetaPixel",
-      "publishedAt": "2026-08-01T10:00:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Corrupt and Despotic Ukraine Is Not Worth Fighting WWIII",
-      "url": "https://www.americanthinker.com/articles/2026/08/corrupt-and-despotic-ukraine-is-not-worth-fighting-wwiii/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-08-01T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

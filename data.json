@@ -1,38 +1,150 @@
 {
-  "updated": "2026-08-04T08:33:15Z",
-  "count": 27,
+  "updated": "2026-08-04T14:06:43Z",
+  "count": 33,
   "articles": [
     {
-      "title": "Trump Announces Fresh Iran Talks after Strike Uturn",
-      "url": "https://www.rigzone.com/news/wire/trump_announces_fresh_iran_talks_after_strike_uturn-03-aug-2026-184274-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-08-03T08:18:46Z",
+      "title": "Kiev’s Plan to Build New Air Defense System Will Not Save Ukraine",
+      "url": "https://www.globalresearch.ca/kiev-plan-build-new-air-defense-system-will-not-save-ukraine/5935564",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-03T14:03:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran shuts down reports of US negotiations",
+      "url": "https://www.israelnationalnews.com/news/431168",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-08-03T13:55:07Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Trump Says Iran Talks To Resume August 3 After Calling Off 'Biggest Attack Since WWII'",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260803-rferl01.htm",
+      "title": "Israel conveys 'concerns' to US on Gaza plan and keeps striking",
+      "url": "https://economictimes.indiatimes.com/news/defence/israel-conveys-concerns-to-us-on-gaza-plan-and-keeps-striking/articleshow/132833039.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-03T13:31:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What Are the Odds That Ukraine is Allowed to Use Starlink or Starshield Over All of Russia?",
+      "url": "https://korybko.substack.com/p/what-are-the-odds-that-ukraine-is",
+      "source": "Substack.com",
+      "publishedAt": "2026-08-03T13:16:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump can declare Iran victory now and withdraw troops, former counterterror official argues",
+      "url": "https://www.foxnews.com/politics/trump-declare-iran-victory-withdraw-troops-former-counterterror-official-argues",
+      "source": "Fox News",
+      "publishedAt": "2026-08-03T13:11:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US must be held to account for continued ‘war crimes’ – FM spokesman to RT",
+      "url": "https://www.rt.com/russia/643796-qeshm-iran-american-airstrike/",
+      "source": "RT",
+      "publishedAt": "2026-08-03T12:44:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260803-unnews01.htm",
       "source": "Globalsecurity.org",
-      "publishedAt": "2026-08-03T08:06:11Z",
+      "publishedAt": "2026-08-03T12:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran executes two men convicted of spying for Israel",
-      "url": "https://www.vanguardngr.com/2026/08/iran-executes-two-men-convicted-of-spying-for-israel/",
-      "source": "Vanguard",
-      "publishedAt": "2026-08-03T07:45:22Z",
+      "title": "\"Türkiye is one of NATO's strongest actors\"",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260803-turkey-president01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-08-03T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Former CENTCOM Deputy Robert Harward: Iran Is Playing For Time",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260803-rferl03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-08-03T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel launches new attacks on southern Lebanon in violation of truce",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260803-irna03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-08-03T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Europe’s Dangerous Hesitation on Its Own Air Defense",
+      "url": "http://foreignpolicy.com/2026/08/03/nato-europe-russia-missiles-air-defense-ukraine-patriots/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-08-03T11:31:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The U.S. Isn’t Making Enough Weapons",
+      "url": "https://www.theatlantic.com/ideas/2026/08/the-us-isnt-making-enough-weapons/688150/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-08-03T10:56:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran War: Trump Keeps Up Threat Display, False Claims of Negotiations as He TACOs; Israel Still Pressing for Escalation as US Withdrawals Continue",
+      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-trump-keeps-up-threat-display-false-claims-of-negotiations-as-he-tacos-israel-still-pressing-for-escalation-as-us-withdrawals-continue.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-08-03T10:54:29Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran executes two men convicted of spying for Israel",
-      "url": "https://punchng.com/iran-executes-two-men-convicted-of-spying-for-israel/",
-      "source": "The Punch",
-      "publishedAt": "2026-08-03T07:36:34Z",
+      "title": "Iran Déjà Vu: Trump Once Again Threatens Massive Escalation Against Tehran Only to Walk Back",
+      "url": "https://military.com/iran-dj-vu-trump-once-again-threatens-massive-escalation-against-tehran-only-to-walk-back",
+      "source": "Military.com",
+      "publishedAt": "2026-08-03T10:49:47Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Russia: Bridge-building with North Korea",
+      "url": "https://www.dw.com/en/russia-north-korea-road-bridge-war-in-ukraine/a-78212053",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-03T10:26:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "How Iran is widening its pressure campaign to force US concessions",
+      "url": "https://economictimes.indiatimes.com/news/defence/how-iran-is-widening-its-pressure-campaign-to-force-us-concessions/articleshow/132827500.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-03T10:06:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Analysis-How Iran is widening its pressure campaign to force US concessions",
+      "url": "https://www.yahoo.com/news/politics/articles/analysis-how-iran-is-widening-its-pressure-campaign-to-force-us-concessions-094656470.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-03T09:46:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "This Week in History: From a ‘Russian’ Arctic to an annexed Kuwait",
+      "url": "https://www.the-independent.com/life-style/history/this-week-in-history-3-august-b3025555.html",
+      "source": "The-independent.com",
+      "publishedAt": "2026-08-03T09:20:44Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Possible Is Not Plausible: How Nightmare Scenarios Hijack Unconventional Weapons Policy",
@@ -43,36 +155,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Michael Hudson — Trump, the Democrats, and the 2026 Midterms",
-      "url": "https://www.nakedcapitalism.com/2026/08/michael-hudson-trump-the-democrats-and-the-2026-midterms.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-03T07:23:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran and Oman Near Final Deal on New Hormuz Route as Trump Halts Strikes for Quick Agreement",
-      "url": "https://www.ibtimes.com.au/iran-oman-final-agreement-strait-hormuz-1873415",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-08-03T06:56:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "South Korea ditches 'denuclearization-first' strategy. What will Pyongyang do next?",
       "url": "https://www.npr.org/2026/08/03/nx-s1-5917877/south-korea-north-korea-nuclear-peace-analysis",
       "source": "NPR",
       "publishedAt": "2026-08-03T06:49:13Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "The First Great Compound War: Why America Is Fighting Iran With an Obsolete Theory of Victory",
-      "url": "https://smallwarsjournal.com/2026/08/03/first-great-compound-war/",
-      "source": "Smallwarsjournal.com",
-      "publishedAt": "2026-08-03T06:00:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Russia’s Defense Ministry Lists Military Facilities Hit in Kyiv Barrage",
@@ -107,30 +195,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "The United Arab Emirates’ delicate balancing act",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/08/03/as-a-shaky-ceasefire-with-the-us-unravels-the-uae-tentatively-reopens-channels-with-iran/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-08-03T05:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Gulf’s Escalation: From Regional War to Systemic Crisis",
-      "url": "https://www.juancole.com/2026/08/escalation-regional-systemic.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-08-03T04:15:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How Iran’s Missile Campaign showed the Limits of Western Deterrence",
-      "url": "https://www.juancole.com/2026/08/missile-campaign-deterrence.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-08-03T04:06:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Whatever Happened to Ending 'Endless Wars'?",
       "url": "https://www.americanthinker.com/articles/2026/08/whatever-happened-to-ending-endless-wars/",
       "source": "Americanthinker.com",
@@ -155,14 +219,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Moscow views SpaceX’s Starlink as a grave threat, and Ukraine is seeking Trump’s help to get permission to use it for hitting targets inside Russia",
-      "url": "https://fortune.com/2026/08/02/spacex-starlink-ukraine-war-trump-elon-musk-targeting-russia/",
-      "source": "Fortune",
-      "publishedAt": "2026-08-02T14:22:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran’s allied militias prove their value in Tehran’s widening war",
       "url": "https://www.cnn.com/2026/08/02/middleeast/irans-allied-militias-prove-their-value-in-tehrans-widening-war-intl",
       "source": "CNN",
@@ -185,14 +241,6 @@
       "publishedAt": "2026-08-02T09:55:52Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "On Ukraine's front lines, female soldiers testing Canadian-designed body armour",
-      "url": "https://www.cbc.ca/news/world/ukraine-body-armour-designed-for-women-9.7292202",
-      "source": "CBC News",
-      "publishedAt": "2026-08-02T08:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Trump Says He Called Off Impending Attack On Iran, Insists Deal Is Close",

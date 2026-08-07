@@ -1,7 +1,87 @@
 {
-  "updated": "2026-08-07T02:42:18Z",
-  "count": 29,
+  "updated": "2026-08-07T07:12:04Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "2 soldiers killed in Lebanon in the first Israeli deaths since June truce with Hezbollah",
+      "url": "https://abcnews.com/International/wireStory/2-soldiers-killed-lebanon-israeli-deaths-june-truce-135412592",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-06T06:53:39Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel reports troop deaths as Lebanon talks underway in Rome",
+      "url": "https://www.hurriyetdailynews.com/israel-reports-troop-deaths-as-lebanon-talks-underway-in-rome-225274",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-08-06T06:02:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Mearsheimer Essay on Antiwar.com Criticizes U.S. Iran Policy",
+      "url": "https://www.naturalnews.com/2026-08-06-mearsheimer-essay-criticizes-us-iran-policy.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-06T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Yemeni Forces Say Strike on Saudi Tanker Wafa Is Eighth Since Naval Blockade Began",
+      "url": "https://www.naturalnews.com/2026-08-06-yemeni-forces-strike-eighth-since-blockade-began.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-06T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian strikes on Black Sea ports freeze Ukraine’s exports and arms imports, officials say",
+      "url": "https://www.naturalnews.com/2026-08-06-russian-striles-black-sea-ports-freeze-ukraines-exports-arms-imports.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-06T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon: Israel’s Killing of Journalist an Apparent War Crime",
+      "url": "https://www.hrw.org/news/2026/08/06/lebanon-israels-killing-of-journalist-an-apparent-war-crime",
+      "source": "Human Rights Watch",
+      "publishedAt": "2026-08-06T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel reports troop deaths as Lebanon talks underway in Rome",
+      "url": "https://www.channelnewsasia.com/world/israel-reports-troop-deaths-lebanon-talks-underway-in-rome-6302741",
+      "source": "CNA",
+      "publishedAt": "2026-08-06T04:59:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Three killed in southern Lebanon as violence flares",
+      "url": "https://www.rte.ie/news/2026/0806/1586691-israeli-soldiers-killed/",
+      "source": "RTE",
+      "publishedAt": "2026-08-06T04:52:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel refuses to withdraw from areas in Lebanon - source",
+      "url": "https://www.rte.ie/news/2026/0806/1586691-israel-lebanon/",
+      "source": "RTE",
+      "publishedAt": "2026-08-06T04:52:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Art Of The Deal Is Doomed To Fail In Iran",
+      "url": "https://www.americanthinker.com/articles/2026/08/the-art-of-the-deal-is-doomed-to-fail-in-iran/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-08-06T04:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Iran, US say Strait of Hormuz deal is close, but one or both would have to back down",
       "url": "https://www.thehindubusinessline.com/news/world/iran-us-say-strait-of-hormuz-deal-is-close-but-one-or-both-would-have-to-back-down/article71311924.ece",
@@ -51,30 +131,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US officials push back on reports of dangerously low munitions supplies",
-      "url": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-05T22:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel resumes Lebanon strikes as talks underway in Rome",
-      "url": "https://www.channelnewsasia.com/world/israel-lebanon-hezbollah-strike-talks-rome-6302196",
-      "source": "CNA",
-      "publishedAt": "2026-08-05T21:53:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved",
-      "url": "https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-05T20:55:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Ukraine’s Deadly Missile Defense Shortage",
       "url": "http://foreignpolicy.com/2026/08/05/ukraine-patriot-missile-interceptor-shortage-russia-war-zelensky-us-trump-nato/",
       "source": "Foreign Policy",
@@ -89,38 +145,6 @@
       "publishedAt": "2026-08-05T20:16:54Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "url": "https://cryptobriefing.com/israel-strikes-south-lebanon-after-first-evacuation-warning-in-weeks/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-05T20:09:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo",
-      "source": "BBC News",
-      "publishedAt": "2026-08-05T20:03:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel strikes south Lebanon after first evacuation warning in weeks",
-      "url": "https://www.bbc.com/news/articles/c998711dyjvo",
-      "source": "BBC News",
-      "publishedAt": "2026-08-05T20:03:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why Israel keeps striking Gaza despite US-brokered ceasefire",
-      "url": "https://www.rt.com/news/643885-israel-strikes-gaza-war/",
-      "source": "RT",
-      "publishedAt": "2026-08-05T19:37:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Nuclear experts urge Trump not to let Iran steer talks away from regime's atomic threat",
@@ -147,14 +171,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israel strikes Lebanon as ceasefire collapses almost immediately",
-      "url": "https://cryptobriefing.com/israel-strikes-lebanon-ceasefire-collapse/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-05T17:23:29Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "NATO Will Not Accept Ukraine. “Promises Are Fairy Tales”",
       "url": "https://www.globalresearch.ca/nato-not-accept-ukraine-zaluzhny/5935931",
       "source": "Globalresearch.ca",
@@ -163,28 +179,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-05T17:12:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "When the World Stops Fearing the Bomb",
       "url": "https://thediplomat.com/2026/08/when-the-world-stops-fearing-the-bomb/",
       "source": "The Diplomat",
       "publishedAt": "2026-08-05T15:11:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel resumes Lebanon strikes as talks under way in Rome",
-      "url": "https://www.rte.ie/news/world/2026/0805/1586628-israel-lebanon-talks/",
-      "source": "RTE",
-      "publishedAt": "2026-08-05T14:52:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "The Ceuta Crisis Reveals the Limits of European Defense Cooperation",
@@ -199,14 +199,6 @@
       "url": "https://www.rt.com/russia/643859-russia-strike-ukraine-ports/",
       "source": "RT",
       "publishedAt": "2026-08-05T13:03:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Day 1,624 of WW3. Orcistan uses 'honey traps\" to try assassinating UAF troops, because killing them on the battlefield is just too difficult. UAF used drones and bombs to kill more than 40K orcs just in July. This is your Wednesday Ukraine War thread [News]",
-      "url": "https://www.fark.com/comments/14153508/Day-1624-of-WW3-Orcistan-uses-honey-traps-to-try-assassinating-UAF-troops-because-killing-them-on-battlefield-is-just-too-difficult-UAF-used-drones-bombs-to-kill-more-than-40K-orcs-just-in-July-This-is-your-Wednesday-Ukraine-War-thread",
-      "source": "Fark.com",
-      "publishedAt": "2026-08-05T12:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

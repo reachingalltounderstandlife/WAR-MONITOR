@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-06T23:56:08Z",
-  "count": 32,
+  "updated": "2026-08-07T02:42:18Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "Iran, US say Strait of Hormuz deal is close, but one or both would have to back down",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-us-say-strait-of-hormuz-deal-is-close-but-one-or-both-would-have-to-back-down/article71311924.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-08-06T02:19:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel carries out heaviest bombardment of Lebanon since June truce (VIDEOS)",
+      "url": "https://www.rt.com/news/643917-israel-bombs-lebanon-tyre/",
+      "source": "RT",
+      "publishedAt": "2026-08-06T01:17:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran and the US say a Strait of Hormuz deal is close, but one or both would have to back down",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-and-the-us-say-a-strait-of-hormuz-deal-is-close-but-one-or-both-would-have-to-back-down/articleshow/132978792.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-06T00:44:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine ambassador claims Russia was behind bomb drone that forced jets to divert at German airport before plane collided with unknown object",
+      "url": "https://www.dailymail.com/news/article-16032349/Ukraine-ambassador-claims-Russia-bomb-drone-forced-jets-divert-German-airport-plane-collided-unknown-object.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-06T00:33:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "The Most Expensive Democratic Senate Primary Has a Winner",
       "url": "https://theintercept.com/2026/08/05/michigan-missouri-primary-results-el-sayed/",
@@ -155,36 +187,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Middle East: Israel strikes southern Lebanon, accuses Hezbollah of 'blatant' ceasefire violation",
-      "url": "https://www.dw.com/en/middle-east-israel-strikes-southern-lebanon-accuses-hezbollah-of-blatant-ceasefire-violation/live-78251565",
-      "source": "DW (English)",
-      "publishedAt": "2026-08-05T14:36:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why Iran Strikes Jordan, Not Israel",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/why-iran-strikes-jordan-not-israel/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-08-05T14:15:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Ceuta Crisis Reveals the Limits of European Defense Cooperation",
       "url": "http://foreignpolicy.com/2026/08/05/ceuta-crisis-europe-migration-russia-nato-limits-defense-cooperation/",
       "source": "Foreign Policy",
       "publishedAt": "2026-08-05T13:55:42Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "\"Evacuate immediately\": Unusual evacuation warning issued in Lebanon after weeks",
-      "url": "https://www.israelnationalnews.com/news/431283",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-08-05T13:05:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Ports in a storm: How Kiev’s warehouse warfare cost Ukraine its coastline",
@@ -199,14 +207,6 @@
       "url": "https://www.fark.com/comments/14153508/Day-1624-of-WW3-Orcistan-uses-honey-traps-to-try-assassinating-UAF-troops-because-killing-them-on-battlefield-is-just-too-difficult-UAF-used-drones-bombs-to-kill-more-than-40K-orcs-just-in-July-This-is-your-Wednesday-Ukraine-War-thread",
       "source": "Fark.com",
       "publishedAt": "2026-08-05T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Bomb disposal robot deployed at German airport after drone found near Ukrainian cargo plane",
-      "url": "https://www.thejournal.ie/bomb-disposal-robot-deployed-at-german-airport-drone-found-near-ukrainian-cargo-plane-7121992-Aug2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-08-05T11:44:32Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -233,30 +233,6 @@
       "publishedAt": "2026-08-05T03:24:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "'Putin Is a Thug:' Senator Rick Scott Says Congress Must Hold Russia Accountable",
-      "url": "https://www.rferl.org/a/putin-thug-senator-rick-scott-congress-russia-ukraine/33821929.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-08-04T23:03:31Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Is the United Nations About to Be Pushed Off a Cliff?",
-      "url": "https://www.commondreams.org/opinion/un-funding-cliff",
-      "source": "Common Dreams",
-      "publishedAt": "2026-08-04T11:33:04Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Trump’s Nuclear Strategy: A New Variable to Peace with Iran?",
-      "url": "https://www.americanthinker.com/articles/2026/08/trump-s-nuclear-strategy-a-new-variable-to-peace-with-iran/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-08-04T04:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

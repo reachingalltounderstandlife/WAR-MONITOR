@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-08T01:24:50Z",
-  "count": 31,
+  "updated": "2026-08-08T06:49:37Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Exclusive | U.S. Intel Finds Putin Could Test NATO’s Resolve With Limited Incursion - WSJ",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184888480",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-08-07T06:33:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Declares War on Missile Shortage Leakers, Promises Long Prison Time",
+      "url": "https://www.naturalnews.com/2026-08-07-trump-declares-war-on-missile-shortage-leakers.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-07T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Japan weighs controversial U.S. AI systems for military command",
+      "url": "https://www.naturalnews.com/2026-08-07-japan-controversial-ai-military-command.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-07T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "New York Times’ Malachy Browne on the future of visual investigations in the age of AI | Reuters Institute for the Study of Journalism",
+      "url": "https://reutersinstitute.politics.ox.ac.uk/news/new-york-timess-malachy-browne-future-visual-investigations-age-ai",
+      "source": "Ox.ac.uk",
+      "publishedAt": "2026-08-07T05:47:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
+      "url": "https://www.thehindubusinessline.com/news/world/a-deal-with-iran-over-the-strait-of-hormuz-may-require-a-compromise-from-trump/article71316238.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-08-07T04:38:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Age of Nuclear Destruction Began 81 Years Ago — With Lies. It Could End the Same Way",
+      "url": "https://www.juancole.com/2026/08/nuclear-destruction-began.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-08-07T04:06:13Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "China’s Peaceful Rise to Green Dominance leaves Trump in the (Carbon) Dust",
+      "url": "https://www.juancole.com/2026/08/chinas-peaceful-dominance.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-08-07T04:04:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Yemen’s Houthis launch major attacks on Saudi-backed forces (VIDEOS)",
+      "url": "https://www.rt.com/news/643959-houthis-attack-pro-saudi-troops/",
+      "source": "RT",
+      "publishedAt": "2026-08-07T02:49:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "The Rulers of the Nuclear Powers Are Slow Learners",
       "url": "https://original.antiwar.com/lawrence-wittner/2026/08/06/the-rulers-of-the-nuclear-powers-are-slow-learners/",
@@ -67,6 +131,14 @@
       "_label": "Lebanon"
     },
     {
+      "title": "Crude Prices Finish Sharply Higher on Doubts About Strait of Hormuz Reopening",
+      "url": "https://www.barchart.com/story/news/3700491/crude-prices-finish-sharply-higher-on-doubts-about-strait-of-hormuz-reopening",
+      "source": "Barchart.com",
+      "publishedAt": "2026-08-06T19:13:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
       "title": "Arsenal shortage felt in Ukraine as US juggles 'different priorities'",
       "url": "https://www.abc.net.au/news/2026-08-07/iran-war-us-stockpile-impacts-ukraine-conflict/107005708",
       "source": "ABC News (AU)",
@@ -91,20 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Houthis launch deadly drone, missile strikes on Saudi-led forces in Yemen",
-      "url": "https://cryptobriefing.com/houthis-launch-deadly-drone-missile-strikes-on-saudi-led-forces-in-yemen/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-06T17:45:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Is Israel’s Netanyahu preparing to fight Iran alone?",
       "url": "https://www.aljazeera.com/news/2026/8/6/is-israels-netanyahu-preparing-to-fight-iran-alone",
       "source": "Al Jazeera English",
       "publishedAt": "2026-08-06T17:11:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Report: Pentagon Updates U.S. Nuclear Strategy to Address War with China and Russia",
@@ -119,16 +183,8 @@
       "url": "https://nypost.com/2026/08/06/world-news/lebanon-explosion-kills-2-soldiers-in-first-israeli-deaths-since-june-hezbollah-truce/",
       "source": "New York Post",
       "publishedAt": "2026-08-06T16:09:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel jeopardising Trump's Gaza peace plan, say UAE, 7 other Islamic nations",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-jeopardising-trumps-gaza-peace-plan-say-uae-7-other-islamic-nations/articleshow/133009935.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-06T15:42:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "An explosives-laden drone was found at a key German airport. Here's what we know",
@@ -139,44 +195,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Red Sea Becomes New Hormuz With Saudi-Houthi Tensions as Saudi Arabia Entering Iranian War",
-      "url": "https://www.globalresearch.ca/red-sea-becomes-new-hormuz-saudi-houthi-tensions-saudi-arabia-entering-iranian-war/5935965",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-06T14:48:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Rights groups call Israel’s killing of journalist Amal Khalil a ‘war crime’",
       "url": "https://www.aljazeera.com/news/2026/8/6/rights-groups-call-israels-killing-of-journalist-amal-khalil-a-war-crime",
       "source": "Al Jazeera English",
       "publishedAt": "2026-08-06T14:28:33Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "A Shortage of Weapons Is Shaping the War With Iran",
-      "url": "https://www.theatlantic.com/national-security/2026/08/shortage-weapons-shaping-war-iran/688201/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-08-06T14:28:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel launches air strikes in Lebanon after soldiers killed",
-      "url": "https://cryptobriefing.com/israel-launches-air-strikes-in-lebanon-after-soldiers-killed/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-06T14:23:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Russia 'planning false flag attack in Europe using captured Ukrainian drones'",
-      "url": "https://www.dailymail.com/news/article-16033499/Russia-false-flag-attack-Europe-captured-Ukrainian-drones.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-06T13:43:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Study: Almost 1 in 3 North Korean Refugees from Area near Nuclear Test Site Carry Genetic Mutations",
@@ -195,14 +219,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Day 1,625 of WW3. Leipzig airport shuts down after attempted drone strikes. In other Orc news, a russian missile kills 8 civilians waiting for a train, and Sweden turns over a seized orc ship to Ukraine. This is your Thursday Ukraine War thread [News]",
-      "url": "https://www.fark.com/comments/14154802/Day-1625-of-WW3-Leipzig-airport-shuts-down-after-attempted-drone-strikes-In-other-Orc-news-a-russian-missile-kills-8-civilians-waiting-for-a-train-Sweden-turns-over-a-seized-orc-ship-to-Ukraine-This-is-your-Thursday-Ukraine-War-thread",
-      "source": "Fark.com",
-      "publishedAt": "2026-08-06T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea Conducts Ballistic Missile Test Days Before US and South Korea Begin Drills",
       "url": "https://military.com/north-korea-conducts-ballistic-missile-test-days-before-us-and-south-korea-begin-drills",
       "source": "Military.com",
@@ -219,34 +235,10 @@
       "_label": "N. Korea"
     },
     {
-      "title": "West using Ukraine as proxy to back terrorists in Africa – Russian UN envoy (VIDEO)",
-      "url": "https://www.rt.com/russia/643932-nebenzia-ukraine-aftrica-terrorism/",
-      "source": "RT",
-      "publishedAt": "2026-08-06T10:55:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Links 8/6/2026",
-      "url": "https://www.nakedcapitalism.com/2026/08/links-8-6-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-06T10:55:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea Conducts Ballistic Missile Test Days Before U.S. And South Korea Begin Drills",
       "url": "https://www.huffpost.com/entry/north-korea-ballistic-missile-test_n_6a7462d8e4b0a79b03a6f52a",
       "source": "HuffPost",
       "publishedAt": "2026-08-06T10:36:34Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "What we know about N Korea joining Russian war efforts",
-      "url": "https://www.rte.ie/news/ukraine/2026/0806/1586733-nkorea-russia-ukraine/",
-      "source": "RTE",
-      "publishedAt": "2026-08-06T08:59:43Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

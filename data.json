@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-07T18:53:34Z",
-  "count": 30,
+  "updated": "2026-08-08T01:24:50Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "The Rulers of the Nuclear Powers Are Slow Learners",
+      "url": "https://original.antiwar.com/lawrence-wittner/2026/08/06/the-rulers-of-the-nuclear-powers-are-slow-learners/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-08-07T00:00:49Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Baltic Republics Foment Crises With Russia",
+      "url": "https://original.antiwar.com/ted_galen_carpenter/2026/08/06/baltic-republics-foment-crises-with-russia/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-08-07T00:00:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘No red line’: South Lebanon residents outraged as Israel resumes strikes",
+      "url": "https://www.aljazeera.com/news/2026/8/6/south-lebanon-people-speak-out-as-israel-launches-attacks-ceasefire",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-06T23:46:37Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran’s Ghalibaf accuses Trump of conducting show diplomacy ‘on loop’",
+      "url": "https://www.aljazeera.com/news/2026/8/6/irans-ghalibaf-accuses-trump-of-conducting-show-diplomacy-on-loop",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-06T23:34:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel Continues Operations in Lebanon After Little Progress in Rome Talks",
+      "url": "https://www.breitbart.com/middle-east/2026/08/06/israel-continues-operations-in-lebanon-after-little-progress-in-rome-talks/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-08-06T22:30:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Irish Times view on Europe’s air defences: concerning vulnerabilities",
+      "url": "https://www.irishtimes.com/opinion/editorials/2026/08/06/the-irish-times-view-on-europes-air-defences-concerning-vulnerabilities/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-06T20:14:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli strikes injure eight in Lebanon amid US-brokered Rome talks",
+      "url": "https://cryptobriefing.com/israeli-strikes-injure-eight-in-lebanon-amid-us-brokered-rome-talks/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-06T19:34:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli attacks wound eight in Lebanon despite Rome talks",
+      "url": "https://www.aljazeera.com/news/2026/8/6/israeli-attacks-wound-eight-in-lebanon-despite-rome-talks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-06T19:21:33Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Arsenal shortage felt in Ukraine as US juggles 'different priorities'",
+      "url": "https://www.abc.net.au/news/2026-08-07/iran-war-us-stockpile-impacts-ukraine-conflict/107005708",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-08-06T19:08:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Explosion in Lebanon kills 2 Israeli soldiers, prompts Israeli airstrikes",
       "url": "https://cryptobriefing.com/explosion-in-lebanon-kills-2-israeli-soldiers-prompts-israeli-airstrikes/",
@@ -99,36 +171,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
-      "url": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo",
-      "source": "BBC News",
-      "publishedAt": "2026-08-06T14:20:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Says Deal With Oman on Hormuz Agreed in Principle",
-      "url": "https://gcaptain.com/iran-says-deal-with-oman-on-hormuz-agreed-in-principle/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-08-06T14:19:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Russia 'planning false flag attack in Europe using captured Ukrainian drones'",
       "url": "https://www.dailymail.com/news/article-16033499/Russia-false-flag-attack-Europe-captured-Ukrainian-drones.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-08-06T13:43:42Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran Says Deal With Oman on Hormuz Agreed in Principle",
-      "url": "https://military.com/iran-says-deal-with-oman-on-hormuz-agreed-in-principle",
-      "source": "Military.com",
-      "publishedAt": "2026-08-06T13:25:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Study: Almost 1 in 3 North Korean Refugees from Area near Nuclear Test Site Carry Genetic Mutations",
@@ -195,52 +243,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Kiev used virtually all NATO tools against Russia – ex-top general",
-      "url": "https://www.rt.com/russia/643926-zaluzhny-nato-tools-ineffective/",
-      "source": "RT",
-      "publishedAt": "2026-08-06T10:03:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "What we know about N Korea joining Russian war efforts",
       "url": "https://www.rte.ie/news/ukraine/2026/0806/1586733-nkorea-russia-ukraine/",
       "source": "RTE",
       "publishedAt": "2026-08-06T08:59:43Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "What we know about North Korean forces joining Russia's war against Ukraine",
-      "url": "https://economictimes.indiatimes.com/news/defence/what-we-know-about-north-korean-forces-joining-russias-war-against-ukraine/articleshow/132991797.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-06T08:36:05Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Nuclear experts urge Trump not to let Iran steer talks away from regime's atomic threat",
-      "url": "https://www.foxnews.com/world/nuclear-experts-urge-trump-not-let-iran-steer-talks-away-from-regimes-atomic-threat",
-      "source": "Fox News",
-      "publishedAt": "2026-08-05T19:32:19Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The Irish Times view on the Hiroshima anniversary: a worldwide call to action",
-      "url": "https://www.irishtimes.com/opinion/editorials/2026/08/05/the-irish-times-view-on-the-hiroshima-anniversary-a-worldwide-call-to-action/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-08-05T19:15:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Trump Needs to Choose How to Lose the Iran War",
-      "url": "http://nymag.com/intelligencer/article/trump-must-choose-how-to-lose-iran-war-strait-hormuz-deal.html",
-      "source": "New York Magazine",
-      "publishedAt": "2026-08-05T09:00:10Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-09T18:37:12Z",
-  "count": 31,
+  "updated": "2026-08-10T01:40:23Z",
+  "count": 20,
   "articles": [
+    {
+      "title": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
+      "url": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-08T21:28:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine denies targeting Bulgaria after drone explodes near pipeline",
+      "url": "https://www.abc.net.au/news/2026-08-09/bulgaria-says-drone-explodes-in-its-airspace/107013718",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-08-08T20:06:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+      "url": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-08T19:00:43Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran’s Pickaxe Mountain in Trump’s sights",
+      "url": "https://nypost.com/2026/08/08/us-news/irans-pickaxe-mountain-in-trumps-sights/",
+      "source": "New York Post",
+      "publishedAt": "2026-08-08T18:56:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Trump’s Iran War Is Going Backward",
       "url": "https://www.motherjones.com/politics/2026/08/trumps-iran-war-is-going-backward/",
@@ -123,132 +155,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Saudi Arabia Names Red Sea Maritime Alliance Commander",
-      "url": "https://www.naturalnews.com/2026-08-08-saudi-arabia-names-red-sea-maritime-alliance-commander.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-08T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Zelensky’s Washington Meeting With Trump Produces No New Commitments, Report Says",
       "url": "https://www.naturalnews.com/2026-08-08-zelensky-meeting-trump-no-new-commitments-report.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-08-08T06:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
-      "url": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
-      "source": "CNBC",
-      "publishedAt": "2026-08-08T05:00:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian strikes near Ukrainian capital kill three, including child",
-      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-08T04:18:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
-      "url": "https://www.yahoo.com/news/politics/articles/us-expects-deal-soon-strait-230159419.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-07T23:01:59Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Report: IDF concealed Hezbollah drone strike which violated ceasefire",
-      "url": "https://www.israelnationalnews.com/news/431392",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-08-07T18:47:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmament",
-      "url": "https://economictimes.indiatimes.com/news/defence/lebanon-israel-agree-shortlist-of-countries-that-could-send-troops-to-verify-hezbollah-disarmament/articleshow/133039139.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-07T17:10:27Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?",
-      "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-07T13:28:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Dangerous Crossroads: Beijing Reacts to US/NATO “Nuclear Sharing” Expansion. China is Described as a “Threat”",
-      "url": "https://www.globalresearch.ca/dangerous-crossroads-beijing-reacts-to-usnato-nuclear-sharing-expansion-china-is-described-as-a-threat/5936100",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-07T13:28:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "China’s Military Is Now Using AI to Plan Strike Operations",
-      "url": "https://thediplomat.com/2026/08/chinas-military-is-now-using-ai-to-plan-strike-operations/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-08-07T12:50:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "The Nuclear Age Began 81 Years Ago—With Lies; It Could End the Same Way",
-      "url": "https://www.commondreams.org/opinion/nuclear-weapons-lies",
-      "source": "Common Dreams",
-      "publishedAt": "2026-08-07T12:46:03Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Gaza Ceasefire Unravels as Regional Pressure on Israel Grows",
-      "url": "https://oilprice.com/Energy/Energy-General/Gaza-Ceasefire-Unravels-as-Regional-Pressure-on-Israel-Grows.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-08-07T11:30:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
-      "url": "https://www.aljazeera.com/news/2026/8/7/houthi-strikes-hit-yemen-as-saudi-arabia-braces-for-attacks-what-we-know",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-07T10:52:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Ebola response concerns, Tigray war warnings, and Gaza’s ceasefire mirage: The Cheat Sheet",
-      "url": "https://www.thenewhumanitarian.org/news/2026/08/07/ebola-response-tigray-war-warnings-gazas-ceasefire-mirage-cheat-sheet",
-      "source": "The New Humanitarian",
-      "publishedAt": "2026-08-07T08:26:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Age of Nuclear Destruction Began 81 Years Ago — With Lies. It Could End the Same Way",
-      "url": "https://www.juancole.com/2026/08/nuclear-destruction-began.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-08-07T04:06:13Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The Rulers of the Nuclear Powers Are Slow Learners",
-      "url": "https://original.antiwar.com/lawrence-wittner/2026/08/06/the-rulers-of-the-nuclear-powers-are-slow-learners/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-08-07T00:00:49Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

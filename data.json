@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-10T01:40:23Z",
-  "count": 20,
+  "updated": "2026-08-10T07:37:12Z",
+  "count": 22,
   "articles": [
+    {
+      "title": "Mecca Joint Defense Agreement technically same as NATO's Article 5: Turkish foreign minister",
+      "url": "https://www.hurriyetdailynews.com/mecca-joint-defense-agreement-technically-same-as-natos-article-5-turkish-foreign-minister-225387",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-08-09T07:01:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UAE, Regional States Accuse Israel of Undermining Gaza Peace Plan",
+      "url": "https://www.naturalnews.com/2026-08-09-uae-regional-states-israel-undermining-peace-plan.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-09T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Western Defense Industry and NATO Standards Increasingly Integrated Into Ukraine’s Military: Analysis",
+      "url": "https://www.naturalnews.com/2026-08-09-western-defense-industry-nato-standards-integrated-ukraine.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-09T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump rejects Zelensky’s plea for Patriot missiles, casts doubt on local production",
+      "url": "https://www.naturalnews.com/2026-08-09-trump-rejects-zelensky-plea-for-patriot-missiles.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-09T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine Cannot Intercept Russian Ballistic Missiles, Official Says",
+      "url": "https://www.naturalnews.com/2026-08-09-ukraine-cannnot-intercept-russian-ballistic-missiles-official-says.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-09T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran says Hormuz won’t reopen until US ‘corrects’ its behavior",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-says-hormuz-wont-reopen-until-us-corrects-its-behavior-uae-ship-targeted-and-other-middle-east-news/articleshow/133062017.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-09T03:59:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran makes new Hormuz demands as missile hits Emirati ship",
+      "url": "https://www.rt.com/news/644023-iran-makeshormuz-demands/",
+      "source": "RT",
+      "publishedAt": "2026-08-09T03:58:27Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Will Pakistan-Saudi-Turkiye defence pact change US strategy?",
       "url": "https://www.aljazeera.com/news/2026/8/8/will-pakistan-saudi-turkiye-defence-pact-change-us-strategy",
@@ -121,46 +177,6 @@
       "publishedAt": "2026-08-08T10:55:54Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Iran makes new strait demands, the UAE says a ship was targeted and other Middle East news",
-      "url": "https://www.yahoo.com/news/world/articles/yemens-army-attacks-houthis-turkey-104136780.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-08T10:41:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The buyer-seller trap: Why America hasn’t delivered what India expected",
-      "url": "https://www.rt.com/india/643993-india-us-defense-ties-tech-transfer/",
-      "source": "RT",
-      "publishedAt": "2026-08-08T10:40:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "WATCH: Ukrainian press gang brutally assaults young couple in taxi (DISTRESSING VIDEO)",
-      "url": "https://www.rt.com/russia/644014-ukrainian-press-gang-odessa-taxi-assault/",
-      "source": "RT",
-      "publishedAt": "2026-08-08T10:16:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelensky counts the cost, missing missile defense, Nazi memories surfacing, MAGA at a crossroads: RT stories that shaped the week",
-      "url": "https://www.rt.com/news/644002-rt-top-stories-ukraine-trump/",
-      "source": "RT",
-      "publishedAt": "2026-08-08T06:01:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Zelensky’s Washington Meeting With Trump Produces No New Commitments, Report Says",
-      "url": "https://www.naturalnews.com/2026-08-08-zelensky-meeting-trump-no-new-commitments-report.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-08T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

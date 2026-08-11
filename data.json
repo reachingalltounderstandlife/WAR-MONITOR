@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-11T12:59:39Z",
-  "count": 28,
+  "updated": "2026-08-11T18:59:09Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
+      "url": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-10T18:34:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump rejects Iran’s war compensation demands, complicating Strait of Hormuz negotiations",
+      "url": "https://cryptobriefing.com/trump-rejects-iran-war-compensation-strait-hormuz/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-10T17:55:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukrainians Are Trying to Help a Traumatized Generation",
+      "url": "http://foreignpolicy.com/2026/08/10/russia-ukraine-youth-kidnap/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-08-10T17:26:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran on cusp of Oman pact but US ‘must meet’ specific demands to seal deal",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/08/10/iran-on-cusp-of-oman-pact-but-us-must-meet-specific-demands-to-seal-deal/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-10T16:58:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump fails the first rule of war: Know your enemy",
+      "url": "https://freethoughtblogs.com/singham/2026/08/10/trump-fails-the-first-rule-of-war-know-your-enemy/",
+      "source": "Freethoughtblogs.com",
+      "publishedAt": "2026-08-10T16:48:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Cornered Putin could increase attacks on the West and possibly stage incursion on NATO territory, experts warn",
+      "url": "https://www.dailymail.com/news/article-16041393/Cornered-Putin-increase-attacks-West-possibly-stage-incursion-NATO-territory-experts-warn.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-10T15:45:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Won’t Reopen Strait of Hormuz Without US Concessions and Other Mideast Developments",
+      "url": "https://military.com/iran-wont-reopen-strait-of-hormuz-without-us-concessions-and-other-mideast-developments",
+      "source": "Military.com",
+      "publishedAt": "2026-08-10T13:05:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "The Persistence of U.S. Strategy, Anthony Fauci, and Limited Hangouts",
       "url": "https://www.globalresearch.ca/persistence-us-strategy-anthony-fauci-limited-hangouts/5936317",
@@ -55,32 +111,16 @@
       "url": "https://whyevolutionistrue.com/2026/08/10/monday-hili-dialogue-581/",
       "source": "Whyevolutionistrue.com",
       "publishedAt": "2026-08-10T11:45:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
       "url": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work",
       "source": "Al Jazeera English",
       "publishedAt": "2026-08-10T11:11:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 8/10/2026",
-      "url": "https://www.nakedcapitalism.com/2026/08/links-8-10-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-10T10:59:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran won't reopen Strait of Hormuz without US concessions",
-      "url": "https://apnews.com/article/iran-us-strait-hormuz-august-10-2026-0bdaae8f1d7b781918e76dca4317c897",
-      "source": "Associated Press",
-      "publishedAt": "2026-08-10T10:48:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "UK's Royal Navy sea drones contain component that secretly sent data to China, report claims — government cuts camera connectivity and insists data wasn’t sensitive, only ‘heartbeat communications’",
@@ -97,22 +137,6 @@
       "publishedAt": "2026-08-10T10:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Trump Hints at Sustained Economic Pressure on Iran",
-      "url": "https://www.rigzone.com/news/wire/trump_hints_at_sustained_economic_pressure_on_iran-10-aug-2026-184330-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-08-10T08:26:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Ties Hormuz Reopening to US Concessions on Several Demands",
-      "url": "https://gcaptain.com/iran-ties-hormuz-reopening-to-us-concessions-on-several-demands/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-08-10T08:18:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "NATO nation rebuffs Ukraine’s missile plea",
@@ -163,22 +187,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Moscow, Kyiv assassins hunt weapons bosses as Ukraine war spills beyond the battlefield",
-      "url": "https://www.foxnews.com/world/moscow-kyiv-assassins-hunt-weapons-bosses-ukraine-war-spills-beyond-battlefield",
-      "source": "Fox News",
-      "publishedAt": "2026-08-09T21:29:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
-      "url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-09T20:40:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Netanyahu rejects Gaza plan in new break from Trump",
       "url": "https://punchng.com/netanyahu-rejects-gaza-plan-in-new-break-from-trump/",
       "source": "The Punch",
@@ -188,7 +196,7 @@
     },
     {
       "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
-      "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
+      "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
       "source": "Business Insider",
       "publishedAt": "2026-08-09T13:48:56Z",
       "_cat": "taiwan",
@@ -196,7 +204,7 @@
     },
     {
       "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
-      "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
+      "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
       "source": "Business Insider",
       "publishedAt": "2026-08-09T13:48:56Z",
       "_cat": "taiwan",

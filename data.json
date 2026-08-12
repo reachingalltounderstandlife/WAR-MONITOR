@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-11T18:59:09Z",
-  "count": 29,
+  "updated": "2026-08-12T01:48:03Z",
+  "count": 22,
   "articles": [
+    {
+      "title": "Russian attack kills five in Ukraine's Zaporizhzhia",
+      "url": "https://www.rte.ie/news/ukraine/2026/0811/1587353-ukraine-russia-world/",
+      "source": "RTE",
+      "publishedAt": "2026-08-11T00:02:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian attack kills five in Ukraine's Zaporizhzhia",
+      "url": "https://www.rte.ie/news/ukraine/2026/0811/1587353-ukraine-russia/",
+      "source": "RTE",
+      "publishedAt": "2026-08-11T00:02:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Silver Lining: The Donald’s Impending Defeat in Iran May Finally Bring the Empire Home",
+      "url": "https://original.antiwar.com/david_stockman/2026/08/10/the-silver-lining-the-donalds-impending-defeat-in-iran-may-finally-bring-the-empire-home/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-08-11T00:00:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Video: War and Money. Democracy is Threatened",
+      "url": "https://www.globalresearch.ca/video-war-and-money-democracy-is-threatened/5936349",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-10T20:45:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘Islamic NATO’ is a Turkish power play",
+      "url": "https://www.rt.com/news/644084-islamic-nato-turkiye-power/",
+      "source": "RT",
+      "publishedAt": "2026-08-10T19:25:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
       "url": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role",
@@ -67,44 +107,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump Suggests Economic, Not Military, Pressure Now Favored Against Iran",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260810-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-08-10T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘Little Sparta’: How the UAE wooed Washington",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/08/10/little-sparta-how-the-uae-wooed-washington/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-08-10T11:59:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Poland and Baltics shield infrastructure, fearing a Russian false-flag strike",
       "url": "https://economictimes.indiatimes.com/news/defence/poland-and-baltics-shield-infrastructure-fearing-a-russian-false-flag-strike/articleshow/133102720.cms",
       "source": "The Times of India",
       "publishedAt": "2026-08-10T11:56:16Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "‘Long-range sanctions’: Ukraine hopes strikes cause Russia fear and losses",
-      "url": "https://www.aljazeera.com/news/2026/8/10/long-range-sanctions-ukraine-hopes-strikes-cause-russia-fear-and-losses",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-10T11:51:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump's Gaza plan hinges on Hamas disarmament, Israeli withdrawals",
-      "url": "https://economictimes.indiatimes.com/news/defence/trumps-gaza-plan-hinges-on-hamas-disarmament-israeli-withdrawals/articleshow/133101753.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-10T11:47:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Monday: Hili dialogue",
@@ -167,70 +175,6 @@
       "url": "https://www.israelnationalnews.com/news/431474",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-08-10T02:54:13Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "What I Learned on My Book Tour Across America",
-      "url": "https://michaelmcfaul.substack.com/p/what-i-learned-on-my-book-tour-across",
-      "source": "Substack.com",
-      "publishedAt": "2026-08-10T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia rains down more than 200 missiles and drones on Ukraine... but are NATO's Baltic states next in Putin's sights?",
-      "url": "https://www.dailymail.com/news/article-16040363/Russia-missiles-drones-Ukraine-NATO-Baltic-states.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-09T23:38:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Netanyahu rejects Gaza plan in new break from Trump",
-      "url": "https://punchng.com/netanyahu-rejects-gaza-plan-in-new-break-from-trump/",
-      "source": "The Punch",
-      "publishedAt": "2026-08-09T20:08:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
-      "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-09T13:48:56Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Taiwan's war drills showcased a new strike drone class that Ukraine used to smash Russia this year",
-      "url": "https://www.businessinsider.com/taiwan-testing-mid-attack-drones-littoral-drill-han-kuang-ukraine-2026-8#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-09T13:48:56Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Netanyahu rejects Board of Peace's Gaza plan: No 'withdrawal until Hamas is genuinely disarmed'",
-      "url": "https://www.foxnews.com/world/netanyahu-rejects-board-peace-gaza-plan-no-withdrawal-until-hamas-genuinely-disarmed",
-      "source": "Fox News",
-      "publishedAt": "2026-08-09T13:14:25Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Benjamin Netanyahu rejects Trump's 15-point plan for Gaza and vows no military withdrawal until Hamas is 'genuinely' disarmed",
-      "url": "https://www.dailymail.com/news/article-16039765/Benjamin-Netanyahu-rejects-Trumps-15-point-plan-Gaza-vows-no-military-withdrawal-Hamas-genuinely-disarmed.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-09T13:02:44Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran makes new Hormuz demands as missile hits Emirati ship",
-      "url": "https://www.rt.com/news/644023-iran-makeshormuz-demands/",
-      "source": "RT",
-      "publishedAt": "2026-08-09T03:58:27Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

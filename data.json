@@ -1,7 +1,127 @@
 {
-  "updated": "2026-08-12T07:21:41Z",
-  "count": 25,
+  "updated": "2026-08-12T13:04:25Z",
+  "count": 24,
   "articles": [
+    {
+      "title": "Empire Envy: How Think Tanks Manage the Decline They Cannot Name — Part 2",
+      "url": "https://www.fairobserver.com/politics/empire-envy-how-think-tanks-manage-the-decline-they-cannot-name-part-2/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-08-11T12:47:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pakistan sees US-Iran deal close as Hormuz standoff drags on, Trump toughens stance",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-sees-us-iran-deal-close-as-hormuz-standoff-drags-on-trump-toughens-stance/articleshow/133154163.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-11T12:29:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What Trump Should Say to the Nation to Truly Become a Peace President",
+      "url": "https://www.commondreams.org/opinion/trump-speech-peace",
+      "source": "Common Dreams",
+      "publishedAt": "2026-08-11T12:22:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "'Russian Starlink' Is Fast Becoming A Reality, There's Just One Problem For The Kremlin",
+      "url": "https://www.globalsecurity.org/space/library/news/2026/space-260811-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-08-11T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Bulgaria: What does the Ukrainian drone incursion reveal?",
+      "url": "https://www.dw.com/en/the-crash-of-a-ukrainian-drone-in-bulgaria-reveals-gaps-in-defense-highlights-changed-ukraine-policy/a-78320070",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-11T11:46:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘New level of danger’: Drone incidents scare Europe amid Russia-Ukraine war",
+      "url": "https://www.aljazeera.com/news/2026/8/11/new-level-of-danger-drone-incidents-scare-europe-amid-russia-ukraine-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-11T11:30:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The petty loyalty beef behind the MAGA Ukraine revolt",
+      "url": "https://www.salon.com/2026/08/11/the-petty-loyalty-beef-behind-the-maga-ukraine-revolt/",
+      "source": "Salon",
+      "publishedAt": "2026-08-11T10:45:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel vindicated by Gaza nutrition data after ‘blood libel’ starvation claims, UN envoy says",
+      "url": "https://www.foxnews.com/world/israel-vindicated-gaza-nutrition-data-after-blood-libel-starvation-claims-un-envoy-says",
+      "source": "Fox News",
+      "publishedAt": "2026-08-11T10:00:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Readiness and Resilience: The National Effort We Can't Delay",
+      "url": "https://www.rand.org/pubs/commentary/2026/08/readiness-and-resilience-the-national-effort-we-cant.html",
+      "source": "Rand.org",
+      "publishedAt": "2026-08-11T10:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pentagon Database Shows More Than 200 US Casualties in Iran War Since July 7",
+      "url": "https://www.activistpost.com/pentagon-database-shows-more-than-200-us-casualties-in-iran-war-since-july-7/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-08-11T09:59:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "In rejecting Trump's Gaza plan, Israeli PM Netanyahu reprises a balancing act he has mastered",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/in-rejecting-trumps-gaza-plan-israeli-pm-netanyahu-reprises-a-balancing-act-he-has-mastered/articleshow/133148843.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-11T09:11:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump told Ukraine it had no cards. Then Kyiv took the war to Russia",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-told-ukraine-had-no-080319077.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-11T08:03:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia uses North Korean missiles in deadly Ukraine attack, Zelenskyy claims",
+      "url": "https://cryptobriefing.com/russia-uses-north-korean-missiles-in-deadly-ukraine-attack-zelenskyy-claims/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-11T07:57:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putting Armageddon on Autopilot: How Artificial Intelligence Could Make Nuclear Threats More Effective",
+      "url": "https://warontherocks.com/putting-armageddon-on-autopilot-how-artificial-intelligence-could-make-nuclear-threats-more-effective/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-08-11T07:30:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Overnight Russian attacks across Ukraine kill at least nine people and injure dozens",
+      "url": "https://www.thejournal.ie/overnight-russian-attacks-across-ukraine-kill-at-least-nine-people-7127162-Aug2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-08-11T07:21:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "ELBIT SYSTEMS REPORTS SECOND QUARTER 2026 RESULTS",
       "url": "https://www.prnewswire.com/news-releases/elbit-systems-reports-second-quarter-2026-results-302848083.html",
@@ -17,30 +137,6 @@
       "publishedAt": "2026-08-11T06:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Poland’s ultimatum: Ukraine must confront its Nazi past – not honor it – or forfeit its EU future",
-      "url": "https://www.naturalnews.com/2026-08-11-polands-ultimatum-ukraine-must-confront-nazi-past.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-11T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Video Shows Masked Men Assaulting Couple in Odessa Taxi, Ukraine Military Draft Office Investigating",
-      "url": "https://www.naturalnews.com/2026-08-11-video-masked-men-assaulting-couple-odessa-taxi.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-11T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Britain, Germany, Sweden, and Canada behind terror warfare in Russia, supplying Ukraine with drones that take out civilians",
-      "url": "https://www.naturalnews.com/2026-08-11-britain-germany-sweden-and-canada-behind-terror-warfare-in-russia.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-11T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Russian barrage on Ukraine kills 9, wounds dozens",
@@ -59,116 +155,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "A year after Alaska summit, Trump-Putin peace push gives way to war escalation",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/a-year-after-alaska-summit-trump-putin-peace-push-gives-way-to-war-escalation/articleshow/133141922.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-11T04:15:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Lebanon: Israel’s Killing of Journalist fits Definition of War Crime",
       "url": "https://www.juancole.com/2026/08/lebanon-journalist-definition.html",
       "source": "Juancole.com",
       "publishedAt": "2026-08-11T04:04:52Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Why We Fight",
-      "url": "https://www.americanthinker.com/articles/2026/08/why-we-fight/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-08-11T04:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Divided Democrats: Not Just Israel -- NATO and China Too",
-      "url": "https://www.americanthinker.com/articles/2026/08/divided-democrats-not-just-israel-nato-and-china-too/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-08-11T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
-      "url": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-11T02:32:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russian attack kills five in Ukraine's Zaporizhzhia",
-      "url": "https://www.rte.ie/news/ukraine/2026/0811/1587353-ukraine-russia-world/",
-      "source": "RTE",
-      "publishedAt": "2026-08-11T00:02:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russian attack kills five in Ukraine's Zaporizhzhia",
-      "url": "https://www.rte.ie/news/ukraine/2026/0811/1587353-ukraine-russia/",
-      "source": "RTE",
-      "publishedAt": "2026-08-11T00:02:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Silver Lining: The Donald’s Impending Defeat in Iran May Finally Bring the Empire Home",
-      "url": "https://original.antiwar.com/david_stockman/2026/08/10/the-silver-lining-the-donalds-impending-defeat-in-iran-may-finally-bring-the-empire-home/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-08-11T00:00:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Video: War and Money. Democracy is Threatened",
-      "url": "https://www.globalresearch.ca/video-war-and-money-democracy-is-threatened/5936349",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-10T20:45:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "‘Islamic NATO’ is a Turkish power play",
-      "url": "https://www.rt.com/news/644084-islamic-nato-turkiye-power/",
-      "source": "RT",
-      "publishedAt": "2026-08-10T19:25:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
-      "url": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-10T18:34:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukrainians Are Trying to Help a Traumatized Generation",
-      "url": "http://foreignpolicy.com/2026/08/10/russia-ukraine-youth-kidnap/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-08-10T17:26:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Cornered Putin could increase attacks on the West and possibly stage incursion on NATO territory, experts warn",
-      "url": "https://www.dailymail.com/news/article-16041393/Cornered-Putin-increase-attacks-West-possibly-stage-incursion-NATO-territory-experts-warn.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-10T15:45:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Persistence of U.S. Strategy, Anthony Fauci, and Limited Hangouts",
-      "url": "https://www.globalresearch.ca/persistence-us-strategy-anthony-fauci-limited-hangouts/5936317",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-10T12:45:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Monday: Hili dialogue",

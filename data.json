@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-12T18:58:45Z",
-  "count": 29,
+  "updated": "2026-08-13T01:50:20Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "North Korea launches ballistic missile ahead of US-South Korea drills",
+      "url": "https://www.israelnationalnews.com/news/431581",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-08-12T00:14:10Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Abbas Milani: Iran Demands US Pay For War Damage Before Reopening Strait",
+      "url": "https://www.pbs.org/video/war-with-iran-1786395855/",
+      "source": "PBS",
+      "publishedAt": "2026-08-12T00:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "International law, international community, the West and the rest of us (I), by Usman Sarki",
+      "url": "https://www.vanguardngr.com/2026/08/international-law-international-community-the-west-and-the-rest-of-us-i-by-usman-sarki/",
+      "source": "Vanguard",
+      "publishedAt": "2026-08-11T23:33:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A Middle Eastern NATO?",
+      "url": "http://foreignpolicy.com/2026/08/11/turkey-pakistan-saudi-arabia-mecca-pact-fp-live/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-08-11T23:01:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea launches another missile toward sea ahead of US-South Korean military drills",
+      "url": "https://www.yahoo.com/news/world/articles/north-korea-launched-suspected-ballistic-213602200.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-11T21:36:02Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "“Total Whitewash”: New Pentagon Report Claims It Killed No Civilians in Boat Strikes",
+      "url": "https://theintercept.com/2026/08/11/war-department-civilian-casualties-boat-strikes-yemen/",
+      "source": "The Intercept",
+      "publishedAt": "2026-08-11T19:51:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Russian Starlink' Is Fast Becoming A Reality, There's Just One Problem For The Kremlin",
+      "url": "https://www.rferl.org/a/russia-ukraine-starlink-internet-satellite-rassvet-war-invasion/33826676.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-08-11T19:46:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "How Ukraine is holding its own against Russia — and changing warfare as we know it",
       "url": "https://www.vox.com/podcasts/498624/ukraine-russia-war-drones-frontline-tactics-putin",
@@ -123,14 +179,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "The US Proxy War in Ukraine Has Always Been About Bleeding Russia, Not Starting WWIII",
-      "url": "https://www.globalresearch.ca/us-proxy-war-ukraine-bleeding-russia-not-starting-wwiii/5936411",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-11T14:14:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korean remote IT staffer worked for US government agency, says FBI | TechCrunch",
       "url": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
       "source": "TechCrunch",
@@ -143,30 +191,6 @@
       "url": "https://www.ibtimes.com.au/middle-east-airports-recovery-airspace-disruptions-1873905",
       "source": "Ibtimes.com.au",
       "publishedAt": "2026-08-11T13:27:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Empire Envy: How Think Tanks Manage the Decline They Cannot Name — Part 2",
-      "url": "https://www.fairobserver.com/politics/empire-envy-how-think-tanks-manage-the-decline-they-cannot-name-part-2/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-08-11T12:47:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Pakistan sees US-Iran deal close as Hormuz standoff drags on, Trump toughens stance",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-sees-us-iran-deal-close-as-hormuz-standoff-drags-on-trump-toughens-stance/articleshow/133154163.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-11T12:29:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel vindicated by Gaza nutrition data after ‘blood libel’ starvation claims, UN envoy says",
-      "url": "https://www.foxnews.com/world/israel-vindicated-gaza-nutrition-data-after-blood-libel-starvation-claims-un-envoy-says",
-      "source": "Fox News",
-      "publishedAt": "2026-08-11T10:00:15Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -199,38 +223,6 @@
       "url": "https://www.juancole.com/2026/08/lebanon-journalist-definition.html",
       "source": "Juancole.com",
       "publishedAt": "2026-08-11T04:04:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Monday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/08/10/monday-hili-dialogue-581/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-08-10T11:45:59Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "What’s behind Trump’s shift to economic pressure on Iran? Will it work?",
-      "url": "https://www.aljazeera.com/news/2026/8/10/whats-behind-trumps-shift-to-economic-pressure-on-iran-will-it-work",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-10T11:11:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Pentagon’s Obsession With China Puts Hawai‘i at Risk",
-      "url": "https://theintercept.com/2026/08/10/china-war-hawaii-military-cost-nuclear/",
-      "source": "The Intercept",
-      "publishedAt": "2026-08-10T10:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Lebanese report rules out September negotiations with Israel",
-      "url": "https://www.israelnationalnews.com/news/431474",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-08-10T02:54:13Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

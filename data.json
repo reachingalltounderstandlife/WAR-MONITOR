@@ -1,14 +1,126 @@
 {
-  "updated": "2026-08-14T13:01:45Z",
-  "count": 36,
+  "updated": "2026-08-14T18:51:00Z",
+  "count": 38,
   "articles": [
     {
-      "title": "Pink Floyd’s Roger Waters says the ruling class is steering the ship into the rocks, and ordinary people are the ones who pay",
-      "url": "https://www.activistpost.com/pink-floyds-roger-waters-says-the-ruling-class-is-steering-the-ship-into-the-rocks-and-ordinary-people-are-the-ones-who-pay/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-08-13T13:00:00Z",
+      "title": "Poland arrests Russian allegedly hired to kill Ukrainian-American who was 'inconvenient to the Putin regime'",
+      "url": "https://www.foxnews.com/world/poland-arrests-russian-allegedly-hired-kill-ukrainian-american-inconvenient-putin-regime",
+      "source": "Fox News",
+      "publishedAt": "2026-08-13T18:26:48Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "'Magical thinking': Jared Kushner slapped with humiliating takedown over 'peace' claim",
+      "url": "https://www.rawstory.com/jared-kushner-middle-east-backlash/",
+      "source": "Raw Story",
+      "publishedAt": "2026-08-13T18:10:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Poland arrests man who allegedly tried to kill Ukrainian American",
+      "url": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-13T18:04:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US CENTCOM commander Adm. Brad Cooper pushes for renewed attacks on Iran during Israel visit despite US call to close all fronts last week – Israel’s Channel 13",
+      "url": "https://cryptobriefing.com/us-centcom-commander-adm-brad-cooper-pushes-for-renewed-attacks-on-iran-during/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-13T18:01:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Poland says it thwarted a Russian plot to kill an American citizen in Warsaw",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/poland-says-it-thwarted-a-russian-plot-to-kill-an-american-citizen-in-warsaw/articleshow/133220917.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-13T17:58:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kazakhstan President Calls On Putin to End The War",
+      "url": "https://freerepublic.com/focus/f-news/4391676/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-08-13T17:24:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kazakhstan President Calls On Putin to End The War",
+      "url": "https://freerepublic.com/focus/f-chat/4391676/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-08-13T17:24:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "As Putin Plots Attacks On Europe, NATO Needs To Fortify United Front",
+      "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/08/13/as-putin-plots-attacks-on-europe-nato-needs-to-fortify-united-front/",
+      "source": "Forbes",
+      "publishedAt": "2026-08-13T17:24:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Gulf oil giants are spending billions to build alternative shipping routes",
+      "url": "https://www.business-standard.com/world-news/gulf-oil-giants-are-spending-billions-to-build-alternative-shipping-routes-126081302104_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-13T16:57:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO’s plan for a drone-infested battlefield: Let AI fly while humans decide who dies",
+      "url": "https://www.politico.eu/article/nato-plan-drone-battlefield-ai-artificial-intelligence/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-08-13T15:42:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+      "url": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-13T15:27:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Korybko to Nawrocki: A Forever War in Ukraine Isn’t in Poland’s Interests",
+      "url": "https://korybko.substack.com/p/korybko-to-nawrocki-a-forever-war",
+      "source": "Substack.com",
+      "publishedAt": "2026-08-13T15:19:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Far From The Battlefield, Hawaii Pushes Trump On Weapons For Ukraine",
+      "url": "https://www.rferl.org/a/hawaii-senate-ukraine-weapons-russia-us-support/33829696.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-08-13T14:10:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "America’s Authoritarian Adversaries Are Forging a New Power Bloc",
+      "url": "https://oilprice.com/Geopolitics/North-America/Americas-Authoritarian-Adversaries-Are-Forging-a-New-Power-Bloc.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-08-13T14:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea Fires Ballistic Missiles, Deepening Silence Fuels Analyst Speculation",
+      "url": "https://thediplomat.com/2026/08/north-korea-fires-ballistic-missiles-deepening-silence-fuels-analyst-speculation/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-08-13T13:32:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "“Islamic NATO” Emerges as Saudi Arabia, Turkey and Pakistan Forge New Security Axis",
@@ -27,14 +139,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Yemen at Risk of Entering Wider Middle East Conflict, UN Special Envoy Warns Security Council, as Several Members Condemn Escalating Houthi Attacks",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260813-unsc01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-08-13T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Iran Lurching Toward 'Severe Economic Collapse' As War Takes Its Toll",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260813-rferl01.htm",
       "source": "Globalsecurity.org",
@@ -43,20 +147,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Russia bets on ballistic missiles to combat the success of Ukraine’s drone warfare",
-      "url": "https://theconversation.com/russia-bets-on-ballistic-missiles-to-combat-the-success-of-ukraines-drone-warfare-289639",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-08-13T10:44:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UK government defends seizure of shadow fleet tanker after Putin threat",
-      "url": "https://cryptobriefing.com/uk-defends-shadow-fleet-tanker-seizure-putin-threat/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-13T10:16:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "title": "Yemen at Risk of Entering Wider Middle East Conflict, UN Special Envoy Warns Security Council, as Several Members Condemn Escalating Houthi Attacks",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260813-unsc01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-08-13T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "Life and loss as a first responder in southern Lebanon",
@@ -65,14 +161,6 @@
       "publishedAt": "2026-08-13T09:51:30Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Russia Eyeing Sabotage, Other Attacks in Europe, Officials Warn",
-      "url": "https://www.insurancejournal.com/news/international/2026/08/13/881353.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-08-13T09:37:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran Boosts Military Posturing as Talks Hit Deadlock",
@@ -87,48 +175,8 @@
       "url": "https://www.aljazeera.com/news/2026/8/13/israeli-strikes-in-south-lebanon-a-violation-of-international-law-pm",
       "source": "Al Jazeera English",
       "publishedAt": "2026-08-13T07:11:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. Shifts to Economic Warfare Against Iran as Military and Diplomatic Efforts Stall",
-      "url": "https://www.naturalnews.com/2026-08-13-us-shifts-to-economic-warfare-against-iran.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-13T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "USS Abraham Lincoln crew faces mounting mental health crisis amid extended Iran war deployment",
-      "url": "https://www.naturalnews.com/2026-08-13-uss-abraham-lincoln-crew-faces-mental-health-crisis.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-13T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "When Will AI Take My Job?",
-      "url": "https://whenwillaitakemyjob.ai",
-      "source": "Whenwillaitakemyjob.ai",
-      "publishedAt": "2026-08-13T02:47:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "In Ukraine, the frontline has become the DRONELINE... and the brave defenders are dealing death on Russians from many miles away in tactical revolution that could force Putin to sue for peace",
-      "url": "https://www.dailymail.com/news/article-16047813/Ukraine-frontline-DRONELINE-Putin-peace.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-13T00:16:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "America's Backyard",
-      "url": "https://www.hoover.org/plus/research/americas-backyard",
-      "source": "Hoover.org",
-      "publishedAt": "2026-08-13T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Critical Choices In The Indo-Pacific",
@@ -153,30 +201,6 @@
       "publishedAt": "2026-08-12T17:20:17Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Global Research Daily: The News Behind the News",
-      "url": "https://www.globalresearch.ca/global-research-daily-news-behind-news-13-16/5936561",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-12T16:34:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine pounds Black Sea Fleet’s ‘last major stronghold’ while Putin flexes naval power in Pacific",
-      "url": "https://www.foxnews.com/world/ukraine-pounds-black-sea-fleets-last-major-stronghold-while-putin-flexes-naval-power-pacific",
-      "source": "Fox News",
-      "publishedAt": "2026-08-12T16:15:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The great Patriot hoarding: Why Kiev’s donors have locked their missile vaults",
-      "url": "https://www.rt.com/russia/644166-ukraine-patriot-missile-shortage/",
-      "source": "RT",
-      "publishedAt": "2026-08-12T13:38:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Pakistan says 3 citizens killed in Houthi attack on ship, and other developments in the Mideast",
@@ -239,14 +263,6 @@
       "url": "https://www.business-standard.com/world-news/trump-claims-total-control-over-hormuz-as-us-iran-harden-their-stances-126081201092_1.html",
       "source": "Business Standard",
       "publishedAt": "2026-08-12T10:15:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Claims Hormuz Control as US, Iran Harden Their Stances",
-      "url": "https://gcaptain.com/trump-claims-hormuz-control-as-us-iran-harden-their-stances/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-08-12T10:13:02Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

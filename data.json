@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-13T18:59:42Z",
+  "updated": "2026-08-14T01:47:57Z",
   "count": 35,
   "articles": [
+    {
+      "title": "In Ukraine, the frontline has become the DRONELINE... and the brave defenders are dealing death on Russians from many miles away in tactical revolution that could force Putin to sue for peace",
+      "url": "https://www.dailymail.com/news/article-16047813/Ukraine-frontline-DRONELINE-Putin-peace.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-13T00:16:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Secret Marriage: How Arab States Betrayed Palestine While Denouncing Gaza",
+      "url": "https://original.antiwar.com/richard_edain/2026/08/12/the-secret-marriage-how-arab-states-betrayed-palestine-while-denouncing-gaza/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-08-13T00:00:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "America's Backyard",
+      "url": "https://www.hoover.org/plus/research/americas-backyard",
+      "source": "Hoover.org",
+      "publishedAt": "2026-08-13T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Critical Choices In The Indo-Pacific",
+      "url": "https://www.thefreedomfrequency.org/p/critical-choices-in-the-indo-pacific",
+      "source": "Thefreedomfrequency.org",
+      "publishedAt": "2026-08-13T00:00:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "3 takeaways from David Crowley’s comeback: From the Politics Desk",
+      "url": "https://www.nbcnews.com/politics/politics-news/3-takeaways-david-crowleys-comeback-politics-desk-rcna592208",
+      "source": "NBC News",
+      "publishedAt": "2026-08-12T22:33:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+      "url": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-12T21:53:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Report: US Burned Through $200M of Munitions in 1 Day After Trump Restarted War",
+      "url": "https://truthout.org/articles/report-us-burned-through-200m-of-munitions-in-1-day-after-trump-restarted-war/",
+      "source": "Truthout",
+      "publishedAt": "2026-08-12T20:46:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia-Ukraine War Escalates With Black Sea Strikes, North Korean Missiles",
+      "url": "http://foreignpolicy.com/2026/08/12/ukraine-russia-black-sea-strikes-north-korea-missiles-lebanon-death-penalty/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-08-12T19:26:39Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Iran Takes More Aggressive Military Stance With US Talks Frozen",
       "url": "https://military.com/iran-takes-more-aggressive-military-stance-with-us-talks-frozen",
@@ -123,14 +187,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Putin warns of tit-for-tat seizures of European vessels",
-      "url": "https://www.aljazeera.com/news/2026/8/12/putin-warns-of-tit-for-tat-seizures-of-european-vessels",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-12T11:11:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Links 8/12/2026",
       "url": "https://www.nakedcapitalism.com/2026/08/links-8-12-2026.html",
       "source": "Nakedcapitalism.com",
@@ -143,32 +199,24 @@
       "url": "https://economictimes.indiatimes.com/news/defence/north-korea-launches-another-missile-toward-sea-ahead-of-us-south-korean-military-drills/articleshow/133179896.cms",
       "source": "The Times of India",
       "publishedAt": "2026-08-12T10:52:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran refutes Trump’s claim to ‘control’ Hormuz: What’s the latest in talks?",
-      "url": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-12T10:27:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Trump claims total control over Hormuz as US, Iran harden their stances",
       "url": "https://www.business-standard.com/world-news/trump-claims-total-control-over-hormuz-as-us-iran-harden-their-stances-126081201092_1.html",
       "source": "Business Standard",
       "publishedAt": "2026-08-12T10:15:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump Claims Hormuz Control as US, Iran Harden Their Stances",
       "url": "https://gcaptain.com/trump-claims-hormuz-control-as-us-iran-harden-their-stances/",
       "source": "gcaptain.com",
       "publishedAt": "2026-08-12T10:13:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "North Korea Launches Another Missile Toward Sea Ahead of US-South Korean Military Drills",
@@ -177,14 +225,6 @@
       "publishedAt": "2026-08-12T09:49:38Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Three killed in overnight attacks on Russian, Ukrainian port cities",
-      "url": "https://www.aljazeera.com/news/2026/8/12/three-killed-in-overnight-attacks-on-russian-ukrainian-port",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-12T07:49:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Israel must not turn a military victory into a Hezbollah Victory narrative",
@@ -239,46 +279,6 @@
       "url": "https://www.israelnationalnews.com/news/431581",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-08-12T00:14:10Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea launches another missile toward sea ahead of US-South Korean military drills",
-      "url": "https://www.yahoo.com/news/world/articles/north-korea-launched-suspected-ballistic-213602200.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-11T21:36:02Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "VOWS TO DEFY TRUMP",
-      "url": "https://www.kenklippenstein.com/p/exclusive-francesca-hong-takes-on",
-      "source": "Kenklippenstein.com",
-      "publishedAt": "2026-08-11T17:00:18Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "In Rejecting Trump’s Gaza Plan, Netanyahu Reprises a Balancing Act He Has Mastered",
-      "url": "https://military.com/in-rejecting-trumps-gaza-plan-netanyahu-reprises-a-balancing-act-he-has-mastered",
-      "source": "Military.com",
-      "publishedAt": "2026-08-11T14:37:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korean remote IT staffer worked for US government agency, says FBI | TechCrunch",
-      "url": "https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-11T13:41:59Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "'The right price': How North Korea benefits from Russia alliance",
-      "url": "https://www.abc.net.au/news/2026-08-11/zelenskyy-warns-of-north-korea-russia-alliance/107022944",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-08-11T04:24:16Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

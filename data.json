@@ -1,7 +1,111 @@
 {
-  "updated": "2026-08-15T12:33:07Z",
-  "count": 27,
+  "updated": "2026-08-15T18:25:57Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "The US Navy’s Aircraft Carrier Troubles Can’t Be Fixed Quickly Enough",
+      "url": "https://www.forbes.com/sites/petersuciu/2026/08/14/the-us-navys-aircraft-carrier-troubles-cant-be-fixed-quickly-enough/",
+      "source": "Forbes",
+      "publishedAt": "2026-08-14T17:48:48Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Russian drones kill woman, 9-year-old son at home as Ukrainian civilian casualties surge",
+      "url": "https://economictimes.indiatimes.com/news/defence/russian-drones-kill-woman-9-year-old-son-at-home-as-ukrainian-civilian-casualties-surge/articleshow/133244925.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-14T14:48:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "One year on, did Alaska change anything for Ukraine?",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0814/1587931-alaska-ukraine-analysis/",
+      "source": "RTE",
+      "publishedAt": "2026-08-14T14:34:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-traffic-slows-further-after-us-threatens-more-economic-pressure-on-iran/articleshow/133244610.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-14T14:33:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: Mixed Signals on US Resuming Kinetic Action as Iran Moves to Offensive Stance; Flight from Israel Accelerating",
+      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-mixed-signals-on-us-resuming-kinetic-action-as-iran-moves-to-offensive-stance-flight-from-israel-accelerating.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-08-14T14:16:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO shoots down drone in Latvian airspace",
+      "url": "https://www.rte.ie/news/world/2026/0814/1587924-nato-latvia-drones/",
+      "source": "RTE",
+      "publishedAt": "2026-08-14T14:05:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran’s Economy Is Buckling Under the Weight of War",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Economy-Is-Buckling-Under-the-Weight-of-War.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-08-14T14:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "FO Live: Making Sense of NATO’s Future",
+      "url": "https://www.fairobserver.com/world-news/fo-live-making-sense-of-natos-future/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-08-14T13:44:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iranians Struggle to Afford Groceries as Trump Squeezes Economy",
+      "url": "https://military.com/iranians-struggle-to-afford-groceries-as-trump-squeezes-economy",
+      "source": "Military.com",
+      "publishedAt": "2026-08-14T13:43:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "In 1968, mouflon sheep were released on Hawaii for trophy hunting; within 36 years, more than 2,500 were trampling and stripping native forests",
+      "url": "https://timesofindia.indiatimes.com/science/in-1968-eleven-mouflon-sheep-were-released-on-hawaii-for-trophy-hunting-within-36-years-more-than-2500-were-trampling-and-stripping-native-forests/articleshow/133235152.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-14T13:21:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO fighter jet shoots down a drone over Latvia",
+      "url": "https://www.abc.net.au/news/2026-08-14/nato-jets-shoot-down-drone-in-latvian-airspace/107040788",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-08-14T12:46:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
+      "url": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-14T12:45:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Kiev Launches Sanctions Drive Against Russian Arms Industry That Will End in Failure",
+      "url": "https://www.globalresearch.ca/kiev-launches-sanctions-drive-against-russian-arms-industry-end-failure/5936684",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-14T12:39:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "US Warns Iran It Will Step Up Economic Pressure; Two More Ships Attacked in Hormuz",
       "url": "https://gcaptain.com/us-warns-iran-it-will-step-up-economic-pressure-two-more-ships-attacked-in-hormuz/",
@@ -59,66 +163,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Russian drones kill a woman and 9-year-old son at home in Ukraine",
-      "url": "https://abcnews.com/International/wireStory/russian-drones-kill-woman-9-year-son-home-135634942",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-08-14T10:32:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A value investor’s reluctant case for gold",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/value-investor-reluctant-case-gold-100000987.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-14T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A value investor’s reluctant case for gold",
-      "url": "https://fortune.com/2026/08/14/case-for-gold-dollar-reserve-currency-cracking/",
-      "source": "Fortune",
-      "publishedAt": "2026-08-14T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Drone incursions sow fear, chaos along NATO's Baltic and Finnish borders",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/drone-incursions-sow-fear-chaos-along-natos-baltic-and-finnish-borders/articleshow/133234509.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-14T09:06:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Ukraine and Iran: why military strength doesn’t mean winning wars",
       "url": "https://theconversation.com/ukraine-and-iran-why-military-strength-doesnt-mean-winning-wars-289242",
       "source": "The Conversation Africa",
       "publishedAt": "2026-08-14T08:56:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel shocked by pace of Iran’s military recovery – media",
-      "url": "https://www.rt.com/news/644236-iran-israel-ballistic-missile/",
-      "source": "RT",
-      "publishedAt": "2026-08-14T08:34:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US to Soon Unveil Unprecedented Sanctions on Iran",
-      "url": "https://www.rigzone.com/news/wire/us_to_soon_unveil_unprecedented_sanctions_on_iran-14-aug-2026-184374-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-08-14T08:34:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia investing in missiles to outplay Ukraine’s drone tactics",
-      "url": "https://theconversation.com/russia-investing-in-missiles-to-outplay-ukraines-drone-tactics-289727",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-08-14T07:00:24Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -147,28 +195,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "US to unleash ‘economic isolation’ on Iran next week as Trump pressure campaign intensifies",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-to-unleash-economic-isolation-on-iran-next-week-as-trump-pressure-campaign-intensifies/articleshow/133228383.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-14T03:48:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea slams US-South Korea drills, threatens self-defence action",
       "url": "https://www.business-standard.com/world-news/north-korea-slams-us-south-korea-drills-threatens-self-defence-action-126081400069_1.html",
       "source": "Business Standard",
       "publishedAt": "2026-08-14T03:43:45Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Israel warned US of Iran plots against Trump, but US could not verify threats",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/israel-warned-us-of-iran-plots-against-trump-but-us-could-not-verify-threats/articleshow/133227786.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-14T02:55:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",

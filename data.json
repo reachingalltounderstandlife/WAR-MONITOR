@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-14T18:51:00Z",
-  "count": 38,
+  "updated": "2026-08-15T01:07:24Z",
+  "count": 25,
   "articles": [
+    {
+      "title": "Germany As The United States’ Key Partner? Michta: Poland Must Take The Initiative",
+      "url": "https://defence24.com/geopolitics/germany-as-the-united-states-key-partner-michta-poland-must-take-the-initiative",
+      "source": "Defence24.com",
+      "publishedAt": "2026-08-14T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia’s ‘Amazon’ in deep-strike Ukraine blitz, wiping billions from Putin-linked CEO",
+      "url": "https://www.foxnews.com/world/russia-amazon-deep-strike-ukraine-blitz-wiping-billions-putin-linked-ceo",
+      "source": "Fox News",
+      "publishedAt": "2026-08-13T21:20:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia And Ukraine Hammer Each Other, But Can’t Defend Themselves",
+      "url": "https://dailycaller.com/2026/08/13/ukraine-russia-war-interceptor-stockpiles-trump-administration",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-08-13T21:04:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Iran War Has Left the U.S. Dangerously Exposed",
+      "url": "http://foreignpolicy.com/2026/08/13/iran-war-us-stockpile-depleted-gulf/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-08-13T20:45:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "J.D. Vance Is Learning an Important Foreign Policy Lesson the Hard Way",
+      "url": "https://slate.com/news-and-politics/2026/08/ukraine-iran-trump-jd-vance-oil-gas-prices.html",
+      "source": "Slate Magazine",
+      "publishedAt": "2026-08-13T19:00:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Attacks on Yemen Killed 153 Civilians in 2025, Pentagon Says",
+      "url": "https://financialpost.com/pmn/business-pmn/us-attacks-on-yemen-killed-153-civilians-in-2025-pentagon-says",
+      "source": "Financial Post",
+      "publishedAt": "2026-08-13T18:59:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US lost quarter of its Reaper drones in Iran war – WaPo",
+      "url": "https://www.rt.com/news/644219-reaper-drones-lost-iran/",
+      "source": "RT",
+      "publishedAt": "2026-08-13T18:58:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Poland arrests Russian allegedly hired to kill Ukrainian-American who was 'inconvenient to the Putin regime'",
       "url": "https://www.foxnews.com/world/poland-arrests-russian-allegedly-hired-kill-ukrainian-american-inconvenient-putin-regime",
@@ -59,14 +115,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "As Putin Plots Attacks On Europe, NATO Needs To Fortify United Front",
-      "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/08/13/as-putin-plots-attacks-on-europe-nato-needs-to-fortify-united-front/",
-      "source": "Forbes",
-      "publishedAt": "2026-08-13T17:24:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Gulf oil giants are spending billions to build alternative shipping routes",
       "url": "https://www.business-standard.com/world-news/gulf-oil-giants-are-spending-billions-to-build-alternative-shipping-routes-126081302104_1.html",
       "source": "Business Standard",
@@ -75,44 +123,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "NATO’s plan for a drone-infested battlefield: Let AI fly while humans decide who dies",
-      "url": "https://www.politico.eu/article/nato-plan-drone-battlefield-ai-artificial-intelligence/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-08-13T15:42:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
       "url": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks",
       "source": "Al Jazeera English",
       "publishedAt": "2026-08-13T15:27:52Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Korybko to Nawrocki: A Forever War in Ukraine Isn’t in Poland’s Interests",
-      "url": "https://korybko.substack.com/p/korybko-to-nawrocki-a-forever-war",
-      "source": "Substack.com",
-      "publishedAt": "2026-08-13T15:19:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Far From The Battlefield, Hawaii Pushes Trump On Weapons For Ukraine",
-      "url": "https://www.rferl.org/a/hawaii-senate-ukraine-weapons-russia-us-support/33829696.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-08-13T14:10:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "America’s Authoritarian Adversaries Are Forging a New Power Bloc",
-      "url": "https://oilprice.com/Geopolitics/North-America/Americas-Authoritarian-Adversaries-Are-Forging-a-New-Power-Bloc.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-08-13T14:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea Fires Ballistic Missiles, Deepening Silence Fuels Analyst Speculation",
@@ -139,16 +155,16 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran Lurching Toward 'Severe Economic Collapse' As War Takes Its Toll",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260813-rferl01.htm",
+      "title": "Yemen at Risk of Entering Wider Middle East Conflict, UN Special Envoy Warns Security Council, as Several Members Condemn Escalating Houthi Attacks",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260813-unsc01.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-08-13T12:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Yemen at Risk of Entering Wider Middle East Conflict, UN Special Envoy Warns Security Council, as Several Members Condemn Escalating Houthi Attacks",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260813-unsc01.htm",
+      "title": "Iran Lurching Toward 'Severe Economic Collapse' As War Takes Its Toll",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260813-rferl01.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-08-13T12:00:00Z",
       "_cat": "iran",
@@ -167,8 +183,8 @@
       "url": "https://www.rigzone.com/news/wire/iran_boosts_military_posturing_as_talks_hit_deadlock-13-aug-2026-184365-article/",
       "source": "Rigzone",
       "publishedAt": "2026-08-13T08:17:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israeli strikes in south Lebanon a ‘violation of international law’: PM",
@@ -185,126 +201,6 @@
       "publishedAt": "2026-08-13T00:00:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Russia-Ukraine War Escalates With Black Sea Strikes, North Korean Missiles",
-      "url": "http://foreignpolicy.com/2026/08/12/ukraine-russia-black-sea-strikes-north-korea-missiles-lebanon-death-penalty/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-08-12T19:26:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Takes More Aggressive Military Stance With US Talks Frozen",
-      "url": "https://military.com/iran-takes-more-aggressive-military-stance-with-us-talks-frozen",
-      "source": "Military.com",
-      "publishedAt": "2026-08-12T17:20:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Pakistan says 3 citizens killed in Houthi attack on ship, and other developments in the Mideast",
-      "url": "https://abcnews.com/International/wireStory/pakistan-3-citizens-killed-houthi-attack-ship-developments-135570124",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-08-12T13:25:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Takes More Aggressive Military Stance With US Talks Frozen",
-      "url": "https://financialpost.com/pmn/business-pmn/iran-takes-more-aggressive-military-stance-with-us-talks-frozen",
-      "source": "Financial Post",
-      "publishedAt": "2026-08-12T13:20:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "FO Exclusive: New Fronts Now in the US/Israel–Iran War",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/fo-exclusive-new-fronts-now-in-the-us-israel-iran-war/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-08-12T13:15:59Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why has North Korea fired a missile ahead of US-South Korea drills?",
-      "url": "https://www.aljazeera.com/news/2026/8/12/why-has-north-korea-fired-a-missile-ahead-of-us-south-korea-drills",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-12T13:10:14Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "China’s Shield is Keeping Iran in the Fight. “Man Portable” Air Defense Challenges Western Air Supremacy in the Persian Gulf",
-      "url": "https://www.globalresearch.ca/china-shield-keeping-iran-fight/5936489",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-12T12:17:08Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Press Statement of Jang Kum Chol, First Vice-Minister and Director General of Tenth Department of DPRK Foreign Ministry",
-      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260812-kcna01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-08-12T12:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "North Korea launches another missile toward sea ahead of US-South Korean military drills",
-      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-launches-another-missile-toward-sea-ahead-of-us-south-korean-military-drills/articleshow/133179896.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-12T10:52:39Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump claims total control over Hormuz as US, Iran harden their stances",
-      "url": "https://www.business-standard.com/world-news/trump-claims-total-control-over-hormuz-as-us-iran-harden-their-stances-126081201092_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-08-12T10:15:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea Launches Another Missile Toward Sea Ahead of US-South Korean Military Drills",
-      "url": "https://military.com/north-korea-launches-another-missile-toward-sea-ahead-of-us-south-korean-military-drills",
-      "source": "Military.com",
-      "publishedAt": "2026-08-12T09:49:38Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Taiwan is training its Abrams tank crews to hide and refuel inside its bustling urban sprawl",
-      "url": "https://www.businessinsider.com/taiwan-abrams-m1a2t-tank-crews-hide-han-kuang-china-cities-2026-8#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-12T04:21:46Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Taiwan is training its Abrams tank crews to hide and refuel inside its bustling urban sprawl",
-      "url": "https://www.businessinsider.com/taiwan-abrams-m1a2t-tank-crews-hide-han-kuang-china-cities-2026-8",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-12T04:21:46Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "North Korea tests missile ahead of US-South Korea drills",
-      "url": "https://www.dw.com/en/north-korea-tests-missile-ahead-of-us-south-korea-drills/a-78329244",
-      "source": "DW (English)",
-      "publishedAt": "2026-08-12T03:41:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea launches ballistic missile ahead of US-South Korea drills",
-      "url": "https://www.israelnationalnews.com/news/431581",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-08-12T00:14:10Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

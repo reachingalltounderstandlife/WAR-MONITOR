@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-15T01:07:24Z",
-  "count": 25,
+  "updated": "2026-08-15T06:34:31Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "Why is North Korea ramping up criticism of Japan?",
+      "url": "https://economictimes.indiatimes.com/news/defence/why-is-north-korea-ramping-up-criticism-of-japan/articleshow/133230721.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-14T06:29:04Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Ukraine has just 1% of the Patriot missiles it needs, Zelensky says",
+      "url": "https://www.naturalnews.com/2026-08-14-ukraine-patriot-missiles-needs-zelensky.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-14T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "N. Korea warn of new 'deterrent' ahead of US-South drills",
+      "url": "https://www.rte.ie/news/world/2026/0814/1587828-korea-us-world/",
+      "source": "RTE",
+      "publishedAt": "2026-08-14T04:20:07Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "America Cannot Protect Taiwan from China",
+      "url": "https://www.lewrockwell.com/2026/08/martin-armstrong/america-cannot-protect-taiwan-from-china/",
+      "source": "Lewrockwell.com",
+      "publishedAt": "2026-08-14T04:01:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US to unleash ‘economic isolation’ on Iran next week as Trump pressure campaign intensifies",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-to-unleash-economic-isolation-on-iran-next-week-as-trump-pressure-campaign-intensifies/articleshow/133228383.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-14T03:48:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea slams US-South Korea drills, threatens self-defence action",
+      "url": "https://www.business-standard.com/world-news/north-korea-slams-us-south-korea-drills-threatens-self-defence-action-126081400069_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-14T03:43:45Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel warned US of Iran plots against Trump, but US could not verify threats",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/israel-warned-us-of-iran-plots-against-trump-but-us-could-not-verify-threats/articleshow/133227786.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-14T02:55:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Germany As The United States’ Key Partner? Michta: Poland Must Take The Initiative",
       "url": "https://defence24.com/geopolitics/germany-as-the-united-states-key-partner-michta-poland-must-take-the-initiative",
@@ -99,22 +155,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Kazakhstan President Calls On Putin to End The War",
-      "url": "https://freerepublic.com/focus/f-news/4391676/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-08-13T17:24:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Kazakhstan President Calls On Putin to End The War",
-      "url": "https://freerepublic.com/focus/f-chat/4391676/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-08-13T17:24:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Gulf oil giants are spending billions to build alternative shipping routes",
       "url": "https://www.business-standard.com/world-news/gulf-oil-giants-are-spending-billions-to-build-alternative-shipping-routes-126081302104_1.html",
       "source": "Business Standard",
@@ -151,22 +191,6 @@
       "url": "https://www.globalresearch.ca/us-depleting-inventory-war-iran/5936587",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-08-13T12:01:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Yemen at Risk of Entering Wider Middle East Conflict, UN Special Envoy Warns Security Council, as Several Members Condemn Escalating Houthi Attacks",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260813-unsc01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-08-13T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Lurching Toward 'Severe Economic Collapse' As War Takes Its Toll",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260813-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-08-13T12:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

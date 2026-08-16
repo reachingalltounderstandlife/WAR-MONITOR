@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-16T01:11:12Z",
-  "count": 23,
+  "updated": "2026-08-16T06:36:14Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Lebanon state media says Israeli strike on south kills 7",
+      "url": "https://www.rte.ie/news/2026/0815/1587980-lebanon-israel-strikes/",
+      "source": "RTE",
+      "publishedAt": "2026-08-15T06:35:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "South Korea president proposes talks with North to end Korean War",
+      "url": "https://punchng.com/south-korea-president-proposes-talks-with-north-to-end-korean-war/",
+      "source": "The Punch",
+      "publishedAt": "2026-08-15T06:05:08Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Ukraineâs massive drone assault on Novorossiysk shuts down major grain terminals, defying U.S. warnings",
+      "url": "https://www.naturalnews.com/2026-08-15-ukraines-drone-assault-novorossiysk-shuts-down-grain-terminals.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-15T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Europe’s shadow war leaves U.S. behind: How the Baltic states and a “coalition of warmongers” are dragging NATO toward the abyss",
+      "url": "https://www.naturalnews.com/2026-08-15-europes-shadow-war-leaves-us-behind.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-15T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-defiant-on-strait-as-trump-tells-americans-to-accept-high-gas-prices/articleshow/133256504.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-15T05:20:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Fergie Chambers: The Dublin-based communist millionaire in the Trump administration’s crosshairs",
+      "url": "https://www.irishtimes.com/life-style/people/2026/08/15/fergie-chambers-the-communist-multimillionaire-in-the-trump-administrations-crosshairs/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-15T05:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "South Korea president proposes talks with North to formally end Korean War",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-propose-talks-north-end-korean-war-6321036",
+      "source": "CNA",
+      "publishedAt": "2026-08-15T04:24:53Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "South Korea's Lee urges talks with North Korea to replace armistice with peace",
+      "url": "https://www.yahoo.com/news/articles/south-koreas-lee-says-mechanisms-015649349.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-15T02:46:42Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "GENERAL SIR RICHARD SHIRREFF: Why I believe this charming Arctic island is where Putin could start WWIII",
       "url": "https://www.dailymail.com/debate/article-16053541/GENERAL-SIR-RICHARD-SHIRREFF-believe-charming-Arctic-island-Putin-start-WWIII.html",
@@ -83,14 +147,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "One year on, did Alaska change anything for Ukraine?",
-      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0814/1587931-alaska-ukraine-analysis/",
-      "source": "RTE",
-      "publishedAt": "2026-08-14T14:34:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-traffic-slows-further-after-us-threatens-more-economic-pressure-on-iran/articleshow/133244610.cms",
       "source": "The Times of India",
@@ -107,28 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "NATO shoots down drone in Latvian airspace",
-      "url": "https://www.rte.ie/news/world/2026/0814/1587924-nato-latvia-drones/",
-      "source": "RTE",
-      "publishedAt": "2026-08-14T14:05:54Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran’s Economy Is Buckling Under the Weight of War",
       "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Economy-Is-Buckling-Under-the-Weight-of-War.html",
       "source": "OilPrice.com",
       "publishedAt": "2026-08-14T14:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "FO Live: Making Sense of NATO’s Future",
-      "url": "https://www.fairobserver.com/world-news/fo-live-making-sense-of-natos-future/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-08-14T13:44:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iranians Struggle to Afford Groceries as Trump Squeezes Economy",
@@ -143,14 +183,6 @@
       "url": "https://timesofindia.indiatimes.com/science/in-1968-eleven-mouflon-sheep-were-released-on-hawaii-for-trophy-hunting-within-36-years-more-than-2500-were-trampling-and-stripping-native-forests/articleshow/133235152.cms",
       "source": "The Times of India",
       "publishedAt": "2026-08-14T13:21:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
-      "url": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-14T12:45:11Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

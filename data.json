@@ -1,14 +1,182 @@
 {
-  "updated": "2026-08-16T06:36:14Z",
-  "count": 27,
+  "updated": "2026-08-16T12:34:42Z",
+  "count": 34,
   "articles": [
     {
-      "title": "Lebanon state media says Israeli strike on south kills 7",
-      "url": "https://www.rte.ie/news/2026/0815/1587980-lebanon-israel-strikes/",
-      "source": "RTE",
-      "publishedAt": "2026-08-15T06:35:06Z",
+      "title": "Lebanon Says At Least 9 People Killed In Israeli Strikes",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260815-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-08-15T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "South Korean Leader Pledges to Replace Unstable Armistice With North Korea With Peace",
+      "url": "https://www.globalsecurity.org/wmd/library/news/rok/2026/rok-260815-sputnik01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-08-15T12:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo",
+      "source": "BBC News",
+      "publishedAt": "2026-08-15T11:24:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran rebuffs Trump's claim over Strait of Hormuz amid report of another ship being struck",
+      "url": "https://www.cnbc.com/2026/08/15/iran-rebuffs-trumps-claim-over-hormuz-amid-report-of-ship-strike.html",
+      "source": "CNBC",
+      "publishedAt": "2026-08-15T11:00:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 8/15/2026",
+      "url": "https://www.nakedcapitalism.com/2026/08/links-8-15-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-08-15T10:55:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes kill nine in south Lebanon, state news reports​",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/israeli-strikes-kill-nine-in-south-lebanon-state-news-reports/articleshow/133260847.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-15T10:53:40Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
+    },
+    {
+      "title": "South Korea proposes talks with North to end Korean war",
+      "url": "https://www.rte.ie/news/world/2026/0815/1588005-korea-war/",
+      "source": "RTE",
+      "publishedAt": "2026-08-15T10:38:46Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Lebanon says 9 dead in strikes as Israel says targeted Hezbollah",
+      "url": "https://biztoc.com/x/bc8b1ad418e4c7d5",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-15T10:36:11Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Factory to front lines: A Western spy drone’s journey to war in Ukraine",
+      "url": "https://www.businessinsider.com/western-spy-drones-journey-from-factory-to-ukraine-war-2026-8#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-15T10:00:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "One year on, did Alaska change anything for Ukraine?",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0815/1587931-alaska-ukraine-analysis/",
+      "source": "RTE",
+      "publishedAt": "2026-08-15T09:45:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "South Korea proposes talks to officially end war with North",
+      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo",
+      "source": "BBC News",
+      "publishedAt": "2026-08-15T09:35:23Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran defiant on Strait of Hormuz as Trump tells Americans to accept high fuel prices",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/08/15/iran-defiant-on-strait-of-hormuz-as-trump-tells-americans-to-accept-high-fuel-prices/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-15T08:43:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "South Korean Leader Pledges to Replace Unstable Armistice With North Korea With Peace",
+      "url": "https://sputnikglobe.com/20260815/south-korean-leader-pledges-to-replace-unstable-armistice-with-north-korea-with-peace-1124581693.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-08-15T08:39:42Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Man allegedly kills mother-in-law after family dispute in Rajasthan, flees",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/man-allegedly-kills-mother-in-law-after-family-dispute-in-rajasthan-flees/articleshow/133258896.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-15T08:28:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran halts negotiations, threatens to strike Israel after Dahiyeh attacks",
+      "url": "https://cryptobriefing.com/iran-halts-negotiations-threatens-israel/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-15T08:15:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran calls on US to accept defeat over Strait of Hormuz",
+      "url": "https://www.rte.ie/news/2026/0815/1587983-iran-us-war/",
+      "source": "RTE",
+      "publishedAt": "2026-08-15T07:46:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says brace for fuel price rise amid Iran deadlock",
+      "url": "https://www.rte.ie/news/middle-east/2026/0815/1587983-iran-us-war/",
+      "source": "RTE",
+      "publishedAt": "2026-08-15T07:46:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Deadly Israeli strikes hit southern Lebanon despite ceasefire",
+      "url": "https://www.hurriyetdailynews.com/deadly-israeli-strikes-hit-southern-lebanon-despite-ceasefire-225649",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-08-15T07:35:42Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli strike kills 7 in Lebanon, and other news from the Middle East",
+      "url": "https://apnews.com/article/iran-israel-lebanon-uae-us-hormuz-august-15-2026-ba738b9fb8803f28313a19df8bbcac19",
+      "source": "Associated Press",
+      "publishedAt": "2026-08-15T07:31:45Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "China's new solar plant made with 15,927 mirrors will power 50,000 homes while saving 60,000 tons of coal annually",
+      "url": "https://timesofindia.indiatimes.com/world/china/china-completes-installation-of-15927-mirrors-concentrating-heat-at-1040-f-at-worlds-highest-solar-thermal-plant-will-power-50000-homes-while-saving-60000-tons-of-coal-annually/articleshow/133258203.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-15T07:24:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
+      "url": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-15T07:18:13Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "S’Korea president proposes talks with North to formally end Korean War",
+      "url": "https://www.vanguardngr.com/2026/08/skorea-president-proposes-talks-with-north-to-formally-end-korean-war/",
+      "source": "Vanguard",
+      "publishedAt": "2026-08-15T06:53:56Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "South Korea president proposes talks with North to end Korean War",
@@ -33,14 +201,6 @@
       "publishedAt": "2026-08-15T06:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-defiant-on-strait-as-trump-tells-americans-to-accept-high-gas-prices/articleshow/133256504.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-15T05:20:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Fergie Chambers: The Dublin-based communist millionaire in the Trump administration’s crosshairs",
@@ -87,38 +247,6 @@
       "url": "https://www.rt.com/news/644258-rt-top-stories-ukraine-russia/",
       "source": "RT",
       "publishedAt": "2026-08-14T22:51:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "FBI “Cover Up”, Another Scandal? Joe Biden Crime Family Dealings in Ukraine Categorized as Evil “Russian Disinformation”",
-      "url": "https://www.globalresearch.ca/fbi-cover-up-another-scandal-joe-biden-crime-family-dealings-in-ukraine-categorized-as-evil-russian-disinformation/5936815",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-14T22:46:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Donald Trump to declare Hormuz US territory 'soon'",
-      "url": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755",
-      "source": "DW (English)",
-      "publishedAt": "2026-08-14T22:14:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-      "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-14T21:50:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Italian NATO fighter jet shoots down drone in Latvian airspace",
-      "url": "https://economictimes.indiatimes.com/news/defence/italian-nato-fighter-jet-shoots-down-drone-in-latvian-airspace/articleshow/133251344.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-14T19:52:58Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -127,8 +255,8 @@
       "url": "https://www.activistpost.com/the-shadow-government-steering-americas-iran-war/",
       "source": "Activistpost.com",
       "publishedAt": "2026-08-14T19:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "The US Navy’s Aircraft Carrier Troubles Can’t Be Fixed Quickly Enough",
@@ -139,82 +267,10 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Russian drones kill woman, 9-year-old son at home as Ukrainian civilian casualties surge",
-      "url": "https://economictimes.indiatimes.com/news/defence/russian-drones-kill-woman-9-year-old-son-at-home-as-ukrainian-civilian-casualties-surge/articleshow/133244925.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-14T14:48:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-traffic-slows-further-after-us-threatens-more-economic-pressure-on-iran/articleshow/133244610.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-14T14:33:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran War: Mixed Signals on US Resuming Kinetic Action as Iran Moves to Offensive Stance; Flight from Israel Accelerating",
-      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-mixed-signals-on-us-resuming-kinetic-action-as-iran-moves-to-offensive-stance-flight-from-israel-accelerating.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-14T14:16:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s Economy Is Buckling Under the Weight of War",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Economy-Is-Buckling-Under-the-Weight-of-War.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-08-14T14:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranians Struggle to Afford Groceries as Trump Squeezes Economy",
-      "url": "https://military.com/iranians-struggle-to-afford-groceries-as-trump-squeezes-economy",
-      "source": "Military.com",
-      "publishedAt": "2026-08-14T13:43:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "In 1968, mouflon sheep were released on Hawaii for trophy hunting; within 36 years, more than 2,500 were trampling and stripping native forests",
-      "url": "https://timesofindia.indiatimes.com/science/in-1968-eleven-mouflon-sheep-were-released-on-hawaii-for-trophy-hunting-within-36-years-more-than-2500-were-trampling-and-stripping-native-forests/articleshow/133235152.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-14T13:21:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea slams US-South Korea military drills and threatens strong response",
       "url": "https://abcnews.com/International/wireStory/north-korea-slams-us-south-korea-military-drills-135629562",
       "source": "Abcnews.com",
       "publishedAt": "2026-08-14T06:41:03Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Why is North Korea ramping up criticism of Japan?",
-      "url": "https://economictimes.indiatimes.com/news/defence/why-is-north-korea-ramping-up-criticism-of-japan/articleshow/133230721.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-14T06:29:04Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "N. Korea warn of new 'deterrent' ahead of US-South drills",
-      "url": "https://www.rte.ie/news/world/2026/0814/1587828-korea-us-world/",
-      "source": "RTE",
-      "publishedAt": "2026-08-14T04:20:07Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea slams US-South Korea drills, threatens self-defence action",
-      "url": "https://www.business-standard.com/world-news/north-korea-slams-us-south-korea-drills-threatens-self-defence-action-126081400069_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-08-14T03:43:45Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

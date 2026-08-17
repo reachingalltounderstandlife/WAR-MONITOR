@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-16T18:25:31Z",
-  "count": 35,
+  "updated": "2026-08-17T01:08:51Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "Russian ballistic missiles strike Kyiv, escalating Ukraine conflict",
+      "url": "https://cryptobriefing.com/russian-ballistic-missiles-strike-kyiv-escalating-ukraine-conflict/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-16T00:41:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran says Qatar holding 3 missing pilots; Doha dismisses claims",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-qatar-holding-3-missing-pilots-doha-dismisses-claims/articleshow/133268628.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-16T00:38:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "South Korea proposes dialogue to end war with North Korea",
+      "url": "https://www.rt.com/news/644294-south-korea-proposes-dialogue-to/",
+      "source": "RT",
+      "publishedAt": "2026-08-15T23:58:54Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israeli Strikes Leave 11 Dead In Lebanon, Including Three Children",
+      "url": "https://www.theamericanconservative.com/israeli-strikes-leave-11-dead-in-lebanon-including-three-children/",
+      "source": "The American Conservative",
+      "publishedAt": "2026-08-15T21:50:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hormuz Ship Attacks Mount As US Vows To Cripple Iran Economy",
+      "url": "https://gcaptain.com/hormuz-ship-attacks-mount-as-us-vows-to-cripple-iran-economy/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-08-15T21:38:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes in southern Lebanon kill at least 11",
+      "url": "https://biztoc.com/x/0dfcb5b02c0eb35d",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-08-15T20:09:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel says it killed Hezbollah commander in strike that left children dead",
+      "url": "https://www.abc.net.au/news/2026-08-16/israel-says-it-killed-hezbollah-commander-in-lebanon-strike/107042916",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-08-15T19:53:52Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "$275 million lost: Thousands of Americans targeted in real estate frauds in 2025",
       "url": "https://timesofindia.indiatimes.com/real-estate/news/275-million-lost-thousands-of-americans-targeted-in-real-estate-frauds/articleshow/133266982.cms",
@@ -67,44 +123,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Israeli strikes kill 11 in Lebanon two months into truce",
-      "url": "https://cryptobriefing.com/israeli-strikes-kill-11-lebanon-truce/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-15T16:42:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
-      "url": "https://abcnews.com/International/wireStory/israeli-airstrikes-southern-lebanon-kill-11-people-test-135667085",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-08-15T16:28:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli Airstrikes On Southern Lebanon Kill 11 People",
-      "url": "https://www.huffpost.com/entry/israeli-airstrikes-southern-lebanon-kill-11-people_n_6a809199e4b0ddd9c1b2211a",
-      "source": "HuffPost",
-      "publishedAt": "2026-08-15T16:27:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "US-Türkiye arms transfer to Ukraine ‘undermines trust’ – Moscow",
       "url": "https://www.rt.com/russia/644287-us-turkiye-arms-transfer-to-ukraine/",
       "source": "RT",
       "publishedAt": "2026-08-15T16:27:12Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran says Qatar is holding pilots, Israeli strikes kill 9 in Lebanon, and other Middle East news",
-      "url": "https://abcnews.com/International/wireStory/iran-qatar-holding-pilots-israeli-strikes-kill-9-135667602",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-08-15T16:26:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Israel Strikes Hezbollah Terror Targets in Southern Lebanon After Troops Attacked",
@@ -143,14 +167,6 @@
       "url": "https://fortune.com/2026/08/15/iran-oman-hormuz-strait-deal-shipping-map-routes-attacks/",
       "source": "Fortune",
       "publishedAt": "2026-08-15T15:16:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon reports 11 dead in strikes that Israel says targeted Hezbollah",
-      "url": "https://www.channelnewsasia.com/world/lebanon-reports-11-dead-in-strikes-israel-says-targeted-hezbollah-6321486",
-      "source": "CNA",
-      "publishedAt": "2026-08-15T14:34:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -249,38 +265,6 @@
       "publishedAt": "2026-08-15T05:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "South Korea president proposes talks with North to formally end Korean War",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-propose-talks-north-end-korean-war-6321036",
-      "source": "CNA",
-      "publishedAt": "2026-08-15T04:24:53Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "GENERAL SIR RICHARD SHIRREFF: Why I believe this charming Arctic island is where Putin could start WWIII",
-      "url": "https://www.dailymail.com/debate/article-16053541/GENERAL-SIR-RICHARD-SHIRREFF-believe-charming-Arctic-island-Putin-start-WWIII.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-15T00:00:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Shadow Government Steering America’s Iran War",
-      "url": "https://www.activistpost.com/the-shadow-government-steering-americas-iran-war/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-08-14T19:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The US Navy’s Aircraft Carrier Troubles Can’t Be Fixed Quickly Enough",
-      "url": "https://www.forbes.com/sites/petersuciu/2026/08/14/the-us-navys-aircraft-carrier-troubles-cant-be-fixed-quickly-enough/",
-      "source": "Forbes",
-      "publishedAt": "2026-08-14T17:48:48Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
     }
   ]
 }

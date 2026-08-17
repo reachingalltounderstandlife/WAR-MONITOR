@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-17T12:39:24Z",
-  "count": 33,
+  "updated": "2026-08-17T18:36:06Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Top US Commander Visits Aircraft Carrier, Gaza Talks in Egypt and Other Mideast News",
+      "url": "https://military.com/top-us-commander-visits-aircraft-carrier-gaza-talks-in-egypt-and-other-mideast-news",
+      "source": "Military.com",
+      "publishedAt": "2026-08-16T17:45:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Top US Commander Visits Long-Deployed USS Lincoln Amid Reports Of Poor Conditions",
+      "url": "https://www.huffpost.com/entry/ap-ml-mideast_n_6a81d2c9e4b05886dff52d55",
+      "source": "HuffPost",
+      "publishedAt": "2026-08-16T15:42:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Massive’ Ukrainian drone attack on Russia kills at least six, says Moscow",
+      "url": "https://www.irishtimes.com/world/europe/2026/08/16/massive-ukrainian-drone-attack-on-russia-kills-at-least-six-says-moscow/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-16T15:17:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "(VIDEO) Ukraine Launches Massive Drone Attack On Russia, Hitting Moscow Region Warehouses, Killing At Least 6",
+      "url": "https://www.ibtimes.com.au/ukraine-drone-assault-russia-escalating-conflict-1874132",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-08-16T14:33:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Centcom chief calls carrier’s mission ‘one of the most operationally intense and consequential of the modern era’ amid mental health and supply issues",
+      "url": "https://fortune.com/2026/08/16/centcom-chief-brad-cooper-abraham-lincoln-aircraft-carrier-deployment-mental-health-supply-issues/",
+      "source": "Fortune",
+      "publishedAt": "2026-08-16T14:21:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US mulls copying Russia’s air defense tech – Military Watch",
+      "url": "https://www.rt.com/news/644303-us-russia-s-400-radar/",
+      "source": "RT",
+      "publishedAt": "2026-08-16T14:14:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A New Game of Monopoly: Middle Eastern Pipelines Cannot Replace the Strait of Hormuz",
+      "url": "https://www.fairobserver.com/economics/a-new-game-of-monopoly-middle-eastern-pipelines-cannot-replace-the-strait-of-hormuz/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-08-16T13:06:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Russia, Ukraine Trade Major Overnight Air Attacks, At Least 11 Killed",
       "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/08/ukraine-260816-rferl02.htm",
@@ -91,44 +147,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "The US Is Implementing The NATO 3.0 Concept In Asia Through AUKUS+",
-      "url": "https://www.nakedcapitalism.com/2026/08/the-us-is-implementing-the-nato-3-0-concept-in-asia-through-aukus.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-16T10:00:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "US top Middle East commander visits deployed aircraft carrier, and other Mideast news",
       "url": "https://abcnews.com/International/wireStory/us-top-middle-east-commander-visits-deployed-aircraft-135684259",
       "source": "Abcnews.com",
       "publishedAt": "2026-08-16T09:03:10Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Iran accuses Qatar of thwarting probe into fate of pilots",
-      "url": "https://www.channelnewsasia.com/world/iran-accuse-qatar-probe-pilots-war-6322221",
-      "source": "CNA",
-      "publishedAt": "2026-08-16T08:56:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Moment apocalyptic fire engulfs huge 'Russian Amazon' warehouse near Moscow after Ukrainian attack - as British-made drones used for 'deep strikes' on mainland for the first time",
-      "url": "https://www.dailymail.com/news/article-16056105/Fire-engulfs-Russian-Amazon-warehouse-Moscow.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-16T08:36:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine Exposed Weakness In Russia's War Machine. Can Moscow Still Claim Military Superpower Status?",
-      "url": "https://www.rferl.org/a/war-russia-ukraine-degraded-superpower-struggles/33829865.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-08-16T07:14:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "UGC NET June 2026 answer key today at ugcnet.nta.nic.in: Check response sheet and objection window details",
@@ -171,14 +195,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Iran war: Qatar denies holding missing Iranian fighter pilots",
-      "url": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015",
-      "source": "DW (English)",
-      "publishedAt": "2026-08-16T01:38:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Taiwan detects 11 Chinese aircraft, eight naval vessels operating near its territory",
       "url": "https://economictimes.indiatimes.com/news/defence/taiwan-detects-11-chinese-aircraft-eight-naval-vessels-operating-near-its-territory/articleshow/133268729.cms",
       "source": "The Times of India",
@@ -191,8 +207,8 @@
       "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-qatar-holding-3-missing-pilots-doha-dismisses-claims/articleshow/133268628.cms",
       "source": "The Times of India",
       "publishedAt": "2026-08-16T00:38:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "South Korea proposes dialogue to end war with North Korea",
@@ -207,30 +223,6 @@
       "url": "https://www.theamericanconservative.com/israeli-strikes-leave-11-dead-in-lebanon-including-three-children/",
       "source": "The American Conservative",
       "publishedAt": "2026-08-15T21:50:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hormuz Ship Attacks Mount As US Vows To Cripple Iran Economy",
-      "url": "https://gcaptain.com/hormuz-ship-attacks-mount-as-us-vows-to-cripple-iran-economy/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-08-15T21:38:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli strikes in southern Lebanon kill at least 11",
-      "url": "https://biztoc.com/x/0dfcb5b02c0eb35d",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-15T20:09:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel says it killed Hezbollah commander in strike that left children dead",
-      "url": "https://www.abc.net.au/news/2026-08-16/israel-says-it-killed-hezbollah-commander-in-lebanon-strike/107042916",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-08-15T19:53:52Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

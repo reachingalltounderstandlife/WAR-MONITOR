@@ -1,20 +1,132 @@
 {
-  "updated": "2026-08-17T06:51:10Z",
-  "count": 35,
+  "updated": "2026-08-17T12:39:24Z",
+  "count": 33,
   "articles": [
     {
-      "title": "Abolishing Atomic Arms Can Avert War That Kills Billions, Experts Say",
-      "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/08/16/abolishing-atomic-arms-can-avert-war-that-kills-billions-experts-say/",
-      "source": "Forbes",
-      "publishedAt": "2026-08-16T04:21:38Z",
+      "title": "Russia, Ukraine Trade Major Overnight Air Attacks, At Least 11 Killed",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/08/ukraine-260816-rferl02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-08-16T12:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Romanian F-16s shoot down drones violating NATO airspace near Black Sea",
-      "url": "https://cryptobriefing.com/romanian-f16s-shoot-down-drones-nato-airspace/",
+      "title": "Ukraine Exposed Weakness In Russia's War Machine. Can Moscow Still Claim Military Superpower Status?",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/08/ukraine-260816-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-08-16T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Sunday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/08/16/sunday-hili-dialogue-599/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-08-16T11:45:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Georgia Was Not the Beginning",
+      "url": "https://freerepublic.com/focus/f-news/4391989/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-08-16T11:42:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli forces launch air, artillery, and phosphorus attacks on southern Lebanon",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260816-irna01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-08-16T11:39:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Why a new Western training program for Ukrainian soldiers skips drone piloting and electronic warfare lessons",
+      "url": "https://www.businessinsider.com/western-training-ukraine-troops-not-drone-pilot-skills-good-already-2026-8#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-16T11:29:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine Launches One of Its Largest Aerial Attacks of War, Killing at Least Six in Russia",
+      "url": "https://www.breitbart.com/europe/2026/08/16/ukraine-launches-one-of-its-largest-aerial-attacks-of-war-killing-at-least-six-in-russia/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-08-16T11:05:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+      "url": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-16T10:59:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine launches one of its largest attacks of war",
+      "url": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-16T10:59:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 8/16/2026",
+      "url": "https://www.nakedcapitalism.com/2026/08/links-8-16-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-08-16T10:55:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel’s economy rebounds in Q2 after contraction from Iran war",
+      "url": "https://cryptobriefing.com/israel-economy-rebounds-q2-iran-war/",
       "source": "Crypto Briefing",
-      "publishedAt": "2026-08-16T03:33:11Z",
+      "publishedAt": "2026-08-16T10:22:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The US Is Implementing The NATO 3.0 Concept In Asia Through AUKUS+",
+      "url": "https://www.nakedcapitalism.com/2026/08/the-us-is-implementing-the-nato-3-0-concept-in-asia-through-aukus.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-08-16T10:00:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US top Middle East commander visits deployed aircraft carrier, and other Mideast news",
+      "url": "https://abcnews.com/International/wireStory/us-top-middle-east-commander-visits-deployed-aircraft-135684259",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-16T09:03:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran accuses Qatar of thwarting probe into fate of pilots",
+      "url": "https://www.channelnewsasia.com/world/iran-accuse-qatar-probe-pilots-war-6322221",
+      "source": "CNA",
+      "publishedAt": "2026-08-16T08:56:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Moment apocalyptic fire engulfs huge 'Russian Amazon' warehouse near Moscow after Ukrainian attack - as British-made drones used for 'deep strikes' on mainland for the first time",
+      "url": "https://www.dailymail.com/news/article-16056105/Fire-engulfs-Russian-Amazon-warehouse-Moscow.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-16T08:36:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine Exposed Weakness In Russia's War Machine. Can Moscow Still Claim Military Superpower Status?",
+      "url": "https://www.rferl.org/a/war-russia-ukraine-degraded-superpower-struggles/33829865.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-08-16T07:14:13Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -75,14 +187,6 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Russian ballistic missiles strike Kyiv, escalating Ukraine conflict",
-      "url": "https://cryptobriefing.com/russian-ballistic-missiles-strike-kyiv-escalating-ukraine-conflict/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-16T00:41:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran says Qatar holding 3 missing pilots; Doha dismisses claims",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-qatar-holding-3-missing-pilots-doha-dismisses-claims/articleshow/133268628.cms",
       "source": "The Times of India",
@@ -111,8 +215,8 @@
       "url": "https://gcaptain.com/hormuz-ship-attacks-mount-as-us-vows-to-cripple-iran-economy/",
       "source": "gcaptain.com",
       "publishedAt": "2026-08-15T21:38:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israeli strikes in southern Lebanon kill at least 11",
@@ -139,100 +243,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Ukraine and Poland Need to Reconcile Their Looming Histories",
-      "url": "https://www.fairobserver.com/region/europe/ukraine-and-poland-need-to-reconcile-their-looming-histories/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-08-15T18:01:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Middle East Under Transactional Diplomacy",
-      "url": "https://www.fairobserver.com/world-news/middle-east-news/the-middle-east-under-transactional-diplomacy/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-08-15T17:49:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanon Calls Fatal Airstrikes by Israel a Message to US",
-      "url": "https://www.newser.com/story/394717/lebanon-calls-fatal-airstrikes-by-israel-a-message-to-us.html",
-      "source": "Newser",
-      "publishedAt": "2026-08-15T17:22:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'Halt This Escalation': Lebanese Prime Minister Condemns Israel's Latest Deadly Bombings",
-      "url": "https://www.commondreams.org/news/lebanon-israel-bombing",
-      "source": "Common Dreams",
-      "publishedAt": "2026-08-15T17:16:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Three IDF soldiers injured by explosive drone in Lebanon",
-      "url": "https://www.israelnationalnews.com/news/431734",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-08-15T17:14:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "\"Hezbollah using its own civilians as human shields\": Netanyahu on several killed in Israeli airstrike in southern Lebanon",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/hezbollah-using-its-own-civilians-as-human-shields-netanyahu-on-several-killed-in-israeli-airstrike-in-southern-lebanon/articleshow/133266178.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-15T17:13:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran, Oman home in on Hormuz Strait deal as ship attacks mount",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-oman-home-in-on-hormuz-strait-deal-as-ship-attacks-mount/articleshow/133265965.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-15T16:57:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Türkiye arms transfer to Ukraine ‘undermines trust’ – Moscow",
-      "url": "https://www.rt.com/russia/644287-us-turkiye-arms-transfer-to-ukraine/",
-      "source": "RT",
-      "publishedAt": "2026-08-15T16:27:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel Strikes Hezbollah Terror Targets in Southern Lebanon After Troops Attacked",
-      "url": "https://legalinsurrection.com/2026/08/israel-strikes-hezbollah-terror-targets-in-southern-lebanon-after-troops-attacked/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-08-15T16:00:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump touts 'GREAT!' relationship with brutal dictator — 'despite the unfriendly look'",
       "url": "https://www.rawstory.com/trump-north-korea-2677711651/",
       "source": "Raw Story",
       "publishedAt": "2026-08-15T16:00:13Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Lebanon says 11 killed in Israeli airstrikes",
-      "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713",
-      "source": "DW (English)",
-      "publishedAt": "2026-08-15T15:35:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Eleven dead as Israel strikes Lebanon in deadliest attack since truce in June",
-      "url": "https://www.thejournal.ie/israel-strikes-lebanon-7132239-Aug2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-08-15T15:20:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "South Korean Leader Pledges to Replace Unstable Armistice With North Korea With Peace",
@@ -243,44 +259,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Links 8/15/2026",
-      "url": "https://www.nakedcapitalism.com/2026/08/links-8-15-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-15T10:55:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "South Korea proposes talks with North to end Korean war",
       "url": "https://www.rte.ie/news/world/2026/0815/1588005-korea-war/",
       "source": "RTE",
       "publishedAt": "2026-08-15T10:38:46Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Factory to front lines: A Western spy drone’s journey to war in Ukraine",
-      "url": "https://www.businessinsider.com/western-spy-drones-journey-from-factory-to-ukraine-war-2026-8#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-15T10:00:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "One year on, did Alaska change anything for Ukraine?",
-      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0815/1587931-alaska-ukraine-analysis/",
-      "source": "RTE",
-      "publishedAt": "2026-08-15T09:45:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraineâs massive drone assault on Novorossiysk shuts down major grain terminals, defying U.S. warnings",
-      "url": "https://www.naturalnews.com/2026-08-15-ukraines-drone-assault-novorossiysk-shuts-down-grain-terminals.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-15T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

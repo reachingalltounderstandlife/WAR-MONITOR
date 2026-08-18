@@ -1,14 +1,222 @@
 {
-  "updated": "2026-08-18T12:40:48Z",
-  "count": 33,
+  "updated": "2026-08-18T18:34:49Z",
+  "count": 39,
   "articles": [
     {
-      "title": "Trump scales down war games with South Korea: Why it matters",
-      "url": "https://www.aljazeera.com/news/2026/8/17/trump-scales-down-war-games-with-south-korea-why-it-matters",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-17T12:20:47Z",
+      "title": "Trump says North Korea's Kim has responded to his overtures",
+      "url": "https://www.yahoo.com/news/articles/trump-says-north-koreas-kim-181853915.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-17T18:21:25Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump Just Took a Wild Stance on North Korea",
+      "url": "https://slate.com/news-and-politics/2026/08/trump-south-korea-north-korea-kim-jong-un-iran-war.html",
+      "source": "Slate Magazine",
+      "publishedAt": "2026-08-17T18:14:11Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump Turns Over U.S. Foreign Policy To North Korea",
+      "url": "https://crooksandliars.com/2026/08/trump-turns-over-us-foreign-policy-north",
+      "source": "Crooksandliars.com",
+      "publishedAt": "2026-08-17T17:53:13Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Russia warns UK will ‘pay the price’ over drones used in Ukrainian strikes",
+      "url": "https://www.rt.com/russia/644340-russia-uk-drone-warning/",
+      "source": "RT",
+      "publishedAt": "2026-08-17T17:30:57Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Has Opened the Door for Putin to Make a Move on NATO",
+      "url": "http://www.rollingstone.com/politics/politics-features/trump-opened-door-putin-move-nato-1235610069/",
+      "source": "Rolling Stone",
+      "publishedAt": "2026-08-17T17:30:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s Exercise Cut Risks Turning South Korea-US Alliance Readiness Into a Bargaining Chip",
+      "url": "https://thediplomat.com/2026/08/trumps-exercise-cut-risks-turning-south-korea-us-alliance-readiness-into-a-bargaining-chip/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-08-17T17:22:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "How Kim Jong Un circumvented sanctions and funneled up to $22 billion into Pyongyang’s coffers",
+      "url": "https://en.protothema.gr/2026/08/17/how-kim-jong-un-circumvented-sanctions-and-funneled-up-to-22-billion-into-pyongyangs-coffers/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-08-17T17:02:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump Threatens to Bomb US Ally Oman as Iran Deadline Expires While Kushner Presses Netanyahu on Gaza Plan",
+      "url": "https://www.ibtimes.com.au/trump-threatens-oman-iran-peace-talks-expire-1874222",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-08-17T16:55:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin to attack NATO? Russia builds 10 secret drone bases with 59 launch rails as US intelligence warns Kremlin may test alliance with a limited strike",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/putin-to-attack-nato-russia-builds-10-secret-drone-bases-with-59-launch-rails-as-us-intelligence-warns-kremlin-may-test-alliance-with-a-limited-strike/articleshow/133301914.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-17T16:47:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli minister calls for 30-40 ‘targeted assassinations’ in Gaza per night",
+      "url": "https://www.rt.com/news/644337-israel-ben-gvir-30-40-assassinations-gaza/",
+      "source": "RT",
+      "publishedAt": "2026-08-17T16:35:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Donald Trump says he is in no hurry to end war with Iran",
+      "url": "https://cryptobriefing.com/trump-no-hurry-end-iran-war/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-17T16:25:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
+      "url": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-17T16:14:07Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Ukraine Has Shattered the Myth of Russian Military Might",
+      "url": "https://oilprice.com/Geopolitics/Europe/Ukraine-Has-Shattered-the-Myth-of-Russian-Military-Might.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-08-17T16:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Top Russian banker is fired after warning Putin was leading country into 'social crisis' amid 'war of attrition' with Ukraine",
+      "url": "https://www.dailymail.com/news/article-16058687/Top-Russian-banker-fired-warning-Putin-leading-country-social-crisis-amid-war-attrition-Ukraine.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-17T15:07:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump scales back US-South Korea drills, cites 'very good' ties with Kim Jong Un",
+      "url": "https://abcnews.com/International/trump-scales-back-us-south-korea-drills-cites/story?id=135700334",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-17T14:42:04Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump threatens to bomb Oman if it 'gets in the way' over Iran issue",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo",
+      "source": "BBC News",
+      "publishedAt": "2026-08-17T14:36:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
+      "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-17T14:15:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Orders Reduced South Korea Military Exercises, Citing Friendship with Kim Jong-un",
+      "url": "https://www.breitbart.com/asia/2026/08/17/trump-orders-reduced-south-korea-military-exercises-citing-friendship-with-kim-jong-un/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-08-17T14:13:20Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The Syntax of Erasure: How Western Media Discredits the Gaza Death Toll",
+      "url": "https://www.fairobserver.com/region/middle_east_north_africa/the-syntax-of-erasure-how-western-media-discredits-the-gaza-death-toll/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-08-17T14:08:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Troops appear to viciously mock Trump with scrawled barbs on plane in wild alleged photo",
+      "url": "https://www.rawstory.com/trump-iran-2677715150/",
+      "source": "Raw Story",
+      "publishedAt": "2026-08-17T13:49:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump hails Mecca pact: Can it replace the region’s US security umbrella?",
+      "url": "https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-17T13:48:09Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Could Putin really fire long-range drones into Nato territory? Experts warn dictator 'clearly' has the means - but alliance response would overwhelm Russian military",
+      "url": "https://www.dailymail.com/news/article-16057625/Could-Putin-really-fire-long-range-drones-Nato-territory-Experts-warn-dictator-clearly-means-alliance-response-overwhelm-Russian-military.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-17T13:46:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian Strikes Driving Ukraine’s Military Industry Into Systemic Crisis",
+      "url": "https://sputnikglobe.com/20260817/russian-strikes-driving-ukraines-military-industry-into-systemic-crisis-1124593277.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-08-17T13:43:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Indonesia neutrality tested by joint naval drill with China",
+      "url": "https://www.dw.com/en/indonesia-neutrality-tested-by-joint-naval-drill-with-china/a-78400288",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-17T13:37:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Trump Hands North Korea’s Kim Jong Un a Massive Gift",
+      "url": "https://newrepublic.com/post/214399/trump-north-korea-kim-jong-un-south-korea",
+      "source": "The New Republic",
+      "publishedAt": "2026-08-17T13:05:47Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Empire Envy and Forked Tongues: How Washington Talks Itself Into War — Part 1",
+      "url": "https://www.fairobserver.com/outside-the-box/empire-envy-and-forked-tongues-how-washington-talks-itself-into-war-part-1/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-08-17T13:02:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "WSJ : Iran Has Spent 2 Months Preparing for a Bigger Fight",
+      "url": "https://www.newser.com/story/394755/in-iran-theres-a-sense-main-war-has-not-begun.html",
+      "source": "Newser",
+      "publishedAt": "2026-08-17T12:47:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
@@ -27,148 +235,28 @@
       "_label": "Iran War"
     },
     {
-      "title": "Russian Strikes Driving Ukraine's Military Industry Into Systemic Crisis",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/08/ukraine-260817-sputnik01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-08-17T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Day 1,636 of WW3: Ukraine may be able to strike Russia with domestically-produced ballistic missiles in three to six months; and Russia strikes a steel plant and ... and a stall selling antiquarian books. This is your Monday Ukraine war thread [News]",
-      "url": "https://www.fark.com/comments/14166196/Day-1636-of-WW3-Ukraine-may-be-able-to-strike-Russia-with-domestically-produced-ballistic-missiles-in-three-to-six-months-Russia-strikes-a-steel-plant-a-stall-selling-antiquarian-books-This-is-your-Monday-Ukraine-war-thread",
-      "source": "Fark.com",
-      "publishedAt": "2026-08-17T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Baltic Republics Foment Crises With Russia",
-      "url": "https://www.globalresearch.ca/baltic-republics-foment-crises-russia/5936862",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-17T11:52:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO’s Nightmare",
-      "url": "https://www.theatlantic.com/national-security/2026/08/nato-nightmare-joint-attack/688295/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-08-17T11:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "USS Lincoln crisis: How it compares to past aircraft carrier deployments",
-      "url": "https://www.aljazeera.com/news/2026/8/17/uss-lincoln-crisis-how-it-compares-to-past-aircraft-carrier-deployments",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-17T10:57:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran War: As MOU Expires, Iran and US Engage in Threat Display, With Iran Likely to Escalate Into Midterms; Energy and Commodity Supplies Continue to Deteriorate",
-      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-as-mou-expires-iran-and-us-engage-in-threat-display-with-iran-likely-to-escalate-into-midterms-energy-and-commodity-supplies-continue-to-deteriorate.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-17T10:54:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How Independent Is ‘Islamic NATO’?",
-      "url": "https://www.nakedcapitalism.com/2026/08/how-independent-is-islamic-nato.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-17T10:00:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia’s Strikes Break Ukraine’s Economic Backbone & Cripple Its War Machine - Expert",
-      "url": "https://sputnikglobe.com/20260817/russias-strikes-break-ukraines-economic-backbone--cripple-its-war-machine---expert-1124590492.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-08-17T09:50:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Mecca alliance between Turkey, Saudi Arabia and Pakistan creates new challenges for Greek foreign policy",
-      "url": "https://en.protothema.gr/2026/08/17/mecca-alliance-between-turkey-saudi-arabia-and-pakistan-creates-new-challenges-for-greek-foreign-policy/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-08-17T09:43:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Makes Big North Korean Policy Change via Whiny Post",
-      "url": "https://www.jezebel.com/trump-makes-big-north-korean-policy-change-via-whiny-post",
-      "source": "Jezebel",
-      "publishedAt": "2026-08-17T09:21:37Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "60-day deadline for Iran peace deal is expiring. Here's where things stand",
       "url": "https://www.business-standard.com/world-news/60-day-deadline-for-iran-peace-deal-is-expiring-here-s-where-things-stand-126081700633_1.html",
       "source": "Business Standard",
       "publishedAt": "2026-08-17T09:14:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump scales back military drills with South Korea, citing 'good relationship' with Kim Jong-un",
-      "url": "https://www.thejournal.ie/trump-scales-back-military-drills-with-south-korea-7133061-Aug2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-08-17T09:13:24Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The 60-day deadline for an Iran peace deal is expiring. Here's where things stand",
       "url": "https://economictimes.indiatimes.com/news/defence/the-60-day-deadline-for-an-iran-peace-deal-is-expiring-heres-where-things-stand/articleshow/133291930.cms",
       "source": "The Times of India",
       "publishedAt": "2026-08-17T09:09:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "War in Lebanon Escalates",
       "url": "https://www.rigzone.com/news/wire/war_in_lebanon_escalates-17-aug-2026-184384-article/",
       "source": "Rigzone",
       "publishedAt": "2026-08-17T08:17:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump has handed a gift to Kim Jong Un and deepened concerns over US reliability",
-      "url": "https://www.cnn.com/2026/08/17/asia/us-north-korea-military-exercises-trump-analysis-intl-hnk-ml",
-      "source": "CNN",
-      "publishedAt": "2026-08-17T07:53:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump orders cuts to joint US military drills with South Korea",
-      "url": "https://www.irishtimes.com/world/asia-pacific/2026/08/17/trump-orders-cuts-to-joint-us-military-drills-with-south-korea/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-08-17T06:46:36Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Ukraine Halts Missile Intercept Disclosures as Patriot Stocks Run Dry",
-      "url": "https://www.naturalnews.com/2026-08-17-ukraine-halts-missile-intercept-disclosures-patriots-dry.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-17T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Deadliest Lab on Earth: How AI Warfare Turns Human Lives Into Training Data",
-      "url": "https://www.naturalnews.com/2026-08-17-the-deadliest-lab-on-earth-ai-warfare.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-17T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Deadliest Israeli Strikes on Lebanon Since June Ceasefire Kill 11, Wound 19",
@@ -185,38 +273,6 @@
       "publishedAt": "2026-08-17T06:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Trump says US scaling back military drills with S Korea",
-      "url": "https://www.rte.ie/news/world/2026/0817/1588157-us-south-korea/",
-      "source": "RTE",
-      "publishedAt": "2026-08-17T05:58:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump says US scaling back military drills with Seoul hours before start",
-      "url": "https://www.hurriyetdailynews.com/trump-says-us-scaling-back-military-drills-with-seoul-hours-before-start-225710",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-08-17T05:50:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
-      "url": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
-      "source": "NPR",
-      "publishedAt": "2026-08-17T05:21:39Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump Scales Back Korea Military Drill Touting ‘Good Relationship’ With Kim Jong Un",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/08/17/trump-scales-back-korea-military-drill-touting-good-relationship-with-kim-jong-un/",
-      "source": "Forbes",
-      "publishedAt": "2026-08-17T04:40:34Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "Global Market Today: Asian shares mixed, dollar dips as Fed hike bets ease",
@@ -247,14 +303,6 @@
       "url": "https://www.business-standard.com/world-news/israel-strikes-lebanon-again-11-dead-iran-still-defiant-on-hormuz-control-126081700004_1.html",
       "source": "Business Standard",
       "publishedAt": "2026-08-16T18:40:44Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Top US Commander Visits Aircraft Carrier, Gaza Talks in Egypt and Other Mideast News",
-      "url": "https://military.com/top-us-commander-visits-aircraft-carrier-gaza-talks-in-egypt-and-other-mideast-news",
-      "source": "Military.com",
-      "publishedAt": "2026-08-16T17:45:24Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

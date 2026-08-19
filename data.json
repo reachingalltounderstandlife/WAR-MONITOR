@@ -1,7 +1,175 @@
 {
-  "updated": "2026-08-19T12:41:36Z",
-  "count": 36,
+  "updated": "2026-08-19T18:32:03Z",
+  "count": 38,
   "articles": [
+    {
+      "title": "Why Trump is mad at South Korea",
+      "url": "https://www.rt.com/news/644381-trump-mad-south-korea/",
+      "source": "RT",
+      "publishedAt": "2026-08-18T18:29:49Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "South Korea Wants Its Military Back",
+      "url": "https://www.motherjones.com/politics/2026/08/south-korea-wants-its-military-back/",
+      "source": "Mother Jones",
+      "publishedAt": "2026-08-18T17:53:53Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
+      "url": "https://www.aljazeera.com/features/2026/8/18/analysis-syrian-airbase-attack-is-an-israeli-message-to-damascus-ankara",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-18T17:51:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What Really Happens If China Wins the AI Race?",
+      "url": "https://www.theatlantic.com/technology/2026/08/what-if-china-wins-ai-race/688256/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-08-18T17:06:19Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Drills Cut By Trump Are Central To The US-South Korea Alliance",
+      "url": "https://www.huffpost.com/entry/drills-cut-trump-central-us-south-korea-alliance_n_6a848a2ee4b0ddd9c1b3c9cb",
+      "source": "HuffPost",
+      "publishedAt": "2026-08-18T16:45:25Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Talks to be held in Rome this week on future of UN forces",
+      "url": "https://www.rte.ie/news/world/2026/0818/1588404-unifil-talks/",
+      "source": "RTE",
+      "publishedAt": "2026-08-18T16:29:47Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "A NATO commander says training Ukrainian soldiers is showing his forces that skills neglected after the Cold War matter again",
+      "url": "https://www.businessinsider.com/ukraine-training-nato-partner-needs-electronic-warfare-cold-war-2026-8#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-18T16:20:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A NATO commander says training Ukrainian soldiers is showing his forces that skills neglected after the Cold War matter again",
+      "url": "https://www.businessinsider.com/ukraine-training-nato-partner-needs-electronic-warfare-cold-war-2026-8",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-18T16:20:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia reportedly rearming Iran via Caspian Sea with TNT, ammunition and drone components",
+      "url": "https://en.protothema.gr/2026/08/18/russia-reportedly-rearming-iran-via-caspian-sea-with-tnt-ammunition-and-drone-components/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-08-18T16:10:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How drones are taken down – from nets and metal cages to jammers",
+      "url": "https://theconversation.com/how-drones-are-taken-down-from-nets-and-metal-cages-to-jammers-289841",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-08-18T15:42:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Laura Shin interviews North Korean crypto hacker Justin Lim undercover",
+      "url": "https://cryptobriefing.com/laura-shin-north-korean-crypto-hacker-interview/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-18T15:34:03Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Pentagon evaluates reducing US military presence in Gulf after Iran war",
+      "url": "https://cryptobriefing.com/pentagon-reducing-gulf-military-presence-iran-war/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-18T15:22:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "S. Korea stresses US alliance amid confusion over Trump drill cut",
+      "url": "https://www.npr.org/2026/08/18/g-s1-139096/s-korea-stresses-us-alliance-amid-confusion-over-trump-drill-cut",
+      "source": "NPR",
+      "publishedAt": "2026-08-18T15:19:40Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "South Korean president jumps to invest in military after Trump cuts joint exercises",
+      "url": "https://www.foxnews.com/world/south-korean-president-jumps-invest-military-trump-cuts-joint-exercises",
+      "source": "Fox News",
+      "publishedAt": "2026-08-18T15:13:23Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "South Korea’s Nuclear Dilemma",
+      "url": "https://thediplomat.com/2026/08/south-koreas-nuclear-dilemma/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-08-18T15:01:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
+      "url": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-18T14:49:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Drills cut by Trump are central to the US-South Korea alliance",
+      "url": "https://abcnews.com/International/wireStory/drills-cut-trump-central-us-south-korea-alliance-135740428",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-18T14:35:22Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "New Poll: Voters Oppose Integrating Israeli Military into Pentagon",
+      "url": "https://www.commondreams.org/newswire/new-poll-voters-oppose-integrating-israeli-military-into-pentagon",
+      "source": "Common Dreams",
+      "publishedAt": "2026-08-18T14:31:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How the US Plays the Nuclear Wild Card to Extract Maximum Concessions",
+      "url": "https://www.globalresearch.ca/us-plays-nuclear-wild-card-extract-maximum-concessions/5937083",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-18T14:23:58Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "US Senate Sanctions Russia. Towards an Aggressive RussiaGate 2.0?",
+      "url": "https://www.globalresearch.ca/us-senate-sanctions-russia/5937042",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-18T13:57:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "House Democrat Cooks Up Damning New Title For Trump Over Latest 180",
+      "url": "https://www.huffpost.com/entry/mark-pocan-trump-man-child-south-korea-military-exercises_n_6a842b52e4b0b3bc96f82a31",
+      "source": "HuffPost",
+      "publishedAt": "2026-08-18T13:23:35Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "Qatar rejects Iran’s ‘false’ claims about missing pilots",
       "url": "https://www.aljazeera.com/news/2026/8/18/qatar-rejects-irans-false-claims-about-missing-pilots",
@@ -9,30 +177,6 @@
       "publishedAt": "2026-08-18T12:39:43Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "How Trump's Kim Jong Un Move Could Lead to Nuclear Breakthrough",
-      "url": "https://biztoc.com/x/75772961c97dc37f",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-18T12:38:52Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump's North Korea overture triggers fears for US alliances",
-      "url": "https://www.dw.com/en/trumps-north-korea-overture-triggers-fears-for-us-alliances/a-78413321",
-      "source": "DW (English)",
-      "publishedAt": "2026-08-18T12:37:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Will Trump's North Korea strategy hurt US allies?",
-      "url": "https://www.dw.com/en/trump-north-korea-kim-jong-un-south-korea-geopolitics-security-allies/a-78413321",
-      "source": "DW (English)",
-      "publishedAt": "2026-08-18T12:37:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "Tuesday: Hili dialogue",
@@ -83,34 +227,10 @@
       "_label": "Iran War"
     },
     {
-      "title": "South Korea President Stresses US Alliance as Many Baffled by Trump Order to Cut Exercises",
-      "url": "https://military.com/south-korea-president-stresses-us-alliance-as-many-baffled-by-trump-order-to-cut-exercises",
-      "source": "Military.com",
-      "publishedAt": "2026-08-18T11:11:24Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Iran War: Trump Threatens to Bomb Oman as Iran Attacks on Shipping Notch Up, WSJ Reports Planning for Bigger Escalation; Debate Over Covert Transits;",
       "url": "https://www.nakedcapitalism.com/2026/08/iran-war-trump-threatens-to-bomb-oman-as-iran-attacks-on-shipping-notch-up-wsj-reports-planning-for-bigger-escalation-debate-over-covert-transits.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-08-18T10:58:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Asian allies stress ‘critical cooperation’ with US",
-      "url": "https://www.hurriyetdailynews.com/asian-allies-stress-critical-cooperation-with-us-225765",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-08-18T10:56:27Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The Short Life of a Newborn During the Iran War",
-      "url": "https://theintercept.com/2026/08/18/iran-war-civilian-deaths-families-infant/",
-      "source": "The Intercept",
-      "publishedAt": "2026-08-18T10:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -131,102 +251,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Wall Street Journal Warns Trump’s ‘Appeasement’ Sends An Ominous Signal About America",
-      "url": "https://www.huffpost.com/entry/wall-street-journal-donald-trump-appeasement_n_6a83f56ee4b0b3bc96f80af9",
-      "source": "HuffPost",
-      "publishedAt": "2026-08-18T09:28:55Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Ministers tread carefully as Trump scales back US drills in South Korea",
-      "url": "https://www.abc.net.au/news/2026-08-18/defence-ministers-tread-carefully-as-trump-scales-back-drills/107050936",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-08-18T09:06:03Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Millions of Ukrainian Men Are Fleeing a Cruel Conscription System",
-      "url": "https://www.thenation.com/?post_type=article&p=607179",
-      "source": "Thenation.com",
-      "publishedAt": "2026-08-18T09:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Could an explosive drone at a German airport signal a growing Russian threat to NATO?",
-      "url": "https://www.cbc.ca/news/world/leipzig-drone-nato-9.7309854",
-      "source": "CBC News",
-      "publishedAt": "2026-08-18T08:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How has the US-South Korea relationship evolved under Trump?",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/how-has-the-us-south-korea-relationship-evolved-under-trump/articleshow/133314779.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-18T07:27:44Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Ukraine Has Alternatives to Formal NATO Membership",
-      "url": "https://korybko.substack.com/p/ukraine-has-alternatives-to-formal",
-      "source": "Substack.com",
-      "publishedAt": "2026-08-18T06:57:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?",
-      "url": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-18T06:28:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Tuesday",
-      "url": "https://www.thelocal.de/20260818/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-136",
-      "source": "The Local Germany",
-      "publishedAt": "2026-08-18T06:27:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Approval Falls to 33%, Lowest of Presidency, Reuters/Ipsos Poll Finds",
-      "url": "https://www.naturalnews.com/2026-08-18-poll-trump-approval-falls-lowest-of-presidency.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-18T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Bessent warns of “never-before-seen” economic isolation for Iran as U.S. blocks ports",
-      "url": "https://www.naturalnews.com/2026-08-18-bessent-warns-never-before-seen-economic-isolation-iran.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-18T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Stands Firm on Strait of Hormuz as Trump Warns Americans of Higher Gas Prices",
-      "url": "https://www.naturalnews.com/2026-08-18-iran-firm-hormuz-trump-warns-higher-gas-cost.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-18T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russian Strikes on Ukraine’s Danube Ports Disrupt NATO Supply Route, Military Analyst Says",
-      "url": "https://www.naturalnews.com/2026-08-18-russian-strikes-ukraine-ports-disrupt-nato-supply-route.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-18T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Lebanese President calls for extending UNIFIL mandate in southern Lebanon",
       "url": "https://www.israelnationalnews.com/news/431859",
       "source": "Israelnationalnews.com",
@@ -239,8 +263,8 @@
       "url": "https://www.bloomberg.com/news/articles/2026-08-17/trump-threatens-to-bomb-oman-if-it-gets-in-way-of-us-fox-news-msx5rdoc",
       "source": "Bloomberg",
       "publishedAt": "2026-08-18T03:45:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The Incoherence of Trump’s Past Week of Foreign Policy",
@@ -281,14 +305,6 @@
       "publishedAt": "2026-08-17T13:37:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "US-Iran Memorandum of Understanding expires: How and why it fell apart",
-      "url": "https://www.aljazeera.com/news/2026/8/17/us-iran-memorandum-of-understanding-expires-how-and-why-it-fell-apart",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-17T12:07:23Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

@@ -1,7 +1,135 @@
 {
-  "updated": "2026-08-19T01:07:45Z",
-  "count": 35,
+  "updated": "2026-08-19T06:39:30Z",
+  "count": 36,
   "articles": [
+    {
+      "title": "Can China’s new Arctic Sea route to Europe replace Middle East chokepoints?",
+      "url": "https://www.aljazeera.com/news/2026/8/18/can-chinas-new-arctic-sea-route-to-europe-replace-middle-east-chokepoints",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-18T06:28:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Today in Germany: A roundup of the latest news on Tuesday",
+      "url": "https://www.thelocal.de/20260818/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-136",
+      "source": "The Local Germany",
+      "publishedAt": "2026-08-18T06:27:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Approval Falls to 33%, Lowest of Presidency, Reuters/Ipsos Poll Finds",
+      "url": "https://www.naturalnews.com/2026-08-18-poll-trump-approval-falls-lowest-of-presidency.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-18T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Stands Firm on Strait of Hormuz as Trump Warns Americans of Higher Gas Prices",
+      "url": "https://www.naturalnews.com/2026-08-18-iran-firm-hormuz-trump-warns-higher-gas-cost.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-18T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Bessent warns of “never-before-seen” economic isolation for Iran as U.S. blocks ports",
+      "url": "https://www.naturalnews.com/2026-08-18-bessent-warns-never-before-seen-economic-isolation-iran.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-18T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian Strikes on Ukraine’s Danube Ports Disrupt NATO Supply Route, Military Analyst Says",
+      "url": "https://www.naturalnews.com/2026-08-18-russian-strikes-ukraine-ports-disrupt-nato-supply-route.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-18T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says N Korea’s Kim has responded to his request for a conversation",
+      "url": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-18T05:44:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why South Koreans thought Trump's drill decision was 'fake news'",
+      "url": "https://www.abc.net.au/news/2026-08-18/trump-warms-to-north-korea-kim-jong-un/107049122",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-08-18T05:38:27Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Japan defence minister says US, South Korea cooperation 'critical' for security",
+      "url": "https://www.channelnewsasia.com/world/japan-defence-us-south-korea-cooperation-security-6325186",
+      "source": "CNA",
+      "publishedAt": "2026-08-18T04:41:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Asian allies stress 'critical cooperation' as Trump slashes South Korea drills",
+      "url": "https://www.channelnewsasia.com/world/trump-slash-korea-drills-critical-cooperation-6325186",
+      "source": "CNA",
+      "publishedAt": "2026-08-18T04:41:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Lebanese President calls for extending UNIFIL mandate in southern Lebanon",
+      "url": "https://www.israelnationalnews.com/news/431859",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-08-18T03:59:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US-Iran peace prospects dim with Trump in no hurry for deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/trump-threatens-to-bomb-oman-if-it-gets-in-way-of-us-fox-news-msx5rdoc",
+      "source": "Bloomberg",
+      "publishedAt": "2026-08-18T03:45:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump's slight of South Korea in favor of the North raises broader US security concerns",
+      "url": "https://economictimes.indiatimes.com/news/defence/trumps-slight-of-south-korea-in-favor-of-the-north-raises-broader-us-security-concerns/articleshow/133310488.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-18T03:25:58Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Facing quagmire in Iran, Trump turns to familiar face Kim Jong-un",
+      "url": "https://www.business-standard.com/world-news/facing-quagmire-in-iran-trump-turns-to-familiar-face-kim-jong-un-126081800094_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-18T02:50:44Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump hints at N Korea contact amid tensions with Seoul",
+      "url": "https://www.rte.ie/news/2026/0818/1588305-trump-north-korea/",
+      "source": "RTE",
+      "publishedAt": "2026-08-18T02:30:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump claims Kim Jong Un responded to his overtures",
+      "url": "https://www.israelnationalnews.com/news/431855",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-08-18T01:18:40Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "WSJ torches Trump's 'act of appeasement' toward dictator: 'The world is wondering'",
       "url": "https://www.rawstory.com/trump-north-korea-2677718379/",
@@ -35,14 +163,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump's 'incoherence' turns US guns on loyal ally — and it could end in disaster: analysis",
-      "url": "https://www.rawstory.com/trump-iran-2677718249/",
-      "source": "Raw Story",
-      "publishedAt": "2026-08-17T23:02:06Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Kushner gives Hamas stark ultimatum: Disarm or Israel gets US backing to ‘finish the job’",
       "url": "https://www.foxnews.com/world/kushner-gives-hamas-stark-ultimatum-disarm-israel-gets-us-backing-finish-job",
       "source": "Fox News",
@@ -51,20 +171,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "A Democratic warning sign in Michigan: From the Politics Desk",
-      "url": "https://www.nbcnews.com/politics/politics-news/democratic-warning-sign-michigan-politics-desk-rcna592860",
-      "source": "NBC News",
-      "publishedAt": "2026-08-17T22:55:20Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "The Incoherence of Trump’s Past Week of Foreign Policy",
       "url": "https://www.theatlantic.com/newsletters/2026/08/trump-foreign-policy-incoherence-iran/688312/",
       "source": "The Atlantic",
       "publishedAt": "2026-08-17T21:36:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Donald Trump Promised to Keep Us Out of Protracted Wars of Choice in the Middle East. We Are Now in a Protracted War of Choice in the Middle East.",
@@ -83,14 +195,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Is Trump Choosing North Korea Over South Korea?",
-      "url": "http://foreignpolicy.com/2026/08/17/trump-south-north-korea-military-drills-iran-israel-hamas-deals/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-08-17T20:26:41Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Latvia wants EU billions for its anti-Russia policies",
       "url": "https://www.rt.com/news/644343-latvia-eu-billions-russia/",
       "source": "RT",
@@ -107,44 +211,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump hints at fresh talks with North Korea’s Kim Jong Un",
-      "url": "https://www.vanguardngr.com/2026/08/trump-hints-at-fresh-talks-with-north-koreas-kim-jong-un/",
-      "source": "Vanguard",
-      "publishedAt": "2026-08-17T19:27:44Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Trump Rejects Iran Truce Extension as Oil Tops $90",
       "url": "https://gcaptain.com/trump-rejects-iran-truce-extension-as-oil-tops-90/",
       "source": "gcaptain.com",
       "publishedAt": "2026-08-17T19:22:50Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "The Great Middle East War Escalates: Trump Has Told Us Exactly What He Plans To Do Next, And It Is Going To Change Everything",
-      "url": "https://www.activistpost.com/the-great-middle-east-war-escalates-trump-has-told-us-exactly-what-he-plans-to-do-next-and-it-is-going-to-change-everything/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-08-17T19:03:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says North Korea's Kim has responded to his overtures",
-      "url": "https://www.yahoo.com/news/articles/trump-says-north-koreas-kim-181853915.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-17T18:21:25Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump Just Took a Wild Stance on North Korea",
-      "url": "https://slate.com/news-and-politics/2026/08/trump-south-korea-north-korea-kim-jong-un-iran-war.html",
-      "source": "Slate Magazine",
-      "publishedAt": "2026-08-17T18:14:11Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "Russia warns UK will ‘pay the price’ over drones used in Ukrainian strikes",
@@ -163,14 +235,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump Threatens to Bomb US Ally Oman as Iran Deadline Expires While Kushner Presses Netanyahu on Gaza Plan",
-      "url": "https://www.ibtimes.com.au/trump-threatens-oman-iran-peace-talks-expire-1874222",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-08-17T16:55:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Putin to attack NATO? Russia builds 10 secret drone bases with 59 launch rails as US intelligence warns Kremlin may test alliance with a limited strike",
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/putin-to-attack-nato-russia-builds-10-secret-drone-bases-with-59-launch-rails-as-us-intelligence-warns-kremlin-may-test-alliance-with-a-limited-strike/articleshow/133301914.cms",
       "source": "The Times of India",
@@ -179,50 +243,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israeli minister calls for 30-40 ‘targeted assassinations’ in Gaza per night",
-      "url": "https://www.rt.com/news/644337-israel-ben-gvir-30-40-assassinations-gaza/",
-      "source": "RT",
-      "publishedAt": "2026-08-17T16:35:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Donald Trump says he is in no hurry to end war with Iran",
-      "url": "https://cryptobriefing.com/trump-no-hurry-end-iran-war/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-17T16:25:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Ukraine Has Shattered the Myth of Russian Military Might",
       "url": "https://oilprice.com/Geopolitics/Europe/Ukraine-Has-Shattered-the-Myth-of-Russian-Military-Might.html",
       "source": "OilPrice.com",
       "publishedAt": "2026-08-17T16:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Top Russian banker is fired after warning Putin was leading country into 'social crisis' amid 'war of attrition' with Ukraine",
-      "url": "https://www.dailymail.com/news/article-16058687/Top-Russian-banker-fired-warning-Putin-leading-country-social-crisis-amid-war-attrition-Ukraine.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-17T15:07:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Could Putin really fire long-range drones into Nato territory? Experts warn dictator 'clearly' has the means - but alliance response would overwhelm Russian military",
-      "url": "https://www.dailymail.com/news/article-16057625/Could-Putin-really-fire-long-range-drones-Nato-territory-Experts-warn-dictator-clearly-means-alliance-response-overwhelm-Russian-military.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-17T13:46:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian Strikes Driving Ukraine’s Military Industry Into Systemic Crisis",
-      "url": "https://sputnikglobe.com/20260817/russian-strikes-driving-ukraines-military-industry-into-systemic-crisis-1124593277.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-08-17T13:43:46Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -263,22 +287,6 @@
       "url": "https://www.rigzone.com/news/wire/war_in_lebanon_escalates-17-aug-2026-184384-article/",
       "source": "Rigzone",
       "publishedAt": "2026-08-17T08:17:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Deadliest Israeli Strikes on Lebanon Since June Ceasefire Kill 11, Wound 19",
-      "url": "https://www.naturalnews.com/2026-08-17-israeli-strikes-lebanon-kill-11-wound-19.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-17T06:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Warns Damascus Against Military Intervention in Lebanon, Report Says",
-      "url": "https://www.naturalnews.com/2026-08-17-iran-warns-damascus-against-military-intervention-lebanon.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-17T06:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

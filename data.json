@@ -1,30 +1,134 @@
 {
-  "updated": "2026-08-20T01:06:55Z",
-  "count": 34,
+  "updated": "2026-08-20T06:41:38Z",
+  "count": 35,
   "articles": [
     {
-      "title": "Report: Trump seeks new summit with Kim Jong Un as early as this fall",
-      "url": "https://www.israelnationalnews.com/news/431907",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-08-19T00:18:31Z",
+      "title": "Trump Labels Strait of Hormuz “U.S. Territory”",
+      "url": "https://www.naturalnews.com/2026-08-19-trump-labels-strait-of-hormuz-us-territory.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-19T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pentagon Weighs Withdrawal from Gulf Bases After Iranian Strikes",
+      "url": "https://www.naturalnews.com/2026-08-19-pentagon-weighs-withdrawal-gulf-bases-after-iranian-strikes.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-19T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia warns UK will face âconsequencesâ for drone strikes deep inside its territory",
+      "url": "https://www.naturalnews.com/2026-08-19-russia-warns-uk-consequences-drone-strikes.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-19T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What a shameful, disreputable clown Donald Trump is",
+      "url": "https://www.irishtimes.com/opinion/2026/08/19/what-a-shameful-disreputable-clown-is-donald-trump/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-19T05:00:01Z",
       "_cat": "korea",
       "_label": "N. Korea"
     },
     {
-      "title": "North Korea media slams joint US-South drills as 'open threat'",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-media-slams-joint-us-south-military-drills-6326936",
-      "source": "CNA",
-      "publishedAt": "2026-08-19T00:08:00Z",
+      "title": "‘It’s a mindset’: Unlike Ireland, Finland decided neutrality meant developing its military",
+      "url": "https://www.irishtimes.com/world/europe/2026/08/19/its-a-mindset-unlike-ireland-finland-decided-neutrality-meant-developing-its-military/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-19T05:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "South Korea, US scale back annual military drills after Trump’s order",
+      "url": "https://www.aljazeera.com/news/2026/8/19/south-korea-us-scale-back-annual-military-drills-after-trumps-order",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-19T04:59:32Z",
       "_cat": "korea",
       "_label": "N. Korea"
     },
     {
-      "title": "US-South Korea drills cut short after Trump criticism",
-      "url": "https://www.channelnewsasia.com/east-asia/us-south-korea-drills-cut-short-trump-north-6326936",
-      "source": "CNA",
-      "publishedAt": "2026-08-19T00:08:00Z",
+      "title": "Why Seoul has called for peace talks to formally end the Korean War",
+      "url": "https://www.abc.net.au/news/2026-08-19/seoul-call-to-end-war-south-north-korea/107045908",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-08-19T03:55:30Z",
       "_cat": "korea",
       "_label": "N. Korea"
+    },
+    {
+      "title": "South Korean, US militaries shorten drills after Trump ordered reduction",
+      "url": "https://www.business-standard.com/world-news/south-korean-us-militaries-shorten-drills-after-trump-ordered-reduction-126081900092_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-19T03:43:11Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US, South Korea cut drills short after Trump criticism",
+      "url": "https://www.rte.ie/news/world/2026/0819/1588441-us-south-korea/",
+      "source": "RTE",
+      "publishedAt": "2026-08-19T03:37:06Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
+      "url": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-19T03:34:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes Lebanon, Syria; UAE halts Iran trade amid tensions",
+      "url": "https://cryptobriefing.com/israel-strikes-lebanon-syria-uae-halts-iran-trade-amid-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-19T03:23:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Threatening friends and courting enemies in Trump's 'upside-down world'",
+      "url": "https://www.business-standard.com/world-news/threatening-friends-and-courting-enemies-in-trump-s-upside-down-world-126081900117_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-19T03:04:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "South Korean and US militaries shorten drills by about half after Trump ordered a reduction",
+      "url": "https://abcnews.com/US/wireStory/south-korean-us-militaries-shorten-drills-half-after-135757050",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-19T02:38:36Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "U.S.-South Korea joint military drills are being cut short after Trump order, Seoul says",
+      "url": "https://www.nbcnews.com/world/asia/us-south-korea-joint-military-drills-scaled-back-trump-order-rcna593264",
+      "source": "NBC News",
+      "publishedAt": "2026-08-19T01:54:41Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "South Korean and US militaries shorten drills after Trump ordered a reduction",
+      "url": "https://economictimes.indiatimes.com/news/defence/south-korean-and-us-militaries-shorten-drills-after-trump-ordered-a-reduction/articleshow/133334998.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-19T01:28:11Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "QUENTIN LETTS: Chilling threats from Putin, a bloated welfare bill and a deepening small boats crisis... but Andy's at a bus depot like the Mayor of Trumpton",
+      "url": "https://www.dailymail.com/debate/article-16062271/QUENTIN-LETTS-Burnham-bus.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-19T01:14:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Report in Lebanon: Israel strikes several locations in southern Lebanon",
@@ -59,14 +163,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Chinese Foreign Minister Heads to South Korea After Trump Scales Back Military Exercise",
-      "url": "https://www.breitbart.com/asia/2026/08/18/chinese-foreign-minister-heads-to-south-korea-after-trump-scales-back-military-exercise/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-08-18T21:47:22Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Russian Threats Won’t Stop the U.K.’s Drone Deliveries",
       "url": "http://foreignpolicy.com/2026/08/18/british-drones-ukraine-russia-war-burnham-missiles/",
       "source": "Foreign Policy",
@@ -81,22 +177,6 @@
       "publishedAt": "2026-08-18T18:57:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Why Trump is mad at South Korea",
-      "url": "https://www.rt.com/news/644381-trump-mad-south-korea/",
-      "source": "RT",
-      "publishedAt": "2026-08-18T18:29:49Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "South Korea Wants Its Military Back",
-      "url": "https://www.motherjones.com/politics/2026/08/south-korea-wants-its-military-back/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-08-18T17:53:53Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "Analysis: Syrian airbase attack is an Israeli message to Damascus, Ankara",
@@ -115,14 +195,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Drills Cut By Trump Are Central To The US-South Korea Alliance",
-      "url": "https://www.huffpost.com/entry/drills-cut-trump-central-us-south-korea-alliance_n_6a848a2ee4b0ddd9c1b3c9cb",
-      "source": "HuffPost",
-      "publishedAt": "2026-08-18T16:45:25Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Talks to be held in Rome this week on future of UN forces",
       "url": "https://www.rte.ie/news/world/2026/0818/1588404-unifil-talks/",
       "source": "RTE",
@@ -131,44 +203,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "A NATO commander says training Ukrainian soldiers is showing his forces that skills neglected after the Cold War matter again",
-      "url": "https://www.businessinsider.com/ukraine-training-nato-partner-needs-electronic-warfare-cold-war-2026-8#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-18T16:20:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A NATO commander says training Ukrainian soldiers is showing his forces that skills neglected after the Cold War matter again",
-      "url": "https://www.businessinsider.com/ukraine-training-nato-partner-needs-electronic-warfare-cold-war-2026-8",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-18T16:20:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Russia reportedly rearming Iran via Caspian Sea with TNT, ammunition and drone components",
       "url": "https://en.protothema.gr/2026/08/18/russia-reportedly-rearming-iran-via-caspian-sea-with-tnt-ammunition-and-drone-components/",
       "source": "Protothema.gr",
       "publishedAt": "2026-08-18T16:10:49Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "How drones are taken down – from nets and metal cages to jammers",
-      "url": "https://theconversation.com/how-drones-are-taken-down-from-nets-and-metal-cages-to-jammers-289841",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-08-18T15:42:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Laura Shin interviews North Korean crypto hacker Justin Lim undercover",
-      "url": "https://cryptobriefing.com/laura-shin-north-korean-crypto-hacker-interview/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-18T15:34:03Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "Pentagon evaluates reducing US military presence in Gulf after Iran war",
@@ -185,14 +225,6 @@
       "publishedAt": "2026-08-18T15:01:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
-      "url": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-18T14:49:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "New Poll: Voters Oppose Integrating Israeli Military into Pentagon",
@@ -219,36 +251,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Tuesday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/08/18/tuesday-hili-dialogue-593/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-08-18T12:00:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "PLA Navy Task Force 83 returns after completing far-sea training and visits to Russia, Vietnam, Brunei and Indonesia",
       "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/08/china-260818-globaltimes02.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-08-18T12:00:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Why has Trump threatened to bomb Oman – for a second time?",
-      "url": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-18T11:33:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran War: Trump Threatens to Bomb Oman as Iran Attacks on Shipping Notch Up, WSJ Reports Planning for Bigger Escalation; Debate Over Covert Transits;",
-      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-trump-threatens-to-bomb-oman-as-iran-attacks-on-shipping-notch-up-wsj-reports-planning-for-bigger-escalation-debate-over-covert-transits.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-18T10:58:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Is Israel deliberately starting wildfires in Lebanon?",

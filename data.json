@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-21T18:33:36Z",
-  "count": 33,
+  "updated": "2026-08-22T01:07:12Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "China's PLA used drones to send gold bars, US$100 notes in a bizarre 'wartime financial support' drill",
+      "url": "https://www.techradar.com/pro/chinas-pla-used-drones-to-send-gold-bars-us-usd100-notes-in-a-bizarre-wartime-financial-support-drill",
+      "source": "TechRadar",
+      "publishedAt": "2026-08-20T21:40:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Norway Boosts Defense Footprint with Expansion of Arctic Brigade",
+      "url": "https://gcaptain.com/norway-boosts-defense-footprint-with-expansion-of-arctic-brigade/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-08-20T20:14:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli’s Spy Agency Suffers a Crushing Defeat Entirely of Its Own Making",
+      "url": "https://theintercept.com/2026/08/20/israel-iran-war-mossad-firings/",
+      "source": "The Intercept",
+      "publishedAt": "2026-08-20T19:06:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Russia Kills 16+ in Kyiv With Ballistic Missile Barrage",
       "url": "https://www.breitbart.com/europe/2026/08/20/russia-kills-16-in-kyiv-with-ballistic-missile-barrage/",
@@ -233,38 +257,6 @@
       "publishedAt": "2026-08-20T04:20:05Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "The Mecca Security Pact is not about Iran",
-      "url": "https://www.juancole.com/2026/08/mecca-security-about.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-08-20T04:15:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Canada pledges $50m aid to Lebanon and condemns Israeli ‘unlawful invasion’",
-      "url": "https://www.aljazeera.com/news/2026/8/19/canada-pledges-50m-aid-to-lebanon-and-condemns-israeli-unlawful-invasion",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-19T18:08:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Seven decades of US regime change efforts: What have they achieved?",
-      "url": "https://www.aljazeera.com/news/2026/8/19/seven-decades-of-us-regime-change-efforts-what-have-they-achieved",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-19T15:46:05Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel strikes Lebanon, Syria; UAE halts Iran trade amid tensions",
-      "url": "https://cryptobriefing.com/israel-strikes-lebanon-syria-uae-halts-iran-trade-amid-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-19T03:23:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

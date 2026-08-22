@@ -1,7 +1,127 @@
 {
-  "updated": "2026-08-22T12:34:35Z",
-  "count": 33,
+  "updated": "2026-08-22T18:27:05Z",
+  "count": 36,
   "articles": [
+    {
+      "title": "Puppet Masters Will Be Unleashed on Americans",
+      "url": "https://www.thenation.com/article/politics/puppet-masters-will-be-unleashed-on-americans/",
+      "source": "Thenation.com",
+      "publishedAt": "2026-08-21T18:14:18Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Is Israel trying to start a proxy war in Syria?",
+      "url": "https://www.rt.com/news/644494-israel-syria-turkiye-proxy-war/",
+      "source": "RT",
+      "publishedAt": "2026-08-21T17:47:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+      "url": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-21T17:29:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What in the World?",
+      "url": "http://foreignpolicy.com/2026/08/21/news-quiz-trump-south-korea-kim-jong-un-iran-deadline-russia-ukraine/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-08-21T17:20:53Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The next war nobody wants: Can Israel and Turkey avoid a conflict?",
+      "url": "https://economictimes.indiatimes.com/news/defence/the-next-war-nobody-wants-can-israel-and-turkey-avoid-a-conflict/articleshow/133409318.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-21T16:50:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran’s president calls for end to war with US and Israel, claiming Tehran is winning",
+      "url": "https://cryptobriefing.com/iran-president-urges-end-war-us-israel/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-21T16:30:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "South Korea Urges Direct Trump-Kim Talks as War Games End Early",
+      "url": "https://www.breitbart.com/asia/2026/08/21/south-korea-urges-direct-trump-kim-talks-war-games-end-early/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-08-21T16:16:37Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Why Did Trump Allow Kim Jong Un To Grow His Nuclear Arsenal Substantially?",
+      "url": "https://crooksandliars.com/2026/08/why-did-trump-allow-kim-jong-un-grow-his",
+      "source": "Crooksandliars.com",
+      "publishedAt": "2026-08-21T16:08:59Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Uninhabitable Gaza shelters, Yemen war warnings, and record aid worker deaths: The Cheat Sheet",
+      "url": "https://www.thenewhumanitarian.org/news2026/08/21/uninhabitable-gaza-shelters-yemen-war-warnings-aid-worker-deaths-cheat-sheet",
+      "source": "The New Humanitarian",
+      "publishedAt": "2026-08-21T15:26:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Moves to Scale Back US War Drills in Korea. We Should Support That.",
+      "url": "https://truthout.org/articles/trump-moves-to-scale-back-us-war-drills-in-korea-we-should-support-that/",
+      "source": "Truthout",
+      "publishedAt": "2026-08-21T14:56:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Two killed in Russian strike on Ukrainian shopping mall",
+      "url": "https://www.rte.ie/news/ukraine/2026/0821/1588794-russia-ukraine-war/",
+      "source": "RTE",
+      "publishedAt": "2026-08-21T14:53:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Threatens 'Economic D-Day' for Iran as Sanctions Push Extends Six-Month-Old Conflict Further",
+      "url": "https://www.ibtimes.com.au/trump-intensifies-economic-pressure-iran-1874360",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-08-21T14:36:16Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Nagasaki Remembered… and Its Lesson Forgotten?",
+      "url": "https://www.fairobserver.com/region/asia_pacific/nagasaki-remembered-and-its-lesson-forgotten/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-08-21T14:23:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Can the World Survive Putin’s Well Intentioned Mistake? “The Dangers in Putin’s Patience”",
+      "url": "https://www.globalresearch.ca/can-world-survive-putin-well-intentioned-mistake/5937591",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-21T13:29:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel unleashes new strikes on southern Lebanon (VIDEOS)",
+      "url": "https://www.rt.com/news/644477-israel-unleashes-new-strikes-lebanon/",
+      "source": "RT",
+      "publishedAt": "2026-08-21T12:56:05Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Friday: Hili dialogue",
       "url": "https://whyevolutionistrue.com/2026/08/21/friday-hili-dialogue-591/",
@@ -123,38 +243,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Pentagon Data: Number of U.S. Troops Wounded During War on Iran Now Over 750",
-      "url": "https://www.naturalnews.com/2026-08-21-pentagon-wounded-troops-iran-war-over-750.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-21T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia fires missiles near disputed islands as Japan protests Putin’s Kuril visit",
-      "url": "https://www.naturalnews.com/2026-08-21-russia-missiles-disputed-islands-japan-putin.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-21T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Army to Scale Back Drone Battalion Amid Leadership Shake-Up",
-      "url": "https://www.naturalnews.com/2026-08-21-army-scale-back-drone-battalion-leadership-shake-up.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-21T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian Federal Security Agency arrests foreign national as Ukraine drone plot against Moscow infrastructure is exposed",
-      "url": "https://www.naturalnews.com/2026-08-21-fsb-arrests-foreign-national-as-ukraine-drone-plot-against-moscow-infrastructure-exposed.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-21T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "South Korea Reaffirms Military Independence Push After Trump Orders Reduced Drills",
       "url": "https://www.naturalnews.com/2026-08-21-south-korea-push-military-independence-trump-reduced-drills.html",
       "source": "Naturalnews.com",
@@ -163,76 +251,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "US, South Korean militaries wrapping up drills early",
-      "url": "https://abcnews.com/International/wireStory/us-south-korean-militaries-wrapping-drills-early-day-135829040",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-08-21T05:34:10Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "US, South Korean militaries wrapping up drills early, a day after North Korea's missile barrage",
-      "url": "https://abcnews.com/US/wireStory/us-south-korean-militaries-wrapping-drills-early-day-135829039",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-08-21T05:25:29Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Train to nowhere? South Korea's lonely push for peace with the North",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/train-to-nowhere-south-koreas-lonely-push-for-peace-with-the-north/articleshow/133393186.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-21T04:37:04Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "What to make of Trump’s National Security Statement now?",
-      "url": "https://www.americanthinker.com/blog/2026/08/what-to-make-of-trump-s-national-security-statement-now/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-08-21T04:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Analysis-Trump wants a new meeting with Kim Jong Un. North Korea says not so fast",
-      "url": "https://www.yahoo.com/news/politics/articles/analysis-trump-wants-meeting-kim-034204680.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-21T03:42:04Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Oil prices up more than 2% after Trump threatens countries supporting Iran",
-      "url": "https://www.business-standard.com/markets/commodities/oil-prices-up-more-than-2-after-trump-threatens-countries-supporting-iran-126082100033_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-08-21T02:45:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil Price Today (August 21): Crude oil nears $95 as Iran peace deal hopes fade. What are experts saying?",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-21-crude-oil-nears-95-as-iran-peace-deal-hopes-fade-what-are-experts-saying/articleshow/133391008.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-21T02:25:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "What happens when interceptor missiles run out? The growing shortage is causing panic in Ukraine and elsewhere",
       "url": "https://freerepublic.com/focus/f-news/4392573/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-08-21T02:15:49Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-set-for-second-weekly-rise-as-unsettled-us-iran-war-crimps-supply/articleshow/133390801.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-21T01:58:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "China's PLA used drones to send gold bars, US$100 notes in a bizarre 'wartime financial support' drill",

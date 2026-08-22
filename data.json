@@ -1,7 +1,119 @@
 {
-  "updated": "2026-08-22T06:36:05Z",
-  "count": 30,
+  "updated": "2026-08-22T12:34:35Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "Friday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/08/21/friday-hili-dialogue-591/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-08-21T11:45:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine is teaching NATO troops how ground robots work in war — and where they don't",
+      "url": "https://www.businessinsider.com/ukraine-teaching-nato-troops-how-ground-robots-work-war-2026-8#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-21T11:44:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
+      "url": "https://www.dw.com/en/north-korea-trump-kim-jong-un-talks-nuclear-missiles-south-korea/a-78456342",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-21T10:47:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Japan protests Russian missile tests off disputed islands",
+      "url": "https://www.channelnewsasia.com/east-asia/japan-protests-russia-missile-tests-disputed-islands-putin-visit-6333311",
+      "source": "CNA",
+      "publishedAt": "2026-08-21T10:42:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s Asia pullback is a gift to China and North Korea",
+      "url": "https://www.salon.com/2026/08/21/trumps-asia-pullback-is-a-gift-to-china-and-north-korea/",
+      "source": "Salon",
+      "publishedAt": "2026-08-21T10:30:21Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
+      "url": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
+      "source": "CNBC",
+      "publishedAt": "2026-08-21T10:15:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Scaled-back US-South Korea drills end: Seoul",
+      "url": "https://www.hurriyetdailynews.com/scaled-back-us-south-korea-drills-end-seoul-225890",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-08-21T09:55:51Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Russia's escalating strikes in Ukraine increasingly spilling into NATO, Romania says",
+      "url": "https://abcnews.com/International/russia-drone-incursions-nato-airspace-jump-exponentially-2026/story?id=135771388",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-21T09:41:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The invisible war: Iran's evolving cyberattacks bring battlefront to small-town America",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/the-invisible-war-irans-evolving-cyberattacks-bring-battlefront-to-small-town-america/articleshow/133267088.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-21T09:37:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, South Korean Militaries Wrapping Up Drills Early, a Day After North Korea's Missile Barrage",
+      "url": "https://military.com/us-south-korean-militaries-wrapping-up-drills-early-day-after-north-koreas-missile-barrage",
+      "source": "Military.com",
+      "publishedAt": "2026-08-21T09:34:39Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Ukraine’s ‘Equalizer’ bomb aims to blow up reliance on US, European weapons",
+      "url": "https://www.foxnews.com/politics/ukraines-equalizer-bomb-aims-blow-reliance-us-european-weapons",
+      "source": "Fox News",
+      "publishedAt": "2026-08-21T09:00:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Oil set for second weekly rise on supply concerns",
+      "url": "https://www.rte.ie/news/business/2026/0821/1588751-world-oil-prices/",
+      "source": "RTE",
+      "publishedAt": "2026-08-21T08:27:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil Set for Second Weekly Rise as Unsettled US-Iran War Crimps Supply",
+      "url": "https://english.aawsat.com/business/5309408-oil-set-second-weekly-rise-unsettled-us-iran-war-crimps-supply",
+      "source": "Aawsat.com",
+      "publishedAt": "2026-08-21T08:11:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US redeploys aircraft carriers to Middle East, leaves Asia-Pacific gap",
+      "url": "https://cryptobriefing.com/us-redeploys-aircraft-carriers-to-middle-east-leaves-asia-pacific-gap/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-21T07:25:20Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
     {
       "title": "U.S. Envoy Calls Israeli Strikes on Syrian Airfield “Unnecessary Escalation”",
       "url": "https://www.naturalnews.com/2026-08-21-us-envoy-israeli-strikes-syrian-airfield-unnecessary-escalation.html",
@@ -107,20 +219,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Be Quiet, Be Quiet: We Are All On the Decoy Plane Now",
-      "url": "https://www.commondreams.org/further/be-quiet-be-quiet-we-are-all-on-the-decoy-plane-now",
-      "source": "Common Dreams",
-      "publishedAt": "2026-08-21T02:20:39Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "What happens when interceptor missiles run out? The growing shortage is causing panic in Ukraine and elsewhere",
       "url": "https://freerepublic.com/focus/f-news/4392573/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-08-21T02:15:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "taiwan",
+      "_label": "Taiwan"
     },
     {
       "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply",
@@ -131,14 +235,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Seoul-o Act",
-      "url": "https://www.hoover.org/research/seoul-o-act",
-      "source": "Hoover.org",
-      "publishedAt": "2026-08-21T00:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "China's PLA used drones to send gold bars, US$100 notes in a bizarre 'wartime financial support' drill",
       "url": "https://www.techradar.com/pro/chinas-pla-used-drones-to-send-gold-bars-us-usd100-notes-in-a-bizarre-wartime-financial-support-drill",
       "source": "TechRadar",
@@ -147,84 +243,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Norway Boosts Defense Footprint with Expansion of Arctic Brigade",
-      "url": "https://gcaptain.com/norway-boosts-defense-footprint-with-expansion-of-arctic-brigade/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-08-20T20:14:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israeli’s Spy Agency Suffers a Crushing Defeat Entirely of Its Own Making",
-      "url": "https://theintercept.com/2026/08/20/israel-iran-war-mossad-firings/",
-      "source": "The Intercept",
-      "publishedAt": "2026-08-20T19:06:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia Kills 16+ in Kyiv With Ballistic Missile Barrage",
-      "url": "https://www.breitbart.com/europe/2026/08/20/russia-kills-16-in-kyiv-with-ballistic-missile-barrage/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-08-20T18:05:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Enraged South Korea to Please the North. It Didn’t Work.",
-      "url": "https://www.motherjones.com/politics/2026/08/trump-south-north-korea-military-drills-ballistic-missiles/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-08-20T17:21:02Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Watch: Kim Jong-Un Will Be Fine As Long As US Has A Smart President, Says Trump",
-      "url": "https://biztoc.com/x/9616e414471c352a",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-20T17:01:24Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Hezbollah won’t disarm – Beirut residents to RT (VIDEO)",
       "url": "https://www.rt.com/news/644432-hezbollah-beirut-lebanon-israel/",
       "source": "RT",
       "publishedAt": "2026-08-20T13:21:30Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Romania destroys marine drones near Neptun Deep gas project in Black Sea",
-      "url": "https://cryptobriefing.com/romania-destroys-marine-drones-neptun-deep/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-20T12:17:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran dismisses US economic threats and other developments in the Middle East",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-dismisses-us-economic-threats-and-other-developments-in-the-middle-east/articleshow/133376025.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-20T11:43:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Western forces are role-playing as Russia in training, attacking Ukrainian troops with tanks, ATVs, and motorcycles",
-      "url": "https://www.businessinsider.com/western-allies-role-play-attacking-ukraine-troops-tanks-atvs-motorcycles-2026-8#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-20T11:32:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Jared Kushner’s Henry Kissinger cosplay should worry us all",
-      "url": "https://www.salon.com/2026/08/20/jared-kushners-henry-kissinger-cosplay-should-worry-us-all/",
-      "source": "Salon",
-      "publishedAt": "2026-08-20T10:30:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Why Israel struck Abu al-Duhur Airbase",

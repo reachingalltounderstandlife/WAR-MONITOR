@@ -1,7 +1,143 @@
 {
-  "updated": "2026-08-22T01:07:12Z",
-  "count": 32,
+  "updated": "2026-08-22T06:36:05Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "U.S. Envoy Calls Israeli Strikes on Syrian Airfield “Unnecessary Escalation”",
+      "url": "https://www.naturalnews.com/2026-08-21-us-envoy-israeli-strikes-syrian-airfield-unnecessary-escalation.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-21T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pentagon Data: Number of U.S. Troops Wounded During War on Iran Now Over 750",
+      "url": "https://www.naturalnews.com/2026-08-21-pentagon-wounded-troops-iran-war-over-750.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-21T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia fires missiles near disputed islands as Japan protests Putin’s Kuril visit",
+      "url": "https://www.naturalnews.com/2026-08-21-russia-missiles-disputed-islands-japan-putin.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-21T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Army to Scale Back Drone Battalion Amid Leadership Shake-Up",
+      "url": "https://www.naturalnews.com/2026-08-21-army-scale-back-drone-battalion-leadership-shake-up.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-21T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian Federal Security Agency arrests foreign national as Ukraine drone plot against Moscow infrastructure is exposed",
+      "url": "https://www.naturalnews.com/2026-08-21-fsb-arrests-foreign-national-as-ukraine-drone-plot-against-moscow-infrastructure-exposed.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-21T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "South Korea Reaffirms Military Independence Push After Trump Orders Reduced Drills",
+      "url": "https://www.naturalnews.com/2026-08-21-south-korea-push-military-independence-trump-reduced-drills.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-21T06:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US, South Korean militaries wrapping up drills early",
+      "url": "https://abcnews.com/International/wireStory/us-south-korean-militaries-wrapping-drills-early-day-135829040",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-21T05:34:10Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US, South Korean militaries wrapping up drills early, a day after North Korea's missile barrage",
+      "url": "https://abcnews.com/US/wireStory/us-south-korean-militaries-wrapping-drills-early-day-135829039",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-21T05:25:29Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Train to nowhere? South Korea's lonely push for peace with the North",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/train-to-nowhere-south-koreas-lonely-push-for-peace-with-the-north/articleshow/133393186.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-21T04:37:04Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "What to make of Trump’s National Security Statement now?",
+      "url": "https://www.americanthinker.com/blog/2026/08/what-to-make-of-trump-s-national-security-statement-now/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-08-21T04:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Analysis-Trump wants a new meeting with Kim Jong Un. North Korea says not so fast",
+      "url": "https://www.yahoo.com/news/politics/articles/analysis-trump-wants-meeting-kim-034204680.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-21T03:42:04Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Oil prices up more than 2% after Trump threatens countries supporting Iran",
+      "url": "https://www.business-standard.com/markets/commodities/oil-prices-up-more-than-2-after-trump-threatens-countries-supporting-iran-126082100033_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-21T02:45:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil Price Today (August 21): Crude oil nears $95 as Iran peace deal hopes fade. What are experts saying?",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-august-21-crude-oil-nears-95-as-iran-peace-deal-hopes-fade-what-are-experts-saying/articleshow/133391008.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-21T02:25:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Be Quiet, Be Quiet: We Are All On the Decoy Plane Now",
+      "url": "https://www.commondreams.org/further/be-quiet-be-quiet-we-are-all-on-the-decoy-plane-now",
+      "source": "Common Dreams",
+      "publishedAt": "2026-08-21T02:20:39Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "What happens when interceptor missiles run out? The growing shortage is causing panic in Ukraine and elsewhere",
+      "url": "https://freerepublic.com/focus/f-news/4392573/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-08-21T02:15:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Oil set for second weekly rise as unsettled US-Iran war crimps supply",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-set-for-second-weekly-rise-as-unsettled-us-iran-war-crimps-supply/articleshow/133390801.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-21T01:58:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Seoul-o Act",
+      "url": "https://www.hoover.org/research/seoul-o-act",
+      "source": "Hoover.org",
+      "publishedAt": "2026-08-21T00:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "China's PLA used drones to send gold bars, US$100 notes in a bizarre 'wartime financial support' drill",
       "url": "https://www.techradar.com/pro/chinas-pla-used-drones-to-send-gold-bars-us-usd100-notes-in-a-bizarre-wartime-financial-support-drill",
@@ -51,22 +187,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
-      "url": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-20T17:00:12Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Donald Trump Just Explained Why Iran Should Have a Nuclear Weapon",
-      "url": "https://www.theatlantic.com/ideas/2026/08/trump-north-korean-iran-nuclear-weapons/688339/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-08-20T16:54:43Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Hezbollah won’t disarm – Beirut residents to RT (VIDEO)",
       "url": "https://www.rt.com/news/644432-hezbollah-beirut-lebanon-israel/",
       "source": "RT",
@@ -75,36 +195,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "North Korea fires missiles hours after Trump announces Kim meeting",
-      "url": "https://punchng.com/north-korea-fires-missiles-hours-after-trump-announces-kim-meeting/",
-      "source": "The Punch",
-      "publishedAt": "2026-08-20T12:53:47Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Romania destroys marine drones near Neptun Deep gas project in Black Sea",
       "url": "https://cryptobriefing.com/romania-destroys-marine-drones-neptun-deep/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-08-20T12:17:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "North Korea launches missiles, Seoul says, after Trump floats Kim meet",
-      "url": "https://www.hurriyetdailynews.com/north-korea-launches-missiles-seoul-says-after-trump-floats-kim-meet-225858",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-08-20T12:04:15Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea fires up to 10 ballistic missiles toward sea, hours after Trump speaks of re-engagement",
-      "url": "https://www.cbc.ca/news/world/north-korea-missile-launch-ulchi-freedom-trump-9.7313643",
-      "source": "CBC News",
-      "publishedAt": "2026-08-20T11:58:09Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "Iran dismisses US economic threats and other developments in the Middle East",
@@ -123,106 +219,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Jimmy Fallon Teases Trump’s Efforts to Rekindle North Korea Bromance - The New York Times",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185065646",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-08-20T10:53:33Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea fires about 10 short-range ballistic missiles toward sea, South Korea says",
-      "url": "https://nypost.com/2026/08/20/world-news/north-korea-fires-about-10-short-range-ballistic-missiles-toward-sea-south-korea-says/",
-      "source": "New York Post",
-      "publishedAt": "2026-08-20T10:47:37Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Jared Kushner’s Henry Kissinger cosplay should worry us all",
       "url": "https://www.salon.com/2026/08/20/jared-kushners-henry-kissinger-cosplay-should-worry-us-all/",
       "source": "Salon",
       "publishedAt": "2026-08-20T10:30:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russian missile strikes kill 13 in Kyiv, more than 30 injured",
-      "url": "https://www.abc.net.au/news/2026-08-20/russian-strikes-kill-13-in-kyiv-as-ukraine-war-intensifies/107060814",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-08-20T10:24:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "North Korea fires suspected ballistic missile toward sea, says Japan",
-      "url": "https://www.business-standard.com/world-news/north-korea-fires-suspected-ballistic-missile-toward-sea-says-japan-126082000732_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-08-20T10:10:09Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Two Years Ago, They Revered Trump; Now, They Ridicule and Revile Him",
-      "url": "https://newrepublic.com/article/214508/trump-manosphere-ridicule-revile",
-      "source": "The New Republic",
-      "publishedAt": "2026-08-20T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Strategy muddle: how America's wishy-washy geopolitical stance could prove self-defeating",
-      "url": "https://www.livemint.com/opinion/online-views/strategy-muddle-america-wishy-washy-geopolitical-stance-self-defeating-indo-pacific-west-asia-china-11787146275834.html",
-      "source": "Livemint",
-      "publishedAt": "2026-08-20T09:30:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Exclusive: Ukrainian Army Soldier Urges US Support as Ally 'Selling, Not Helping'",
-      "url": "https://military.com/exclusive-ukrainian-army-soldier-urges-us-support-ally-selling-not-helping",
-      "source": "Military.com",
-      "publishedAt": "2026-08-20T09:00:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia 'investing in ballistic missiles and escalation': Zelensky",
-      "url": "https://www.hurriyetdailynews.com/russia-investing-in-ballistic-missiles-and-escalation-zelensky-225835",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-08-20T07:08:54Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Michael Hudson: U.S. War Against Russia Has Blocked Black Sea Grain Transport as Well as the Persian Gulf Oil Trade.",
-      "url": "https://www.nakedcapitalism.com/2026/08/michael-hudson-u-s-war-against-russia-has-blocked-black-sea-grain-transport-as-well-as-the-persian-gulf-oil-trade.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-20T07:00:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Overnight Russian missile strikes leave 6 dead, 33 wounded across Kyiv",
-      "url": "https://timesofindia.indiatimes.com/world/europe/overnight-russian-missile-strikes-leave-6-dead-33-wounded-across-kyiv/articleshow/133366620.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-20T06:38:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Sternly Warns Gulf Nations Against Helping America",
-      "url": "https://www.naturalnews.com/2026-08-20-iran-warns-gulf-nations-against-helping-america.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-20T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US weighs reducing military presence in Gulf as Iran war cost hits $37.5 bn",
-      "url": "https://www.business-standard.com/world-news/us-weighs-reducing-military-presence-in-gulf-as-iran-war-cost-hits-37-5-bn-126082000179_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-08-20T05:52:28Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -235,28 +235,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Israeli strikes on Syrian airbase undermine regional stability – US envoy",
-      "url": "https://www.rt.com/news/644425-us-condemns-israeli-strike-syria/",
-      "source": "RT",
-      "publishedAt": "2026-08-20T04:50:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "A battle for Taipei could hinge on defending this river. Here's how Taiwan's forces are readying for that fight.",
       "url": "https://www.businessinsider.com/china-victory-taiwan-single-river-tamsui-taipei-trianing-defend-2026-8#article",
       "source": "Business Insider",
       "publishedAt": "2026-08-20T04:48:38Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Pentagon weighs scaling back US military presence across Persian Gulf: Report",
-      "url": "https://economictimes.indiatimes.com/news/defence/pentagon-weighs-scaling-back-us-military-presence-across-persian-gulf-report/articleshow/133363984.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-20T04:20:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     }
   ]
 }

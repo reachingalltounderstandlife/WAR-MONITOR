@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-23T12:35:26Z",
-  "count": 30,
+  "updated": "2026-08-23T18:25:57Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "U.S. Special Envoy Tom Barrack Contradicts Trump Policy, Claims Israel ‘Occupies’ Golan Heights",
+      "url": "https://legalinsurrection.com/2026/08/u-s-special-envoy-tom-barrack-contradicts-trump-policy-claims-israel-occupies-golan-heights/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-08-22T18:00:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Inside Germany's roughly $14 billion plan to deter Russia with a new arsenal of deep-strike missiles",
+      "url": "https://www.businessinsider.com/inside-germanys-plan-to-deter-russia-2026-8",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-22T16:15:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+      "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-22T14:19:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s economic isolation plan risks Iran strikes across Gulf",
+      "url": "https://economictimes.indiatimes.com/news/defence/trumps-economic-isolation-plan-risks-iran-strikes-across-gulf/articleshow/133425259.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-22T13:29:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "All the ways Putin could attack Britain from cyber chaos to full-scale drone strikes after ambassador warned London of 'consequences' for helping Ukraine",
       "url": "https://www.dailymail.com/news/article-16064077/Putin-attack-Britain.html",
@@ -183,8 +215,8 @@
       "url": "https://truthout.org/articles/trump-moves-to-scale-back-us-war-drills-in-korea-we-should-support-that/",
       "source": "Truthout",
       "publishedAt": "2026-08-21T14:56:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Trump Threatens 'Economic D-Day' for Iran as Sanctions Push Extends Six-Month-Old Conflict Further",
@@ -209,14 +241,6 @@
       "publishedAt": "2026-08-21T12:56:05Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Friday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/08/21/friday-hili-dialogue-591/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-08-21T11:45:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea: Will Trump-Kim talks happen anytime soon?",

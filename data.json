@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-23T06:37:18Z",
-  "count": 31,
+  "updated": "2026-08-23T12:35:26Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "All the ways Putin could attack Britain from cyber chaos to full-scale drone strikes after ambassador warned London of 'consequences' for helping Ukraine",
+      "url": "https://www.dailymail.com/news/article-16064077/Putin-attack-Britain.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-22T11:38:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What Russia learned from Putin and Trump in Anchorage",
+      "url": "https://www.rt.com/news/644511-what-russia-learned-anchorage/",
+      "source": "RT",
+      "publishedAt": "2026-08-22T11:20:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 8/22/2026",
+      "url": "https://www.nakedcapitalism.com/2026/08/links-8-22-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-08-22T10:59:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea says record-high Japan defence budget would risk 'turmoil'",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-japan-record-high-budget-turmoil-6334851",
+      "source": "CNA",
+      "publishedAt": "2026-08-22T10:57:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Germany’s ‘mammoth’ €12bn arms programme for long-range missiles in case of Russian attack",
+      "url": "https://en.protothema.gr/2026/08/22/germanys-mammoth-e12bn-arms-programme-for-long-range-missiles-in-case-of-russian-attack/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-08-22T09:50:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Treasury Secretary Bessent Promises New Iran Measures Amid Stalemate",
       "url": "https://www.naturalnews.com/2026-08-22-bessent-promises-new-iran-measures-amid-stalemate.html",
@@ -147,14 +187,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Two killed in Russian strike on Ukrainian shopping mall",
-      "url": "https://www.rte.ie/news/ukraine/2026/0821/1588794-russia-ukraine-war/",
-      "source": "RTE",
-      "publishedAt": "2026-08-21T14:53:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump Threatens 'Economic D-Day' for Iran as Sanctions Push Extends Six-Month-Old Conflict Further",
       "url": "https://www.ibtimes.com.au/trump-intensifies-economic-pressure-iran-1874360",
       "source": "Ibtimes.com.au",
@@ -169,14 +201,6 @@
       "publishedAt": "2026-08-21T14:23:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Can the World Survive Putin’s Well Intentioned Mistake? “The Dangers in Putin’s Patience”",
-      "url": "https://www.globalresearch.ca/can-world-survive-putin-well-intentioned-mistake/5937591",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-21T13:29:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Israel unleashes new strikes on southern Lebanon (VIDEOS)",
@@ -195,44 +219,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Ukraine is teaching NATO troops how ground robots work in war — and where they don't",
-      "url": "https://www.businessinsider.com/ukraine-teaching-nato-troops-how-ground-robots-work-war-2026-8#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-21T11:44:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
       "url": "https://www.dw.com/en/north-korea-trump-kim-jong-un-talks-nuclear-missiles-south-korea/a-78456342",
       "source": "DW (English)",
       "publishedAt": "2026-08-21T10:47:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Japan protests Russian missile tests off disputed islands",
-      "url": "https://www.channelnewsasia.com/east-asia/japan-protests-russia-missile-tests-disputed-islands-putin-visit-6333311",
-      "source": "CNA",
-      "publishedAt": "2026-08-21T10:42:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump’s Asia pullback is a gift to China and North Korea",
-      "url": "https://www.salon.com/2026/08/21/trumps-asia-pullback-is-a-gift-to-china-and-north-korea/",
-      "source": "Salon",
-      "publishedAt": "2026-08-21T10:30:21Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The invisible war: Iran's evolving cyberattacks bring battlefront to small-town America",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/the-invisible-war-irans-evolving-cyberattacks-bring-battlefront-to-small-town-america/articleshow/133267088.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-21T09:37:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "US redeploys aircraft carriers to Middle East, leaves Asia-Pacific gap",

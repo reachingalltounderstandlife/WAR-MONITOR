@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-22T18:27:05Z",
-  "count": 36,
+  "updated": "2026-08-23T01:12:57Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "Thank You for Your Inattention to This Matter",
+      "url": "https://www.theatlantic.com/newsletters/2026/08/trump-inattention-iran-war/688381/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-08-21T22:16:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump Needs China’s Help to Effectively Sanction Iran",
+      "url": "http://foreignpolicy.com/2026/08/21/us-sanctions-iran-war-trump-bessent-china/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-08-21T20:05:26Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel's impunity has been virtually unaffected by collective concern",
+      "url": "https://www.abc.net.au/news/2026-08-22/israel-gaza-west-bank-zomi-frankcom-mike-huckabee-netanyahu/107058398",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-08-21T19:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "German army helps Poland protect itself against Russia",
+      "url": "https://www.dw.com/en/german-army-helps-poland-protect-itself-against-russia/a-78464726",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-21T18:44:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "German army helps Poland construct a defensive barrier against Russia",
+      "url": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-21T18:44:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Puppet Masters Will Be Unleashed on Americans",
       "url": "https://www.thenation.com/article/politics/puppet-masters-will-be-unleashed-on-americans/",
@@ -171,44 +211,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Scaled-back US-South Korea drills end: Seoul",
-      "url": "https://www.hurriyetdailynews.com/scaled-back-us-south-korea-drills-end-seoul-225890",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-08-21T09:55:51Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Russia's escalating strikes in Ukraine increasingly spilling into NATO, Romania says",
-      "url": "https://abcnews.com/International/russia-drone-incursions-nato-airspace-jump-exponentially-2026/story?id=135771388",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-08-21T09:41:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The invisible war: Iran's evolving cyberattacks bring battlefront to small-town America",
       "url": "https://timesofindia.indiatimes.com/world/middle-east/the-invisible-war-irans-evolving-cyberattacks-bring-battlefront-to-small-town-america/articleshow/133267088.cms",
       "source": "The Times of India",
       "publishedAt": "2026-08-21T09:37:31Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "US, South Korean Militaries Wrapping Up Drills Early, a Day After North Korea's Missile Barrage",
-      "url": "https://military.com/us-south-korean-militaries-wrapping-up-drills-early-day-after-north-koreas-missile-barrage",
-      "source": "Military.com",
-      "publishedAt": "2026-08-21T09:34:39Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Ukraine’s ‘Equalizer’ bomb aims to blow up reliance on US, European weapons",
-      "url": "https://www.foxnews.com/politics/ukraines-equalizer-bomb-aims-blow-reliance-us-european-weapons",
-      "source": "Fox News",
-      "publishedAt": "2026-08-21T09:00:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Oil set for second weekly rise on supply concerns",
@@ -235,58 +243,10 @@
       "_label": "Taiwan"
     },
     {
-      "title": "U.S. Envoy Calls Israeli Strikes on Syrian Airfield “Unnecessary Escalation”",
-      "url": "https://www.naturalnews.com/2026-08-21-us-envoy-israeli-strikes-syrian-airfield-unnecessary-escalation.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-21T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "South Korea Reaffirms Military Independence Push After Trump Orders Reduced Drills",
-      "url": "https://www.naturalnews.com/2026-08-21-south-korea-push-military-independence-trump-reduced-drills.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-21T06:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "What happens when interceptor missiles run out? The growing shortage is causing panic in Ukraine and elsewhere",
       "url": "https://freerepublic.com/focus/f-news/4392573/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-08-21T02:15:49Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "China's PLA used drones to send gold bars, US$100 notes in a bizarre 'wartime financial support' drill",
-      "url": "https://www.techradar.com/pro/chinas-pla-used-drones-to-send-gold-bars-us-usd100-notes-in-a-bizarre-wartime-financial-support-drill",
-      "source": "TechRadar",
-      "publishedAt": "2026-08-20T21:40:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Hezbollah won’t disarm – Beirut residents to RT (VIDEO)",
-      "url": "https://www.rt.com/news/644432-hezbollah-beirut-lebanon-israel/",
-      "source": "RT",
-      "publishedAt": "2026-08-20T13:21:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why Israel struck Abu al-Duhur Airbase",
-      "url": "https://www.israelnationalnews.com/news/431968",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-08-20T05:01:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "A battle for Taipei could hinge on defending this river. Here's how Taiwan's forces are readying for that fight.",
-      "url": "https://www.businessinsider.com/china-victory-taiwan-single-river-tamsui-taipei-trianing-defend-2026-8#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-20T04:48:38Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
     }

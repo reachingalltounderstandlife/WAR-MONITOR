@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-23T01:12:57Z",
+  "updated": "2026-08-23T06:37:18Z",
   "count": 31,
   "articles": [
+    {
+      "title": "Treasury Secretary Bessent Promises New Iran Measures Amid Stalemate",
+      "url": "https://www.naturalnews.com/2026-08-22-bessent-promises-new-iran-measures-amid-stalemate.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-22T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia Vows Continued Retaliation for Ukrainian Strikes on Civilians, Foreign Ministry Says",
+      "url": "https://www.naturalnews.com/2026-08-22-russia-vows-retaliation-for-ukranian-strikes-civilians.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-22T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran's Weapons Production Doubled in Past Year Despite US, Israeli Strikes",
+      "url": "https://sputnikglobe.com/20260822/irans-weapons-production-doubled-in-past-year-despite-us-israeli-strikes-1124613530.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-08-22T03:40:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Thank You for Your Inattention to This Matter",
       "url": "https://www.theatlantic.com/newsletters/2026/08/trump-inattention-iran-war/688381/",
@@ -203,34 +227,10 @@
       "_label": "N. Korea"
     },
     {
-      "title": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
-      "url": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
-      "source": "CNBC",
-      "publishedAt": "2026-08-21T10:15:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The invisible war: Iran's evolving cyberattacks bring battlefront to small-town America",
       "url": "https://timesofindia.indiatimes.com/world/middle-east/the-invisible-war-irans-evolving-cyberattacks-bring-battlefront-to-small-town-america/articleshow/133267088.cms",
       "source": "The Times of India",
       "publishedAt": "2026-08-21T09:37:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil set for second weekly rise on supply concerns",
-      "url": "https://www.rte.ie/news/business/2026/0821/1588751-world-oil-prices/",
-      "source": "RTE",
-      "publishedAt": "2026-08-21T08:27:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil Set for Second Weekly Rise as Unsettled US-Iran War Crimps Supply",
-      "url": "https://english.aawsat.com/business/5309408-oil-set-second-weekly-rise-unsettled-us-iran-war-crimps-supply",
-      "source": "Aawsat.com",
-      "publishedAt": "2026-08-21T08:11:45Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

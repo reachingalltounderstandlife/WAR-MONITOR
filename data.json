@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-23T18:25:57Z",
-  "count": 33,
+  "updated": "2026-08-24T01:10:20Z",
+  "count": 13,
   "articles": [
+    {
+      "title": "Trump Heads Into Midterms Short On Foreign Policy Wins",
+      "url": "https://www.huffpost.com/entry/trump-midterms-foreign-policy_n_6a8a12a6e4b0313bf9e5f9e9",
+      "source": "HuffPost",
+      "publishedAt": "2026-08-22T21:28:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "U.S. Special Envoy Tom Barrack Contradicts Trump Policy, Claims Israel ‘Occupies’ Golan Heights",
       "url": "https://legalinsurrection.com/2026/08/u-s-special-envoy-tom-barrack-contradicts-trump-policy-claims-israel-occupies-golan-heights/",
@@ -97,174 +105,6 @@
       "publishedAt": "2026-08-22T03:40:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Thank You for Your Inattention to This Matter",
-      "url": "https://www.theatlantic.com/newsletters/2026/08/trump-inattention-iran-war/688381/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-08-21T22:16:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump Needs China’s Help to Effectively Sanction Iran",
-      "url": "http://foreignpolicy.com/2026/08/21/us-sanctions-iran-war-trump-bessent-china/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-08-21T20:05:26Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Israel's impunity has been virtually unaffected by collective concern",
-      "url": "https://www.abc.net.au/news/2026-08-22/israel-gaza-west-bank-zomi-frankcom-mike-huckabee-netanyahu/107058398",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-08-21T19:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "German army helps Poland protect itself against Russia",
-      "url": "https://www.dw.com/en/german-army-helps-poland-protect-itself-against-russia/a-78464726",
-      "source": "DW (English)",
-      "publishedAt": "2026-08-21T18:44:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "German army helps Poland construct a defensive barrier against Russia",
-      "url": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726",
-      "source": "DW (English)",
-      "publishedAt": "2026-08-21T18:44:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Puppet Masters Will Be Unleashed on Americans",
-      "url": "https://www.thenation.com/article/politics/puppet-masters-will-be-unleashed-on-americans/",
-      "source": "Thenation.com",
-      "publishedAt": "2026-08-21T18:14:18Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Is Israel trying to start a proxy war in Syria?",
-      "url": "https://www.rt.com/news/644494-israel-syria-turkiye-proxy-war/",
-      "source": "RT",
-      "publishedAt": "2026-08-21T17:47:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
-      "url": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-21T17:29:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "What in the World?",
-      "url": "http://foreignpolicy.com/2026/08/21/news-quiz-trump-south-korea-kim-jong-un-iran-deadline-russia-ukraine/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-08-21T17:20:53Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The next war nobody wants: Can Israel and Turkey avoid a conflict?",
-      "url": "https://economictimes.indiatimes.com/news/defence/the-next-war-nobody-wants-can-israel-and-turkey-avoid-a-conflict/articleshow/133409318.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-21T16:50:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s president calls for end to war with US and Israel, claiming Tehran is winning",
-      "url": "https://cryptobriefing.com/iran-president-urges-end-war-us-israel/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-21T16:30:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "South Korea Urges Direct Trump-Kim Talks as War Games End Early",
-      "url": "https://www.breitbart.com/asia/2026/08/21/south-korea-urges-direct-trump-kim-talks-war-games-end-early/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-08-21T16:16:37Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Why Did Trump Allow Kim Jong Un To Grow His Nuclear Arsenal Substantially?",
-      "url": "https://crooksandliars.com/2026/08/why-did-trump-allow-kim-jong-un-grow-his",
-      "source": "Crooksandliars.com",
-      "publishedAt": "2026-08-21T16:08:59Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Uninhabitable Gaza shelters, Yemen war warnings, and record aid worker deaths: The Cheat Sheet",
-      "url": "https://www.thenewhumanitarian.org/news2026/08/21/uninhabitable-gaza-shelters-yemen-war-warnings-aid-worker-deaths-cheat-sheet",
-      "source": "The New Humanitarian",
-      "publishedAt": "2026-08-21T15:26:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Moves to Scale Back US War Drills in Korea. We Should Support That.",
-      "url": "https://truthout.org/articles/trump-moves-to-scale-back-us-war-drills-in-korea-we-should-support-that/",
-      "source": "Truthout",
-      "publishedAt": "2026-08-21T14:56:40Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump Threatens 'Economic D-Day' for Iran as Sanctions Push Extends Six-Month-Old Conflict Further",
-      "url": "https://www.ibtimes.com.au/trump-intensifies-economic-pressure-iran-1874360",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-08-21T14:36:16Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Nagasaki Remembered… and Its Lesson Forgotten?",
-      "url": "https://www.fairobserver.com/region/asia_pacific/nagasaki-remembered-and-its-lesson-forgotten/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-08-21T14:23:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Israel unleashes new strikes on southern Lebanon (VIDEOS)",
-      "url": "https://www.rt.com/news/644477-israel-unleashes-new-strikes-lebanon/",
-      "source": "RT",
-      "publishedAt": "2026-08-21T12:56:05Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
-      "url": "https://www.dw.com/en/north-korea-trump-kim-jong-un-talks-nuclear-missiles-south-korea/a-78456342",
-      "source": "DW (English)",
-      "publishedAt": "2026-08-21T10:47:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "US redeploys aircraft carriers to Middle East, leaves Asia-Pacific gap",
-      "url": "https://cryptobriefing.com/us-redeploys-aircraft-carriers-to-middle-east-leaves-asia-pacific-gap/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-21T07:25:20Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "What happens when interceptor missiles run out? The growing shortage is causing panic in Ukraine and elsewhere",
-      "url": "https://freerepublic.com/focus/f-news/4392573/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-08-21T02:15:49Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-24T12:45:06Z",
-  "count": 22,
+  "updated": "2026-08-24T18:36:46Z",
+  "count": 23,
   "articles": [
+    {
+      "title": "United States to unveil ‘toughest sanctions in history’ on Iran",
+      "url": "https://www.irishtimes.com/world/us/2026/08/23/united-states-to-unveil-toughest-sanctions-in-history-on-iran/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-23T18:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s “Mental Insanity”. Endangers the Entire Planet",
+      "url": "https://www.globalresearch.ca/trumps-mental-insanity-endangers-the-entire-planet/5937671",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-23T15:24:25Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Iranian Regime-Backed Hackers Shut Down UK Power Plant",
+      "url": "https://legalinsurrection.com/2026/08/iranian-regime-backed-hackers-shut-down-uk-power-plant/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-08-23T14:00:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
       "url": "https://abcnews.com/Business/wireStory/irans-president-us-memorandum-best-path-stalled-war-135879989",
@@ -91,28 +115,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran security chief warns neighbours against joining US economic pressure",
-      "url": "https://www.business-standard.com/world-news/iran-security-chief-warns-neighbours-against-joining-us-economic-pressure-126082300027_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-08-23T02:08:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel conducts 28 airstrikes on Nabatieh ridge amid Lebanon tensions",
       "url": "https://cryptobriefing.com/israel-conducts-28-airstrikes-on-nabatieh-ridge-amid-lebanon-tensions/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-08-23T01:47:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Heads Into Midterms Short On Foreign Policy Wins",
-      "url": "https://www.huffpost.com/entry/trump-midterms-foreign-policy_n_6a8a12a6e4b0313bf9e5f9e9",
-      "source": "HuffPost",
-      "publishedAt": "2026-08-22T21:28:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "U.S. Special Envoy Tom Barrack Contradicts Trump Policy, Claims Israel ‘Occupies’ Golan Heights",

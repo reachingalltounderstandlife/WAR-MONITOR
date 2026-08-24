@@ -1,7 +1,87 @@
 {
-  "updated": "2026-08-24T06:53:58Z",
-  "count": 16,
+  "updated": "2026-08-24T12:45:06Z",
+  "count": 22,
   "articles": [
+    {
+      "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
+      "url": "https://abcnews.com/Business/wireStory/irans-president-us-memorandum-best-path-stalled-war-135879989",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-23T12:34:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The wrong way to review US force posture in Europe",
+      "url": "https://www.defenseone.com/ideas/2026/08/force-posture-review-europe/415584/",
+      "source": "Defense One",
+      "publishedAt": "2026-08-23T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Unleashed",
+      "url": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-08-23T11:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Syria foreign minister says door open for diplomacy with Israel",
+      "url": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-23T10:48:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Donald Trump has made the world go nuclear",
+      "url": "https://www.salon.com/2026/08/23/donald-trump-has-made-the-world-go-nuclear/",
+      "source": "Salon",
+      "publishedAt": "2026-08-23T10:45:32Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Syrian FM: Talks with Israel expected to resume soon despite lack of trust",
+      "url": "https://www.israelnationalnews.com/news/432106",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-08-23T10:23:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Hacked and Shut Down a British Power Plant for Days: Report",
+      "url": "https://www.breitbart.com/europe/2026/08/23/iran-hacked-and-shut-down-a-british-power-plant-for-days-report/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-08-23T09:57:38Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump plays nuclear poker with Kim Jong Un — but who holds the cards?",
+      "url": "https://www.foxnews.com/politics/trump-plays-nuclear-poker-kim-jong-un-who-holds-cards",
+      "source": "Fox News",
+      "publishedAt": "2026-08-23T09:00:46Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran's decades-long war planning helped it withstand US-Israel strikes",
+      "url": "https://www.business-standard.com/world-news/iran-s-decades-long-war-planning-helped-it-withstand-us-israel-strikes-126082300259_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-23T08:03:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran's four-decade war planning makes it difficult for US to decimate it: Expert",
+      "url": "https://economictimes.indiatimes.com/news/defence/irans-four-decade-war-planning-makes-it-difficult-for-us-to-decimate-it-expert/articleshow/133436290.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-23T07:46:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Jordan caught in Iran-US-Israel war crossfire",
       "url": "https://www.abc.net.au/news/2026-08-23/jordan-caught-in-the-iran-us-israel-war-crossfire/107064774",
@@ -51,22 +131,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "What did war with the US reveal about Iran’s weapons capabilities?",
-      "url": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-22T14:19:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump’s economic isolation plan risks Iran strikes across Gulf",
-      "url": "https://economictimes.indiatimes.com/news/defence/trumps-economic-isolation-plan-risks-iran-strikes-across-gulf/articleshow/133425259.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-22T13:29:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "All the ways Putin could attack Britain from cyber chaos to full-scale drone strikes after ambassador warned London of 'consequences' for helping Ukraine",
       "url": "https://www.dailymail.com/news/article-16064077/Putin-attack-Britain.html",
       "source": "Dailymail.com",
@@ -87,8 +151,8 @@
       "url": "https://www.nakedcapitalism.com/2026/08/links-8-22-2026.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-08-22T10:59:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "North Korea says record-high Japan defence budget would risk 'turmoil'",
@@ -107,28 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Treasury Secretary Bessent Promises New Iran Measures Amid Stalemate",
-      "url": "https://www.naturalnews.com/2026-08-22-bessent-promises-new-iran-measures-amid-stalemate.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-22T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Russia Vows Continued Retaliation for Ukrainian Strikes on Civilians, Foreign Ministry Says",
       "url": "https://www.naturalnews.com/2026-08-22-russia-vows-retaliation-for-ukranian-strikes-civilians.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-08-22T06:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran's Weapons Production Doubled in Past Year Despite US, Israeli Strikes",
-      "url": "https://sputnikglobe.com/20260822/irans-weapons-production-doubled-in-past-year-despite-us-israeli-strikes-1124613530.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-08-22T03:40:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     }
   ]
 }

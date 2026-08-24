@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-24T01:10:20Z",
-  "count": 13,
+  "updated": "2026-08-24T06:53:58Z",
+  "count": 16,
   "articles": [
+    {
+      "title": "Jordan caught in Iran-US-Israel war crossfire",
+      "url": "https://www.abc.net.au/news/2026-08-23/jordan-caught-in-the-iran-us-israel-war-crossfire/107064774",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-08-23T03:04:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran security chief warns neighbours against joining US economic pressure",
+      "url": "https://www.business-standard.com/world-news/iran-security-chief-warns-neighbours-against-joining-us-economic-pressure-126082300027_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-23T02:08:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel conducts 28 airstrikes on Nabatieh ridge amid Lebanon tensions",
+      "url": "https://cryptobriefing.com/israel-conducts-28-airstrikes-on-nabatieh-ridge-amid-lebanon-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-23T01:47:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Trump Heads Into Midterms Short On Foreign Policy Wins",
       "url": "https://www.huffpost.com/entry/trump-midterms-foreign-policy_n_6a8a12a6e4b0313bf9e5f9e9",

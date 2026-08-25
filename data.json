@@ -1,7 +1,87 @@
 {
-  "updated": "2026-08-25T06:42:32Z",
-  "count": 21,
+  "updated": "2026-08-25T12:42:33Z",
+  "count": 26,
   "articles": [
+    {
+      "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
+      "url": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-24T12:28:26Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "U.K. to provide long-range missile blueprints to Ukraine",
+      "url": "https://www.cbc.ca/news/world/russia-ukraine-war-1642-9.7317926",
+      "source": "CBC News",
+      "publishedAt": "2026-08-24T12:15:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US announces more secondary sanctions against Iran, threatens countries that do not comply that they will 'share in the isolation'",
+      "url": "https://www.dw.com/en/us-announces-bid-to-further-isolate-iran-economically/a-78483909",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-24T11:35:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US to unveil new Iran sanctions, says war entering 'endgame'",
+      "url": "https://www.dw.com/en/us-to-unveil-new-iran-sanctions-says-war-entering-endgame/a-78483909",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-24T11:35:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How the GOP is approaching data center backlash and why Trump is pivoting to North Korea: Morning Rundown",
+      "url": "https://www.nbcnews.com/news/us-news/gop-data-center-backlash-trump-pivoting-north-korea-morning-rundown-rcna593964",
+      "source": "NBC News",
+      "publishedAt": "2026-08-24T10:57:51Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran warns of a harsh response to anticipated US sanctions and other Middle East news",
+      "url": "https://www.yahoo.com/news/us/articles/iran-warns-harsh-response-anticipated-104856351.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-24T10:48:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "After the Melania threat, Iranian state TV targets Barron Trump with a $10 million bounty",
+      "url": "https://en.protothema.gr/2026/08/24/after-the-melania-threat-iranian-state-tv-targets-barron-trump-with-a-10-million-bounty/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-08-24T10:36:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Spooks Run the Show",
+      "url": "https://www.nakedcapitalism.com/2026/08/spooks-run-the-show.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-08-24T10:00:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "South Korea says US cancels joint marine drill over Iran war",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-us-cancels-joint-marine-drill-iran-war-6337511",
+      "source": "CNA",
+      "publishedAt": "2026-08-24T09:49:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "European Leaders Join Zelenskyy In Kyiv For Ukraine Independence Day As Russian Invasion Pushes On",
+      "url": "https://www.huffpost.com/entry/ukraine-independence-day-world-leaders-visit_n_6a8c037ce4b006e7e00e7913",
+      "source": "HuffPost",
+      "publishedAt": "2026-08-24T08:47:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "US vows ‘economic D-Day’ as Iran threatens to halt all oil exports",
       "url": "https://www.irishtimes.com/world/middle-east/2026/08/24/us-vows-economic-d-day-as-iran-threatens-to-halt-all-oil-exports/",
@@ -43,46 +123,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "'We took the head off the snake': US to enter 'new phase' in Iran war very soon, says US House Speaker Mike Johnson",
-      "url": "https://economictimes.indiatimes.com/news/defence/we-took-the-head-off-the-snake-us-to-enter-new-phase-in-iran-war-very-soon-says-us-house-speaker-mike-johnson/articleshow/133451341.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-24T04:39:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
-      "url": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-24T03:56:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Report: Greece moves Patriot battery to Crete amid heightened tensions with Iran",
-      "url": "https://www.israelnationalnews.com/news/432132",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-08-24T01:53:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US vows 'economic D-Day' as Iran threatens to halt all oil exports",
-      "url": "https://uk.news.yahoo.com/us-vows-economic-d-day-003335422.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-24T01:14:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran says new sanctions threatened by 'desperate' US will fail",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-says-new-sanctions-threatened-by-desperate-us-will-fail/articleshow/133448862.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-24T00:52:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Why So Many Countries Around the World Quietly Root for Iran",
       "url": "https://original.antiwar.com/trita-parsi/2026/08/23/why-so-many-countries-around-the-world-quietly-root-for-iran/",
       "source": "Antiwar.com",
@@ -95,8 +135,8 @@
       "url": "https://www.israelnationalnews.com/news/432128",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-08-23T22:22:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "A US envoy clarifies his comments on Golan Heights that contradicted Trump's position",

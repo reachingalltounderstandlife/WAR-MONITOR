@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-25T01:08:54Z",
-  "count": 19,
+  "updated": "2026-08-25T06:42:32Z",
+  "count": 21,
   "articles": [
+    {
+      "title": "US vows ‘economic D-Day’ as Iran threatens to halt all oil exports",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/08/24/us-vows-economic-d-day-as-iran-threatens-to-halt-all-oil-exports/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-24T06:32:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump's North Korea gambit tests US ties with Asian partners, including India",
+      "url": "https://economictimes.indiatimes.com/news/defence/trumps-north-korea-gambit-tests-us-ties-with-asian-partners-including-india/articleshow/133453345.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-24T06:22:52Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "USS Abraham Lincoln Concludes Record Deployment Amid Reports of Supply Shortages and Low Morale",
+      "url": "https://www.naturalnews.com/2026-08-24-uss-abraham-lincoln-concludes-record-deployment.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-24T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli army officials accuse Netanyahu of seeking to escalate conflicts to delay elections, report says",
+      "url": "https://www.naturalnews.com/2026-08-24-netanyahu-seeking-escalate-conflicts-to-delay-elections.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-24T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US vows 'economic D-Day' as Iran threatens oil exports",
+      "url": "https://www.rte.ie/news/world/2026/0824/1588950-middle-east/",
+      "source": "RTE",
+      "publishedAt": "2026-08-24T05:59:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'We took the head off the snake': US to enter 'new phase' in Iran war very soon, says US House Speaker Mike Johnson",
+      "url": "https://economictimes.indiatimes.com/news/defence/we-took-the-head-off-the-snake-us-to-enter-new-phase-in-iran-war-very-soon-says-us-house-speaker-mike-johnson/articleshow/133451341.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-24T04:39:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions",
+      "url": "https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-24T03:56:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Report: Greece moves Patriot battery to Crete amid heightened tensions with Iran",
+      "url": "https://www.israelnationalnews.com/news/432132",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-08-24T01:53:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US vows 'economic D-Day' as Iran threatens to halt all oil exports",
+      "url": "https://uk.news.yahoo.com/us-vows-economic-d-day-003335422.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-24T01:14:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Iran says new sanctions threatened by 'desperate' US will fail",
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-says-new-sanctions-threatened-by-desperate-us-will-fail/articleshow/133448862.cms",
@@ -43,28 +115,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Iran threatens to halt all Persian Gulf oil exports, labels US support as act of war",
-      "url": "https://cryptobriefing.com/iran-threatens-halt-persian-gulf-oil-exports/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-23T19:51:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "A US envoy walks back his comments on Golan Heights that contradicted Trump's position",
       "url": "https://www.yahoo.com/news/politics/articles/us-envoy-walks-back-comments-190343038.html",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-08-23T19:03:43Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "United States to unveil ‘toughest sanctions in history’ on Iran",
-      "url": "https://www.irishtimes.com/world/us/2026/08/23/united-states-to-unveil-toughest-sanctions-in-history-on-iran/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-08-23T18:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Trump’s “Mental Insanity”. Endangers the Entire Planet",
@@ -75,22 +131,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Iranian Regime-Backed Hackers Shut Down UK Power Plant",
-      "url": "https://legalinsurrection.com/2026/08/iranian-regime-backed-hackers-shut-down-uk-power-plant/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-08-23T14:00:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s president says US memorandum is best path out of stalled war, and other Middle East news",
-      "url": "https://abcnews.com/Business/wireStory/irans-president-us-memorandum-best-path-stalled-war-135879989",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-08-23T12:34:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The wrong way to review US force posture in Europe",
       "url": "https://www.defenseone.com/ideas/2026/08/force-posture-review-europe/415584/",
       "source": "Defense One",
@@ -99,36 +139,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran Unleashed",
-      "url": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-08-23T11:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Syria foreign minister says door open for diplomacy with Israel",
-      "url": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-23T10:48:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Donald Trump has made the world go nuclear",
       "url": "https://www.salon.com/2026/08/23/donald-trump-has-made-the-world-go-nuclear/",
       "source": "Salon",
       "publishedAt": "2026-08-23T10:45:32Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Syrian FM: Talks with Israel expected to resume soon despite lack of trust",
-      "url": "https://www.israelnationalnews.com/news/432106",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-08-23T10:23:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Iran Hacked and Shut Down a British Power Plant for Days: Report",

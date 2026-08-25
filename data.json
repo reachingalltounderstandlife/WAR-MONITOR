@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-25T12:42:33Z",
-  "count": 26,
+  "updated": "2026-08-25T18:36:12Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "US Leaders Must Call for De-Escalation and Peace on the Korean Peninsula",
+      "url": "https://www.commondreams.org/opinion/us-call-for-peace-korea",
+      "source": "Common Dreams",
+      "publishedAt": "2026-08-24T18:22:34Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US to broaden secondary sanctions to isolate Iran on 'economic D-Day'",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-to-broaden-secondary-sanctions-to-isolate-iran-on-economic-d-day/articleshow/133473057.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-24T16:18:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Warns of Ship Seizures in Strait of Hormuz as US Prepares 'Economic D-Day' Sanctions",
+      "url": "https://www.ibtimes.com.au/tensions-rise-iran-threatens-ship-seizures-strait-hormuz-1874489",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-08-24T15:34:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO Wages “Hybrid War” against Russia: Europe Prepares for Wider Conflict?",
+      "url": "https://www.globalresearch.ca/nato-hybrid-war-russia-europe-prepares-wider-conflict/5937859",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-24T15:16:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s Kim gambit deepens doubts over US reliability at a key moment for Asia",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/08/24/trumps-kim-gambit-deepens-doubts-over-us-reliability-at-a-key-moment-for-asia/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-24T15:10:59Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Global Research Daily: The News Behind the News",
+      "url": "https://www.globalresearch.ca/global-research-daily-news-behind-news-13-23/5937765",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-24T14:08:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "First Brit dies while fighting for Russia in Ukraine: 'Normal lad from Yorkshire' is 'killed by drone'",
+      "url": "https://www.dailymail.com/news/article-16075833/First-Brit-dies-fighting-Russia-Ukraine-Yorkshire-killed-drone.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-24T14:00:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran protest victim: 'They were shooting to kill'",
+      "url": "https://www.dw.com/en/iran-protest-victim-they-were-shooting-to-kill/a-78486217",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-24T13:40:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel-Turkey Tensions Raise Fears of a Wider Regional Confrontation",
+      "url": "https://www.globalresearch.ca/srael-turkey-tensions-raise-fears-wider-regional-confrontation/5937756",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-24T13:29:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The War Economy",
+      "url": "https://www.globalresearch.ca/war-economy/5937738",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-24T12:58:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UK missiles offer may help Ukraine - but is not what Zelensky needs most",
+      "url": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o",
+      "source": "BBC News",
+      "publishedAt": "2026-08-24T12:51:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
       "url": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war",
@@ -63,8 +151,8 @@
       "url": "https://www.nakedcapitalism.com/2026/08/spooks-run-the-show.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-08-24T10:00:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "South Korea says US cancels joint marine drill over Iran war",
@@ -83,44 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US vows ‘economic D-Day’ as Iran threatens to halt all oil exports",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/08/24/us-vows-economic-d-day-as-iran-threatens-to-halt-all-oil-exports/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-08-24T06:32:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump's North Korea gambit tests US ties with Asian partners, including India",
       "url": "https://economictimes.indiatimes.com/news/defence/trumps-north-korea-gambit-tests-us-ties-with-asian-partners-including-india/articleshow/133453345.cms",
       "source": "The Times of India",
       "publishedAt": "2026-08-24T06:22:52Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "USS Abraham Lincoln Concludes Record Deployment Amid Reports of Supply Shortages and Low Morale",
-      "url": "https://www.naturalnews.com/2026-08-24-uss-abraham-lincoln-concludes-record-deployment.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-24T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli army officials accuse Netanyahu of seeking to escalate conflicts to delay elections, report says",
-      "url": "https://www.naturalnews.com/2026-08-24-netanyahu-seeking-escalate-conflicts-to-delay-elections.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-24T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US vows 'economic D-Day' as Iran threatens oil exports",
-      "url": "https://www.rte.ie/news/world/2026/0824/1588950-middle-east/",
-      "source": "RTE",
-      "publishedAt": "2026-08-24T05:59:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Why So Many Countries Around the World Quietly Root for Iran",

@@ -1,12 +1,132 @@
 {
-  "updated": "2026-08-26T06:44:29Z",
-  "count": 28,
+  "updated": "2026-08-26T12:47:31Z",
+  "count": 30,
   "articles": [
     {
-      "title": "Iran Threatens to Block Gulf Oil Exports if Region Cooperates with U.S. Plan",
-      "url": "https://www.naturalnews.com/2026-08-25-iran-threatens-to-block-gulf-oil-exports.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-25T06:00:00Z",
+      "title": "“Kurdish Question” Not Over: How US Policy Helped Create New Middle East Problem",
+      "url": "https://www.globalresearch.ca/kurdish-question-us-policy-helped-create-new-middle-east-problem/5937877",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-25T12:44:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran defiant in face of new U.S. sanctions, promises to respond forcefully",
+      "url": "https://www.cbc.ca/news/world/us-iran-war-179-9.7319301",
+      "source": "CBC News",
+      "publishedAt": "2026-08-25T12:23:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelensky sees window for US mediation to end Ukraine war",
+      "url": "https://www.rte.ie/news/world/2026/0825/1589149-zelensky-sees-window-for-us-mediation-to-end-ukraine-war/",
+      "source": "RTE",
+      "publishedAt": "2026-08-25T12:03:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelensky sees window for US mediation to end Ukraine war",
+      "url": "https://www.rte.ie/news/ukraine/2026/0825/1589149-ukraine-russia-war/",
+      "source": "RTE",
+      "publishedAt": "2026-08-25T12:03:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Undersea Infrastructure : A Weak Spot For National Security",
+      "url": "https://www.forbes.com/sites/arielcohen/2026/08/25/undersea-infrastructure--a-weak-spot-for-national-security/",
+      "source": "Forbes",
+      "publishedAt": "2026-08-25T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Qataris Gave Trump an Airplane. He Crippled Their Country in Return.",
+      "url": "https://www.theatlantic.com/national-security/2026/08/qatar-jet-donald-trump/688321/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-08-25T11:24:53Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "These are the lessons Russia learned from Asia",
+      "url": "https://www.rt.com/news/644616-lessons-russia-learned-asia/",
+      "source": "RT",
+      "publishedAt": "2026-08-25T11:24:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Second drone found at Leipzig airport",
+      "url": "https://www.irishtimes.com/world/europe/2026/08/25/second-drone-found-at-leipzig-airport/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-25T11:10:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kremlin rebukes Finland's Stubb over his support for long-range Ukrainian strikes on Russia",
+      "url": "https://www.yahoo.com/news/world/articles/kremlin-rebukes-finlands-stubb-over-095540896.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-25T10:31:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Mark Carney tells Trump he will never own Canada amid tariffs",
+      "url": "https://www.salon.com/2026/08/25/mark-carney-tells-trump-he-will-never-own-canada-amid-tariffs/",
+      "source": "Salon",
+      "publishedAt": "2026-08-25T10:30:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran vows to retaliate after US widens sanctions",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/08/25/iran-vows-to-retaliate-after-us-widens-sanctions/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-25T09:14:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Is Europe ready for Ukraine’s defeat?",
+      "url": "https://www.rt.com/russia/644602-europe-ukraine-russia-drones/",
+      "source": "RT",
+      "publishedAt": "2026-08-25T09:09:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pakistan says significant progress made in talks on Iran-US war",
+      "url": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-25T08:32:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran hits back at US 'D-Day' sanctions and hints it could drag war out for the rest of Trump's presidency: 'We know how to play the game'",
+      "url": "https://www.dailymail.com/news/article-16077645/Iran-sanctions-Trumps-presidency-game.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-25T08:19:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Global Research Daily: The News Behind the News",
+      "url": "https://www.globalresearch.ca/global-research-daily-news-behind-news-13-24/5937966",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-25T08:06:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pakistan Holds Productive Talks With Iran on Conflict With US – Interior Minister",
+      "url": "https://sputnikglobe.com/20260825/pakistan-holds-productive-talks-with-iran-on-conflict-with-us--interior-minister-1124625694.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-08-25T07:28:43Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -19,26 +139,18 @@
       "_label": "Iran War"
     },
     {
+      "title": "Iran Threatens to Block Gulf Oil Exports if Region Cooperates with U.S. Plan",
+      "url": "https://www.naturalnews.com/2026-08-25-iran-threatens-to-block-gulf-oil-exports.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-25T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
       "title": "Poll Shows Majority of Voters Oppose U.S.-Israel Military Integration Plan",
       "url": "https://www.naturalnews.com/2026-08-25-majority-voters-oppose-us-israel-military-integration-plan.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-08-25T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pakistan mediation offers narrow path as US-Iran tensions persist",
-      "url": "https://www.naturalnews.com/2026-08-25-pakistan-mediation-offers-narrow-path-as-us-iran-tensions-persist.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-25T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pakistan says ‘significant progress’ made in talks with Iranian leaders",
-      "url": "https://www.israelnationalnews.com/news/432194",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-08-25T04:44:24Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -55,70 +167,14 @@
       "url": "https://www.juancole.com/2026/08/catastrophe-netanyahu-escalated.html",
       "source": "Juancole.com",
       "publishedAt": "2026-08-25T04:15:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran fuel shortages spark lines at pumps as US pressure bites",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/iran-fuel-shortages-spark-lines-at-pumps-as-us-pressure-bites",
-      "source": "Bloomberg",
-      "publishedAt": "2026-08-25T03:50:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran vows retaliation as US expands sanctions, threatens economic lifeline",
-      "url": "https://www.business-standard.com/world-news/iran-vows-retaliation-as-us-expands-sanctions-threatens-economic-lifeline-126082500084_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-08-25T02:20:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran vows retaliation after US expands economic sanctions",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-vows-retaliation-after-us-expands-economic-sanctions/article71387128.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-08-25T02:14:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Rice prices surge over 47% since start of Iran war, Hedgeye reports",
-      "url": "https://cryptobriefing.com/rice-prices-surge-iran-war-hedgeye/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-25T01:58:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Electrifying The Military - Could Batteries Replace Oil Soon?",
       "url": "https://www.forbes.com/sites/scottmontgomery/2026/08/24/electrifying-the-militarycould-batteries-replace-oil-soon/",
       "source": "Forbes",
       "publishedAt": "2026-08-25T00:54:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Thank You, Ukrainians! Happy Independence Day.",
-      "url": "https://michaelmcfaul.substack.com/p/thank-you-ukrainians-happy-independence",
-      "source": "Substack.com",
-      "publishedAt": "2026-08-25T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NHS-worker mother of first Brit to die fighting for Putin in Ukraine reveals he told her he was going to Romania - and how his family are now being made to suffer by the Kremlin",
-      "url": "https://www.dailymail.com/news/article-16076165/mother-Brit-die-fighting-Putin-Ukraine-speaks-out.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-24T23:06:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin ‘panicked’ as defiant Ukraine marks Independence Day under Russian bombardment",
-      "url": "https://www.foxnews.com/world/putin-panicked-defiant-ukraine-marks-independence-day-under-russian-bombardment",
-      "source": "Fox News",
-      "publishedAt": "2026-08-24T22:53:40Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -131,14 +187,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "How close are Russia and the UK to war?",
-      "url": "https://www.rt.com/news/644601-russia-uk-ambassador-war/",
-      "source": "RT",
-      "publishedAt": "2026-08-24T18:50:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "US Leaders Must Call for De-Escalation and Peace on the Korean Peninsula",
       "url": "https://www.commondreams.org/opinion/us-call-for-peace-korea",
       "source": "Common Dreams",
@@ -147,44 +195,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "NATO Wages “Hybrid War” against Russia: Europe Prepares for Wider Conflict?",
-      "url": "https://www.globalresearch.ca/nato-hybrid-war-russia-europe-prepares-wider-conflict/5937859",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-24T15:16:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump’s Kim gambit deepens doubts over US reliability at a key moment for Asia",
       "url": "https://www.irishtimes.com/world/asia-pacific/2026/08/24/trumps-kim-gambit-deepens-doubts-over-us-reliability-at-a-key-moment-for-asia/",
       "source": "The Irish Times",
       "publishedAt": "2026-08-24T15:10:59Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Global Research Daily: The News Behind the News",
-      "url": "https://www.globalresearch.ca/global-research-daily-news-behind-news-13-23/5937765",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-24T14:08:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "First Brit dies while fighting for Russia in Ukraine: 'Normal lad from Yorkshire' is 'killed by drone'",
-      "url": "https://www.dailymail.com/news/article-16075833/First-Brit-dies-fighting-Russia-Ukraine-Yorkshire-killed-drone.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-24T14:00:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The War Economy",
-      "url": "https://www.globalresearch.ca/war-economy/5937738",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-24T12:58:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",

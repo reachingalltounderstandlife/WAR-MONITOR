@@ -1,12 +1,92 @@
 {
-  "updated": "2026-08-26T01:11:18Z",
-  "count": 26,
+  "updated": "2026-08-26T06:44:29Z",
+  "count": 28,
   "articles": [
     {
-      "title": "Iran vows to retaliate after US widens sanctions",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-vows-to-retaliate-after-us-widens-sanctions/articleshow/133485955.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-25T01:11:04Z",
+      "title": "Iran Threatens to Block Gulf Oil Exports if Region Cooperates with U.S. Plan",
+      "url": "https://www.naturalnews.com/2026-08-25-iran-threatens-to-block-gulf-oil-exports.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-25T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Announces Discovery of Massive Offshore Gas Field Amid Ongoing U.S.-Israeli Threats",
+      "url": "https://www.naturalnews.com/2026-08-25-iran-announces-discovery-massive-offshore-gas-field.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-25T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Poll Shows Majority of Voters Oppose U.S.-Israel Military Integration Plan",
+      "url": "https://www.naturalnews.com/2026-08-25-majority-voters-oppose-us-israel-military-integration-plan.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-25T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pakistan mediation offers narrow path as US-Iran tensions persist",
+      "url": "https://www.naturalnews.com/2026-08-25-pakistan-mediation-offers-narrow-path-as-us-iran-tensions-persist.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-25T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pakistan says ‘significant progress’ made in talks with Iranian leaders",
+      "url": "https://www.israelnationalnews.com/news/432194",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-08-25T04:44:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Defying Russia, UK Leader Brings Missile-Making Plans To Ukraine",
+      "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/08/25/defying-russia-uk-leader-brings-missile-making-plans-to-ukraine/",
+      "source": "Forbes",
+      "publishedAt": "2026-08-25T04:27:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hormuz Catastrophe: Netanyahu & Trump knew Risks, Escalated Anyway",
+      "url": "https://www.juancole.com/2026/08/catastrophe-netanyahu-escalated.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-08-25T04:15:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran fuel shortages spark lines at pumps as US pressure bites",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/iran-fuel-shortages-spark-lines-at-pumps-as-us-pressure-bites",
+      "source": "Bloomberg",
+      "publishedAt": "2026-08-25T03:50:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran vows retaliation as US expands sanctions, threatens economic lifeline",
+      "url": "https://www.business-standard.com/world-news/iran-vows-retaliation-as-us-expands-sanctions-threatens-economic-lifeline-126082500084_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-25T02:20:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran vows retaliation after US expands economic sanctions",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-vows-retaliation-after-us-expands-economic-sanctions/article71387128.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-08-25T02:14:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Rice prices surge over 47% since start of Iran war, Hedgeye reports",
+      "url": "https://cryptobriefing.com/rice-prices-surge-iran-war-hedgeye/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-25T01:58:40Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -51,14 +131,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "US strikes Iran as military campaign escalates tensions further",
-      "url": "https://cryptobriefing.com/us-military-force-iran-escalation/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-24T19:43:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "How close are Russia and the UK to war?",
       "url": "https://www.rt.com/news/644601-russia-uk-ambassador-war/",
       "source": "RT",
@@ -73,22 +145,6 @@
       "publishedAt": "2026-08-24T18:22:34Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "US to broaden secondary sanctions to isolate Iran on 'economic D-Day'",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-to-broaden-secondary-sanctions-to-isolate-iran-on-economic-d-day/articleshow/133473057.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-24T16:18:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Warns of Ship Seizures in Strait of Hormuz as US Prepares 'Economic D-Day' Sanctions",
-      "url": "https://www.ibtimes.com.au/tensions-rise-iran-threatens-ship-seizures-strait-hormuz-1874489",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-08-24T15:34:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "NATO Wages “Hybrid War” against Russia: Europe Prepares for Wider Conflict?",
@@ -123,34 +179,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran protest victim: 'They were shooting to kill'",
-      "url": "https://www.dw.com/en/iran-protest-victim-they-were-shooting-to-kill/a-78486217",
-      "source": "DW (English)",
-      "publishedAt": "2026-08-24T13:40:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel-Turkey Tensions Raise Fears of a Wider Regional Confrontation",
-      "url": "https://www.globalresearch.ca/srael-turkey-tensions-raise-fears-wider-regional-confrontation/5937756",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-24T13:29:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The War Economy",
       "url": "https://www.globalresearch.ca/war-economy/5937738",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-08-24T12:58:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UK missiles offer may help Ukraine - but is not what Zelensky needs most",
-      "url": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o",
-      "source": "BBC News",
-      "publishedAt": "2026-08-24T12:51:10Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -161,22 +193,6 @@
       "publishedAt": "2026-08-24T12:28:26Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "US announces more secondary sanctions against Iran, threatens countries that do not comply that they will 'share in the isolation'",
-      "url": "https://www.dw.com/en/us-announces-bid-to-further-isolate-iran-economically/a-78483909",
-      "source": "DW (English)",
-      "publishedAt": "2026-08-24T11:35:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US to unveil new Iran sanctions, says war entering 'endgame'",
-      "url": "https://www.dw.com/en/us-to-unveil-new-iran-sanctions-says-war-entering-endgame/a-78483909",
-      "source": "DW (English)",
-      "publishedAt": "2026-08-24T11:35:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "How the GOP is approaching data center backlash and why Trump is pivoting to North Korea: Morning Rundown",

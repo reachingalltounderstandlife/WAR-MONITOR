@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-25T18:36:12Z",
-  "count": 33,
+  "updated": "2026-08-26T01:11:18Z",
+  "count": 26,
   "articles": [
+    {
+      "title": "Iran vows to retaliate after US widens sanctions",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-vows-to-retaliate-after-us-widens-sanctions/articleshow/133485955.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-25T01:11:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Electrifying The Military - Could Batteries Replace Oil Soon?",
+      "url": "https://www.forbes.com/sites/scottmontgomery/2026/08/24/electrifying-the-militarycould-batteries-replace-oil-soon/",
+      "source": "Forbes",
+      "publishedAt": "2026-08-25T00:54:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Thank You, Ukrainians! Happy Independence Day.",
+      "url": "https://michaelmcfaul.substack.com/p/thank-you-ukrainians-happy-independence",
+      "source": "Substack.com",
+      "publishedAt": "2026-08-25T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NHS-worker mother of first Brit to die fighting for Putin in Ukraine reveals he told her he was going to Romania - and how his family are now being made to suffer by the Kremlin",
+      "url": "https://www.dailymail.com/news/article-16076165/mother-Brit-die-fighting-Putin-Ukraine-speaks-out.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-24T23:06:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin ‘panicked’ as defiant Ukraine marks Independence Day under Russian bombardment",
+      "url": "https://www.foxnews.com/world/putin-panicked-defiant-ukraine-marks-independence-day-under-russian-bombardment",
+      "source": "Fox News",
+      "publishedAt": "2026-08-24T22:53:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S. Unveils ‘Economic D-Day’ Against Iran",
+      "url": "http://foreignpolicy.com/2026/08/24/iran-war-us-sanctions-bessent-operation-economic-outcast/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-08-24T21:21:15Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US strikes Iran as military campaign escalates tensions further",
+      "url": "https://cryptobriefing.com/us-military-force-iran-escalation/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-24T19:43:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How close are Russia and the UK to war?",
+      "url": "https://www.rt.com/news/644601-russia-uk-ambassador-war/",
+      "source": "RT",
+      "publishedAt": "2026-08-24T18:50:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "US Leaders Must Call for De-Escalation and Peace on the Korean Peninsula",
       "url": "https://www.commondreams.org/opinion/us-call-for-peace-korea",
@@ -99,14 +163,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "U.K. to provide long-range missile blueprints to Ukraine",
-      "url": "https://www.cbc.ca/news/world/russia-ukraine-war-1642-9.7317926",
-      "source": "CBC News",
-      "publishedAt": "2026-08-24T12:15:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "US announces more secondary sanctions against Iran, threatens countries that do not comply that they will 'share in the isolation'",
       "url": "https://www.dw.com/en/us-announces-bid-to-further-isolate-iran-economically/a-78483909",
       "source": "DW (English)",
@@ -131,28 +187,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Iran warns of a harsh response to anticipated US sanctions and other Middle East news",
-      "url": "https://www.yahoo.com/news/us/articles/iran-warns-harsh-response-anticipated-104856351.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-24T10:48:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "After the Melania threat, Iranian state TV targets Barron Trump with a $10 million bounty",
-      "url": "https://en.protothema.gr/2026/08/24/after-the-melania-threat-iranian-state-tv-targets-barron-trump-with-a-10-million-bounty/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-08-24T10:36:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Spooks Run the Show",
       "url": "https://www.nakedcapitalism.com/2026/08/spooks-run-the-show.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-08-24T10:00:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "South Korea says US cancels joint marine drill over Iran war",
@@ -163,108 +203,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "European Leaders Join Zelenskyy In Kyiv For Ukraine Independence Day As Russian Invasion Pushes On",
-      "url": "https://www.huffpost.com/entry/ukraine-independence-day-world-leaders-visit_n_6a8c037ce4b006e7e00e7913",
-      "source": "HuffPost",
-      "publishedAt": "2026-08-24T08:47:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump's North Korea gambit tests US ties with Asian partners, including India",
       "url": "https://economictimes.indiatimes.com/news/defence/trumps-north-korea-gambit-tests-us-ties-with-asian-partners-including-india/articleshow/133453345.cms",
       "source": "The Times of India",
       "publishedAt": "2026-08-24T06:22:52Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Why So Many Countries Around the World Quietly Root for Iran",
-      "url": "https://original.antiwar.com/trita-parsi/2026/08/23/why-so-many-countries-around-the-world-quietly-root-for-iran/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-08-24T00:00:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US envoy walks back Golan remarks: Trump's policy remains unchanged",
-      "url": "https://www.israelnationalnews.com/news/432128",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-08-23T22:22:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "A US envoy clarifies his comments on Golan Heights that contradicted Trump's position",
-      "url": "https://abcnews.com/International/wireStory/us-envoy-clarifies-comments-golan-heights-contradicted-trumps-135887479",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-08-23T20:56:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran’s Economic Commission member suggests reevaluation of nuclear stance amid US military pressure",
-      "url": "https://cryptobriefing.com/iran-nuclear-stance-reevaluation/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-23T20:38:09Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "A US envoy walks back his comments on Golan Heights that contradicted Trump's position",
-      "url": "https://www.yahoo.com/news/politics/articles/us-envoy-walks-back-comments-190343038.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-23T19:03:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump’s “Mental Insanity”. Endangers the Entire Planet",
-      "url": "https://www.globalresearch.ca/trumps-mental-insanity-endangers-the-entire-planet/5937671",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-23T15:24:25Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The wrong way to review US force posture in Europe",
-      "url": "https://www.defenseone.com/ideas/2026/08/force-posture-review-europe/415584/",
-      "source": "Defense One",
-      "publishedAt": "2026-08-23T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Donald Trump has made the world go nuclear",
-      "url": "https://www.salon.com/2026/08/23/donald-trump-has-made-the-world-go-nuclear/",
-      "source": "Salon",
-      "publishedAt": "2026-08-23T10:45:32Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iran Hacked and Shut Down a British Power Plant for Days: Report",
-      "url": "https://www.breitbart.com/europe/2026/08/23/iran-hacked-and-shut-down-a-british-power-plant-for-days-report/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-08-23T09:57:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump plays nuclear poker with Kim Jong Un — but who holds the cards?",
-      "url": "https://www.foxnews.com/politics/trump-plays-nuclear-poker-kim-jong-un-who-holds-cards",
-      "source": "Fox News",
-      "publishedAt": "2026-08-23T09:00:46Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Israel conducts 28 airstrikes on Nabatieh ridge amid Lebanon tensions",
-      "url": "https://cryptobriefing.com/israel-conducts-28-airstrikes-on-nabatieh-ridge-amid-lebanon-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-23T01:47:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

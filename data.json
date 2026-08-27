@@ -1,7 +1,111 @@
 {
-  "updated": "2026-08-26T19:45:21Z",
-  "count": 28,
+  "updated": "2026-08-27T07:23:28Z",
+  "count": 24,
   "articles": [
+    {
+      "title": "Switzerland will vote on whether to end co-operation with NATO following Moscow-backed 'peace' campaign",
+      "url": "https://www.dailymail.com/news/article-16080599/Switzerland-vote-end-operation-NATO-following-Moscow-backed-peace-campaign.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-26T07:13:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Porcupines, Silicon, and Alliances: How Middle Powers Can Resist Great Power Coercion",
+      "url": "https://smallwarsjournal.com/2026/08/26/porcupines-silicon-and-alliances/",
+      "source": "Smallwarsjournal.com",
+      "publishedAt": "2026-08-26T06:00:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine’s prized Western tanks now sit idle, no match for cheap Russian drones",
+      "url": "https://www.naturalnews.com/2026-08-26-ukraine-western-tanks-no-match-cheap-russian-drones.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-26T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S. Cancels South Korea Marine Drills Amid Middle East Deployments",
+      "url": "https://www.naturalnews.com/2026-08-26-us-cancels-marine-drills-with-south-korea.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-26T06:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Things are looking up for Kim Jong-un",
+      "url": "https://www.irishtimes.com/world/2026/08/26/things-look-surprisingly-rosy-for-north-koreas-kim-jong-un/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-26T05:33:49Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Open fronts from Ukraine to the Middle East: How close are we to a Third World War?",
+      "url": "https://en.protothema.gr/2026/08/26/open-fronts-from-ukraine-to-the-middle-east-how-close-are-we-to-a-third-world-war/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-08-26T05:26:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Despite international bans, landmines are back in force",
+      "url": "https://www.dw.com/en/despite-international-bans-landmines-are-back-in-force/a-78501702",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-26T05:18:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why landmines are back in force despite international bans",
+      "url": "https://www.dw.com/en/landmines-landmine-ban-ottawa-treaty/a-78501702",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-26T05:18:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran and Oman discuss reopening Strait of Hormuz",
+      "url": "https://www.rte.ie/news/world/2026/0826/1589236-iran-oman-hormuz/",
+      "source": "RTE",
+      "publishedAt": "2026-08-26T01:26:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
+      "url": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
+      "source": "CNBC",
+      "publishedAt": "2026-08-26T00:04:20Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "European NATO: How To Attack Russia",
+      "url": "https://cepa.org/article/european-nato-how-to-attack-russia/",
+      "source": "Cepa.org",
+      "publishedAt": "2026-08-26T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Germany Is Becoming Ukraine’s Most Important Ally In Europe — And Poland Is Paying The Price",
+      "url": "https://www.19fortyfive.com/2026/08/germany-is-becoming-ukraines-most-important-ally-in-europe-and-poland-is-paying-the-price/",
+      "source": "19fortyfive.com",
+      "publishedAt": "2026-08-26T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Andy Burnham warned that Britain faces impending Russian 'attack' over its support for Ukraine",
+      "url": "https://www.dailymail.com/news/article-16079793/Andy-Burnham-Britain-impending-Russian-attack.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-25T23:08:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "We’re Half a Year Into Trump’s War on Iran. Congress Has Tools to End It.",
       "url": "https://truthout.org/articles/were-half-a-year-into-trumps-war-on-iran-congress-has-tools-to-end-it/",
@@ -35,14 +139,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Swedish military seeks to take over Russian-owned estate near naval base",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o",
-      "source": "BBC News",
-      "publishedAt": "2026-08-25T15:18:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Why Even a Cornered Putin Won’t Press the Red Button",
       "url": "http://foreignpolicy.com/2026/08/25/russia-ukraine-war-nuclear-weapons-escalation-putin-defeat/",
       "source": "Foreign Policy",
@@ -57,14 +153,6 @@
       "publishedAt": "2026-08-25T14:15:38Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
-      "url": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-25T13:10:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "“Kurdish Question” Not Over: How US Policy Helped Create New Middle East Problem",
@@ -83,52 +171,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Zelensky sees window for US mediation to end Ukraine war",
-      "url": "https://www.rte.ie/news/world/2026/0825/1589149-zelensky-sees-window-for-us-mediation-to-end-ukraine-war/",
-      "source": "RTE",
-      "publishedAt": "2026-08-25T12:03:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelensky sees window for US mediation to end Ukraine war",
-      "url": "https://www.rte.ie/news/ukraine/2026/0825/1589149-ukraine-russia-war/",
-      "source": "RTE",
-      "publishedAt": "2026-08-25T12:03:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Undersea Infrastructure : A Weak Spot For National Security",
-      "url": "https://www.forbes.com/sites/arielcohen/2026/08/25/undersea-infrastructure--a-weak-spot-for-national-security/",
-      "source": "Forbes",
-      "publishedAt": "2026-08-25T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The Qataris Gave Trump an Airplane. He Crippled Their Country in Return.",
       "url": "https://www.theatlantic.com/national-security/2026/08/qatar-jet-donald-trump/688321/",
       "source": "The Atlantic",
       "publishedAt": "2026-08-25T11:24:53Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "These are the lessons Russia learned from Asia",
-      "url": "https://www.rt.com/news/644616-lessons-russia-learned-asia/",
-      "source": "RT",
-      "publishedAt": "2026-08-25T11:24:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Second drone found at Leipzig airport",
-      "url": "https://www.irishtimes.com/world/europe/2026/08/25/second-drone-found-at-leipzig-airport/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-08-25T11:10:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Mark Carney tells Trump he will never own Canada amid tariffs",
@@ -139,92 +187,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran vows to retaliate after US widens sanctions",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/08/25/iran-vows-to-retaliate-after-us-widens-sanctions/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-08-25T09:14:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pakistan says significant progress made in talks on Iran-US war",
-      "url": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-25T08:32:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Hormuz Catastrophe: Netanyahu & Trump knew Risks, Escalated Anyway",
       "url": "https://www.juancole.com/2026/08/catastrophe-netanyahu-escalated.html",
       "source": "Juancole.com",
       "publishedAt": "2026-08-25T04:15:12Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "U.S. Unveils ‘Economic D-Day’ Against Iran",
-      "url": "http://foreignpolicy.com/2026/08/24/iran-war-us-sanctions-bessent-operation-economic-outcast/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-08-24T21:21:15Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "US Leaders Must Call for De-Escalation and Peace on the Korean Peninsula",
-      "url": "https://www.commondreams.org/opinion/us-call-for-peace-korea",
-      "source": "Common Dreams",
-      "publishedAt": "2026-08-24T18:22:34Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump’s Kim gambit deepens doubts over US reliability at a key moment for Asia",
-      "url": "https://www.irishtimes.com/world/asia-pacific/2026/08/24/trumps-kim-gambit-deepens-doubts-over-us-reliability-at-a-key-moment-for-asia/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-08-24T15:10:59Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
-      "url": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-24T12:28:26Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "How the GOP is approaching data center backlash and why Trump is pivoting to North Korea: Morning Rundown",
-      "url": "https://www.nbcnews.com/news/us-news/gop-data-center-backlash-trump-pivoting-north-korea-morning-rundown-rcna593964",
-      "source": "NBC News",
-      "publishedAt": "2026-08-24T10:57:51Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Spooks Run the Show",
-      "url": "https://www.nakedcapitalism.com/2026/08/spooks-run-the-show.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-24T10:00:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "South Korea says US cancels joint marine drill over Iran war",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-us-cancels-joint-marine-drill-iran-war-6337511",
-      "source": "CNA",
-      "publishedAt": "2026-08-24T09:49:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump's North Korea gambit tests US ties with Asian partners, including India",
-      "url": "https://economictimes.indiatimes.com/news/defence/trumps-north-korea-gambit-tests-us-ties-with-asian-partners-including-india/articleshow/133453345.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-24T06:22:52Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

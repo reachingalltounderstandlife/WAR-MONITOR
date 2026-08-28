@@ -1,7 +1,143 @@
 {
-  "updated": "2026-08-27T21:47:14Z",
+  "updated": "2026-08-28T09:38:08Z",
   "count": 30,
   "articles": [
+    {
+      "title": "How a 95 percent drop in Hormuz traffic changed global shipping",
+      "url": "https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-27T09:29:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "After 6 Months Of Iran War, U.S. Goals Have Shifted. The Strait Of Hormuz Is Now A Top Concern.",
+      "url": "https://www.huffpost.com/entry/trump-iran-war-objectives_n_6a8ffb48e4b0229baac4ea72",
+      "source": "HuffPost",
+      "publishedAt": "2026-08-27T09:01:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Germany wants to fund UK nukes – Telegraph",
+      "url": "https://www.rt.com/news/644699-germany-wants-fund-uk-nukes/",
+      "source": "RT",
+      "publishedAt": "2026-08-27T09:00:22Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "CDU's Volkmann: Ukraine aid is not charity",
+      "url": "https://www.dw.com/en/cdus-volkmann-ukraine-aid-is-not-charity/a-78517659",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-27T08:30:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Goldilocks Fallacy: The Undefined Limits of Korea’s Nuclear Role",
+      "url": "https://warontherocks.com/the-goldilocks-fallacy-the-undefined-limits-of-koreas-nuclear-role/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-08-27T07:30:16Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO",
+      "url": "https://www.cnbc.com/2026/08/27/ratcliffe-moscow-russia-nato-ukraine-iran.html",
+      "source": "CNBC",
+      "publishedAt": "2026-08-27T07:27:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "After six months of Iran war, US goals have shifted. The Strait of Hormuz is now a top concern",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/after-six-months-of-iran-war-us-goals-have-shifted-the-strait-of-hormuz-is-now-a-top-concern/articleshow/133558365.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-27T06:09:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "CIA Director Ratcliffe Visits Moscow for Secret Talks With Russian Intelligence Officials",
+      "url": "https://www.naturalnews.com/2026-08-27-ratcliffe-visits-russia-secret-talks-intelligence-officials.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-08-27T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Walking past the decaying industrial plant, I swore I heard a Soviet ghost",
+      "url": "https://www.irishtimes.com/world/europe/2026/08/27/walking-past-the-decaying-industrial-plant-i-swore-i-heard-a-soviet-ghost/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-08-27T04:51:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel continues attacks on Syria, Lebanon despite US push for diplomacy",
+      "url": "https://www.aljazeera.com/news/2026/8/27/israel-continues-attacks-on-syria-lebanon-despite-us-push-for-diplomacy",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-27T04:25:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘We will retaliate like an earthquake:’ How Iran could respond to Trump’s economic ‘D-Day’",
+      "url": "https://www.cnn.com/2026/08/27/middleeast/how-iran-could-respond-to-trumps-economic-d-day-intl",
+      "source": "CNN",
+      "publishedAt": "2026-08-27T04:01:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Video Games and Modern Warfare – ‘Marriage’ of Convenience ‘blessed’ by the Pentagon",
+      "url": "https://www.globalresearch.ca/video-games-and-modern-warfare-marriage-of-convenience-blessed-by-the-pentagon/5938132",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-27T02:57:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The threat of nuclear weapons is greater than ever. Here’s how international law can help",
+      "url": "https://theconversation.com/the-threat-of-nuclear-weapons-is-greater-than-ever-heres-how-international-law-can-help-290523",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-08-27T01:49:12Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Ratcliffe To Moscow",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/08/ratcliffe-to-moscow",
+      "source": "Lawyersgunsmoneyblog.com",
+      "publishedAt": "2026-08-27T00:43:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran warns of military ship ban in Hormuz under potential deal with Oman",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-warns-of-military-ship-ban-in-hormuz-under-potential-deal-with-oman/articleshow/133553454.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-27T00:39:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts",
+      "url": "https://decrypt.co/376662/russia-chatgpt-influence-campaign",
+      "source": "Decrypt",
+      "publishedAt": "2026-08-26T22:46:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Did John Ratcliffe Go to Moscow?",
+      "url": "https://www.theatlantic.com/international/2026/08/cia-director-ratcliffe-moscow/688424/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-08-26T22:06:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Tulsi Gabbard Called It From The Start",
       "url": "https://dailycaller.com/2026/08/26/wsj-report-tulsi-gabbard-intel-community-warning-trump-iran-war-strait-hormuz",
@@ -35,44 +171,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Kremlin says US spy chief met with Russian counterparts during Moscow visit",
-      "url": "https://www.channelnewsasia.com/world/us-spy-chief-russia-talks-ratcliffe-6343216",
-      "source": "CNA",
-      "publishedAt": "2026-08-26T16:23:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Syria removed: Which countries are still on the US ‘terror’ list – and why?",
       "url": "https://www.aljazeera.com/news/2026/8/26/syria-removed-which-countries-are-still-on-the-us-terror-list-and-why",
       "source": "Al Jazeera English",
       "publishedAt": "2026-08-26T16:11:40Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Putin plans Ukraine escalation as talks fail: report",
-      "url": "https://cryptobriefing.com/putin-plans-ukraine-escalation-as-talks-fail-report/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-26T15:56:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Prominent Ukrainian commanders to lead defence of eastern region demanded by Russia",
-      "url": "https://www.yahoo.com/news/articles/prominent-ukrainian-commanders-lead-defence-153931419.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-26T15:39:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hungary labels Russia a ‘threat’",
-      "url": "https://www.rt.com/news/644681-hungary-magyar-russia-threat/",
-      "source": "RT",
-      "publishedAt": "2026-08-26T15:34:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Cyberattacks Across Water Systems a Classic Israeli War Crime",
@@ -83,14 +187,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "“Catastrophe”: A Reality Check on the “Successes” of Ukraine’s 35 Years of “Independence”",
-      "url": "https://www.globalresearch.ca/reality-check-successes-ukraine-35-years-independence/5937997",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-26T15:01:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Warnings Failed to Stop Trump From Launching Iran War",
       "url": "https://www.newser.com/story/395305/report-gabbard-vance-warned-trump-over-starting-iran-war.html",
       "source": "Newser",
@@ -99,74 +195,10 @@
       "_label": "Iran War"
     },
     {
-      "title": "Putin preparing to attack Europe? ‘Just don’t do it’, CIA chief’s warning revealed amid fears of Russian drone attacks and NATO conflict",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/putin-preparing-to-attack-europe-just-dont-do-it-cia-chiefs-warning-revealed-amid-fears-of-russian-drone-attacks-and-nato-conflict/articleshow/133544154.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-26T14:41:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Going Underground and Underwater in Warfare",
       "url": "https://www.globalresearch.ca/going-underground-underwater-warfare/5938061",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-08-26T14:05:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukrainian soldiers are changing how they train to deliver medical care as casualty evacuation becomes more unpredictable",
-      "url": "https://www.businessinsider.com/ukrainian-troops-change-medical-care-training-casualty-evacuation-gets-deadlier-2026-8#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-26T13:40:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Kremlin says the CIA director held talks in Moscow with his intelligence counterparts",
-      "url": "https://www.yahoo.com/news/politics/articles/kremlin-says-cia-director-held-124441387.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-26T12:44:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The big lesson one NATO military is taking away from its work with Ukrainian troops is: Don't get stuck in this kind of war",
-      "url": "https://www.businessinsider.com/norway-lesson-training-ukraine-dont-get-stuck-kind-war-attrition-2026-8",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-26T12:36:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "India, China can help resolve West Asia conflict, says Hillary Clinton",
-      "url": "https://www.business-standard.com/world-news/india-china-can-help-resolve-west-asia-conflict-says-hillary-clinton-126082600687_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-08-26T12:11:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran, Oman agree on temporary Hormuz route: What we know",
-      "url": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-26T12:05:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "India, China can help resolve West Asia conflict: Hillary Clinton",
-      "url": "https://www.thehindubusinessline.com/news/india-china-can-help-resolve-west-asia-conflict-hillary-clinton/article71392319.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-08-26T11:49:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran and Oman Plan for Temporary Hormuz Corridor as Impasse With US Persists",
-      "url": "https://gcaptain.com/iran-and-oman-plan-for-temporary-hormuz-corridor-as-impasse-with-us-persists/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-08-26T11:37:14Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -209,38 +241,6 @@
       "publishedAt": "2026-08-26T00:04:20Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Why Even a Cornered Putin Won’t Press the Red Button",
-      "url": "http://foreignpolicy.com/2026/08/25/russia-ukraine-war-nuclear-weapons-escalation-putin-defeat/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-08-25T14:41:37Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Trump confirms plan to meet Kim Jong Un later this year",
-      "url": "https://www.dailymail.com/galleries/article-16064919/Trump-confirms-plan-meet-Kim-Jong-later-year.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-25T14:15:38Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The Qataris Gave Trump an Airplane. He Crippled Their Country in Return.",
-      "url": "https://www.theatlantic.com/national-security/2026/08/qatar-jet-donald-trump/688321/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-08-25T11:24:53Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hormuz Catastrophe: Netanyahu & Trump knew Risks, Escalated Anyway",
-      "url": "https://www.juancole.com/2026/08/catastrophe-netanyahu-escalated.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-08-25T04:15:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

@@ -1,14 +1,142 @@
 {
-  "updated": "2026-08-29T12:18:36Z",
-  "count": 39,
+  "updated": "2026-08-29T20:26:04Z",
+  "count": 40,
   "articles": [
     {
-      "title": "The Tucker Carlson–Kremlin Bond Just Got Stronger",
-      "url": "https://www.motherjones.com/politics/2026/08/tucker-carlson-russia-vladmir-putin-rt-appearance-rick-sanchez-kremlin-ukraine/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-08-28T12:18:00Z",
+      "title": "Deal, warning or spy swap? What Russian media are saying about the CIA chief’s Moscow visit",
+      "url": "https://www.rt.com/russia/644787-cia-chief-moscow-russian-media/",
+      "source": "RT",
+      "publishedAt": "2026-08-28T19:59:53Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "Power Game: Putin sees U.S. as weakened, “defies” Trump’s message and prepares to meet Xi Jinping and Pezeshkian",
+      "url": "https://en.protothema.gr/2026/08/28/power-game-putin-sees-u-s-as-weakened-defies-trumps-message-and-prepares-to-meet-xi-jinping-and-pezeshkian/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-08-28T19:20:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o",
+      "source": "BBC News",
+      "publishedAt": "2026-08-28T19:05:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Both Trump and Putin feel backed into a corner",
+      "url": "https://www.abc.net.au/news/2026-08-29/cia-moscow-russia-meeting-trump-iran-putin-ukraine-russia/107076194",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-08-28T19:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Jared Kushner Is the Face of American Oligarchy",
+      "url": "http://foreignpolicy.com/2026/08/28/american-oligarchy-geopolitics-dictators-democracy-jared-kushner-trump/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-08-28T18:20:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Escalation? Russia’s ‘Iskander-1000’ vs Kiev Regime’s FP-9. Battlefield Reality vs War Propaganda",
+      "url": "https://www.globalresearch.ca/escalation-russias-iskander-1000-vs-kiev-regimes-fp-9-battlefield-reality-vs-war-propaganda/5938360",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-28T18:11:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran may be the key to the Mecca Pact’s future",
+      "url": "https://www.rt.com/news/644786-iran-mecca-pact-future/",
+      "source": "RT",
+      "publishedAt": "2026-08-28T18:04:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Kremlin perceives US weakness amid Iran war, escalates threats",
+      "url": "https://cryptobriefing.com/kremlin-perceives-us-weakness-amid-iran-war-escalates-threats/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-28T17:40:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin's appetite for launching hybrid operations against Britain 'is very clear', say Western officials as desperate Putin escalates the conflict in Ukraine",
+      "url": "https://www.dailymail.com/news/article-16087785/Putins-appetite-launching-hybrid-operations-against-Britain-clear-say-Western-officials-desperate-Putin-escalates-conflict-Ukraine.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-28T17:25:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What in the World?",
+      "url": "http://foreignpolicy.com/2026/08/28/news-quiz-congo-bessent-iran-economic-pressure-putin-russia-ukraine-war/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-08-28T17:23:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran war hits 6-month milestone with Trump's attention largely elsewhere",
+      "url": "https://www.cbc.ca/news/world/iran-war-six-months-trump-9.7323892",
+      "source": "CBC News",
+      "publishedAt": "2026-08-28T17:13:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The numbers of the War in Iran: 7,900 dead, oil up 22%, only 7 ships a day passing through the Strait of Hormuz, $37.5 billion cost for the US",
+      "url": "https://en.protothema.gr/2026/08/28/the-numbers-of-the-war-in-iran-7900-dead-oil-up-22-only-7-ships-a-day-passing-through-the-strait-of-hormuz-37-5-billion-cost-for-the-us/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-08-28T14:54:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How Did the World Get to Be Held Hostage by Two Malevolent Cretins?",
+      "url": "https://newrepublic.com/post/214884/trump-putin-world-hostage-two-cretins",
+      "source": "The New Republic",
+      "publishedAt": "2026-08-28T14:49:45Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Russia and North Korea Are Scrambling Trump’s Alliance Strategy",
+      "url": "http://foreignpolicy.com/2026/08/28/north-korea-russia-united-states-south-korea-ukraine-national-defense-alliance-strategy/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-08-28T13:44:51Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The Israeli force-multiplier factor in US military strength",
+      "url": "https://www.israelnationalnews.com/news/432387",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-08-28T13:15:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "After six months of war, what have US, Iran gained and lost?",
+      "url": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-28T12:37:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US marks 6 months of war with Iran. Here's what it means for Americans, what's ahead",
+      "url": "https://abcnews.com/Politics/us-marks-6-months-war-iran-means-americans/story?id=135980363",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-28T12:32:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "US-Israel war on Iran, six months down the line: In numbers",
@@ -35,36 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "NATO needs to learn from Ukraine without copying its acts of desperation, commander says",
-      "url": "https://www.businessinsider.com/nato-must-learn-ukraine-but-not-copy-desperate-moves-commander-2026-8#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-08-28T11:30:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Des marins turcs pris entre deux feux alors que les attaques se multiplient en mer Noire (Anglais)",
-      "url": "https://www.turkeyrecap.com/p/turkish-sailors-caught-in-crossfire",
-      "source": "Turkeyrecap.com",
-      "publishedAt": "2026-08-28T10:39:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "US, South Korea and Japan to hold trilateral drill as North Korea ramps up pressure on US",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/us-south-korea-and-japan-to-conduct-trilateral-military-drill-amid-rising-north-korean-tensions/articleshow/133588203.cms",
       "source": "The Times of India",
       "publishedAt": "2026-08-28T10:07:13Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Russia’s Arctic Route",
-      "url": "https://www.nakedcapitalism.com/2026/08/russias-arctic-route.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-28T10:00:54Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "South Korea says will hold joint military drills with US, Japan",
@@ -81,14 +185,6 @@
       "publishedAt": "2026-08-28T09:45:44Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Trump insists Putin WON'T attack a NATO territory and says he's 'had good talks with him'",
-      "url": "https://www.dailymail.com/news/article-16086819/Trump-Putin-NATO-Russia-Ukraine-US.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-28T09:39:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Six months on, Iran is still standing, but survival is becoming more costly",
@@ -115,30 +211,6 @@
       "_label": "Taiwan"
     },
     {
-      "title": "CIA chief’s Moscow trip puts NATO concerns in focus",
-      "url": "https://www.hurriyetdailynews.com/cia-chiefs-moscow-trip-puts-nato-concerns-in-focus-226160",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-08-28T06:01:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "CIA director delivers secret warning to Russia on Baltic states, Iran support",
-      "url": "https://www.naturalnews.com/2026-08-28-cia-director-secret-warning-russia-baltic.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-28T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Kremlin Confirms CIA Director John Ratcliffe’s Secret Trip to Russia",
-      "url": "https://www.naturalnews.com/2026-08-28-kremlin-confirms-ratcliffe-secret-trip-to-russia.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-28T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "U.S., South Korea and Japan to hold drill as North Korea ramps up pressure on U.S.",
       "url": "https://www.npr.org/2026/08/28/g-s1-140849/us-south-korea-japan-drill-north-korea",
       "source": "NPR",
@@ -147,44 +219,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Six months of war between Iran, US leave Arab states facing tough questions",
-      "url": "https://www.aljazeera.com/news/2026/8/28/six-months-of-war-between-iran-us-leave-arab-states-facing-tough-questions",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-28T05:37:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says Putin will not attack NATO territory, downplays Ratcliffe trip",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-says-putin-will-not-attack-nato-territory-downplays-ratcliffe-trip/articleshow/133583603.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-28T05:06:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran's disfigured supreme leader remains invisible six months into an existential war",
-      "url": "https://www.yahoo.com/news/world/articles/irans-disfigured-supreme-leader-remains-050412085.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-28T05:04:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump used to say he saw a quick end to his Iran war. Six months later, he claims he's in no hurry",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-used-to-say-he-saw-a-quick-end-to-his-iran-war-six-months-later-he-claims-hes-in-no-hurry/articleshow/133583073.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-28T04:28:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Six months on, the Iran war has changed the Middle East, but not in the way its architects had hoped",
       "url": "https://www.yahoo.com/news/world/articles/six-months-iran-war-changed-041435283.html",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-08-28T04:14:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US, South Korea and Japan to hold trilateral drill as North Korea ramps up pressure on US",
@@ -193,22 +233,6 @@
       "publishedAt": "2026-08-28T03:30:18Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Mediators place renewed focus on reopening Hormuz",
-      "url": "https://www.rte.ie/news/world/2026/0828/1589513-middle-east-iran/",
-      "source": "RTE",
-      "publishedAt": "2026-08-28T03:30:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Mediators place renewed focus on reopening Hormuz",
-      "url": "https://www.rte.ie/news/world/2026/0828/1589513-middle-east/",
-      "source": "RTE",
-      "publishedAt": "2026-08-28T03:30:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
@@ -271,22 +295,6 @@
       "url": "https://www.aljazeera.com/news/2026/8/27/israeli-strike-kills-newlywed-woman-in-south-lebanon-wounds-others",
       "source": "Al Jazeera English",
       "publishedAt": "2026-08-27T16:04:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US goals have shifted after 6 months of Iran war. The Strait of Hormuz is now a top concern",
-      "url": "https://abcnews.com/Politics/wireStory/us-goals-shifted-after-6-months-iran-war-135995683",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-08-27T13:51:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF claims it struck Hezbollah sites in Lebanon",
-      "url": "https://biztoc.com/x/d6566962be6ed4e2",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-08-27T13:32:27Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

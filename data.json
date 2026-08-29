@@ -1,7 +1,151 @@
 {
-  "updated": "2026-08-28T21:43:36Z",
-  "count": 37,
+  "updated": "2026-08-29T05:42:29Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "Six months of war between Iran, US leave Arab states facing tough questions",
+      "url": "https://www.aljazeera.com/news/2026/8/28/six-months-of-war-between-iran-us-leave-arab-states-facing-tough-questions",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-28T05:37:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Putin will not attack NATO territory, downplays Ratcliffe trip",
+      "url": "https://economictimes.indiatimes.com/news/defence/trump-says-putin-will-not-attack-nato-territory-downplays-ratcliffe-trip/articleshow/133583603.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-28T05:06:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran's disfigured supreme leader remains invisible six months into an existential war",
+      "url": "https://www.yahoo.com/news/world/articles/irans-disfigured-supreme-leader-remains-050412085.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-28T05:04:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump used to say he saw a quick end to his Iran war. Six months later, he claims he's in no hurry",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-used-to-say-he-saw-a-quick-end-to-his-iran-war-six-months-later-he-claims-hes-in-no-hurry/articleshow/133583073.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-28T04:28:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Six months on, the Iran war has changed the Middle East, but not in the way its architects had hoped",
+      "url": "https://www.yahoo.com/news/world/articles/six-months-iran-war-changed-041435283.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-28T04:14:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Will WAR Bankrupt the West?",
+      "url": "https://www.lewrockwell.com/2026/08/martin-armstrong/will-war-bankrupt-the-west/",
+      "source": "Lewrockwell.com",
+      "publishedAt": "2026-08-28T04:01:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US, South Korea and Japan to hold trilateral drill as North Korea ramps up pressure on US",
+      "url": "https://www.yahoo.com/news/politics/articles/us-south-korea-japan-hold-033018337.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-28T03:30:18Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Mediators place renewed focus on reopening Hormuz",
+      "url": "https://www.rte.ie/news/world/2026/0828/1589513-middle-east-iran/",
+      "source": "RTE",
+      "publishedAt": "2026-08-28T03:30:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Mediators place renewed focus on reopening Hormuz",
+      "url": "https://www.rte.ie/news/world/2026/0828/1589513-middle-east/",
+      "source": "RTE",
+      "publishedAt": "2026-08-28T03:30:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What was the CIA doing in Moscow?",
+      "url": "https://freerepublic.com/focus/f-news/4393383/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-08-28T03:16:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
+      "url": "https://abcnews.com/International/wireStory/regional-powers-seek-off-ramp-iran-war-middle-135997418",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-28T03:01:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
+      "url": "https://abcnews.com/Business/wireStory/regional-powers-seek-off-ramp-iran-war-middle-135997441",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-28T03:01:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Tehran will 'send Netanyahu to hell', Iran's security chief Rezaei says; warns of severe confrontation",
+      "url": "https://economictimes.indiatimes.com/news/defence/tehran-will-send-netanyahu-to-hell-irans-security-chief-rezaei-says-warns-of-severe-confrontation/articleshow/133581093.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-28T01:42:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "South Korea, Japan and US to hold nuclear missile drill focused on North Korea",
+      "url": "https://cryptobriefing.com/south-korea-japan-us-nuclear-missile-drill/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-28T01:35:31Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump Must Not Let Washington’s Korea Hawks Intimidate Him Again",
+      "url": "https://original.antiwar.com/ted_galen_carpenter/2026/08/27/trump-must-not-let-washingtons-korea-hawks-intimidate-him-again/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-08-28T00:00:26Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Russia threatens strikes on UK military targets, ‘catastrophic consequences’ over Ukraine",
+      "url": "https://www.foxnews.com/world/russia-threatens-strikes-uk-military-targets-catastrophic-consequences-ukraine",
+      "source": "Fox News",
+      "publishedAt": "2026-08-27T23:38:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Latvia's foreign minister warns of Russian sabotage acts on Europe",
+      "url": "https://www.pbs.org/newshour/show/latvias-foreign-minister-warns-of-russian-sabotage-acts-on-europe",
+      "source": "PBS",
+      "publishedAt": "2026-08-27T22:40:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Settler Violence Is Consuming the West Bank",
+      "url": "http://foreignpolicy.com/2026/08/27/settler-violence-west-bank-palestine-israel/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-08-27T22:05:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Video: Israeli strike kills newlywed woman in south Lebanon",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon",
@@ -59,60 +203,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Report: Patriot Missile Shortage Is 'Beyond Critical' in Europe",
-      "url": "https://www.newser.com/story/395416/report-patriot-missile-shortage-is-beyond-critical-in-europe.html",
-      "source": "Newser",
-      "publishedAt": "2026-08-27T18:10:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Why North Korea Doesn’t Want to Meet With Trump",
       "url": "http://foreignpolicy.com/2026/08/27/north-korea-kim-jong-un-trump-meeting-nuclear/",
       "source": "Foreign Policy",
       "publishedAt": "2026-08-27T17:34:53Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "CIA director makes secret trip to Moscow amid diplomatic efforts",
-      "url": "https://cryptobriefing.com/cia-director-secret-moscow-trip/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-27T17:25:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Is Russia Under Putin An Example of Self-Defeat?",
-      "url": "https://www.globalresearch.ca/russia-under-putin-example-self-defeat/5938205",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-27T17:16:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "What we should make of CIA boss's secret trip to Moscow",
-      "url": "https://www.bbc.com/news/articles/cx2z8l8xdg2o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "source": "BBC News",
-      "publishedAt": "2026-08-27T17:05:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Don’t Freak Out Over the Pentagon’s Europe Plans",
-      "url": "http://foreignpolicy.com/2026/08/27/us-europe-defense-posture-review-troops-elbridge-colby-hegseth-nato/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-08-27T17:00:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US runs short of Patriot missiles in Europe as Iran war drains stocks",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-runs-short-of-patriot-missiles-in-europe-as-iran-war-drains-stocks/articleshow/133573417.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-27T16:22:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Israeli strike kills ‘newlywed’ woman in south Lebanon, wounds others",
@@ -127,8 +223,8 @@
       "url": "https://abcnews.com/Politics/wireStory/us-goals-shifted-after-6-months-iran-war-135995683",
       "source": "Abcnews.com",
       "publishedAt": "2026-08-27T13:51:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "IDF claims it struck Hezbollah sites in Lebanon",
@@ -137,22 +233,6 @@
       "publishedAt": "2026-08-27T13:32:27Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Never-ending War: The ‘Legalization’ of US Military Intervention from Vietnam to Iran",
-      "url": "http://opiniojuris.org/2026/08/27/never-ending-war-the-legalization-of-us-military-intervention-from-vietnam-to-iran/",
-      "source": "Opiniojuris.org",
-      "publishedAt": "2026-08-27T13:00:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: July 2026: Atrocities 1117-1207",
-      "url": "https://www.mcsweeneys.net/articles/july-2026-atrocities-1117-1207",
-      "source": "Mcsweeneys.net",
-      "publishedAt": "2026-08-27T11:45:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Turkey’s Rise Is Israel’s New Problem",
@@ -169,38 +249,6 @@
       "publishedAt": "2026-08-27T11:33:23Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Attacking Foreign Bases in Self-Defence",
-      "url": "http://opiniojuris.org/2026/08/27/attacking-foreign-bases-in-self-defence/",
-      "source": "Opiniojuris.org",
-      "publishedAt": "2026-08-27T11:00:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Malek Bennabi and the End of an Age. The Equation of History. “How Empires Rise and Fall”",
-      "url": "https://www.globalresearch.ca/malek-bennabi-end-age/5937981",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-27T11:00:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Is Iran war diplomacy ramping up, as Qatar, Oman, Pakistan officials visit?",
-      "url": "https://www.aljazeera.com/news/2026/8/27/is-iran-war-diplomacy-ramping-up-as-qatar-oman-pakistan-officials-visit",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-27T10:50:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Six months of the Iran war – as told through Trump’s social media posts",
-      "url": "https://www.aljazeera.com/news/2026/8/27/six-months-of-the-iran-war-as-told-through-trumps-social-media-posts",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-27T10:37:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "After 6 Months Of Iran War, U.S. Goals Have Shifted. The Strait Of Hormuz Is Now A Top Concern.",
@@ -227,76 +275,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "After six months of Iran war, US goals have shifted. The Strait of Hormuz is now a top concern",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/after-six-months-of-iran-war-us-goals-have-shifted-the-strait-of-hormuz-is-now-a-top-concern/articleshow/133558365.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-27T06:09:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel continues attacks on Syria, Lebanon despite US push for diplomacy",
-      "url": "https://www.aljazeera.com/news/2026/8/27/israel-continues-attacks-on-syria-lebanon-despite-us-push-for-diplomacy",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-27T04:25:44Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "The threat of nuclear weapons is greater than ever. Here’s how international law can help",
       "url": "https://theconversation.com/the-threat-of-nuclear-weapons-is-greater-than-ever-heres-how-international-law-can-help-290523",
       "source": "The Conversation Africa",
       "publishedAt": "2026-08-27T01:49:12Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Syria removed: Which countries are still on the US ‘terror’ list – and why?",
-      "url": "https://www.aljazeera.com/news/2026/8/26/syria-removed-which-countries-are-still-on-the-us-terror-list-and-why",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-26T16:11:40Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Understanding Iranian Victory",
-      "url": "https://www.nakedcapitalism.com/2026/08/understanding-iranian-victory.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-26T09:50:03Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Trump’s Korean gambit exposes a shifting East Asian order",
-      "url": "https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-26T08:18:55Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "U.S. Cancels South Korea Marine Drills Amid Middle East Deployments",
-      "url": "https://www.naturalnews.com/2026-08-26-us-cancels-marine-drills-with-south-korea.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-26T06:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Things are looking up for Kim Jong-un",
-      "url": "https://www.irishtimes.com/world/2026/08/26/things-look-surprisingly-rosy-for-north-koreas-kim-jong-un/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-08-26T05:33:49Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties",
-      "url": "https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html",
-      "source": "CNBC",
-      "publishedAt": "2026-08-26T00:04:20Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

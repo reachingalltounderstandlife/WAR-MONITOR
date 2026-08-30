@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-30T11:17:22Z",
-  "count": 36,
+  "updated": "2026-08-30T16:04:20Z",
+  "count": 38,
   "articles": [
+    {
+      "title": "Ukraine Says Putin Planning Ground Offensive on Kyiv...",
+      "url": "https://kyivindependent.com/russia-planning-operation-in-northern-ukraine-including-kyiv-military-says/",
+      "source": "Kyivindependent.com",
+      "publishedAt": "2026-08-29T15:00:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Germany Considering Funding British Nuclear Program",
+      "url": "https://www.globalresearch.ca/germany-considering-funding-british-nuclear-program/5938337",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-29T14:30:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Vladimir Putin meets Belarus hardman Lukashenko as fears grow of Russian attack on Nato after CIA boss's warning flight",
+      "url": "https://www.dailymail.com/news/article-16089541/Vladimir-Putin-meets-Belarus-Lukashenko-fears-Russian-attack-Nato.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-29T14:23:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "6 Months On, Iran’s Leaders Are Defying The US And Signaling No Tolerance For Dissent",
+      "url": "https://www.huffpost.com/entry/6-months-on-irans-leaders-defying-us-signaling-no-tolerance-dissent_n_6a92dbdee4b05bda9c6a4d28",
+      "source": "HuffPost",
+      "publishedAt": "2026-08-29T13:35:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Six months ago, Iran was supposed to collapse. Here’s what happened instead",
+      "url": "https://www.rt.com/news/644802-six-months-iran-us-israel/",
+      "source": "RT",
+      "publishedAt": "2026-08-29T12:20:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Saturday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/08/29/saturday-hili-dialogue-597/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-08-29T11:45:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A Ukrainian air-defense sergeant says missiles aren't his most challenging shortage. It's the gear that finds enemy targets.",
+      "url": "https://www.businessinsider.com/ukraine-manpads-sergeant-gear-find-targets-harder-get-than-missiles-2026-8",
+      "source": "Business Insider",
+      "publishedAt": "2026-08-29T11:30:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Links 8/29/2026",
       "url": "https://www.nakedcapitalism.com/2026/08/links-8-29-2026.html",
@@ -99,38 +155,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Power Game: Putin sees U.S. as weakened, “defies” Trump’s message and prepares to meet Xi Jinping and Pezeshkian",
-      "url": "https://en.protothema.gr/2026/08/28/power-game-putin-sees-u-s-as-weakened-defies-trumps-message-and-prepares-to-meet-xi-jinping-and-pezeshkian/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-08-28T19:20:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o",
-      "source": "BBC News",
-      "publishedAt": "2026-08-28T19:05:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Both Trump and Putin feel backed into a corner",
-      "url": "https://www.abc.net.au/news/2026-08-29/cia-moscow-russia-meeting-trump-iran-putin-ukraine-russia/107076194",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-08-28T19:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Jared Kushner Is the Face of American Oligarchy",
-      "url": "http://foreignpolicy.com/2026/08/28/american-oligarchy-geopolitics-dictators-democracy-jared-kushner-trump/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-08-28T18:20:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran may be the key to the Mecca Pact’s future",
       "url": "https://www.rt.com/news/644786-iran-mecca-pact-future/",
       "source": "RT",
@@ -183,24 +207,16 @@
       "url": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost",
       "source": "Al Jazeera English",
       "publishedAt": "2026-08-28T12:37:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US marks 6 months of war with Iran. Here's what it means for Americans, what's ahead",
-      "url": "https://abcnews.com/Politics/us-marks-6-months-war-iran-means-americans/story?id=135980363",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-08-28T12:32:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US-Israel war on Iran, six months down the line: In numbers",
       "url": "https://www.aljazeera.com/news/2026/8/28/us-israel-war-on-iran-six-months-down-the-line-in-numbers",
       "source": "Al Jazeera English",
       "publishedAt": "2026-08-28T11:45:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US, South Korea and Japan to hold trilateral drill as North Korea ramps up pressure on US",

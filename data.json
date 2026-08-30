@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-29T20:26:04Z",
-  "count": 40,
+  "updated": "2026-08-30T03:44:11Z",
+  "count": 36,
   "articles": [
+    {
+      "title": "US missile stocks in Europe rated “beyond critical” amid conflicts",
+      "url": "https://cryptobriefing.com/us-missile-stocks-in-europe-rated-beyond-critical-amid-conflicts/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-29T03:17:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanese Government Gave Enemy Everything It Wanted — Hezbollah Chief",
+      "url": "https://sputnikglobe.com/20260829/lebanese-government-gave-enemy-everything-it-wanted--hezbollah-chief-1124642431.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-08-29T03:15:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Hezbollah chief again rejects Lebanon-Israel deal, refuses 'surrender'",
+      "url": "https://economictimes.indiatimes.com/news/defence/hezbollah-chief-again-rejects-lebanon-israel-deal-refuses-surrender/articleshow/133602100.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-29T01:17:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iceland’s EU Ambitions",
+      "url": "http://foreignpolicy.com/2026/08/28/iceland-referendum-eu-membership-trump-greenland-arctic-critical-minerals/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-08-28T21:07:16Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "'Illegitimate and illegal': Hezbollah chief again rejects Israel-Lebanon framework",
+      "url": "https://www.israelnationalnews.com/news/432394",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-08-28T20:29:34Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Deal, warning or spy swap? What Russian media are saying about the CIA chief’s Moscow visit",
       "url": "https://www.rt.com/russia/644787-cia-chief-moscow-russian-media/",
@@ -71,14 +111,6 @@
       "url": "https://www.dailymail.com/news/article-16087785/Putins-appetite-launching-hybrid-operations-against-Britain-clear-say-Western-officials-desperate-Putin-escalates-conflict-Ukraine.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-08-28T17:25:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "What in the World?",
-      "url": "http://foreignpolicy.com/2026/08/28/news-quiz-congo-bessent-iran-economic-pressure-putin-russia-ukraine-war/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-08-28T17:23:47Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -243,14 +275,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Regional powers seek off-ramp from Iran war, and other Middle East developments",
-      "url": "https://abcnews.com/Business/wireStory/regional-powers-seek-off-ramp-iran-war-middle-135997441",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-08-28T03:01:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "South Korea, Japan and US to hold nuclear missile drill focused on North Korea",
       "url": "https://cryptobriefing.com/south-korea-japan-us-nuclear-missile-drill/",
       "source": "Crypto Briefing",
@@ -265,62 +289,6 @@
       "publishedAt": "2026-08-28T00:00:26Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Settler Violence Is Consuming the West Bank",
-      "url": "http://foreignpolicy.com/2026/08/27/settler-violence-west-bank-palestine-israel/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-08-27T22:05:09Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Video: Israeli strike kills newlywed woman in south Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/video-israeli-strike-kills-newlywed-woman-in-south-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-27T20:11:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why North Korea Doesn’t Want to Meet With Trump",
-      "url": "http://foreignpolicy.com/2026/08/27/north-korea-kim-jong-un-trump-meeting-nuclear/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-08-27T17:34:53Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Israeli strike kills ‘newlywed’ woman in south Lebanon, wounds others",
-      "url": "https://www.aljazeera.com/news/2026/8/27/israeli-strike-kills-newlywed-woman-in-south-lebanon-wounds-others",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-27T16:04:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Germany wants to fund UK nukes – Telegraph",
-      "url": "https://www.rt.com/news/644699-germany-wants-fund-uk-nukes/",
-      "source": "RT",
-      "publishedAt": "2026-08-27T09:00:22Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The Goldilocks Fallacy: The Undefined Limits of Korea’s Nuclear Role",
-      "url": "https://warontherocks.com/the-goldilocks-fallacy-the-undefined-limits-of-koreas-nuclear-role/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-08-27T07:30:16Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The threat of nuclear weapons is greater than ever. Here’s how international law can help",
-      "url": "https://theconversation.com/the-threat-of-nuclear-weapons-is-greater-than-ever-heres-how-international-law-can-help-290523",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-08-27T01:49:12Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

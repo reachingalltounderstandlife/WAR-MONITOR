@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-30T03:44:11Z",
+  "updated": "2026-08-30T11:17:22Z",
   "count": 36,
   "articles": [
+    {
+      "title": "Links 8/29/2026",
+      "url": "https://www.nakedcapitalism.com/2026/08/links-8-29-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-08-29T10:55:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "6 months on, Iran's leaders defying US, signalling no tolerance for dissent",
+      "url": "https://www.business-standard.com/world-news/6-months-on-iran-s-leaders-defying-us-signalling-no-tolerance-for-dissent-126082900404_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-29T09:14:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin strikes Ukraine ammo depot and launches relentless attacks on Kyiv after warnings Russia is preparing to strike Baltics",
+      "url": "https://www.dailymail.com/news/article-16089175/Putin-Ukraine-ammo-depot-Kyiv-warnings-preparing-Baltics.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-29T09:03:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US threatens to oppose Britain over the Falklands if Burnham does not increase defence spending - after Chancellor is accused of 'surrender' for shelving target now he has new job",
+      "url": "https://www.dailymail.com/news/article-16089161/US-threatens-oppose-Britain-Falklands-Burnham-defence-spending.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-29T08:22:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iceland heads to the polls in knife-edge vote on restarting EU talks",
+      "url": "https://www.aljazeera.com/news/2026/8/29/why-is-iceland-considering-joining-the-eu",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-29T05:18:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US War on Iran: What Accountability for War Crimes?",
+      "url": "https://www.juancole.com/2026/08/iran-accountability-crimes.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-08-29T04:04:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US missile stocks in Europe rated “beyond critical” amid conflicts",
       "url": "https://cryptobriefing.com/us-missile-stocks-in-europe-rated-beyond-critical-amid-conflicts/",
@@ -83,36 +131,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Escalation? Russia’s ‘Iskander-1000’ vs Kiev Regime’s FP-9. Battlefield Reality vs War Propaganda",
-      "url": "https://www.globalresearch.ca/escalation-russias-iskander-1000-vs-kiev-regimes-fp-9-battlefield-reality-vs-war-propaganda/5938360",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-28T18:11:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran may be the key to the Mecca Pact’s future",
       "url": "https://www.rt.com/news/644786-iran-mecca-pact-future/",
       "source": "RT",
       "publishedAt": "2026-08-28T18:04:36Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Kremlin perceives US weakness amid Iran war, escalates threats",
-      "url": "https://cryptobriefing.com/kremlin-perceives-us-weakness-amid-iran-war-escalates-threats/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-28T17:40:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin's appetite for launching hybrid operations against Britain 'is very clear', say Western officials as desperate Putin escalates the conflict in Ukraine",
-      "url": "https://www.dailymail.com/news/article-16087785/Putins-appetite-launching-hybrid-operations-against-Britain-clear-say-Western-officials-desperate-Putin-escalates-conflict-Ukraine.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-28T17:25:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran war hits 6-month milestone with Trump's attention largely elsewhere",
@@ -179,22 +203,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "With Kuwait deal, Pakistan expands defence umbrella across Middle East",
-      "url": "https://www.aljazeera.com/news/2026/8/28/with-kuwait-deal-pakistan-expands-defence-umbrella-across-middle-east",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-28T11:41:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Nepal’s glacial collapse, Haiti’s latest massacre, and Mladić’s death: The Cheat Sheet",
-      "url": "https://www.thenewhumanitarian.org/news/2026/08/28/nepal-glacial-collapse-haiti-massacre-mladics-death-cheat-sheet",
-      "source": "The New Humanitarian",
-      "publishedAt": "2026-08-28T11:38:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "US, South Korea and Japan to hold trilateral drill as North Korea ramps up pressure on US",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/us-south-korea-and-japan-to-conduct-trilateral-military-drill-amid-rising-north-korean-tensions/articleshow/133588203.cms",
       "source": "The Times of India",
@@ -217,14 +225,6 @@
       "publishedAt": "2026-08-28T09:45:44Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Six months on, Iran is still standing, but survival is becoming more costly",
-      "url": "https://www.aljazeera.com/opinions/2026/8/28/six-months-on-iran-is-still-standing-but-survival-is-becoming-more-costly",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-28T06:35:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "US, South Korea and Japan to hold trilateral drill as North Korea ramps up pressure on US",

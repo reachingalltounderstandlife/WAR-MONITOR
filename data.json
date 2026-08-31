@@ -1,12 +1,156 @@
 {
-  "updated": "2026-08-31T12:44:38Z",
-  "count": 25,
+  "updated": "2026-08-31T22:28:06Z",
+  "count": 29,
   "articles": [
     {
-      "title": "How has life changed for Iranians six months into the war?",
-      "url": "https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war",
+      "title": "Changes Unseen, Strategies Uncharted | Sinification: August 2026",
+      "url": "https://sinocism.com/p/changes-unseen-strategies-uncharted",
+      "source": "Sinocism.com",
+      "publishedAt": "2026-08-30T22:23:14Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Iran’s ‘Supreme Leader’ Khamenei Calls for Gulf Unity, Confront ‘Real Enemy’ U.S., Israel",
+      "url": "https://www.breitbart.com/politics/2026/08/30/irans-supreme-leader-khamenei-calls-for-gulf-unity-confront-real-enemy-u-s-israel/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-08-30T21:55:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. Forces Strike Iranian Rocket Launchers On The Strait Of Hormuz In First Military Action In Weeks",
+      "url": "https://www.huffpost.com/entry/us-forces-strike-iranian-rocket-launchers-strait-hormuz_n_6a948d4fe4b0e9dbd39bcf91",
+      "source": "HuffPost",
+      "publishedAt": "2026-08-30T21:46:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why This Small Island Chain Could Be The First Domino In A Taiwan War",
+      "url": "https://dailycaller.com/2026/08/30/taiwan-penghu-islands-us-economy-china",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-08-30T21:32:15Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po",
+      "source": "BBC News",
+      "publishedAt": "2026-08-30T21:15:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US forces strike Iranian missle launchers that were primed to attack Strait of Hormuz",
+      "url": "https://www.dailymail.com/news/article-16091755/US-forces-strike-Iranian-missle-launchers.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-30T21:14:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US strikes Iran’s Lark Island in first attack in weeks",
+      "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks",
       "source": "Al Jazeera English",
-      "publishedAt": "2026-08-30T12:08:12Z",
+      "publishedAt": "2026-08-30T20:15:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Europe cannot protect Russia from itself",
+      "url": "https://www.nrc.nl/nieuws/2026/08/30/europe-cannot-protect-russia-from-itself-a4935343",
+      "source": "Www.nrc.nl",
+      "publishedAt": "2026-08-30T20:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "China cannot yet hold a beach on Taiwan",
+      "url": "https://www.wnd.com/2026/08/china-cannot-yet-hold-beach-taiwan/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-08-30T19:16:34Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Lt Gen Sharma retires as ARTRAC chief today",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/lt-gen-sharma-retires-as-artrac-chief-today/articleshow/133636107.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-30T18:52:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "He died at 23 after fighting in the Korean War; nearly 74 years later Willie Estrada’s family is still pushing for him to receive the Medal of Honor",
+      "url": "https://timesofindia.indiatimes.com/world/us/he-died-at-23-after-fighting-in-the-korean-war-nearly-74-years-later-willie-estradas-family-is-still-pushing-for-him-to-receive-the-medal-of-honor/articleshow/133633398.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-30T17:40:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "El-Sayed finally apologizes for lamenting death of terrorist’s family in response to Michigan synagogue attack",
+      "url": "https://nypost.com/2026/08/30/us-news/el-sayed-finally-apologizes-for-lamenting-death-of-terrorists-family-after-michigan-synagogue-attack/",
+      "source": "New York Post",
+      "publishedAt": "2026-08-30T17:11:07Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Why Qatar Ordered KC-46A Refueling Aircraft For Its Western Air Force",
+      "url": "https://www.forbes.com/sites/pauliddon/2026/08/30/why-qatar-ordered-kc-46a-refueling-aircraft-for-its-western-air-force/",
+      "source": "Forbes",
+      "publishedAt": "2026-08-30T16:58:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Exclusive: US coaches Polish forces in a drone-focused drill based on lessons from Ukraine",
+      "url": "https://abcnews.com/International/wireStory/exclusive-us-coaches-polish-forces-drone-focused-drill-136071164",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-08-30T15:35:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Secret document to Hegseth: 'We will carry out the orders, but at a price'",
+      "url": "https://www.israelnationalnews.com/news/432444",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-08-30T14:48:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Global economy resilient amid US-Iran conflict, benefits Trump family",
+      "url": "https://cryptobriefing.com/global-economy-resilient-amid-us-iran-conflict-benefits-trump-family/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-08-30T14:48:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How Pakistan’s “Dual-Track” Diplomacy Helped to Calm the US-Iran Crisis",
+      "url": "https://www.fairobserver.com/region/middle_east_north_africa/how-pakistans-dual-track-diplomacy-helped-to-calm-the-us-iran-crisis/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-08-30T13:32:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "British Army is rejecting 200 would-be applicants every single day - despite failing to hit recruitment targets every year since 2010",
+      "url": "https://www.dailymail.com/news/article-16091053/British-Army-rejecting-200-applicants-day.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-30T13:28:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "6 Months on, Iran’s Leaders Are Defying the US and Signaling No Tolerance for Dissent",
+      "url": "https://military.com/6-months-on-irans-leaders-are-defying-the-us-and-signaling-no-tolerance-for-dissent",
+      "source": "Military.com",
+      "publishedAt": "2026-08-30T13:17:11Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -19,32 +163,16 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Report: U.S. Shifts from Military Strikes to Economic Warfare Against Iran",
-      "url": "https://www.naturalnews.com/2026-08-30-us-shifts-military-strikes-economic-warfare-iran.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-30T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. Diplomats Return to Middle East Embassies, Signaling Reduced Risk of Renewed War",
-      "url": "https://www.naturalnews.com/2026-08-30-us-diplomats-return-to-middle-east-embassies.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-30T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia-Ukraine Peace Talks Stall as U.S. Mediation Fails to Secure Concrete Dates",
-      "url": "https://www.naturalnews.com/2026-08-30-russia-ukraine-peace-talks-stall-us-mediation-fails.html",
+      "title": "The Ukraine-Russia Conflict: Strategic Failures and the Specter of Nuclear CatastropheÂ",
+      "url": "https://www.naturalnews.com/2026-08-30-ukraine-russia-strategic-failures-specter-of-nuclear-catastrophe.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-08-30T06:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "The Ukraine-Russia Conflict: Strategic Failures and the Specter of Nuclear CatastropheÂ",
-      "url": "https://www.naturalnews.com/2026-08-30-ukraine-russia-strategic-failures-specter-of-nuclear-catastrophe.html",
+      "title": "Russia-Ukraine Peace Talks Stall as U.S. Mediation Fails to Secure Concrete Dates",
+      "url": "https://www.naturalnews.com/2026-08-30-russia-ukraine-peace-talks-stall-us-mediation-fails.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-08-30T06:00:00Z",
       "_cat": "ukraine",
@@ -57,14 +185,6 @@
       "publishedAt": "2026-08-30T06:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israeli spies evacuate Netanyahu’s son from Miami over ‘significant threat’",
-      "url": "https://www.rt.com/news/644823-israeli-spies-evacuate-netanyahu-son/",
-      "source": "RT",
-      "publishedAt": "2026-08-30T04:21:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea ousts defence minister in military reshuffle",
@@ -91,100 +211,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Iran is spending its way to a stronger military than it had before the war, and preparing for the rematch",
-      "url": "https://cryptobriefing.com/iran-is-spending-its-way-to-a-stronger-military-than-it-had-before-the-war-and/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-30T02:18:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu condemns rioters after weeks of West Bank settler violence",
-      "url": "https://www.business-standard.com/world-news/netanyahu-condemns-rioters-after-weeks-of-west-bank-settler-violence-126083000007_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-08-30T01:55:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Russia is teaching its children to fight the wars of the future",
       "url": "https://timesofindia.indiatimes.com/world/rest-of-world/russia-is-teaching-its-children-to-fight-the-wars-of-the-future/articleshow/133621942.cms",
       "source": "The Times of India",
       "publishedAt": "2026-08-30T01:50:22Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "The secret visit to Moscow from the director of the CIA means there is something big happening... we just don't know what. This is why I now fear Putin will fire a nuclear weapon... but not at a NATO ally: PHILIP INGRAM",
-      "url": "https://www.dailymail.com/debate/article-16090013/Moscow-CIA-Putin-nuclear-weapon-NATO-PHILIP-INGRAM.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-30T00:10:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "CIA chief’s secret Moscow trip exposed as insiders leak details: report",
-      "url": "https://www.rawstory.com/john-ratcliffe-2677795149/",
-      "source": "Raw Story",
-      "publishedAt": "2026-08-29T23:52:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "MAIL ON SUNDAY COMMENT: A frustrated Putin is a dangerous enemy. It's time Labour got a grip",
-      "url": "https://www.dailymail.com/debate/article-16090313/MAIL-SUNDAY-COMMENT-frustrated-Putin-dangerous-enemy-time-Labour-got-grip.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-29T23:16:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia is poised to attack a British drone factory and missile company, ex-Kremlin chief warns - as he described the UK as 'evil number one'",
-      "url": "https://www.dailymail.com/news/article-16090129/Russia-attack-British-drone-factory-missile-Kremlin-warns-described-UK-evil.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-29T23:05:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Finland's Stubb tells German newspaper Russia unlikely to risk attack on NATO",
-      "url": "https://www.yahoo.com/news/politics/articles/finlands-stubb-tells-german-newspaper-215034994.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-29T21:50:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "6 Months On, Iran’s Leaders Are Defying The US And Signaling No Tolerance For Dissent",
-      "url": "https://www.huffpost.com/entry/6-months-on-irans-leaders-defying-us-signaling-no-tolerance-dissent_n_6a92dbdee4b05bda9c6a4d28",
-      "source": "HuffPost",
-      "publishedAt": "2026-08-29T13:35:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Six months ago, Iran was supposed to collapse. Here’s what happened instead",
-      "url": "https://www.rt.com/news/644802-six-months-iran-us-israel/",
-      "source": "RT",
-      "publishedAt": "2026-08-29T12:20:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Saturday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/08/29/saturday-hili-dialogue-597/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-08-29T11:45:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 8/29/2026",
-      "url": "https://www.nakedcapitalism.com/2026/08/links-8-29-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-29T10:55:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Lebanese Government Gave Enemy Everything It Wanted — Hezbollah Chief",

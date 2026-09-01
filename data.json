@@ -1,7 +1,111 @@
 {
-  "updated": "2026-08-31T22:28:06Z",
-  "count": 29,
+  "updated": "2026-09-01T03:39:30Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "NATO Arctic moves pose 'direct threat' to Russia - Lavrov",
+      "url": "https://www.rte.ie/news/world/2026/0831/1589751-russia-nato-world/",
+      "source": "RTE",
+      "publishedAt": "2026-08-31T02:42:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US coaches Polish forces in a drone-focused drill based on lessons from Ukraine",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-coaches-polish-forces-in-a-drone-focused-drill-based-on-lessons-from-ukraine/articleshow/133640028.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-31T02:42:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO's Arctic moves pose 'direct threat' to Russia, foreign minister Lavrov says",
+      "url": "https://economictimes.indiatimes.com/news/defence/natos-arctic-moves-pose-direct-threat-to-russia-foreign-minister-lavrov-says/articleshow/133640025.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-31T02:41:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO's Arctic moves pose 'direct threat' to Russia, foreign minister Lavrov says",
+      "url": "https://www.yahoo.com/news/world/articles/natos-arctic-moves-pose-direct-022848820.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-31T02:28:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US strikes Iranian rocket launchers in first military action in weeks",
+      "url": "https://www.business-standard.com/world-news/us-strikes-iranian-rocket-launchers-in-first-military-action-in-weeks-126083100048_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-08-31T02:10:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US strikes Iranian rocket launchers on Strait of Hormuz in first military action in weeks",
+      "url": "https://www.thehindubusinessline.com/news/world/us-strikes-iranian-rocket-launchers-on-strait-of-hormuz-in-first-military-action-in-weeks/article71409544.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-08-31T02:07:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump: If I weren’t President, there would probably be no Middle East",
+      "url": "https://www.israelnationalnews.com/news/432466",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-08-31T01:52:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Strikes Iranian Rocket Launchers on the Strait of Hormuz in First Military Action in Weeks",
+      "url": "https://military.com/us-strikes-iranian-rocket-launchers-on-the-strait-of-hormuz-in-first-military-action-in-weeks",
+      "source": "Military.com",
+      "publishedAt": "2026-08-31T01:14:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran war live updates: Iran attacks two US bases in Jordan after America's Larak Island strike",
+      "url": "https://m.economictimes.com/news/newsblogs/us-iran-war-strike-strait-of-hormuz-larak-island-us-bases-jordon-trump-khamenei-middle-east-war-india-pm-modi-delhi-weather-nepal-flash-floods-china/liveblog/133639257.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-08-31T00:59:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Billions in US aid to Ukraine under microscope as corruption rocks Zelenskyy’s inner circle",
+      "url": "https://www.foxnews.com/world/billions-us-aid-ukraine-under-microscope-corruption-rocks-zelenskyys-inner-circle",
+      "source": "Fox News",
+      "publishedAt": "2026-08-31T00:30:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US strikes Iran for first time in a month, Tehran retaliates... Developing...",
+      "url": "https://www.yahoo.com/news/us/articles/us-strikes-iran-first-time-232723257.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-31T00:00:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran retaliates after first US strikes in a month",
+      "url": "https://www.rte.ie/news/world/2026/0831/1589742-middle-east/",
+      "source": "RTE",
+      "publishedAt": "2026-08-30T23:01:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US strikes Iran for first time in a month",
+      "url": "https://punchng.com/us-strikes-iran-for-first-time-in-a-month/",
+      "source": "The Punch",
+      "publishedAt": "2026-08-30T22:51:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Changes Unseen, Strategies Uncharted | Sinification: August 2026",
       "url": "https://sinocism.com/p/changes-unseen-strategies-uncharted",
@@ -33,30 +137,6 @@
       "publishedAt": "2026-08-30T21:32:15Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po",
-      "source": "BBC News",
-      "publishedAt": "2026-08-30T21:15:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US forces strike Iranian missle launchers that were primed to attack Strait of Hormuz",
-      "url": "https://www.dailymail.com/news/article-16091755/US-forces-strike-Iranian-missle-launchers.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-30T21:14:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US strikes Iran’s Lark Island in first attack in weeks",
-      "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-30T20:15:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Europe cannot protect Russia from itself",
@@ -99,44 +179,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Why Qatar Ordered KC-46A Refueling Aircraft For Its Western Air Force",
-      "url": "https://www.forbes.com/sites/pauliddon/2026/08/30/why-qatar-ordered-kc-46a-refueling-aircraft-for-its-western-air-force/",
-      "source": "Forbes",
-      "publishedAt": "2026-08-30T16:58:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Exclusive: US coaches Polish forces in a drone-focused drill based on lessons from Ukraine",
       "url": "https://abcnews.com/International/wireStory/exclusive-us-coaches-polish-forces-drone-focused-drill-136071164",
       "source": "Abcnews.com",
       "publishedAt": "2026-08-30T15:35:27Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Secret document to Hegseth: 'We will carry out the orders, but at a price'",
-      "url": "https://www.israelnationalnews.com/news/432444",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-08-30T14:48:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Global economy resilient amid US-Iran conflict, benefits Trump family",
-      "url": "https://cryptobriefing.com/global-economy-resilient-amid-us-iran-conflict-benefits-trump-family/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-30T14:48:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How Pakistan’s “Dual-Track” Diplomacy Helped to Calm the US-Iran Crisis",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/how-pakistans-dual-track-diplomacy-helped-to-calm-the-us-iran-crisis/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-08-30T13:32:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "British Army is rejecting 200 would-be applicants every single day - despite failing to hit recruitment targets every year since 2010",
@@ -147,44 +195,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "6 Months on, Iran’s Leaders Are Defying the US and Signaling No Tolerance for Dissent",
-      "url": "https://military.com/6-months-on-irans-leaders-are-defying-the-us-and-signaling-no-tolerance-for-dissent",
-      "source": "Military.com",
-      "publishedAt": "2026-08-30T13:17:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Nuclear Safeguards Are Gone – Former Canadian Foreign Minister Pt. 1/2",
       "url": "https://www.nakedcapitalism.com/2026/08/nuclear-safeguards-are-gone-former-canadian-foreign-minister-pt-1-2.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-08-30T10:00:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Ukraine-Russia Conflict: Strategic Failures and the Specter of Nuclear CatastropheÂ",
-      "url": "https://www.naturalnews.com/2026-08-30-ukraine-russia-strategic-failures-specter-of-nuclear-catastrophe.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-30T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia-Ukraine Peace Talks Stall as U.S. Mediation Fails to Secure Concrete Dates",
-      "url": "https://www.naturalnews.com/2026-08-30-russia-ukraine-peace-talks-stall-us-mediation-fails.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-30T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Officials: U.S. Patriot Missile Stocks in Europe “Beyond Critical” Due to Iran War",
-      "url": "https://www.naturalnews.com/2026-08-30-officials-patriot-missile-stocks-europe-beyond-critical.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-08-30T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "North Korea ousts defence minister in military reshuffle",
@@ -207,30 +223,6 @@
       "url": "https://www.rt.com/news/644812-israel-bombs-lebanon-iran/",
       "source": "RT",
       "publishedAt": "2026-08-30T02:43:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Russia is teaching its children to fight the wars of the future",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/russia-is-teaching-its-children-to-fight-the-wars-of-the-future/articleshow/133621942.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-30T01:50:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Lebanese Government Gave Enemy Everything It Wanted — Hezbollah Chief",
-      "url": "https://sputnikglobe.com/20260829/lebanese-government-gave-enemy-everything-it-wanted--hezbollah-chief-1124642431.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-08-29T03:15:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hezbollah chief again rejects Lebanon-Israel deal, refuses 'surrender'",
-      "url": "https://economictimes.indiatimes.com/news/defence/hezbollah-chief-again-rejects-lebanon-israel-deal-refuses-surrender/articleshow/133602100.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-29T01:17:22Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-01T16:04:32Z",
+  "updated": "2026-09-01T20:34:33Z",
   "count": 33,
   "articles": [
+    {
+      "title": "Lebanon asks Greece to help enforce agreement with Israel",
+      "url": "https://www.aljazeera.com/news/2026/8/31/lebanon-asks-greece-to-help-enforce-agreement-with-israel",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-31T20:24:41Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Scientists tested spiders as living DNA traps; their stomach contents can reveal which insects and other animals are living around them",
+      "url": "https://timesofindia.indiatimes.com/science/scientists-tested-spiders-as-living-dna-traps-their-stomach-contents-can-reveal-which-insects-and-other-animals-are-living-around-them/articleshow/133662112.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-31T19:35:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Stage Is Set, The Fuse Is Lit, And 3 Global Conflicts Are On The Brink Of Detonation",
+      "url": "http://theeconomiccollapseblog.com/the-stage-is-set-the-fuse-is-lit-and-3-global-conflicts-are-on-the-brink-of-detonation/",
+      "source": "Theeconomiccollapseblog.com",
+      "publishedAt": "2026-08-31T19:13:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Scientists discover how snails turn mucus into five different materials using calcium, collagen VI and changing protein levels",
+      "url": "https://timesofindia.indiatimes.com/science/scientists-discover-how-snails-turn-mucus-into-five-different-materials-using-calcium-collagen-vi-and-changing-protein-levels/articleshow/133659620.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-31T17:44:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Calls Israel's Netanyahu 'Serpent,' Claims US 'Suckered' Into Middle East War",
+      "url": "https://military.com/iranian-foreign-minister-calls-israeli-pm-netanyahu-serpent-claims-us-suckered-into-middle-east-war",
+      "source": "Military.com",
+      "publishedAt": "2026-08-31T17:06:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "‘Uncertainties’ rising: Xi Jinping calls for stronger China-Russia cooperation in meeting with Putin at SCO summit",
       "url": "https://timesofindia.indiatimes.com/world/rest-of-world/uncertainties-rising-xi-jinping-calls-for-stronger-china-russia-cooperation-in-meeting-with-putin-at-sco-summit/articleshow/133656849.cms",
@@ -111,40 +151,8 @@
       "url": "https://www.globalresearch.ca/peace-president-threatens-nuclear-first-strike/5938477",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-08-31T13:24:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pakistan, Saudi Arabia, Turkiye meet: What’s next for their defence pact?",
-      "url": "https://www.aljazeera.com/news/2026/8/31/pakistan-saudi-arabia-turkiye-meet-whats-next-for-their-defence-pact",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-31T12:57:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How Trump Is Trying to Keep His Iran War From Further Blowing Up in His Face",
-      "url": "https://www.commondreams.org/opinion/trump-iran-war-midterm-elections",
-      "source": "Common Dreams",
-      "publishedAt": "2026-08-31T12:56:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pete Hegseth rocked by secret Pentagon revolt as generals break ranks on Iran war with chilling US homeland warning",
-      "url": "https://www.dailymail.com/news/article-16092935/Pete-Hegseth-rocked-secret-Pentagon-revolt-generals-break-ranks-Iran-war-chilling-US-homeland-warning.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-31T12:06:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Who are the economic winners and losers of the US-Israel war on Iran?",
-      "url": "https://www.aljazeera.com/economy/2026/8/31/who-are-the-economic-winners-and-losers-of-the-us-israel-war-on-iran",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-31T12:01:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Oh, Canada?",
@@ -169,14 +177,6 @@
       "publishedAt": "2026-08-31T10:41:36Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Has Peaked",
-      "url": "http://foreignpolicy.com/2026/08/31/trump-peak-iran-war-foreign-policy/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-08-31T10:00:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea says hostile US policy unchanged, vows to strengthen nuclear force",

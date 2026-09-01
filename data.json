@@ -1,7 +1,167 @@
 {
-  "updated": "2026-09-01T11:07:35Z",
-  "count": 30,
+  "updated": "2026-09-01T16:04:32Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "‘Uncertainties’ rising: Xi Jinping calls for stronger China-Russia cooperation in meeting with Putin at SCO summit",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/uncertainties-rising-xi-jinping-calls-for-stronger-china-russia-cooperation-in-meeting-with-putin-at-sco-summit/articleshow/133656849.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-31T15:38:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin unleashes new fury on Ukraine as report exposes fear hanging over war’s end",
+      "url": "https://www.foxnews.com/world/putin-unleashes-new-fury-ukraine-report-exposes-fear-hanging-over-wars-end",
+      "source": "Fox News",
+      "publishedAt": "2026-08-31T15:25:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Video: Escalation or Peaceful Coexistence. Is Russia The Enemy?",
+      "url": "https://www.globalresearch.ca/video-escalation-or-peaceful-coexistence-is-russia-the-enemy/5938466",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-31T15:24:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "In fight against antisemitism, Israel steps up U.S. Catholic outreach",
+      "url": "https://www.ewtnnews.com/world/middle-east/in-fight-against-anti-semitism-government-of-israel-steps-up-catholic-outreach",
+      "source": "Ewtnnews.com",
+      "publishedAt": "2026-08-31T15:20:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "California had 2.34 million acres covered by a toxic yellow weed until tiny Australian beetles fought back and reduced it by 99% within a decade",
+      "url": "https://timesofindia.indiatimes.com/science/california-had-2-34-million-acres-covered-by-a-toxic-yellow-weed-until-tiny-australian-beetles-fought-back-and-reduced-it-by-99-within-a-decade/articleshow/133656691.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-31T15:16:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "France to supply Sweden with 4 frigates to bolster the NATO country's defense",
+      "url": "https://www.yahoo.com/news/world/articles/france-supply-sweden-4-frigates-150802574.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-08-31T15:08:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why has Greece signed a $3.5bn missile deal with Israel?",
+      "url": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-31T14:57:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Amazon Stock Falls More Than 2 Percent as Renewed US Iran Clash Sends Oil Prices Surging",
+      "url": "https://www.ibtimes.com.au/amazon-shares-dip-us-iran-tensions-oil-prices-1874797",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-08-31T14:53:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian President plans to send 400,000 more troops to Ukraine and refuses to back down",
+      "url": "https://en.protothema.gr/2026/08/31/russian-president-plans-to-send-400000-more-troops-to-ukraine-and-refuses-to-back-down/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-08-31T14:28:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "72-year-old woman’s rare thyroid-embedded tumour was removed through her underarm, leaving no visible neck scar",
+      "url": "https://timesofindia.indiatimes.com/health/72-year-old-womans-rare-thyroid-embedded-tumour-was-removed-through-her-underarm-leaving-no-visible-neck-scar/articleshow/133652248.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-08-31T14:04:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin, Modi and Xi Jinping unite for anti-US global influence summit",
+      "url": "https://nypost.com/2026/08/31/world-news/china-russia-india-more-country-leaders-attend-sco-summit/",
+      "source": "New York Post",
+      "publishedAt": "2026-08-31T14:04:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Jordan Sees Bigger Threat From Israel Than Iran",
+      "url": "http://foreignpolicy.com/2026/08/31/jordan-israel-iran-west-bank-annexation-refugees-gaza/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-08-31T13:48:41Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran says two killed in US strikes on island in Strait of Hormuz",
+      "url": "https://www.abc.net.au/news/2026-08-31/iran-says-two-killed-in-us-strikes-in-larak-island-strike/107100108",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-08-31T13:33:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Donald The “Peace President” Threatens a Nuclear First-Strike",
+      "url": "https://www.globalresearch.ca/peace-president-threatens-nuclear-first-strike/5938477",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-08-31T13:24:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pakistan, Saudi Arabia, Turkiye meet: What’s next for their defence pact?",
+      "url": "https://www.aljazeera.com/news/2026/8/31/pakistan-saudi-arabia-turkiye-meet-whats-next-for-their-defence-pact",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-31T12:57:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How Trump Is Trying to Keep His Iran War From Further Blowing Up in His Face",
+      "url": "https://www.commondreams.org/opinion/trump-iran-war-midterm-elections",
+      "source": "Common Dreams",
+      "publishedAt": "2026-08-31T12:56:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pete Hegseth rocked by secret Pentagon revolt as generals break ranks on Iran war with chilling US homeland warning",
+      "url": "https://www.dailymail.com/news/article-16092935/Pete-Hegseth-rocked-secret-Pentagon-revolt-generals-break-ranks-Iran-war-chilling-US-homeland-warning.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-31T12:06:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Who are the economic winners and losers of the US-Israel war on Iran?",
+      "url": "https://www.aljazeera.com/economy/2026/8/31/who-are-the-economic-winners-and-losers-of-the-us-israel-war-on-iran",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-08-31T12:01:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oh, Canada?",
+      "url": "https://www.kunstler.com/p/oh-canada",
+      "source": "Kunstler.com",
+      "publishedAt": "2026-08-31T11:52:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "With multilateralism in decline, what's next for the world?",
+      "url": "https://www.dw.com/en/with-multilateralism-in-decline-whats-next-for-the-world/a-78555977",
+      "source": "DW (English)",
+      "publishedAt": "2026-08-31T11:13:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "School starts soon in Lebanon but thousands still shelter in them during war",
       "url": "https://abcnews.com/International/wireStory/school-starts-lebanon-thousands-shelter-war-136081906",
@@ -9,14 +169,6 @@
       "publishedAt": "2026-08-31T10:41:36Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "United Arab Emirates says it has intercepted an Iranian drone over its territorial waters",
-      "url": "https://www.thehindubusinessline.com/news/world/united-arab-emirates-says-it-has-intercepted-an-iranian-drone-over-its-territorial-waters/article71410102.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-08-31T10:03:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Trump Has Peaked",
@@ -27,22 +179,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Putin 'fears being hanged' for failing in Ukraine and is planning to escalate war, insider claims amid Kremlin warnings Britain is in the crosshairs",
-      "url": "https://www.dailymail.com/news/article-16092593/Putin-fears-hanged-failing-Ukraine-planning-escalate-war-insider-claims-amid-Kremlin-warnings-Britain-crosshairs.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-31T09:37:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran’s state media identifies second casualty in US strike on Larak Island",
-      "url": "https://cryptobriefing.com/iran-larak-island-us-strike-casualties-identified/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-08-31T09:22:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea says hostile US policy unchanged, vows to strengthen nuclear force",
       "url": "https://economictimes.indiatimes.com/news/defence/north-korea-says-hostile-us-policy-unchanged-vows-to-strengthen-nuclear-force/articleshow/133648064.cms",
       "source": "The Times of India",
@@ -51,116 +187,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "China will stop Russia from going nuclear, Finland’s Stubb says",
-      "url": "https://www.politico.eu/article/china-wont-let-russia-use-nukes-finlands-alexander-stubb-says/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-08-31T09:02:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "My family fled the ‘butchers’ in Iran 50 years ago. We can’t give them what they want",
-      "url": "https://www.foxnews.com/opinion/family-fled-butchers-iran-50-years-ago-cant-give-them-what-they-want",
-      "source": "Fox News",
-      "publishedAt": "2026-08-31T09:00:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Ukrainization of Europe Picks Up Steam",
-      "url": "https://www.nakedcapitalism.com/2026/08/the-ukrainization-of-europe-picks-up-steam.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-31T09:00:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran's supreme leader calls for Muslim unity against US and Israel, and other Mideast news",
-      "url": "https://abcnews.com/International/wireStory/irans-supreme-leader-calls-muslim-unity-us-israel-136068585",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-08-31T08:25:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Syria is choosing diplomacy with Israel, but can its approach last?",
       "url": "https://www.aljazeera.com/features/2026/8/31/syria-is-choosing-diplomacy-with-israel-but-can-its-approach-last",
       "source": "Al Jazeera English",
       "publishedAt": "2026-08-31T08:05:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Nord Stream bombings put Ukraine’s ties with Germany under pressure",
-      "url": "https://www.aljazeera.com/news/2026/8/31/why-the-2022-nord-stream-bombings-muddle-berlin-kyiv-ties",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-31T08:03:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Modi-Xi-Putin together again: What will the Bishkek photo-op tell?",
-      "url": "https://economictimes.indiatimes.com/news/india/modi-chinas-xi-putin-together-again-at-sco-summit-in-bishkek-what-will-the-bishkek-photo-op-tell/articleshow/133646580.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-31T08:03:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia is rattling NATO’s nerves, but how far will Moscow go?",
-      "url": "https://www.cbc.ca/news/politics/russia-poland-ukraine-nato-attack-drones-missiles-9.7324731",
-      "source": "CBC News",
-      "publishedAt": "2026-08-31T08:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump says Kharg Island is 'being blown to smithereens' in post showing AI bombing video as US and Iran trade strikes and oil prices surge",
-      "url": "https://www.dailymail.com/news/article-16092387/Trump-says-Kharg-Island-blown-smithereens-post-showing-AI-bombing-video-US-Iran-trade-strikes-oil-prices-surge.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-08-31T06:50:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "United Arab Emirates says it has intercepted an Iranian drone over its territorial waters",
-      "url": "https://www.yahoo.com/news/world/articles/united-arab-emirates-says-intercepted-064732395.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-31T06:47:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Latest developments in the US-Iran war",
-      "url": "https://punchng.com/latest-developments-in-the-us-iran-war/",
-      "source": "The Punch",
-      "publishedAt": "2026-08-31T06:07:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran attacks US military targets in retaliation for first American strikes in a month",
-      "url": "https://www.thejournal.ie/iran-attacks-us-military-targets-in-retaliation-for-first-american-strikes-in-a-month-7147146-Aug2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-08-31T05:58:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Leaders of China, Russia and India are among heads of state meeting to counter US influence",
-      "url": "https://www.yahoo.com/news/world/articles/leaders-china-russia-india-among-040028169.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-31T04:00:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin doesn’t have to invade NATO to attack it",
-      "url": "https://www.americanthinker.com/blog/2026/08/at-2026-08-31/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-08-31T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Understanding And Dealing With Kim Jong-Un’s Resilience",
@@ -169,14 +201,6 @@
       "publishedAt": "2026-08-31T04:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "The Survivalist’s Odds ‘n Sods",
-      "url": "https://survivalblog.com/2026/09/01/the-survivalists-odds-n-sods-86/",
-      "source": "Survivalblog.com",
-      "publishedAt": "2026-08-31T03:27:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Changes Unseen, Strategies Uncharted | Sinification: August 2026",

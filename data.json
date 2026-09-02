@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-01T20:34:33Z",
-  "count": 33,
+  "updated": "2026-09-02T02:57:59Z",
+  "count": 25,
   "articles": [
+    {
+      "title": "TN govt to shift assembly, secretariat out of Fort St George; 3 sites shortlisted",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/tn-govt-to-shift-assembly-secretariat-out-of-fort-st-george/articleshow/133666326.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-01T02:40:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "3 principal candidates, 3 reserves to be shortlisted for final selection of Ram Temple CEO today",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/3-principal-candidates-3-reserves-to-be-shortlisted-for-final-selection-of-ram-temple-ceo-today/articleshow/133666219.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-01T02:32:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Confine women to home, says Sunni scholar; leaves Keralam ministers divided amid pushback",
+      "url": "https://timesofindia.indiatimes.com/city/kochi/confine-women-to-home-says-sunni-scholar-leaves-keralam-ministers-divided-amid-pushback/articleshow/133666156.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-01T02:26:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Civilian leader of US Army steps down after just 18 months in job",
+      "url": "https://www.abc.net.au/news/2026-09-01/army-secretary-dan-driscoll-stepping-down/107101744",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-01T02:23:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Nine killed following Russian strikes on Kyiv region",
+      "url": "https://www.rte.ie/news/world/2026/0901/1589892-ukraine-russia-war/",
+      "source": "RTE",
+      "publishedAt": "2026-09-01T02:15:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Awkward moment squirming Putin is told to 'move from endless war to the end of war' in meeting with India's PM Modi",
+      "url": "https://www.dailymail.com/news/article-16093667/squirming-Putin-endless-war-end-India-Modi.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-08-31T23:01:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Can we afford Iran?",
+      "url": "https://www.vox.com/today-explained-newsletter/501396/us-military-readiness-iran-war",
+      "source": "Vox",
+      "publishedAt": "2026-08-31T21:05:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Lebanon asks Greece to help enforce agreement with Israel",
       "url": "https://www.aljazeera.com/news/2026/8/31/lebanon-asks-greece-to-help-enforce-agreement-with-israel",
@@ -75,14 +131,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "California had 2.34 million acres covered by a toxic yellow weed until tiny Australian beetles fought back and reduced it by 99% within a decade",
-      "url": "https://timesofindia.indiatimes.com/science/california-had-2-34-million-acres-covered-by-a-toxic-yellow-weed-until-tiny-australian-beetles-fought-back-and-reduced-it-by-99-within-a-decade/articleshow/133656691.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-31T15:16:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "France to supply Sweden with 4 frigates to bolster the NATO country's defense",
       "url": "https://www.yahoo.com/news/world/articles/france-supply-sweden-4-frigates-150802574.html",
       "source": "Yahoo Entertainment",
@@ -91,36 +139,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Why has Greece signed a $3.5bn missile deal with Israel?",
-      "url": "https://www.aljazeera.com/news/2026/8/31/why-has-greece-signed-a-3-5bn-missile-deal-with-israel",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-08-31T14:57:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Amazon Stock Falls More Than 2 Percent as Renewed US Iran Clash Sends Oil Prices Surging",
-      "url": "https://www.ibtimes.com.au/amazon-shares-dip-us-iran-tensions-oil-prices-1874797",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-08-31T14:53:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Russian President plans to send 400,000 more troops to Ukraine and refuses to back down",
       "url": "https://en.protothema.gr/2026/08/31/russian-president-plans-to-send-400000-more-troops-to-ukraine-and-refuses-to-back-down/",
       "source": "Protothema.gr",
       "publishedAt": "2026-08-31T14:28:59Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "72-year-old woman’s rare thyroid-embedded tumour was removed through her underarm, leaving no visible neck scar",
-      "url": "https://timesofindia.indiatimes.com/health/72-year-old-womans-rare-thyroid-embedded-tumour-was-removed-through-her-underarm-leaving-no-visible-neck-scar/articleshow/133652248.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-31T14:04:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Putin, Modi and Xi Jinping unite for anti-US global influence summit",
@@ -139,34 +163,10 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Iran says two killed in US strikes on island in Strait of Hormuz",
-      "url": "https://www.abc.net.au/news/2026-08-31/iran-says-two-killed-in-us-strikes-in-larak-island-strike/107100108",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-08-31T13:33:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Donald The “Peace President” Threatens a Nuclear First-Strike",
       "url": "https://www.globalresearch.ca/peace-president-threatens-nuclear-first-strike/5938477",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-08-31T13:24:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Oh, Canada?",
-      "url": "https://www.kunstler.com/p/oh-canada",
-      "source": "Kunstler.com",
-      "publishedAt": "2026-08-31T11:52:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "With multilateralism in decline, what's next for the world?",
-      "url": "https://www.dw.com/en/with-multilateralism-in-decline-whats-next-for-the-world/a-78555977",
-      "source": "DW (English)",
-      "publishedAt": "2026-08-31T11:13:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -201,70 +201,6 @@
       "publishedAt": "2026-08-31T04:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Changes Unseen, Strategies Uncharted | Sinification: August 2026",
-      "url": "https://sinocism.com/p/changes-unseen-strategies-uncharted",
-      "source": "Sinocism.com",
-      "publishedAt": "2026-08-30T22:23:14Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Why This Small Island Chain Could Be The First Domino In A Taiwan War",
-      "url": "https://dailycaller.com/2026/08/30/taiwan-penghu-islands-us-economy-china",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-08-30T21:32:15Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "China cannot yet hold a beach on Taiwan",
-      "url": "https://www.wnd.com/2026/08/china-cannot-yet-hold-beach-taiwan/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-08-30T19:16:34Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "El-Sayed finally apologizes for lamenting death of terrorist’s family in response to Michigan synagogue attack",
-      "url": "https://nypost.com/2026/08/30/us-news/el-sayed-finally-apologizes-for-lamenting-death-of-terrorists-family-after-michigan-synagogue-attack/",
-      "source": "New York Post",
-      "publishedAt": "2026-08-30T17:11:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Nuclear Safeguards Are Gone – Former Canadian Foreign Minister Pt. 1/2",
-      "url": "https://www.nakedcapitalism.com/2026/08/nuclear-safeguards-are-gone-former-canadian-foreign-minister-pt-1-2.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-08-30T10:00:33Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "North Korea ousts defence minister in military reshuffle",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/north-korea-ousts-defence-minister-in-military-reshuffle/articleshow/133622591.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-30T03:44:54Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim Jong UN shakes up North Korea’s military, dismisses defence minister No Kwang Chol",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/kim-jong-un-shakes-up-north-koreas-military-dismisses-defence-minister-no-kwang-chol/articleshow/133622383.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-30T03:13:46Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Israel pounds southern Lebanon as Iran vows to stand by Beirut",
-      "url": "https://www.rt.com/news/644812-israel-bombs-lebanon-iran/",
-      "source": "RT",
-      "publishedAt": "2026-08-30T02:43:58Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

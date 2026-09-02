@@ -1,36 +1,132 @@
 {
-  "updated": "2026-09-02T02:57:59Z",
-  "count": 25,
+  "updated": "2026-09-02T10:39:51Z",
+  "count": 29,
   "articles": [
     {
-      "title": "TN govt to shift assembly, secretariat out of Fort St George; 3 sites shortlisted",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/tn-govt-to-shift-assembly-secretariat-out-of-fort-st-george/articleshow/133666326.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-01T02:40:46Z",
+      "title": "Abroad and at odds: How the war has divided Iranians in the diaspora",
+      "url": "https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-01T10:27:40Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "3 principal candidates, 3 reserves to be shortlisted for final selection of Ram Temple CEO today",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/3-principal-candidates-3-reserves-to-be-shortlisted-for-final-selection-of-ram-temple-ceo-today/articleshow/133666219.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-01T02:32:12Z",
+      "title": "Half of remote IT job applications now carry North Korean fraud patterns, startup Endorsed finds",
+      "url": "https://fortune.com/2026/09/01/north-korean-it-worker-remote-job-applications/",
+      "source": "Fortune",
+      "publishedAt": "2026-09-01T10:02:19Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Russian drone and missile barrage kills at least 12 in Ukraine’s Kyiv",
+      "url": "https://www.aljazeera.com/news/2026/9/1/russian-drone-and-missile-barrage-kills-at-least-12-in-ukraines-kyiv",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-01T08:57:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ratcliffe's Moscow Warning: What We Know A Week Later, According To Ex-CIA Officers",
+      "url": "https://www.rferl.org/a/ratcliffe-cia-moscow-visit-week-later/33844588.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-09-01T08:25:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says US position on the Falklands is 'under review' as he puts pressure on UK to boost defence spending",
+      "url": "https://www.dailymail.com/news/article-16095097/Trump-says-US-position-Falklands-review-puts-pressure-UK-boost-defence-spending.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-01T08:05:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Germany: charting its own course",
+      "url": "https://mondediplo.com/2026/09/06germany",
+      "source": "Mondediplo.com",
+      "publishedAt": "2026-09-01T07:02:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Taiwan isn't saying much about its war plans for a China fight — but its military drills are",
+      "url": "https://www.businessinsider.com/how-taiwans-drills-reveal-unspoken-blueprint-for-chinese-invasion-2026-9#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-09-01T05:19:45Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Trump dismisses ‘little war’ with Iran amid resumed clashes",
+      "url": "https://cryptobriefing.com/trump-dismisses-little-war-with-iran-amid-resumed-clashes/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-01T04:41:32Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Confine women to home, says Sunni scholar; leaves Keralam ministers divided amid pushback",
-      "url": "https://timesofindia.indiatimes.com/city/kochi/confine-women-to-home-says-sunni-scholar-leaves-keralam-ministers-divided-amid-pushback/articleshow/133666156.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-01T02:26:37Z",
+      "title": "Sanctions and bombs won’t end the war in Iran. Trump is running out of options against an intractable foe",
+      "url": "https://theconversation.com/sanctions-and-bombs-wont-end-the-war-in-iran-trump-is-running-out-of-options-against-an-intractable-foe-290852",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-09-01T04:33:46Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Civilian leader of US Army steps down after just 18 months in job",
-      "url": "https://www.abc.net.au/news/2026-09-01/army-secretary-dan-driscoll-stepping-down/107101744",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-01T02:23:19Z",
+      "title": "No more phones at temples in TN, secure counters set up",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/no-more-phones-at-temples-in-tn-secure-counters-set-up/articleshow/133667645.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-01T04:03:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Studying in Canada gets costlier: New proof of funds requirement for Indian students explained",
+      "url": "https://timesofindia.indiatimes.com/education/study-abroad/studying-in-canada-gets-costlier-new-proof-of-funds-requirement-for-indian-students-explained/articleshow/133667289.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-01T04:01:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Mother of 6 daughters kidnaps 3-year-old boy from Delhi hospital to raise as her own; caught in Bihar",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/mother-of-6-daughters-kidnaps-3-year-old-boy-from-delhi-hospital-to-raise-as-her-own-caught-in-bihar/articleshow/133667374.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-01T04:00:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "3 of family killed as landslide debris hits house amid heavy rain in Almora",
+      "url": "https://timesofindia.indiatimes.com/city/dehradun/3-of-family-killed-as-landslide-debris-hits-house-amid-heavy-rain-in-almora/articleshow/133667353.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-01T03:57:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Asked to 'watch' toddler for 15 minutes, man kidnaps him from hospital, sexually assaults child",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/asked-to-watch-toddler-for-15-minutes-man-kidnaps-him-from-hospital-sexually-assaults-child/articleshow/133667231.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-01T03:48:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IOB SO recruitment 2026: Indian Overseas Bank invites applications for 291 posts; apply by September 15",
+      "url": "https://timesofindia.indiatimes.com/education/news/iob-so-recruitment-2026-indian-overseas-bank-invites-applications-for-291-posts-apply-by-september-15/articleshow/133667219.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-01T03:44:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Telangana BJP chief N Ramchander Rao house-arrested ahead of Nalgonda visit",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/telangana-bjp-chief-n-ramchander-rao-house-arrested-ahead-of-nalgonda-vvisit/articleshow/133667068.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-01T03:41:13Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -51,14 +147,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Can we afford Iran?",
-      "url": "https://www.vox.com/today-explained-newsletter/501396/us-military-readiness-iran-war",
-      "source": "Vox",
-      "publishedAt": "2026-08-31T21:05:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Lebanon asks Greece to help enforce agreement with Israel",
       "url": "https://www.aljazeera.com/news/2026/8/31/lebanon-asks-greece-to-help-enforce-agreement-with-israel",
       "source": "Al Jazeera English",
@@ -67,36 +155,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Scientists tested spiders as living DNA traps; their stomach contents can reveal which insects and other animals are living around them",
-      "url": "https://timesofindia.indiatimes.com/science/scientists-tested-spiders-as-living-dna-traps-their-stomach-contents-can-reveal-which-insects-and-other-animals-are-living-around-them/articleshow/133662112.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-31T19:35:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Stage Is Set, The Fuse Is Lit, And 3 Global Conflicts Are On The Brink Of Detonation",
       "url": "http://theeconomiccollapseblog.com/the-stage-is-set-the-fuse-is-lit-and-3-global-conflicts-are-on-the-brink-of-detonation/",
       "source": "Theeconomiccollapseblog.com",
       "publishedAt": "2026-08-31T19:13:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Scientists discover how snails turn mucus into five different materials using calcium, collagen VI and changing protein levels",
-      "url": "https://timesofindia.indiatimes.com/science/scientists-discover-how-snails-turn-mucus-into-five-different-materials-using-calcium-collagen-vi-and-changing-protein-levels/articleshow/133659620.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-08-31T17:44:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Calls Israel's Netanyahu 'Serpent,' Claims US 'Suckered' Into Middle East War",
-      "url": "https://military.com/iranian-foreign-minister-calls-israeli-pm-netanyahu-serpent-claims-us-suckered-into-middle-east-war",
-      "source": "Military.com",
-      "publishedAt": "2026-08-31T17:06:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "‘Uncertainties’ rising: Xi Jinping calls for stronger China-Russia cooperation in meeting with Putin at SCO summit",
@@ -131,44 +195,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "France to supply Sweden with 4 frigates to bolster the NATO country's defense",
-      "url": "https://www.yahoo.com/news/world/articles/france-supply-sweden-4-frigates-150802574.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-08-31T15:08:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian President plans to send 400,000 more troops to Ukraine and refuses to back down",
-      "url": "https://en.protothema.gr/2026/08/31/russian-president-plans-to-send-400000-more-troops-to-ukraine-and-refuses-to-back-down/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-08-31T14:28:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin, Modi and Xi Jinping unite for anti-US global influence summit",
-      "url": "https://nypost.com/2026/08/31/world-news/china-russia-india-more-country-leaders-attend-sco-summit/",
-      "source": "New York Post",
-      "publishedAt": "2026-08-31T14:04:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Jordan Sees Bigger Threat From Israel Than Iran",
       "url": "http://foreignpolicy.com/2026/08/31/jordan-israel-iran-west-bank-annexation-refugees-gaza/",
       "source": "Foreign Policy",
       "publishedAt": "2026-08-31T13:48:41Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Donald The “Peace President” Threatens a Nuclear First-Strike",
-      "url": "https://www.globalresearch.ca/peace-president-threatens-nuclear-first-strike/5938477",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-08-31T13:24:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "School starts soon in Lebanon but thousands still shelter in them during war",

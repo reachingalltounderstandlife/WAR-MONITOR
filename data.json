@@ -1,22 +1,158 @@
 {
-  "updated": "2026-09-03T10:41:34Z",
-  "count": 32,
+  "updated": "2026-09-03T15:48:16Z",
+  "count": 33,
   "articles": [
     {
-      "title": "EU's Top Diplomat Accuses Russia of 'State Sponsored Terrorism'",
-      "url": "https://www.breitbart.com/europe/2026/09/02/eus-top-diplomat-accuses-russia-of-state-sponsored-terrorism/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-09-02T10:30:13Z",
+      "title": "Russia's hybrid attacks on Germany: When is it 'war'?",
+      "url": "https://www.dw.com/en/russias-hybrid-attacks-on-germany-when-is-it-war/a-78784262",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-02T15:30:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "EU's Kallas calls alleged Russian drone plot 'state sponsored terrorism' as Europe mulls a response",
-      "url": "https://abcnews.com/International/wireStory/eus-kallas-calls-alleged-russian-drone-plot-state-136136530",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-02T10:11:37Z",
+      "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
+      "source": "NPR",
+      "publishedAt": "2026-09-02T15:18:09Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran accuses US of a 'war crime' after strikes kill people at wedding party",
+      "url": "https://www.abc.net.au/news/2026-09-03/iran-us-wedding-war-crime-allegation/107109332",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-02T15:13:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "China’s Xi visits Egypt’s el-Sisi: Why it matters",
+      "url": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-visits-egypts-el-sisi-why-it-matters",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-02T15:00:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Is Ukraine Planning a Sustained “Operation Spiderweb” Against Russia’s Air Hubs?",
+      "url": "https://www.globalresearch.ca/ukraine-sustained-operation-spiderweb-russia-air-hubs/5938812",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-02T14:58:08Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "The Leipzig Incident Has All the Hallmarks of a False Flag",
+      "url": "https://www.globalresearch.ca/leipzig-incident-hallmarks-false-flag/5938818",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-02T14:48:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Leipzig Incident Has All the Hallmarks of a False Flag Against Russia",
+      "url": "https://www.nakedcapitalism.com/2026/09/the-leipzig-incident-has-all-the-hallmarks-of-a-false-flag-against-russia.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-02T14:35:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "EU and Nato vow to step up pressure on Russia after ‘new escalation’ in Germany",
+      "url": "https://www.irishtimes.com/world/europe/2026/09/02/eu-and-nato-vow-to-step-up-pressure-on-russia-after-new-escalation-in-germany/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-09-02T14:23:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "From a German airport to a Polish drone factory fire, the EU confronts a wave of suspected Russian sabotage",
+      "url": "https://fortune.com/2026/09/02/germany-russia-drone-attack-eu-response/",
+      "source": "Fortune",
+      "publishedAt": "2026-09-02T14:19:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Erdogan says Turkey would consider full membership of China-Russia-led security bloc",
+      "url": "https://freerepublic.com/focus/f-news/4393961/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-09-02T14:04:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Von der Leyen, Rutte say Russian ‘intimidation will not work’ to stop Ukraine aid",
+      "url": "https://www.politico.eu/article/eu-ursula-von-der-leyen-nato-mark-rutte-say-russian-intimidation-will-not-work-to-stop-ukraine-aid/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-09-02T13:44:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "After deadly US strike, videos show Iran wedding turned 'into funeral'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/after-deadly-us-strike-videos-show-iran-wedding-turned-into-funeral/articleshow/133711571.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-02T13:12:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "EU and NATO vow to increase pressure on Russia after drone attack on German airport",
+      "url": "https://cryptobriefing.com/eu-nato-pressure-russia-germany-drone-attack/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-02T13:11:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What is Iran’s Castle Breaker missile, used against US bases?",
+      "url": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-02T12:38:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260902-unnews03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-02T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US embassy in Saudi Arabia warns Americans amid rising Middle East tensions",
+      "url": "https://cryptobriefing.com/us-embassy-in-saudi-arabia-warns-americans-amid-rising-middle-east-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-02T11:35:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin hybrid war fears renewed as Germany is hit by ANOTHER power grid sabotage a day after saying Russia was behind airport drone bomb attempt",
+      "url": "https://www.dailymail.com/news/article-16098647/Putin-hybrid-war-fears-Germany-hit-power-grid.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-02T11:05:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What do we know about the fatal US bombing of a wedding in Iran’s Sirik?",
+      "url": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-02T10:57:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Tehran fires on Gulf neighbors after US renews Iran strikes",
+      "url": "https://nypost.com/2026/09/02/world-news/iran-fires-on-gulf-neighbors-after-us-military-strikes-iran-after-a-monthlong-lull/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-02T10:49:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "A magnificent CIA operation in Spanish Ceuta",
@@ -43,44 +179,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Russia secretly helping Iran develop supersonic cruise missiles",
-      "url": "https://www.irishtimes.com/world/asia-pacific/2026/09/02/russia-secretly-helping-iran-develop-supersonic-cruise-missiles/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-09-02T09:18:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran War: US Lashes Out at Civilian Targets with Iran Claiming US Military Deaths in Disproportionate Retaliation on US Bases; Servicemembers Becoming Demoralized with Lack of Strategy, No-Win Situation",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-us-lashes-out-at-civilian-targets-with-iran-claiming-us-military-deaths-in-disproportionate-retaliation-on-us-bases-servicemembers-becoming-demoralized-with-lack-of-strategy-no-win-situat.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-02T09:09:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
-      "url": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-02T08:55:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "US attacks prompt Iranian retaliation as fighting intensifies",
       "url": "https://www.bloomberg.com/news/articles/2026-09-02/us-attacks-prompt-iranian-retaliation-as-fighting-intensifies",
       "source": "Bloomberg",
       "publishedAt": "2026-09-02T08:55:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "EU summons Russian envoy, eyes sanctions after Germany drone 'attack'",
-      "url": "https://www.channelnewsasia.com/world/eu-russia-germany-drone-attack-sanctions-6357291",
-      "source": "CNA",
-      "publishedAt": "2026-09-02T08:38:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
@@ -91,60 +195,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Russia is secretly helping Iran develop supersonic missiles",
-      "url": "https://www.dailymail.com/news/article-16098219/Russia-Iran-develop-supersonic-missiles.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-02T08:17:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran ignores Trump threats of escalating the war and carries out attacks on US allies across the Gulf",
-      "url": "https://www.dailymail.com/news/article-16098277/Iran-ignores-Trump-threats-escalating-war-carries-attacks-US-allies-Gulf.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-02T07:50:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine’s Ground Robots and the Economics of Survival",
-      "url": "https://warontherocks.com/ukraines-ground-robots-and-the-economics-of-survival/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-09-02T07:30:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why Are People Talking About a German Reset with Russia?",
-      "url": "https://warontherocks.com/why-are-people-talking-about-a-german-reset-with-russia/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-09-02T07:15:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "IDF: Hezbollah launched explosive drones at troops in southern Lebanon, prompting strikes",
       "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-02/ty-article/idf-hezbollah-launches-explosive-drones-at-troops-in-southern-lebanon/000001a0-60e2-ddc5-adbd-e3fb3e5d0000",
       "source": "Haaretz",
       "publishedAt": "2026-09-02T06:58:03Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "'It's a military secret': Putin taunts Britain over possible plan to target UK defence plants for its support of Ukraine",
-      "url": "https://www.dailymail.com/news/article-16098149/Its-military-secret-Putin-taunts-Britain-possible-plan-target-UK-defence-plants-support-Ukraine.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-02T06:37:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu Says He Spent Years Pressing U.S. to Move Against Iran",
-      "url": "https://www.naturalnews.com/2026-09-02-netanyahu-spent-years-pressing-us-move-against-iran.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-02T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Hezbollah launches explosive drones at IDF troops, Israel strikes back",
@@ -171,14 +227,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Trump’s Wars Have Created Disturbing Military Readiness Crisis",
-      "url": "https://www.theamericanconservative.com/trumps-wars-created-a-disturbing-military-readiness-crisis/",
-      "source": "The American Conservative",
-      "publishedAt": "2026-09-02T04:05:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "First time since July: Sirens sound in northern Israel due to suspected UAV infiltration",
       "url": "https://www.israelnationalnews.com/news/432575",
       "source": "Israelnationalnews.com",
@@ -187,60 +235,20 @@
       "_label": "Lebanon"
     },
     {
-      "title": "What to know about Germany’s drone attack accusations against Russia",
-      "url": "https://www.aljazeera.com/news/2026/9/2/what-to-know-about-germanys-drone-attack-accusations-against-russia",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-02T01:40:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Crude Prices Surge on Escalation of US-Iran Hostilities",
-      "url": "https://www.barchart.com/story/news/4383820/crude-prices-surge-on-escalation-of-us-iran-hostilities",
-      "source": "Barchart.com",
-      "publishedAt": "2026-09-01T19:13:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Explosion rocks Mansouri amid renewed Israeli airstrikes in southern Lebanon",
-      "url": "https://cryptobriefing.com/explosion-rocks-mansouri-amid-renewed-israeli-airstrikes-in-southern-lebanon/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-01T18:58:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Germany blames Russia for last month's attempted drone attack at Leipzig airport",
-      "url": "https://www.channelnewsasia.com/world/germany-blames-russia-drone-attack-leipzig-airport-6355451",
-      "source": "CNA",
-      "publishedAt": "2026-09-01T18:28:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Germany to continue supporting Ukraine amid ongoing conflict with Russia",
-      "url": "https://cryptobriefing.com/germany-to-continue-supporting-ukraine-amid-ongoing-conflict-with-russia/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-01T15:53:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Is Trump wooing Russia again – and why?",
-      "url": "https://www.aljazeera.com/news/2026/9/1/is-trump-wooing-russia-again-and-why",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-01T14:40:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Guy Sorman: “Trump’s Next Move? Look to Psychology, Not Geopolitics”",
       "url": "https://www.khan.co.kr/article/202609012238001",
       "source": "Khan.co.kr",
       "publishedAt": "2026-09-01T13:38:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
+    },
+    {
+      "title": "New report shows PLA prioritizing joint island-landing capabilities: Analyst",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260901-cna02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-01T12:00:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
     },
     {
       "title": "Half of remote IT job applications now carry North Korean fraud patterns, startup Endorsed finds",

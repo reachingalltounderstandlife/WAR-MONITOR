@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-03T20:31:15Z",
-  "count": 33,
+  "updated": "2026-09-04T02:59:25Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "Oil Price Today (September 3): Crude oil flat at $96 as traders weigh fresh US-Iran attacks. What are experts saying?",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-3-crude-oil-flat-at-96-as-traders-weigh-fresh-us-iran-attacks-what-are-experts-saying/articleshow/133723351.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-03T02:12:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump: Iran's economy is totally shot, it’s just a question of time",
+      "url": "https://www.israelnationalnews.com/news/432628",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-03T01:22:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukrainian attacks fueling global ‘energy shock’ – US Treasury secretary (VIDEO)",
+      "url": "https://www.rt.com/business/645053-bessent-ukraine-russia-refineries-attacks/",
+      "source": "RT",
+      "publishedAt": "2026-09-03T00:03:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin's threat to the UK is a Nato fiction, claims 'dangerously naive' Diane Abbott",
+      "url": "https://www.dailymail.com/news/article-16099961/Putins-threat-UK-Nato-fiction-claims-dangerously-naive-Diane-Abbott.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-02T21:39:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran fires on U.S. allies in Gulf after night of American strikes it claims killed four at a wedding",
+      "url": "https://fortune.com/2026/09/02/iran-war-oil-prices-gulf-strait-hormuz/",
+      "source": "Fortune",
+      "publishedAt": "2026-09-02T21:20:51Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Israel says prepared to ‘respond with great force’ if Iran attacks",
       "url": "https://punchng.com/israel-says-prepared-to-respond-with-great-force-if-iran-attacks/",
@@ -83,6 +123,14 @@
       "_label": "Ukraine"
     },
     {
+      "title": "Fears of an Extended US-Iran Conflict Boost Crude Oil Prices",
+      "url": "https://www.barchart.com/story/news/4404339/fears-of-an-extended-us-iran-conflict-boost-crude-oil-prices",
+      "source": "Barchart.com",
+      "publishedAt": "2026-09-02T15:39:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
       "title": "Russia's hybrid attacks on Germany: When is it 'war'?",
       "url": "https://www.dw.com/en/russias-hybrid-attacks-on-germany-when-is-it-war/a-78784262",
       "source": "DW (English)",
@@ -103,14 +151,6 @@
       "url": "https://www.abc.net.au/news/2026-09-03/iran-us-wedding-war-crime-allegation/107109332",
       "source": "ABC News (AU)",
       "publishedAt": "2026-09-02T15:13:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "China’s Xi visits Egypt’s el-Sisi: Why it matters",
-      "url": "https://www.aljazeera.com/news/2026/9/2/chinas-xi-visits-egypts-el-sisi-why-it-matters",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-02T15:00:30Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -137,38 +177,6 @@
       "publishedAt": "2026-09-02T14:35:20Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "EU and Nato vow to step up pressure on Russia after ‘new escalation’ in Germany",
-      "url": "https://www.irishtimes.com/world/europe/2026/09/02/eu-and-nato-vow-to-step-up-pressure-on-russia-after-new-escalation-in-germany/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-09-02T14:23:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "After deadly US strike, videos show Iran wedding turned 'into funeral'",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/after-deadly-us-strike-videos-show-iran-wedding-turned-into-funeral/articleshow/133711571.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-02T13:12:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What is Iran’s Castle Breaker missile, used against US bases?",
-      "url": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-02T12:38:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260902-unnews03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-02T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Tehran fires on Gulf neighbors after US renews Iran strikes",
@@ -217,54 +225,6 @@
       "publishedAt": "2026-09-02T06:58:03Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Hezbollah launches explosive drones at IDF troops, Israel strikes back",
-      "url": "https://www.israelnationalnews.com/news/432584",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-02T05:59:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli military destruction in Bint Jbeil fuels Lebanon conflict tensions",
-      "url": "https://cryptobriefing.com/israeli-military-destruction-in-bint-jbeil-fuels-lebanon-conflict-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-02T05:43:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Guy Sorman: “Trump’s Next Move? Look to Psychology, Not Geopolitics”",
-      "url": "https://www.khan.co.kr/article/202609012238001",
-      "source": "Khan.co.kr",
-      "publishedAt": "2026-09-01T13:38:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "New report shows PLA prioritizing joint island-landing capabilities: Analyst",
-      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260901-cna02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-01T12:00:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Half of remote IT job applications now carry North Korean fraud patterns, startup Endorsed finds",
-      "url": "https://fortune.com/2026/09/01/north-korean-it-worker-remote-job-applications/",
-      "source": "Fortune",
-      "publishedAt": "2026-09-01T10:02:19Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Taiwan isn't saying much about its war plans for a China fight — but its military drills are",
-      "url": "https://www.businessinsider.com/how-taiwans-drills-reveal-unspoken-blueprint-for-chinese-invasion-2026-9#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-09-01T05:19:45Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
     }
   ]
 }

@@ -1,22 +1,150 @@
 {
-  "updated": "2026-09-04T10:37:12Z",
-  "count": 30,
+  "updated": "2026-09-04T15:46:45Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "Tomorrow's Victory and the Army of the Future: Forecasting the Next Steps in Ukraine's Military Evolution",
+      "url": "https://www.rand.org/pubs/commentary/2026/09/tomorrows-victory-and-the-army-of-the-future.html",
+      "source": "Rand.org",
+      "publishedAt": "2026-09-03T15:30:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump congratulates Hegseth on ‘good job’ after deadly Iran wedding strike",
+      "url": "https://www.rt.com/news/645100-trump-congradulates-hegseth-iran/",
+      "source": "RT",
+      "publishedAt": "2026-09-03T14:51:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Evidence points to direct US hit on Iran wedding – Reuters",
+      "url": "https://www.rt.com/news/645100-us-iran-hit-wedding-evidence/",
+      "source": "RT",
+      "publishedAt": "2026-09-03T14:51:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lives on hold: Young Iranians watch their futures slip away",
+      "url": "https://www.thenewhumanitarian.org/feature/2026/09/03/lives-hold-young-iranians-watch-their-futures-slip-away",
+      "source": "The New Humanitarian",
+      "publishedAt": "2026-09-03T14:40:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says Iran Strikes to Be Short, Asserts Hormuz Control",
+      "url": "https://www.insurancejournal.com/news/international/2026/09/03/883847.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-09-03T14:23:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘We Are Stalled’: US-Iran Conflict Stuck With No End in Sight",
+      "url": "https://military.com/we-are-stalled-us-iran-conflict-stuck-with-no-end-in-sight",
+      "source": "Military.com",
+      "publishedAt": "2026-09-03T14:19:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Strikes US Bases Across West Asia in Retaliation for Violations of the Memorandum of Understanding",
+      "url": "https://www.globalresearch.ca/iran-strikes-us-bases-west-asia-retaliation/5938863",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-03T13:37:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin warns Russians they must be 'prepared for anything' as he hints at escalation of his war",
+      "url": "https://www.dailymail.com/news/article-16102287/Putin-warns-Russians-prepared-escalation-war.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-03T13:34:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Oil jumps as Iran claims strikes, Israel issues stark warning",
+      "url": "https://financialpost.com/commodities/energy/oil-gas/oil-jumps-iran-claims-strikes-israel-issues-stark-warning",
+      "source": "Financial Post",
+      "publishedAt": "2026-09-03T13:29:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Future of AI-Enabled Drone Warfare After the US–Iran Conflict",
+      "url": "https://www.fairobserver.com/business/technology/the-future-of-ai-enabled-drone-warfare-after-the-us-iran-conflict/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-09-03T13:21:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "King Charles shares personal fears about Iran war as he meets Pakistani diplomat who is leading negotiations at Clarence House",
+      "url": "https://www.dailymail.com/news/article-16101367/King-Charles-shares-personal-fears-Iran-war-meets-Pakistani-diplomat-leading-negotiations-Clarence-House.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-03T13:03:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia to close German cultural centers as Moscow and Europe spar over Ukraine",
+      "url": "https://nypost.com/2026/09/03/world-news/russia-to-close-germanys-cultural-centers-amid-tension/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-03T12:36:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Thursday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/09/03/thursday-hili-dialogue-603/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-09-03T12:00:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Finland runs Europe's biggest civil defense exercise since Cold War...",
+      "url": "https://apnews.com/article/finland-russia-civil-defense-cyberattack-sabotage-3ea6f75d826669c6be138a0496934b5b",
+      "source": "Associated Press",
+      "publishedAt": "2026-09-03T12:00:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelenskyy Says US Envoys To Visit Kyiv, Moscow As Russia Again Strikes Ukraine's Capital",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260903-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-03T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ministry of Foreign Affairs summons Russian chargé d'affaires over drone attack at Leipzig Airport",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/09/russia-260903-estonia-mfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-03T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Finland Runs Europe's Biggest Civil Defense Exercise Since the Cold War",
+      "url": "https://www.breitbart.com/europe/2026/09/03/finland-runs-europes-biggest-civil-defense-exercise-since-cold-war/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-09-03T10:58:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "The Rules-Based Nuclear Bomb",
       "url": "https://www.nakedcapitalism.com/2026/09/the-rules-based-nuclear-bomb.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-09-03T10:00:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump 'is privately discussing whether to declare Iran war over'",
-      "url": "https://www.dailymail.com/news/article-16101501/Trump-privately-discussing-declare-Iran-war-over.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-03T08:51:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Minister condemns Diane Abbott over claim Russia threat is 'Nato fiction'... but veteran MP looks set to keep Labour whip",
@@ -43,54 +171,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "China’s paper-tiger alliance shows the US can’t isolate Iran",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-paper-tiger-alliance-shows-the-us-cant-isolate-iran/articleshow/133728942.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-03T07:26:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Finland holds Europe's largest civil defence exercise since WWII in preparation for an attack by Putin",
-      "url": "https://www.dailymail.com/news/article-16101373/Finland-defence-WW2-Putin-attack.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-03T07:26:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "With wary eye on Russia, Finland runs Europe's largest civil defence exercise since WWII",
-      "url": "https://economictimes.indiatimes.com/news/defence/with-wary-eye-on-russia-finland-runs-europes-largest-civil-defence-exercise-since-wwii/articleshow/133727989.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-03T07:01:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran attacks US targets despite Trump threats",
-      "url": "https://www.hurriyetdailynews.com/iran-attacks-us-targets-despite-trump-threats-226394",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-09-03T06:27:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Finland runs Europe's largest civil defense exercise since WWII",
-      "url": "https://abcnews.com/International/wireStory/wary-eye-russia-finland-runs-europes-largest-civil-136164627",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-03T06:21:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "With a wary eye on Russia, Finland runs Europe's largest civil defense exercise since WWII",
-      "url": "https://www.yahoo.com/news/world/articles/wary-eye-russia-finland-runs-060403668.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-03T06:04:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The Gathering AI Storm and Challenge to Stability",
       "url": "https://smallwarsjournal.com/2026/09/03/the-gathering-ai-storm/",
       "source": "Smallwarsjournal.com",
@@ -99,76 +179,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Watchdog: U.S. Precision Strike Missile Killed 21 Civilians in Iran",
-      "url": "https://www.naturalnews.com/2026-09-03-watchdog-us-prsm-munition-killed-civilians-iran.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-03T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Majority of Poles reject sending Patriot missiles to Ukraine, new poll shows",
-      "url": "https://www.naturalnews.com/2026-09-03-poles-reject-sending-patriot-missiles-ukraine-poll.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-03T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "When the World Stops Dreaming in American",
-      "url": "https://www.counterpunch.org/2026/09/03/when-the-world-stops-dreaming-in-american/",
-      "source": "CounterPunch",
-      "publishedAt": "2026-09-03T05:57:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran attacks US targets in Kuwait despite Trump threats",
-      "url": "https://www.rte.ie/news/middle-east/2026/0903/1590149-iran-war/",
-      "source": "RTE",
-      "publishedAt": "2026-09-03T05:53:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran attacks US bases in Kuwait after promising 'a new strategy'",
-      "url": "https://www.thejournal.ie/iran-attacks-kuwait-bases-7150848-Sep2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-09-03T05:48:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump claims renewed strikes on Iran are short-lived and that US controls Strait of Hormuz",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/09/03/us-iran-war-donald-trump-latest-news/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-09-03T05:37:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "60 targets struck in a day: Inside the US military's biggest push to secure Hormuz",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/60-targets-struck-in-a-day-inside-the-us-militarys-biggest-push-to-secure-hormuz/articleshow/133725436.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-03T04:56:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Sanctions and Bombs won’t end the war in Iran. Trump is running out of Options against an intractable Foe",
       "url": "https://www.juancole.com/2026/09/sanctions-running-intractable.html",
       "source": "Juancole.com",
       "publishedAt": "2026-09-03T04:04:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil Price Today (September 3): Crude oil flat at $96 as traders weigh fresh US-Iran attacks. What are experts saying?",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-3-crude-oil-flat-at-96-as-traders-weigh-fresh-us-iran-attacks-what-are-experts-saying/articleshow/133723351.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-03T02:12:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran fires on U.S. allies in Gulf after night of American strikes it claims killed four at a wedding",
@@ -233,14 +249,6 @@
       "publishedAt": "2026-09-02T10:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "US-Iran fighting escalates as Tehran retaliates with missile, drone strikes",
-      "url": "https://www.business-standard.com/world-news/us-iran-fighting-escalates-as-tehran-retaliates-with-missile-drone-strikes-126090200710_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-09-02T09:20:10Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

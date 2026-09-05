@@ -1,7 +1,127 @@
 {
-  "updated": "2026-09-05T14:36:50Z",
-  "count": 30,
+  "updated": "2026-09-05T19:57:01Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
+      "url": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-04T19:48:25Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "What the latest flare-up between the U.S and Iran means",
+      "url": "https://mondoweiss.net/2026/09/what-the-latest-flare-up-between-the-u-s-and-iran-means/",
+      "source": "Mondoweiss",
+      "publishedAt": "2026-09-04T19:41:34Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump insists Iran 'not a war' FOUR times as 767 troops lie wounded and gas lingers over $4 a gallon",
+      "url": "https://www.dailymail.com/news/us-politics/article-16106433/Trump-iran-war-small-potatoes.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-04T19:30:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump warns Iran: We may hit Pickaxe very soon",
+      "url": "https://www.israelnationalnews.com/news/432724",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-04T19:04:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What Was the War on Terror?",
+      "url": "http://foreignpolicy.com/2026/09/04/war-on-terror-bush-obama-iraq-afghanistan-al-qaeda-history/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-04T19:00:06Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Trump’s New “Waters Of The U.S.” Proposal Takes Sledgehammer To Clean Water Act",
+      "url": "https://www.commondreams.org/newswire/trumps-new-waters-of-the-u-s-proposal-takes-sledgehammer-to-clean-water-act",
+      "source": "Common Dreams",
+      "publishedAt": "2026-09-04T17:43:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘We Are Stalled’: US-Iran War Stuck With No End in Sight",
+      "url": "https://gcaptain.com/we-are-stalled-us-iran-war-stuck-with-no-end-in-sight/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-09-04T16:44:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "China's Nostradamus issues FIVE chilling predictions for 2027... ending with a US civil war",
+      "url": "https://www.dailymail.com/sciencetech/article-16103887/china-nostradamus-jiang-xueqin-civil-war-prediction.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-04T16:35:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Military families reflect on service members killed, injured in Iran war",
+      "url": "https://abcnews.com/Politics/big-piece-hearts-left-earth-military-families-reflect/story?id=136125152",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-04T16:03:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Vance Says US 'Never Targets Civilians'. Data From First Phase of Iran War Tells a Different Story",
+      "url": "https://www.commondreams.org/news/vance-civilians-killed",
+      "source": "Common Dreams",
+      "publishedAt": "2026-09-04T15:53:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian Drone Blasts Ukraine Security Services HQ Ahead Of Expected US Envoys' Visit",
+      "url": "https://www.rferl.org/a/ukraine-sbu-attack-witkoff-kushner-russia-visit/33847119.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-09-04T15:52:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Noisy Jobs Report Offers Little Comfort for Jobseekers Across Stumbling Economy",
+      "url": "https://www.commondreams.org/newswire/noisy-jobs-report-offers-little-comfort-for-jobseekers-across-stumbling-economy",
+      "source": "Common Dreams",
+      "publishedAt": "2026-09-04T15:49:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Diesel price hits all-time high in US amid Iran war woes",
+      "url": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-04T15:28:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF to conduct airstrikes on Lebanon amid ongoing tensions with Hezbollah",
+      "url": "https://cryptobriefing.com/idf-to-conduct-airstrikes-on-lebanon-amid-ongoing-tensions-with-hezbollah/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-04T15:25:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel frees four more Lebanese prisoners in Red Cross-mediated handover",
+      "url": "https://www.aljazeera.com/news/2026/9/4/israel-frees-four-more-lebanese-prisoners-in-red-cross-mediated-handover",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-04T14:50:55Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "An Outcast at the Summit",
       "url": "https://www.steynonline.com/16389/an-outcast-at-the-summit",
@@ -15,40 +135,8 @@
       "url": "https://www.steynonline.com/16389/wn",
       "source": "Steynonline.com",
       "publishedAt": "2026-09-04T14:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Trapped Between Authoritarian Rule and Foreign Bombs",
-      "url": "https://www.fairobserver.com/politics/iran-trapped-between-authoritarian-rule-and-foreign-bombs/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-09-04T13:46:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S.-Iran Escalation Raise Fears of a Wider War",
-      "url": "https://www.globalresearch.ca/us-iran-escalation-raise-fears-wider-war/5939009",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-04T13:41:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
-      "url": "https://www.aljazeera.com/news/2026/9/4/conflicts-and-extreme-weather-pushing-global-food-prices-higher-warns-un",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-04T13:24:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s army shifts military doctrine to preemptive operations",
-      "url": "https://cryptobriefing.com/iran-army-preemptive-military-doctrine/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-04T13:23:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Jared Kushner set to visit Russia and possibly Ukraine this weekend in peace push",
@@ -67,28 +155,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump is dismantling Iran’s war machine, but America still needs an endgame",
-      "url": "https://www.foxnews.com/opinion/trump-dismantling-irans-war-machine-america-still-needs-endgame",
-      "source": "Fox News",
-      "publishedAt": "2026-09-04T13:00:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "It’s time for Trump to fire Pete Hegseth",
       "url": "https://www.salon.com/2026/09/04/its-time-for-trump-to-fire-pete-hegseth/",
       "source": "Salon",
       "publishedAt": "2026-09-04T13:00:01Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Democrats Attack Trump’s Venezuela Imperialism... From the Right!",
-      "url": "https://www.commondreams.org/opinion/dems-imperialism-venezuela",
-      "source": "Common Dreams",
-      "publishedAt": "2026-09-04T12:32:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Baiba Braže delivers a lecture at NATO Defence College in Italy",
@@ -131,14 +203,6 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Iran war: Why US midterms could be a pivotal moment",
-      "url": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-04T11:12:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
       "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro",
       "source": "BBC News",
@@ -153,22 +217,6 @@
       "publishedAt": "2026-09-04T09:31:07Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Oil prices set for weekly gain as US-Iran hostilities intensify",
-      "url": "https://www.channelnewsasia.com/business/oil-prices-set-weekly-gain-us-iran-hostilities-intensify-6361856",
-      "source": "CNA",
-      "publishedAt": "2026-09-04T08:36:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russian adviser says West has spent $600 billion prolonging Ukraine war",
-      "url": "https://www.naturalnews.com/2026-09-04-russian-adviser-west-prolonging-ukraine-war.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-04T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Crude Oil Prices Settle Higher on US-Iran Tensions",
@@ -219,28 +267,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "The front line is everywhere: Why Europe must dismantle Tehran's hybrid terror network",
-      "url": "https://www.israelnationalnews.com/news/432643",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-03T07:34:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "The Gathering AI Storm and Challenge to Stability",
       "url": "https://smallwarsjournal.com/2026/09/03/the-gathering-ai-storm/",
       "source": "Smallwarsjournal.com",
       "publishedAt": "2026-09-03T06:00:47Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Sanctions and Bombs won’t end the war in Iran. Trump is running out of Options against an intractable Foe",
-      "url": "https://www.juancole.com/2026/09/sanctions-running-intractable.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-09-03T04:04:57Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

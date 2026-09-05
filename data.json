@@ -1,12 +1,124 @@
 {
-  "updated": "2026-09-05T03:01:10Z",
-  "count": 29,
+  "updated": "2026-09-05T09:58:48Z",
+  "count": 30,
   "articles": [
     {
-      "title": "Trump: Iran was weeks away from nuclear weapon before US strikes",
-      "url": "https://www.israelnationalnews.com/news/432691",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-04T02:59:13Z",
+      "title": "Hezbollah terrorists trapped underground as IDF clears key southern Lebanon ridge",
+      "url": "https://cryptobriefing.com/hezbollah-terrorists-trapped-underground-as-idf-clears-key-southern-lebanon/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-04T09:31:07Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Oil prices set for weekly gain as US-Iran hostilities intensify",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-set-weekly-gain-us-iran-hostilities-intensify-6361856",
+      "source": "CNA",
+      "publishedAt": "2026-09-04T08:36:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian strikes on Jordan test the bonds between the US and one of its staunchest Mideast allies",
+      "url": "https://abcnews.com/International/wireStory/iranian-strikes-jordan-test-bonds-us-staunchest-mideast-136194638",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-04T06:17:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil prices set for steepest weekly gain since mid-July",
+      "url": "https://www.rte.ie/news/business/2026/0904/1590284-world-oil-prices/",
+      "source": "RTE",
+      "publishedAt": "2026-09-04T06:13:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Jordan caught in crossfire as Iran targets bases hosting US forces",
+      "url": "https://www.business-standard.com/world-news/jordan-caught-in-crossfire-as-iran-targets-bases-hosting-us-forces-126090400326_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-04T06:09:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s 1980s Playbook Is Burning Down the Empire",
+      "url": "https://www.naturalnews.com/2026-09-04-trumps-1980s-playbook-is-burning-down-empire.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-04T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Orders Iran Strikes, Raising Questions About Midterm Impact",
+      "url": "https://www.naturalnews.com/2026-09-04-trump-orders-iran-strikes-raising-questions-impact.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-04T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian adviser says West has spent $600 billion prolonging Ukraine war",
+      "url": "https://www.naturalnews.com/2026-09-04-russian-adviser-west-prolonging-ukraine-war.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-04T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Norway seizes Russian science vessel at Kievâs behest, widening the war",
+      "url": "https://www.naturalnews.com/2026-09-04-norway-seizes-russian-science-vessel-at-kievs-behest.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-04T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The nuclear calculus: How Russia’s patience with western escalation may be reaching its breaking point",
+      "url": "https://www.naturalnews.com/2026-09-04-russia-patience-western-escalation-reaching-breaking-point.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-04T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "4 years of Levana fire: Closure eludes victims, questions still smoulder",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/4-years-of-levana-fire-closure-eludes-victims-questions-still-smoulder/articleshow/133753039.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-04T05:43:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Play, deport, repeat: Trump launches arcade-style immigration games",
+      "url": "https://timesofindia.indiatimes.com/world/us/play-deport-repeat-trump-launches-arcade-style-immigration-games/articleshow/133752779.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-04T05:40:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Jupiter’ Director Alexandre Smia on Making a Nuclear Thriller That Suddenly Feels Terrifyingly Real: ‘We’ve Entered the Third Nuclear Age’",
+      "url": "https://variety.com/2026/film/global/jupiter-alexandre-smia-venice-1236850107/",
+      "source": "Variety",
+      "publishedAt": "2026-09-04T05:35:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "High-risk delivery: Why 1 in 3 gig workers feels unsafe on Delhi roads",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/high-risk-delivery-why-1-in-3-gig-workers-feels-unsafe-on-delhi-roads/articleshow/133752056.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-04T05:34:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Are schools and colleges closed in Delhi on September 11 due to BRICS Summit? Here's what the order says",
+      "url": "https://timesofindia.indiatimes.com/education/news/are-schools-closed-in-delhi-on-september-11-due-to-brics-summit-heres-what-the-order-says/articleshow/133752557.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-04T05:34:14Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -19,62 +131,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Vance says US-Iran fighting isn't 'war', avoids giving timeline, end date",
-      "url": "https://www.business-standard.com/world-news/vance-says-us-iran-fighting-isn-t-war-avoids-giving-timeline-end-date-126090400070_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-09-04T02:30:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Supreme Court cancels bail of two accused in petrol-burning murder case, says courts must give cogent reasons before granting bail in serious offences",
-      "url": "https://timesofindia.indiatimes.com/legal/news/supreme-court-cancels-bail-of-two-accused-in-petrol-burning-murder-case-says-courts-must-give-cogent-reasons-before-granting-bail-in-serious-offences/articleshow/133749650.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-04T02:28:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil heads for steepest weekly gain since mid-July on US-Iran tensions",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/oil-heads-for-steepest-weekly-gain-since-mid-july-on-us-iran-tensions/article71426843.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-09-04T02:13:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil Price Today (September 4): Crude oil at $96, set for a 7% weekly surge as Iran, US exchange attacks. What’s next?",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-4-crude-oil-at-96-set-for-a-7-weekly-surge-as-iran-us-exchange-attacks-whats-next/articleshow/133749625.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-04T02:12:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil set for steepest weekly gain since mid-July over intensifying US-Iran tensions",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-set-for-steepest-weekly-gain-since-mid-july-over-intensifying-us-iran-tensions/articleshow/133749581.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-04T02:06:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump doubles down on sanctions, military pressure as Iran refuses to yield",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-doubles-down-on-sanctions-military-pressure-as-iran-refuses-to-yield/articleshow/133749280.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-04T01:36:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pete Hegseth’s Pentagon: A list of controversies that define his tenure",
-      "url": "https://www.aljazeera.com/news/2026/9/4/pete-hegseths-pentagon-a-list-of-controversies-that-define-his-tenure",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-04T01:26:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "I've been told Putin's seriously considering this appalling next move. It's crazy and barely believable - but all the top military figures I've met in Warsaw are saying the same thing... while Burnham drags his heels: BOB SEELY",
       "url": "https://www.dailymail.com/debate/article-16103671/Putin-military-BOB-SEELY.html",
       "source": "Dailymail.com",
@@ -83,28 +139,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran prioritizes conflict with US to distract from unrest, activist warns",
-      "url": "https://cryptobriefing.com/iran-prioritizes-conflict-with-us-to-distract-from-unrest-activist-warns/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-03T22:42:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Russia may force more men to fight in Ukraine as military faces heavy losses",
       "url": "https://www.pbs.org/newshour/show/russia-may-force-more-men-to-fight-in-ukraine-as-military-faces-heavy-losses",
       "source": "PBS",
       "publishedAt": "2026-09-03T22:35:22Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Vance says Iran conflict is not a war, two days after US strikes",
-      "url": "https://www.abc.net.au/news/2026-09-04/jd-vance-says-iran-war-not-a-war/107114762",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-03T22:32:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Finland's Civil Defense Drill Is Europe's Biggest in Decades",
@@ -131,28 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump wants Europe to retroactively pay U.S. for past Ukraine aid",
-      "url": "https://www.cbc.ca/news/world/trump-us-europe-ukraine-support-9.7331457",
-      "source": "CBC News",
-      "publishedAt": "2026-09-03T19:45:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Crude Oil Prices Settle Higher on US-Iran Tensions",
       "url": "https://www.barchart.com/story/news/4431478/crude-oil-prices-settle-higher-on-us-iran-tensions",
       "source": "Barchart.com",
       "publishedAt": "2026-09-03T19:13:21Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Zelenskyy Says US Envoys To Visit Kyiv, Moscow As Russia Again Strikes Ukraine's Capital",
-      "url": "https://www.rferl.org/a/zelenskyy-witkoff-kushner-trump-kyiv-russia/33846491.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-09-03T19:00:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Lebanon receives first detainee of five to be freed by Israel",
@@ -171,28 +195,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Finland rehearses cyberattacks, missile strikes in Europe’s biggest defense exercise since WWII",
-      "url": "https://nypost.com/2026/09/03/world-news/finland-tests-safety-in-large-civil-defense-drill/",
-      "source": "New York Post",
-      "publishedAt": "2026-09-03T17:57:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "From a large terror army to a decentralized guerilla threat",
       "url": "https://www.israelnationalnews.com/news/432677",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-09-03T17:55:20Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "India stabilising factor, useful counterweight to China's dominance in Asia: Belgium Defence Minister",
-      "url": "https://economictimes.indiatimes.com/news/india/india-stabilising-factor-useful-counterweight-to-chinas-dominance-in-asia-belgium-defence-minister/articleshow/133741745.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-03T17:02:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Trump Says Iran Strikes to Be Short, Asserts Hormuz Control",

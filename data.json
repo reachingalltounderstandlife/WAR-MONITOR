@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-06T14:56:56Z",
-  "count": 28,
+  "updated": "2026-09-06T20:00:31Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Putin tells US envoys Witkoff, Kushner that situation in Ukraine is 'difficult'",
+      "url": "https://uk.news.yahoo.com/putins-envoy-dmitriev-meet-witkoff-100051885.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-05T19:12:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "9/11: How one day changed America",
+      "url": "https://www.abc.net.au/news/2026-09-06/september-11-legacy-911-terrorism-twin-towers-new-york-trump/107101064",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-05T18:30:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hezbollah drone targets IDF troops, Israel strikes back",
+      "url": "https://www.israelnationalnews.com/news/432733",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-05T17:46:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "How Britain built a war network around Russia",
+      "url": "https://www.rt.com/news/645160-how-britain-built-war-network/",
+      "source": "RT",
+      "publishedAt": "2026-09-05T17:41:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Hits Iranian Oil Tankers After Attacks on Navy Ships",
+      "url": "https://military.com/us-hits-iranian-oil-tankers-and-other-key-mideast-developments",
+      "source": "Military.com",
+      "publishedAt": "2026-09-05T17:34:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran CJ seeks action over war crimes, sovereignty violations",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-chief-justice-demands-global-action-against-war-crimes-and-sovereignty-violations/articleshow/133809803.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-05T17:20:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia and Ukraine agree not to strike capitals during talks with US envoys",
+      "url": "https://www.vanguardngr.com/2026/09/russia-and-ukraine-agree-not-to-strike-capitals-during-talks-with-us-envoys/",
+      "source": "Vanguard",
+      "publishedAt": "2026-09-05T16:05:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
+      "url": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-05T16:04:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Multipolarity gives middle powers more choices, but fewer guarantees",
       "url": "https://www.aljazeera.com/opinions/2026/9/5/multipolarity-gives-middle-powers-more-choices-but-fewer-guarantees",
@@ -99,60 +163,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Ukrainian trainees are bringing hard-won battlefield ingenuity to training while NATO trainers fill gaps in the fundamentals",
-      "url": "https://www.businessinsider.com/ukraine-shows-allies-creativity-in-training-while-learning-some-basics-2026-9#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-09-05T11:30:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US envoys land in Moscow, as Russian bombs Ukraine airports",
-      "url": "https://www.vanguardngr.com/2026/09/us-envoys-land-in-moscow-as-russian-bombs-ukraine-airports/",
-      "source": "Vanguard",
-      "publishedAt": "2026-09-05T11:01:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Links 9/5/2026",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-5-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-05T10:55:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How Putin has targeted Europe with hybrid attacks through 2026 alone, from airport drone bombs to arson attacks - as EU chief warns 'this is the new normal'",
-      "url": "https://www.dailymail.com/news/article-16102455/Putin-Europe-hybrid-attacks-airport-drone-bombs-EU.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-05T10:22:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran accuses the US of targeting a tanker near Kharg Island, and other key Mideast developments",
       "url": "https://www.yahoo.com/news/world/articles/iran-accuses-us-targeting-tanker-101408517.html",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-09-05T10:14:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia's shadow war is putting Europe on edge as Germany confronts a growing threat",
-      "url": "https://www.foxnews.com/world/russias-shadow-war-putting-europe-edge-germany-confronts-growing-threat",
-      "source": "Fox News",
-      "publishedAt": "2026-09-05T10:00:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
-      "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-05T09:56:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran: US hits 3 IRGC-linked oil tankers",
@@ -175,30 +191,6 @@
       "url": "https://www.rte.ie/news/middle-east/2026/0905/1590417-middle-east-lebanon-israel/",
       "source": "RTE",
       "publishedAt": "2026-09-05T03:28:53Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S. sanctions Turkish financial institution for aiding Iran's Revolutionary Guard",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-05/ty-article-live/u-s-sanctions-turkish-financial-body-for-aiding-irans-revolutionary-guard/000001a0-6f42-ddf3-a1e9-6f53a7970000",
-      "source": "Haaretz",
-      "publishedAt": "2026-09-05T02:15:56Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF launches new strikes in Lebanon, cites attempted Hezbollah drone attack",
-      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-09-05/ty-article/.premium/idf-launches-new-strikes-in-lebanon-cites-attempted-hezbollah-drone-attack/000001a0-6e87-d4dc-a3ba-6ef7c77b0000",
-      "source": "Haaretz",
-      "publishedAt": "2026-09-04T23:28:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli strike on Lebanon kills two: state media",
-      "url": "https://www.channelnewsasia.com/world/israeli-strike-lebanon-kills-two-6362756",
-      "source": "CNA",
-      "publishedAt": "2026-09-04T20:41:06Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

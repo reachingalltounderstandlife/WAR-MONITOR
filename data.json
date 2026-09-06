@@ -1,7 +1,127 @@
 {
-  "updated": "2026-09-06T03:00:57Z",
-  "count": 31,
+  "updated": "2026-09-06T10:17:19Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Iran accuses the US of targeting a tanker near Kharg Island, and other key Mideast developments",
+      "url": "https://www.yahoo.com/news/world/articles/iran-accuses-us-targeting-tanker-101408517.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-05T10:14:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia's shadow war is putting Europe on edge as Germany confronts a growing threat",
+      "url": "https://www.foxnews.com/world/russias-shadow-war-putting-europe-edge-germany-confronts-growing-threat",
+      "source": "Fox News",
+      "publishedAt": "2026-09-05T10:00:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
+      "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-05T09:56:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Historical Fascists Are Preparing for Revenge, by Thierry Meyssan",
+      "url": "https://www.voltairenet.org/article224881.html",
+      "source": "Red Voltaire",
+      "publishedAt": "2026-09-05T09:32:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Jared Kushner and Steve Witkoff's private jet lands in Moscow to start latest US bid to end Ukraine war",
+      "url": "https://www.dailymail.com/news/article-16107335/Jared-Kushner-Steve-Witkoffs-private-jet-lands-Moscow-start-latest-US-bid-end-Ukraine-war.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-05T09:01:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump sends envoys to Moscow, Kyiv with new plan to ‘end war’",
+      "url": "https://punchng.com/trump-sends-envoys-to-moscow-kyiv-with-new-plan-to-end-war/",
+      "source": "The Punch",
+      "publishedAt": "2026-09-05T08:25:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump sends envoys to Moscow, Kyiv with new plan to ‘end war’",
+      "url": "https://www.vanguardngr.com/2026/09/trump-sends-envoys-to-moscow-kyiv-with-new-plan-to-end-war-2/",
+      "source": "Vanguard",
+      "publishedAt": "2026-09-05T08:24:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin shows ‘saint-like patience’ – former US judge (VIDEO)",
+      "url": "https://www.rt.com/news/645152-putin-nato-ukraine-napolitano/",
+      "source": "RT",
+      "publishedAt": "2026-09-05T08:23:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran: US hits 3 IRGC-linked oil tankers",
+      "url": "https://www.dw.com/en/iran-us-hits-3-irgc-linked-oil-tankers/live-79044467",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-05T08:16:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump sends envoys to Moscow, Kyiv with new plan to ‘end war’",
+      "url": "https://www.vanguardngr.com/2026/09/trump-sends-envoys-to-moscow-kyiv-with-new-plan-to-end-war/",
+      "source": "Vanguard",
+      "publishedAt": "2026-09-05T06:49:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Months after ceasefire, Israel and Hezbollah battle over a strategic hill in Lebanon",
+      "url": "https://www.yahoo.com/news/world/articles/months-ceasefire-israel-hezbollah-battle-063526166.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-05T06:35:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump envoys Kushner and Witkoff head to Russia and Ukraine with new plan to end war",
+      "url": "https://www.thejournal.ie/trump-kushner-witkoff-russia-ukraine-new-plan-to-end-war-7153363-Sep2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-09-05T06:32:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Can the EU find its energy independence in the Arctic?",
+      "url": "https://www.rte.ie/news/business/2026/0905/1590308-arctic-energy-independence/",
+      "source": "RTE",
+      "publishedAt": "2026-09-05T06:00:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Can the EU find its energy independence in the Arctic?",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/0905/1590308-arctic-energy-independence/",
+      "source": "RTE",
+      "publishedAt": "2026-09-05T06:00:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanese ministry says three killed in Israeli strikes",
+      "url": "https://www.rte.ie/news/middle-east/2026/0905/1590417-middle-east-lebanon-israel/",
+      "source": "RTE",
+      "publishedAt": "2026-09-05T03:28:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Trump calls Iran conflict 'small potatoes', backs Vance's 'not a war' stand",
       "url": "https://www.business-standard.com/world-news/trump-calls-iran-conflict-small-potatoes-backs-vance-s-not-a-war-stand-126090500020_1.html",
@@ -43,14 +163,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Putin is 'not looking to attack Nato territory', says Donald Trump - despite attempted drone strike on a German airport",
-      "url": "https://www.dailymail.com/news/article-16106805/Putin-Nato-territory-Trump-drone-strike-German-airport.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-05T00:07:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "IDF launches new strikes in Lebanon, cites attempted Hezbollah drone attack",
       "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-09-05/ty-article/.premium/idf-launches-new-strikes-in-lebanon-cites-attempted-hezbollah-drone-attack/000001a0-6e87-d4dc-a3ba-6ef7c77b0000",
       "source": "Haaretz",
@@ -71,8 +183,8 @@
       "url": "https://www.channelnewsasia.com/world/israeli-strike-lebanon-kills-three-6362756",
       "source": "CNA",
       "publishedAt": "2026-09-04T20:41:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "IDF strikes in Lebanon after soldiers down Hezbollah drone",
@@ -83,140 +195,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Oil Holds Gains",
-      "url": "https://www.rigzone.com/news/wire/oil_holds_gains-04-sep-2026-184547-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-09-04T20:06:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Modern Missile Mayhem",
-      "url": "https://dailyreckoning.com/modern-missile-mayhem/",
-      "source": "Dailyreckoning.com",
-      "publishedAt": "2026-09-04T20:00:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
-      "url": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-04T19:48:25Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "What the latest flare-up between the U.S and Iran means",
-      "url": "https://mondoweiss.net/2026/09/what-the-latest-flare-up-between-the-u-s-and-iran-means/",
-      "source": "Mondoweiss",
-      "publishedAt": "2026-09-04T19:41:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump insists Iran 'not a war' FOUR times as 767 troops lie wounded and gas lingers over $4 a gallon",
-      "url": "https://www.dailymail.com/news/us-politics/article-16106433/Trump-iran-war-small-potatoes.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-04T19:30:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump warns Iran: We may hit Pickaxe very soon",
-      "url": "https://www.israelnationalnews.com/news/432724",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-04T19:04:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "What Was the War on Terror?",
       "url": "http://foreignpolicy.com/2026/09/04/war-on-terror-bush-obama-iraq-afghanistan-al-qaeda-history/",
       "source": "Foreign Policy",
       "publishedAt": "2026-09-04T19:00:06Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Russian Drone Blasts Ukraine Security Services HQ Ahead Of Expected US Envoys' Visit",
-      "url": "https://www.rferl.org/a/ukraine-sbu-attack-witkoff-kushner-russia-visit/33847119.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-09-04T15:52:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "IDF to conduct airstrikes on Lebanon amid ongoing tensions with Hezbollah",
-      "url": "https://cryptobriefing.com/idf-to-conduct-airstrikes-on-lebanon-amid-ongoing-tensions-with-hezbollah/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-04T15:25:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel frees four more Lebanese prisoners in Red Cross-mediated handover",
-      "url": "https://www.aljazeera.com/news/2026/9/4/israel-frees-four-more-lebanese-prisoners-in-red-cross-mediated-handover",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-04T14:50:55Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "An Outcast at the Summit",
-      "url": "https://www.steynonline.com/16389/an-outcast-at-the-summit",
-      "source": "Steynonline.com",
-      "publishedAt": "2026-09-04T14:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Wn",
-      "url": "https://www.steynonline.com/16389/wn",
-      "source": "Steynonline.com",
-      "publishedAt": "2026-09-04T14:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Jared Kushner set to visit Russia and possibly Ukraine this weekend in peace push",
-      "url": "https://cryptobriefing.com/kushner-russia-ukraine-visit-peace-talks/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-04T13:14:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin escalates Ukraine strikes after CIA director’s Moscow visit",
-      "url": "https://cryptobriefing.com/putin-escalates-ukraine-cia-moscow-visit/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-04T13:03:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "It’s time for Trump to fire Pete Hegseth",
-      "url": "https://www.salon.com/2026/09/04/its-time-for-trump-to-fire-pete-hegseth/",
-      "source": "Salon",
-      "publishedAt": "2026-09-04T13:00:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Baiba Braže delivers a lecture at NATO Defence College in Italy",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260904-latvia-mfa01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-04T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US Envoys Heading To Moscow, Kyiv After Russia Blasts Ukraine's Security Services HQ",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260904-rferl02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-04T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Bridges to China, Russia preparing to open as North Korea deepens ties with both",
@@ -227,28 +211,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Trump says will ask Europeans to repay US for Ukraine aid",
-      "url": "https://www.rte.ie/news/ukraine/2026/0904/1590335-ukraine-russia/",
-      "source": "RTE",
-      "publishedAt": "2026-09-04T11:56:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Chinese general responsible for Taiwan meets US Indo-Pacific commander for first time",
       "url": "https://cryptobriefing.com/chinese-general-meets-us-indo-pacific-commander/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-09-04T11:49:24Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Hezbollah terrorists trapped underground as IDF clears key southern Lebanon ridge",
-      "url": "https://cryptobriefing.com/hezbollah-terrorists-trapped-underground-as-idf-clears-key-southern-lebanon/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-04T09:31:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

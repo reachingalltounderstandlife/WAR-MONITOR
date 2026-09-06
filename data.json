@@ -1,7 +1,103 @@
 {
-  "updated": "2026-09-05T19:57:01Z",
-  "count": 34,
+  "updated": "2026-09-06T03:00:57Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "Trump calls Iran conflict 'small potatoes', backs Vance's 'not a war' stand",
+      "url": "https://www.business-standard.com/world-news/trump-calls-iran-conflict-small-potatoes-backs-vance-s-not-a-war-stand-126090500020_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-05T02:19:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. sanctions Turkish financial institution for aiding Iran's Revolutionary Guard",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-05/ty-article-live/u-s-sanctions-turkish-financial-body-for-aiding-irans-revolutionary-guard/000001a0-6f42-ddf3-a1e9-6f53a7970000",
+      "source": "Haaretz",
+      "publishedAt": "2026-09-05T02:15:56Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US approves $5 billion sale of bombs to Saudi Arabia to enhance security of 'major non-NATO ally'",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-approves-5-billion-sale-of-bombs-to-saudi-arabia-to-enhance-security-of-major-non-nato-ally/articleshow/133783338.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-05T01:09:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump threatens US might 'hit' Iranian nuclear site Pickaxe Mountain 'very soon'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-threatens-us-might-hit-irans-pickaxe-mountain-very-soon/articleshow/133782789.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-05T00:36:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump calls Iran conflict 'small potatoes' and defends Vance's position that it's not a 'war'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-calls-iran-conflict-small-potatoes-and-defends-vances-position-that-its-not-a-war/articleshow/133782700.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-05T00:31:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin is 'not looking to attack Nato territory', says Donald Trump - despite attempted drone strike on a German airport",
+      "url": "https://www.dailymail.com/news/article-16106805/Putin-Nato-territory-Trump-drone-strike-German-airport.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-05T00:07:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "IDF launches new strikes in Lebanon, cites attempted Hezbollah drone attack",
+      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-09-05/ty-article/.premium/idf-launches-new-strikes-in-lebanon-cites-attempted-hezbollah-drone-attack/000001a0-6e87-d4dc-a3ba-6ef7c77b0000",
+      "source": "Haaretz",
+      "publishedAt": "2026-09-04T23:28:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli strike on Lebanon kills two: state media",
+      "url": "https://www.channelnewsasia.com/world/israeli-strike-lebanon-kills-two-6362756",
+      "source": "CNA",
+      "publishedAt": "2026-09-04T20:41:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes on Lebanon kills at least three",
+      "url": "https://www.channelnewsasia.com/world/israeli-strike-lebanon-kills-three-6362756",
+      "source": "CNA",
+      "publishedAt": "2026-09-04T20:41:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF strikes in Lebanon after soldiers down Hezbollah drone",
+      "url": "https://www.israelnationalnews.com/news/432726",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-04T20:22:05Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Oil Holds Gains",
+      "url": "https://www.rigzone.com/news/wire/oil_holds_gains-04-sep-2026-184547-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-09-04T20:06:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Modern Missile Mayhem",
+      "url": "https://dailyreckoning.com/modern-missile-mayhem/",
+      "source": "Dailyreckoning.com",
+      "publishedAt": "2026-09-04T20:00:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Israeli strike kills two in southern Lebanon amid ongoing escalation",
       "url": "https://www.aljazeera.com/news/2026/9/4/israeli-strike-kills-two-in-southern-lebanon-amid-ongoing-escalation",
@@ -43,68 +139,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Trump’s New “Waters Of The U.S.” Proposal Takes Sledgehammer To Clean Water Act",
-      "url": "https://www.commondreams.org/newswire/trumps-new-waters-of-the-u-s-proposal-takes-sledgehammer-to-clean-water-act",
-      "source": "Common Dreams",
-      "publishedAt": "2026-09-04T17:43:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘We Are Stalled’: US-Iran War Stuck With No End in Sight",
-      "url": "https://gcaptain.com/we-are-stalled-us-iran-war-stuck-with-no-end-in-sight/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-09-04T16:44:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "China's Nostradamus issues FIVE chilling predictions for 2027... ending with a US civil war",
-      "url": "https://www.dailymail.com/sciencetech/article-16103887/china-nostradamus-jiang-xueqin-civil-war-prediction.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-04T16:35:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Military families reflect on service members killed, injured in Iran war",
-      "url": "https://abcnews.com/Politics/big-piece-hearts-left-earth-military-families-reflect/story?id=136125152",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-04T16:03:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Vance Says US 'Never Targets Civilians'. Data From First Phase of Iran War Tells a Different Story",
-      "url": "https://www.commondreams.org/news/vance-civilians-killed",
-      "source": "Common Dreams",
-      "publishedAt": "2026-09-04T15:53:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Russian Drone Blasts Ukraine Security Services HQ Ahead Of Expected US Envoys' Visit",
       "url": "https://www.rferl.org/a/ukraine-sbu-attack-witkoff-kushner-russia-visit/33847119.html",
       "source": "Radio Free Europe/ Radio Liberty",
       "publishedAt": "2026-09-04T15:52:47Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Noisy Jobs Report Offers Little Comfort for Jobseekers Across Stumbling Economy",
-      "url": "https://www.commondreams.org/newswire/noisy-jobs-report-offers-little-comfort-for-jobseekers-across-stumbling-economy",
-      "source": "Common Dreams",
-      "publishedAt": "2026-09-04T15:49:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Diesel price hits all-time high in US amid Iran war woes",
-      "url": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-04T15:28:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "IDF to conduct airstrikes on Lebanon amid ongoing tensions with Hezbollah",
@@ -127,8 +167,8 @@
       "url": "https://www.steynonline.com/16389/an-outcast-at-the-summit",
       "source": "Steynonline.com",
       "publishedAt": "2026-09-04T14:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Wn",
@@ -203,76 +243,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro",
-      "source": "BBC News",
-      "publishedAt": "2026-09-04T10:00:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Hezbollah terrorists trapped underground as IDF clears key southern Lebanon ridge",
       "url": "https://cryptobriefing.com/hezbollah-terrorists-trapped-underground-as-idf-clears-key-southern-lebanon/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-09-04T09:31:07Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Crude Oil Prices Settle Higher on US-Iran Tensions",
-      "url": "https://www.barchart.com/story/news/4431478/crude-oil-prices-settle-higher-on-us-iran-tensions",
-      "source": "Barchart.com",
-      "publishedAt": "2026-09-03T19:13:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon receives first detainee of five to be freed by Israel",
-      "url": "https://www.channelnewsasia.com/asia/israel-release-five-lebanese-detainees-talks-6360656",
-      "source": "CNA",
-      "publishedAt": "2026-09-03T18:48:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel releases Lebanese civilian, says five prisoners will be freed",
-      "url": "https://www.aljazeera.com/news/2026/9/3/israel-releases-lebanese-civilian-says-five-more-will-be-freed",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-03T18:13:55Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "From a large terror army to a decentralized guerilla threat",
-      "url": "https://www.israelnationalnews.com/news/432677",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-03T17:55:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Says Iran Strikes to Be Short, Asserts Hormuz Control",
-      "url": "https://www.insurancejournal.com/news/international/2026/09/03/883847.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-09-03T14:23:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Rules-Based Nuclear Bomb",
-      "url": "https://www.nakedcapitalism.com/2026/09/the-rules-based-nuclear-bomb.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-03T10:00:13Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The Gathering AI Storm and Challenge to Stability",
-      "url": "https://smallwarsjournal.com/2026/09/03/the-gathering-ai-storm/",
-      "source": "Smallwarsjournal.com",
-      "publishedAt": "2026-09-03T06:00:47Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

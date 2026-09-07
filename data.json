@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-06T20:00:31Z",
-  "count": 27,
+  "updated": "2026-09-07T02:59:02Z",
+  "count": 24,
   "articles": [
+    {
+      "title": "US strikes Iranian oil carriers after IRGC fires missiles at Navy ships",
+      "url": "https://www.business-standard.com/world-news/us-strikes-iranian-oil-carriers-after-irgc-fires-missiles-at-navy-ships-126090600055_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-06T02:10:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Kremlin says Ukraine talks with US envoys were 'useful'",
+      "url": "https://www.rte.ie/news/world/2026/0905/1590463-ukraine-russia-talks/",
+      "source": "RTE",
+      "publishedAt": "2026-09-05T22:46:37Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Envoys Head To Kyiv After Stop In Moscow, Late-Night Meeting With Putin",
+      "url": "https://www.rferl.org/a/kushner-witkoff-putin-zelenskyy-ukraine-russia/33847622.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-09-05T22:03:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Putin tells US envoys Witkoff, Kushner that situation in Ukraine is 'difficult'",
       "url": "https://uk.news.yahoo.com/putins-envoy-dmitriev-meet-witkoff-100051885.html",
@@ -131,34 +155,10 @@
       "_label": "Iran War"
     },
     {
-      "title": "Yemen government launches own air attacks on Houthis: What that means",
-      "url": "https://www.aljazeera.com/news/2026/9/5/yemen-government-launches-own-air-attacks-on-houthis-what-that-means",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-05T12:43:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "An Exception in World Affairs",
       "url": "https://www.nybooks.com/online/2026/09/05/an-exception-in-world-affairs-ratko-mladic/",
       "source": "The New York Review of Books",
       "publishedAt": "2026-09-05T12:28:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US Envoys Conclude Moscow Meeting With Putin As Kremlin Cites 'Difficult Situation'",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260905-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-05T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia strikes two ships carrying military supplies for Ukraine at Chornomorsk port: IFX citing Russian defence ministry",
-      "url": "https://cryptobriefing.com/russia-strikes-two-ships-carrying-military-supplies-for-ukraine-at-chornomorsk/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-05T11:56:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -193,30 +193,6 @@
       "publishedAt": "2026-09-05T03:28:53Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "What Was the War on Terror?",
-      "url": "http://foreignpolicy.com/2026/09/04/war-on-terror-bush-obama-iraq-afghanistan-al-qaeda-history/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-04T19:00:06Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Bridges to China, Russia preparing to open as North Korea deepens ties with both",
-      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260904-rfa01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-04T12:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Chinese general responsible for Taiwan meets US Indo-Pacific commander for first time",
-      "url": "https://cryptobriefing.com/chinese-general-meets-us-indo-pacific-commander/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-04T11:49:24Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
     }
   ]
 }

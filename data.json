@@ -1,7 +1,103 @@
 {
-  "updated": "2026-09-07T11:37:26Z",
-  "count": 27,
+  "updated": "2026-09-07T17:16:14Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "Cassandra Crossing: The Strange Alarmism in Germany’s Security Debate",
+      "url": "https://www.fairobserver.com/politics/cassandra-crossing-the-strange-alarmism-in-germanys-security-debate/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-09-06T16:27:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli strikes on Lebanon kill several despite truce",
+      "url": "https://www.dw.com/en/israel-strikes-lebanon-arab-salim-nabatieh/a-79065011",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-06T15:31:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The dangerous journey home for Christian communities in southern Lebanon",
+      "url": "https://www.ewtnnews.com/world/middle-east/the-dangerous-journey-home-for-christian-communities-in-southern-lebanon",
+      "source": "Ewtnnews.com",
+      "publishedAt": "2026-09-06T13:56:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran’s chief negotiator warns retaliation will be ‘faster, heavier and more painful’ after U.S. hits tankers in response to attack attempt on warships",
+      "url": "https://fortune.com/2026/09/06/iran-faster-heavier-painful-oil-tankers-attack-attempt-warships/",
+      "source": "Fortune",
+      "publishedAt": "2026-09-06T13:49:14Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "How significant are the Yemeni government’s military gains against Houthis?",
+      "url": "https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-06T13:41:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Strait Of Hormuz Remains In 'Lethal Stalemate' As Iran Attacks Persist Six Months Into War",
+      "url": "https://www.ibtimes.com.au/strait-hormuz-us-israel-iran-conflict-1875110",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-09-06T13:23:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia calls Leipzig drone attack accusations 'start of real war'",
+      "url": "https://www.abc.net.au/news/2026-09-06/russia-responds-to-leipzig-accusations/107122062",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-06T13:11:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel claims it hit hospital used as Hezbollah site",
+      "url": "https://biztoc.com/x/ef1bb67f56a7d832",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-06T13:07:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli strikes kill 4 in southern Lebanon",
+      "url": "https://www.cbc.ca/news/world/israeli-strikes-southern-lebanon-9.7334203",
+      "source": "CBC News",
+      "publishedAt": "2026-09-06T13:03:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Russia claims Germany 'wants war again' after being blamed for drone bombs attack on airport",
+      "url": "https://www.dailymail.com/news/article-16109455/Russia-claims-Germany-wants-war-drone-attack-airport.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-06T12:59:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Witkoff, Kushner arrive in Ukraine for talks after 'substantive' meeting with Putin",
+      "url": "https://abcnews.com/International/witkoff-kushner-arrive-ukraine-talks-after-meeting-putin/story?id=136237115",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-06T12:06:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US envoys Witkoff, Kushner arrive in Moscow for talks on peace in Ukraine",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-envoys-witkoff-kushner-arrive-in-moscow-for-talks-on-peace-in-ukraine/articleshow/133835889.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-06T11:43:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Trump envoys arrive in Kyiv after meeting Putin in Moscow",
       "url": "https://www.irishtimes.com/world/europe/2026/09/06/trump-envoys-arrive-in-kyiv-after-meeting-putin-in-moscow/",
@@ -91,26 +187,10 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Four killed in Israeli strikes on southern Lebanon, health ministry says",
-      "url": "https://www.thejournal.ie/four-killed-israeli-strikes-southern-lebanon-7154209-Sep2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-09-06T08:56:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Ukraine talks with US envoys were useful; no sign of breakthrough, Kremlin says",
       "url": "https://nypost.com/2026/09/06/world-news/russia-us-talks-on-ukraine-deal-useful-but-no-breakthrough-putin-says/",
       "source": "New York Post",
       "publishedAt": "2026-09-06T08:29:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "France can’t finance Ukraine forever – Le Pen party’s head",
-      "url": "https://www.rt.com/news/645176-france-ukraine-le-pen-bardella/",
-      "source": "RT",
-      "publishedAt": "2026-09-06T08:06:37Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -123,36 +203,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Israeli strikes in Lebanon kill four, wound 20, Health Ministry says",
-      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-09-06/ty-article/.premium/idf-says-it-struck-southern-lebanon-after-hezbollah-launched-explosive-drones/000001a0-753b-dee1-afea-75bfa2db0000",
-      "source": "Haaretz",
-      "publishedAt": "2026-09-06T06:26:25Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Russia’s Zakharova Dismisses German Drone Allegation as Baseless Pretext for Consulate Closure",
-      "url": "https://www.naturalnews.com/2026-09-06-zakharova-dismisses-german-drone-allegation-as-baseless.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-06T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "South Korea Weighs Military Deployment to Strait of Hormuz, Presidential Office Says",
       "url": "https://www.naturalnews.com/2026-09-06-south-korea-weighs-military-deployment-to-hormuz.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-09-06T06:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Israel strikes Lebanon after alleged drone attack",
-      "url": "https://biztoc.com/x/989495603a2894fd",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-06T04:45:47Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Israel launches fresh strikes on southern Lebanon",
@@ -163,60 +219,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Israel strikes southern Lebanon, orders Arab Salim evacuation",
-      "url": "https://www.hurriyetdailynews.com/israel-mulls-new-4-kilometer-security-zone-in-southern-lebanon-226492",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-09-06T04:10:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Let NATO’s Free-Riders Fight WWIII",
-      "url": "https://www.americanthinker.com/articles/2026/09/let-nato-s-free-riders-fight-wwiii/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-09-06T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "America’s Nuclear Reassessment: The Dangerous Return of Limited Nuclear Deterrence",
       "url": "https://www.americanthinker.com/articles/2026/09/america-s-nuclear-reassessment-the-dangerous-return-of-limited-nuclear-deterrence/",
       "source": "Americanthinker.com",
       "publishedAt": "2026-09-06T04:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Sanders calls for end to Iran war, cites rising gas prices",
-      "url": "https://www.israelnationalnews.com/news/432754",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-06T03:54:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US strikes Iranian oil carriers after IRGC fires missiles at Navy ships",
-      "url": "https://www.business-standard.com/world-news/us-strikes-iranian-oil-carriers-after-irgc-fires-missiles-at-navy-ships-126090600055_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-09-06T02:10:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Kremlin says Ukraine talks with US envoys were 'useful'",
-      "url": "https://www.rte.ie/news/world/2026/0905/1590463-ukraine-russia-talks/",
-      "source": "RTE",
-      "publishedAt": "2026-09-05T22:46:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US Envoys Head To Kyiv After Stop In Moscow, Late-Night Meeting With Putin",
-      "url": "https://www.rferl.org/a/kushner-witkoff-putin-zelenskyy-ukraine-russia/33847622.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-09-05T22:03:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

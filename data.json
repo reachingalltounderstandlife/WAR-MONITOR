@@ -1,7 +1,199 @@
 {
-  "updated": "2026-09-07T02:59:02Z",
-  "count": 24,
+  "updated": "2026-09-07T11:37:26Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Trump envoys arrive in Kyiv after meeting Putin in Moscow",
+      "url": "https://www.irishtimes.com/world/europe/2026/09/06/trump-envoys-arrive-in-kyiv-after-meeting-putin-in-moscow/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-09-06T11:21:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu labels Qatar ‘hostile’ amid Iran conflict tensions",
+      "url": "https://cryptobriefing.com/netanyahu-labels-qatar-hostile-amid-iran-conflict-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-06T11:19:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF retaliates after Hezbollah UAV strikes",
+      "url": "https://www.israelnationalnews.com/news/432780",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-06T11:03:26Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+      "url": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-06T10:49:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Japan’s Strategic Turn",
+      "url": "https://www.theatlantic.com/ideas/2026/09/japan-defense-nuclear-threat/688517/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-09-06T10:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Four killed in Israeli strikes on southern Lebanon",
+      "url": "https://biztoc.com/x/94f8c52c18bdd997",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-06T09:49:25Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US envoys seek to revive Russia-Ukraine talks; Chinese experts note all parties increasingly aware of rising political costs, broader damage as conflict drags on",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260906-globaltimes01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-06T09:38:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Envoys Head To Kyiv After Stop In Moscow, Late-Night Meeting With Putin",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260906-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-06T09:38:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US denies Iran's claim to have struck an unmanned ship, and other Mideast news",
+      "url": "https://www.yahoo.com/news/world/articles/iran-says-hit-us-ship-093513422.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-06T09:35:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli air attacks on Lebanon kill at least four",
+      "url": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-06T09:15:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185461968",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-06T09:12:50Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Four killed in Israeli strikes on southern Lebanon, health ministry says",
+      "url": "https://www.thejournal.ie/four-killed-israeli-strikes-southern-lebanon-7154209-Sep2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-09-06T08:56:30Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Ukraine talks with US envoys were useful; no sign of breakthrough, Kremlin says",
+      "url": "https://nypost.com/2026/09/06/world-news/russia-us-talks-on-ukraine-deal-useful-but-no-breakthrough-putin-says/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-06T08:29:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "France can’t finance Ukraine forever – Le Pen party’s head",
+      "url": "https://www.rt.com/news/645176-france-ukraine-le-pen-bardella/",
+      "source": "RT",
+      "publishedAt": "2026-09-06T08:06:37Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran retaliates after US strikes oil tankers",
+      "url": "https://www.rte.ie/news/us/2026/0906/1590473-iran-united-states/",
+      "source": "RTE",
+      "publishedAt": "2026-09-06T07:04:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli strikes in Lebanon kill four, wound 20, Health Ministry says",
+      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-09-06/ty-article/.premium/idf-says-it-struck-southern-lebanon-after-hezbollah-launched-explosive-drones/000001a0-753b-dee1-afea-75bfa2db0000",
+      "source": "Haaretz",
+      "publishedAt": "2026-09-06T06:26:25Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Russia’s Zakharova Dismisses German Drone Allegation as Baseless Pretext for Consulate Closure",
+      "url": "https://www.naturalnews.com/2026-09-06-zakharova-dismisses-german-drone-allegation-as-baseless.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-06T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "South Korea Weighs Military Deployment to Strait of Hormuz, Presidential Office Says",
+      "url": "https://www.naturalnews.com/2026-09-06-south-korea-weighs-military-deployment-to-hormuz.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-06T06:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel strikes Lebanon after alleged drone attack",
+      "url": "https://biztoc.com/x/989495603a2894fd",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-06T04:45:47Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel launches fresh strikes on southern Lebanon",
+      "url": "https://www.rte.ie/news/middle-east/2026/0906/1590470-middle-east/",
+      "source": "RTE",
+      "publishedAt": "2026-09-06T04:38:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel strikes southern Lebanon, orders Arab Salim evacuation",
+      "url": "https://www.hurriyetdailynews.com/israel-mulls-new-4-kilometer-security-zone-in-southern-lebanon-226492",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-09-06T04:10:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Let NATO’s Free-Riders Fight WWIII",
+      "url": "https://www.americanthinker.com/articles/2026/09/let-nato-s-free-riders-fight-wwiii/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-09-06T04:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "America’s Nuclear Reassessment: The Dangerous Return of Limited Nuclear Deterrence",
+      "url": "https://www.americanthinker.com/articles/2026/09/america-s-nuclear-reassessment-the-dangerous-return-of-limited-nuclear-deterrence/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-09-06T04:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Sanders calls for end to Iran war, cites rising gas prices",
+      "url": "https://www.israelnationalnews.com/news/432754",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-06T03:54:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US strikes Iranian oil carriers after IRGC fires missiles at Navy ships",
       "url": "https://www.business-standard.com/world-news/us-strikes-iranian-oil-carriers-after-irgc-fires-missiles-at-navy-ships-126090600055_1.html",
@@ -25,174 +217,6 @@
       "publishedAt": "2026-09-05T22:03:14Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Putin tells US envoys Witkoff, Kushner that situation in Ukraine is 'difficult'",
-      "url": "https://uk.news.yahoo.com/putins-envoy-dmitriev-meet-witkoff-100051885.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-05T19:12:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "9/11: How one day changed America",
-      "url": "https://www.abc.net.au/news/2026-09-06/september-11-legacy-911-terrorism-twin-towers-new-york-trump/107101064",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-05T18:30:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hezbollah drone targets IDF troops, Israel strikes back",
-      "url": "https://www.israelnationalnews.com/news/432733",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-05T17:46:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "How Britain built a war network around Russia",
-      "url": "https://www.rt.com/news/645160-how-britain-built-war-network/",
-      "source": "RT",
-      "publishedAt": "2026-09-05T17:41:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US Hits Iranian Oil Tankers After Attacks on Navy Ships",
-      "url": "https://military.com/us-hits-iranian-oil-tankers-and-other-key-mideast-developments",
-      "source": "Military.com",
-      "publishedAt": "2026-09-05T17:34:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran CJ seeks action over war crimes, sovereignty violations",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-chief-justice-demands-global-action-against-war-crimes-and-sovereignty-violations/articleshow/133809803.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-05T17:20:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia and Ukraine agree not to strike capitals during talks with US envoys",
-      "url": "https://www.vanguardngr.com/2026/09/russia-and-ukraine-agree-not-to-strike-capitals-during-talks-with-us-envoys/",
-      "source": "Vanguard",
-      "publishedAt": "2026-09-05T16:05:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
-      "url": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-05T16:04:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Multipolarity gives middle powers more choices, but fewer guarantees",
-      "url": "https://www.aljazeera.com/opinions/2026/9/5/multipolarity-gives-middle-powers-more-choices-but-fewer-guarantees",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-05T14:51:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
-      "url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-05T14:49:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump calls the Iran war — which has left 18 U.S. service members dead — ‘small potatoes’ and backs Vance’s view that it’s not a war",
-      "url": "https://fortune.com/2026/09/05/trump-iran-war-18-us-service-members-dead-small-potatoes-jd-vance/",
-      "source": "Fortune",
-      "publishedAt": "2026-09-05T14:10:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Envoys Arrive In Moscow; Putin Orders Halt In Kyiv Strikes As Attacks Continue Elsewhere",
-      "url": "https://www.rferl.org/a/witkoff-kushner-land-in-moscow-ukraine-peace-talks-kyiv-strikes/33847598.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-09-05T13:54:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran accuses US of targeting tanker near Kharg Island",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-accuses-us-of-targeting-tanker-near-kharg-island-other-mideast-news/articleshow/133801726.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-05T13:02:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Strait Of Hormuz Remains Effectively Closed As Six-Month Iran Crisis Grinds Into September Amid Tanker Attacks",
-      "url": "https://www.ibtimes.com.au/strait-hormuz-crisis-global-oil-trade-disruption-1875063",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-09-05T13:02:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Filling the European Capability Hole Left by American Decisions",
-      "url": "https://www.fairobserver.com/region/europe/filling-the-european-capability-hole-left-by-american-decisions/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-09-05T12:51:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump on Iran War: Conflict Is 'Small Potatoes'",
-      "url": "https://www.newser.com/story/395936/trump-on-iran-war-conflict-is-small-potatoes.html",
-      "source": "Newser",
-      "publishedAt": "2026-09-05T12:50:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "An Exception in World Affairs",
-      "url": "https://www.nybooks.com/online/2026/09/05/an-exception-in-world-affairs-ratko-mladic/",
-      "source": "The New York Review of Books",
-      "publishedAt": "2026-09-05T12:28:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran accuses the US of targeting a tanker near Kharg Island, and other key Mideast developments",
-      "url": "https://www.yahoo.com/news/world/articles/iran-accuses-us-targeting-tanker-101408517.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-05T10:14:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran: US hits 3 IRGC-linked oil tankers",
-      "url": "https://www.dw.com/en/iran-us-hits-3-irgc-linked-oil-tankers/live-79044467",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-05T08:16:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Months after ceasefire, Israel and Hezbollah battle over a strategic hill in Lebanon",
-      "url": "https://www.yahoo.com/news/world/articles/months-ceasefire-israel-hezbollah-battle-063526166.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-05T06:35:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanese ministry says three killed in Israeli strikes",
-      "url": "https://www.rte.ie/news/middle-east/2026/0905/1590417-middle-east-lebanon-israel/",
-      "source": "RTE",
-      "publishedAt": "2026-09-05T03:28:53Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

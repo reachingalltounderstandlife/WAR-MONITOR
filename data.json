@@ -1,7 +1,239 @@
 {
-  "updated": "2026-09-08T03:08:47Z",
-  "count": 36,
+  "updated": "2026-09-08T10:36:31Z",
+  "count": 43,
   "articles": [
+    {
+      "title": "Israeli air attacks on Lebanon kill at least four - Al Jazeera",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185488662",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-07T10:33:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The \"genocide\" LIE (2026 Update)",
+      "url": "https://freerepublic.com/focus/f-bloggers/4394531/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-09-07T10:32:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "As US Plays War Games, North Korea Flexes Its Muscle",
+      "url": "https://www.newser.com/story/396004/as-us-plays-war-games-north-korea-flexes-its-muscle.html",
+      "source": "Newser",
+      "publishedAt": "2026-09-07T10:01:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "China Expands Patrols of Taiwan’s Pacific Coast, Raising Maritime Tensions",
+      "url": "https://gcaptain.com/china-expands-patrols-of-taiwans-pacific-coast-raising-maritime-tensions/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-09-07T09:44:26Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Middle East: Israeli strikes kill a dozen in Lebanon",
+      "url": "https://www.dw.com/en/middle-east-israeli-strikes-kill-a-dozen-in-lebanon/live-79133242",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-07T09:23:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Middle East: Israeli strikes kill several in Lebanon",
+      "url": "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-07T09:23:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli airstrikes on a village in southern Lebanon kill 9 people, wound 13",
+      "url": "https://www.nbcnews.com/world/lebanon/israeli-strikes-southern-lebanese-town-kill-11-state-news-agency-says-rcna596433",
+      "source": "NBC News",
+      "publishedAt": "2026-09-07T09:10:23Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli Airstrikes On Village In Southern Lebanon Kill 9, Wound 13",
+      "url": "https://www.huffpost.com/entry/lebanon-israel-strikes_n_6a9e7541e4b0c1737c57e496",
+      "source": "HuffPost",
+      "publishedAt": "2026-09-07T08:59:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel strikes southern Lebanon; children, paramedics among 11 killed",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-strikes-southern-lebanon-children-paramedics-among-11-killed/articleshow/133872625.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-07T08:57:20Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli strikes on southern Lebanese town kill 11, state news agency says",
+      "url": "https://www.cbc.ca/news/world/lebanon-israeli-strike-town-9.7334675",
+      "source": "CBC News",
+      "publishedAt": "2026-09-07T08:53:16Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "North Korea adds its 2nd naval destroyer as US, South Korea and Japan hold military exercise - AP News",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185486834",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-07T08:52:40Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea commissions second 5,000-ton destroyer equipped with nuclear-capable missiles",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-commissions-second-5000-ton-destroyer-equipped-with-nuclear-capable-missiles/articleshow/133872315.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-07T08:48:08Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea commissions second nuclear-capable naval destroyer",
+      "url": "https://biztoc.com/x/4f90b555bc19e869",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-07T08:45:25Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US Renews Ukraine Peace Push, But Former Ambassadors See No Breakthrough",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260907-rferl01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-07T08:39:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea vows nuclear-armed navy as US ally drills open",
+      "url": "https://www.hurriyetdailynews.com/north-korea-vows-nuclear-armed-navy-as-us-ally-drills-open-226555",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-09-07T08:03:04Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Shrinking Buffers: Why Turkey and Israel Are on a Collision Course",
+      "url": "https://warontherocks.com/shrinking-buffers-why-turkey-and-israel-are-on-a-collision-course/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-09-07T07:30:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah launches explosive drone, Israel strikes back",
+      "url": "https://www.israelnationalnews.com/news/432821",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-07T07:28:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli strikes in southern Lebanese village kill 11, state media say",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo",
+      "source": "BBC News",
+      "publishedAt": "2026-09-07T07:13:37Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli strikes in southern Lebanon kill 11, state media say",
+      "url": "https://www.bbc.com/news/articles/c5yl96vz0edo",
+      "source": "BBC News",
+      "publishedAt": "2026-09-07T07:13:37Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli air attack kills at least 10 people in southern Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-07T06:58:28Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Report: UK Has Built Long-Term Military Network Around Russia",
+      "url": "https://www.naturalnews.com/2026-09-07-uk-built-long-term-military-network-around-russia.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-07T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Drone Strike on Kyiv Security Service HQ Spurs Competing Blame",
+      "url": "https://www.naturalnews.com/2026-09-07-drone-strike-kyiv-security-hq-spurs-competing-blame.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-07T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Napolitano: Putin Shows “Saint-Like Patience” by Not Striking NATO Weapons Plants",
+      "url": "https://www.naturalnews.com/2026-09-07-napolitano-putin-patient-not-striking-nato-plants.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-07T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Looks Like Anglin Was Right, After All",
+      "url": "https://www.lewrockwell.com/2026/09/mike-whitney/looks-like-anglin-was-right-after-all/",
+      "source": "Lewrockwell.com",
+      "publishedAt": "2026-09-07T04:01:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
+      "url": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-07T03:59:39Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Kim Jong Un Announces Deployment of Most Powerful Strategic Assets in Key Waters",
+      "url": "https://sputnikglobe.com/20260907/kim-jong-un-announces-deployment-of-most-powerful-strategic-assets-in-key-waters-1124688416.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-09-07T03:59:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea commissions 2nd naval destroyer as US, South Korea, Japan begin military drill",
+      "url": "https://www.thehindubusinessline.com/news/world/north-korea-commissions-2nd-naval-destroyer-as-us-south-korea-japan-begin-military-drill/article71437314.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-07T03:22:11Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Ukraine lost $1.2 billion to defence procurement fraud, waste in 2024",
+      "url": "https://www.business-standard.com/world-news/ukraine-lost-1-2-billion-to-defence-procurement-fraud-waste-in-2024-126090700103_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-07T03:18:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea vows nuclear-armed navy as US ally drills open",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-vows-nuclear-armed-navy-us-ally-drills-open-6366436",
+      "source": "CNA",
+      "publishedAt": "2026-09-07T03:17:12Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "North Korea commissions 2nd naval destroyer as US, South Korea, Japan begin military drill",
       "url": "https://economictimes.indiatimes.com/news/defence/north-korea-commissions-2nd-naval-destroyer-as-us-south-korea-japan-begin-military-drill/articleshow/133860563.cms",
@@ -17,38 +249,6 @@
       "publishedAt": "2026-09-07T02:36:08Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "NKorea vows nuclear-armed navy...",
-      "url": "https://www.yahoo.com/news/world/articles/north-korea-vows-nuclear-armed-010726666.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-07T02:00:17Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea commissions 2nd naval destroyer as US, South Korea and Japan begin a military drill",
-      "url": "https://abcnews.com/International/wireStory/north-korea-commissions-2nd-naval-destroyer-us-south-136246537",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-07T01:39:28Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Israel army orders evacuation of zone in south Lebanon",
-      "url": "https://www.rte.ie/news/middle-east/2026/0907/1590523-middle-east/",
-      "source": "RTE",
-      "publishedAt": "2026-09-07T01:28:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
-      "url": "https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-07T00:20:04Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "America’s War on Iran Has Always Been a Bipartisan Effort",
@@ -75,28 +275,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran plans to announce an ‘exclusion zone’ that runs from the U.S. naval blockade line, through the Strait of Hormuz, and into the Persian Gulf",
-      "url": "https://fortune.com/2026/09/06/iran-exclusion-zone-us-naval-blockade-line-strait-of-hormuz-persian-gulf/",
-      "source": "Fortune",
-      "publishedAt": "2026-09-06T23:18:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "US Renews Ukraine Peace Push, But Former Ambassadors See No Breakthrough",
       "url": "https://www.rferl.org/a/ukraine-witkoff-kushner-russia-peace-negotiations/33848067.html",
       "source": "Radio Free Europe/ Radio Liberty",
       "publishedAt": "2026-09-06T22:57:36Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "North Korea’s New Destroyer Will Be Part Of Nuclear Response System",
-      "url": "https://gcaptain.com/north-koreas-new-destroyer-will-be-part-of-nuclear-response-system/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-09-06T22:42:50Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "Ukraine cannot be settled like a business deal",
@@ -107,28 +291,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israeli strikes kill seven in southern Lebanon",
-      "url": "https://economictimes.indiatimes.com/news/defence/israeli-strikes-kill-seven-in-southern-lebanon/articleshow/133850057.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-06T19:22:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Trump weighs declaring protracted war over, but Iran has other plans",
       "url": "https://www.abc.net.au/news/2026-09-07/iran-war-donald-trump-running-out-of-cards-in-war-he-cannot-end/107114640",
       "source": "ABC News (AU)",
       "publishedAt": "2026-09-06T18:43:19Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Iran War Day 191: Iran Threatens ‘More Intense and More Painful’ Retaliation After U.S. Strikes",
-      "url": "https://www.theamericanconservative.com/iran-war-day-191-iran-threatens-more-intense-and-more-painful-retaliation-after-u-s-strikes/",
-      "source": "The American Conservative",
-      "publishedAt": "2026-09-06T18:40:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Summer of Summitry: India’s Global South credentials get a new test",
@@ -155,42 +323,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israeli strikes on Lebanon kill several despite truce",
-      "url": "https://www.dw.com/en/israel-strikes-lebanon-arab-salim-nabatieh/a-79065011",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-06T15:31:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The dangerous journey home for Christian communities in southern Lebanon",
-      "url": "https://www.ewtnnews.com/world/middle-east/the-dangerous-journey-home-for-christian-communities-in-southern-lebanon",
-      "source": "Ewtnnews.com",
-      "publishedAt": "2026-09-06T13:56:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran’s chief negotiator warns retaliation will be ‘faster, heavier and more painful’ after U.S. hits tankers in response to attack attempt on warships",
-      "url": "https://fortune.com/2026/09/06/iran-faster-heavier-painful-oil-tankers-attack-attempt-warships/",
-      "source": "Fortune",
-      "publishedAt": "2026-09-06T13:49:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "How significant are the Yemeni government’s military gains against Houthis?",
       "url": "https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis",
       "source": "Al Jazeera English",
       "publishedAt": "2026-09-06T13:41:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Strait Of Hormuz Remains In 'Lethal Stalemate' As Iran Attacks Persist Six Months Into War",
-      "url": "https://www.ibtimes.com.au/strait-hormuz-us-israel-iran-conflict-1875110",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-09-06T13:23:06Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -201,86 +337,6 @@
       "publishedAt": "2026-09-06T13:11:53Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel claims it hit hospital used as Hezbollah site",
-      "url": "https://biztoc.com/x/ef1bb67f56a7d832",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-06T13:07:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli strikes kill 4 in southern Lebanon",
-      "url": "https://www.cbc.ca/news/world/israeli-strikes-southern-lebanon-9.7334203",
-      "source": "CBC News",
-      "publishedAt": "2026-09-06T13:03:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Russia claims Germany 'wants war again' after being blamed for drone bombs attack on airport",
-      "url": "https://www.dailymail.com/news/article-16109455/Russia-claims-Germany-wants-war-drone-attack-airport.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-06T12:59:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Witkoff, Kushner arrive in Ukraine for talks after 'substantive' meeting with Putin",
-      "url": "https://abcnews.com/International/witkoff-kushner-arrive-ukraine-talks-after-meeting-putin/story?id=136237115",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-06T12:06:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US envoys Witkoff, Kushner arrive in Moscow for talks on peace in Ukraine",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-envoys-witkoff-kushner-arrive-in-moscow-for-talks-on-peace-in-ukraine/articleshow/133835889.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-06T11:43:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump envoys arrive in Kyiv after meeting Putin in Moscow",
-      "url": "https://www.irishtimes.com/world/europe/2026/09/06/trump-envoys-arrive-in-kyiv-after-meeting-putin-in-moscow/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-09-06T11:21:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu labels Qatar ‘hostile’ amid Iran conflict tensions",
-      "url": "https://cryptobriefing.com/netanyahu-labels-qatar-hostile-amid-iran-conflict-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-06T11:19:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "IDF retaliates after Hezbollah UAV strikes",
-      "url": "https://www.israelnationalnews.com/news/432780",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-06T11:03:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Japan’s Strategic Turn",
-      "url": "https://www.theatlantic.com/ideas/2026/09/japan-defense-nuclear-threat/688517/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-09-06T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "South Korea Weighs Military Deployment to Strait of Hormuz, Presidential Office Says",
-      "url": "https://www.naturalnews.com/2026-09-06-south-korea-weighs-military-deployment-to-hormuz.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-06T06:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "America’s Nuclear Reassessment: The Dangerous Return of Limited Nuclear Deterrence",

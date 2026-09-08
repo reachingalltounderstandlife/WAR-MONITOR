@@ -1,7 +1,135 @@
 {
-  "updated": "2026-09-08T10:36:31Z",
+  "updated": "2026-09-08T16:00:33Z",
   "count": 43,
   "articles": [
+    {
+      "title": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
+      "url": "https://www.aljazeera.com/opinions/2026/9/7/will-trump-succeed-in-restarting-russia-ukraine-peace-talks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-07T14:22:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli Strikes in Lebanon Kill 9 as Bombardment Intensifies - nytimes.com",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185493408",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-07T14:13:43Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Lebanon says 12 killed in strikes as Israel vows to 'remove threats'",
+      "url": "https://biztoc.com/x/e7d0b459eaae4a61",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-07T14:02:02Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Envoys Shuttle Between Moscow and Kyiv as U.S. Revives Ukraine Peace Push",
+      "url": "https://oilprice.com/Geopolitics/Europe/Trump-Envoys-Shuttle-Between-Moscow-and-Kyiv-as-US-Revives-Ukraine-Peace-Push.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-09-07T14:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin reaffirms commitment to continuing war in Ukraine after talks with US envoys",
+      "url": "https://cryptobriefing.com/putin-ukraine-war-us-envoys-talks/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-07T13:48:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli airstrikes on a village in southern Lebanon kill 9 people, wound 13 - AP News",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185492500",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-07T13:33:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Yemen gov’t forces launch air strikes on Houthi targets",
+      "url": "https://www.aljazeera.com/news/2026/9/7/yemen-govt-forces-launch-air-strikes-on-houthi-targets",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-07T13:05:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin is testing Europe. How far will he go before war?",
+      "url": "https://www.salon.com/2026/09/07/putin-is-testing-europe-how-far-will-he-go-before-war/",
+      "source": "Salon",
+      "publishedAt": "2026-09-07T13:00:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Sweden at a Crossroads: NATO, Neutrality, and the Price of Strategic Dependence",
+      "url": "https://www.globalresearch.ca/sweden-crossroads-nato-neutrality-price-strategic-dependence/5939347",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-07T12:36:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Does Netanyahu Want Iran Off the Map? “The Nuclear Elephant in Trump’s War Room”",
+      "url": "https://www.globalresearch.ca/netanyahu-want-iran-off-map-anglin-right-after-all/5939321",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-07T12:34:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "This horrific pattern shows who is truly in charge of the White House",
+      "url": "https://www.rawstory.com/raw-investigates/putin-trump/",
+      "source": "Raw Story",
+      "publishedAt": "2026-09-07T12:30:17Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israeli strikes on southern Lebanese town kill 11, state news agency says - Reuters",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185490620",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-07T12:12:46Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Kim Jong-un Announces Deployment of Most Powerful Strategic Assets in Key Waters",
+      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260907-sputnik03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-07T12:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel strikes Lebanon, accuses Hezbollah of truce violations",
+      "url": "https://www.channelnewsasia.com/world/israel-lebanon-hezbollah-strikes-truce-violations-6367371",
+      "source": "CNA",
+      "publishedAt": "2026-09-07T11:35:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli air attacks kill at least 11 people in southern Lebanon - Al Jazeera",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185489474",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-07T11:13:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Europe is losing battle to stop Putin's 'hybrid' war, intelligence officials warn as Germany opens sabotage probe after another substation fire",
+      "url": "https://www.dailymail.com/news/article-16111147/Europe-losing-battle-stop-Putins-hybrid-war-intelligence-officials-warn-Germany-opens-sabotage-probe-substation-fire.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-07T10:38:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Israeli air attacks on Lebanon kill at least four - Al Jazeera",
       "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185488662",
@@ -67,22 +195,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Israel strikes southern Lebanon; children, paramedics among 11 killed",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-strikes-southern-lebanon-children-paramedics-among-11-killed/articleshow/133872625.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-07T08:57:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli strikes on southern Lebanese town kill 11, state news agency says",
-      "url": "https://www.cbc.ca/news/world/lebanon-israeli-strike-town-9.7334675",
-      "source": "CBC News",
-      "publishedAt": "2026-09-07T08:53:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "North Korea adds its 2nd naval destroyer as US, South Korea and Japan hold military exercise - AP News",
       "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185486834",
       "source": "Slashdot.org",
@@ -129,38 +241,6 @@
       "publishedAt": "2026-09-07T07:30:31Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Hezbollah launches explosive drone, Israel strikes back",
-      "url": "https://www.israelnationalnews.com/news/432821",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-07T07:28:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli strikes in southern Lebanese village kill 11, state media say",
-      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo",
-      "source": "BBC News",
-      "publishedAt": "2026-09-07T07:13:37Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli strikes in southern Lebanon kill 11, state media say",
-      "url": "https://www.bbc.com/news/articles/c5yl96vz0edo",
-      "source": "BBC News",
-      "publishedAt": "2026-09-07T07:13:37Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli air attack kills at least 10 people in southern Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/9/7/israeli-air-attack-kills-at-least-10-people-in-southern-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-07T06:58:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Report: UK Has Built Long-Term Military Network Around Russia",
@@ -219,30 +299,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Ukraine lost $1.2 billion to defence procurement fraud, waste in 2024",
-      "url": "https://www.business-standard.com/world-news/ukraine-lost-1-2-billion-to-defence-procurement-fraud-waste-in-2024-126090700103_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-09-07T03:18:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "North Korea vows nuclear-armed navy as US ally drills open",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-vows-nuclear-armed-navy-us-ally-drills-open-6366436",
-      "source": "CNA",
-      "publishedAt": "2026-09-07T03:17:12Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea commissions 2nd naval destroyer as US, South Korea, Japan begin military drill",
-      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-commissions-2nd-naval-destroyer-as-us-south-korea-japan-begin-military-drill/articleshow/133860563.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-07T02:47:49Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "US Navy SEALS conducted covert four-month mission to clear Strait of Hormuz mines - report",
       "url": "https://freerepublic.com/focus/f-news/4394509/posts",
       "source": "Freerepublic.com",
@@ -275,68 +331,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "US Renews Ukraine Peace Push, But Former Ambassadors See No Breakthrough",
-      "url": "https://www.rferl.org/a/ukraine-witkoff-kushner-russia-peace-negotiations/33848067.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-09-06T22:57:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine cannot be settled like a business deal",
-      "url": "https://www.rt.com/russia/645192-ukraine-cannot-be-settled-like/",
-      "source": "RT",
-      "publishedAt": "2026-09-06T20:11:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump weighs declaring protracted war over, but Iran has other plans",
       "url": "https://www.abc.net.au/news/2026-09-07/iran-war-donald-trump-running-out-of-cards-in-war-he-cannot-end/107114640",
       "source": "ABC News (AU)",
       "publishedAt": "2026-09-06T18:43:19Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Summer of Summitry: India’s Global South credentials get a new test",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/summer-of-summitry-indias-global-south-credentials-get-a-new-test/articleshow/133847944.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-06T18:18:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Moscow ramps up rhetoric, markets eye Russian advance in Ukraine by 2026",
-      "url": "https://cryptobriefing.com/moscow-ramps-up-rhetoric-markets-eye-russian-advance-in-ukraine-by-2026/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-06T17:38:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Cassandra Crossing: The Strange Alarmism in Germany’s Security Debate",
-      "url": "https://www.fairobserver.com/politics/cassandra-crossing-the-strange-alarmism-in-germanys-security-debate/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-09-06T16:27:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How significant are the Yemeni government’s military gains against Houthis?",
-      "url": "https://www.aljazeera.com/news/2026/9/6/how-significant-are-the-yemeni-governments-military-gains-against-the-houthis",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-06T13:41:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia calls Leipzig drone attack accusations 'start of real war'",
-      "url": "https://www.abc.net.au/news/2026-09-06/russia-responds-to-leipzig-accusations/107122062",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-06T13:11:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "America’s Nuclear Reassessment: The Dangerous Return of Limited Nuclear Deterrence",

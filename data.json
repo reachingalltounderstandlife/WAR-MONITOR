@@ -1,7 +1,103 @@
 {
-  "updated": "2026-09-07T21:07:41Z",
-  "count": 29,
+  "updated": "2026-09-08T03:08:47Z",
+  "count": 36,
   "articles": [
+    {
+      "title": "North Korea commissions 2nd naval destroyer as US, South Korea, Japan begin military drill",
+      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-commissions-2nd-naval-destroyer-as-us-south-korea-japan-begin-military-drill/articleshow/133860563.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-07T02:47:49Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US Navy SEALS conducted covert four-month mission to clear Strait of Hormuz mines - report",
+      "url": "https://freerepublic.com/focus/f-news/4394509/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-09-07T02:36:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NKorea vows nuclear-armed navy...",
+      "url": "https://www.yahoo.com/news/world/articles/north-korea-vows-nuclear-armed-010726666.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-07T02:00:17Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea commissions 2nd naval destroyer as US, South Korea and Japan begin a military drill",
+      "url": "https://abcnews.com/International/wireStory/north-korea-commissions-2nd-naval-destroyer-us-south-136246537",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-07T01:39:28Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel army orders evacuation of zone in south Lebanon",
+      "url": "https://www.rte.ie/news/middle-east/2026/0907/1590523-middle-east/",
+      "source": "RTE",
+      "publishedAt": "2026-09-07T01:28:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "North Korea deploys warship ‘capable of annihilating retaliatory strikes’",
+      "url": "https://www.aljazeera.com/news/2026/9/7/north-korea-deploys-warship-capable-of-annihilating-retaliatory-strikes",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-07T00:20:04Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "America’s War on Iran Has Always Been a Bipartisan Effort",
+      "url": "https://original.antiwar.com/jon_reynolds/2026/09/06/americas-war-on-iran-has-always-been-a-bipartisan-effort-2/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-09-07T00:00:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "China Mounts Fresh Campaign To Encircle Taiwan With Patrols",
+      "url": "https://gcaptain.com/china-mounts-fresh-campaign-to-encircle-taiwan-with-patrols/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-09-06T23:58:03Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Iran to establish 'prohibited zone' near Strait of Hormuz",
+      "url": "https://www.israelnationalnews.com/news/432807",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-06T23:20:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran plans to announce an ‘exclusion zone’ that runs from the U.S. naval blockade line, through the Strait of Hormuz, and into the Persian Gulf",
+      "url": "https://fortune.com/2026/09/06/iran-exclusion-zone-us-naval-blockade-line-strait-of-hormuz-persian-gulf/",
+      "source": "Fortune",
+      "publishedAt": "2026-09-06T23:18:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US Renews Ukraine Peace Push, But Former Ambassadors See No Breakthrough",
+      "url": "https://www.rferl.org/a/ukraine-witkoff-kushner-russia-peace-negotiations/33848067.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-09-06T22:57:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea’s New Destroyer Will Be Part Of Nuclear Response System",
+      "url": "https://gcaptain.com/north-koreas-new-destroyer-will-be-part-of-nuclear-response-system/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-09-06T22:42:50Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "Ukraine cannot be settled like a business deal",
       "url": "https://www.rt.com/russia/645192-ukraine-cannot-be-settled-like/",
@@ -171,52 +267,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
-      "url": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-06T10:49:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Japan’s Strategic Turn",
       "url": "https://www.theatlantic.com/ideas/2026/09/japan-defense-nuclear-threat/688517/",
       "source": "The Atlantic",
       "publishedAt": "2026-09-06T10:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Four killed in Israeli strikes on southern Lebanon",
-      "url": "https://biztoc.com/x/94f8c52c18bdd997",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-06T09:49:25Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US envoys seek to revive Russia-Ukraine talks; Chinese experts note all parties increasingly aware of rising political costs, broader damage as conflict drags on",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260906-globaltimes01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-06T09:38:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US denies Iran's claim to have struck an unmanned ship, and other Mideast news",
-      "url": "https://www.yahoo.com/news/world/articles/iran-says-hit-us-ship-093513422.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-06T09:35:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli air attacks on Lebanon kill at least four",
-      "url": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-06T09:15:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "South Korea Weighs Military Deployment to Strait of Hormuz, Presidential Office Says",

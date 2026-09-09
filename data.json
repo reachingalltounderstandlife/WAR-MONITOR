@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-08T20:44:14Z",
-  "count": 40,
+  "updated": "2026-09-09T03:10:30Z",
+  "count": 38,
   "articles": [
+    {
+      "title": "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
+      "url": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-08T03:01:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why a far-right party's victory in Germany is a 'serious moment in Europe'",
+      "url": "https://www.abc.net.au/news/2026-09-08/afd-win-in-germany-state-implications-for-europe-ukraine-trump/107127334",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-08T02:02:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
+      "url": "https://uk.news.yahoo.com/iran-says-plans-gulf-exclusion-015214347.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-08T01:52:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pink calls out Macklemore over pro-Palestine stunt at concert as rapper breaks silence amid calls for him to be axed from Ed Sheeran's tour",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16112869/Pink-Macklemore-pro-Palestine-concert-breaks-silence.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-08T00:37:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Claims Gas Prices Will Drop To This Amount ‘When We WIN The War With Iran’",
+      "url": "https://www.mediaite.com/media/news/trump-claims-gas-prices-will-drop-to-this-amount-when-we-win-the-war-with-iran/",
+      "source": "Mediaite",
+      "publishedAt": "2026-09-08T00:05:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Washington Is Underwriting the Proliferation It Went to War To Stop",
+      "url": "https://original.antiwar.com/thomas_karat/2026/09/07/washington-is-underwriting-the-proliferation-it-went-to-war-to-stop/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-09-08T00:00:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Germany’s Power Grid Could Be NATO’s Weakest Link",
+      "url": "https://oilprice.com/Energy/Energy-General/Germanys-Power-Grid-Could-Be-NATOs-Weakest-Link.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-09-08T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli strikes in southern Lebanese village kill 12 - BBC",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185506828",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-07T22:52:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Washington’s Venezuela Oil Deal Is About Much More Than Crude",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Washingtons-Venezuela-Oil-Deal-Is-About-Much-More-Than-Crude.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-09-07T22:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran says improved ballistic missile shows it will take preemptive action against threats",
+      "url": "https://www.yahoo.com/news/world/articles/iran-says-improved-ballistic-missile-212447311.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-07T21:24:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump's Cabinet secretary lets slip what president would rather do than talk about Iran",
+      "url": "https://www.dailymail.com/news/article-16112153/Trumps-Cabinet-secretary-lets-slip-Iran.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-07T21:18:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Russia’s quieter nuclear submarines threaten NATO, former commander warns",
       "url": "https://www.foxnews.com/world/russias-quieter-nuclear-submarines-threaten-nato-former-commander-warns",
@@ -63,8 +151,8 @@
       "url": "https://www.aljazeera.com/features/2026/9/7/claimed-israeli-capture-of-lebanese-ridge-reshapes-negotiation-dynamics",
       "source": "Al Jazeera English",
       "publishedAt": "2026-09-07T16:42:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
@@ -107,22 +195,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Israeli airstrikes on a village in southern Lebanon kill 9 people, wound 13 - AP News",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185492500",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-09-07T13:33:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Yemen gov’t forces launch air strikes on Houthi targets",
-      "url": "https://www.aljazeera.com/news/2026/9/7/yemen-govt-forces-launch-air-strikes-on-houthi-targets",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-07T13:05:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Putin is testing Europe. How far will he go before war?",
       "url": "https://www.salon.com/2026/09/07/putin-is-testing-europe-how-far-will-he-go-before-war/",
       "source": "Salon",
@@ -139,28 +211,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Does Netanyahu Want Iran Off the Map? “The Nuclear Elephant in Trump’s War Room”",
-      "url": "https://www.globalresearch.ca/netanyahu-want-iran-off-map-anglin-right-after-all/5939321",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-07T12:34:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "This horrific pattern shows who is truly in charge of the White House",
       "url": "https://www.rawstory.com/raw-investigates/putin-trump/",
       "source": "Raw Story",
       "publishedAt": "2026-09-07T12:30:17Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Israeli strikes on southern Lebanese town kill 11, state news agency says - Reuters",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185490620",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-09-07T12:12:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Kim Jong-un Announces Deployment of Most Powerful Strategic Assets in Key Waters",
@@ -171,28 +227,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Israel strikes Lebanon, accuses Hezbollah of truce violations",
-      "url": "https://www.channelnewsasia.com/world/israel-lebanon-hezbollah-strikes-truce-violations-6367371",
-      "source": "CNA",
-      "publishedAt": "2026-09-07T11:35:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
       "title": "Europe is losing battle to stop Putin's 'hybrid' war, intelligence officials warn as Germany opens sabotage probe after another substation fire",
       "url": "https://www.dailymail.com/news/article-16111147/Europe-losing-battle-stop-Putins-hybrid-war-intelligence-officials-warn-Germany-opens-sabotage-probe-substation-fire.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-09-07T10:38:16Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "The \"genocide\" LIE (2026 Update)",
-      "url": "https://freerepublic.com/focus/f-bloggers/4394531/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-09-07T10:32:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "As US Plays War Games, North Korea Flexes Its Muscle",
@@ -209,14 +249,6 @@
       "publishedAt": "2026-09-07T09:44:26Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Middle East: Israeli strikes kill a dozen in Lebanon",
-      "url": "https://www.dw.com/en/middle-east-israeli-strikes-kill-a-dozen-in-lebanon/live-79133242",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-07T09:23:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea adds its 2nd naval destroyer as US, South Korea and Japan hold military exercise - AP News",
@@ -243,44 +275,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "US Renews Ukraine Peace Push, But Former Ambassadors See No Breakthrough",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260907-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-07T08:39:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea vows nuclear-armed navy as US ally drills open",
       "url": "https://www.hurriyetdailynews.com/north-korea-vows-nuclear-armed-navy-as-us-ally-drills-open-226555",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-09-07T08:03:04Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Shrinking Buffers: Why Turkey and Israel Are on a Collision Course",
-      "url": "https://warontherocks.com/shrinking-buffers-why-turkey-and-israel-are-on-a-collision-course/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-09-07T07:30:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Drone Strike on Kyiv Security Service HQ Spurs Competing Blame",
-      "url": "https://www.naturalnews.com/2026-09-07-drone-strike-kyiv-security-hq-spurs-competing-blame.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-07T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Report: UK Has Built Long-Term Military Network Around Russia",
-      "url": "https://www.naturalnews.com/2026-09-07-uk-built-long-term-military-network-around-russia.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-07T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
@@ -305,22 +305,6 @@
       "publishedAt": "2026-09-07T03:22:11Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "China Mounts Fresh Campaign To Encircle Taiwan With Patrols",
-      "url": "https://gcaptain.com/china-mounts-fresh-campaign-to-encircle-taiwan-with-patrols/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-09-06T23:58:03Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "America’s Nuclear Reassessment: The Dangerous Return of Limited Nuclear Deterrence",
-      "url": "https://www.americanthinker.com/articles/2026/09/america-s-nuclear-reassessment-the-dangerous-return-of-limited-nuclear-deterrence/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-09-06T04:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

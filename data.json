@@ -1,7 +1,111 @@
 {
-  "updated": "2026-09-09T10:47:09Z",
-  "count": 37,
+  "updated": "2026-09-09T15:56:33Z",
+  "count": 39,
   "articles": [
+    {
+      "title": "Russia says Putin, Trump had ‘frank’ call after US envoys visit",
+      "url": "https://www.vanguardngr.com/2026/09/russia-says-putin-trump-had-frank-call-after-us-envoys-visit/",
+      "source": "Vanguard",
+      "publishedAt": "2026-09-08T15:54:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Dozens injured as Yemen's Houthis launch strikes on Saudi oil facilities",
+      "url": "https://www.abc.net.au/news/2026-09-09/yemen-houthis-attack-four-cities-in-saudi-arabia/107131124",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-08T15:31:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia and North Korea open first road bridge across their borders—marking a ‘significant event’ in ‘expansion of transport infrastructure’",
+      "url": "https://fortune.com/2026/09/08/russia-north-korea-border-road-bridge-transport/",
+      "source": "Fortune",
+      "publishedAt": "2026-09-08T15:13:37Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Climate extremist is arrested over German electricity sabotage - after fears it was Russian hybrid war attack",
+      "url": "https://www.dailymail.com/news/article-16114421/Climate-extremist-arrested-German-electricity-sabotage-Russian-hybrid-attack.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-08T13:51:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Can Europe Defend Itself? Rethinking the US Role in NATO",
+      "url": "https://www.fairobserver.com/politics/can-europe-defend-itself-rethinking-the-us-role-in-nato/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-09-08T13:28:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "South Korea Should Help Defend Ukraine’s Skies",
+      "url": "http://foreignpolicy.com/2026/09/08/russia-ukraine-war-south-korea-air-defense-interceptors/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-08T13:15:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran-backed Houthis attack Saudi cities, over 70 injured",
+      "url": "https://www.rte.ie/news/middle-east/2026/0908/1590748-houthis-attack-saudi-cities-/",
+      "source": "RTE",
+      "publishedAt": "2026-09-08T12:11:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US rebuilding weapons stockpile could delay orders from allies",
+      "url": "https://www.foxnews.com/politics/us-rebuilding-weapons-stockpile-could-delay-orders-allies",
+      "source": "Fox News",
+      "publishedAt": "2026-09-08T12:04:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Remarks by Under Secretary of War for Policy Elbridge Colby at the Ukraine Defense Contact Group (As Delivered via Video Teleconference)",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260908-dod01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-08T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UN chief demands Israeli withdrawal from Lebanon amid Nabatieh escalation",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260908-unnews02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-08T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Tuesday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/09/08/tuesday-hili-dialogue-596/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-09-08T11:45:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Three attacks in Tehran could 'amount to war crimes', report finds",
+      "url": "https://www.abc.net.au/news/2026-09-08/amnesty-international-demands-iran-strikes-probe/107127968",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-08T11:00:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: Iran Working to Speed Retaliation Tempo as It Fires on Tankers, at US Warships and Ansar Allah Escalates Against Saudi Oil Facilities; Brent Flirts With $100 as Trump Hand Waves",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-iran-working-to-speed-retaliation-tempo-as-it-fires-on-tankers-at-us-warships-and-ansar-allah-escalates-against-saudi-oil-facilities-brent-flirts-with-100-as-trump-hand-waves.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-08T10:57:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Israeli strikes kill dozens of civilians in Lebanon (VIDEO)",
       "url": "https://www.rt.com/news/645241-lebanon-israel-strikes-civilians/",
@@ -107,14 +211,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Iran threatens US with ‘economic warfare,’ new Persian Gulf exclusion zone",
-      "url": "https://www.israelnationalnews.com/news/432874",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-08T05:09:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Confessional Differences: Towards a “New Helsinki Process” in Europe? Is a “New Westphalia Process” Possible in West Asia? Towards a New Multipolar Order?",
       "url": "https://www.globalresearch.ca/new-helsinki-process-europe-new-westphalian-process-west-asia/5939509",
       "source": "Globalresearch.ca",
@@ -123,76 +219,20 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump Promises Lower Gasoline Prices in US After Conflict With Iran Ends",
-      "url": "https://sputnikglobe.com/20260908/trump-promises-lower-gasoline-prices-in-us-after-conflict-with-iran-ends-1124693875.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-09-08T03:41:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Europe’s Reckless Bid to Drag Washington Into War. “Ukraine’s Deterioration”",
-      "url": "https://www.globalresearch.ca/europe-reckless-bid-drag-washington-war/5939484",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-08T03:37:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How the EU is Using Anti-Russia Sanctions to Criminalise Journalism",
-      "url": "https://hussedogru.substack.com/p/how-the-eu-is-using-anti-russia-sanctions",
-      "source": "Substack.com",
-      "publishedAt": "2026-09-08T03:34:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "France’s Right Wing RN Opposition Party: “Stop Sending Weapons to Ukraine”. Intensifies Criticism of Kiev Regime.",
-      "url": "https://www.globalresearch.ca/french-opposition-intensifies-criticism-ukraine/5939512",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-08T03:29:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran says it fired advanced missile at US warships",
       "url": "https://www.rte.ie/news/middle-east/2026/0908/1590678-middle-east-iran/",
       "source": "RTE",
       "publishedAt": "2026-09-08T03:27:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "NATO Watches Russian Sub Fleet Advance as Britain’s Attack Boats Sit Idle",
-      "url": "https://www.globalresearch.ca/nato-watches-russian-sub-fleet-advance/5939480",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-08T03:23:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
       "url": "https://www.thehindubusinessline.com/news/world/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles/article71441119.ece",
       "source": "BusinessLine",
       "publishedAt": "2026-09-08T03:21:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
-      "url": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-08T03:01:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why a far-right party's victory in Germany is a 'serious moment in Europe'",
-      "url": "https://www.abc.net.au/news/2026-09-08/afd-win-in-germany-state-implications-for-europe-ukraine-trump/107127334",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-08T02:02:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
@@ -223,22 +263,6 @@
       "url": "https://biztoc.com/x/5108b195d70756f9",
       "source": "Biztoc.com",
       "publishedAt": "2026-09-07T19:15:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The war happening while the world watches Iran",
-      "url": "https://www.abc.net.au/news/2026-09-08/lebanon-israel-hezbollah-shadow-war/107111986",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-07T18:48:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran War Day 192: Americans Have Paid Over $100 Billion in Higher Energy Costs Since War Began",
-      "url": "https://www.theamericanconservative.com/iran-war-day-192-americans-have-paid-over-100-billion-in-higher-energy-costs-since-war-began/",
-      "source": "The American Conservative",
-      "publishedAt": "2026-09-07T16:50:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
@@ -287,14 +311,6 @@
       "url": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-commissions-second-5000-ton-destroyer-equipped-with-nuclear-capable-missiles/articleshow/133872315.cms",
       "source": "The Times of India",
       "publishedAt": "2026-09-07T08:48:08Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea commissions second nuclear-capable naval destroyer",
-      "url": "https://biztoc.com/x/4f90b555bc19e869",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-07T08:45:25Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

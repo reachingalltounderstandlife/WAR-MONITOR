@@ -1,7 +1,183 @@
 {
-  "updated": "2026-09-09T03:10:30Z",
-  "count": 38,
+  "updated": "2026-09-09T10:47:09Z",
+  "count": 37,
   "articles": [
+    {
+      "title": "Israeli strikes kill dozens of civilians in Lebanon (VIDEO)",
+      "url": "https://www.rt.com/news/645241-lebanon-israel-strikes-civilians/",
+      "source": "RT",
+      "publishedAt": "2026-09-08T10:44:04Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "How South Korea finds itself trapped in the US-Iran war",
+      "url": "https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-08T10:00:52Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The World’s Only Real Hope of Maintaining Order",
+      "url": "http://foreignpolicy.com/2026/09/08/charles-kupchan-global-order-international-organizations-concert-system/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-08T10:00:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Baltic countries ‘staring Russian bear in the face’",
+      "url": "https://www.irishtimes.com/world/europe/2026/09/08/baltic-countries-staring-russian-bear-in-the-face/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-09-08T10:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kim Jong Un unveils North Korea's new navy destroyer equipped with nuclear-capable missiles",
+      "url": "https://www.dailymail.com/news/article-16113565/Kim-Jong-unveils-North-Korea-new-navy-destroyer-nuclear-missiles.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-08T09:36:04Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Qatar Warns Of 'Industrial Catastrophe' As Hormuz Crisis Deepens Amid Houthi Attacks On Saudi Arabia",
+      "url": "https://www.ibtimes.com.au/qatar-warns-industrial-catastrophe-strait-hormuz-crisis-1875190",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-09-08T09:11:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian drone and missile strikes on Kyiv kill 2, ending pause in attacks",
+      "url": "https://www.cbc.ca/news/world/russia-attack-kyiv-9.7335291",
+      "source": "CBC News",
+      "publishedAt": "2026-09-08T08:47:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kim Jong Un is threatening US, Japan and South Korea with its most advanced warship, a 5000-ton nuclear missile carrying destroyers; second warship commissioned as rivals launch drills",
+      "url": "https://economictimes.indiatimes.com/news/international/canada/kim-jong-un-is-threatening-us-japan-and-south-korea-with-its-most-advanced-warship-a-5000-ton-nuclear-missile-carrying-destroyers-second-warship-commissioned-as-rivals-launch-drills/articleshow/133916461.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-08T08:31:18Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran threatens US with new ‘economic warfare’ and missiles as Houthis attack Saudi Arabia",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/09/08/iran-threatens-us-with-new-economic-warfare-and-missiles-as-houthis-attack-saudi-arabia/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-09-08T07:17:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
+      "url": "https://abcnews.com/International/wireStory/israeli-airstrikes-village-southern-lebanon-kill-12-people-136249459",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-08T06:34:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Iran Policy Seen as “All Stick, No Carrot” With No Clear Exit",
+      "url": "https://www.naturalnews.com/2026-09-08-trump-iran-policy-all-stick-no-carrot.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-08T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "European efforts to “bury” Trump’s Ukraine peace proposal reveal deep transatlantic rift, Lavrov says",
+      "url": "https://www.naturalnews.com/2026-09-08-european-efforts-bury-peace-proposal-reveal-transatlantic-rift.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-08T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump not happy with South Korea",
+      "url": "https://www.irishtimes.com/world/2026/09/08/south-korea-has-not-deployed-forces-in-the-us-iran-war-and-trumps-not-happy/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-09-08T05:35:10Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran threatens US with ‘economic warfare,’ new Persian Gulf exclusion zone",
+      "url": "https://www.israelnationalnews.com/news/432874",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-08T05:09:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Confessional Differences: Towards a “New Helsinki Process” in Europe? Is a “New Westphalia Process” Possible in West Asia? Towards a New Multipolar Order?",
+      "url": "https://www.globalresearch.ca/new-helsinki-process-europe-new-westphalian-process-west-asia/5939509",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-08T03:51:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Promises Lower Gasoline Prices in US After Conflict With Iran Ends",
+      "url": "https://sputnikglobe.com/20260908/trump-promises-lower-gasoline-prices-in-us-after-conflict-with-iran-ends-1124693875.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-09-08T03:41:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Europe’s Reckless Bid to Drag Washington Into War. “Ukraine’s Deterioration”",
+      "url": "https://www.globalresearch.ca/europe-reckless-bid-drag-washington-war/5939484",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-08T03:37:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How the EU is Using Anti-Russia Sanctions to Criminalise Journalism",
+      "url": "https://hussedogru.substack.com/p/how-the-eu-is-using-anti-russia-sanctions",
+      "source": "Substack.com",
+      "publishedAt": "2026-09-08T03:34:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "France’s Right Wing RN Opposition Party: “Stop Sending Weapons to Ukraine”. Intensifies Criticism of Kiev Regime.",
+      "url": "https://www.globalresearch.ca/french-opposition-intensifies-criticism-ukraine/5939512",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-08T03:29:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran says it fired advanced missile at US warships",
+      "url": "https://www.rte.ie/news/middle-east/2026/0908/1590678-middle-east-iran/",
+      "source": "RTE",
+      "publishedAt": "2026-09-08T03:27:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO Watches Russian Sub Fleet Advance as Britain’s Attack Boats Sit Idle",
+      "url": "https://www.globalresearch.ca/nato-watches-russian-sub-fleet-advance/5939480",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-08T03:23:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles/article71441119.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-08T03:21:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Yemeni forces launch counteroffensive against Houthis, vow to retake Sanaa",
       "url": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa",
@@ -23,8 +199,8 @@
       "url": "https://uk.news.yahoo.com/iran-says-plans-gulf-exclusion-015214347.html",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-09-08T01:52:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Pink calls out Macklemore over pro-Palestine stunt at concert as rapper breaks silence amid calls for him to be axed from Ed Sheeran's tour",
@@ -35,68 +211,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Trump Claims Gas Prices Will Drop To This Amount ‘When We WIN The War With Iran’",
-      "url": "https://www.mediaite.com/media/news/trump-claims-gas-prices-will-drop-to-this-amount-when-we-win-the-war-with-iran/",
-      "source": "Mediaite",
-      "publishedAt": "2026-09-08T00:05:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Washington Is Underwriting the Proliferation It Went to War To Stop",
-      "url": "https://original.antiwar.com/thomas_karat/2026/09/07/washington-is-underwriting-the-proliferation-it-went-to-war-to-stop/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-09-08T00:00:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Germany’s Power Grid Could Be NATO’s Weakest Link",
-      "url": "https://oilprice.com/Energy/Energy-General/Germanys-Power-Grid-Could-Be-NATOs-Weakest-Link.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-09-08T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israeli strikes in southern Lebanese village kill 12 - BBC",
       "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185506828",
       "source": "Slashdot.org",
       "publishedAt": "2026-09-07T22:52:15Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Washington’s Venezuela Oil Deal Is About Much More Than Crude",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Washingtons-Venezuela-Oil-Deal-Is-About-Much-More-Than-Crude.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-09-07T22:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran says improved ballistic missile shows it will take preemptive action against threats",
-      "url": "https://www.yahoo.com/news/world/articles/iran-says-improved-ballistic-missile-212447311.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-07T21:24:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump's Cabinet secretary lets slip what president would rather do than talk about Iran",
-      "url": "https://www.dailymail.com/news/article-16112153/Trumps-Cabinet-secretary-lets-slip-Iran.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-07T21:18:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia’s quieter nuclear submarines threaten NATO, former commander warns",
-      "url": "https://www.foxnews.com/world/russias-quieter-nuclear-submarines-threaten-nato-former-commander-warns",
-      "source": "Fox News",
-      "publishedAt": "2026-09-07T20:19:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
@@ -107,28 +227,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "The domestic armed threat facing Iran",
-      "url": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-07T19:06:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The war happening while the world watches Iran",
       "url": "https://www.abc.net.au/news/2026-09-08/lebanon-israel-hezbollah-shadow-war/107111986",
       "source": "ABC News (AU)",
       "publishedAt": "2026-09-07T18:48:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump’s blockade pushes Iran toward military escalation",
-      "url": "https://www.cnn.com/2026/09/07/middleeast/trump-blockade-iran-military-escalation-intl-latam",
-      "source": "CNN",
-      "publishedAt": "2026-09-07T17:19:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran War Day 192: Americans Have Paid Over $100 Billion in Higher Energy Costs Since War Began",
@@ -137,78 +241,6 @@
       "publishedAt": "2026-09-07T16:50:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Israel carries out fresh strikes on Lebanon, killing 12",
-      "url": "https://www.abc.net.au/news/2026-09-08/israel-lebanon-fresh-strikes/107126714",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-07T16:43:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Claimed Israeli capture of Lebanese ridge reshapes negotiation dynamics",
-      "url": "https://www.aljazeera.com/features/2026/9/7/claimed-israeli-capture-of-lebanese-ridge-reshapes-negotiation-dynamics",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-07T16:42:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Will Trump succeed in restarting Russia-Ukraine peace talks?",
-      "url": "https://www.aljazeera.com/opinions/2026/9/7/will-trump-succeed-in-restarting-russia-ukraine-peace-talks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-07T14:22:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israeli Strikes in Lebanon Kill 9 as Bombardment Intensifies - nytimes.com",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185493408",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-09-07T14:13:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon says 12 killed in strikes as Israel vows to 'remove threats'",
-      "url": "https://biztoc.com/x/e7d0b459eaae4a61",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-07T14:02:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Envoys Shuttle Between Moscow and Kyiv as U.S. Revives Ukraine Peace Push",
-      "url": "https://oilprice.com/Geopolitics/Europe/Trump-Envoys-Shuttle-Between-Moscow-and-Kyiv-as-US-Revives-Ukraine-Peace-Push.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-09-07T14:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin reaffirms commitment to continuing war in Ukraine after talks with US envoys",
-      "url": "https://cryptobriefing.com/putin-ukraine-war-us-envoys-talks/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-07T13:48:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin is testing Europe. How far will he go before war?",
-      "url": "https://www.salon.com/2026/09/07/putin-is-testing-europe-how-far-will-he-go-before-war/",
-      "source": "Salon",
-      "publishedAt": "2026-09-07T13:00:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Sweden at a Crossroads: NATO, Neutrality, and the Price of Strategic Dependence",
-      "url": "https://www.globalresearch.ca/sweden-crossroads-nato-neutrality-price-strategic-dependence/5939347",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-07T12:36:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "This horrific pattern shows who is truly in charge of the White House",
@@ -225,14 +257,6 @@
       "publishedAt": "2026-09-07T12:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Europe is losing battle to stop Putin's 'hybrid' war, intelligence officials warn as Germany opens sabotage probe after another substation fire",
-      "url": "https://www.dailymail.com/news/article-16111147/Europe-losing-battle-stop-Putins-hybrid-war-intelligence-officials-warn-Germany-opens-sabotage-probe-substation-fire.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-07T10:38:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "As US Plays War Games, North Korea Flexes Its Muscle",
@@ -271,38 +295,6 @@
       "url": "https://biztoc.com/x/4f90b555bc19e869",
       "source": "Biztoc.com",
       "publishedAt": "2026-09-07T08:45:25Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea vows nuclear-armed navy as US ally drills open",
-      "url": "https://www.hurriyetdailynews.com/north-korea-vows-nuclear-armed-navy-as-us-ally-drills-open-226555",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-09-07T08:03:04Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Philippines warns China may reassert itself amid US-South Korea drill cuts",
-      "url": "https://www.aljazeera.com/news/2026/9/7/philippines-warns-china-may-reassert-itself-amid-us-south-korea-drill-cuts",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-07T03:59:39Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim Jong Un Announces Deployment of Most Powerful Strategic Assets in Key Waters",
-      "url": "https://sputnikglobe.com/20260907/kim-jong-un-announces-deployment-of-most-powerful-strategic-assets-in-key-waters-1124688416.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-09-07T03:59:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea commissions 2nd naval destroyer as US, South Korea, Japan begin military drill",
-      "url": "https://www.thehindubusinessline.com/news/world/north-korea-commissions-2nd-naval-destroyer-as-us-south-korea-japan-begin-military-drill/article71437314.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-09-07T03:22:11Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

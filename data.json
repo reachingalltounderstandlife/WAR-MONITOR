@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-09T15:56:33Z",
-  "count": 39,
+  "updated": "2026-09-09T20:26:16Z",
+  "count": 38,
   "articles": [
+    {
+      "title": "US Army drilled by senators over ‘deep concerns’ surrounding shutdown of cutting-edge drone battalion — and the wars in Ukraine and Iran show that ‘back to basics’ might not be a smart move",
+      "url": "https://www.techradar.com/pro/us-army-drilled-by-senators-over-deep-concerns-surrounding-shutdown-of-cutting-edge-drone-battalion-and-the-wars-in-ukraine-and-iran-show-that-back-to-basics-might-not-be-a-smart-move",
+      "source": "TechRadar",
+      "publishedAt": "2026-09-08T19:25:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts",
+      "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-08T18:31:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Jared Kushner’s Incompetence Was on Full Display This Weekend",
+      "url": "https://slate.com/news-and-politics/2026/09/trump-russia-ukraine-jared-kushner-steve-witkoff.html",
+      "source": "Slate Magazine",
+      "publishedAt": "2026-09-08T18:10:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Coffee Break: Armed Madhouse – Mossad, the CIA, and the Cult of Black Ops",
+      "url": "https://www.nakedcapitalism.com/2026/09/coffee-break-armed-madhouse-mossad-the-cia-and-the-cult-of-black-ops.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-08T18:00:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Allies’ Concrete Action on Settlements Welcome and Necessary",
+      "url": "https://www.commondreams.org/newswire/allies-concrete-action-on-settlements-welcome-and-necessary",
+      "source": "Common Dreams",
+      "publishedAt": "2026-09-08T17:35:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli forces escalate operations in Lebanon’s Nabatieh, nearly 30 dead",
+      "url": "https://cryptobriefing.com/israeli-forces-escalate-operations-in-lebanons-nabatieh-nearly-30-dead/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-08T17:32:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Amnesty Says US-Israeli Attacks With Indiscriminate Weapons in Tehran May Have Been War Crimes",
+      "url": "https://www.commondreams.org/news/us-and-israel-war-crimes",
+      "source": "Common Dreams",
+      "publishedAt": "2026-09-08T16:01:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Russia says Putin, Trump had ‘frank’ call after US envoys visit",
       "url": "https://www.vanguardngr.com/2026/09/russia-says-putin-trump-had-frank-call-after-us-envoys-visit/",
@@ -147,36 +203,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Qatar Warns Of 'Industrial Catastrophe' As Hormuz Crisis Deepens Amid Houthi Attacks On Saudi Arabia",
-      "url": "https://www.ibtimes.com.au/qatar-warns-industrial-catastrophe-strait-hormuz-crisis-1875190",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-09-08T09:11:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russian drone and missile strikes on Kyiv kill 2, ending pause in attacks",
-      "url": "https://www.cbc.ca/news/world/russia-attack-kyiv-9.7335291",
-      "source": "CBC News",
-      "publishedAt": "2026-09-08T08:47:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Kim Jong Un is threatening US, Japan and South Korea with its most advanced warship, a 5000-ton nuclear missile carrying destroyers; second warship commissioned as rivals launch drills",
       "url": "https://economictimes.indiatimes.com/news/international/canada/kim-jong-un-is-threatening-us-japan-and-south-korea-with-its-most-advanced-warship-a-5000-ton-nuclear-missile-carrying-destroyers-second-warship-commissioned-as-rivals-launch-drills/articleshow/133916461.cms",
       "source": "The Times of India",
       "publishedAt": "2026-09-08T08:31:18Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Iran threatens US with new ‘economic warfare’ and missiles as Houthis attack Saudi Arabia",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/09/08/iran-threatens-us-with-new-economic-warfare-and-missiles-as-houthis-attack-saudi-arabia/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-09-08T07:17:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
@@ -187,36 +219,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Trump Iran Policy Seen as “All Stick, No Carrot” With No Clear Exit",
-      "url": "https://www.naturalnews.com/2026-09-08-trump-iran-policy-all-stick-no-carrot.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-08T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "European efforts to “bury” Trump’s Ukraine peace proposal reveal deep transatlantic rift, Lavrov says",
-      "url": "https://www.naturalnews.com/2026-09-08-european-efforts-bury-peace-proposal-reveal-transatlantic-rift.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-08T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump not happy with South Korea",
       "url": "https://www.irishtimes.com/world/2026/09/08/south-korea-has-not-deployed-forces-in-the-us-iran-war-and-trumps-not-happy/",
       "source": "The Irish Times",
       "publishedAt": "2026-09-08T05:35:10Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Confessional Differences: Towards a “New Helsinki Process” in Europe? Is a “New Westphalia Process” Possible in West Asia? Towards a New Multipolar Order?",
-      "url": "https://www.globalresearch.ca/new-helsinki-process-europe-new-westphalian-process-west-asia/5939509",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-08T03:51:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran says it fired advanced missile at US warships",
@@ -247,22 +255,6 @@
       "url": "https://www.dailymail.com/tvshowbiz/article-16112869/Pink-Macklemore-pro-Palestine-concert-breaks-silence.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-09-08T00:37:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli strikes in southern Lebanese village kill 12 - BBC",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185506828",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-09-07T22:52:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
-      "url": "https://biztoc.com/x/5108b195d70756f9",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-07T19:15:38Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

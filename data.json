@@ -1,7 +1,103 @@
 {
-  "updated": "2026-09-10T03:10:12Z",
-  "count": 32,
+  "updated": "2026-09-10T10:39:00Z",
+  "count": 38,
   "articles": [
+    {
+      "title": "North Korea builds second uranium enrichment facility at Yongbyon, IAEA warns",
+      "url": "https://cryptobriefing.com/north-korea-second-uranium-enrichment-facility-yongbyon-iaea/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-09T10:37:55Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Shipping Nations Warn Global Trade Is Fracturing — And Everyone Pays",
+      "url": "https://www.insurancejournal.com/news/international/2026/09/09/884437.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-09-09T10:36:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo",
+      "source": "BBC News",
+      "publishedAt": "2026-09-09T10:31:08Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Japan-Korea: Working Together as Like-Minded Countries?",
+      "url": "https://thediplomat.com/2026/09/japan-korea-working-together-as-like-minded-countries/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-09-09T10:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "‘Peaceful’ Sweden once sought nuclear weapons. That legacy still shapes defence planning",
+      "url": "https://theconversation.com/peaceful-sweden-once-sought-nuclear-weapons-that-legacy-still-shapes-defence-planning-290973",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-09-09T09:51:23Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Medicine shortages grow in Iran as US tightens sanctions, blockade",
+      "url": "https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-09T07:14:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea builds new Yongbyon uranium enrichment facility: IAEA",
+      "url": "https://www.thehindubusinessline.com/news/world/north-korea-builds-new-yongbyon-uranium-enrichment-facility-iaea/article71445910.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-09T07:02:56Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran is forging a new ring of proxies to threaten US allies in the Gulf, officials say",
+      "url": "https://abcnews.com/Business/wireStory/iran-forging-new-ring-proxies-threaten-us-allies-136292836",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-09T06:19:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Qatari Official Says U.S. Military Presence Alone Is Insufficient for Gulf Security",
+      "url": "https://www.naturalnews.com/2026-09-09-official-us-military-presence-insufficient-gulf-security.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-09T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel’s war leaves Lebanon’s schools balancing students and the displaced",
+      "url": "https://www.aljazeera.com/features/2026/9/9/israels-war-leaves-lebanons-schools-balancing-students-and-the-displaced",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-09T05:36:11Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran-backed fighters in Yemen and Iraq are joining forces to threaten Gulf, officials say",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-backed-fighters-in-yemen-and-iraq-are-joining-forces-to-threaten-gulf-officials-say/articleshow/133954099.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-09T05:21:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Poland is the Strategic Fulcrum",
+      "url": "https://www.americanthinker.com/articles/2026/09/poland-is-the-strategic-fulcrum/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-09-09T04:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "US hits Iranian tankers as Tehran attacks American bases",
       "url": "https://www.rte.ie/news/middle-east/2026/0909/1590828-middle-east-iran/",
@@ -67,6 +163,14 @@
       "_label": "Ukraine"
     },
     {
+      "title": "Crude Oil Prices Rise as Global Supplies Tighten",
+      "url": "https://www.barchart.com/story/news/4497158/crude-oil-prices-rise-as-global-supplies-tighten",
+      "source": "Barchart.com",
+      "publishedAt": "2026-09-08T19:13:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
       "title": "Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts",
       "url": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts",
       "source": "Al Jazeera English",
@@ -87,16 +191,8 @@
       "url": "https://www.nakedcapitalism.com/2026/09/coffee-break-armed-madhouse-mossad-the-cia-and-the-cult-of-black-ops.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-09-08T18:00:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Allies’ Concrete Action on Settlements Welcome and Necessary",
-      "url": "https://www.commondreams.org/newswire/allies-concrete-action-on-settlements-welcome-and-necessary",
-      "source": "Common Dreams",
-      "publishedAt": "2026-09-08T17:35:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israeli forces escalate operations in Lebanon’s Nabatieh, nearly 30 dead",
@@ -107,14 +203,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Amnesty Says US-Israeli Attacks With Indiscriminate Weapons in Tehran May Have Been War Crimes",
-      "url": "https://www.commondreams.org/news/us-and-israel-war-crimes",
-      "source": "Common Dreams",
-      "publishedAt": "2026-09-08T16:01:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Russia says Putin, Trump had ‘frank’ call after US envoys visit",
       "url": "https://www.vanguardngr.com/2026/09/russia-says-putin-trump-had-frank-call-after-us-envoys-visit/",
       "source": "Vanguard",
@@ -123,20 +211,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Dozens injured as Yemen's Houthis launch strikes on Saudi oil facilities",
-      "url": "https://www.abc.net.au/news/2026-09-09/yemen-houthis-attack-four-cities-in-saudi-arabia/107131124",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-08T15:31:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Middle East Hostilities Underpin Crude Oil Prices",
       "url": "https://www.barchart.com/story/news/4493285/middle-east-hostilities-underpin-crude-oil-prices",
       "source": "Barchart.com",
       "publishedAt": "2026-09-08T15:29:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Russia and North Korea open first road bridge across their borders—marking a ‘significant event’ in ‘expansion of transport infrastructure’",
@@ -161,22 +241,6 @@
       "publishedAt": "2026-09-08T13:28:52Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "South Korea Should Help Defend Ukraine’s Skies",
-      "url": "http://foreignpolicy.com/2026/09/08/russia-ukraine-war-south-korea-air-defense-interceptors/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-08T13:15:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran-backed Houthis attack Saudi cities, over 70 injured",
-      "url": "https://www.rte.ie/news/middle-east/2026/0908/1590748-houthis-attack-saudi-cities-/",
-      "source": "RTE",
-      "publishedAt": "2026-09-08T12:11:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "UN chief demands Israeli withdrawal from Lebanon amid Nabatieh escalation",
@@ -239,22 +303,6 @@
       "url": "https://www.rte.ie/news/middle-east/2026/0908/1590678-middle-east-iran/",
       "source": "RTE",
       "publishedAt": "2026-09-08T03:27:59Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles/article71441119.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-09-08T03:21:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
-      "url": "https://uk.news.yahoo.com/iran-says-plans-gulf-exclusion-015214347.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-08T01:52:14Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-09T20:26:16Z",
-  "count": 38,
+  "updated": "2026-09-10T03:10:12Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "US hits Iranian tankers as Tehran attacks American bases",
+      "url": "https://www.rte.ie/news/middle-east/2026/0909/1590828-middle-east-iran/",
+      "source": "RTE",
+      "publishedAt": "2026-09-09T02:36:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Berlin slams Kiev for not spending aid cash on German guns",
+      "url": "https://www.rt.com/news/645298-kiev-not-buying-german-weapons/",
+      "source": "RT",
+      "publishedAt": "2026-09-09T01:42:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran and Ukraine are the last conflicts of the Cold War — and their end could spur an open future for the world",
+      "url": "https://nypost.com/2026/09/08/opinion/iran-and-ukraine-are-the-last-conflicts-of-the-cold-war-and-their-end-could-spur-an-open-future-for-the-world/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-09T01:32:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US destroys five Iranian tankers, Iran retaliates with attacks on Jordan",
+      "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-09T00:08:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A New Cold War for a Dying World Order",
+      "url": "https://original.antiwar.com/james-carden/2026/09/08/a-new-cold-war-for-a-dying-world-order/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-09-09T00:00:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Mecca Agreement: A New Strategic Triangle in the Middle East",
+      "url": "https://www.hoover.org/research/mecca-agreement-new-strategic-triangle-middle-east",
+      "source": "Hoover.org",
+      "publishedAt": "2026-09-09T00:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Mike Huckabee says Trump bombing, bankrupting Iran to protect US",
+      "url": "https://nypost.com/2026/09/08/world-news/mike-huckabee-says-trump-bombing-bankrupting-iran-to-protect-us/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-08T21:36:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US Army drilled by senators over ‘deep concerns’ surrounding shutdown of cutting-edge drone battalion — and the wars in Ukraine and Iran show that ‘back to basics’ might not be a smart move",
       "url": "https://www.techradar.com/pro/us-army-drilled-by-senators-over-deep-concerns-surrounding-shutdown-of-cutting-edge-drone-battalion-and-the-wars-in-ukraine-and-iran-show-that-back-to-basics-might-not-be-a-smart-move",
@@ -75,6 +131,14 @@
       "_label": "Iran War"
     },
     {
+      "title": "Middle East Hostilities Underpin Crude Oil Prices",
+      "url": "https://www.barchart.com/story/news/4493285/middle-east-hostilities-underpin-crude-oil-prices",
+      "source": "Barchart.com",
+      "publishedAt": "2026-09-08T15:29:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
       "title": "Russia and North Korea open first road bridge across their borders—marking a ‘significant event’ in ‘expansion of transport infrastructure’",
       "url": "https://fortune.com/2026/09/08/russia-north-korea-border-road-bridge-transport/",
       "source": "Fortune",
@@ -115,52 +179,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "US rebuilding weapons stockpile could delay orders from allies",
-      "url": "https://www.foxnews.com/politics/us-rebuilding-weapons-stockpile-could-delay-orders-allies",
-      "source": "Fox News",
-      "publishedAt": "2026-09-08T12:04:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Remarks by Under Secretary of War for Policy Elbridge Colby at the Ukraine Defense Contact Group (As Delivered via Video Teleconference)",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260908-dod01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-08T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "UN chief demands Israeli withdrawal from Lebanon amid Nabatieh escalation",
       "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260908-unnews02.htm",
       "source": "Globalsecurity.org",
       "publishedAt": "2026-09-08T12:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Tuesday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/09/08/tuesday-hili-dialogue-596/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-09-08T11:45:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Three attacks in Tehran could 'amount to war crimes', report finds",
-      "url": "https://www.abc.net.au/news/2026-09-08/amnesty-international-demands-iran-strikes-probe/107127968",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-08T11:00:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran War: Iran Working to Speed Retaliation Tempo as It Fires on Tankers, at US Warships and Ansar Allah Escalates Against Saudi Oil Facilities; Brent Flirts With $100 as Trump Hand Waves",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-iran-working-to-speed-retaliation-tempo-as-it-fires-on-tankers-at-us-warships-and-ansar-allah-escalates-against-saudi-oil-facilities-brent-flirts-with-100-as-trump-hand-waves.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-08T10:57:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Israeli strikes kill dozens of civilians in Lebanon (VIDEO)",
@@ -177,22 +201,6 @@
       "publishedAt": "2026-09-08T10:00:52Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "The World’s Only Real Hope of Maintaining Order",
-      "url": "http://foreignpolicy.com/2026/09/08/charles-kupchan-global-order-international-organizations-concert-system/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-08T10:00:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Baltic countries ‘staring Russian bear in the face’",
-      "url": "https://www.irishtimes.com/world/europe/2026/09/08/baltic-countries-staring-russian-bear-in-the-face/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-09-08T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Kim Jong Un unveils North Korea's new navy destroyer equipped with nuclear-capable missiles",
@@ -249,62 +257,6 @@
       "publishedAt": "2026-09-08T01:52:14Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Pink calls out Macklemore over pro-Palestine stunt at concert as rapper breaks silence amid calls for him to be axed from Ed Sheeran's tour",
-      "url": "https://www.dailymail.com/tvshowbiz/article-16112869/Pink-Macklemore-pro-Palestine-concert-breaks-silence.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-08T00:37:17Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "This horrific pattern shows who is truly in charge of the White House",
-      "url": "https://www.rawstory.com/raw-investigates/putin-trump/",
-      "source": "Raw Story",
-      "publishedAt": "2026-09-07T12:30:17Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim Jong-un Announces Deployment of Most Powerful Strategic Assets in Key Waters",
-      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260907-sputnik03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-07T12:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "As US Plays War Games, North Korea Flexes Its Muscle",
-      "url": "https://www.newser.com/story/396004/as-us-plays-war-games-north-korea-flexes-its-muscle.html",
-      "source": "Newser",
-      "publishedAt": "2026-09-07T10:01:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "China Expands Patrols of Taiwan’s Pacific Coast, Raising Maritime Tensions",
-      "url": "https://gcaptain.com/china-expands-patrols-of-taiwans-pacific-coast-raising-maritime-tensions/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-09-07T09:44:26Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "North Korea adds its 2nd naval destroyer as US, South Korea and Japan hold military exercise - AP News",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185486834",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-09-07T08:52:40Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea commissions second 5,000-ton destroyer equipped with nuclear-capable missiles",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-commissions-second-5000-ton-destroyer-equipped-with-nuclear-capable-missiles/articleshow/133872315.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-07T08:48:08Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

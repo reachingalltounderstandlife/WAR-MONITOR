@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-10T20:26:13Z",
-  "count": 40,
+  "updated": "2026-09-11T03:05:48Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-oil-prices-that-spiked-because-of-iran-war-likely-wont-come-down-until-after-midterms/articleshow/133989087.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-10T01:06:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Drone nearly strikes Zelenskyy’s plane before takeoff for Norwegian king’s funeral, PM says",
+      "url": "https://www.foxnews.com/world/drone-nearly-strikes-zelenskyy-plane-takeoff-norwegian-king-funeral-pm-says",
+      "source": "Fox News",
+      "publishedAt": "2026-09-10T00:51:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘Jupiter’ Review: A Claustrophobic Study of a Nuclear-Escalation Nightmare That Feels Too Small for the Big Screen",
+      "url": "https://variety.com/2026/film/reviews/jupiter-review-1236847030/",
+      "source": "Variety",
+      "publishedAt": "2026-09-09T22:46:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
+      "url": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-09T21:09:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "IAEA refers Iran to UN security council over nuclear non-compliance",
       "url": "https://punchng.com/iaea-refers-iran-to-un-security-council-over-nuclear-non-compliance/",
@@ -115,22 +147,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "After 9/11, the 'War on Terror' Was a War of Terror",
-      "url": "https://www.commondreams.org/opinion/how-war-on-terror-became-war-of-terror",
-      "source": "Common Dreams",
-      "publishedAt": "2026-09-09T14:18:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Shipping Nations Warn Global Trade Is Fracturing — And Everyone Pays",
-      "url": "https://gcaptain.com/shipping-nations-warn-global-trade-is-fracturing-and-everyone-pays/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-09-09T12:10:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea builds second uranium enrichment facility at Yongbyon, IAEA warns",
       "url": "https://cryptobriefing.com/north-korea-second-uranium-enrichment-facility-yongbyon-iaea/",
       "source": "Crypto Briefing",
@@ -201,126 +217,6 @@
       "publishedAt": "2026-09-09T01:32:16Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "A New Cold War for a Dying World Order",
-      "url": "https://original.antiwar.com/james-carden/2026/09/08/a-new-cold-war-for-a-dying-world-order/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-09-09T00:00:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US Army drilled by senators over ‘deep concerns’ surrounding shutdown of cutting-edge drone battalion — and the wars in Ukraine and Iran show that ‘back to basics’ might not be a smart move",
-      "url": "https://www.techradar.com/pro/us-army-drilled-by-senators-over-deep-concerns-surrounding-shutdown-of-cutting-edge-drone-battalion-and-the-wars-in-ukraine-and-iran-show-that-back-to-basics-might-not-be-a-smart-move",
-      "source": "TechRadar",
-      "publishedAt": "2026-09-08T19:25:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Crude Oil Prices Rise as Global Supplies Tighten",
-      "url": "https://www.barchart.com/story/news/4497158/crude-oil-prices-rise-as-global-supplies-tighten",
-      "source": "Barchart.com",
-      "publishedAt": "2026-09-08T19:13:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Coffee Break: Armed Madhouse – Mossad, the CIA, and the Cult of Black Ops",
-      "url": "https://www.nakedcapitalism.com/2026/09/coffee-break-armed-madhouse-mossad-the-cia-and-the-cult-of-black-ops.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-08T18:00:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli forces escalate operations in Lebanon’s Nabatieh, nearly 30 dead",
-      "url": "https://cryptobriefing.com/israeli-forces-escalate-operations-in-lebanons-nabatieh-nearly-30-dead/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-08T17:32:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Middle East Hostilities Underpin Crude Oil Prices",
-      "url": "https://www.barchart.com/story/news/4493285/middle-east-hostilities-underpin-crude-oil-prices",
-      "source": "Barchart.com",
-      "publishedAt": "2026-09-08T15:29:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Russia and North Korea open first road bridge across their borders—marking a ‘significant event’ in ‘expansion of transport infrastructure’",
-      "url": "https://fortune.com/2026/09/08/russia-north-korea-border-road-bridge-transport/",
-      "source": "Fortune",
-      "publishedAt": "2026-09-08T15:13:37Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "UN chief demands Israeli withdrawal from Lebanon amid Nabatieh escalation",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260908-unnews02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-08T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli strikes kill dozens of civilians in Lebanon (VIDEO)",
-      "url": "https://www.rt.com/news/645241-lebanon-israel-strikes-civilians/",
-      "source": "RT",
-      "publishedAt": "2026-09-08T10:44:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "How South Korea finds itself trapped in the US-Iran war",
-      "url": "https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-08T10:00:52Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim Jong Un unveils North Korea's new navy destroyer equipped with nuclear-capable missiles",
-      "url": "https://www.dailymail.com/news/article-16113565/Kim-Jong-unveils-North-Korea-new-navy-destroyer-nuclear-missiles.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-08T09:36:04Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim Jong Un is threatening US, Japan and South Korea with its most advanced warship, a 5000-ton nuclear missile carrying destroyers; second warship commissioned as rivals launch drills",
-      "url": "https://economictimes.indiatimes.com/news/international/canada/kim-jong-un-is-threatening-us-japan-and-south-korea-with-its-most-advanced-warship-a-5000-ton-nuclear-missile-carrying-destroyers-second-warship-commissioned-as-rivals-launch-drills/articleshow/133916461.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-08T08:31:18Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
-      "url": "https://abcnews.com/International/wireStory/israeli-airstrikes-village-southern-lebanon-kill-12-people-136249459",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-08T06:34:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump not happy with South Korea",
-      "url": "https://www.irishtimes.com/world/2026/09/08/south-korea-has-not-deployed-forces-in-the-us-iran-war-and-trumps-not-happy/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-09-08T05:35:10Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iran says it fired advanced missile at US warships",
-      "url": "https://www.rte.ie/news/middle-east/2026/0908/1590678-middle-east-iran/",
-      "source": "RTE",
-      "publishedAt": "2026-09-08T03:27:59Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

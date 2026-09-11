@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-11T03:05:48Z",
-  "count": 27,
+  "updated": "2026-09-11T10:38:19Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "From Russia With Expertise: Iranian Students Return Home With Potentially Deadly Knowledge Of Drones, AI, And More",
+      "url": "https://www.rferl.org/a/russia-iran-dual-use-military-students-research/33850183.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-09-10T10:30:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: Pakistan and Turkiye Saber Rattle at Iran Over Ansar Allah Attacks on Saudis; Oil at $101 a Barrel Even as Flows Out of Persian Gulf Increase Despite Iran’s More Aggressive Footing",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-pakistan-and-turkiye-saber-rattle-at-iran-over-ansar-allah-attacks-on-saudis-oil-at-101-a-barrel-even-as-flows-out-of-persian-gulf-increase-despite-irans-more-aggressive-footing.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-10T09:15:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Says Ready for Escalation after Trump Warning",
+      "url": "https://www.rigzone.com/news/wire/iran_says_ready_for_escalation_after_trump_warning-10-sep-2026-184580-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-09-10T08:28:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO aircraft deployed in Poland as Russian jet-powered drones strike Ukraine",
+      "url": "https://abcnews.com/International/nato-aircraft-deployed-poland-russian-jet-powered-drones/story?id=136327662",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-10T08:27:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.K. Shifts Policy on Occupied Palestine. Netanyahu Strikes Back",
+      "url": "https://www.globalresearch.ca/britain-shifts-policy-occupied-palestine/5939890",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-10T08:04:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war to end after US midterm elections in November, Donald Trump claims",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/09/10/iran-war-to-end-after-us-midterm-elections-in-november-donald-trump-claims/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-09-10T07:00:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Iran war to end after US midterm elections, threatens to attack Pickaxe Mountain",
+      "url": "https://uk.news.yahoo.com/trump-says-iran-war-end-061251129.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-10T06:17:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Burns Another Proxy: Houthis Nearing Panic After Tehran-Ordered Offensive Fails",
+      "url": "https://freerepublic.com/focus/f-news/4394923/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-09-10T04:14:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "This small island off Yemen is now a strategic prize in the widening Iran war | CNN",
+      "url": "https://www.cnn.com/2026/09/10/middleeast/yemen-perim-houthis-saudi-iran-war-intl",
+      "source": "CNN",
+      "publishedAt": "2026-09-10T04:01:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran: Ongoing Unlawful Execution Campaign Against Protesters",
+      "url": "https://www.hrw.org/news/2026/09/10/iran-ongoing-unlawful-execution-campaign-against-protesters",
+      "source": "Human Rights Watch",
+      "publishedAt": "2026-09-10T04:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Conventional logics, nuclear fears",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4739-1.html",
+      "source": "Rand.org",
+      "publishedAt": "2026-09-10T04:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
     {
       "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-oil-prices-that-spiked-because-of-iran-war-likely-wont-come-down-until-after-midterms/articleshow/133989087.cms",
@@ -27,22 +115,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump says Iran war ‘will end immediately’ after US midterm elections",
-      "url": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-09T21:09:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "IAEA refers Iran to UN security council over nuclear non-compliance",
-      "url": "https://punchng.com/iaea-refers-iran-to-un-security-council-over-nuclear-non-compliance/",
-      "source": "The Punch",
-      "publishedAt": "2026-09-09T20:05:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "What Russia’s military elite is preparing for behind closed doors",
       "url": "https://www.rt.com/russia/645360-inside-russias-military-thinking-2026/",
       "source": "RT",
@@ -59,36 +131,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "The “War on Terror” Was a War of Terror",
-      "url": "https://normansolomon.com/real-history-after-9-11-the-war-on-terror-was-a-war-of-terror/#more-1221",
-      "source": "Normansolomon.com",
-      "publishedAt": "2026-09-09T19:25:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "A China-Taiwan War Could Bring The Global Economy To Its Knees, Top Diplomat Warns",
       "url": "https://dailycaller.com/2026/09/09/china-taiwan-war-global-economy-top-diplomat-raymond-greene-warning",
       "source": "The Daily Caller",
       "publishedAt": "2026-09-09T19:20:33Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "IAEA sends Iran nuclear case to UN Security Council after 20 years",
-      "url": "https://www.israelnationalnews.com/news/432970",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-09T18:31:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Strait Of Hormuz Gridlock: Oil Surges Past $100 As U.S. Tanker Strikes And Iran Missile Retaliation Trigger Global Panic",
-      "url": "http://theeconomiccollapseblog.com/strait-of-hormuz-gridlock-oil-surges-past-100-as-u-s-tanker-strikes-and-iran-missile-retaliation-trigger-global-panic/",
-      "source": "Theeconomiccollapseblog.com",
-      "publishedAt": "2026-09-09T18:03:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Why Germany Isn’t Punishing Russia Harder",
@@ -99,14 +147,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Coffee Break: Hegseth, Altman and Zuckerberg, Elite Impunity Run Amock",
-      "url": "https://www.nakedcapitalism.com/2026/09/pete-hegseth-mark-zuckerberg-sam-altman-iran-war-meta-openai-trial.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-09T18:00:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump's envoys treat war zones like real estate deals — and it's backfiring: analyst",
       "url": "https://www.rawstory.com/steve-witkoff-jared-kushner/",
       "source": "Raw Story",
@@ -115,36 +155,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran Ready for More Intense War and Won’t Relent, Official Says",
-      "url": "https://finance.yahoo.com/economy/articles/iran-ready-more-intense-war-160851862.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-09T16:08:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Global Research Daily: The News Behind the News",
       "url": "https://www.globalresearch.ca/global-research-daily-news-behind-news-13-35/5939716",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-09-09T15:26:40Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "What Mohamed Atta Was Trying to Tell Us - After 25 years, it is time for the West to face the true cause of 9/11",
-      "url": "https://freerepublic.com/focus/f-chat/4394819/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-09-09T14:21:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What is Jordan’s Al-Azraq base and why is Iran targeting it?",
-      "url": "https://www.aljazeera.com/news/2026/9/9/what-is-jordans-al-azraq-base-and-why-is-iran-targeting-it",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-09T14:19:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea builds second uranium enrichment facility at Yongbyon, IAEA warns",
@@ -207,14 +223,6 @@
       "url": "https://www.rt.com/news/645298-kiev-not-buying-german-weapons/",
       "source": "RT",
       "publishedAt": "2026-09-09T01:42:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran and Ukraine are the last conflicts of the Cold War — and their end could spur an open future for the world",
-      "url": "https://nypost.com/2026/09/08/opinion/iran-and-ukraine-are-the-last-conflicts-of-the-cold-war-and-their-end-could-spur-an-open-future-for-the-world/",
-      "source": "New York Post",
-      "publishedAt": "2026-09-09T01:32:16Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

@@ -1,7 +1,127 @@
 {
-  "updated": "2026-09-12T03:12:24Z",
-  "count": 29,
+  "updated": "2026-09-12T10:07:32Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "Iran War: Ansar Allah Takes Mocha and the Bab el-Mandeb Islands, Putting Both Chokepoints in Play; Trump Says the War Ends After the Midterms While Vance and Rubio Tell Him January 2029",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-ansar-allah-mocha-trump-vance-diesel-rubio.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-11T10:00:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Osama Bin Laden Won",
+      "url": "https://theintercept.com/2026/09/11/bin-laden-september-11-trump-america/",
+      "source": "The Intercept",
+      "publishedAt": "2026-09-11T10:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The U.S. Was Never Going to Win the “War on Terror”",
+      "url": "https://www.newyorker.com/news/the-lede/the-us-was-never-going-to-win-the-war-on-terror",
+      "source": "The New Yorker",
+      "publishedAt": "2026-09-11T10:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The U.S. Was Never Going to Win the “War on Terror”",
+      "url": "https://www.newyorker.com/news/a-reporter-at-large/the-us-was-never-going-to-win-the-war-on-terror",
+      "source": "The New Yorker",
+      "publishedAt": "2026-09-11T10:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A Quarter Century of Panic",
+      "url": "https://www.theatlantic.com/ideas/2026/09/anniversary-war-on-terror/688571/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-09-11T10:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Gulf States Mull Hormuz Talks with Iran",
+      "url": "https://www.rigzone.com/news/wire/gulf_states_mull_hormuz_talks_with_iran-11-sep-2026-184591-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-09-11T08:26:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Magyar vs. Moscow: Hungary's new tough stance toward Russia",
+      "url": "https://www.dw.com/en/magyar-vs-moscow-hungarys-new-tough-stance-toward-russia/a-79223424",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-11T08:20:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Magyar vs. Moscow: Hungary toughens stance toward Russia",
+      "url": "https://www.dw.com/en/magyar-vs-moscow-hungary-toughens-stance-toward-russia/a-79223424",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-11T08:20:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran’s Pezeshkian opposes war continuation, calls for resilience amid tensions",
+      "url": "https://cryptobriefing.com/irans-pezeshkian-opposes-war-continuation-calls-for-resilience-amid-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-11T07:59:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Visible crises, invisible people",
+      "url": "https://www.thenewhumanitarian.org/opinion/2026/09/11/visible-crises-invisible-people",
+      "source": "The New Humanitarian",
+      "publishedAt": "2026-09-11T07:46:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What to know about Sunday's election in Sweden, NATO's newest member",
+      "url": "https://abcnews.com/International/wireStory/sundays-election-sweden-natos-newest-member-136357765",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-11T06:34:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pakistan Warns Yemeni Strikes on Saudi Arabia Could Trigger Mecca Defense Pact",
+      "url": "https://www.naturalnews.com/2026-09-11-yemeni-strikes-could-trigger-mecca-defense-pact.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-11T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Norwegian PM: Drone Narrowly Missed Zelensky’s Aircraft En Route To Oslo",
+      "url": "https://www.naturalnews.com/2026-09-11-norwegian-pm-drone-narrowly-misses-zelensky-aircraft.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-11T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Kremlin Tries A New Weapon For Its War: The Relics Of a 14th-Century Saint",
+      "url": "https://www.rferl.org/a/russia-orthodox-putin-dmitry-donskoi-sacred-relics/33851764.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-09-11T05:33:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Costly war far from over even as US loosens Iran's grip on Strait of Hormuz",
+      "url": "https://economictimes.indiatimes.com/news/defence/costly-war-far-from-over-even-as-us-loosens-irans-grip-on-strait-of-hormuz/articleshow/134045453.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-11T04:37:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Real History: After 9/11, the ‘War on Terror’ Was a War of Terror",
       "url": "https://original.antiwar.com/solomon/2026/09/10/real-history-after-9-11-the-war-on-terror-was-a-war-of-terror/",
@@ -63,8 +183,8 @@
       "url": "https://www.globalresearch.ca/september-11-2001-2026-twenty-five-years-no-way-out/5940058",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-09-10T17:32:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Ukraine’s Drone Campaign Is a Roadmap for the US",
@@ -75,50 +195,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump’s Iran war now has a midterm election problem",
-      "url": "https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-10T16:43:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran resumes ballistic missile production, reports WSJ",
-      "url": "https://cryptobriefing.com/iran-resumes-ballistic-missile-production/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-10T16:40:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Houthis take Yemeni port city, threaten Saudi oil exports",
-      "url": "https://www.rte.ie/news/2026/0910/1591087-iran-houthis-mideast/",
-      "source": "RTE",
-      "publishedAt": "2026-09-10T16:29:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Canada agrees air defence package for Ukraine - Zelensky",
       "url": "https://www.rte.ie/news/ukraine/2026/0910/1591083-ukraine-russia-war/",
       "source": "RTE",
       "publishedAt": "2026-09-10T16:04:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Houthis seize strategic Red Sea port near key shipping route – media",
-      "url": "https://www.rt.com/news/645399-yemen-houthis-port-city/",
-      "source": "RT",
-      "publishedAt": "2026-09-10T15:24:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What Russia Is Really Up To in Europe",
-      "url": "https://www.theatlantic.com/international/2026/09/putin-russia-europe-trump-war/688565/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-09-10T15:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -131,38 +211,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Pakistan killed Palestinians for Jordan. Will it kill Houthis for Saudi?",
-      "url": "https://economictimes.indiatimes.com/news/defence/pakistan-killed-palestinians-for-jordan-will-it-kill-houthis-for-saudi/articleshow/134015198.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-10T14:37:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "IAEA confirms signs of activity at Iran’s Pickaxe Mountain nuclear site",
-      "url": "https://www.israelnationalnews.com/news/433019",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-10T14:31:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Germany sets its sights on Russia's shadow fleet",
-      "url": "https://www.dw.com/en/germany-sets-its-sights-on-russias-shadow-fleet/a-79211123",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-10T14:31:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Drone almost struck Zelenskiy’s plane, says Ukraine",
-      "url": "https://www.irishtimes.com/world/europe/2026/09/10/drone-almost-struck-zelenskiys-plane-says-ukraine/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-09-10T13:22:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The Political Cost of Sending Korean Forces to Hormuz",
       "url": "http://foreignpolicy.com/2026/09/10/south-korea-trump-iran-hormuz-alliance/",
       "source": "Foreign Policy",
@@ -171,44 +219,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "China’s Economic Crossroads: Growth, Inequality and Geopolitical Pressures",
-      "url": "https://www.fairobserver.com/economics/chinas-economic-crossroads-growth-inequality-and-geopolitical-pressures/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-09-10T13:09:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump’s Arctic Threats: Why Canada and Europe Need Functional Trans-Arctic Cooperation With Russia",
-      "url": "https://www.globalresearch.ca/trump-arctic-threats-canada-europe-need-cooperation-russia/5939904",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-10T12:29:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "In 1981, a Canadian Oberon-class submarine and worth about $80 million slipped past an entire US Navy carrier group and ‘sank’ one of the most capable American aircraft carriers in a NATO war game",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/in-1981-a-canadian-oberon-class-submarine-and-worth-about-80-million-slipped-past-an-entire-us-navy-carrier-group-and-sank-one-of-the-most-capable-american-aircraft-carriers-in-a-nato-war-game/articleshow/134006289.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-10T11:22:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "IAEA accuses Iran of ‘non-compliance’: Why, and what now?",
       "url": "https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now",
       "source": "Al Jazeera English",
       "publishedAt": "2026-09-10T10:59:39Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "NATO aircraft deployed in Poland as Russian jet-powered drones strike Ukraine",
-      "url": "https://abcnews.com/International/nato-aircraft-deployed-poland-russian-jet-powered-drones/story?id=136327662",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-10T08:27:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran Burns Another Proxy: Houthis Nearing Panic After Tehran-Ordered Offensive Fails",

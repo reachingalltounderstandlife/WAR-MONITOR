@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-12T15:00:23Z",
-  "count": 34,
+  "updated": "2026-09-12T20:11:46Z",
+  "count": 36,
   "articles": [
+    {
+      "title": "Gulf states weigh rare meeting with Iran next week on Hormuz",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/gulf-states-weigh-rare-meeting-with-iran-next-week-on-hormuz/articleshow/134087249.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-11T19:25:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
+      "url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-11T18:33:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Now recruiting: North Korea looks abroad for talent in its scheme to infiltrate U.S. companies",
+      "url": "https://www.nbcnews.com/tech/security/north-korea-worker-scheme-recruits-abroad-rcna596873",
+      "source": "NBC News",
+      "publishedAt": "2026-09-11T17:18:07Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "25 Years Later, We Still Live in the World the War on Terror Made",
+      "url": "https://truthout.org/articles/25-years-later-we-still-live-in-the-world-the-war-on-terror-made/",
+      "source": "Truthout",
+      "publishedAt": "2026-09-11T17:10:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Key Russian ally mulls military mobilization",
+      "url": "https://www.rt.com/russia/645489-belarus-military-mobilization-lukashenko/",
+      "source": "RT",
+      "publishedAt": "2026-09-11T16:55:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Democrats are in a ‘death match’ with the Left over Israel. How will it impact the midterms?",
+      "url": "https://mondoweiss.net/2026/09/democrats-are-in-a-death-match-with-the-left-over-israel-how-will-it-impact-the-midterms/",
+      "source": "Mondoweiss",
+      "publishedAt": "2026-09-11T16:31:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran president says pressure on country at critical, dangerous stage",
+      "url": "https://punchng.com/iran-president-says-pressure-on-country-at-critical-dangerous-stage/",
+      "source": "The Punch",
+      "publishedAt": "2026-09-11T15:36:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Saudi crown prince sought US military help from Trump with Houthis, sources say",
+      "url": "https://economictimes.indiatimes.com/news/defence/saudi-crown-prince-sought-us-military-help-from-trump-with-houthis-sources-say/articleshow/134075444.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-11T15:16:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How 9/11 turned a terrorist attack into a generation of war",
+      "url": "https://www.rt.com/news/645405-911-terrorist-attack-blowback/",
+      "source": "RT",
+      "publishedAt": "2026-09-11T15:12:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Can the Houthis close the Red Sea after seizing the Yemen coast?",
       "url": "https://www.aljazeera.com/news/2026/9/11/can-the-houthis-close-the-red-sea-after-seizing-the-yemen-coast",
@@ -107,44 +179,20 @@
       "_label": "Ukraine"
     },
     {
-      "title": "President Trump Is Bold, Brave, and Right on the Iran War",
-      "url": "https://reason.com/volokh/2026/09/11/president-trump-is-bold-brave-and-right-on-the-iran-war/",
-      "source": "Reason",
-      "publishedAt": "2026-09-11T12:01:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel says it has destroyed major underground Hezbollah base",
       "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo",
       "source": "BBC News",
       "publishedAt": "2026-09-11T11:34:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "9/11 Began a US Reign of Terror in the Middle East—Now It's Come Home",
       "url": "https://www.commondreams.org/opinion/9-11-began-us-terror",
       "source": "Common Dreams",
       "publishedAt": "2026-09-11T10:56:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Transcript: As Trump Unravels, Even Fox Cringes at His $5,000 Giveaway",
-      "url": "https://newrepublic.com/article/215313/transcript-trump-unravels-even-fox-cringes-5000-giveaway",
-      "source": "The New Republic",
-      "publishedAt": "2026-09-11T10:54:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan",
-      "url": "https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-11T10:41:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
@@ -155,44 +203,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Iran War: Ansar Allah Takes Mocha and the Bab el-Mandeb Islands, Putting Both Chokepoints in Play; Trump Says the War Ends After the Midterms While Vance and Rubio Tell Him January 2029",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-ansar-allah-mocha-trump-vance-diesel-rubio.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-11T10:00:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Osama Bin Laden Won",
-      "url": "https://theintercept.com/2026/09/11/bin-laden-september-11-trump-america/",
-      "source": "The Intercept",
-      "publishedAt": "2026-09-11T10:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "A Quarter Century of Panic",
       "url": "https://www.theatlantic.com/ideas/2026/09/anniversary-war-on-terror/688571/",
       "source": "The Atlantic",
       "publishedAt": "2026-09-11T10:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Gulf States Mull Hormuz Talks with Iran",
-      "url": "https://www.rigzone.com/news/wire/gulf_states_mull_hormuz_talks_with_iran-11-sep-2026-184591-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-09-11T08:26:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s Pezeshkian opposes war continuation, calls for resilience amid tensions",
-      "url": "https://cryptobriefing.com/irans-pezeshkian-opposes-war-continuation-calls-for-resilience-amid-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-11T07:59:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",

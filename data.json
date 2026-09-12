@@ -1,7 +1,159 @@
 {
-  "updated": "2026-09-12T10:07:32Z",
-  "count": 31,
+  "updated": "2026-09-12T15:00:23Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "Can the Houthis close the Red Sea after seizing the Yemen coast?",
+      "url": "https://www.aljazeera.com/news/2026/9/11/can-the-houthis-close-the-red-sea-after-seizing-the-yemen-coast",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-11T14:47:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "SCO Summit Produces Surprising Winners",
+      "url": "https://thediplomat.com/2026/09/sco-summit-produces-surprising-winners/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-09-11T14:43:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US abused post-9/11 global solidarity – Lavrov",
+      "url": "https://www.rt.com/russia/645497-us-abused-post-911-global-solidarity/",
+      "source": "RT",
+      "publishedAt": "2026-09-11T14:37:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UK condemns “settler terrorists”, Sudan’s chemical weapons exposed, and Yemen’s war escalates: The Cheat Sheet",
+      "url": "https://www.thenewhumanitarian.org/news/2026/09/11/uk-condemns-settler-terrorists-sudan-chemical-weapons-yemen-war-cheat-sheet",
+      "source": "The New Humanitarian",
+      "publishedAt": "2026-09-11T14:23:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "25 years after 9/11, spy agencies face old lessons and new threats",
+      "url": "https://www.nextgov.com/cybersecurity/2026/09/25-years-after-911-spy-agencies-face-old-lessons-and-new-threats/415935/",
+      "source": "Nextgov",
+      "publishedAt": "2026-09-11T14:22:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Faustian Bargain: Why Germany’s Political Establishment Is Panicking",
+      "url": "https://www.fairobserver.com/politics/the-faustian-bargain-why-germanys-political-establishment-is-panicking/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-09-11T13:55:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What Role Does Denuclearization Have in North Korea-US Dialogue Today?",
+      "url": "https://thediplomat.com/2026/09/what-role-does-denuclearization-have-in-north-korea-us-dialogue-today/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-09-11T13:50:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Russia warns Lithuania will be 'in the crosshairs of our nuclear weapons' if it hosts Nato nukes in new WW3 threat",
+      "url": "https://www.dailymail.com/news/article-16123609/Russia-warns-Lithuania-crosshairs-nuclear-weapons-hosts-Nato-nukes-new-WW3-threat.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-11T13:21:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What Houthi Gains In Yemen Mean For The Iran War",
+      "url": "https://www.rferl.org/a/iran-war-houthis-advance-us-bab-mandab/33852386.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-09-11T13:16:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Dubai International Airport Open Today: Flights Operating Despite Delays as Mideast Tensions Persist",
+      "url": "https://www.ibtimes.com.au/dubai-airport-operating-amid-gulf-flight-disruptions-1875398",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-09-11T13:13:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Poland warns Russia likely to intensify provocations against European countries",
+      "url": "https://abcnews.com/International/wireStory/poland-warns-russia-intensify-provocations-ukraines-borders-european-136362040",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-11T12:42:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Europe Struggles to Counter Russian Attacks Falling Short of War",
+      "url": "https://www.insurancejournal.com/news/international/2026/09/11/884758.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-09-11T12:30:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin's undersea threat to Britain: UK is 'woefully' short of ways to stop cable attacks that could spark chaos, experts warn after Moscow's 'secret weapon' sabotage plot is foiled",
+      "url": "https://www.dailymail.com/news/article-16122903/Putins-undersea-threat-Britain-UK-woefully-short-ways-stop-cable-attacks-spark-chaos-experts-warn-Moscows-secret-weapon-sabotage-plot-foiled.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-11T12:21:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "President Trump Is Bold, Brave, and Right on the Iran War",
+      "url": "https://reason.com/volokh/2026/09/11/president-trump-is-bold-brave-and-right-on-the-iran-war/",
+      "source": "Reason",
+      "publishedAt": "2026-09-11T12:01:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo",
+      "source": "BBC News",
+      "publishedAt": "2026-09-11T11:34:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "9/11 Began a US Reign of Terror in the Middle East—Now It's Come Home",
+      "url": "https://www.commondreams.org/opinion/9-11-began-us-terror",
+      "source": "Common Dreams",
+      "publishedAt": "2026-09-11T10:56:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Transcript: As Trump Unravels, Even Fox Cringes at His $5,000 Giveaway",
+      "url": "https://newrepublic.com/article/215313/transcript-trump-unravels-even-fox-cringes-5000-giveaway",
+      "source": "The New Republic",
+      "publishedAt": "2026-09-11T10:54:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘Blew the hell out of it’: How Iran damaged US bases in Bahrain, Jordan",
+      "url": "https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-11T10:41:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
+      "url": "https://www.dw.com/en/why-north-koreas-kim-jong-un-doesnt-need-a-us-deal/a-79227854",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-11T10:40:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "Iran War: Ansar Allah Takes Mocha and the Bab el-Mandeb Islands, Putting Both Chokepoints in Play; Trump Says the War Ends After the Midterms While Vance and Rubio Tell Him January 2029",
       "url": "https://www.nakedcapitalism.com/2026/09/iran-war-ansar-allah-mocha-trump-vance-diesel-rubio.html",
@@ -17,22 +169,6 @@
       "publishedAt": "2026-09-11T10:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "The U.S. Was Never Going to Win the “War on Terror”",
-      "url": "https://www.newyorker.com/news/the-lede/the-us-was-never-going-to-win-the-war-on-terror",
-      "source": "The New Yorker",
-      "publishedAt": "2026-09-11T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The U.S. Was Never Going to Win the “War on Terror”",
-      "url": "https://www.newyorker.com/news/a-reporter-at-large/the-us-was-never-going-to-win-the-war-on-terror",
-      "source": "The New Yorker",
-      "publishedAt": "2026-09-11T10:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "A Quarter Century of Panic",
@@ -51,22 +187,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Magyar vs. Moscow: Hungary's new tough stance toward Russia",
-      "url": "https://www.dw.com/en/magyar-vs-moscow-hungarys-new-tough-stance-toward-russia/a-79223424",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-11T08:20:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Magyar vs. Moscow: Hungary toughens stance toward Russia",
-      "url": "https://www.dw.com/en/magyar-vs-moscow-hungary-toughens-stance-toward-russia/a-79223424",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-11T08:20:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran’s Pezeshkian opposes war continuation, calls for resilience amid tensions",
       "url": "https://cryptobriefing.com/irans-pezeshkian-opposes-war-continuation-calls-for-resilience-amid-tensions/",
       "source": "Crypto Briefing",
@@ -75,76 +195,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Visible crises, invisible people",
-      "url": "https://www.thenewhumanitarian.org/opinion/2026/09/11/visible-crises-invisible-people",
-      "source": "The New Humanitarian",
-      "publishedAt": "2026-09-11T07:46:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What to know about Sunday's election in Sweden, NATO's newest member",
-      "url": "https://abcnews.com/International/wireStory/sundays-election-sweden-natos-newest-member-136357765",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-11T06:34:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Pakistan Warns Yemeni Strikes on Saudi Arabia Could Trigger Mecca Defense Pact",
-      "url": "https://www.naturalnews.com/2026-09-11-yemeni-strikes-could-trigger-mecca-defense-pact.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-11T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Norwegian PM: Drone Narrowly Missed Zelensky’s Aircraft En Route To Oslo",
-      "url": "https://www.naturalnews.com/2026-09-11-norwegian-pm-drone-narrowly-misses-zelensky-aircraft.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-11T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Kremlin Tries A New Weapon For Its War: The Relics Of a 14th-Century Saint",
-      "url": "https://www.rferl.org/a/russia-orthodox-putin-dmitry-donskoi-sacred-relics/33851764.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-09-11T05:33:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Costly war far from over even as US loosens Iran's grip on Strait of Hormuz",
-      "url": "https://economictimes.indiatimes.com/news/defence/costly-war-far-from-over-even-as-us-loosens-irans-grip-on-strait-of-hormuz/articleshow/134045453.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-11T04:37:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Real History: After 9/11, the ‘War on Terror’ Was a War of Terror",
-      "url": "https://original.antiwar.com/solomon/2026/09/10/real-history-after-9-11-the-war-on-terror-was-a-war-of-terror/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-09-11T00:00:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Houthis advance along Yemeni coast, threaten Saudi oil exports in Red Sea",
-      "url": "https://www.abc.net.au/news/2026-09-11/houthis-advance-along-yemeni-coast-threaten-saudi-oil-exports/107141304",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-10T23:48:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
       "url": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge",
       "source": "Al Jazeera English",
       "publishedAt": "2026-09-10T22:33:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Moment skies above Lebanon light up after Israel blows up key Hezbollah tunnels - sparking 4.1-magnitude tremor",
@@ -153,14 +209,6 @@
       "publishedAt": "2026-09-10T22:27:49Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "EU urges Kiev to mobilize women – Moscow",
-      "url": "https://www.rt.com/russia/645411-eu-urge-kiev-mobilize-women/",
-      "source": "RT",
-      "publishedAt": "2026-09-10T21:24:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "IDF Spokesperson: Hezbollah failed, abandoned personnel inside tunnels",
@@ -185,22 +233,6 @@
       "publishedAt": "2026-09-10T17:32:30Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Ukraine’s Drone Campaign Is a Roadmap for the US",
-      "url": "https://www.dailysignal.com/2026/09/10/ukraine-drone-campaign-the-us/",
-      "source": "Daily Signal",
-      "publishedAt": "2026-09-10T16:45:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Canada agrees air defence package for Ukraine - Zelensky",
-      "url": "https://www.rte.ie/news/ukraine/2026/0910/1591083-ukraine-russia-war/",
-      "source": "RTE",
-      "publishedAt": "2026-09-10T16:04:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea spends war windfall on arms, infrastructure",
@@ -231,14 +263,6 @@
       "url": "https://freerepublic.com/focus/f-news/4394923/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-09-10T04:14:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "This small island off Yemen is now a strategic prize in the widening Iran war | CNN",
-      "url": "https://www.cnn.com/2026/09/10/middleeast/yemen-perim-houthis-saudi-iran-war-intl",
-      "source": "CNN",
-      "publishedAt": "2026-09-10T04:01:30Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },

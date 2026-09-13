@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-13T11:07:09Z",
-  "count": 37,
+  "updated": "2026-09-13T15:38:25Z",
+  "count": 38,
   "articles": [
+    {
+      "title": "BRICS Summit 2026 Day 1 Highlights: India steers BRICS to consensus on trade, coercive measures amid West Asia rift",
+      "url": "https://www.thehindubusinessline.com/news/brics-summit-2026-new-delhi-day-1-highlights/article71459080.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-12T15:29:42Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "BRICS nations call for ‘maximum restraint’ in Mid-East war",
+      "url": "https://www.vanguardngr.com/2026/09/brics-nations-call-for-maximum-restraint-in-mid-east-war/",
+      "source": "Vanguard",
+      "publishedAt": "2026-09-12T14:39:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Poland Warns Russia Likely to Intensify European Border Provocations",
+      "url": "https://www.breitbart.com/europe/2026/09/12/poland-warns-russia-likely-to-intensify-european-border-provocations/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-09-12T13:16:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iraq scrambles to address fallout from alleged militia attack on Saudi oil pipeline",
+      "url": "https://www.cbc.ca/news/world/iraq-saudi-pipeline-9.7341679",
+      "source": "CBC News",
+      "publishedAt": "2026-09-12T12:40:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "11 killed in Russian attacks as Ukraine targets Russia’s ‘shadow fleet’",
+      "url": "https://cryptobriefing.com/11-killed-in-russian-attacks-as-ukraine-targets-russias-shadow-fleet/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-12T11:53:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "The Nerd Reich: Nation States",
       "url": "https://energyskeptic.com/2026/the-nerd-reich-nation-states/",
@@ -139,14 +179,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Putin warns Europe of conflict risk over Ukraine troop deployment",
-      "url": "https://cryptobriefing.com/putin-warns-europe-of-conflict-risk-over-ukraine-troop-deployment/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-12T00:39:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump says he does not regret Iran war despite impact it may have on midterm elections",
       "url": "https://freerepublic.com/focus/f-news/4395191/posts",
       "source": "Freerepublic.com",
@@ -161,14 +193,6 @@
       "publishedAt": "2026-09-11T23:57:27Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "NATO troops in Ukraine would mean war with Russia – Putin",
-      "url": "https://www.rt.com/russia/645533-putin-nato-troops-ukraine-war/",
-      "source": "RT",
-      "publishedAt": "2026-09-11T22:59:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea launches unidentified projectile toward East Sea",
@@ -215,22 +239,6 @@
       "url": "https://truthout.org/articles/25-years-later-we-still-live-in-the-world-the-war-on-terror-made/",
       "source": "Truthout",
       "publishedAt": "2026-09-11T17:10:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Democrats are in a ‘death match’ with the Left over Israel. How will it impact the midterms?",
-      "url": "https://mondoweiss.net/2026/09/democrats-are-in-a-death-match-with-the-left-over-israel-how-will-it-impact-the-midterms/",
-      "source": "Mondoweiss",
-      "publishedAt": "2026-09-11T16:31:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran president says pressure on country at critical, dangerous stage",
-      "url": "https://punchng.com/iran-president-says-pressure-on-country-at-critical-dangerous-stage/",
-      "source": "The Punch",
-      "publishedAt": "2026-09-11T15:36:45Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

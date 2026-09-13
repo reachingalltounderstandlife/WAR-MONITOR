@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-12T20:11:46Z",
-  "count": 36,
+  "updated": "2026-09-13T03:15:53Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
+      "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-12T02:25:59Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea fires ballistic missiles toward sea after rivals' military drill it sees as provocation",
+      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-fires-ballistic-missiles-toward-sea-after-rivals-military-drill-it-sees-as-provocation/articleshow/134100551.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-12T00:58:54Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Putin warns Europe of conflict risk over Ukraine troop deployment",
+      "url": "https://cryptobriefing.com/putin-warns-europe-of-conflict-risk-over-ukraine-troop-deployment/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-12T00:39:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says he does not regret Iran war despite impact it may have on midterm elections",
+      "url": "https://freerepublic.com/focus/f-news/4395191/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-09-12T00:28:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel-Lebanon talks in Rome delayed to October",
+      "url": "https://www.rte.ie/news/middle-east/2026/0912/1591255-lebanon-israel-world/",
+      "source": "RTE",
+      "publishedAt": "2026-09-11T23:57:27Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "NATO troops in Ukraine would mean war with Russia – Putin",
+      "url": "https://www.rt.com/russia/645533-putin-nato-troops-ukraine-war/",
+      "source": "RT",
+      "publishedAt": "2026-09-11T22:59:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea launches unidentified projectile toward East Sea",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-launches-unidentified-projectile-east-sea-6379606",
+      "source": "CNA",
+      "publishedAt": "2026-09-11T21:46:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea fires several ballistic missiles toward sea",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-launches-ballistic-missiles-east-sea-6379606",
+      "source": "CNA",
+      "publishedAt": "2026-09-11T21:46:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Loyal Only to Itself: How Turkey Plays the West and Eurasia simultaneous",
+      "url": "https://i-epikaira.blogspot.com/2026/09/loyal-only-to-itself-how-turkey-plays.html",
+      "source": "Blogspot.com",
+      "publishedAt": "2026-09-11T21:19:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran bags US hardware, German voters revolt, and Zelensky survives a 160km ‘near-miss’: RT stories that shaped the week",
+      "url": "https://www.rt.com/news/645510-rt-top-stories-iran-germany-ukraine/",
+      "source": "RT",
+      "publishedAt": "2026-09-11T21:11:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Gulf states weigh rare meeting with Iran next week on Hormuz",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/gulf-states-weigh-rare-meeting-with-iran-next-week-on-hormuz/articleshow/134087249.cms",
@@ -131,20 +211,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Russia warns Lithuania will be 'in the crosshairs of our nuclear weapons' if it hosts Nato nukes in new WW3 threat",
-      "url": "https://www.dailymail.com/news/article-16123609/Russia-warns-Lithuania-crosshairs-nuclear-weapons-hosts-Nato-nukes-new-WW3-threat.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-11T13:21:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "What Houthi Gains In Yemen Mean For The Iran War",
       "url": "https://www.rferl.org/a/iran-war-houthis-advance-us-bab-mandab/33852386.html",
       "source": "Radio Free Europe/ Radio Liberty",
       "publishedAt": "2026-09-11T13:16:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Dubai International Airport Open Today: Flights Operating Despite Delays as Mideast Tensions Persist",
@@ -153,30 +225,6 @@
       "publishedAt": "2026-09-11T13:13:01Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Poland warns Russia likely to intensify provocations against European countries",
-      "url": "https://abcnews.com/International/wireStory/poland-warns-russia-intensify-provocations-ukraines-borders-european-136362040",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-11T12:42:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europe Struggles to Counter Russian Attacks Falling Short of War",
-      "url": "https://www.insurancejournal.com/news/international/2026/09/11/884758.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-09-11T12:30:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin's undersea threat to Britain: UK is 'woefully' short of ways to stop cable attacks that could spark chaos, experts warn after Moscow's 'secret weapon' sabotage plot is foiled",
-      "url": "https://www.dailymail.com/news/article-16122903/Putins-undersea-threat-Britain-UK-woefully-short-ways-stop-cable-attacks-spark-chaos-experts-warn-Moscows-secret-weapon-sabotage-plot-foiled.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-11T12:21:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Israel says it has destroyed major underground Hezbollah base",
@@ -207,86 +255,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/09/anniversary-war-on-terror/688571/",
       "source": "The Atlantic",
       "publishedAt": "2026-09-11T10:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
-      "url": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-10T22:33:41Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Moment skies above Lebanon light up after Israel blows up key Hezbollah tunnels - sparking 4.1-magnitude tremor",
-      "url": "https://www.dailymail.com/news/article-16122039/skies-Lebanon-Israel-blow-Hezbollah-tunnels-magnitude-tremor.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-10T22:27:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF Spokesperson: Hezbollah failed, abandoned personnel inside tunnels",
-      "url": "https://www.israelnationalnews.com/news/433039",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-10T21:14:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "This Trump Speech Sent a Dangerous Message to Iran—and the Rest of the World",
-      "url": "https://slate.com/news-and-politics/2026/09/trump-iran-war-nuclear-weapons-republican-convention.html",
-      "source": "Slate Magazine",
-      "publishedAt": "2026-09-10T20:35:12Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "September 11, 2001–2026: Twenty-Five Years and No Way Out",
-      "url": "https://www.globalresearch.ca/september-11-2001-2026-twenty-five-years-no-way-out/5940058",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-10T17:32:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea spends war windfall on arms, infrastructure",
-      "url": "https://www.dw.com/en/north-korea-spends-war-windfall-on-arms-infrastructure/a-79218305",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-10T14:56:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The Political Cost of Sending Korean Forces to Hormuz",
-      "url": "http://foreignpolicy.com/2026/09/10/south-korea-trump-iran-hormuz-alliance/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-10T13:15:29Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "IAEA accuses Iran of ‘non-compliance’: Why, and what now?",
-      "url": "https://www.aljazeera.com/news/2026/9/10/iaea-accuses-iran-of-non-compliance-why-and-what-now",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-10T10:59:39Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Iran Burns Another Proxy: Houthis Nearing Panic After Tehran-Ordered Offensive Fails",
-      "url": "https://freerepublic.com/focus/f-news/4394923/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-09-10T04:14:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Conventional logics, nuclear fears",
-      "url": "https://www.rand.org/pubs/research_reports/RRA4739-1.html",
-      "source": "Rand.org",
-      "publishedAt": "2026-09-10T04:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
     }

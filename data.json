@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-13T20:20:39Z",
-  "count": 38,
+  "updated": "2026-09-14T03:28:01Z",
+  "count": 26,
   "articles": [
+    {
+      "title": "Houthis claim hit on Saudi base after renewed fighting with Yemeni forces",
+      "url": "https://www.abc.net.au/news/2026-09-13/houthis-hit-saudi-base-amid-renewed-fighting-with-yemen/107147690",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-13T01:13:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "We are in World War Xi",
+      "url": "https://www.wnd.com/2026/09/we-are-world-war-xi/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-09-12T22:01:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin warns Europe against sending troops to Ukraine",
+      "url": "https://cryptobriefing.com/putin-warns-europe-against-sending-troops-to-ukraine/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-12T22:00:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine preparing for fresh peace talks with Russia in October, but Moscow rules out Putin meeting with Zelensky at the G20 summit",
+      "url": "https://www.dailymail.com/news/article-16126301/Russia-impossible-Putin-meet-Zelensky-G20-summit-Miami-repeats-demand-talks-place-Moscow.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-12T20:35:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Iranian ‘A Bit Of Light’ Filmmakers Discuss Timely Venice Contender: “We Have To Talk About The Reality… Of The Mass Killing That Happened”",
       "url": "http://deadline.com/2026/09/iranian-a-bit-of-light-filmmakers-venice-1237100036/",
@@ -139,28 +171,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Russia, Trump and a battle over welfare loom over Sweden’s election",
-      "url": "https://www.cnbc.com/2026/09/12/sweden-election-russia-trump-welfare-defense.html",
-      "source": "CNBC",
-      "publishedAt": "2026-09-12T05:00:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea fires multiple ballistic missiles - Seoul",
       "url": "https://www.rte.ie/news/asia/2026/0912/1591259-korea-missile-asia/",
       "source": "RTE",
       "publishedAt": "2026-09-12T04:39:24Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Western Globalist Elites to Blame for Ukraine Tragedy — Putin",
-      "url": "https://sputnikglobe.com/20260912/western-globalist-elites-to-blame-for-ukraine-tragedy--putin-1124720295.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-09-12T04:31:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Pink speaks out after stoking controversy by slamming Macklemore for pro-Palestine message at Ed Sheeran show",
@@ -193,118 +209,6 @@
       "publishedAt": "2026-09-12T00:28:28Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Israel-Lebanon talks in Rome delayed to October",
-      "url": "https://www.rte.ie/news/middle-east/2026/0912/1591255-lebanon-israel-world/",
-      "source": "RTE",
-      "publishedAt": "2026-09-11T23:57:27Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea launches unidentified projectile toward East Sea",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-launches-unidentified-projectile-east-sea-6379606",
-      "source": "CNA",
-      "publishedAt": "2026-09-11T21:46:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea fires several ballistic missiles toward sea",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-launches-ballistic-missiles-east-sea-6379606",
-      "source": "CNA",
-      "publishedAt": "2026-09-11T21:46:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Gulf states weigh rare meeting with Iran next week on Hormuz",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/gulf-states-weigh-rare-meeting-with-iran-next-week-on-hormuz/articleshow/134087249.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-11T19:25:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
-      "url": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-11T18:33:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Now recruiting: North Korea looks abroad for talent in its scheme to infiltrate U.S. companies",
-      "url": "https://www.nbcnews.com/tech/security/north-korea-worker-scheme-recruits-abroad-rcna596873",
-      "source": "NBC News",
-      "publishedAt": "2026-09-11T17:18:07Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "UK condemns “settler terrorists”, Sudan’s chemical weapons exposed, and Yemen’s war escalates: The Cheat Sheet",
-      "url": "https://www.thenewhumanitarian.org/news/2026/09/11/uk-condemns-settler-terrorists-sudan-chemical-weapons-yemen-war-cheat-sheet",
-      "source": "The New Humanitarian",
-      "publishedAt": "2026-09-11T14:23:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "What Role Does Denuclearization Have in North Korea-US Dialogue Today?",
-      "url": "https://thediplomat.com/2026/09/what-role-does-denuclearization-have-in-north-korea-us-dialogue-today/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-09-11T13:50:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "What Houthi Gains In Yemen Mean For The Iran War",
-      "url": "https://www.rferl.org/a/iran-war-houthis-advance-us-bab-mandab/33852386.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-09-11T13:16:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Dubai International Airport Open Today: Flights Operating Despite Delays as Mideast Tensions Persist",
-      "url": "https://www.ibtimes.com.au/dubai-airport-operating-amid-gulf-flight-disruptions-1875398",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-09-11T13:13:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel says it has destroyed major underground Hezbollah base",
-      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo",
-      "source": "BBC News",
-      "publishedAt": "2026-09-11T11:34:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "9/11 Began a US Reign of Terror in the Middle East—Now It's Come Home",
-      "url": "https://www.commondreams.org/opinion/9-11-began-us-terror",
-      "source": "Common Dreams",
-      "publishedAt": "2026-09-11T10:56:05Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
-      "url": "https://www.dw.com/en/why-north-koreas-kim-jong-un-doesnt-need-a-us-deal/a-79227854",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-11T10:40:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "A Quarter Century of Panic",
-      "url": "https://www.theatlantic.com/ideas/2026/09/anniversary-war-on-terror/688571/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-09-11T10:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

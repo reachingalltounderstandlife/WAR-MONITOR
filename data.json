@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-14T21:30:03Z",
-  "count": 29,
+  "updated": "2026-09-15T03:29:13Z",
+  "count": 24,
   "articles": [
+    {
+      "title": "North Korea says its recent live-fire drill demonstrated 'huge destructive power'",
+      "url": "https://abcnews.com/International/wireStory/north-korea-recent-live-fire-drill-demonstrated-huge-136412674",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-14T02:32:51Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea says its recent live-fire drill demonstrated 'huge destructive power'",
+      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-says-its-recent-live-fire-drill-demonstrated-huge-destructive-power/articleshow/134230682.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-14T02:03:38Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump calls on Zelenskyy to halt strikes on Russian oil refineries",
+      "url": "https://www.business-standard.com/world-news/trump-calls-on-zelenskyy-to-halt-strikes-on-russian-oil-refineries-126091400028_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-14T02:02:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NEW WORLD ORDER: China, Russia, India seek economic cooperation at BRICS...",
+      "url": "https://www.yahoo.com/news/world/articles/china-russia-india-seek-economic-064920931.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-14T00:00:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Finding Targets In A Pacific War",
+      "url": "https://www.hoover.org/research/finding-targets-pacific-war",
+      "source": "Hoover.org",
+      "publishedAt": "2026-09-14T00:00:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
     {
       "title": "‘Felt by everyone’: Russia’s undersea war games expose nightmare scenario for global internet",
       "url": "https://www.wnd.com/2026/09/felt-everyone-russias-undersea-war-games-expose-nightmare/",
@@ -147,92 +187,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran Fully Decimated U.S. Base in Bahrain, Navy Secretary Hung Cao Admits",
-      "url": "https://www.naturalnews.com/2026-09-13-cao-iran-fully-decimated-us-base-bahrain.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-13T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Thai Foreign Minister Tells Israeli Tourists to Respect Local Laws",
       "url": "https://www.naturalnews.com/2026-09-13-thai-fm-israeli-tourists-respect-local-laws.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-09-13T06:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Have the US, Israel and Saudis lost the Battle of the Narrows?",
-      "url": "https://www.juancole.com/2026/09/israel-saudis-narrows.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-09-13T04:15:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "BRICS Summit 2026 Day 1 Highlights: India steers BRICS to consensus on trade, coercive measures amid West Asia rift",
-      "url": "https://www.thehindubusinessline.com/news/brics-summit-2026-new-delhi-day-1-highlights/article71459080.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-09-12T15:29:42Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Links 9/12/2026",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-12-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-12T10:55:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea fires multiple ballistic missiles day after trilateral drills end",
-      "url": "https://www.dw.com/en/north-korea-fires-multiple-ballistic-missiles-day-after-trilateral-drills-end/a-79242070",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-12T07:15:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea fires multiple ballistic missiles – Seoul",
-      "url": "https://www.vanguardngr.com/2026/09/north-korea-fires-multiple-ballistic-missiles-seoul/",
-      "source": "Vanguard",
-      "publishedAt": "2026-09-12T07:06:46Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea fires multiple ballistic missiles - Seoul",
-      "url": "https://www.rte.ie/news/asia/2026/0912/1591259-korea-missile-asia/",
-      "source": "RTE",
-      "publishedAt": "2026-09-12T04:39:24Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Pink speaks out after stoking controversy by slamming Macklemore for pro-Palestine message at Ed Sheeran show",
-      "url": "https://www.dailymail.com/tvshowbiz/article-16125009/Pink-slamming-Macklemore-Palestine-Ed-Sheeran-concert.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-12T03:27:46Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
-      "url": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-12T02:25:59Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea fires ballistic missiles toward sea after rivals' military drill it sees as provocation",
-      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-fires-ballistic-missiles-toward-sea-after-rivals-military-drill-it-sees-as-provocation/articleshow/134100551.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-12T00:58:54Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

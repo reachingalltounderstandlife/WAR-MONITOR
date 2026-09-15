@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-15T16:17:36Z",
-  "count": 30,
+  "updated": "2026-09-15T20:52:36Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "Russia readies new 500-mile missile as weapon expert warns of 'terminal end game surprises'",
+      "url": "https://www.foxnews.com/world/russia-readies-new-500-mile-missile-weapon-expert-warns-terminal-end-game-surprises",
+      "source": "Fox News",
+      "publishedAt": "2026-09-14T20:04:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "EU seeks Arctic strategy amid growing power rivalry",
+      "url": "https://www.dw.com/en/eu-arctic-strategy-russia-ukraine-nato-geopolitics/a-79266739",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-14T19:28:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Arctic power plays: EU searches for a new strategy",
+      "url": "https://www.dw.com/en/arctic-power-plays-eu-searches-for-a-new-strategy/a-79266739",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-14T19:28:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Houthis say Saudi Arabia hits Yemen with 54 strikes after attack on bases",
+      "url": "https://www.vanguardngr.com/2026/09/houthis-say-saudi-arabia-hits-yemen-with-54-strikes-after-attack-on-bases/",
+      "source": "Vanguard",
+      "publishedAt": "2026-09-14T19:22:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why My Kyiv Visit Worried Me So Much",
+      "url": "http://foreignpolicy.com/2026/09/14/russia-ukraine-drone-attack-train-boris-johnson-war-putin-strategy/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-14T19:11:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelenskyy Says Ukraine Will Pause Strikes on Russia if Kremlin Spares Critical Infrastructure",
+      "url": "https://military.com/zelenskyy-says-ukraine-will-pause-strikes-on-russia-if-kremlin-spares-critical-infrastructure",
+      "source": "Military.com",
+      "publishedAt": "2026-09-14T19:07:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The West is watching the wrong Ukrainian collapse",
+      "url": "https://www.rt.com/russia/645729-west-is-watching-wrong-ukrainian-collapse/",
+      "source": "RT",
+      "publishedAt": "2026-09-14T18:54:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO pledges increased Ukraine support as Russia strikes near border",
+      "url": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-14T18:40:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin’s border drone strikes show ‘desperation’, NATO chief says",
+      "url": "https://www.abc.net.au/news/2026-09-15/nato-chief-promises-more-aid-for-ukraine/107153166",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-14T17:21:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO calls out Putin’s ‘desperation’ after drone strike hit train near Poland",
+      "url": "https://nypost.com/2026/09/14/world-news/nato-calls-out-putins-desperation-as-drone-strike-hit-train/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-14T17:06:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Houthis launch new barrage of missile and drone attacks...",
+      "url": "https://www.yahoo.com/news/world/articles/houthis-target-saudi-iran-denies-100359887.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-14T17:00:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Interview on Lavender: „Civilian harm is pre-programmed into the system“",
       "url": "https://netzpolitik.org/2026/interview-on-lavender-civilian-harm-is-pre-programmed-into-the-system/",
@@ -51,22 +139,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Far-right AfD puts pressure on German aid to Ukraine",
-      "url": "https://www.dw.com/en/afd-far-right-germany-ukraine-russia-war-aid/a-79257524",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-14T12:46:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Poland pledges to strengthen security after drone strikes along border with Ukraine",
-      "url": "https://abcnews.com/International/wireStory/poland-pledges-strengthen-security-after-drone-strikes-border-136418920",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-14T12:01:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260914-unnews01.htm",
       "source": "Globalsecurity.org",
@@ -81,14 +153,6 @@
       "publishedAt": "2026-09-14T12:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Joint Declaration on the Strategic Partnership between Finland and France",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260914-finmfa01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
@@ -119,32 +183,8 @@
       "url": "https://www.nakedcapitalism.com/2026/09/iran-war.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-09-14T10:54:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Houthis target Saudi base as Iran denies involvement in Yemen war",
-      "url": "https://www.vanguardngr.com/2026/09/houthis-target-saudi-base-as-iran-denies-involvement-in-yemen-war/",
-      "source": "Vanguard",
-      "publishedAt": "2026-09-14T10:36:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Finland joins France’s nuclear deterrence initiative to bolster European defense",
-      "url": "https://cryptobriefing.com/finland-joins-france-nuclear-deterrence-initiative/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-14T09:34:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia hits passenger train on Ukraine's border with Poland, just misses 'diplomatic train'",
-      "url": "https://www.cbc.ca/news/world/russia-hits-passenger-train-ukraine-9.7342726",
-      "source": "CBC News",
-      "publishedAt": "2026-09-14T08:53:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "North Korea says recent drill shows 'huge destructive power'",
@@ -153,38 +193,6 @@
       "publishedAt": "2026-09-14T08:19:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Latvian PM urges EU unity against Russian hybrid threats amid ongoing tensions",
-      "url": "https://cryptobriefing.com/latvian-pm-urges-eu-unity-against-russian-hybrid-threats-amid-ongoing-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-14T08:06:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Στρατηγική ασάφεια: Η Τουρκία του Ερντογάν στον νέο πολυπολικό κόσμο",
-      "url": "https://i-epikaira.blogspot.com/2026/09/blog-post_14.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-09-14T07:21:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump calls on Ukraine to halt strikes on Russian diesel fuel, citing a global shortage",
-      "url": "https://abcnews.com/Business/wireStory/trump-calls-ukraine-halt-strikes-russian-diesel-fuel-136413942",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-14T06:36:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Poland and Ukraine slam Russian strike on train near western diplomats as 'escalation'",
-      "url": "https://www.thejournal.ie/poland-ukraine-slam-russian-strikes-7162061-Sep2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-09-14T06:25:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea says its recent live-fire drill demonstrated ‘huge destructive power’",

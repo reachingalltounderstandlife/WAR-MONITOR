@@ -1,7 +1,111 @@
 {
-  "updated": "2026-09-16T03:25:22Z",
-  "count": 29,
+  "updated": "2026-09-16T10:52:15Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "NATO fighter jet shoots down drone over Lithuania",
+      "url": "https://www.cbc.ca/news/world/nato-response-lithuania-drone-9.7344227",
+      "source": "CBC News",
+      "publishedAt": "2026-09-15T10:07:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian warship fires flares at Danish helicopter",
+      "url": "https://www.dw.com/en/russian-warship-fires-flares-at-danish-helicopter/a-79270510",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-15T10:01:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Papa Johns, Propaganda and Putin: How a MAGA Influencer With Ties to Russia Became Trump’s Arctic Adviser",
+      "url": "https://www.propublica.org/article/thomas-dans-arctic-research-commission-trump-russia-propaganda",
+      "source": "ProPublica",
+      "publishedAt": "2026-09-15T10:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian frigate fires two flares at Danish military chopper, narrowly missing the NATO aircraft as Putin becomes increasingly aggressive",
+      "url": "https://www.dailymail.com/news/article-16132465/Russian-frigate-fires-two-flares-Danish-military-chopper-narrowly-missing-NATO-aircraft-Putin-increasingly-aggressive.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-15T09:41:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Saudi Arabia vows to respond ‘firmly’ to Houthi attacks",
+      "url": "https://www.vanguardngr.com/2026/09/saudi-arabia-vows-to-respond-firmly-to-houthi-attacks/",
+      "source": "Vanguard",
+      "publishedAt": "2026-09-15T09:33:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO jets down drone in Lithuanian airspace after bloc warns strikes will drive support for Ukraine",
+      "url": "https://nypost.com/2026/09/15/world-news/nato-jets-down-drone-in-lithuanian-airspace-after-bloc-warns-strikes-will-drive-support-for-ukraine-2/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-15T09:20:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Saudi Oil Output Drops to Zero",
+      "url": "https://www.globalresearch.ca/saudi-oil-output-drops-zero/5940441",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-15T09:08:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO jets down drone in Lithuanian airspace",
+      "url": "https://www.npr.org/2026/09/15/g-s1-143284/nato-jets-down-drone-in-lithuanian-airspace",
+      "source": "NPR",
+      "publishedAt": "2026-09-15T09:06:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian frigate fires flares towards Danish military helicopter, Denmark says",
+      "url": "https://www.channelnewsasia.com/world/russian-frigate-fires-flares-towards-danish-military-helicopter-denmark-says-6385426",
+      "source": "CNA",
+      "publishedAt": "2026-09-15T08:48:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO jets down drone in Lithuanian airspace",
+      "url": "https://abcnews.com/Business/wireStory/nato-jets-drone-lithuanian-airspace-after-bloc-warns-136454319",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-15T08:47:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Operation Epic Fury: IG report reveals $33B war costs, loss of multiple F-15E Strike Eagles, and diplomatic strain",
+      "url": "https://economictimes.indiatimes.com/news/international/us/operation-epic-fury-ig-report-reveals-33b-war-costs-loss-of-multiple-f-15e-strike-eagles-and-diplomatic-strain/articleshow/134256309.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-15T08:40:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO Jets Down Drone In Lithuanian Airspace After Bloc Warns Strikes Will Drive Support For Ukraine",
+      "url": "https://www.huffpost.com/entry/nato-jets-down-drone-in-lithuania_n_6aa90046e4b03cde7fac6d10",
+      "source": "HuffPost",
+      "publishedAt": "2026-09-15T08:31:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US military confirms Iran war has led to munitions shortfall",
+      "url": "https://punchng.com/us-military-confirms-iran-war-has-led-to-munitions-shortfall/",
+      "source": "The Punch",
+      "publishedAt": "2026-09-15T08:23:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US watchdog tallies Iran war's toll on weapons stockpiles, military bases",
       "url": "https://www.business-standard.com/world-news/us-watchdog-tallies-iran-war-s-toll-on-weapons-stockpiles-military-bases-126091500048_1.html",
@@ -19,92 +123,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Why BRICS does not need a leader",
-      "url": "https://www.rt.com/news/645730-why-brics-does-not-need/",
-      "source": "RT",
-      "publishedAt": "2026-09-14T21:56:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia readies new 500-mile missile as weapon expert warns of 'terminal end game surprises'",
-      "url": "https://www.foxnews.com/world/russia-readies-new-500-mile-missile-weapon-expert-warns-terminal-end-game-surprises",
-      "source": "Fox News",
-      "publishedAt": "2026-09-14T20:04:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "EU seeks Arctic strategy amid growing power rivalry",
-      "url": "https://www.dw.com/en/eu-arctic-strategy-russia-ukraine-nato-geopolitics/a-79266739",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-14T19:28:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Arctic power plays: EU searches for a new strategy",
-      "url": "https://www.dw.com/en/arctic-power-plays-eu-searches-for-a-new-strategy/a-79266739",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-14T19:28:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Houthis say Saudi Arabia hits Yemen with 54 strikes after attack on bases",
       "url": "https://www.vanguardngr.com/2026/09/houthis-say-saudi-arabia-hits-yemen-with-54-strikes-after-attack-on-bases/",
       "source": "Vanguard",
       "publishedAt": "2026-09-14T19:22:31Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Why My Kyiv Visit Worried Me So Much",
-      "url": "http://foreignpolicy.com/2026/09/14/russia-ukraine-drone-attack-train-boris-johnson-war-putin-strategy/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-14T19:11:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy Says Ukraine Will Pause Strikes on Russia if Kremlin Spares Critical Infrastructure",
-      "url": "https://military.com/zelenskyy-says-ukraine-will-pause-strikes-on-russia-if-kremlin-spares-critical-infrastructure",
-      "source": "Military.com",
-      "publishedAt": "2026-09-14T19:07:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The West is watching the wrong Ukrainian collapse",
-      "url": "https://www.rt.com/russia/645729-west-is-watching-wrong-ukrainian-collapse/",
-      "source": "RT",
-      "publishedAt": "2026-09-14T18:54:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO pledges increased Ukraine support as Russia strikes near border",
-      "url": "https://www.aljazeera.com/news/2026/9/14/nato-pledges-increased-support-for-ukraine-after-russia-strikes-warsaw-bound-train",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-14T18:40:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin’s border drone strikes show ‘desperation’, NATO chief says",
-      "url": "https://www.abc.net.au/news/2026-09-15/nato-chief-promises-more-aid-for-ukraine/107153166",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-14T17:21:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO calls out Putin’s ‘desperation’ after drone strike hit train near Poland",
-      "url": "https://nypost.com/2026/09/14/world-news/nato-calls-out-putins-desperation-as-drone-strike-hit-train/",
-      "source": "New York Post",
-      "publishedAt": "2026-09-14T17:06:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Houthis launch new barrage of missile and drone attacks...",
@@ -145,38 +169,6 @@
       "publishedAt": "2026-09-14T14:23:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries?",
-      "url": "https://www.aljazeera.com/economy/2026/9/14/why-is-trump-warning-zelenskyy-not-to-hit-russian-diesel-refineries",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-14T14:04:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260914-unnews01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran: UN Fact-Finding Mission calls for immediate cessation of hostilities after deadly US airstrikes hit civilians",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260914-ohchr01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-14T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Temporary Hormuz solution deferred as Iran-Arab summit falls through",
-      "url": "https://www.aljazeera.com/news-analysis/2026/9/14/temporary-hormuz-solution-deferred-as-iran-arab-summit-falls-through",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-14T11:50:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Iran War: Saudi Pipeline Out for at Least a Month, Further Stressing Energy Supplies; Trump + Israel Readying Post-Midterms Big Attack? Iran Weighing NPT Exit",

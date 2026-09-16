@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-15T20:52:36Z",
-  "count": 31,
+  "updated": "2026-09-16T03:25:22Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "US watchdog tallies Iran war's toll on weapons stockpiles, military bases",
+      "url": "https://www.business-standard.com/world-news/us-watchdog-tallies-iran-war-s-toll-on-weapons-stockpiles-military-bases-126091500048_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-15T02:37:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Proves It Can Still Inflict Damage Despite US Attacks",
+      "url": "https://grandgoldman.com/blogs/business/iran-proves-it-can-still-inflict-damage-despite-us-attacks",
+      "source": "Grandgoldman.com",
+      "publishedAt": "2026-09-14T21:59:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why BRICS does not need a leader",
+      "url": "https://www.rt.com/news/645730-why-brics-does-not-need/",
+      "source": "RT",
+      "publishedAt": "2026-09-14T21:56:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Russia readies new 500-mile missile as weapon expert warns of 'terminal end game surprises'",
       "url": "https://www.foxnews.com/world/russia-readies-new-500-mile-missile-weapon-expert-warns-terminal-end-game-surprises",
@@ -131,14 +155,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Ukraine: AfD questions German aid, Berlin remains committed",
-      "url": "https://www.dw.com/en/ukraine-afd-questions-german-aid-berlin-remains-committed/a-79257524",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-14T12:46:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displaced in Yemen",
       "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260914-unnews01.htm",
       "source": "Globalsecurity.org",
@@ -163,20 +179,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "The AI Doomsday Future Is Not Inevitable",
-      "url": "https://theintercept.com/2026/09/14/surveillance-tech-ai-military-flock/",
-      "source": "The Intercept",
-      "publishedAt": "2026-09-14T11:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Iran War: Saudi Pipeline Out for at Least a Month, Further Stressing Energy Supplies; Trump + Israel Readying Post-Midterms Big Attack? Iran Weighing NPT Exit",
       "url": "https://www.nakedcapitalism.com/2026/09/iran-war-saudi-pipeline-out-for-at-least-a-month-further-stressing-energy-supplies-trump-israel-readying-post-midterms-big-attack-iran-weighing-npt-exit.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-09-14T10:54:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Iran War: Saudi Pipeline Out for at Least a Month, Further Stressing Energy Supplies; Trump + Israel Readying Post-Midterms Big Attack? Iran Weighing NPT Exit",
@@ -225,30 +233,6 @@
       "publishedAt": "2026-09-14T00:00:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Katz: Whoever approaches strategic Lebanon ridge ‘will be destroyed’",
-      "url": "https://www.israelnationalnews.com/news/433096",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-13T19:02:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea’s nuclear machine is getting bigger: A new uranium facility, thousands of centrifuges and missiles capable of reaching America reveal how Kim Jong Un is changing the threat",
-      "url": "https://economictimes.indiatimes.com/news/international/us/north-koreas-nuclear-machine-is-getting-bigger-a-new-uranium-facility-thousands-of-centrifuges-and-missiles-capable-of-reaching-america-reveal-how-kim-jong-un-is-changing-the-threat/articleshow/134208267.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-13T15:16:51Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "How Israel’s destruction of south Lebanon is making displacement permanent",
-      "url": "https://www.aljazeera.com/features/2026/9/13/how-israels-destruction-of-south-lebanon-is-making-displacement-permanent",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-13T13:09:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

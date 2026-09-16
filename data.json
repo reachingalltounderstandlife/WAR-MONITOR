@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-16T16:09:57Z",
+  "updated": "2026-09-16T20:53:14Z",
   "count": 32,
   "articles": [
+    {
+      "title": "Are Drone Incursions Europe’s New Normal?",
+      "url": "http://foreignpolicy.com/2026/09/15/nato-russia-drone-lithuania-incursion-ukraine-denmark-oil/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-15T20:52:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+      "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-15T19:59:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Nato jets shoot down drone that entered Lithuanian airspace from Belarus",
+      "url": "https://www.business-standard.com/world-news/nato-jets-shoot-down-drone-that-entered-lithuanian-airspace-from-belarus-126091501379_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-15T18:18:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Russia Appears to Be Stepping Up Its Tests of NATO",
       "url": "https://www.newser.com/story/396466/russia-appears-to-be-stepping-up-its-tests-of-nato.html",
@@ -75,14 +99,6 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Russia Ramps Up Powerful Drone Night Raids as Ukraine’s Air Shield Thins",
-      "url": "https://www.globalresearch.ca/russia-powerful-drone-night-raids-ukraine-air-shield-thins/5940414",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-15T14:34:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/israeli-airstrikes-on-a-village-in-southern-lebanon-kill-12-people-including-2-children/articleshow/134266666.cms",
       "source": "The Times of India",
@@ -121,22 +137,6 @@
       "publishedAt": "2026-09-15T13:07:59Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "NATO jets shoot down drone in Lithuanian airspace as Russia grows 'increasingly reckless,' Rutte says",
-      "url": "https://www.foxnews.com/world/nato-jets-shoot-down-drone-lithuanian-airspace-russia-grows-increasingly-reckless-rutte-says",
-      "source": "Fox News",
-      "publishedAt": "2026-09-15T12:56:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian drone attack near Polish border raises NATO security concerns",
-      "url": "https://cryptobriefing.com/russian-drone-attack-near-polish-border-raises-nato-security-concerns/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-15T12:39:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Several U.S. military bases, diplomatic buildings have been damaged in Iran war: inspector general report",

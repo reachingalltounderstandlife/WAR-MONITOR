@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-17T10:59:25Z",
-  "count": 27,
+  "updated": "2026-09-17T16:16:08Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
+      "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-has-cost-the-us-38bn-how-is-it-impacting-us-economy-politics",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-16T14:53:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian war with Europe would be ‘very short’ – Lavrov",
+      "url": "https://www.rt.com/news/645860-lavrov-eu-nato-putin/",
+      "source": "RT",
+      "publishedAt": "2026-09-16T14:07:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Next Trump-Kim Summit Could Be About North Korea’s Future Ruler",
+      "url": "http://foreignpolicy.com/2026/09/16/north-korea-united-states-trump-kim-meeting-heir-succession/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-16T13:50:23Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Why MAGA Went Gaga for Putin",
+      "url": "https://www.motherjones.com/politics/2026/09/how-russia-won-book-maga-trump-putin-russia-tucker-carlson/",
+      "source": "Mother Jones",
+      "publishedAt": "2026-09-16T13:37:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump is fighting Iran with strategic clarity — and America is winning",
+      "url": "https://www.foxnews.com/opinion/trump-fighting-iran-strategic-clarity-america-winning",
+      "source": "Fox News",
+      "publishedAt": "2026-09-16T13:00:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Spokesman for DPRK Ministry of National Defence Clarifies Stand",
+      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260916-kcna02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-16T12:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "NATO's 'Collective Defense' Rhetoric Escalates Amid Now Weekly Aerial Incursions",
+      "url": "https://biztoc.com/x/7dd8cfde1ee78487",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-16T11:55:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Iran War: Europe Oil and US Diesel Crunch Worsens; Tucker Exposes Massive Trump/Israel Bombing Campaign Right After Midterms; Experts Question Survival of Regimes in Saudi Arabia, Jordsn",
       "url": "https://www.nakedcapitalism.com/2026/09/iran-war-europe-oil-and-us-diesel-crunch-worsens-tucker-exposes-massive-trump-israel-bombing-campaign-right-after-midterms-experts-question-survival-of-regimes-in-saudi-arabia-jordsn.html",
@@ -139,22 +195,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Trump administration plans to send powerful bombs to Israel in $2.8 billion weapons sale",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-administration-plans-to-send-powerful-bombs-to-israel-in-28-billion-weapons-sale/article71470880.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-09-16T02:23:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump administration plans $2.8 billion Israel arms deal with 40,000 powerful bombs",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-administration-plans-2-8-billion-israel-arms-deal-with-40000-powerful-bombs/articleshow/134275759.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-16T01:10:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Are Drone Incursions Europe’s New Normal?",
       "url": "http://foreignpolicy.com/2026/09/15/nato-russia-drone-lithuania-incursion-ukraine-denmark-oil/",
       "source": "Foreign Policy",
@@ -167,30 +207,6 @@
       "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania",
       "source": "Al Jazeera English",
       "publishedAt": "2026-09-15T19:59:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Nato jets shoot down drone that entered Lithuanian airspace from Belarus",
-      "url": "https://www.business-standard.com/world-news/nato-jets-shoot-down-drone-that-entered-lithuanian-airspace-from-belarus-126091501379_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-09-15T18:18:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia Appears to Be Stepping Up Its Tests of NATO",
-      "url": "https://www.newser.com/story/396466/russia-appears-to-be-stepping-up-its-tests-of-nato.html",
-      "source": "Newser",
-      "publishedAt": "2026-09-15T15:43:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Road to Armageddon",
-      "url": "https://www.globalresearch.ca/road-armageddon/5940526",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-15T15:09:48Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

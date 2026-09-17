@@ -1,7 +1,119 @@
 {
-  "updated": "2026-09-17T03:30:54Z",
-  "count": 25,
+  "updated": "2026-09-17T10:59:25Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Iran War: Europe Oil and US Diesel Crunch Worsens; Tucker Exposes Massive Trump/Israel Bombing Campaign Right After Midterms; Experts Question Survival of Regimes in Saudi Arabia, Jordsn",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-europe-oil-and-us-diesel-crunch-worsens-tucker-exposes-massive-trump-israel-bombing-campaign-right-after-midterms-experts-question-survival-of-regimes-in-saudi-arabia-jordsn.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-16T10:52:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The End of the American Age",
+      "url": "https://www.theatlantic.com/ideas/2026/09/trump-iran-superpower-decline/688639/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-09-16T10:50:14Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "South Korean Court Orders North Korea to Pay $32.5 Million for Blowing Up Joint Liaison Office",
+      "url": "https://military.com/south-korean-court-orders-north-korea-to-pay-325-million-for-blowing-up-joint-liaison-office",
+      "source": "Military.com",
+      "publishedAt": "2026-09-16T10:41:46Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "How a MAGA influencer with ties to Russia became Trump’s Arctic adviser",
+      "url": "https://www.salon.com/2026/09/16/papa-johns-propaganda-and-putin-how-a-maga-influencer-with-ties-to-russia-became-trumps-arctic-ad-partner/",
+      "source": "Salon",
+      "publishedAt": "2026-09-16T10:00:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Yemen's Houthis have only grown stronger through years of war",
+      "url": "https://economictimes.indiatimes.com/news/defence/why-yemens-houthis-have-only-grown-stronger-through-years-of-war/articleshow/134282936.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-16T08:46:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Nato boss heaps pressure on Burnham to up defence spending as unions join clamour to invest 3% of GDP in military",
+      "url": "https://www.dailymail.com/news/article-16135337/Nato-boss-heaps-pressure-Burnham-defence-spending.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-16T08:16:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine's message to Asian nations: your chips are turning up in Russian missiles",
+      "url": "https://www.cnbc.com/2026/09/16/russia-ukraine-war-sanction-oil-missile-weapons-.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-16T08:00:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "CNN reveals: Russian satellites flew over US base in Saudi Arabia shortly before it was attacked by Iran",
+      "url": "https://en.protothema.gr/2026/09/16/cnn-reveals-russian-satellites-flew-over-us-base-in-saudi-arabia-shortly-before-it-was-attacked-by-iran/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-09-16T07:50:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "South Korean court orders North Korea to pay $32.5 million for blowing up joint liaison office",
+      "url": "https://nypost.com/2026/09/16/world-news/south-korean-court-orders-north-korea-to-pay-32-5-million-for-blowing-up-joint-liaison-office/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-16T07:32:52Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Why Yemen's Houthi rebels have only grown stronger through years of war",
+      "url": "https://www.business-standard.com/world-news/why-yemen-s-houthi-rebels-have-only-grown-stronger-through-years-of-war-126091600319_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-16T06:47:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter",
+      "url": "https://abcnews.com/International/wireStory/nato-jets-shoot-drone-lithuania-russian-ship-fires-136454318",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-16T06:05:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Houthis Seize Red Sea Islands as Analysts Warn of Oil Supply Risks",
+      "url": "https://www.naturalnews.com/2026-09-16-houthis-seize-red-sea-islands-oil-supply-risks.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-16T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO jets down drone over Lithuania as Russia tests alliance’s eastern flank",
+      "url": "https://www.naturalnews.com/2026-09-16-nato-jets-down-drone-over-lithuania-airspace.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-16T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "South Korean court orders North Korea to pay $32.5 million for blowing up joint liaison office",
+      "url": "https://abcnews.com/International/wireStory/south-korean-court-orders-north-korea-pay-325-136482853",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-16T05:11:03Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "South Korean court orders North Korea to pay $32.5 million for blowing up joint liaison office",
       "url": "https://www.yahoo.com/news/politics/articles/south-korean-court-orders-north-031604219.html",
@@ -43,14 +155,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Report: Trump Transferring $3B Worth of Bombs to Israel, Funded by US Taxpayers",
-      "url": "https://truthout.org/articles/report-trump-transferring-3b-worth-of-bombs-to-israel-funded-by-us-taxpayers/",
-      "source": "Truthout",
-      "publishedAt": "2026-09-15T21:18:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Are Drone Incursions Europe’s New Normal?",
       "url": "http://foreignpolicy.com/2026/09/15/nato-russia-drone-lithuania-incursion-ukraine-denmark-oil/",
       "source": "Foreign Policy",
@@ -83,58 +187,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Pentagon report reveals US munitions shortfalls amid Iran war as costs hit $33.4B",
-      "url": "https://cryptobriefing.com/pentagon-munitions-shortfalls-iran-war/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-15T15:38:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Road to Armageddon",
       "url": "https://www.globalresearch.ca/road-armageddon/5940526",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-09-15T15:09:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Poland could cease to exist in days if it attacks Russia – Putin aide",
-      "url": "https://www.rt.com/russia/645770-poland-cease-to-exist-patrushev/",
-      "source": "RT",
-      "publishedAt": "2026-09-15T15:02:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ex-NATO chief lands Munich Security Conference top job",
-      "url": "https://www.rt.com/news/645764-nato-stoltenberg-munich-security-conference/",
-      "source": "RT",
-      "publishedAt": "2026-09-15T14:54:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia warns Denmark after near miss in Baltic Sea",
-      "url": "https://www.aljazeera.com/news/2026/9/15/russia-warns-denmark-after-near-miss-in-baltic-sea",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-15T14:51:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "National security concerns stir as Trump's Arctic pick alarms experts",
-      "url": "https://www.rawstory.com/thomas-dans/",
-      "source": "Raw Story",
-      "publishedAt": "2026-09-15T14:51:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia and Ukraine launch new energy attacks despite Trump’s ceasefire claim",
-      "url": "https://www.nbcnews.com/world/ukraine/russia-ukraine-new-energy-attacks-trumps-ceasefire-claim-rcna597873",
-      "source": "NBC News",
-      "publishedAt": "2026-09-15T14:48:41Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -155,52 +211,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "What are ‘space weapons’, which US says it has deployed into orbit?",
-      "url": "https://www.aljazeera.com/features/2026/9/15/what-are-space-weapons-which-us-says-it-has-deployed-into-orbit",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-15T13:57:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s allies squeeze Saudi Arabia ‘on all fronts’, leaving crown prince facing a crisis",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/09/15/irans-allies-squeeze-saudi-arabia-on-all-fronts-leaving-crown-prince-facing-a-crisis/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-09-15T13:29:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Middle East is the latest arena of political recalibration for Italy’s right-wing but pragmatic Meloni",
       "url": "https://theconversation.com/middle-east-is-the-latest-arena-of-political-recalibration-for-italys-right-wing-but-pragmatic-meloni-291016",
       "source": "The Conversation Africa",
       "publishedAt": "2026-09-15T13:24:50Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "DOW Estimates Cost of Operation Epic Fury Against Iran to Be $33.4Bln as of June 29",
-      "url": "https://sputnikglobe.com/20260915/dow-estimates-cost-of-operation-epic-fury-against-iran-to-be-334bln-as-of-june-29-1124742246.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-09-15T13:07:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Several U.S. military bases, diplomatic buildings have been damaged in Iran war: inspector general report",
-      "url": "https://www.cbc.ca/news/world/us-pentagon-iran-war-report-9.7344243",
-      "source": "CBC News",
-      "publishedAt": "2026-09-15T11:51:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
-      "url": "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-15T11:17:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     }
   ]
 }

@@ -1,7 +1,183 @@
 {
-  "updated": "2026-09-18T03:16:47Z",
-  "count": 32,
+  "updated": "2026-09-18T10:36:14Z",
+  "count": 38,
   "articles": [
+    {
+      "title": "Trump wants largest-ever Israeli heavy bomb transfer — but proposal has Congress preparing for $2.8B fight",
+      "url": "https://www.foxnews.com/politics/trump-wants-largest-ever-israeli-heavy-bomb-transfer-proposal-has-congress-preparing-2-8b-fight",
+      "source": "Fox News",
+      "publishedAt": "2026-09-17T10:30:30Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump's pressure on NATO is reshaping Europe's defenses. Will it break the alliance",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-pressure-on-nato-is-reshaping-europes-defenses-will-it-break-the-alliance/articleshow/134308598.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-17T10:23:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kim’s sister says only ‘idiots’ think N Korea to give up nukes",
+      "url": "https://www.hurriyetdailynews.com/kims-sister-says-only-idiots-think-n-korea-to-give-up-nukes-226988",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-09-17T10:20:28Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Is NATO ready to fight? The Ukraine war is raising doubts among military analysts",
+      "url": "https://economictimes.indiatimes.com/news/defence/is-nato-ready-to-fight-the-ukraine-war-is-raising-doubts-among-military-analysts/articleshow/134308436.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-17T10:17:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia’s Attacks on Europe Are Getting More Brazen and More Dangerous",
+      "url": "https://www.insurancejournal.com/news/international/2026/09/17/885426.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-09-17T10:03:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hegseth's true job is done — and now he's in grave danger",
+      "url": "https://www.rawstory.com/raw-investigates/hegseth-firing/",
+      "source": "Raw Story",
+      "publishedAt": "2026-09-17T10:00:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pressure on global chokepoints drives Asia's increased use of Arctic Trade Routes",
+      "url": "https://www.npr.org/2026/09/17/g-s1-143712/pressure-on-global-chokepoints-drives-asias-increased-use-of-arctic-trade-routes",
+      "source": "NPR",
+      "publishedAt": "2026-09-17T10:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Test: Gaza Puts the India–Israel Alliance on Trial",
+      "url": "https://activistpost.com/the-test-gaza-puts-the-india-israel-alliance-on-trial/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-09-17T09:54:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Houthi offensive in Yemen adds to fear that Iran war could escalate into a wider global conflict",
+      "url": "https://theconversation.com/houthi-offensive-in-yemen-adds-to-fear-that-iran-war-could-escalate-into-a-wider-global-conflict-286816",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-09-17T09:29:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Aftermath: A Second Middle East Front",
+      "url": "https://prospect.org/2026/09/17/aftermath-yemen-houthis-second-middle-east-front/",
+      "source": "The American Prospect",
+      "publishedAt": "2026-09-17T09:20:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Battle for the Atlantic",
+      "url": "https://www.gov.uk/government/speeches/battle-for-the-atlantic",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-09-17T08:58:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Professor Michael Hudson interview with Lena Petrova on BRICS and the Global Economy",
+      "url": "https://www.nakedcapitalism.com/2026/09/professor-michael-hudson-interview-with-lena-petrova-on-brics-and-the-global-economy.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-17T08:54:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UN mission believes US behind strikes on Iran school",
+      "url": "https://www.rte.ie/news/2026/0917/1591867-iran-school-strikes-un/",
+      "source": "RTE",
+      "publishedAt": "2026-09-17T08:24:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Only ‘idiots’ think N. Korea to give up nuclear weapons – Leader’s sister",
+      "url": "https://www.vanguardngr.com/2026/09/only-idiots-think-n-korea-to-give-up-nuclear-weapons-leaders-sister/",
+      "source": "Vanguard",
+      "publishedAt": "2026-09-17T08:18:37Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Only ‘idiots’ think N’Korea will give up nukes, says Kim’s sister",
+      "url": "https://punchng.com/only-idiots-think-nkorea-will-give-up-nukes-says-kims-sister/",
+      "source": "The Punch",
+      "publishedAt": "2026-09-17T07:53:09Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea accused of using overseas workers finance nuclear weapons",
+      "url": "https://www.abc.net.au/news/2026-09-17/north-korean-overseas-workers-financing-nukes/107165468",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-17T07:44:28Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The Real U.S.-Saudi Nuclear Deal Is Better Than We Thought",
+      "url": "https://warontherocks.com/the-real-u-s-saudi-nuclear-deal-is-better-than-we-thought/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-09-17T07:30:37Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "N/Korea leader’s sister says only ‘idiots’ think they’ll give up nuclear weapons",
+      "url": "https://www.vanguardngr.com/2026/09/n-korea-leaders-sister-says-only-idiots-think-theyll-give-up-nuclear-weapons/",
+      "source": "Vanguard",
+      "publishedAt": "2026-09-17T07:01:03Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump Threatens Further Strikes on Iran as U.S. Generals Warn of Overstretched Forces",
+      "url": "https://www.naturalnews.com/2026-09-17-trump-threatens-further-strikes-iran-overstretched-forces.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-17T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Το Ντόμινο της Ασφάλειας: Από την Ευρώπη ως τη Μέση Ανατολή",
+      "url": "https://i-epikaira.blogspot.com/2026/09/blog-post_17.html",
+      "source": "Blogspot.com",
+      "publishedAt": "2026-09-17T05:57:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Romanian border residents fear fallout as frequency of drone alerts rises",
+      "url": "https://abcnews.com/International/wireStory/romanian-border-residents-fear-fallout-frequency-drone-alerts-136518013",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-17T05:48:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The creators of \"Naza\" should have spoken to me",
+      "url": "https://www.israelnationalnews.com/news/433293",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-17T05:13:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Kim's sister says only 'idiots' believe North Korea will give up nukes",
       "url": "https://www.channelnewsasia.com/east-asia/kim-jong-un-sister-says-north-korea-nuclear-weapons-not-giving-up-6390756",
@@ -35,28 +211,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "The Misunderstood Trump Foreign Policy",
-      "url": "https://www.hoover.org/research/misunderstood-trump-foreign-policy",
-      "source": "Hoover.org",
-      "publishedAt": "2026-09-17T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump Admin Quietly Opens Direct Talks With Iran-Backed Houthis As Yemen War Heats Up",
       "url": "https://dailycaller.com/2026/09/16/trump-admin-houthis-direct-talks-iran-oman-saudi-arabia",
       "source": "The Daily Caller",
       "publishedAt": "2026-09-16T21:19:22Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Mearsheimer: There’s no diplomatic way out of the Ukraine war",
-      "url": "https://www.rt.com/news/645879-mearsheimer-lukyanov-interview-ukraine/",
-      "source": "RT",
-      "publishedAt": "2026-09-16T20:46:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Top Dem on Foreign Affairs committee opposes Trump-proposed $2.8B arms sale to Israel",
@@ -67,76 +227,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iranian strikes damaged 3 US bases in Gulf: Report",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-strikes-damaged-3-us-bases-in-gulf-report/articleshow/134295389.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-16T19:01:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran-US Conflict Fundamentally Reshapes Regional Order – Iranian Foreign Minister",
-      "url": "https://sputnikglobe.com/20260916/iran-us-conflict-fundamentally-reshapes-regional-order--iranian-foreign-minister-1124748822.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-09-16T17:51:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Watchdog Finds Iran War Damage to US Bases Far More Extensive Than Pentagon Says",
-      "url": "https://truthout.org/articles/watchdog-finds-iran-war-damage-to-us-bases-far-more-extensive-than-pentagon-says/",
-      "source": "Truthout",
-      "publishedAt": "2026-09-16T17:21:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "DOJ charges Russian agents with plotting attacks, including in US",
-      "url": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
-      "source": "NPR",
-      "publishedAt": "2026-09-16T17:19:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian drones hit bus, train in Ukraine, killing 5: officials",
-      "url": "https://www.cbc.ca/news/world/russia-drone-attack-ukraine-9.7346436",
-      "source": "CBC News",
-      "publishedAt": "2026-09-16T17:17:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Houthis claim shootdown of Saudi jet (VIDEO)",
-      "url": "https://www.rt.com/news/645872-houthis-shoot-down-saudi-jet/",
-      "source": "RT",
-      "publishedAt": "2026-09-16T17:14:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The EU is militarizing the Arctic. Here’s how it plans to do it",
-      "url": "https://www.rt.com/news/645866-eu-is-militarizing-arctic/",
-      "source": "RT",
-      "publishedAt": "2026-09-16T17:11:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran war has cost the US $38bn: How will it impact US economy, politics?",
-      "url": "https://www.aljazeera.com/news/2026/9/16/iran-war-has-cost-the-us-38bn-how-is-it-impacting-us-economy-politics",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-16T14:53:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russian war with Europe would be ‘very short’ – Lavrov",
-      "url": "https://www.rt.com/news/645860-lavrov-eu-nato-putin/",
-      "source": "RT",
-      "publishedAt": "2026-09-16T14:07:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "title": "Crude Oil Prices Sharply Lower as Middle East Disruptions Ease",
+      "url": "https://www.barchart.com/story/news/4641970/crude-oil-prices-sharply-lower-as-middle-east-disruptions-ease",
+      "source": "Barchart.com",
+      "publishedAt": "2026-09-16T19:16:14Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The Next Trump-Kim Summit Could Be About North Korea’s Future Ruler",
@@ -145,14 +241,6 @@
       "publishedAt": "2026-09-16T13:50:23Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Why MAGA Went Gaga for Putin",
-      "url": "https://www.motherjones.com/politics/2026/09/how-russia-won-book-maga-trump-putin-russia-tucker-carlson/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-09-16T13:37:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Trump is fighting Iran with strategic clarity — and America is winning",
@@ -171,14 +259,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "NATO's 'Collective Defense' Rhetoric Escalates Amid Now Weekly Aerial Incursions",
-      "url": "https://biztoc.com/x/7dd8cfde1ee78487",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-09-16T11:55:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The End of the American Age",
       "url": "https://www.theatlantic.com/ideas/2026/09/trump-iran-superpower-decline/688639/",
       "source": "The Atlantic",
@@ -195,28 +275,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "How a MAGA influencer with ties to Russia became Trump’s Arctic adviser",
-      "url": "https://www.salon.com/2026/09/16/papa-johns-propaganda-and-putin-how-a-maga-influencer-with-ties-to-russia-became-trumps-arctic-ad-partner/",
-      "source": "Salon",
-      "publishedAt": "2026-09-16T10:00:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Why Yemen's Houthis have only grown stronger through years of war",
       "url": "https://economictimes.indiatimes.com/news/defence/why-yemens-houthis-have-only-grown-stronger-through-years-of-war/articleshow/134282936.cms",
       "source": "The Times of India",
       "publishedAt": "2026-09-16T08:46:13Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Nato boss heaps pressure on Burnham to up defence spending as unions join clamour to invest 3% of GDP in military",
-      "url": "https://www.dailymail.com/news/article-16135337/Nato-boss-heaps-pressure-Burnham-defence-spending.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-16T08:16:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "South Korean court orders North Korea to pay $32.5 million for blowing up joint liaison office",
@@ -233,22 +297,6 @@
       "publishedAt": "2026-09-16T06:47:52Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "South Korean court orders North Korea to pay $32.5 million for blowing up joint liaison office",
-      "url": "https://abcnews.com/International/wireStory/south-korean-court-orders-north-korea-pay-325-136482853",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-16T05:11:03Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "South Korean court orders North Korea to pay $32.5 million for blowing up joint liaison office",
-      "url": "https://www.yahoo.com/news/politics/articles/south-korean-court-orders-north-031604219.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-16T03:16:04Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "Is the nuclear non-proliferation pact a model for regulating runaway AI?",

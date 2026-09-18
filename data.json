@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-18T15:51:26Z",
-  "count": 40,
+  "updated": "2026-09-18T20:25:14Z",
+  "count": 41,
   "articles": [
+    {
+      "title": "Trump Says US Close To Base Expansion Deal With Poland, Potentially Escalating Tensions With Russia",
+      "url": "https://dailycaller.com/2026/09/17/donald-trump-base-poland-russia-agression-karol-nawrocki",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-09-17T20:12:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S. and Houthis Open Talks as Saudi Oil Crisis Deepens",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/US-and-Houthis-Open-Talks-as-Saudi-Oil-Crisis-Deepens.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-09-17T20:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Killer AI Is Already Here. We’re Using It in Iran.",
+      "url": "https://www.motherjones.com/politics/2026/09/killer-ai-iran-autonomous-maven-poll-ai-safety/",
+      "source": "Mother Jones",
+      "publishedAt": "2026-09-17T19:25:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says Facing 'Big Decision' Regarding Conflict With Iran Amid Stalled Talks",
+      "url": "https://sputnikglobe.com/20260917/trump-says-facing-big-decision-regarding-conflict-with-iran-amid-stalled-talks-1124753619.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-09-17T18:47:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian plans include strikes against Ukraine's allies, says Polish PM",
+      "url": "https://www.abc.net.au/news/2026-09-18/russia-plans-strikes-ukraine-allies-says-polish-pm-donald-tusk/107166910",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-17T18:44:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Fresh activity emerges at Iran’s deeply buried nuclear site as Trump warns Iran not to ‘get cute’",
+      "url": "https://www.foxnews.com/world/fresh-activity-emerges-irans-deeply-buried-nuclear-site-trump-warns-iran-not-get-cute",
+      "source": "Fox News",
+      "publishedAt": "2026-09-17T18:30:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Many Hypotheses of Why There Is an Avoidable Energy Crisis",
+      "url": "https://www.nakedcapitalism.com/2026/09/the-many-hypotheses-of-why-there-is-an-avoidable-energy-crisis.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-17T18:00:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UN mission finds grounds to believe US committed war crimes in Iran, and Tehran crimes against humanity",
+      "url": "https://www.channelnewsasia.com/world/iran-us-war-crimes-against-humanity-un-mission-6392876",
+      "source": "CNA",
+      "publishedAt": "2026-09-17T17:47:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UN fact-finding mission says US committed possible war crimes in Iran",
+      "url": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-17T17:02:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "‘Reasonable grounds’ to believe US committed war crimes in Iran – UN",
       "url": "https://www.rt.com/news/645915-iran-us-war-crimes/",
@@ -83,14 +155,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "UN-backed experts find US strike on Minab school amounts to war crime",
-      "url": "https://www.abc.net.au/news/2026-09-17/reasonable-grounds-us-war-crimes-iran-strike-minab-school/107166362",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-17T11:40:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "IAEA members raise 'concern' over North Korea nuclear expansion",
       "url": "https://www.channelnewsasia.com/east-asia/north-korea-nuclear-expansion-iaea-concern-6392081",
       "source": "CNA",
@@ -131,60 +195,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Is NATO ready to fight? The Ukraine war is raising doubts among military analysts",
-      "url": "https://economictimes.indiatimes.com/news/defence/is-nato-ready-to-fight-the-ukraine-war-is-raising-doubts-among-military-analysts/articleshow/134308436.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-17T10:17:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia’s Attacks on Europe Are Getting More Brazen and More Dangerous",
-      "url": "https://www.insurancejournal.com/news/international/2026/09/17/885426.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-09-17T10:03:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hegseth's true job is done — and now he's in grave danger",
-      "url": "https://www.rawstory.com/raw-investigates/hegseth-firing/",
-      "source": "Raw Story",
-      "publishedAt": "2026-09-17T10:00:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Test: Gaza Puts the India–Israel Alliance on Trial",
-      "url": "https://activistpost.com/the-test-gaza-puts-the-india-israel-alliance-on-trial/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-09-17T09:54:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Houthi offensive in Yemen adds to fear that Iran war could escalate into a wider global conflict",
       "url": "https://theconversation.com/houthi-offensive-in-yemen-adds-to-fear-that-iran-war-could-escalate-into-a-wider-global-conflict-286816",
       "source": "The Conversation Africa",
       "publishedAt": "2026-09-17T09:29:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Aftermath: A Second Middle East Front",
-      "url": "https://prospect.org/2026/09/17/aftermath-yemen-houthis-second-middle-east-front/",
-      "source": "The American Prospect",
-      "publishedAt": "2026-09-17T09:20:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "UN mission believes US behind strikes on Iran school",
-      "url": "https://www.rte.ie/news/2026/0917/1591867-iran-school-strikes-un/",
-      "source": "RTE",
-      "publishedAt": "2026-09-17T08:24:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Only ‘idiots’ think N. Korea to give up nuclear weapons – Leader’s sister",
@@ -225,14 +241,6 @@
       "publishedAt": "2026-09-17T07:01:03Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump Threatens Further Strikes on Iran as U.S. Generals Warn of Overstretched Forces",
-      "url": "https://www.naturalnews.com/2026-09-17-trump-threatens-further-strikes-iran-overstretched-forces.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-17T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "The creators of \"Naza\" should have spoken to me",

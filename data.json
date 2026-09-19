@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-18T20:25:14Z",
-  "count": 41,
+  "updated": "2026-09-19T03:13:11Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "U.S. to allow Iranian leaders to attend UN, Abbas to speak via video",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-18/ty-article-live/u-s-to-allow-iranian-leaders-to-attend-un-abbas-to-speak-via-video/000001a0-b231-d5b2-a9ee-b2bbc9400000",
+      "source": "Haaretz",
+      "publishedAt": "2026-09-18T02:04:45Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Enemy the Alliance Needs",
+      "url": "https://original.antiwar.com/thomas_karat/2026/09/17/the-enemy-the-alliance-needs/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-09-18T00:00:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UN mission notes possible US war crimes in Iran strikes",
+      "url": "https://www.dw.com/en/un-mission-notes-possible-us-war-crimes-in-iran-strikes/a-79316385",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-17T23:48:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Qatari spokesman on regional war and the path back to U.S.-Iran talks",
+      "url": "https://www.pbs.org/newshour/show/qatari-spokesman-on-regional-war-and-the-path-back-to-u-s-iran-talks",
+      "source": "PBS",
+      "publishedAt": "2026-09-17T22:30:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "N.Korea leader’s sister blasts US drills, threatens ‘more offensive’ response",
+      "url": "https://www.vanguardngr.com/2026/09/n-korea-leaders-sister-blasts-us-drills-threatens-more-offensive-response/",
+      "source": "Vanguard",
+      "publishedAt": "2026-09-17T22:26:51Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump hails 'major progress' in setting up US base in Poland",
+      "url": "https://www.dw.com/en/trump-hails-major-progress-in-setting-up-us-base-in-poland/a-79316328",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-17T21:55:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+      "url": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-17T21:38:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Senator Jeanne Shaheen: ‘Putin Is Trying To Wait Us Out’",
+      "url": "https://www.rferl.org/a/us-senator-jeanne-shaheen-putin-ukraine-russia/33858412.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-09-17T21:34:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin could be planning to bomb Britain and other countries supporting Ukraine, Donald Tusk warns",
+      "url": "https://www.dailymail.com/news/article-16140369/Putin-planning-bomb-Britain-Donald-Tusk-warns.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-17T21:22:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Trump Says US Close To Base Expansion Deal With Poland, Potentially Escalating Tensions With Russia",
       "url": "https://dailycaller.com/2026/09/17/donald-trump-base-poland-russia-agression-karol-nawrocki",
@@ -23,6 +95,14 @@
       "url": "https://www.motherjones.com/politics/2026/09/killer-ai-iran-autonomous-maven-poll-ai-safety/",
       "source": "Mother Jones",
       "publishedAt": "2026-09-17T19:25:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Crude Prices Slip as Supply Fears Ease",
+      "url": "https://www.barchart.com/story/news/4665760/crude-prices-slip-as-supply-fears-ease",
+      "source": "Barchart.com",
+      "publishedAt": "2026-09-17T19:14:08Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -75,20 +155,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "‘Reasonable grounds’ to believe US committed war crimes in Iran – UN",
-      "url": "https://www.rt.com/news/645915-iran-us-war-crimes/",
-      "source": "RT",
-      "publishedAt": "2026-09-17T15:08:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo",
-      "source": "BBC News",
-      "publishedAt": "2026-09-17T15:07:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "Crude Prices Fall as Saudi Arabia Seeks to Restore East-West Pipeline",
+      "url": "https://www.barchart.com/story/news/4661606/crude-prices-fall-as-saudi-arabia-seeks-to-restore-east-west-pipeline",
+      "source": "Barchart.com",
+      "publishedAt": "2026-09-17T15:31:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "NATO is shifting from air policing to a new ‘360-degree’ defense as drone and missile threats grow, official says",
@@ -97,14 +169,6 @@
       "publishedAt": "2026-09-17T15:01:25Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "China Officially Stands for World Peace Yet Cooperates with U.S. War-Making",
-      "url": "https://covertactionmagazine.com/2026/09/08/china-officially-stands-for-world-peace-yet-cooperates-with-u-s-war-making/",
-      "source": "Covertactionmagazine.com",
-      "publishedAt": "2026-09-17T14:12:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Congress Sends Sweeping Russia-Iran Sanctions Bill to Trump",
@@ -119,30 +183,6 @@
       "url": "https://uk.news.yahoo.com/nato-ready-fight-ukraine-war-100730218.html",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-09-17T13:00:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US government war on Iran to drive fuel prices higher, analysts warn",
-      "url": "https://cryptobriefing.com/us-iran-war-fuel-prices-surge/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-17T12:52:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Senator Jeanne Shaheen: 'Putin Is Trying To Wait Us Out'",
-      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/09/russia-260917-rferl03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-17T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US Congress Passes Sweeping Russia Sanctions Bill, Sends It To Trump",
-      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/09/russia-260917-rferl01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-17T12:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -163,28 +203,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Russia 'is plotting assassinations in US and European countries supporting Ukraine'",
-      "url": "https://www.dailymail.com/news/article-16138599/Russia-plotting-assassinations-US-European-countries-supporting-Ukraine.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-17T11:33:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump wants largest-ever Israeli heavy bomb transfer — but proposal has Congress preparing for $2.8B fight",
       "url": "https://www.foxnews.com/politics/trump-wants-largest-ever-israeli-heavy-bomb-transfer-proposal-has-congress-preparing-2-8b-fight",
       "source": "Fox News",
       "publishedAt": "2026-09-17T10:30:30Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Trump's pressure on NATO is reshaping Europe's defenses. Will it break the alliance",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-pressure-on-nato-is-reshaping-europes-defenses-will-it-break-the-alliance/articleshow/134308598.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-17T10:23:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Kim’s sister says only ‘idiots’ think N Korea to give up nukes",
@@ -257,78 +281,6 @@
       "publishedAt": "2026-09-17T02:12:27Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Crude Oil Prices Sharply Lower as Middle East Disruptions Ease",
-      "url": "https://www.barchart.com/story/news/4641970/crude-oil-prices-sharply-lower-as-middle-east-disruptions-ease",
-      "source": "Barchart.com",
-      "publishedAt": "2026-09-16T19:16:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Next Trump-Kim Summit Could Be About North Korea’s Future Ruler",
-      "url": "http://foreignpolicy.com/2026/09/16/north-korea-united-states-trump-kim-meeting-heir-succession/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-16T13:50:23Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump is fighting Iran with strategic clarity — and America is winning",
-      "url": "https://www.foxnews.com/opinion/trump-fighting-iran-strategic-clarity-america-winning",
-      "source": "Fox News",
-      "publishedAt": "2026-09-16T13:00:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Spokesman for DPRK Ministry of National Defence Clarifies Stand",
-      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260916-kcna02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-16T12:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The End of the American Age",
-      "url": "https://www.theatlantic.com/ideas/2026/09/trump-iran-superpower-decline/688639/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-09-16T10:50:14Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "South Korean Court Orders North Korea to Pay $32.5 Million for Blowing Up Joint Liaison Office",
-      "url": "https://military.com/south-korean-court-orders-north-korea-to-pay-325-million-for-blowing-up-joint-liaison-office",
-      "source": "Military.com",
-      "publishedAt": "2026-09-16T10:41:46Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Why Yemen's Houthis have only grown stronger through years of war",
-      "url": "https://economictimes.indiatimes.com/news/defence/why-yemens-houthis-have-only-grown-stronger-through-years-of-war/articleshow/134282936.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-16T08:46:13Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why Yemen's Houthi rebels have only grown stronger through years of war",
-      "url": "https://www.business-standard.com/world-news/why-yemen-s-houthi-rebels-have-only-grown-stronger-through-years-of-war-126091600319_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-09-16T06:47:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Is the nuclear non-proliferation pact a model for regulating runaway AI?",
-      "url": "https://theconversation.com/is-the-nuclear-non-proliferation-pact-a-model-for-regulating-runaway-ai-292104",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-09-16T02:41:07Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

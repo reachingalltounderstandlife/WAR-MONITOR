@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-19T15:23:21Z",
+  "updated": "2026-09-19T20:04:10Z",
   "count": 38,
   "articles": [
+    {
+      "title": "In War, Trump and Putin Are Much Alike",
+      "url": "http://foreignpolicy.com/2026/09/18/keir-giles-american-overthrow-book-trump-putin-war-iran-ukraine-russia/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-18T18:40:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Yemeni Civilians Flee as Houthi-Saudi Conflict Continues",
+      "url": "https://www.breitbart.com/middle-east/2026/09/18/yemeni-civilians-flee-houthi-saudi-conflict-continues/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-09-18T18:39:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Here’s What Doves And Hawks Think About The UN’s Iran War Crime Report",
+      "url": "https://dailycaller.com/2026/09/18/hawks-and-doves-react-to-uns-iran-war-crimes-report",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-09-18T18:32:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
+      "url": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-18T18:19:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelenskyy holds inaugural 'Carpathian Eight' regional summit",
+      "url": "https://www.dw.com/en/carpathian-eight-ukraine-zelenskyy-tusk-vucic/a-79333437",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-18T17:36:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iranians rally in biggest show of defiance against US since war began",
+      "url": "https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-18T17:23:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Returns to UN as Iran War Spreads Across Shipping Chokepoints",
+      "url": "https://gcaptain.com/trump-returns-to-un-as-iran-war-spreads-across-shipping-chokepoints/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-09-18T16:58:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump touts plan for new U.S. base as Poland warns of risks from Russia",
+      "url": "https://www.cbsnews.com/news/trump-poland-us-military-base-russia-ukraine-war-nato/",
+      "source": "CBS News",
+      "publishedAt": "2026-09-18T16:34:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US NATO Envoy Whitaker Warns Patriot Shortage Means Washington, Allies Must 'Dig Deep'",
+      "url": "https://www.rferl.org/a/us-nato-envoy-whitaker-patriot-shortage-ukraine/33858935.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-09-18T15:52:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Poland Says Russia Plans to Strike Ukraine’s NATO Allies",
+      "url": "https://military.com/poland-says-russia-plans-to-strike-ukraines-nato-allies",
+      "source": "Military.com",
+      "publishedAt": "2026-09-18T15:25:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Russia’s Locomotive Strike Campaign Threatens to Cripple Ukraine’s Military Logistics",
       "url": "https://www.globalresearch.ca/russia-locomotive-strike-campaign-threatens-cripple-ukraine-military-logistics/5941071",
@@ -43,44 +123,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "In 2001, Boston Harbor scientists released red dye to test how treated wastewater dispersed from the new outfall into Massachusetts Bay",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2000-boston-harbor-scientists-released-red-dye-to-test-a-new-wastewater-outfall-before-it-began-sending-treated-water-into-massachusetts-bay/articleshow/134332517.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-18T13:32:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Apocalypse Now: Naomi Klein and Astra Taylor Investigate the End-Timers Alliance",
       "url": "https://theintercept.com/2026/09/18/naomi-klein-astra-taylor-ai-religious-apocalypse-doom/",
       "source": "The Intercept",
       "publishedAt": "2026-09-18T13:30:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Zelenskyy Welcomes Leaders From 7 Countries for a Regional Summit",
-      "url": "https://military.com/zelenskyy-welcomes-leaders-from-7-countries-for-a-regional-summit",
-      "source": "Military.com",
-      "publishedAt": "2026-09-18T13:23:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "In 2024, Alabama turned three Fish River sites red, using harmless dye in a time-of-journey study to help build model pollution in the Weeks Bay watershed",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2024-alabama-turned-three-fish-river-sites-red-using-harmless-dye-to-build-a-pollution-model-to-protect-weeks-bay-its-wildlife-and-shellfish/articleshow/134332231.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-18T13:17:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "In 2024, New York released dye into Patchogue Bay to track treated wastewater and help protect shellfish waters, beaches and bay wildlife downstream",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2024-new-york-released-dye-into-patchogue-bay-to-track-treated-wastewater-and-help-protect-shellfish-waters-beaches-and-bay-wildlife-downstream/articleshow/134330979.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-18T13:09:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "As Houthis grab Bab al-Mandeb, US appears willing to watch from sidelines",
@@ -91,28 +139,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "In 2025, Florida salvagers found more than 1,000 gold and silver coins from a 1715 wreck off the Treasure Coast; the salvage company estimated the haul at $1 million",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2025-florida-salvagers-found-more-than-1000-gold-and-silver-coins-from-a-1715-wreck-off-the-treasure-coast-the-haul-was-estimated-at-1-million/articleshow/134330474.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-18T12:40:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Where Does North Korea’s Nuclear Program Stand in 2026?",
       "url": "https://thediplomat.com/2026/09/where-does-north-koreas-nuclear-program-stand-in-2026/",
       "source": "The Diplomat",
       "publishedAt": "2026-09-18T12:38:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Macron reveals Russia’s hybrid attacks on France in recent weeks",
-      "url": "https://cryptobriefing.com/macron-reveals-russias-hybrid-attacks-on-france-in-recent-weeks/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-18T12:17:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "As Iran War Grinds On, Trump To Face Skeptical World Leaders At UN",
@@ -135,38 +167,6 @@
       "url": "https://whyevolutionistrue.com/2026/09/18/friday-hili-dialogue-595/",
       "source": "Whyevolutionistrue.com",
       "publishedAt": "2026-09-18T11:45:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "United Nations says US may have committed war crimes in Iran: What it means",
-      "url": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-18T10:43:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Saudis and Houthis Exchange Strikes, Yemenis Flee by Boat as Middle East War Spreads",
-      "url": "https://www.insurancejournal.com/news/international/2026/09/18/885638.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-09-18T10:18:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The 9 at 9: Friday",
-      "url": "https://www.thejournal.ie/9-at-9-friday-75-7166241-Sep2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-09-18T07:45:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran War Quick Snippets: Trump Again Threatens Annihilation Amid Signs of Saudi-Ansar Allah Feelers",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-quick-snippets-trump-again-threatens-annihilation-amid-signs-of-saudi-ansar-allah-feelers.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-18T07:18:56Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

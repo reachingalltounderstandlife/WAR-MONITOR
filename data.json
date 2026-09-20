@@ -1,7 +1,103 @@
 {
-  "updated": "2026-09-20T03:30:02Z",
-  "count": 28,
+  "updated": "2026-09-20T10:39:33Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "Press Statement of Kim Yo Jong, Department Director of C.C., WPK",
+      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260919-kcna02.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-19T09:53:12Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "British military sites were targeted by drones hundreds of times in last year, new figures show as tensions rise with Russia and Iran",
+      "url": "https://www.dailymail.com/news/article-16144127/British-military-sites-target-drones-hundreds-times-Russia-Iran.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-19T09:48:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Awakening Ganesh Within",
+      "url": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/awakening-ganesh-within/articleshow/134351171.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-19T09:16:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "SPPU students protest rise in 10 per meal",
+      "url": "https://timesofindia.indiatimes.com/city/pune/sppu-students-protest-rise-in-10-per-meal/articleshow/134351034.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-19T09:13:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The leap that began with a dare",
+      "url": "https://timesofindia.indiatimes.com/toi-blogs/roots-identity/the-leap-that-began-with-a-dare/articleshow/134350972.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-19T09:02:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NEET PG 2026 answer key, response sheet to be released soon: Check marking scheme and steps to download",
+      "url": "https://timesofindia.indiatimes.com/education/news/neet-pg-2026-answer-key-response-sheet-to-be-released-soon-check-marking-scheme-and-steps-to-download/articleshow/134350540.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-19T09:00:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ellen DeGeneres and Portia de Rossi paid $6.7 million for a 1917 Santa Barbara farmhouse in 2018, spent a year restoring it, sold it in 2019 — and it's now relisted for $14.75 million",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/ellen-degeneres-and-portia-de-rossi-paid-6-7-million-for-a-1917-santa-barbara-farmhouse-in-2018-spent-a-year-restoring-it-sold-it-in-2019-and-its-now-relisted-for-14-75-million/articleshow/134350897.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-19T08:58:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "PG medicos may get 6-month training in robotic surgery",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/pg-medicos-may-get-6-month-training-in-robotic-surgery/articleshow/134350931.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-19T08:55:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "7 of Bhubaneswar family among 8 killed in Madhya Pradesh accident",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/7-of-bhubaneswar-family-among-8-killed-in-madhya-pradesh-accident/articleshow/134350722.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-19T08:44:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Flights at Luxembourg airport on hold after drone activity forces shutdown",
+      "url": "https://timesofindia.indiatimes.com/world/europe/flights-at-luxembourg-airport-on-hold-after-drone-activity-forces-shutdown/articleshow/134350741.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-19T08:43:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Kerala needs to store its sunshine",
+      "url": "https://timesofindia.indiatimes.com/toi-blogs/roots-identity/why-kerala-needs-to-store-its-sunshine/articleshow/134350618.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-19T08:40:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Could US pull one-third of troops from Europe? What that would mean",
+      "url": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-19T06:30:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "North Korea dismisses UN nuclear watchdog resolution",
       "url": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution",
@@ -27,28 +123,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Germany should profit from Ukraine aid – Merz ally",
-      "url": "https://www.rt.com/news/645965-germany-profit-ukraine-aid-soeder/",
-      "source": "RT",
-      "publishedAt": "2026-09-19T01:18:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The left lobs yet another ‘Big Lie’ on Israel — and the fallout keeps getting worse",
       "url": "https://nypost.com/2026/09/18/opinion/the-left-lobs-yet-another-big-lie-on-israel-and-the-fallout-keeps-getting-worse/",
       "source": "New York Post",
       "publishedAt": "2026-09-19T00:58:31Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Your Questions About Trump, Putin, and Russia’s Election Interference Answered",
-      "url": "https://www.motherjones.com/politics/2026/09/david-corn-reddit-ama-trump-putin-how-russia-won/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-09-19T00:53:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "‘I’ve forgotten how a normal person sees’: Survivor of Israel’s pager attack talks to RT (VIDEO)",
@@ -67,14 +147,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "'Blasé' Andy Burnham is urged to wake up to Putin's 'plans to attack Europe' amid concerns warning signs are being missed",
-      "url": "https://www.dailymail.com/news/article-16143293/Burnham-Putin-plan-attack-Europe.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-18T22:03:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "‘We’ll Bomb the Sh*t Out of Them’: Trump and the War on Morality",
       "url": "https://activistpost.com/well-bomb-the-sht-out-of-them-trump-and-the-war-on-morality/",
       "source": "Activistpost.com",
@@ -83,36 +155,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Putin prepares to escalate war, targets Ukraine’s European allies: Telegraph",
-      "url": "https://cryptobriefing.com/putin-prepares-to-escalate-war-targets-ukraines-european-allies-telegraph/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-18T21:08:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelensky’s endgame, Houthi dominance, German decline: RT stories that shaped the week",
-      "url": "https://www.rt.com/news/645956-rt-top-stories-zelensky-houthis-merz/",
-      "source": "RT",
-      "publishedAt": "2026-09-18T21:00:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Crude Prices Retreat on Hopes Middle East Energy Exports to Recover",
       "url": "https://www.barchart.com/story/news/4685554/crude-prices-retreat-on-hopes-middle-east-energy-exports-to-recover",
       "source": "Barchart.com",
       "publishedAt": "2026-09-18T19:14:55Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "In War, Trump and Putin Are Much Alike",
-      "url": "http://foreignpolicy.com/2026/09/18/keir-giles-american-overthrow-book-trump-putin-war-iran-ukraine-russia/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-18T18:40:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Yemeni Civilians Flee as Houthi-Saudi Conflict Continues",
@@ -131,22 +179,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
-      "url": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-18T18:19:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy holds inaugural 'Carpathian Eight' regional summit",
-      "url": "https://www.dw.com/en/carpathian-eight-ukraine-zelenskyy-tusk-vucic/a-79333437",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-18T17:36:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iranians rally in biggest show of defiance against US since war began",
       "url": "https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began",
       "source": "Al Jazeera English",
@@ -159,30 +191,6 @@
       "url": "https://gcaptain.com/trump-returns-to-un-as-iran-war-spreads-across-shipping-chokepoints/",
       "source": "gcaptain.com",
       "publishedAt": "2026-09-18T16:58:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump touts plan for new U.S. base as Poland warns of risks from Russia",
-      "url": "https://www.cbsnews.com/news/trump-poland-us-military-base-russia-ukraine-war-nato/",
-      "source": "CBS News",
-      "publishedAt": "2026-09-18T16:34:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US NATO Envoy Whitaker Warns Patriot Shortage Means Washington, Allies Must 'Dig Deep'",
-      "url": "https://www.rferl.org/a/us-nato-envoy-whitaker-patriot-shortage-ukraine/33858935.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-09-18T15:52:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Houthi Advance Is About More Than Just Iran",
-      "url": "http://foreignpolicy.com/2026/09/18/houthi-yemen-saudi-arabia-uae-iran-oil-israel-united-states/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-18T14:36:21Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

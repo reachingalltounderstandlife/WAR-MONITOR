@@ -1,7 +1,111 @@
 {
-  "updated": "2026-09-19T20:04:10Z",
-  "count": 38,
+  "updated": "2026-09-20T03:30:02Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "North Korea dismisses UN nuclear watchdog resolution",
+      "url": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-19T03:29:54Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran war's cost grows to $43.6 bn, weapons bill hits $28.1 bn: US military",
+      "url": "https://www.business-standard.com/world-news/iran-war-s-cost-grows-to-43-6-bn-weapons-bill-hits-28-1-bn-us-military-126091900059_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-19T03:02:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea rejects UN nuclear watchdog call to halt atomic activities",
+      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-rejects-un-nuclear-watchdog-call-to-halt-atomic-activities/articleshow/134346708.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-19T02:43:01Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Germany should profit from Ukraine aid – Merz ally",
+      "url": "https://www.rt.com/news/645965-germany-profit-ukraine-aid-soeder/",
+      "source": "RT",
+      "publishedAt": "2026-09-19T01:18:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The left lobs yet another ‘Big Lie’ on Israel — and the fallout keeps getting worse",
+      "url": "https://nypost.com/2026/09/18/opinion/the-left-lobs-yet-another-big-lie-on-israel-and-the-fallout-keeps-getting-worse/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-19T00:58:31Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Your Questions About Trump, Putin, and Russia’s Election Interference Answered",
+      "url": "https://www.motherjones.com/politics/2026/09/david-corn-reddit-ama-trump-putin-how-russia-won/",
+      "source": "Mother Jones",
+      "publishedAt": "2026-09-19T00:53:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘I’ve forgotten how a normal person sees’: Survivor of Israel’s pager attack talks to RT (VIDEO)",
+      "url": "https://www.rt.com/news/645959-israel-pager-attack-lebanon-survivor/",
+      "source": "RT",
+      "publishedAt": "2026-09-19T00:18:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Almost Started a War’: US Military Nearly Boarded a Chinese Ship Based on Bad Intel From AI",
+      "url": "https://gizmodo.com/almost-started-a-war-us-military-nearly-boarded-a-chinese-ship-based-on-bad-intel-from-ai-2000814290",
+      "source": "Gizmodo.com",
+      "publishedAt": "2026-09-19T00:07:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Blasé' Andy Burnham is urged to wake up to Putin's 'plans to attack Europe' amid concerns warning signs are being missed",
+      "url": "https://www.dailymail.com/news/article-16143293/Burnham-Putin-plan-attack-Europe.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-18T22:03:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘We’ll Bomb the Sh*t Out of Them’: Trump and the War on Morality",
+      "url": "https://activistpost.com/well-bomb-the-sht-out-of-them-trump-and-the-war-on-morality/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-09-18T22:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin prepares to escalate war, targets Ukraine’s European allies: Telegraph",
+      "url": "https://cryptobriefing.com/putin-prepares-to-escalate-war-targets-ukraines-european-allies-telegraph/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-18T21:08:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelensky’s endgame, Houthi dominance, German decline: RT stories that shaped the week",
+      "url": "https://www.rt.com/news/645956-rt-top-stories-zelensky-houthis-merz/",
+      "source": "RT",
+      "publishedAt": "2026-09-18T21:00:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Crude Prices Retreat on Hopes Middle East Energy Exports to Recover",
+      "url": "https://www.barchart.com/story/news/4685554/crude-prices-retreat-on-hopes-middle-east-energy-exports-to-recover",
+      "source": "Barchart.com",
+      "publishedAt": "2026-09-18T19:14:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "In War, Trump and Putin Are Much Alike",
       "url": "http://foreignpolicy.com/2026/09/18/keir-giles-american-overthrow-book-trump-putin-war-iran-ukraine-russia/",
@@ -75,66 +179,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Poland Says Russia Plans to Strike Ukraine’s NATO Allies",
-      "url": "https://military.com/poland-says-russia-plans-to-strike-ukraines-nato-allies",
-      "source": "Military.com",
-      "publishedAt": "2026-09-18T15:25:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia’s Locomotive Strike Campaign Threatens to Cripple Ukraine’s Military Logistics",
-      "url": "https://www.globalresearch.ca/russia-locomotive-strike-campaign-threatens-cripple-ukraine-military-logistics/5941071",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-18T14:57:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The West won’t fight Russia itself. Eastern Europe may have to",
-      "url": "https://www.rt.com/news/645958-west-russia-eastern-europe/",
-      "source": "RT",
-      "publishedAt": "2026-09-18T14:55:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia and Ukraine: Does Anyone Understand the Actual Situation?",
-      "url": "https://www.globalresearch.ca/does-anyone-understand-actual-situation/5941072",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-18T14:42:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The Houthi Advance Is About More Than Just Iran",
       "url": "http://foreignpolicy.com/2026/09/18/houthi-yemen-saudi-arabia-uae-iran-oil-israel-united-states/",
       "source": "Foreign Policy",
       "publishedAt": "2026-09-18T14:36:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia seizes assets of French firms, summons UK envoy over Ukraine support",
-      "url": "https://www.aljazeera.com/news/2026/9/18/russia-seizes-assets-of-french-firms-summons-uk-envoy-over-ukraine-support",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-18T14:17:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Apocalypse Now: Naomi Klein and Astra Taylor Investigate the End-Timers Alliance",
-      "url": "https://theintercept.com/2026/09/18/naomi-klein-astra-taylor-ai-religious-apocalypse-doom/",
-      "source": "The Intercept",
-      "publishedAt": "2026-09-18T13:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "As Houthis grab Bab al-Mandeb, US appears willing to watch from sidelines",
-      "url": "https://www.aljazeera.com/news/2026/9/18/as-houthis-grab-bab-al-mandeb-us-appears-willing-to-watch-from-sidelines",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-18T12:52:29Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -145,30 +193,6 @@
       "publishedAt": "2026-09-18T12:38:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "As Iran War Grinds On, Trump To Face Skeptical World Leaders At UN",
-      "url": "https://www.huffpost.com/entry/trump-un-iran-war_n_6aad29d8e4b00c07b746158f",
-      "source": "HuffPost",
-      "publishedAt": "2026-09-18T12:17:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US approves sale of 48 F-35 jets to Saudi Arabia",
-      "url": "https://www.hurriyetdailynews.com/us-approves-sale-of-48-f-35-jets-to-saudi-arabia-227033",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-09-18T12:02:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Friday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/09/18/friday-hili-dialogue-595/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-09-18T11:45:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Trump 'clearly' wants dialogue with Pyongyang: S Korean President",
@@ -199,110 +223,6 @@
       "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-18/ty-article-live/u-s-to-allow-iranian-leaders-to-attend-un-abbas-to-speak-via-video/000001a0-b231-d5b2-a9ee-b2bbc9400000",
       "source": "Haaretz",
       "publishedAt": "2026-09-18T02:04:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "N.Korea leader’s sister blasts US drills, threatens ‘more offensive’ response",
-      "url": "https://www.vanguardngr.com/2026/09/n-korea-leaders-sister-blasts-us-drills-threatens-more-offensive-response/",
-      "source": "Vanguard",
-      "publishedAt": "2026-09-17T22:26:51Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Crude Prices Slip as Supply Fears Ease",
-      "url": "https://www.barchart.com/story/news/4665760/crude-prices-slip-as-supply-fears-ease",
-      "source": "Barchart.com",
-      "publishedAt": "2026-09-17T19:14:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Crude Prices Fall as Saudi Arabia Seeks to Restore East-West Pipeline",
-      "url": "https://www.barchart.com/story/news/4661606/crude-prices-fall-as-saudi-arabia-seeks-to-restore-east-west-pipeline",
-      "source": "Barchart.com",
-      "publishedAt": "2026-09-17T15:31:12Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Security Council Hears Call for Merit-Based Appointments as Syria Seeks Shift from Relief Aid to Reconstruction, Growth",
-      "url": "https://www.globalsecurity.org/wmd/library/news/syria/2026/syria-260917-unsc01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-17T12:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "IAEA members raise 'concern' over North Korea nuclear expansion",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-nuclear-expansion-iaea-concern-6392081",
-      "source": "CNA",
-      "publishedAt": "2026-09-17T11:36:47Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump wants largest-ever Israeli heavy bomb transfer — but proposal has Congress preparing for $2.8B fight",
-      "url": "https://www.foxnews.com/politics/trump-wants-largest-ever-israeli-heavy-bomb-transfer-proposal-has-congress-preparing-2-8b-fight",
-      "source": "Fox News",
-      "publishedAt": "2026-09-17T10:30:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Kim’s sister says only ‘idiots’ think N Korea to give up nukes",
-      "url": "https://www.hurriyetdailynews.com/kims-sister-says-only-idiots-think-n-korea-to-give-up-nukes-226988",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-09-17T10:20:28Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Houthi offensive in Yemen adds to fear that Iran war could escalate into a wider global conflict",
-      "url": "https://theconversation.com/houthi-offensive-in-yemen-adds-to-fear-that-iran-war-could-escalate-into-a-wider-global-conflict-286816",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-09-17T09:29:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Only ‘idiots’ think N. Korea to give up nuclear weapons – Leader’s sister",
-      "url": "https://www.vanguardngr.com/2026/09/only-idiots-think-n-korea-to-give-up-nuclear-weapons-leaders-sister/",
-      "source": "Vanguard",
-      "publishedAt": "2026-09-17T08:18:37Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Only ‘idiots’ think N’Korea will give up nukes, says Kim’s sister",
-      "url": "https://punchng.com/only-idiots-think-nkorea-will-give-up-nukes-says-kims-sister/",
-      "source": "The Punch",
-      "publishedAt": "2026-09-17T07:53:09Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea accused of using overseas workers finance nuclear weapons",
-      "url": "https://www.abc.net.au/news/2026-09-17/north-korean-overseas-workers-financing-nukes/107165468",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-17T07:44:28Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The Real U.S.-Saudi Nuclear Deal Is Better Than We Thought",
-      "url": "https://warontherocks.com/the-real-u-s-saudi-nuclear-deal-is-better-than-we-thought/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-09-17T07:30:37Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The creators of \"Naza\" should have spoken to me",
-      "url": "https://www.israelnationalnews.com/news/433293",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-17T05:13:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

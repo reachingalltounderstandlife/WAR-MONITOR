@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-20T10:39:33Z",
-  "count": 29,
+  "updated": "2026-09-20T15:28:29Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Saudi Arabia issues air raid alerts across the country, and other Mideast developments",
+      "url": "https://www.thehindubusinessline.com/news/world/saudi-arabia-issues-air-raid-alerts-across-the-country-and-other-mideast-developments/article71485388.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-09-19T15:02:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UN peacekeeping chief in Lebanon says smooth transition is critical before pull-out",
+      "url": "https://economictimes.indiatimes.com/news/defence/un-peacekeeping-chief-in-lebanon-says-smooth-transition-is-critical-before-pull-out/articleshow/134355919.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-19T14:33:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO ‘ready’ for potential Russian false flag attack, alliance’s top general says",
+      "url": "https://www.politico.eu/article/nato-ready-russia-false-flag-attack-giuseppe-cavo-dragone/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-09-19T14:23:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What’s behind reports that the Israeli army is low on troops, equipment?",
+      "url": "https://www.aljazeera.com/news/2026/9/19/whats-behind-reports-that-the-israeli-army-is-low-on-troops-equipment",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-19T12:51:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Iran IIFFM’s Unconvincing War Crimes Analysis",
+      "url": "http://opiniojuris.org/2026/09/19/the-iran-iiffms-unconvincing-war-crimes-analysis/",
+      "source": "Opiniojuris.org",
+      "publishedAt": "2026-09-19T11:17:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Is Betting on the Wrong Europe",
+      "url": "https://www.theatlantic.com/international/2026/09/europe-afd-far-right/688706/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-09-19T11:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How Progressives Can Lead the Dems Out of the Foreign-Policy Blob",
+      "url": "https://fpif.org/progressives-can-save-democrats-foreign-policy/",
+      "source": "Fpif.org",
+      "publishedAt": "2026-09-19T10:51:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Press Statement of Kim Yo Jong, Department Director of C.C., WPK",
       "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260919-kcna02.htm",
@@ -75,22 +131,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Flights at Luxembourg airport on hold after drone activity forces shutdown",
-      "url": "https://timesofindia.indiatimes.com/world/europe/flights-at-luxembourg-airport-on-hold-after-drone-activity-forces-shutdown/articleshow/134350741.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-19T08:43:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why Kerala needs to store its sunshine",
-      "url": "https://timesofindia.indiatimes.com/toi-blogs/roots-identity/why-kerala-needs-to-store-its-sunshine/articleshow/134350618.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-19T08:40:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Could US pull one-third of troops from Europe? What that would mean",
       "url": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean",
       "source": "Al Jazeera English",
@@ -159,40 +199,8 @@
       "url": "https://www.barchart.com/story/news/4685554/crude-prices-retreat-on-hopes-middle-east-energy-exports-to-recover",
       "source": "Barchart.com",
       "publishedAt": "2026-09-18T19:14:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Yemeni Civilians Flee as Houthi-Saudi Conflict Continues",
-      "url": "https://www.breitbart.com/middle-east/2026/09/18/yemeni-civilians-flee-houthi-saudi-conflict-continues/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-09-18T18:39:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Here’s What Doves And Hawks Think About The UN’s Iran War Crime Report",
-      "url": "https://dailycaller.com/2026/09/18/hawks-and-doves-react-to-uns-iran-war-crimes-report",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-09-18T18:32:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranians rally in biggest show of defiance against US since war began",
-      "url": "https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-18T17:23:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Returns to UN as Iran War Spreads Across Shipping Chokepoints",
-      "url": "https://gcaptain.com/trump-returns-to-un-as-iran-war-spreads-across-shipping-chokepoints/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-09-18T16:58:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Where Does North Korea’s Nuclear Program Stand in 2026?",

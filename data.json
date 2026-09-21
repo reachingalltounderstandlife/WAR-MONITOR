@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-20T20:20:49Z",
-  "count": 34,
+  "updated": "2026-09-21T03:24:56Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "Iran sets 7 conditions for talks with US through Qatar, warns of \"decisive war\" if Trump rejects demands",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-sets-7-conditions-for-talks-with-us-through-qatar-warns-of-decisive-war-if-trump-rejects-demands/articleshow/134362584.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-20T01:09:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin plans draft surge, targets NATO in Ukraine war escalation: report",
+      "url": "https://cryptobriefing.com/putin-plans-draft-surge-targets-nato-in-ukraine-war-escalation-report/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-20T00:59:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US nuclear submarines step in to defend crucial European sea cables from sabotage - amid warnings Putin is preparing to attack Europe",
+      "url": "https://www.dailymail.com/news/article-16145049/US-nuclear-submarines-defend-sea-cables-sabotage.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-19T21:13:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin Warns European Leaders Are Preparing for War With Russia: “We’ll Have to Respond”",
+      "url": "https://freerepublic.com/focus/f-bloggers/4396178/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-09-19T21:01:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "US Reaches Greenland Deal To End Row That Threatened NATO",
       "url": "https://gcaptain.com/us-reaches-greenland-deal-to-end-row-that-threatened-nato/",
@@ -163,38 +195,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "British military sites were targeted by drones hundreds of times in last year, new figures show as tensions rise with Russia and Iran",
-      "url": "https://www.dailymail.com/news/article-16144127/British-military-sites-target-drones-hundreds-times-Russia-Iran.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-19T09:48:54Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Awakening Ganesh Within",
-      "url": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/awakening-ganesh-within/articleshow/134351171.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-19T09:16:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "SPPU students protest rise in 10 per meal",
-      "url": "https://timesofindia.indiatimes.com/city/pune/sppu-students-protest-rise-in-10-per-meal/articleshow/134351034.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-19T09:13:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Could US pull one-third of troops from Europe? What that would mean",
-      "url": "https://www.aljazeera.com/news/2026/9/19/could-us-pull-one-third-of-troops-from-europe-what-that-would-mean",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-19T06:30:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea dismisses UN nuclear watchdog resolution",
       "url": "https://www.aljazeera.com/news/2026/9/19/north-korea-dismisses-un-nuclear-watchdog-resolution",
       "source": "Al Jazeera English",
@@ -223,54 +223,6 @@
       "url": "https://www.rt.com/news/645959-israel-pager-attack-lebanon-survivor/",
       "source": "RT",
       "publishedAt": "2026-09-19T00:18:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Crude Prices Retreat on Hopes Middle East Energy Exports to Recover",
-      "url": "https://www.barchart.com/story/news/4685554/crude-prices-retreat-on-hopes-middle-east-energy-exports-to-recover",
-      "source": "Barchart.com",
-      "publishedAt": "2026-09-18T19:14:55Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Where Does North Korea’s Nuclear Program Stand in 2026?",
-      "url": "https://thediplomat.com/2026/09/where-does-north-koreas-nuclear-program-stand-in-2026/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-09-18T12:38:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump 'clearly' wants dialogue with Pyongyang: S Korean President",
-      "url": "https://www.hurriyetdailynews.com/trump-clearly-wants-dialogue-with-pyongyang-s-korean-president-227012",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-09-18T05:34:13Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "South Korea says US-North Korea talks possible, rules out Hormuz deployment",
-      "url": "https://www.aljazeera.com/news/2026/9/18/south-korea-says-us-north-korea-talks-possible-rules-out-hormuz-deployment",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-18T05:23:10Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Houthi offensive in Yemen adds to Fear that Iran War could escalate into a wider global Conflict",
-      "url": "https://www.juancole.com/2026/09/offensive-escalate-conflict.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-09-18T04:06:38Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S. to allow Iranian leaders to attend UN, Abbas to speak via video",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-18/ty-article-live/u-s-to-allow-iranian-leaders-to-attend-un-abbas-to-speak-via-video/000001a0-b231-d5b2-a9ee-b2bbc9400000",
-      "source": "Haaretz",
-      "publishedAt": "2026-09-18T02:04:45Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

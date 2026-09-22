@@ -1,7 +1,159 @@
 {
-  "updated": "2026-09-22T03:23:59Z",
-  "count": 33,
+  "updated": "2026-09-22T10:59:14Z",
+  "count": 36,
   "articles": [
+    {
+      "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
+      "url": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-21T10:38:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Never Underestimate the Houthis",
+      "url": "https://www.rand.org/pubs/commentary/2026/09/never-underestimate-the-houthis.html",
+      "source": "Rand.org",
+      "publishedAt": "2026-09-21T10:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
+      "url": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-21T09:54:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Give War a Chance",
+      "url": "https://www.steynonline.com/16418/give-war-a-chance",
+      "source": "Steynonline.com",
+      "publishedAt": "2026-09-21T09:10:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Golf bosses consider moving Tour Championship finale from Dubai to Spain with Middle East war spiralling as Trump considers 'blowing up the entire nation' of Iran",
+      "url": "https://www.dailymail.com/sport/golf/article-16147701/golf-tour-championship-dubai-spain-relocation.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-21T09:01:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The New World Order Is Here",
+      "url": "http://nymag.com/intelligencer/article/canada-eu-united-nations-global-order.html",
+      "source": "New York Magazine",
+      "publishedAt": "2026-09-21T09:00:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea",
+      "url": "https://nypost.com/2026/09/21/world-news/south-korean-military-officers-injured-in-explosion-inside-dmz-bordering-north-korea/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-21T08:37:20Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting - CNBC",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185726164",
+      "source": "Slashdot.org",
+      "publishedAt": "2026-09-21T08:32:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Swiss Neutrality Council: Cumulative Erosion of Neutrality",
+      "url": "https://www.globalresearch.ca/swiss-neutrality-council-cumulative-erosion-neutrality/5941214",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-21T08:00:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia could launch attack on Nato within 'months not years', Western spy chiefs warn as Putin celebrates election win",
+      "url": "https://www.dailymail.com/news/article-16147451/Russia-launch-attack-Nato-months-not-years-Western-spy-chiefs-warn-Putin-celebrates-election-win.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-21T07:00:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Explosion injures 3 South Korean military officers in border area with North Korea",
+      "url": "https://abcnews.com/International/wireStory/explosion-injures-3-south-korean-military-officers-border-136611060",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-21T06:51:23Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "As war in the Middle East widens, Saudi Arabia’s new defence pact could face a major test",
+      "url": "https://theconversation.com/as-war-in-the-middle-east-widens-saudi-arabias-new-defence-pact-could-face-a-major-test-292357",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-09-21T06:18:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Drone Warfare Is Coming to America … And We’re Dangerously Unprepared",
+      "url": "https://www.naturalnews.com/2026-09-21-drone-warfare-coming-to-america-dangerously-unprepared.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Houthis and Saudi Arabia Exchange Strikes as Yemen Fighting Spreads",
+      "url": "https://www.naturalnews.com/2026-09-21-houthis-saudi-exchange-strikes-yemen-fighting-spreads.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-21T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran war pushes diesel to record high prices, with no relief on the horizon",
+      "url": "https://www.business-standard.com/world-news/iran-war-pushes-diesel-to-record-high-prices-with-no-relief-on-the-horizon-126092100286_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-21T05:58:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine is approaching what intelligence says will be the most critical moment of the war with Russia",
+      "url": "https://cryptobriefing.com/ukraine-is-approaching-what-intelligence-says-will-be-the-most-critical-moment/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-21T04:37:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelenskyy Brags About NATO Missile Systems Being Used to Attack Moscow and Russian Refineries",
+      "url": "https://freerepublic.com/focus/f-chat/4396299/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-09-21T03:56:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Taiwan launches global disaster response group amid China tensions",
+      "url": "https://cryptobriefing.com/taiwan-launches-global-disaster-response-group-amid-china-tensions/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-21T03:53:09Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Korybko to Lukyanov: Poland Will Play a Central Role in Europe’s New Security Architecture",
+      "url": "https://korybko.substack.com/p/korybko-to-lukyanov-poland-will-play",
+      "source": "Substack.com",
+      "publishedAt": "2026-09-21T03:51:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Kevin Rudd on AUKUS, his past remarks and how to avoid war",
       "url": "http://www.crikey.com.au/2026/09/21/kevin-rudd-aukus/",
@@ -63,8 +215,8 @@
       "url": "http://theeconomiccollapseblog.com/the-alert-level-for-the-iranian-military-has-been-raised-to-the-highest-possible-level-as-a-massive-escalation-appears-to-be-imminent/",
       "source": "Theeconomiccollapseblog.com",
       "publishedAt": "2026-09-20T20:31:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "North Korea launches projectile as Pyongyang reaffirms nuclear status",
@@ -73,70 +225,6 @@
       "publishedAt": "2026-09-20T20:08:51Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Iran’s military command says it’s been informed US plans to resume strikes - The Times of Israel",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185720922",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-09-20T19:32:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine strikes Russian refinery near Moscow with new Flamingo missile",
-      "url": "https://cryptobriefing.com/ukraine-strikes-russian-refinery-near-moscow-with-new-flamingo-missile/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-20T17:29:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran and U.S. trade threats after Houthi attacks escalate regional conflict.",
-      "url": "https://www.yahoo.com/news/articles/iran-warns-against-escalation-us-131851523.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-20T17:27:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Waltz delivers blunt warning to nations defying Iran sanctions, touts Greenland deal",
-      "url": "https://www.foxnews.com/world/waltz-delivers-blunt-warning-nations-defying-iran-sanctions-touts-greenland-deal",
-      "source": "Fox News",
-      "publishedAt": "2026-09-20T15:01:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran’s Plan to Shut Down AI in the Persian Gulf. Trump’s Reaction: “Do I Want to Go in and Eliminate Them or Not?”",
-      "url": "https://www.globalresearch.ca/iran-plan-shut-down-ai-persian-gulf/5941086",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-20T14:55:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel’s War, America’s Billions, and the Strategic Price of Defeat in the Gulf",
-      "url": "https://www.globalresearch.ca/israel-war-america-billions-strategic-price-defeat-gulf/5940970",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-20T14:43:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s military command says it’s been informed US plans to resume strikes",
-      "url": "https://freerepublic.com/focus/f-news/4396239/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-09-20T14:29:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Book Review: In The War Room, by Yonah Jeremy Bob and Elliot Kaufman",
-      "url": "https://legalinsurrection.com/2026/09/book-review-in-the-war-room/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-09-20T14:00:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea fires two ballistic missiles off east coast in three hours",
@@ -155,44 +243,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Russian false flag operation in Baltics? That’s how it was conducted in Ukraine in Feb 2022",
-      "url": "https://janatutkova.blog.pravda.sk/2026/09/20/russian-false-flag-operation-in-baltics-thats-how-it-was-conducted-in-ukraine-in-feb-2022/",
-      "source": "Pravda.sk",
-      "publishedAt": "2026-09-20T12:09:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine launches largest ever drone attack on Moscow with over 1,600 drones",
-      "url": "https://cryptobriefing.com/ukraine-largest-drone-attack-moscow/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-20T11:48:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea fires two ballistic missiles into East Sea, with second flying over 600km",
       "url": "https://www.thejournal.ie/north-korea-fires-two-ballistic-missiles-into-east-sea-7167726-Sep2026/",
       "source": "TheJournal.ie",
       "publishedAt": "2026-09-20T11:46:30Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "‘Russophobic West’ to blame for lost Ukraine peace chance – NATO state leader",
-      "url": "https://www.rt.com/news/646005-russophobic-west-blame-ukraine-peace-chance/",
-      "source": "RT",
-      "publishedAt": "2026-09-20T11:32:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Firebrand",
-      "url": "https://www.theatlantic.com/ideas/2026/09/abdul-el-sayed-michigan-senate-profile/688576/",
-      "source": "The Atlantic",
-      "publishedAt": "2026-09-20T11:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea launches 2 missiles within hours of each other as tensions rise",
@@ -211,14 +267,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Poland’s Ruling Liberals Appear To Be Plotting A Major Escalation Against Russia",
-      "url": "https://www.nakedcapitalism.com/2026/09/polands-ruling-liberals-appear-to-be-plotting-a-major-escalation-against-russia.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-20T10:00:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "US warns of rapid Middle East escalation after Houthis claim attack on Riyadh",
       "url": "https://www.irishtimes.com/world/middle-east/2026/09/20/us-warns-of-rapid-middle-east-escalation-after-houthis-claim-attack-on-riyadh/",
       "source": "The Irish Times",
@@ -231,30 +279,6 @@
       "url": "https://punchng.com/north-korea-fires-ballistic-missile-into-east-sea-south-korea/",
       "source": "The Punch",
       "publishedAt": "2026-09-20T08:36:19Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Europe reclassifies Russia’s actions as coordinated war campaign",
-      "url": "https://cryptobriefing.com/europe-reclassifies-russias-actions-as-coordinated-war-campaign/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-20T08:24:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Japan scrambles into alert mode after North Korea fires suspected ballistic missile into East Sea",
-      "url": "https://economictimes.indiatimes.com/news/international/us/japan-scrambles-into-alert-mode-after-north-korea-fires-suspected-ballistic-missile-into-east-sea/articleshow/134365223.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-20T08:00:56Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea fires short-range ballistic missile toward sea in latest weapons display",
-      "url": "https://abcnews.com/International/wireStory/north-korea-fires-short-range-ballistic-missile-sea-136595740",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-20T07:56:50Z",
       "_cat": "korea",
       "_label": "N. Korea"
     },

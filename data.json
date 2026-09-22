@@ -1,7 +1,127 @@
 {
-  "updated": "2026-09-22T10:59:14Z",
-  "count": 36,
+  "updated": "2026-09-22T16:18:28Z",
+  "count": 37,
   "articles": [
+    {
+      "title": "What spooked Europe last week? The rumbles of Russia war grow louder",
+      "url": "https://economictimes.indiatimes.com/news/defence/what-spooked-europe-last-week-the-rumbles-of-russia-war-grow-louder/articleshow/134392871.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-21T15:43:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Europe steps up preparations for possible conflict with Russia, analysis says",
+      "url": "https://en.protothema.gr/2026/09/21/europe-steps-up-preparations-for-possible-conflict-with-russia-cnn-analysis-says/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-09-21T15:16:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "INGERSOLL: Putin, Trump, Xi, And WWIII. What’s The Upside?",
+      "url": "https://dailycaller.com/2026/09/21/xi-jinping-china-taiwan-trump-russia-ukraine-war-world-war-iii-priorities-democrats",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-09-21T15:14:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Three Patrons, Three Clients: The Mecca Alliance No One Owns",
+      "url": "https://i-epikaira.blogspot.com/2026/09/three-patrons-three-clients-mecca.html",
+      "source": "Blogspot.com",
+      "publishedAt": "2026-09-21T15:04:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelensky floated single state idea to drag Warsaw into war – Polish opposition leader",
+      "url": "https://www.rt.com/news/646046-poland-kaczynski-war-russia/",
+      "source": "RT",
+      "publishedAt": "2026-09-21T14:49:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Saudi Arabia Facing Pressure at The Red Sea Bab al-Mandab Strait. Renewed Confrontation with the Houthis",
+      "url": "https://www.globalresearch.ca/saudi-arabia-pressure-bab-al-mandab/5941187",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-21T14:38:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ahead of Trump-Xi Summit, North Korea Launches More Missiles",
+      "url": "https://thediplomat.com/2026/09/ahead-of-trump-xi-summit-north-korea-launches-more-missiles/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-09-21T14:09:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Houthis push for control of Yemen highlands as Trump reportedly calls off airstrikes",
+      "url": "https://uk.news.yahoo.com/houthis-push-control-yemen-highlands-110616361.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-21T14:02:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Will WAR Bankrupt the West?",
+      "url": "https://activistpost.com/will-war-bankrupt-the-west/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-09-21T13:01:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia's secret plan to supercharge kamikaze drone production",
+      "url": "https://www.businessinsider.com/russia-kamikaze-drone-factory-expansion-plans-2026-9#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-09-21T12:47:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Taiwan’s Status Is Ambiguous. U.S. Policy Shouldn’t Be.",
+      "url": "http://foreignpolicy.com/2026/09/21/taiwan-ambiguity-china/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-21T11:51:31Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "‘Overstayed His Welcome’",
+      "url": "https://www.cjr.org/the_media_today/overstayed-his-welcome-galeano-nicaraguan-journalist-trump-ice-immigration-dragnet-ban-white-house-access.php",
+      "source": "Columbia Journalism Review",
+      "publishedAt": "2026-09-21T11:38:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Progressive Principles for a New US Foreign Policy",
+      "url": "https://www.commondreams.org/opinion/what-does-progressive-foreign-policy-look-like",
+      "source": "Common Dreams",
+      "publishedAt": "2026-09-21T11:23:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Explosion Injures 3 South Korean Military Officers Inside DMZ Bordering North Korea",
+      "url": "https://military.com/explosion-injures-3-south-korean-military-officers-inside-dmz-bordering-north-korea",
+      "source": "Military.com",
+      "publishedAt": "2026-09-21T11:22:19Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The Long Shadow of Biden’s Gaza Fiasco",
+      "url": "http://nymag.com/intelligencer/article/joe-biden-kamala-harris-gaza.html",
+      "source": "New York Magazine",
+      "publishedAt": "2026-09-21T11:00:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
       "url": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war",
@@ -67,22 +187,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Swiss Neutrality Council: Cumulative Erosion of Neutrality",
-      "url": "https://www.globalresearch.ca/swiss-neutrality-council-cumulative-erosion-neutrality/5941214",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-21T08:00:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia could launch attack on Nato within 'months not years', Western spy chiefs warn as Putin celebrates election win",
-      "url": "https://www.dailymail.com/news/article-16147451/Russia-launch-attack-Nato-months-not-years-Western-spy-chiefs-warn-Putin-celebrates-election-win.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-21T07:00:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Explosion injures 3 South Korean military officers in border area with North Korea",
       "url": "https://abcnews.com/International/wireStory/explosion-injures-3-south-korean-military-officers-border-136611060",
       "source": "Abcnews.com",
@@ -107,52 +211,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Houthis and Saudi Arabia Exchange Strikes as Yemen Fighting Spreads",
-      "url": "https://www.naturalnews.com/2026-09-21-houthis-saudi-exchange-strikes-yemen-fighting-spreads.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran war pushes diesel to record high prices, with no relief on the horizon",
-      "url": "https://www.business-standard.com/world-news/iran-war-pushes-diesel-to-record-high-prices-with-no-relief-on-the-horizon-126092100286_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-09-21T05:58:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine is approaching what intelligence says will be the most critical moment of the war with Russia",
-      "url": "https://cryptobriefing.com/ukraine-is-approaching-what-intelligence-says-will-be-the-most-critical-moment/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-21T04:37:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy Brags About NATO Missile Systems Being Used to Attack Moscow and Russian Refineries",
-      "url": "https://freerepublic.com/focus/f-chat/4396299/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-09-21T03:56:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Taiwan launches global disaster response group amid China tensions",
       "url": "https://cryptobriefing.com/taiwan-launches-global-disaster-response-group-amid-china-tensions/",
       "source": "Crypto Briefing",
       "publishedAt": "2026-09-21T03:53:09Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Korybko to Lukyanov: Poland Will Play a Central Role in Europe’s New Security Architecture",
-      "url": "https://korybko.substack.com/p/korybko-to-lukyanov-poland-will-play",
-      "source": "Substack.com",
-      "publishedAt": "2026-09-21T03:51:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Kevin Rudd on AUKUS, his past remarks and how to avoid war",
@@ -163,52 +227,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Ukraine fires new homemade Pelican ballistic missile in largest attack on Moscow yet - as fears grow across Europe that Putin is preparing to attack",
-      "url": "https://www.dailymail.com/news/article-16146989/Ukraine-fires-new-homemade-Pelican-ballistic-missile-largest-attack-Moscow-fears-grow-Europe-Putin-preparing-attack.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-21T00:33:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "War and sanctions are crippling Iran’s economy, with GDP plunging 10.1%",
-      "url": "https://en.protothema.gr/2026/09/21/war-and-sanctions-are-crippling-irans-economy-with-gdp-plunging-10-1/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-09-21T00:08:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "German general picked for top NATO military post",
-      "url": "https://www.rt.com/news/646008-german-general-nato-post/",
-      "source": "RT",
-      "publishedAt": "2026-09-20T23:11:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "European spy chiefs say Russia campaign against NATO could be 'months, not years' away in grim warning",
-      "url": "https://www.dailymail.com/news/article-16146585/European-spy-chiefs-Russia-campaign-NATO-months-away-warning.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-20T23:02:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea launches ballistic missiles, prompting 'stern protest'",
       "url": "https://www.abc.net.au/news/2026-09-21/north-korea-launches-ballistic-missiles/107175398",
       "source": "ABC News (AU)",
       "publishedAt": "2026-09-20T22:42:05Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Qatar PM warns of economic fallout from US-Israel war on Iran, announces major investment pivot",
-      "url": "https://cryptobriefing.com/qatar-pm-warns-economic-fallout-us-israel-iran-war/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-20T20:34:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "The Alert Level For The Iranian Military Has Been Raised To The Highest Possible Level As A Massive Escalation Appears To Be Imminent",
@@ -251,14 +275,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "North Korea launches 2 missiles within hours of each other as tensions rise",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_7d1e0f08-b750-4671-bedf-869705da2ee9",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-20T10:55:58Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Links 9/20/2026",
       "url": "https://www.nakedcapitalism.com/2026/09/links-9-20-2026.html",
       "source": "Nakedcapitalism.com",
@@ -273,14 +289,6 @@
       "publishedAt": "2026-09-20T09:17:04Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea fires ballistic missile into East Sea — South Korea",
-      "url": "https://punchng.com/north-korea-fires-ballistic-missile-into-east-sea-south-korea/",
-      "source": "The Punch",
-      "publishedAt": "2026-09-20T08:36:19Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "The Arab States and the US-Israeli War on Iran",

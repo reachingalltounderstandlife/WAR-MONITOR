@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-22T16:18:28Z",
-  "count": 37,
+  "updated": "2026-09-22T20:54:11Z",
+  "count": 40,
   "articles": [
+    {
+      "title": "RUSI: The Battle for Bab Al-Mandeb is Becoming a Contest for Regional Power",
+      "url": "https://i-epikaira.blogspot.com/2026/09/rusi-battle-for-bab-al-mandeb-is.html",
+      "source": "Blogspot.com",
+      "publishedAt": "2026-09-21T19:41:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "German auto workers protest historic job cuts",
+      "url": "https://www.rt.com/business/646043-germany-auto-workers-protests/",
+      "source": "RT",
+      "publishedAt": "2026-09-21T19:34:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Days After Calling Denuclearization Hopefuls “Idiots,” North Korea Fired Two Ballistic Missiles Off Its Eastern Coast",
+      "url": "https://thoughtcatalog.com/jeremy-london/2026/09/days-after-calling-denuclearization-hopefuls-idiots-north-korea-fired-two-ballistic-missiles-off-its-eastern-coast/",
+      "source": "Thoughtcatalog.com",
+      "publishedAt": "2026-09-21T19:13:24Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Finland’s Stubb warns Europe not to ‘overreact’ to Russian threats and sabotage",
+      "url": "https://www.politico.eu/article/finland-alexander-stubb-warns-europe-overreaction-russia-threats-sabotage/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-09-21T18:27:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Coffee Break: Western Ruling Elites & Their Vassals Re-Confirm Fealty to Unreality",
+      "url": "https://www.nakedcapitalism.com/2026/09/western-elites-fealty-to-unreality-trump-mbs-dan-caine-hegseth.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-21T18:00:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Fears of runaway AI spur Australia to join global call for guardrails",
+      "url": "https://www.abc.net.au/news/2026-09-22/australia-joins-global-push-for-ai-controls/107179312",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-21T17:56:49Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "UN mission finds US airstrikes in Iran may constitute war crimes",
+      "url": "https://cryptobriefing.com/un-us-airstrikes-iran-war-crimes/",
+      "source": "Crypto Briefing",
+      "publishedAt": "2026-09-21T17:45:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump and Bibi Plan for War While Houthis Blast Riyadh",
+      "url": "https://www.globalresearch.ca/trump-bibi-plan-war-houthis-blast-riyadh/5941228",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-21T17:12:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "What spooked Europe last week? The rumbles of Russia war grow louder",
       "url": "https://economictimes.indiatimes.com/news/defence/what-spooked-europe-last-week-the-rumbles-of-russia-war-grow-louder/articleshow/134392871.cms",
@@ -103,8 +167,8 @@
       "url": "https://www.commondreams.org/opinion/what-does-progressive-foreign-policy-look-like",
       "source": "Common Dreams",
       "publishedAt": "2026-09-21T11:23:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Explosion Injures 3 South Korean Military Officers Inside DMZ Bordering North Korea",
@@ -147,28 +211,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Give War a Chance",
-      "url": "https://www.steynonline.com/16418/give-war-a-chance",
-      "source": "Steynonline.com",
-      "publishedAt": "2026-09-21T09:10:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Golf bosses consider moving Tour Championship finale from Dubai to Spain with Middle East war spiralling as Trump considers 'blowing up the entire nation' of Iran",
-      "url": "https://www.dailymail.com/sport/golf/article-16147701/golf-tour-championship-dubai-spain-relocation.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-21T09:01:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The New World Order Is Here",
       "url": "http://nymag.com/intelligencer/article/canada-eu-united-nations-global-order.html",
       "source": "New York Magazine",
       "publishedAt": "2026-09-21T09:00:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea",
@@ -177,14 +225,6 @@
       "publishedAt": "2026-09-21T08:37:20Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting - CNBC",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185726164",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-09-21T08:32:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Explosion injures 3 South Korean military officers in border area with North Korea",
@@ -199,16 +239,8 @@
       "url": "https://theconversation.com/as-war-in-the-middle-east-widens-saudi-arabias-new-defence-pact-could-face-a-major-test-292357",
       "source": "The Conversation Africa",
       "publishedAt": "2026-09-21T06:18:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Drone Warfare Is Coming to America … And We’re Dangerously Unprepared",
-      "url": "https://www.naturalnews.com/2026-09-21-drone-warfare-coming-to-america-dangerously-unprepared.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-21T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Taiwan launches global disaster response group amid China tensions",
@@ -263,14 +295,6 @@
       "url": "https://www.cbsnews.com/news/north-korea-missile-launch-pressure-us/",
       "source": "CBS News",
       "publishedAt": "2026-09-20T13:00:45Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea fires two ballistic missiles into East Sea, with second flying over 600km",
-      "url": "https://www.thejournal.ie/north-korea-fires-two-ballistic-missiles-into-east-sea-7167726-Sep2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-09-20T11:46:30Z",
       "_cat": "korea",
       "_label": "N. Korea"
     },

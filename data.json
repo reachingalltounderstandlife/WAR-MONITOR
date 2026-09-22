@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-21T21:42:29Z",
-  "count": 39,
+  "updated": "2026-09-22T03:23:59Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "Kevin Rudd on AUKUS, his past remarks and how to avoid war",
+      "url": "http://www.crikey.com.au/2026/09/21/kevin-rudd-aukus/",
+      "source": "Crikey",
+      "publishedAt": "2026-09-21T01:34:39Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Ukraine fires new homemade Pelican ballistic missile in largest attack on Moscow yet - as fears grow across Europe that Putin is preparing to attack",
+      "url": "https://www.dailymail.com/news/article-16146989/Ukraine-fires-new-homemade-Pelican-ballistic-missile-largest-attack-Moscow-fears-grow-Europe-Putin-preparing-attack.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-21T00:33:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "War and sanctions are crippling Iran’s economy, with GDP plunging 10.1%",
+      "url": "https://en.protothema.gr/2026/09/21/war-and-sanctions-are-crippling-irans-economy-with-gdp-plunging-10-1/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-09-21T00:08:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "German general picked for top NATO military post",
+      "url": "https://www.rt.com/news/646008-german-general-nato-post/",
+      "source": "RT",
+      "publishedAt": "2026-09-20T23:11:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "European spy chiefs say Russia campaign against NATO could be 'months, not years' away in grim warning",
+      "url": "https://www.dailymail.com/news/article-16146585/European-spy-chiefs-Russia-campaign-NATO-months-away-warning.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-20T23:02:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea launches ballistic missiles, prompting 'stern protest'",
+      "url": "https://www.abc.net.au/news/2026-09-21/north-korea-launches-ballistic-missiles/107175398",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-20T22:42:05Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "Qatar PM warns of economic fallout from US-Israel war on Iran, announces major investment pivot",
       "url": "https://cryptobriefing.com/qatar-pm-warns-economic-fallout-us-israel-iran-war/",
@@ -163,14 +211,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Turkish FM says ready to meet Saudi defence needs – what does that mean?",
-      "url": "https://www.aljazeera.com/news/2026/9/20/turkish-fm-says-ready-to-meet-saudi-defence-needs-what-does-that-mean",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-20T10:23:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Poland’s Ruling Liberals Appear To Be Plotting A Major Escalation Against Russia",
       "url": "https://www.nakedcapitalism.com/2026/09/polands-ruling-liberals-appear-to-be-plotting-a-major-escalation-against-russia.html",
       "source": "Nakedcapitalism.com",
@@ -203,14 +243,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Von Der Leyen’s Defense Plans Place Europe on the Path to War With Russia",
-      "url": "https://korybko.substack.com/p/von-der-leyens-defense-plans-place",
-      "source": "Substack.com",
-      "publishedAt": "2026-09-20T08:07:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Japan scrambles into alert mode after North Korea fires suspected ballistic missile into East Sea",
       "url": "https://economictimes.indiatimes.com/news/international/us/japan-scrambles-into-alert-mode-after-north-korea-fires-suspected-ballistic-missile-into-east-sea/articleshow/134365223.cms",
       "source": "The Times of India",
@@ -227,90 +259,10 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Andy Burnham 'fiddling while Russia threatens to burn Europe', fumes Kemi Badenoch - as she demands PM acts on defence spending",
-      "url": "https://www.dailymail.com/news/article-16145879/Andy-Burnham-fiddling-Russia-threatens-burn-Europe-fumes-Kemi-Badenoch-demands-PM-acts-defence-spending.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-20T07:34:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "North Korea fires ballistic missile off east coast, Japan says",
-      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-fires-ballistic-missile-off-east-coast-japan-says/articleshow/134364808.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-20T07:02:15Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "German, French, UK Military Flights Near Russian Border Rise, Kremlin-Linked Reports Say",
-      "url": "https://www.naturalnews.com/2026-09-20-german-french-uk-military-flights-russian-border.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-20T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The Arab States and the US-Israeli War on Iran",
       "url": "https://www.juancole.com/2026/09/arab-states-israeli.html",
       "source": "Juancole.com",
       "publishedAt": "2026-09-20T04:15:44Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel targets paramedics in southern Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-19T18:06:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Second Anniversary Of Mossad’s Legendary Exploding Pager Operation Against Hezbollah",
-      "url": "https://legalinsurrection.com/2026/09/second-anniversary-of-mossads-legendary-exploding-pager-operation-against-hezbollah/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-09-19T18:00:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Central Command says U.S. military has aided the transit of 1 billion barrels of oil through Hormuz in past two months while Iran has ‘exported zero’",
-      "url": "https://fortune.com/2026/09/19/central-command-us-military-transit-1-billion-barrels-oil-hormuz-iran-exports-naval-blockade/",
-      "source": "Fortune",
-      "publishedAt": "2026-09-19T15:30:07Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "UN peacekeeping chief in Lebanon says smooth transition is critical before pull-out",
-      "url": "https://economictimes.indiatimes.com/news/defence/un-peacekeeping-chief-in-lebanon-says-smooth-transition-is-critical-before-pull-out/articleshow/134355919.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-19T14:33:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Press Statement of Kim Yo Jong, Department Director of C.C., WPK",
-      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260919-kcna02.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-19T09:53:12Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "The left lobs yet another ‘Big Lie’ on Israel — and the fallout keeps getting worse",
-      "url": "https://nypost.com/2026/09/18/opinion/the-left-lobs-yet-another-big-lie-on-israel-and-the-fallout-keeps-getting-worse/",
-      "source": "New York Post",
-      "publishedAt": "2026-09-19T00:58:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "‘I’ve forgotten how a normal person sees’: Survivor of Israel’s pager attack talks to RT (VIDEO)",
-      "url": "https://www.rt.com/news/645959-israel-pager-attack-lebanon-survivor/",
-      "source": "RT",
-      "publishedAt": "2026-09-19T00:18:40Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

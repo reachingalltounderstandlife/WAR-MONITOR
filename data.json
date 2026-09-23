@@ -1,7 +1,159 @@
 {
-  "updated": "2026-09-23T03:24:58Z",
-  "count": 34,
+  "updated": "2026-09-23T10:47:44Z",
+  "count": 36,
   "articles": [
+    {
+      "title": "Tsahkna in New York: We must not give in to Russia's intimidation",
+      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/09/russia-260922-estonia-mfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-22T09:36:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘Incurable headache’ to enemies: North Korea tests new weapon system (PHOTOS)",
+      "url": "https://www.rt.com/news/646075-north-korea-new-missile/",
+      "source": "RT",
+      "publishedAt": "2026-09-22T09:30:20Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Finland’s Stubb tells European leaders to calm down",
+      "url": "https://www.rt.com/news/646067-eu-stubb-finland-ukraine/",
+      "source": "RT",
+      "publishedAt": "2026-09-22T08:48:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Building together: How Europe and Ukraine should deepen their defence industrial partnership",
+      "url": "https://www.iss.europa.eu/publications/briefs/building-together-how-europe-and-ukraine-should-deepen-their-defence-industrial",
+      "source": "Europa.eu",
+      "publishedAt": "2026-09-22T08:07:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "An eight-step guide to blaming Israel",
+      "url": "https://www.israelnationalnews.com/news/433475",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-22T07:26:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of world body itself",
+      "url": "https://www.channelnewsasia.com/world/us-trump-un-iran-war-ai-6401241",
+      "source": "CNA",
+      "publishedAt": "2026-09-22T07:22:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Burnham could have awkward first meeting with Trump after Irish unification comments",
+      "url": "https://www.thejournal.ie/trump-un-general-assembly-speech-7169176-Sep2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-09-22T06:55:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'We'll change geography of war': Iran's IRGC warns US against escalation",
+      "url": "https://www.business-standard.com/world-news/we-ll-change-geography-of-war-iran-s-irgc-warns-us-against-escalation-126092200276_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-22T06:12:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. Refuses to Issue Visas to Members of Iranian President’s UN Delegation",
+      "url": "https://www.naturalnews.com/2026-09-22-us-refuses-visas-members-iranian-president-delegation.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-22T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Saudi Arabia Seeks Missile Interceptors as Yemeni Attacks Strain Air Defenses",
+      "url": "https://www.naturalnews.com/2026-09-22-saudi-seeks-missile-interceptors-yemeni-attacks-strain-defenses.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-22T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea touts new weapons system described as hypersonic in tests",
+      "url": "https://www.business-standard.com/world-news/north-korea-touts-new-weapons-system-described-as-hypersonic-in-tests-126092200121_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-22T05:09:48Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump set to address UN amid Iran conflict, global economic turmoil",
+      "url": "https://www.business-standard.com/world-news/trump-set-to-address-un-amid-iran-conflict-global-economic-turmoil-126092200197_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-22T05:08:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Houthis battle for strategic heights in Yemen as thousands more flee homes",
+      "url": "https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-22T04:48:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea touts new weapons system described as hypersonic",
+      "url": "https://abcnews.com/International/wireStory/north-korea-touts-new-weapons-system-hypersonic-136639627",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-22T04:33:08Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "South Korean President plans to call for phased denuclearisation of North Korea at UN",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/south-korean-president-plans-to-call-for-phased-denuclearisation-of-north-korea-at-un/articleshow/134402088.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-22T04:21:56Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo",
+      "source": "BBC News",
+      "publishedAt": "2026-09-22T04:21:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea touts new weapons system it says will give foes ‘incurable headache’",
+      "url": "https://nypost.com/2026/09/22/world-news/north-korea-touts-new-weapons-system-it-says-will-give-foes-incurable-headache/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-22T04:02:47Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "‘All of Ukraine is ours’: The imperial logic of Putin’s war",
+      "url": "https://www.americanthinker.com/blog/2026/09/all-of-ukraine-is-ours-the-imperial-logic-of-putin-s-war/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-09-22T04:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Combat-Trained AI Is Leaving Ukraine Faster Than The Rules Can Follow",
+      "url": "https://www.americanthinker.com/articles/2026/09/combat-trained-ai-is-leaving-ukraine-faster-than-the-rules-can-follow/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-09-22T04:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "As leaders meet in New York, the fate of the world may rest on Trump and Xi",
       "url": "https://www.abc.net.au/news/2026-09-22/un-general-assembly-meets-amid-changed-world-and-trump-xi-meet/107179452",
@@ -35,14 +187,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "RUSI: The Battle for Bab Al-Mandeb is Becoming a Contest for Regional Power",
-      "url": "https://i-epikaira.blogspot.com/2026/09/rusi-battle-for-bab-al-mandeb-is.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-09-21T19:41:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "German auto workers protest historic job cuts",
       "url": "https://www.rt.com/business/646043-germany-auto-workers-protests/",
       "source": "RT",
@@ -67,84 +211,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Coffee Break: Western Ruling Elites & Their Vassals Re-Confirm Fealty to Unreality",
-      "url": "https://www.nakedcapitalism.com/2026/09/western-elites-fealty-to-unreality-trump-mbs-dan-caine-hegseth.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-21T18:00:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Fears of runaway AI spur Australia to join global call for guardrails",
       "url": "https://www.abc.net.au/news/2026-09-22/australia-joins-global-push-for-ai-controls/107179312",
       "source": "ABC News (AU)",
       "publishedAt": "2026-09-21T17:56:49Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "UN mission finds US airstrikes in Iran may constitute war crimes",
-      "url": "https://cryptobriefing.com/un-us-airstrikes-iran-war-crimes/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-21T17:45:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump and Bibi Plan for War While Houthis Blast Riyadh",
-      "url": "https://www.globalresearch.ca/trump-bibi-plan-war-houthis-blast-riyadh/5941228",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-21T17:12:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What spooked Europe last week? The rumbles of Russia war grow louder",
-      "url": "https://economictimes.indiatimes.com/news/defence/what-spooked-europe-last-week-the-rumbles-of-russia-war-grow-louder/articleshow/134392871.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-21T15:43:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europe steps up preparations for possible conflict with Russia, analysis says",
-      "url": "https://en.protothema.gr/2026/09/21/europe-steps-up-preparations-for-possible-conflict-with-russia-cnn-analysis-says/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-09-21T15:16:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "INGERSOLL: Putin, Trump, Xi, And WWIII. What’s The Upside?",
-      "url": "https://dailycaller.com/2026/09/21/xi-jinping-china-taiwan-trump-russia-ukraine-war-world-war-iii-priorities-democrats",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-09-21T15:14:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Three Patrons, Three Clients: The Mecca Alliance No One Owns",
-      "url": "https://i-epikaira.blogspot.com/2026/09/three-patrons-three-clients-mecca.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-09-21T15:04:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelensky floated single state idea to drag Warsaw into war – Polish opposition leader",
-      "url": "https://www.rt.com/news/646046-poland-kaczynski-war-russia/",
-      "source": "RT",
-      "publishedAt": "2026-09-21T14:49:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Saudi Arabia Facing Pressure at The Red Sea Bab al-Mandab Strait. Renewed Confrontation with the Houthis",
-      "url": "https://www.globalresearch.ca/saudi-arabia-pressure-bab-al-mandab/5941187",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-21T14:38:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ahead of Trump-Xi Summit, North Korea Launches More Missiles",
@@ -155,14 +227,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Houthis push for control of Yemen highlands as Trump reportedly calls off airstrikes",
-      "url": "https://uk.news.yahoo.com/houthis-push-control-yemen-highlands-110616361.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-21T14:02:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Taiwan’s Status Is Ambiguous. U.S. Policy Shouldn’t Be.",
       "url": "http://foreignpolicy.com/2026/09/21/taiwan-ambiguity-china/",
       "source": "Foreign Policy",
@@ -171,44 +235,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "‘Overstayed His Welcome’",
-      "url": "https://www.cjr.org/the_media_today/overstayed-his-welcome-galeano-nicaraguan-journalist-trump-ice-immigration-dragnet-ban-white-house-access.php",
-      "source": "Columbia Journalism Review",
-      "publishedAt": "2026-09-21T11:38:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Progressive Principles for a New US Foreign Policy",
       "url": "https://www.commondreams.org/opinion/what-does-progressive-foreign-policy-look-like",
       "source": "Common Dreams",
       "publishedAt": "2026-09-21T11:23:22Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Explosion Injures 3 South Korean Military Officers Inside DMZ Bordering North Korea",
-      "url": "https://military.com/explosion-injures-3-south-korean-military-officers-inside-dmz-bordering-north-korea",
-      "source": "Military.com",
-      "publishedAt": "2026-09-21T11:22:19Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The Long Shadow of Biden’s Gaza Fiasco",
-      "url": "http://nymag.com/intelligencer/article/joe-biden-kamala-harris-gaza.html",
-      "source": "New York Magazine",
-      "publishedAt": "2026-09-21T11:00:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How oil, gas losses have shrunk Iran’s GDP by 10 percent during war",
-      "url": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-21T10:38:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Never Underestimate the Houthis",
@@ -231,24 +263,8 @@
       "url": "http://nymag.com/intelligencer/article/canada-eu-united-nations-global-order.html",
       "source": "New York Magazine",
       "publishedAt": "2026-09-21T09:00:08Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Explosion injures 3 South Korean military officers inside DMZ bordering North Korea",
-      "url": "https://nypost.com/2026/09/21/world-news/south-korean-military-officers-injured-in-explosion-inside-dmz-bordering-north-korea/",
-      "source": "New York Post",
-      "publishedAt": "2026-09-21T08:37:20Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Explosion injures 3 South Korean military officers in border area with North Korea",
-      "url": "https://abcnews.com/International/wireStory/explosion-injures-3-south-korean-military-officers-border-136611060",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-21T06:51:23Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "As war in the Middle East widens, Saudi Arabia’s new defence pact could face a major test",

@@ -1,7 +1,135 @@
 {
-  "updated": "2026-09-23T10:47:44Z",
-  "count": 36,
+  "updated": "2026-09-23T16:08:29Z",
+  "count": 37,
   "articles": [
+    {
+      "title": "Mearsheimer: A Left Critique",
+      "url": "https://www.globalresearch.ca/mearsheimer-left-critique/5941445",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-22T15:56:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Washington Should Embrace Space Warfare",
+      "url": "http://foreignpolicy.com/2026/09/22/space-force-washington-nuclear-china-russia-satellite/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-22T15:12:13Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Charles Goyette’s Empire of Lies: Restoring the History the Warlords Need US To Forget",
+      "url": "https://www.antiwar.com/blog/2026/09/22/empire-of-lies-restoring-the-history-the-warlords-need-us-to-forget/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-09-22T14:22:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "You still don’t have the cards: Is Zelensky still bringing a bluff to Trump?",
+      "url": "https://www.rt.com/news/646079-zelensky-trump-card-bluff-un/",
+      "source": "RT",
+      "publishedAt": "2026-09-22T14:06:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "From 1453 to 2026: As the West’s 500-Year World System Comes to an End",
+      "url": "https://www.globalresearch.ca/west-500-year-world-system-comes-end/5941350",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-22T13:51:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Returns to UN at a Moment of Anxiety About Iran, AI and the Future of the World Body Itself",
+      "url": "https://military.com/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-ai-and-the-future-of-the-world-body-itself",
+      "source": "Military.com",
+      "publishedAt": "2026-09-22T13:30:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea's Kim lauds test of apparent new hypersonic missile",
+      "url": "https://www.cbsnews.com/news/north-korea-kim-jong-un-hypersonic-missile-test-headache-foes/",
+      "source": "CBS News",
+      "publishedAt": "2026-09-22T13:28:05Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Why South Korea Has Little Room to Send Troops to Hormuz",
+      "url": "https://thediplomat.com/2026/09/why-south-korea-has-little-room-to-send-troops-to-hormuz/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-09-22T13:20:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Battle for Taiwan’s East: Taipei’s Western Pacific Strategy",
+      "url": "https://thediplomat.com/2026/09/the-battle-for-taiwans-east-taipeis-western-pacific-strategy/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-09-22T12:29:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "North Korea reports new missile test designed to give enemy 'incurable headache'",
+      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260922-azertac01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-22T12:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump-GCC Summit in New York: What does each side want?",
+      "url": "https://www.aljazeera.com/news/2026/9/22/trump-gcc-summit-in-new-york-what-does-each-side-want",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-22T11:33:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why the world should care about the far right’s rise in Germany",
+      "url": "https://www.aljazeera.com/news/2026/9/22/why-the-world-should-care-about-the-far-rights-rise-in-germany",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-22T11:20:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "S. Korean Leader Urges US to Ease N. Korea Sanctions",
+      "url": "https://www.newser.com/story/396827/s-korean-leader-urges-us-to-ease-n-korea-sanctions.html",
+      "source": "Newser",
+      "publishedAt": "2026-09-22T11:05:51Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of world body itself",
+      "url": "https://abcnews.com/US/wireStory/trump-returns-moment-anxiety-iran-ai-future-world-136640108",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-22T11:05:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "America’s Allies Are Done Trying to Wait Trump Out",
+      "url": "https://www.theatlantic.com/national-security/2026/09/allies-trump-canada-foreign-policy/688729/",
+      "source": "The Atlantic",
+      "publishedAt": "2026-09-22T11:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea Touts New Weapons System Described as Hypersonic",
+      "url": "https://military.com/north-korea-touts-new-weapons-system-described-as-hypersonic",
+      "source": "Military.com",
+      "publishedAt": "2026-09-22T10:59:43Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "Tsahkna in New York: We must not give in to Russia's intimidation",
       "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/09/russia-260922-estonia-mfa01.htm",
@@ -67,22 +195,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "U.S. Refuses to Issue Visas to Members of Iranian President’s UN Delegation",
-      "url": "https://www.naturalnews.com/2026-09-22-us-refuses-visas-members-iranian-president-delegation.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-22T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Saudi Arabia Seeks Missile Interceptors as Yemeni Attacks Strain Air Defenses",
-      "url": "https://www.naturalnews.com/2026-09-22-saudi-seeks-missile-interceptors-yemeni-attacks-strain-defenses.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-22T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea touts new weapons system described as hypersonic in tests",
       "url": "https://www.business-standard.com/world-news/north-korea-touts-new-weapons-system-described-as-hypersonic-in-tests-126092200121_1.html",
       "source": "Business Standard",
@@ -95,46 +207,14 @@
       "url": "https://www.business-standard.com/world-news/trump-set-to-address-un-amid-iran-conflict-global-economic-turmoil-126092200197_1.html",
       "source": "Business Standard",
       "publishedAt": "2026-09-22T05:08:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Houthis battle for strategic heights in Yemen as thousands more flee homes",
-      "url": "https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-22T04:48:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "North Korea touts new weapons system described as hypersonic",
       "url": "https://abcnews.com/International/wireStory/north-korea-touts-new-weapons-system-hypersonic-136639627",
       "source": "Abcnews.com",
       "publishedAt": "2026-09-22T04:33:08Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "South Korean President plans to call for phased denuclearisation of North Korea at UN",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/south-korean-president-plans-to-call-for-phased-denuclearisation-of-north-korea-at-un/articleshow/134402088.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-22T04:21:56Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo",
-      "source": "BBC News",
-      "publishedAt": "2026-09-22T04:21:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "North Korea touts new weapons system it says will give foes ‘incurable headache’",
-      "url": "https://nypost.com/2026/09/22/world-news/north-korea-touts-new-weapons-system-it-says-will-give-foes-incurable-headache/",
-      "source": "New York Post",
-      "publishedAt": "2026-09-22T04:02:47Z",
       "_cat": "korea",
       "_label": "N. Korea"
     },
@@ -147,84 +227,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Combat-Trained AI Is Leaving Ukraine Faster Than The Rules Can Follow",
-      "url": "https://www.americanthinker.com/articles/2026/09/combat-trained-ai-is-leaving-ukraine-faster-than-the-rules-can-follow/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-09-22T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "As leaders meet in New York, the fate of the world may rest on Trump and Xi",
-      "url": "https://www.abc.net.au/news/2026-09-22/un-general-assembly-meets-amid-changed-world-and-trump-xi-meet/107179452",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-22T02:39:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "North Korea's Kim hails 'new-type weapon' days after missile launch",
-      "url": "https://www.channelnewsasia.com/east-asia/kim-jong-un-north-korea-hails-new-weapon-missile-launch-6400996",
-      "source": "CNA",
-      "publishedAt": "2026-09-22T01:20:34Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea's Kim Jong Un hails 'new-type weapon' days after missile launch",
-      "url": "https://economictimes.indiatimes.com/news/defence/north-koreas-kim-jong-un-hails-new-type-weapon-days-after-missile-launch/articleshow/134399961.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-22T01:19:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump Announces Deal for ‘Permanent Control’ Over Greenland’s Security",
-      "url": "http://foreignpolicy.com/2026/09/21/greenland-security-trump-united-states-denmark-nato-ukraine-russia-pakistan-afghanistan-ethiopia/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-21T22:23:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "German auto workers protest historic job cuts",
-      "url": "https://www.rt.com/business/646043-germany-auto-workers-protests/",
-      "source": "RT",
-      "publishedAt": "2026-09-21T19:34:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Days After Calling Denuclearization Hopefuls “Idiots,” North Korea Fired Two Ballistic Missiles Off Its Eastern Coast",
-      "url": "https://thoughtcatalog.com/jeremy-london/2026/09/days-after-calling-denuclearization-hopefuls-idiots-north-korea-fired-two-ballistic-missiles-off-its-eastern-coast/",
-      "source": "Thoughtcatalog.com",
-      "publishedAt": "2026-09-21T19:13:24Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Finland’s Stubb warns Europe not to ‘overreact’ to Russian threats and sabotage",
-      "url": "https://www.politico.eu/article/finland-alexander-stubb-warns-europe-overreaction-russia-threats-sabotage/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-09-21T18:27:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Fears of runaway AI spur Australia to join global call for guardrails",
       "url": "https://www.abc.net.au/news/2026-09-22/australia-joins-global-push-for-ai-controls/107179312",
       "source": "ABC News (AU)",
       "publishedAt": "2026-09-21T17:56:49Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Ahead of Trump-Xi Summit, North Korea Launches More Missiles",
-      "url": "https://thediplomat.com/2026/09/ahead-of-trump-xi-summit-north-korea-launches-more-missiles/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-09-21T14:09:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "Taiwan’s Status Is Ambiguous. U.S. Policy Shouldn’t Be.",

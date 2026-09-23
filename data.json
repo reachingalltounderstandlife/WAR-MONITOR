@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-23T16:08:29Z",
-  "count": 37,
+  "updated": "2026-09-23T21:05:47Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "Russia's neighbor reveals personal appeals to Trump as US weighs NATO troop pullback in Europe",
+      "url": "https://www.foxnews.com/politics/russia-neighbor-reveals-personal-appeals-trump-us-weighs-nato-troop-pullback-europe",
+      "source": "Fox News",
+      "publishedAt": "2026-09-22T20:58:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The West Is Sending Russia the Wrong Signals",
+      "url": "http://foreignpolicy.com/2026/09/22/ukraine-putin-russia-signaling-trump-germany/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-22T20:46:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump touts 3-hour meeting on ending the war after threatening to 'annihilate' Iran",
+      "url": "https://uk.news.yahoo.com/trump-warns-un-speech-could-160836184.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-22T20:20:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "No English Test for You: Trump’s Campaign Against Iran Now Targets Education",
+      "url": "https://truthout.org/articles/no-english-test-for-you-trumps-campaign-against-iran-now-targets-education/",
+      "source": "Truthout",
+      "publishedAt": "2026-09-22T19:45:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US military power a ‘Wizard of Oz’ illusion – ex-CIA analyst (VIDEO)",
+      "url": "https://www.rt.com/news/646084-us-ukraine-iran-johnson/",
+      "source": "RT",
+      "publishedAt": "2026-09-22T19:04:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘I have a big decision to make’: Trump had a ‘good meeting’ with Iranian officials warning he may ‘annihilate the Islamic Republic’",
+      "url": "https://fortune.com/2026/09/22/trump-meets-iranian-officials-annihilate-big-decision/",
+      "source": "Fortune",
+      "publishedAt": "2026-09-22T18:59:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "WATCH: Trump addresses 2026 United Nations General Assembly",
+      "url": "https://freerepublic.com/focus/f-news/4396470/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-09-22T16:55:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia could widen Ukraine war, test NATO with covert attacks, Europe warns",
+      "url": "https://economictimes.indiatimes.com/news/defence/russia-could-widen-ukraine-war-test-nato-with-covert-attacks-europe-warns/articleshow/134416488.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-22T16:31:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Mearsheimer: A Left Critique",
       "url": "https://www.globalresearch.ca/mearsheimer-left-critique/5941445",
@@ -91,28 +155,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Why the world should care about the far right’s rise in Germany",
-      "url": "https://www.aljazeera.com/news/2026/9/22/why-the-world-should-care-about-the-far-rights-rise-in-germany",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-22T11:20:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "S. Korean Leader Urges US to Ease N. Korea Sanctions",
       "url": "https://www.newser.com/story/396827/s-korean-leader-urges-us-to-ease-n-korea-sanctions.html",
       "source": "Newser",
       "publishedAt": "2026-09-22T11:05:51Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of world body itself",
-      "url": "https://abcnews.com/US/wireStory/trump-returns-moment-anxiety-iran-ai-future-world-136640108",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-22T11:05:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "America’s Allies Are Done Trying to Wait Trump Out",
@@ -131,14 +179,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Tsahkna in New York: We must not give in to Russia's intimidation",
-      "url": "https://www.globalsecurity.org/wmd/library/news/russia/2026/09/russia-260922-estonia-mfa01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-22T09:36:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "‘Incurable headache’ to enemies: North Korea tests new weapon system (PHOTOS)",
       "url": "https://www.rt.com/news/646075-north-korea-new-missile/",
       "source": "RT",
@@ -147,50 +187,10 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Finland’s Stubb tells European leaders to calm down",
-      "url": "https://www.rt.com/news/646067-eu-stubb-finland-ukraine/",
-      "source": "RT",
-      "publishedAt": "2026-09-22T08:48:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Building together: How Europe and Ukraine should deepen their defence industrial partnership",
-      "url": "https://www.iss.europa.eu/publications/briefs/building-together-how-europe-and-ukraine-should-deepen-their-defence-industrial",
-      "source": "Europa.eu",
-      "publishedAt": "2026-09-22T08:07:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "An eight-step guide to blaming Israel",
       "url": "https://www.israelnationalnews.com/news/433475",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-09-22T07:26:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump returns to UN at a moment of anxiety about Iran, AI and the future of world body itself",
-      "url": "https://www.channelnewsasia.com/world/us-trump-un-iran-war-ai-6401241",
-      "source": "CNA",
-      "publishedAt": "2026-09-22T07:22:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Burnham could have awkward first meeting with Trump after Irish unification comments",
-      "url": "https://www.thejournal.ie/trump-un-general-assembly-speech-7169176-Sep2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-09-22T06:55:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'We'll change geography of war': Iran's IRGC warns US against escalation",
-      "url": "https://www.business-standard.com/world-news/we-ll-change-geography-of-war-iran-s-irgc-warns-us-against-escalation-126092200276_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-09-22T06:12:38Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -203,28 +203,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Trump set to address UN amid Iran conflict, global economic turmoil",
-      "url": "https://www.business-standard.com/world-news/trump-set-to-address-un-amid-iran-conflict-global-economic-turmoil-126092200197_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-09-22T05:08:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea touts new weapons system described as hypersonic",
       "url": "https://abcnews.com/International/wireStory/north-korea-touts-new-weapons-system-hypersonic-136639627",
       "source": "Abcnews.com",
       "publishedAt": "2026-09-22T04:33:08Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "‘All of Ukraine is ours’: The imperial logic of Putin’s war",
-      "url": "https://www.americanthinker.com/blog/2026/09/all-of-ukraine-is-ours-the-imperial-logic-of-putin-s-war/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-09-22T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Fears of runaway AI spur Australia to join global call for guardrails",

@@ -1,30 +1,198 @@
 {
-  "updated": "2026-09-24T03:14:25Z",
-  "count": 29,
+  "updated": "2026-09-24T11:08:10Z",
+  "count": 35,
   "articles": [
     {
-      "title": "Iran threatens 'crushing' strikes after Trump UN speech",
-      "url": "https://www.israelnationalnews.com/news/433514",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-23T02:46:48Z",
+      "title": "South Korea says Trump welcomes progress in US strategic investment projects",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-says-trump-welcomes-progress-in-us-strategic-investment-projects-6403856",
+      "source": "CNA",
+      "publishedAt": "2026-09-23T11:01:08Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Victor Davis Hanson: What Tucker Carlson Gets Wrong About Hiroshima",
+      "url": "https://www.dailysignal.com/2026/09/23/hanson-tucker-carlso-hiroshima/",
+      "source": "Daily Signal",
+      "publishedAt": "2026-09-23T11:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Derrière les prophéties d'apocalypse liées à l'IA, les États-Unis et la Chine se disputent la tête de la course technologique (Anglais)",
+      "url": "https://english.hani.co.kr/arti/english_edition/e_international/1279268.html",
+      "source": "Hani.co.kr",
+      "publishedAt": "2026-09-23T10:59:47Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Russia Pounds Kyiv With Drones Hours Before Zelenskyy’s U.N. Address",
+      "url": "https://www.huffpost.com/entry/russia-pounds-kyiv-before-zelenskyy-un-address_n_6ab3af06e4b085277b54cb50",
+      "source": "HuffPost",
+      "publishedAt": "2026-09-23T10:56:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Chief of the Air Staff, Air Chief Marshal Sir Harv Smyth's speech at the UK Space Power Conference",
+      "url": "https://www.gov.uk/government/speeches/chief-of-the-air-staff-air-chief-marshal-sir-harv-smyths-speech-at-the-uk-space-power-conference",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-09-23T10:47:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran War: WaPo Notices Casualty Count a Bit Off, GOP Senators Run for the Exits, Trump Freestyles at the UN",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-wapo-pentagon-casualty-count-off-gop-senators-trump-un.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-23T10:00:05Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "US, Iran officials held 'very good' meeting on sidelines of UNGA: Trump",
-      "url": "https://www.business-standard.com/world-news/us-iran-officials-held-very-good-meeting-on-sidelines-of-unga-trump-126092300081_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-09-23T02:08:37Z",
+      "title": "Why Russia has Europe on edge",
+      "url": "https://www.cbc.ca/radio/frontburner/why-russia-has-europe-on-edge-9.7354375",
+      "source": "CBC News",
+      "publishedAt": "2026-09-23T10:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The conflict sending global oil prices soaring: How Iran-backed Houthis have seized islands in Red Sea shipping route in escalating war with Saudi Arabia",
+      "url": "https://www.dailymail.com/news/article-16153679/The-conflict-sending-global-oil-prices-soaring-Iran-backed-Houthis-seized-islands-Red-Sea-shipping-route-escalating-war-Saudi-Arabia.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-23T09:44:21Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Trump says Witkoff, Kushner met Iranian officials, shortly after warning he may 'annihilate' Iran",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-witkoff-kushner-met-iranian-officials-shortly-after-warning-he-may-annihilate-iran/articleshow/134423498.cms",
+      "title": "‘Annihilate’ vs ‘crushing’ attacks: Why Iran, US up rhetoric amid talks",
+      "url": "https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-23T09:40:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace",
+      "url": "https://www.cnbc.com/2026/09/23/lee-jae-myung-trump-kim-summit-north-korea.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-23T09:22:51Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea appears to have tested upgraded hypersonic weapon: Analysts",
+      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-appears-to-have-tested-upgraded-hypersonic-weapon-analysts/articleshow/134428878.cms",
       "source": "The Times of India",
-      "publishedAt": "2026-09-23T00:44:18Z",
+      "publishedAt": "2026-09-23T07:46:47Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Seoul Needs a Playbook for Hormuz, Ukraine, and What Comes Next",
+      "url": "https://warontherocks.com/seoul-needs-a-playbook-for-hormuz-ukraine-and-what-comes-next/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-09-23T07:30:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine and Russia are unnecessarily attacking energy and industrial targets",
+      "url": "https://english.gossiplankanews.com/2026/09/ukraine-and-russia-are-unnecessarily.html",
+      "source": "Gossiplankanews.com",
+      "publishedAt": "2026-09-23T07:26:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran warns it is ready to 'inflict crushing blows' on US after Trump threatened to 'annihilate' regime in UN speech",
+      "url": "https://www.dailymail.com/news/article-16153411/Iran-warns-ready-inflict-crushing-blows-US-Trump-threatened-annihilate-regime-speech.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-23T07:20:56Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "AI, US war against Iran to dominate UN General Assembly",
+      "url": "https://www.rte.ie/news/world/2026/0923/1592622-un-general-assembly/",
+      "source": "RTE",
+      "publishedAt": "2026-09-23T06:44:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "In Northern Europe, joining the defence ‘is a matter of survival’",
+      "url": "https://voxeurop.eu/en/survival-germany-baltic-nordic-states/",
+      "source": "Voxeurop.eu",
+      "publishedAt": "2026-09-23T06:30:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+      "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po",
+      "source": "BBC News",
+      "publishedAt": "2026-09-23T06:12:56Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Divers return to Tyre’s ancient underwater ruins after war",
+      "url": "https://www.hurriyetdailynews.com/divers-return-to-tyres-ancient-underwater-ruins-after-war-227201",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-09-23T06:08:49Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "PM speech at UNGA: 22 September 2026",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-at-unga-22-september-2026",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-09-23T06:03:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Urgency of Recognizing the Ansar Allah Government in Yemen",
+      "url": "https://www.nakedcapitalism.com/2026/09/the-urgency-of-recognizing-the-ansar-allah-government-in-yemen.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-23T05:12:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UK makes military pledge to Saudi Arabia",
+      "url": "https://www.rt.com/news/646107-uk-saudi-military-support-houthis/",
+      "source": "RT",
+      "publishedAt": "2026-09-23T04:33:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump: U.S.-Iran Talks ‘Went Very Well’ — There Is ‘Momentum’ Toward Deal",
+      "url": "https://www.breitbart.com/politics/2026/09/22/trump-u-s-iran-talks-went-well-momentum-deal/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-09-23T04:24:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump and Bibi Plan for War While Houthis Blast Riyadh",
+      "url": "https://www.lewrockwell.com/2026/09/mike-whitney/trump-and-bibi-plan-for-war-while-houthis-blast-riyadh/",
+      "source": "Lewrockwell.com",
+      "publishedAt": "2026-09-23T04:01:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Europeans Should Overthrow Their ‘Ruling Class’",
+      "url": "https://www.americanthinker.com/articles/2026/09/europeans-should-overthrow-their-ruling-class/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-09-23T04:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "The Russia-DPRK Alliance & the Development of the Military-Economic Complex in North Korea",
@@ -35,22 +203,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "The three things stirring on Russia's border that make me believe Putin is on the brink of a catastrophic move: MARK ALMOND",
-      "url": "https://www.dailymail.com/debate/article-16152413/three-things-Russias-border-Putin-brink-catastrophic-MARK-ALMOND.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-22T22:43:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Battle-tested Zelenskyy sounds chilling alarm on where Putin’s war could head next",
-      "url": "https://www.foxnews.com/world/battle-tested-zelenskyy-sounds-chilling-alarm-where-putins-war-could-head-next",
-      "source": "Fox News",
-      "publishedAt": "2026-09-22T22:11:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Premier Li on advanced manufacturing; Xi’s US visit; AI; “Enemy state” clauses",
       "url": "https://sinocism.com/p/premier-li-on-advanced-manufacturing",
       "source": "Sinocism.com",
@@ -59,100 +211,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Trump flexes 'American power' on UN's biggest stage",
-      "url": "https://www.cbc.ca/news/world/trump-un-general-assembly-speech-9.7353658",
-      "source": "CBC News",
-      "publishedAt": "2026-09-22T21:51:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Threatens to ‘Annihilate’ Iran in U.N. Speech",
-      "url": "http://foreignpolicy.com/2026/09/22/trump-unga-speech-annihilate-iran-icc-rogue-war-crimes/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-22T21:20:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia's neighbor reveals personal appeals to Trump as US weighs NATO troop pullback in Europe",
-      "url": "https://www.foxnews.com/politics/russia-neighbor-reveals-personal-appeals-trump-us-weighs-nato-troop-pullback-europe",
-      "source": "Fox News",
-      "publishedAt": "2026-09-22T20:58:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The West Is Sending Russia the Wrong Signals",
-      "url": "http://foreignpolicy.com/2026/09/22/ukraine-putin-russia-signaling-trump-germany/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-22T20:46:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump touts 3-hour meeting on ending the war after threatening to 'annihilate' Iran",
-      "url": "https://uk.news.yahoo.com/trump-warns-un-speech-could-160836184.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-22T20:20:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "No English Test for You: Trump’s Campaign Against Iran Now Targets Education",
-      "url": "https://truthout.org/articles/no-english-test-for-you-trumps-campaign-against-iran-now-targets-education/",
-      "source": "Truthout",
-      "publishedAt": "2026-09-22T19:45:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US military power a ‘Wizard of Oz’ illusion – ex-CIA analyst (VIDEO)",
-      "url": "https://www.rt.com/news/646084-us-ukraine-iran-johnson/",
-      "source": "RT",
-      "publishedAt": "2026-09-22T19:04:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "‘I have a big decision to make’: Trump had a ‘good meeting’ with Iranian officials warning he may ‘annihilate the Islamic Republic’",
-      "url": "https://fortune.com/2026/09/22/trump-meets-iranian-officials-annihilate-big-decision/",
-      "source": "Fortune",
-      "publishedAt": "2026-09-22T18:59:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Washington Should Embrace Space Warfare",
       "url": "http://foreignpolicy.com/2026/09/22/space-force-washington-nuclear-china-russia-satellite/",
       "source": "Foreign Policy",
       "publishedAt": "2026-09-22T15:12:13Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Charles Goyette’s Empire of Lies: Restoring the History the Warlords Need US To Forget",
-      "url": "https://www.antiwar.com/blog/2026/09/22/empire-of-lies-restoring-the-history-the-warlords-need-us-to-forget/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-09-22T14:22:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "You still don’t have the cards: Is Zelensky still bringing a bluff to Trump?",
-      "url": "https://www.rt.com/news/646079-zelensky-trump-card-bluff-un/",
-      "source": "RT",
-      "publishedAt": "2026-09-22T14:06:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "From 1453 to 2026: As the West’s 500-Year World System Comes to an End",
-      "url": "https://www.globalresearch.ca/west-500-year-world-system-comes-end/5941350",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-22T13:51:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea's Kim lauds test of apparent new hypersonic missile",
@@ -211,28 +275,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "‘Incurable headache’ to enemies: North Korea tests new weapon system (PHOTOS)",
-      "url": "https://www.rt.com/news/646075-north-korea-new-missile/",
-      "source": "RT",
-      "publishedAt": "2026-09-22T09:30:20Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "An eight-step guide to blaming Israel",
       "url": "https://www.israelnationalnews.com/news/433475",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-09-22T07:26:19Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea touts new weapons system described as hypersonic in tests",
-      "url": "https://www.business-standard.com/world-news/north-korea-touts-new-weapons-system-described-as-hypersonic-in-tests-126092200121_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-09-22T05:09:48Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

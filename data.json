@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-23T21:05:47Z",
-  "count": 35,
+  "updated": "2026-09-24T03:14:25Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "Iran threatens 'crushing' strikes after Trump UN speech",
+      "url": "https://www.israelnationalnews.com/news/433514",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-23T02:46:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran officials held 'very good' meeting on sidelines of UNGA: Trump",
+      "url": "https://www.business-standard.com/world-news/us-iran-officials-held-very-good-meeting-on-sidelines-of-unga-trump-126092300081_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-09-23T02:08:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Witkoff, Kushner met Iranian officials, shortly after warning he may 'annihilate' Iran",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-witkoff-kushner-met-iranian-officials-shortly-after-warning-he-may-annihilate-iran/articleshow/134423498.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-23T00:44:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Russia-DPRK Alliance & the Development of the Military-Economic Complex in North Korea",
+      "url": "https://www.hoover.org/events/russia-dprk-alliance-development-military-economic-complex-north-korea",
+      "source": "Hoover.org",
+      "publishedAt": "2026-09-23T00:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The three things stirring on Russia's border that make me believe Putin is on the brink of a catastrophic move: MARK ALMOND",
+      "url": "https://www.dailymail.com/debate/article-16152413/three-things-Russias-border-Putin-brink-catastrophic-MARK-ALMOND.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-22T22:43:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Battle-tested Zelenskyy sounds chilling alarm on where Putin’s war could head next",
+      "url": "https://www.foxnews.com/world/battle-tested-zelenskyy-sounds-chilling-alarm-where-putins-war-could-head-next",
+      "source": "Fox News",
+      "publishedAt": "2026-09-22T22:11:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Premier Li on advanced manufacturing; Xi’s US visit; AI; “Enemy state” clauses",
+      "url": "https://sinocism.com/p/premier-li-on-advanced-manufacturing",
+      "source": "Sinocism.com",
+      "publishedAt": "2026-09-22T22:05:31Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Trump flexes 'American power' on UN's biggest stage",
+      "url": "https://www.cbc.ca/news/world/trump-un-general-assembly-speech-9.7353658",
+      "source": "CBC News",
+      "publishedAt": "2026-09-22T21:51:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Threatens to ‘Annihilate’ Iran in U.N. Speech",
+      "url": "http://foreignpolicy.com/2026/09/22/trump-unga-speech-annihilate-iran-icc-rogue-war-crimes/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-22T21:20:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Russia's neighbor reveals personal appeals to Trump as US weighs NATO troop pullback in Europe",
       "url": "https://www.foxnews.com/politics/russia-neighbor-reveals-personal-appeals-trump-us-weighs-nato-troop-pullback-europe",
@@ -51,30 +123,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "WATCH: Trump addresses 2026 United Nations General Assembly",
-      "url": "https://freerepublic.com/focus/f-news/4396470/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-09-22T16:55:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia could widen Ukraine war, test NATO with covert attacks, Europe warns",
-      "url": "https://economictimes.indiatimes.com/news/defence/russia-could-widen-ukraine-war-test-nato-with-covert-attacks-europe-warns/articleshow/134416488.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-22T16:31:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Mearsheimer: A Left Critique",
-      "url": "https://www.globalresearch.ca/mearsheimer-left-critique/5941445",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-22T15:56:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Washington Should Embrace Space Warfare",
       "url": "http://foreignpolicy.com/2026/09/22/space-force-washington-nuclear-china-russia-satellite/",
       "source": "Foreign Policy",
@@ -107,14 +155,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump Returns to UN at a Moment of Anxiety About Iran, AI and the Future of the World Body Itself",
-      "url": "https://military.com/trump-returns-to-un-at-a-moment-of-anxiety-about-iran-ai-and-the-future-of-the-world-body-itself",
-      "source": "Military.com",
-      "publishedAt": "2026-09-22T13:30:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea's Kim lauds test of apparent new hypersonic missile",
       "url": "https://www.cbsnews.com/news/north-korea-kim-jong-un-hypersonic-missile-test-headache-foes/",
       "source": "CBS News",
@@ -127,8 +167,8 @@
       "url": "https://thediplomat.com/2026/09/why-south-korea-has-little-room-to-send-troops-to-hormuz/",
       "source": "The Diplomat",
       "publishedAt": "2026-09-22T13:20:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "The Battle for Taiwan’s East: Taipei’s Western Pacific Strategy",
@@ -145,14 +185,6 @@
       "publishedAt": "2026-09-22T12:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump-GCC Summit in New York: What does each side want?",
-      "url": "https://www.aljazeera.com/news/2026/9/22/trump-gcc-summit-in-new-york-what-does-each-side-want",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-22T11:33:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "S. Korean Leader Urges US to Ease N. Korea Sanctions",
@@ -191,8 +223,8 @@
       "url": "https://www.israelnationalnews.com/news/433475",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-09-22T07:26:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "North Korea touts new weapons system described as hypersonic in tests",
@@ -201,86 +233,6 @@
       "publishedAt": "2026-09-22T05:09:48Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea touts new weapons system described as hypersonic",
-      "url": "https://abcnews.com/International/wireStory/north-korea-touts-new-weapons-system-hypersonic-136639627",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-22T04:33:08Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Fears of runaway AI spur Australia to join global call for guardrails",
-      "url": "https://www.abc.net.au/news/2026-09-22/australia-joins-global-push-for-ai-controls/107179312",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-21T17:56:49Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Taiwan’s Status Is Ambiguous. U.S. Policy Shouldn’t Be.",
-      "url": "http://foreignpolicy.com/2026/09/21/taiwan-ambiguity-china/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-21T11:51:31Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Progressive Principles for a New US Foreign Policy",
-      "url": "https://www.commondreams.org/opinion/what-does-progressive-foreign-policy-look-like",
-      "source": "Common Dreams",
-      "publishedAt": "2026-09-21T11:23:22Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Never Underestimate the Houthis",
-      "url": "https://www.rand.org/pubs/commentary/2026/09/never-underestimate-the-houthis.html",
-      "source": "Rand.org",
-      "publishedAt": "2026-09-21T10:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
-      "url": "https://www.aljazeera.com/news/2026/9/21/do-israelis-feel-any-safer-now-than-they-did-on-october-6-2023",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-21T09:54:05Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The New World Order Is Here",
-      "url": "http://nymag.com/intelligencer/article/canada-eu-united-nations-global-order.html",
-      "source": "New York Magazine",
-      "publishedAt": "2026-09-21T09:00:08Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "As war in the Middle East widens, Saudi Arabia’s new defence pact could face a major test",
-      "url": "https://theconversation.com/as-war-in-the-middle-east-widens-saudi-arabias-new-defence-pact-could-face-a-major-test-292357",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-09-21T06:18:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Taiwan launches global disaster response group amid China tensions",
-      "url": "https://cryptobriefing.com/taiwan-launches-global-disaster-response-group-amid-china-tensions/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-09-21T03:53:09Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Kevin Rudd on AUKUS, his past remarks and how to avoid war",
-      "url": "http://www.crikey.com.au/2026/09/21/kevin-rudd-aukus/",
-      "source": "Crikey",
-      "publishedAt": "2026-09-21T01:34:39Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

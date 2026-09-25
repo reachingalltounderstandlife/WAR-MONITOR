@@ -1,7 +1,135 @@
 {
-  "updated": "2026-09-25T03:31:48Z",
-  "count": 29,
+  "updated": "2026-09-25T11:11:39Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split",
+      "url": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
+      "source": "NPR",
+      "publishedAt": "2026-09-24T11:10:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelenskyy Says Ukraine Sent 2 North Korean Prisoners of War to South Korea",
+      "url": "https://military.com/zelenskyy-says-ukraine-sent-2-north-korean-prisoners-of-war-to-south-korea",
+      "source": "Military.com",
+      "publishedAt": "2026-09-24T10:59:06Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Russian attacks kill eight people across Ukraine as US steps up diplomacy",
+      "url": "https://www.aljazeera.com/news/2026/9/24/russian-attacks-kill-eight-people-across-ukraine-as-us-steps-up-diplomacy",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-24T10:27:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Dragging the World Into the Abyss: Trump the ‘P(iss)maker’ is Doing His Best to Expand the Quagmire",
+      "url": "https://i-epikaira.blogspot.com/2026/09/dragging-world-into-abyss-trump.html",
+      "source": "Blogspot.com",
+      "publishedAt": "2026-09-24T09:03:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelenskyy says Ukraine sent 2 North Korean prisoners of war to South Korea",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-ukraine-2-north-korean-prisoners-war-south-136706303",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-24T07:42:33Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Putin's Mediterranean 'drone attack plot': US spies 'warn Russia is planning strikes on Italy, Spain and France with UAVs hidden on merchant ships'",
+      "url": "https://www.dailymail.com/news/article-16156439/Putins-Mediterranean-drone-attack-plot-US-spies-warn-Russia-planning-strikes-Italy-Spain-France-UAVs-hidden-merchant-ships.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-24T07:00:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia is widening insecurity while refusing the path to peace: UK statement to the OSCE",
+      "url": "https://www.gov.uk/government/speeches/russia-is-widening-insecurity-while-refusing-the-path-to-peace-uk-statement-to-the-osce",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-09-24T06:40:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Republican Support for Iran War Falls as Fuel Crisis Grows, Polls Show",
+      "url": "https://www.naturalnews.com/2026-09-24-republican-support-iran-war-falls-fuel-crisis-grows.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-24T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lithuania Parliament Backs Amendment to Lift Nuclear Weapons Ban, Russian Officials Warn of Consequences",
+      "url": "https://www.naturalnews.com/2026-09-24-lithuania-backs-amendment-to-lift-nuclear-weapons-ban.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-24T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Says Russia Has “Lost Control” of Diesel Industry, Calls for End to Ukraine War",
+      "url": "https://www.naturalnews.com/2026-09-24-trump-says-russia-lost-control-diesel-industry.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-24T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine is facing a five-dimensional crisis – a national suicide",
+      "url": "https://www.naturalnews.com/2026-09-24-ukraine-is-facing-a-five-dimensional-crisis-a-national-suicide.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-24T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine transfers two North Korean POWs to South Korea, Zelensky confirms at UN",
+      "url": "https://www.naturalnews.com/2026-09-24-ukraine-transfers-north-korean-pows-to-south-korea.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-24T06:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "How worried should we be about a Russian military attack?",
+      "url": "https://www.irishtimes.com/world/europe/2026/09/24/how-worried-should-we-be-about-a-russian-military-attack-on-an-eu-state/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-09-24T05:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "On the AI-Driven Targeting System in Gaza",
+      "url": "https://www.israelnationalnews.com/news/433575",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-24T04:09:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea to keep nuclear weapons 'forever', says foreign minister",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-keep-nuclear-weapons-forever-6407106",
+      "source": "CNA",
+      "publishedAt": "2026-09-24T03:50:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea to keep nuclear weapons 'forever', says foreign minister",
+      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-to-keep-nuclear-weapons-forever-says-foreign-minister/articleshow/134450637.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-24T03:38:29Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "The Urgency of Recognizing the Ansar Allah Government in Yemen",
       "url": "https://original.antiwar.com/mbenjamin/2026/09/23/the-urgency-of-recognizing-the-ansar-allah-government-in-yemen/",
@@ -35,28 +163,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Defence Secretary Wes Streeting MP, keynote speech at UK Space Power Conference",
-      "url": "https://www.gov.uk/government/speeches/defence-secretary-wes-streeting-mp-keynote-speech-at-uk-space-power-conference",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-09-23T18:05:54Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran’s president strikes a defiant tone at U.N. after Trump threats",
       "url": "https://www.nbcnews.com/world/iran/irans-president-strikes-defiant-tone-un-trump-threats-rcna599372",
       "source": "NBC News",
       "publishedAt": "2026-09-23T17:42:07Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Poland scrambles jets after Russian helicopter breaches its airspace",
-      "url": "https://www.politico.eu/article/poland-russia-mi-8-helicopter-airspace-breach-kaliningrad/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-09-23T17:37:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Sanders, Casar Introduce Legislation to Create New Federal Agency to Ban Artificial Superintelligence, Pause Advanced AI Development",
@@ -67,44 +179,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Foreign Secretary address to the UNSC on Ukraine",
-      "url": "https://www.gov.uk/government/speeches/foreign-secretary-address-to-the-unsc-on-ukraine",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-09-23T16:29:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "2 dead, 23 injured in Ukraine after Russian drones attack Kyiv hours before Zelensky’s UN address",
-      "url": "https://nypost.com/2026/09/23/world-news/2-dead-23-injured-as-russia-attacks-kyiv-with-drones-hours-before-zelenskys-un-address/",
-      "source": "New York Post",
-      "publishedAt": "2026-09-23T16:25:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Is Israel committing genocide in Lebanon? RT reports (VIDEO)",
       "url": "https://www.rt.com/news/646148-israel-genocide-accusations-lebanon/",
       "source": "RT",
       "publishedAt": "2026-09-23T16:14:48Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Poland accuses Russian military helicopter of violating its airspace",
-      "url": "https://www.bbc.com/news/articles/c699d2dn9z0mo",
-      "source": "BBC News",
-      "publishedAt": "2026-09-23T15:37:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Middle East Still to Come",
-      "url": "https://www.theatlantic.com/international/2026/09/middle-east-future/688747/?utm_source=feed",
-      "source": "The Atlantic",
-      "publishedAt": "2026-09-23T15:27:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "U.S. Rep. Leaves U.N. as Iranian President Calls Out Strikes on Kids",
@@ -131,36 +211,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Fresh talks between US and Iran described as 'productive'",
-      "url": "https://www.rte.ie/news/world/2026/0923/1592691-iran-us-talks/",
-      "source": "RTE",
-      "publishedAt": "2026-09-23T14:47:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine's army seeks to give frontline commanders more authority",
-      "url": "https://economictimes.indiatimes.com/news/defence/ukraines-military-revolution-empowering-frontline-leaders-against-russian-forces/articleshow/134440293.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-23T14:23:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "On Taiwan, US ‘Strategic Ambiguity’ Is Not Dead Yet",
       "url": "https://thediplomat.com/2026/09/on-taiwan-us-strategic-ambiguity-is-not-dead-yet/",
       "source": "The Diplomat",
       "publishedAt": "2026-09-23T14:08:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "The Urgency of Recognizing the Ansar Allah Government in Yemen",
-      "url": "https://www.globalresearch.ca/recognizing-ansar-allah-government-yemen/5941474",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-23T13:03:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "South Korea says Trump welcomes progress in US strategic investment projects",
@@ -177,22 +233,6 @@
       "publishedAt": "2026-09-23T10:59:47Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Iran War: WaPo Notices Casualty Count a Bit Off, GOP Senators Run for the Exits, Trump Freestyles at the UN",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-wapo-pentagon-casualty-count-off-gop-senators-trump-un.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-23T10:00:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The conflict sending global oil prices soaring: How Iran-backed Houthis have seized islands in Red Sea shipping route in escalating war with Saudi Arabia",
-      "url": "https://www.dailymail.com/news/article-16153679/The-conflict-sending-global-oil-prices-soaring-Iran-backed-Houthis-seized-islands-Red-Sea-shipping-route-escalating-war-Saudi-Arabia.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-23T09:44:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace",

@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-25T16:34:45Z",
+  "updated": "2026-09-25T21:06:27Z",
   "count": 35,
   "articles": [
+    {
+      "title": "Poland Starlink fire labelled 'sabotage' as Denmark warns of Russian threat",
+      "url": "https://www.abc.net.au/news/2026-09-25/poland-starlink-station-sabotage-denmark-warning/107194146",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-24T19:46:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Actor Hannah Einbinder says attention should be on Gaza, not her arrest at Netanyahu protest",
+      "url": "https://www.cbc.ca/news/entertainment/benjamin-netanyahu-un-speech-celebrities-detained-9.7357238",
+      "source": "CBC News",
+      "publishedAt": "2026-09-24T19:45:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Prime Minister Netanyahu’s 2026 UN General Assembly Speech",
+      "url": "https://freerepublic.com/focus/f-news/4396765/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-09-24T19:36:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Dozens of delegates walk out as Netanyahu denounces ‘moral cowards’ at UN",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/09/24/dozens-of-delegates-walk-out-as-netanyahu-denounces-moral-cowards-at-un/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-09-24T19:08:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Foreign leader on Putin’s doorstep sounds alarm over Iran fueling Moscow’s war machine",
+      "url": "https://www.foxnews.com/world/foreign-leader-putins-doorstep-sounds-alarm-iran-fueling-moscows-war-machine",
+      "source": "Fox News",
+      "publishedAt": "2026-09-24T19:00:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Warns U.S. Strikes Could Push War Into Indian Ocean",
+      "url": "https://oilprice.com/Energy/Energy-General/Iran-Warns-US-Strikes-Could-Push-War-Into-Indian-Ocean.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-09-24T17:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US allies need to shoot down Russian aircraft testing NATO boundaries, Czech president warns",
       "url": "https://www.foxnews.com/politics/us-allies-shoot-down-russian-aircraft-testing-nato-boundaries-czech-president-warns",
@@ -71,22 +119,6 @@
       "url": "https://theconversation.com/from-east-to-west-why-turkey-is-playing-both-sides-291940",
       "source": "The Conversation Africa",
       "publishedAt": "2026-09-24T13:03:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Poland says Starlink station blaze was sabotage aimed at Ukraine military",
-      "url": "https://www.irishtimes.com/world/europe/2026/09/24/poland-says-starlink-station-blaze-was-sabotage-aimed-at-ukraine-military/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-09-24T12:46:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending",
-      "url": "https://www.dw.com/en/czech-pm-andrej-babis-reiterates-importance-of-nato-for-his-country-but-rejects-calls-to-increase-defense-spending/a-79411066",
-      "source": "DW (English)",
-      "publishedAt": "2026-09-24T12:11:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -163,28 +195,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "The Urgency of Recognizing the Ansar Allah Government in Yemen",
-      "url": "https://original.antiwar.com/mbenjamin/2026/09/23/the-urgency-of-recognizing-the-ansar-allah-government-in-yemen/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-09-24T00:00:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Don’t Be Fooled by China’s Recent Months of Low Military Activity",
       "url": "https://www.dailysignal.com/2026/09/23/dont-be-fooled-by-chinas-recent-months-of-low-military-activity-china/",
       "source": "Daily Signal",
       "publishedAt": "2026-09-23T21:20:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Iran’s president strikes a defiant tone at U.N. after Trump threats",
-      "url": "https://www.nbcnews.com/world/iran/irans-president-strikes-defiant-tone-un-trump-threats-rcna599372",
-      "source": "NBC News",
-      "publishedAt": "2026-09-23T17:42:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Sanders, Casar Introduce Legislation to Create New Federal Agency to Ban Artificial Superintelligence, Pause Advanced AI Development",
@@ -199,24 +215,8 @@
       "url": "https://www.rt.com/news/646148-israel-genocide-accusations-lebanon/",
       "source": "RT",
       "publishedAt": "2026-09-23T16:14:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. Rep. Leaves U.N. as Iranian President Calls Out Strikes on Kids",
-      "url": "https://newrepublic.com/post/215766/us-representative-walks-out-un-iran-president-strikes-kids",
-      "source": "The New Republic",
-      "publishedAt": "2026-09-23T15:12:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US delegate leaves the room as Iran's president tells UN that country is 'victim of terrorism'",
-      "url": "https://www.thejournal.ie/iran-president-us-un-address-7171082-Sep2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-09-23T15:06:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "On Taiwan, US ‘Strategic Ambiguity’ Is Not Dead Yet",

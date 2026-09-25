@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-25T11:11:39Z",
-  "count": 34,
+  "updated": "2026-09-25T16:34:45Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "US allies need to shoot down Russian aircraft testing NATO boundaries, Czech president warns",
+      "url": "https://www.foxnews.com/politics/us-allies-shoot-down-russian-aircraft-testing-nato-boundaries-czech-president-warns",
+      "source": "Fox News",
+      "publishedAt": "2026-09-24T16:31:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Poland Suspects Starlink Fire Was Russian Sabotage",
+      "url": "https://www.newser.com/story/396995/poland-suspects-starlink-fire-was-russian-sabotage.html",
+      "source": "Newser",
+      "publishedAt": "2026-09-24T16:30:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO chief calls for calm as intel agency warns Russia may ramp up hybrid attacks",
+      "url": "https://abcnews.com/International/wireStory/nato-chief-calls-calm-intel-agency-warns-russia-136722554",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-24T16:07:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia is unlikely to break through in Ukraine, but risks to NATO are rising, Western intel warns",
+      "url": "https://www.businessinsider.com/russia-unlikely-break-through-ukraine-rising-risks-to-nato-intelligence-2026-9#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-09-24T16:00:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UN chief says world’s biggest problem is the changing way power is used – Donald Trump’s speech confirms his diagnosis",
+      "url": "https://theconversation.com/un-chief-says-worlds-biggest-problem-is-the-changing-way-power-is-used-donald-trumps-speech-confirms-his-diagnosis-292755",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-09-24T15:09:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Le Pen says she won’t leave NATO until Russia’s war in Ukraine ends",
+      "url": "https://www.politico.eu/article/marine-le-pen-says-she-wont-leave-nato-until-russias-war-in-ukraine-ends/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-09-24T15:03:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO chief says alliance 'ready' for Russia hybrid attack",
+      "url": "https://www.rte.ie/news/2026/0924/1592845-nato-chief-says-alliance-ready-for-russia-hybrid-attack/",
+      "source": "RTE",
+      "publishedAt": "2026-09-24T14:58:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Apologies to Caligula: Trump Is Out of His Goddamn Mind",
+      "url": "https://www.commondreams.org/opinion/is-trump-out-of-his-mind",
+      "source": "Common Dreams",
+      "publishedAt": "2026-09-24T14:09:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "From east to west: Why Turkey is playing both sides",
+      "url": "https://theconversation.com/from-east-to-west-why-turkey-is-playing-both-sides-291940",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-09-24T13:03:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Poland says Starlink station blaze was sabotage aimed at Ukraine military",
+      "url": "https://www.irishtimes.com/world/europe/2026/09/24/poland-says-starlink-station-blaze-was-sabotage-aimed-at-ukraine-military/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-09-24T12:46:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Czech PM Andrej Babis reiterates importance of NATO for his country but rejects calls to increase defense spending",
+      "url": "https://www.dw.com/en/czech-pm-andrej-babis-reiterates-importance-of-nato-for-his-country-but-rejects-calls-to-increase-defense-spending/a-79411066",
+      "source": "DW (English)",
+      "publishedAt": "2026-09-24T12:11:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split",
       "url": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
@@ -17,14 +105,6 @@
       "publishedAt": "2026-09-24T10:59:06Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Russian attacks kill eight people across Ukraine as US steps up diplomacy",
-      "url": "https://www.aljazeera.com/news/2026/9/24/russian-attacks-kill-eight-people-across-ukraine-as-us-steps-up-diplomacy",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-24T10:27:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Dragging the World Into the Abyss: Trump the ‘P(iss)maker’ is Doing His Best to Expand the Quagmire",
@@ -43,22 +123,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Putin's Mediterranean 'drone attack plot': US spies 'warn Russia is planning strikes on Italy, Spain and France with UAVs hidden on merchant ships'",
-      "url": "https://www.dailymail.com/news/article-16156439/Putins-Mediterranean-drone-attack-plot-US-spies-warn-Russia-planning-strikes-Italy-Spain-France-UAVs-hidden-merchant-ships.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-24T07:00:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia is widening insecurity while refusing the path to peace: UK statement to the OSCE",
-      "url": "https://www.gov.uk/government/speeches/russia-is-widening-insecurity-while-refusing-the-path-to-peace-uk-statement-to-the-osce",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-09-24T06:40:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Republican Support for Iran War Falls as Fuel Crisis Grows, Polls Show",
       "url": "https://www.naturalnews.com/2026-09-24-republican-support-iran-war-falls-fuel-crisis-grows.html",
       "source": "Naturalnews.com",
@@ -67,44 +131,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Lithuania Parliament Backs Amendment to Lift Nuclear Weapons Ban, Russian Officials Warn of Consequences",
-      "url": "https://www.naturalnews.com/2026-09-24-lithuania-backs-amendment-to-lift-nuclear-weapons-ban.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-24T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Says Russia Has “Lost Control” of Diesel Industry, Calls for End to Ukraine War",
-      "url": "https://www.naturalnews.com/2026-09-24-trump-says-russia-lost-control-diesel-industry.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-24T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine is facing a five-dimensional crisis – a national suicide",
-      "url": "https://www.naturalnews.com/2026-09-24-ukraine-is-facing-a-five-dimensional-crisis-a-national-suicide.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-24T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Ukraine transfers two North Korean POWs to South Korea, Zelensky confirms at UN",
       "url": "https://www.naturalnews.com/2026-09-24-ukraine-transfers-north-korean-pows-to-south-korea.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-09-24T06:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "How worried should we be about a Russian military attack?",
-      "url": "https://www.irishtimes.com/world/europe/2026/09/24/how-worried-should-we-be-about-a-russian-military-attack-on-an-eu-state/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-09-24T05:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "On the AI-Driven Targeting System in Gaza",
@@ -139,28 +171,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Canada and UK could merge war chests to fight Russia – media",
-      "url": "https://www.rt.com/news/646161-canada-uk-merging-war-chests/",
-      "source": "RT",
-      "publishedAt": "2026-09-23T22:36:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Don’t Be Fooled by China’s Recent Months of Low Military Activity",
       "url": "https://www.dailysignal.com/2026/09/23/dont-be-fooled-by-chinas-recent-months-of-low-military-activity-china/",
       "source": "Daily Signal",
       "publishedAt": "2026-09-23T21:20:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Wired for War: The empire’s propaganda wing honors Palantir",
-      "url": "https://www.rt.com/news/646149-axel-springer-palantir-thiel/",
-      "source": "RT",
-      "publishedAt": "2026-09-23T20:17:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran’s president strikes a defiant tone at U.N. after Trump threats",
@@ -199,14 +215,6 @@
       "url": "https://www.thejournal.ie/iran-president-us-un-address-7171082-Sep2026/",
       "source": "TheJournal.ie",
       "publishedAt": "2026-09-23T15:06:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Gas Prices Are Out Of Control. Here’s What No One Is Telling You.",
-      "url": "https://freerepublic.com/focus/f-news/4396584/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-09-23T14:59:01Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

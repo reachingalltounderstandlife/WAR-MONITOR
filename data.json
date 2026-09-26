@@ -1,7 +1,119 @@
 {
-  "updated": "2026-09-25T21:06:27Z",
-  "count": 35,
+  "updated": "2026-09-26T03:37:19Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo",
+      "source": "BBC News",
+      "publishedAt": "2026-09-25T02:51:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Allies unite behind Saudi Arabia as Houthis step up attacks",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/allies-unite-behind-saudi-arabia-as-houthis-step-up-attacks/articleshow/134473330.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-25T02:24:03Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iranian president blames US for Middle East conflict while denying nuclear ambitions, offers to dilute uranium",
+      "url": "https://www.foxnews.com/world/iranian-president-blames-us-middle-east-conflict-denying-nuclear-ambitions-offers-dilute-uranium",
+      "source": "Fox News",
+      "publishedAt": "2026-09-25T00:25:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Tucker Carlson Still Can't Believe What Trump Said About The Iran War",
+      "url": "https://www.huffpost.com/entry/tucker-carlson-trump-iran-war_n_6ab59fc6e4b075a3d2851071",
+      "source": "HuffPost",
+      "publishedAt": "2026-09-25T00:00:58Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "America’s Arsenal: While Supplies Last",
+      "url": "https://original.antiwar.com/nolan_denaro/2026/09/24/americas-arsenal-while-supplies-last/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-09-25T00:00:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Should Stop Hosting Summits",
+      "url": "https://www.theatlantic.com/ideas/2026/09/trump-xi-summit-china/688776/?utm_source=feed",
+      "source": "The Atlantic",
+      "publishedAt": "2026-09-24T22:50:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Netanyahu at U.N.: Iran’s ‘Murderous Regime Will Be Toppled,’ ‘We’re Going to Win’",
+      "url": "https://www.breitbart.com/politics/2026/09/24/netanyahu-at-u-n-irans-murderous-regime-will-be-toppled-were-going-to-win/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-09-24T22:21:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu Faces an UNGA Walkout (Again)",
+      "url": "http://foreignpolicy.com/2026/09/24/netanyahu-speech-unga-israel-walkout-mamdani/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-24T22:07:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu brings ‘killer pager’ to UN (VIDEO)",
+      "url": "https://www.rt.com/news/646217-netanyahu-un-assembly-hezbollah-pager/",
+      "source": "RT",
+      "publishedAt": "2026-09-24T21:55:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia preparing a limited strike on NATO to disrupt Ukraine support, intel report claims — and it could come soon",
+      "url": "https://nypost.com/2026/09/24/world-news/russia-preparing-a-limited-strike-on-nato-to-disrupt-ukraine-support-intel-report-claims/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-24T21:45:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Netanyahu Uses UN Speech To Paint Israel As The Victim While Bragging Of Violence",
+      "url": "https://www.huffpost.com/entry/netanyhu-un-speech-israel_n_6ab57eb3e4b075a3d284e4a9",
+      "source": "HuffPost",
+      "publishedAt": "2026-09-24T21:45:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO Boss Fawns Over Trump on Fox News: ‘He Was Completely Right!’",
+      "url": "https://www.mediaite.com/media/news/nato-boss-fawns-over-trump-on-fox-news-he-was-completely-right/",
+      "source": "Mediaite",
+      "publishedAt": "2026-09-24T21:26:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Not convinced we need more defence funding? Watch this alarming series: CHRISTOPHER STEVENS reviews Sky One's The Wargame",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16158741/CHRISTOPHER-STEVENS-reviews-Sky-Ones-Wargame.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-24T21:16:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo",
+      "source": "BBC News",
+      "publishedAt": "2026-09-24T21:09:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Poland Starlink fire labelled 'sabotage' as Denmark warns of Russian threat",
       "url": "https://www.abc.net.au/news/2026-09-25/poland-starlink-station-sabotage-denmark-warning/107194146",
@@ -27,28 +139,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Dozens of delegates walk out as Netanyahu denounces ‘moral cowards’ at UN",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/09/24/dozens-of-delegates-walk-out-as-netanyahu-denounces-moral-cowards-at-un/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-09-24T19:08:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Foreign leader on Putin’s doorstep sounds alarm over Iran fueling Moscow’s war machine",
       "url": "https://www.foxnews.com/world/foreign-leader-putins-doorstep-sounds-alarm-iran-fueling-moscows-war-machine",
       "source": "Fox News",
       "publishedAt": "2026-09-24T19:00:36Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran Warns U.S. Strikes Could Push War Into Indian Ocean",
-      "url": "https://oilprice.com/Energy/Energy-General/Iran-Warns-US-Strikes-Could-Push-War-Into-Indian-Ocean.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-09-24T17:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "US allies need to shoot down Russian aircraft testing NATO boundaries, Czech president warns",
@@ -83,54 +179,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "UN chief says world’s biggest problem is the changing way power is used – Donald Trump’s speech confirms his diagnosis",
-      "url": "https://theconversation.com/un-chief-says-worlds-biggest-problem-is-the-changing-way-power-is-used-donald-trumps-speech-confirms-his-diagnosis-292755",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-09-24T15:09:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Le Pen says she won’t leave NATO until Russia’s war in Ukraine ends",
-      "url": "https://www.politico.eu/article/marine-le-pen-says-she-wont-leave-nato-until-russias-war-in-ukraine-ends/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-09-24T15:03:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO chief says alliance 'ready' for Russia hybrid attack",
-      "url": "https://www.rte.ie/news/2026/0924/1592845-nato-chief-says-alliance-ready-for-russia-hybrid-attack/",
-      "source": "RTE",
-      "publishedAt": "2026-09-24T14:58:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Apologies to Caligula: Trump Is Out of His Goddamn Mind",
-      "url": "https://www.commondreams.org/opinion/is-trump-out-of-his-mind",
-      "source": "Common Dreams",
-      "publishedAt": "2026-09-24T14:09:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "From east to west: Why Turkey is playing both sides",
-      "url": "https://theconversation.com/from-east-to-west-why-turkey-is-playing-both-sides-291940",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-09-24T13:03:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Judge restores journalists' White House access. And, Tucker Carlson on his MAGA split",
-      "url": "https://www.npr.org/2026/09/24/g-s1-144850/up-first-newsletter-cnn-msnow-politico-iran-ukraine-unga-china-xi-jinping-trump",
-      "source": "NPR",
-      "publishedAt": "2026-09-24T11:10:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Zelenskyy Says Ukraine Sent 2 North Korean Prisoners of War to South Korea",
       "url": "https://military.com/zelenskyy-says-ukraine-sent-2-north-korean-prisoners-of-war-to-south-korea",
       "source": "Military.com",
@@ -139,28 +187,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Dragging the World Into the Abyss: Trump the ‘P(iss)maker’ is Doing His Best to Expand the Quagmire",
-      "url": "https://i-epikaira.blogspot.com/2026/09/dragging-world-into-abyss-trump.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-09-24T09:03:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Zelenskyy says Ukraine sent 2 North Korean prisoners of war to South Korea",
       "url": "https://abcnews.com/International/wireStory/zelenskyy-ukraine-2-north-korean-prisoners-war-south-136706303",
       "source": "Abcnews.com",
       "publishedAt": "2026-09-24T07:42:33Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Republican Support for Iran War Falls as Fuel Crisis Grows, Polls Show",
-      "url": "https://www.naturalnews.com/2026-09-24-republican-support-iran-war-falls-fuel-crisis-grows.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-24T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine transfers two North Korean POWs to South Korea, Zelensky confirms at UN",
@@ -175,8 +207,8 @@
       "url": "https://www.israelnationalnews.com/news/433575",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-09-24T04:09:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "North Korea to keep nuclear weapons 'forever', says foreign minister",
@@ -191,94 +223,6 @@
       "url": "https://economictimes.indiatimes.com/news/defence/north-korea-to-keep-nuclear-weapons-forever-says-foreign-minister/articleshow/134450637.cms",
       "source": "The Times of India",
       "publishedAt": "2026-09-24T03:38:29Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Don’t Be Fooled by China’s Recent Months of Low Military Activity",
-      "url": "https://www.dailysignal.com/2026/09/23/dont-be-fooled-by-chinas-recent-months-of-low-military-activity-china/",
-      "source": "Daily Signal",
-      "publishedAt": "2026-09-23T21:20:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Sanders, Casar Introduce Legislation to Create New Federal Agency to Ban Artificial Superintelligence, Pause Advanced AI Development",
-      "url": "https://www.commondreams.org/newswire/sanders-casar-introduce-legislation-to-create-new-federal-agency-to-ban-artificial-superintelligence-pause-advanced-ai-development",
-      "source": "Common Dreams",
-      "publishedAt": "2026-09-23T16:56:12Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Is Israel committing genocide in Lebanon? RT reports (VIDEO)",
-      "url": "https://www.rt.com/news/646148-israel-genocide-accusations-lebanon/",
-      "source": "RT",
-      "publishedAt": "2026-09-23T16:14:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "On Taiwan, US ‘Strategic Ambiguity’ Is Not Dead Yet",
-      "url": "https://thediplomat.com/2026/09/on-taiwan-us-strategic-ambiguity-is-not-dead-yet/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-09-23T14:08:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "South Korea says Trump welcomes progress in US strategic investment projects",
-      "url": "https://www.channelnewsasia.com/east-asia/south-korea-says-trump-welcomes-progress-in-us-strategic-investment-projects-6403856",
-      "source": "CNA",
-      "publishedAt": "2026-09-23T11:01:08Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Derrière les prophéties d'apocalypse liées à l'IA, les États-Unis et la Chine se disputent la tête de la course technologique (Anglais)",
-      "url": "https://english.hani.co.kr/arti/english_edition/e_international/1279268.html",
-      "source": "Hani.co.kr",
-      "publishedAt": "2026-09-23T10:59:47Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace",
-      "url": "https://www.cnbc.com/2026/09/23/lee-jae-myung-trump-kim-summit-north-korea.html",
-      "source": "CNBC",
-      "publishedAt": "2026-09-23T09:22:51Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea appears to have tested upgraded hypersonic weapon: Analysts",
-      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-appears-to-have-tested-upgraded-hypersonic-weapon-analysts/articleshow/134428878.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-23T07:46:47Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-      "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po",
-      "source": "BBC News",
-      "publishedAt": "2026-09-23T06:12:56Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Divers return to Tyre’s ancient underwater ruins after war",
-      "url": "https://www.hurriyetdailynews.com/divers-return-to-tyres-ancient-underwater-ruins-after-war-227201",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-09-23T06:08:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Russia-DPRK Alliance & the Development of the Military-Economic Complex in North Korea",
-      "url": "https://www.hoover.org/events/russia-dprk-alliance-development-military-economic-complex-north-korea",
-      "source": "Hoover.org",
-      "publishedAt": "2026-09-23T00:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

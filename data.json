@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-26T15:48:50Z",
-  "count": 33,
+  "updated": "2026-09-26T20:39:36Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "Latvia President Edgars Rinkēvičs talks U.S. relationship in Orange County",
+      "url": "https://wpdash.medianewsgroup.com/2026/09/25/latvia-president-edgars-rinkevics-talks-u-s-relationship-in-orange-county/",
+      "source": "Medianewsgroup.com",
+      "publishedAt": "2026-09-25T20:11:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Fresh Calls for Trump Removal as Tucker Carlson Claims He Said 'In the End, We All Die, Anyway' Ahead of​ Iran War",
+      "url": "https://www.commondreams.org/news/does-tucker-carlson-still-support-trump",
+      "source": "Common Dreams",
+      "publishedAt": "2026-09-25T19:35:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump agrees to let Ukraine make Patriot missiles in game-changing decision: Zelensky",
+      "url": "https://nypost.com/2026/09/25/us-news/trump-agrees-to-let-ukraine-make-patriot-missiles-zelensky-says/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-25T19:18:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A week of warnings reveals Europe's dangerous new reality",
+      "url": "https://www.abc.net.au/news/2026-09-26/european-leaders-warn-of-russian-threat/107192690",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-25T18:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
+      "url": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-25T18:05:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelensky says Russia has widened attacks to hit Ukraine's data centres",
+      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o",
+      "source": "BBC News",
+      "publishedAt": "2026-09-25T18:02:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How Greenland Fits Into the Arctic Strategies of the U.S., China, Russia and Canada",
+      "url": "https://www.thegatewaypundit.com/2026/09/how-greenland-fits-arctic-strategies-u-s-china/",
+      "source": "Thegatewaypundit.com",
+      "publishedAt": "2026-09-25T18:00:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran offers deal to reopen Strait of Hormuz in seven days if US meets conditions",
+      "url": "https://www.thejournal.ie/iran-reopen-strait-of-hormuz-7173992-Sep2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-09-25T17:39:25Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Oligarch Part 4: This man made billions in Ukraine, befriended Soros – and bought a place at the West’s table",
+      "url": "https://www.rt.com/russia/646249-oligarch-part-four-victor-pinchuk/",
+      "source": "RT",
+      "publishedAt": "2026-09-25T17:16:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea’s Ukraine POWs Are Now in South Korea. What Comes Next?",
+      "url": "https://thediplomat.com/2026/09/north-koreas-ukraine-pows-are-now-in-south-korea-what-comes-next/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-09-25T16:41:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran Proposes A Deal To Reopen Strait Of Hormuz In 7 Days If The U.S. Meets Its Conditions",
+      "url": "https://www.huffpost.com/entry/iran-proposes-deal-reopen-strait-of-hormuz-7-days-us-meets-conditions_n_6ab69619e4b0bad9a6472b11",
+      "source": "HuffPost",
+      "publishedAt": "2026-09-25T16:25:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Iran Proposes a Deal to Reopen the Strait of Hormuz in 7 Days if the US Meets Its Conditions",
       "url": "https://military.com/iran-proposes-a-deal-to-reopen-the-strait-of-hormuz-in-7-days-if-the-us-meets-its-conditions",
@@ -51,38 +139,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Finland Refutes ‘Russian Threat’ Myth",
-      "url": "https://www.globalresearch.ca/finland-refutes-russian-threat-myth/5941801",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-25T13:24:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine’s Zelenskyy Says He Urged Trump to Enlist China’s Help in Ending Russia’s Invasion",
-      "url": "https://military.com/ukraines-zelenskyy-says-he-urged-trump-to-enlist-chinas-help-in-ending-russias-invasion",
-      "source": "Military.com",
-      "publishedAt": "2026-09-25T13:18:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Erdogan on Greece–Israel Defence Agreement: “We do not consider every bilateral relationship a threat against us”",
-      "url": "https://en.protothema.gr/2026/09/25/erdogan-on-greece-israel-defence-agreement-we-do-not-consider-every-bilateral-relationship-a-threat-against-us/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-09-25T13:16:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US seeking to revive Russia-Ukraine ceasefire talks",
-      "url": "https://www.aljazeera.com/news/2026/9/25/us-seeking-to-revive-russia-ukraine-ceasefire-talks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-25T12:09:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israel ‘shattering the very foundations of life’ (VIDEO)",
       "url": "https://www.rt.com/news/646232-brutal-enemy-israel-shattering-lebanon/",
       "source": "RT",
@@ -99,14 +155,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Links 9/25/2026",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-25-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-25T10:55:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
       "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz",
       "source": "Al Jazeera English",
@@ -121,14 +169,6 @@
       "publishedAt": "2026-09-25T10:45:28Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Poland Says Russia May be Behind 'Arson' of Starlink Base Station That Impacted Ukrainian Military Internet",
-      "url": "https://www.breitbart.com/europe/2026/09/25/poland-says-russia-may-be-behind-arson-of-starlink-base-station/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-09-25T10:33:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Zelenskyy says Trump made 'final decision' to give Ukraine Patriot licence",
@@ -159,22 +199,6 @@
       "url": "https://activistpost.com/israel-tangled-in-spiderweb-as-army-braces-for-west-bank-explosion-iran-war-blunts-expansion/",
       "source": "Activistpost.com",
       "publishedAt": "2026-09-25T10:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian President Dismisses Rumors About Tehran's Plans to Produce Nuclear Bomb",
-      "url": "https://sputnikglobe.com/20260925/iranian-president-dismisses-rumors-about-tehrans-plans-to-produce-nuclear-bomb-1124787015.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-09-25T09:09:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "FULL TEXT: Netanyahu’s UN speech as delegates walk out",
-      "url": "https://punchng.com/full-text-netanyahus-speech-at-un-general-assembly/",
-      "source": "The Punch",
-      "publishedAt": "2026-09-25T08:23:29Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -217,14 +241,6 @@
       "publishedAt": "2026-09-24T22:50:55Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Netanyahu brings ‘killer pager’ to UN (VIDEO)",
-      "url": "https://www.rt.com/news/646217-netanyahu-un-assembly-hezbollah-pager/",
-      "source": "RT",
-      "publishedAt": "2026-09-24T21:55:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     },
     {
       "title": "Zelenskyy Says Ukraine Sent 2 North Korean Prisoners of War to South Korea",

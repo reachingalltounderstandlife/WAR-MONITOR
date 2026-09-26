@@ -1,12 +1,156 @@
 {
-  "updated": "2026-09-26T03:37:19Z",
-  "count": 28,
+  "updated": "2026-09-26T10:50:18Z",
+  "count": 29,
   "articles": [
     {
-      "title": "Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo",
-      "source": "BBC News",
-      "publishedAt": "2026-09-25T02:51:36Z",
+      "title": "What’s in Iran’s seven-day plan to reopen the Strait of Hormuz?",
+      "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-25T10:49:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The CIA — Or Rather, Some Unidentified Person in the Lithuania — Warns of Russian Drone Attacks Against France, Spain or Italy",
+      "url": "https://www.nakedcapitalism.com/2026/09/false-flag-alert-cia-warns-of-russian-drone-attacks-against-france-spain-or-italy.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-25T10:45:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Poland Says Russia May be Behind 'Arson' of Starlink Base Station That Impacted Ukrainian Military Internet",
+      "url": "https://www.breitbart.com/europe/2026/09/25/poland-says-russia-may-be-behind-arson-of-starlink-base-station/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-09-25T10:33:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Deadly New Strikes In Russia's War On Ukraine As Spillover Concerns Mount",
+      "url": "https://www.rferl.org/a/ukraie-russia-attacks-civilians-killed-drone-threats/33864157.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-09-25T10:19:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelenskyy says Trump made 'final decision' to give Ukraine Patriot licence",
+      "url": "https://www.channelnewsasia.com/world/zelenskyy-says-trump-made-final-decision-give-ukraine-patriot-licence-6410706",
+      "source": "CNA",
+      "publishedAt": "2026-09-25T10:09:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: Netanyahu Brags About His Crimes at the UN, Iran Threatens Regional Airports, Yemen Hits Saudis Hard",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-netanyahu-un-iran-threatens-regional-airports-yemen-hits-saudis-hard.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-25T10:01:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Frontline NATO ally shares shocking take on Russian invasion threat",
+      "url": "https://www.foxnews.com/politics/frontline-nato-ally-shares-shocking-take-russian-invasion-threat",
+      "source": "Fox News",
+      "publishedAt": "2026-09-25T10:00:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Swooning Trump's acting like a lovesick schoolgirl",
+      "url": "https://www.rawstory.com/raw-investigates/trump-xi/",
+      "source": "Raw Story",
+      "publishedAt": "2026-09-25T10:00:06Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel Tangled In Spiderweb As Army Braces For West Bank Explosion – Iran War Blunts Expansion",
+      "url": "https://activistpost.com/israel-tangled-in-spiderweb-as-army-braces-for-west-bank-explosion-iran-war-blunts-expansion/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-09-25T10:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Moment Nato jets intercept Russian warplanes over Gulf of Finland amid growing fears Putin is plotting attack on Europe",
+      "url": "https://www.dailymail.com/news/article-16159795/Moment-Nato-jets-intercept-Russian-warplanes-Gulf-Finland-amid-growing-fears-Putin-plotting-attack-Europe.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-25T09:47:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Switzerland’s neutrality vote is asking the wrong question",
+      "url": "https://www.aljazeera.com/opinions/2026/9/25/switzerlands-neutrality-vote-is-asking-the-wrong-question",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-25T09:32:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iranian President Dismisses Rumors About Tehran's Plans to Produce Nuclear Bomb",
+      "url": "https://sputnikglobe.com/20260925/iranian-president-dismisses-rumors-about-tehrans-plans-to-produce-nuclear-bomb-1124787015.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-09-25T09:09:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia could attack a NATO country within months, Danish intelligence warns",
+      "url": "https://biztoc.com/x/51d6a1f772d82ee4",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-25T08:38:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia could attack a NATO country within months, Danish intelligence warns",
+      "url": "https://www.cnbc.com/2026/09/25/russia-ukraine-war-nato-denmark-putin.html",
+      "source": "CNBC",
+      "publishedAt": "2026-09-25T08:26:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "FULL TEXT: Netanyahu’s UN speech as delegates walk out",
+      "url": "https://punchng.com/full-text-netanyahus-speech-at-un-general-assembly/",
+      "source": "The Punch",
+      "publishedAt": "2026-09-25T08:23:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Allies back Saudis as Houthi attacks threaten key oil route",
+      "url": "https://www.yahoo.com/news/world/articles/allies-unite-behind-saudi-arabia-015411569.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-25T08:15:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea’s Irregular Warfare After Ukraine",
+      "url": "https://warontherocks.com/north-koreas-irregular-warfare-after-ukraine/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-09-25T07:30:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Allies unite behind Saudi Arabia as Houthis attacks rise",
+      "url": "https://www.rte.ie/news/2026/0925/1592911-saudi-arabia-houthis/",
+      "source": "RTE",
+      "publishedAt": "2026-09-25T07:24:21Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Rising Drone Threat: Why Our Critical Infrastructure Has Become Dangerously Exposed",
+      "url": "https://www.naturalnews.com/2026-09-25-rising-drone-threat-critical-infrastructure-in-danger.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-25T06:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -19,14 +163,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Iranian president blames US for Middle East conflict while denying nuclear ambitions, offers to dilute uranium",
-      "url": "https://www.foxnews.com/world/iranian-president-blames-us-middle-east-conflict-denying-nuclear-ambitions-offers-dilute-uranium",
-      "source": "Fox News",
-      "publishedAt": "2026-09-25T00:25:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Tucker Carlson Still Can't Believe What Trump Said About The Iran War",
       "url": "https://www.huffpost.com/entry/tucker-carlson-trump-iran-war_n_6ab59fc6e4b075a3d2851071",
       "source": "HuffPost",
@@ -35,148 +171,20 @@
       "_label": "N. Korea"
     },
     {
-      "title": "America’s Arsenal: While Supplies Last",
-      "url": "https://original.antiwar.com/nolan_denaro/2026/09/24/americas-arsenal-while-supplies-last/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-09-25T00:00:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump Should Stop Hosting Summits",
       "url": "https://www.theatlantic.com/ideas/2026/09/trump-xi-summit-china/688776/?utm_source=feed",
       "source": "The Atlantic",
       "publishedAt": "2026-09-24T22:50:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Netanyahu at U.N.: Iran’s ‘Murderous Regime Will Be Toppled,’ ‘We’re Going to Win’",
-      "url": "https://www.breitbart.com/politics/2026/09/24/netanyahu-at-u-n-irans-murderous-regime-will-be-toppled-were-going-to-win/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-09-24T22:21:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu Faces an UNGA Walkout (Again)",
-      "url": "http://foreignpolicy.com/2026/09/24/netanyahu-speech-unga-israel-walkout-mamdani/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-24T22:07:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Netanyahu brings ‘killer pager’ to UN (VIDEO)",
       "url": "https://www.rt.com/news/646217-netanyahu-un-assembly-hezbollah-pager/",
       "source": "RT",
       "publishedAt": "2026-09-24T21:55:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia preparing a limited strike on NATO to disrupt Ukraine support, intel report claims — and it could come soon",
-      "url": "https://nypost.com/2026/09/24/world-news/russia-preparing-a-limited-strike-on-nato-to-disrupt-ukraine-support-intel-report-claims/",
-      "source": "New York Post",
-      "publishedAt": "2026-09-24T21:45:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Netanyahu Uses UN Speech To Paint Israel As The Victim While Bragging Of Violence",
-      "url": "https://www.huffpost.com/entry/netanyhu-un-speech-israel_n_6ab57eb3e4b075a3d284e4a9",
-      "source": "HuffPost",
-      "publishedAt": "2026-09-24T21:45:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "NATO Boss Fawns Over Trump on Fox News: ‘He Was Completely Right!’",
-      "url": "https://www.mediaite.com/media/news/nato-boss-fawns-over-trump-on-fox-news-he-was-completely-right/",
-      "source": "Mediaite",
-      "publishedAt": "2026-09-24T21:26:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Not convinced we need more defence funding? Watch this alarming series: CHRISTOPHER STEVENS reviews Sky One's The Wargame",
-      "url": "https://www.dailymail.com/tvshowbiz/article-16158741/CHRISTOPHER-STEVENS-reviews-Sky-Ones-Wargame.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-24T21:16:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Netanyahu defends Israeli military actions in Middle East in UN speech",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo",
-      "source": "BBC News",
-      "publishedAt": "2026-09-24T21:09:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Poland Starlink fire labelled 'sabotage' as Denmark warns of Russian threat",
-      "url": "https://www.abc.net.au/news/2026-09-25/poland-starlink-station-sabotage-denmark-warning/107194146",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-24T19:46:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Actor Hannah Einbinder says attention should be on Gaza, not her arrest at Netanyahu protest",
-      "url": "https://www.cbc.ca/news/entertainment/benjamin-netanyahu-un-speech-celebrities-detained-9.7357238",
-      "source": "CBC News",
-      "publishedAt": "2026-09-24T19:45:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Prime Minister Netanyahu’s 2026 UN General Assembly Speech",
-      "url": "https://freerepublic.com/focus/f-news/4396765/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-09-24T19:36:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Foreign leader on Putin’s doorstep sounds alarm over Iran fueling Moscow’s war machine",
-      "url": "https://www.foxnews.com/world/foreign-leader-putins-doorstep-sounds-alarm-iran-fueling-moscows-war-machine",
-      "source": "Fox News",
-      "publishedAt": "2026-09-24T19:00:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US allies need to shoot down Russian aircraft testing NATO boundaries, Czech president warns",
-      "url": "https://www.foxnews.com/politics/us-allies-shoot-down-russian-aircraft-testing-nato-boundaries-czech-president-warns",
-      "source": "Fox News",
-      "publishedAt": "2026-09-24T16:31:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Poland Suspects Starlink Fire Was Russian Sabotage",
-      "url": "https://www.newser.com/story/396995/poland-suspects-starlink-fire-was-russian-sabotage.html",
-      "source": "Newser",
-      "publishedAt": "2026-09-24T16:30:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO chief calls for calm as intel agency warns Russia may ramp up hybrid attacks",
-      "url": "https://abcnews.com/International/wireStory/nato-chief-calls-calm-intel-agency-warns-russia-136722554",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-24T16:07:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia is unlikely to break through in Ukraine, but risks to NATO are rising, Western intel warns",
-      "url": "https://www.businessinsider.com/russia-unlikely-break-through-ukraine-rising-risks-to-nato-intelligence-2026-9#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-09-24T16:00:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Zelenskyy Says Ukraine Sent 2 North Korean Prisoners of War to South Korea",

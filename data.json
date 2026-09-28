@@ -1,94 +1,182 @@
 {
-  "updated": "2026-09-28T03:45:43Z",
-  "count": 19,
+  "updated": "2026-09-28T12:57:18Z",
+  "count": 25,
   "articles": [
     {
-      "title": "German, Russian foreign ministers hold rare talks amid rising tensions",
-      "url": "https://www.aljazeera.com/news/2026/9/27/german-russian-foreign-ministers-hold-rare-talks-amid-rising-tensions",
+      "title": "Swiss voters set to reject tighter neutrality rules in referendum",
+      "url": "https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum",
       "source": "Al Jazeera English",
-      "publishedAt": "2026-09-27T03:36:19Z",
+      "publishedAt": "2026-09-27T12:45:42Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Russia defies German calls to ease off its 'dangerous' escalation toward it",
-      "url": "https://www.business-standard.com/world-news/russia-defies-german-calls-to-ease-off-its-dangerous-escalation-toward-it-126092700067_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-09-27T02:38:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Poland eyes spending up to $4.4 billion on ‘Fort Trump’",
-      "url": "https://www.rt.com/news/646309-poland-spend-billions-fort-trump/",
+      "title": "Lavrov unimpressed by German FM’s last-minute UNGA overture (VIDEOS)",
+      "url": "https://www.rt.com/news/646315-lavrov-wadephul-nothing-new/",
       "source": "RT",
-      "publishedAt": "2026-09-27T00:02:30Z",
+      "publishedAt": "2026-09-27T12:44:34Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Russia’s Lavrov blasts US, Western allies as “warmongers’ in fiery UN tirade",
-      "url": "https://nypost.com/2026/09/26/us-news/russian-foreign-minister-sergei-lavrov-tears-into-us-at-united-nations/",
-      "source": "New York Post",
-      "publishedAt": "2026-09-26T20:06:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Full Extent: Inside Putin’s War with Former CIA Station Chief Ralph Goff",
-      "url": "https://dailyutahchronicle.com/2026/09/26/the-full-extent-inside-putins-war-with-former-cia-station-chief-ralph-goff/",
-      "source": "Dailyutahchronicle.com",
-      "publishedAt": "2026-09-26T19:28:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "16 dead over 24 hours as Ukraine, Russia trade strikes",
-      "url": "https://www.rte.ie/news/ukraine/2026/0926/1593076-ukraine-russia/",
-      "source": "RTE",
-      "publishedAt": "2026-09-26T19:12:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How Australia's defence force is turning AI into a 'silicon commander'",
-      "url": "https://www.abc.net.au/news/2026-09-27/defence-force-ai-transformation/107139794",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-26T19:09:38Z",
+      "title": "Iran Says It is Ready For War and Also Offers Diplomatic Option",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260927-sputnik01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-27T12:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "The Stage Is Set, The Fuse Is Lit, And 3 Global Conflicts Are On The Brink Of Detonation",
-      "url": "https://activistpost.com/the-stage-is-set-the-fuse-is-lit-and-3-global-conflicts-are-on-the-brink-of-detonation/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-09-26T19:06:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "title": "Israel continues to bomb southern Lebanon despite framework deal",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260927-presstv03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-27T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
-      "title": "Ukrainian agency uses Russian tax documents to allege Limerick alumina used in cruise missiles",
-      "url": "https://www.thejournal.ie/aughinish-alumina-economic-security-council-of-ukraine-aluminium-ukraine-war-7164220-Sep2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-09-26T19:00:42Z",
+      "title": "A NATO defense minister warns that the alliance needs to learn how to disperse weapons production before it's at war",
+      "url": "https://www.businessinsider.com/nato-must-learn-disperse-weapons-making-before-war-minister-ukraine-2026-9#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-09-27T11:57:01Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Russia accuses Europe of seeking to thwart Ukraine talks",
-      "url": "https://economictimes.indiatimes.com/news/defence/russia-accuses-europe-of-seeking-to-thwart-ukraine-talks/articleshow/134508221.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-26T17:22:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "German, Russian foreign ministers have rare meeting at UN",
-      "url": "https://abcnews.com/US/wireStory/german-russian-foreign-ministers-rare-meeting-136785326",
+      "title": "Russian strikes kill 2 in Ukraine after Moscow rejects German calls to de-escalate",
+      "url": "https://abcnews.com/International/wireStory/russian-strikes-kill-2-ukraine-after-moscow-rejects-136794206",
       "source": "Abcnews.com",
-      "publishedAt": "2026-09-26T17:17:06Z",
+      "publishedAt": "2026-09-27T11:27:29Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "Russian Strikes Kill Two in Ukraine as Moscow Rejects German Calls to De-Escalate",
+      "url": "https://www.breitbart.com/europe/2026/09/27/russian-strikes-kill-two-in-ukraine-as-moscow-rejects-german-calls-to-de-escalate/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-09-27T11:12:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 9/27/2026",
+      "url": "https://www.nakedcapitalism.com/2026/09/links-9-27-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-27T10:55:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: Iran Opens Fire in the Strait, World Braces for US Response or Another TACO",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-iran-opens-fire-in-the-strait-world-braces-for-us-response.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-27T10:05:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lavrov slams Germany despite meeting counterpart",
+      "url": "https://www.hurriyetdailynews.com/lavrov-slams-germany-despite-meeting-counterpart-227412",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-09-27T10:05:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia Could Make An Energy Truce Conditional On Resuming Pipeline Exports To Europe",
+      "url": "https://www.nakedcapitalism.com/2026/09/russia-could-make-an-energy-truce-conditional-on-resuming-pipeline-exports-to-europe.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-27T10:00:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Finland's Stubb credits Trump for pushing Ukraine peace talks while dismissing Russian invasion fears",
+      "url": "https://www.foxnews.com/world/finlands-stubb-credits-trump-pushing-ukraine-peace-talks-while-dismissing-russian-invasion-fears",
+      "source": "Fox News",
+      "publishedAt": "2026-09-27T10:00:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Yemen government forces widen attacks against Houthis: What we know",
+      "url": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-27T09:59:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UK police evacuate homes near airbase used by US",
+      "url": "https://www.aljazeera.com/news/2026/9/27/uk-police-evacuate-homes-near-air-base-used-by-us",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-27T08:59:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Can Iran shift trade north to Caspian Sea as war impairs Strait of Hormuz?",
+      "url": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-27T08:49:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Australia could run its electricity grid without fossil gas at similar cost; researchers say models underestimate long-duration storage",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/australia-could-run-its-electricity-grid-without-fossil-gas-at-similar-cost-researchers-say-models-underestimate-long-duration-storage/articleshow/134517088.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-27T08:28:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia stokes fears of World War Three warning Putin can destroy Europe in 'short nuclear war' as Kremlin raises spectre of 'Fourth Reich'",
+      "url": "https://www.dailymail.com/news/article-16163907/Russia-stokes-fears-World-War-Three-warning-Putin-destroy-Europe-short-nuclear-war-Kremlin-raises-spectre-Fourth-Reich.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-27T08:01:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin appears to be eyeing NATO. The question is, will he actually attack?",
+      "url": "https://www.cbc.ca/news/world/putin-nato-europe-escalation-9.7358582",
+      "source": "CBC News",
+      "publishedAt": "2026-09-27T08:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.K. police arrest 5 men near U.S.-operated air base in terrorism probe",
+      "url": "https://www.yahoo.com/news/world/articles/police-evacuate-homes-near-us-075249083.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-27T07:52:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF strikes Hezbollah after explosive drone attack on troops",
+      "url": "https://www.israelnationalnews.com/news/433689",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-27T06:44:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Pezeshkian: Iran’s New Supreme Leader Mojtaba Khamenei is Healthy and Able to Govern",
+      "url": "https://www.naturalnews.com/2026-09-27-iran-president-mojtaba-khamenei-healthy-able-govern.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-27T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "An empire stretched thin: The Middle East’s oil arteries are slowly being lost to America’s enemies",
+      "url": "https://www.naturalnews.com/2026-09-27-middle-easts-oil-arteries-lost-to-americas-enemies.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-27T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "IDF strikes Hezbollah weapons depot threatening troops in Lebanon",
@@ -97,30 +185,6 @@
       "publishedAt": "2026-09-26T16:20:24Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "The intelligence war is turning against the Houthis",
-      "url": "https://www.aljazeera.com/opinions/2026/9/26/the-intelligence-war-is-turning-against-the-houthis",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-26T13:29:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why has the Yemen government called for a general mobilisation?",
-      "url": "https://www.aljazeera.com/news/2026/9/26/why-has-the-yemen-government-called-for-a-general-mobilisation",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-26T12:46:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pezeshkian: Iran 'no longer' trusts US after being attacked twice during talks",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260926-presstv06.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-26T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Eliminating Nuclear Weapons: an Urgent Existential Threat",
@@ -135,24 +199,8 @@
       "url": "https://www.nakedcapitalism.com/2026/09/iran-war-trump-rejects-iranian-offer-saudi-yemeni-war.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-09-26T10:15:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran awaits US reply to seven-day Hormuz plan",
-      "url": "https://www.hurriyetdailynews.com/iran-awaits-us-reply-to-seven-day-hormuz-plan-227377",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-09-26T06:55:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Transcript: Iranian President Masoud Pezeshkian on \"Face the Nation with Margaret Brennan\"",
-      "url": "https://www.cbsnews.com/news/transcript-iranian-president-masoud-pezeshkian-face-the-nation-transcript-09-27-2026/",
-      "source": "CBS News",
-      "publishedAt": "2026-09-26T01:10:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     }
   ]
 }

@@ -1,7 +1,143 @@
 {
-  "updated": "2026-09-29T12:09:37Z",
-  "count": 27,
+  "updated": "2026-09-29T21:53:12Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "Trump on Iran: I stopped them from having a nuclear weapon",
+      "url": "https://www.israelnationalnews.com/news/433798",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-09-28T21:22:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "In a relatively mild speech, North Korea uses UN platform to lament 'mutual distrust' and tension",
+      "url": "https://abcnews.com/US/wireStory/mild-speech-north-korea-platform-lament-mutual-distrust-136831545",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-28T20:01:53Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Can we predict genocide by listening to what leaders say? Research finds common threads",
+      "url": "https://theconversation.com/can-we-predict-genocide-by-listening-to-what-leaders-say-research-finds-common-threads-289042",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-09-28T19:42:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran under scrutiny after plot foiled near UK base used by US military",
+      "url": "https://www.foxnews.com/world/iran-under-scrutiny-after-plot-foiled-near-uk-base-used-us-military",
+      "source": "Fox News",
+      "publishedAt": "2026-09-28T18:24:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian strikes kill five and target Kyiv science academy",
+      "url": "https://www.rte.ie/news/2026/0928/1593267-deadly-russian-strikes-kill-five-and-target-kyiv-academy/",
+      "source": "RTE",
+      "publishedAt": "2026-09-28T17:56:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Bulgaria is walking a tightrope between NATO and Moscow",
+      "url": "https://voxeurop.eu/en/bulgaria-nato-russia/",
+      "source": "Voxeurop.eu",
+      "publishedAt": "2026-09-28T16:50:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian drone hits Kyiv scientific centre near embassies",
+      "url": "https://www.abc.net.au/news/2026-09-29/ukraine-russia-poland-strikes-scientific-centre/107205900",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-09-28T16:40:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Sleeper cells and lone wolves. The West could be Iran’s next front",
+      "url": "https://economictimes.indiatimes.com/news/defence/rafs-fairford-airbase-sleeper-cells-and-lone-wolves-the-west-could-be-irans-next-front/articleshow/134546903.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-28T16:16:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What’s Putin’s Secret Post-Election Strategy To Test NATO?",
+      "url": "https://oilprice.com/Energy/Energy-General/Whats-Putins-Secret-Post-Election-Strategy-To-Test-NATO.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-09-28T16:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Escalation watch: West ramping up war rhetoric, ‘terror plotters’ given bail in UK",
+      "url": "https://www.rt.com/news/646370-uk-fairford-escalation-rhetoric-russia/",
+      "source": "RT",
+      "publishedAt": "2026-09-28T15:39:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian drones hit science academy in the historic heart of Kyiv",
+      "url": "https://www.yahoo.com/news/world/articles/russia-pummels-kyiv-latest-deadly-133512181.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-28T15:18:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Michael Hudson: A Clean Slate – How the Oil War’s Aftermath Will Transform the World Economic Order",
+      "url": "https://www.nakedcapitalism.com/2026/09/michael-hudson-a-clean-slate-how-the-oil-wars-aftermath-will-transform-the-world-economic-order.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-28T14:33:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "South Korea fumes at Ukraine after Zelensky dishes on transfer of captured North Korean soldiers",
+      "url": "https://nypost.com/2026/09/28/world-news/south-korea-fumes-at-ukraine-after-zelensky-dishes-on-transfer-of-captured-north-korean-soldiers/",
+      "source": "New York Post",
+      "publishedAt": "2026-09-28T13:43:38Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Lee Asks Trump to Help Revive North Korea Talks During New York Trip",
+      "url": "https://thediplomat.com/2026/09/lee-asks-trump-to-help-revive-north-korea-talks-during-new-york-trip/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-09-28T13:36:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Poland’s Perennial Leadership Problem Surfaces Again",
+      "url": "https://www.globalresearch.ca/poland-perennial-leadership-problem-surfaces-again/5941998",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-28T13:32:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia hammers Ukraine's capital with major daytime drone strike",
+      "url": "https://www.cbsnews.com/news/russia-ukraine-war-kyiv-strikes-national-academy-sciences/",
+      "source": "CBS News",
+      "publishedAt": "2026-09-28T13:26:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "S. Korea says border blasts injured 3 officers was likely caused by N. Korean mines",
+      "url": "https://abcnews.com/International/wireStory/south-korea-border-blasts-injured-3-officers-caused-136818573",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-28T12:47:32Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "How Biden Averted a War With Iran",
       "url": "https://www.theatlantic.com/ideas/2026/09/israel-biden-gaza-hamas-netanyahu/688750/?utm_source=feed",
@@ -17,14 +153,6 @@
       "publishedAt": "2026-09-28T12:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Strengthening Partnerships and Advancing the Future Force of Ukraine",
-      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260928-nato-nsatu01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea issue dwarfed by more pressing concerns during Trump-Xi summit",
@@ -51,22 +179,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Links 9/28/2026",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-28-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-28T10:55:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Amid EU War Hysteria, Bloc Rearmament Remains a Joke",
-      "url": "https://www.nakedcapitalism.com/2026/09/amid-eu-war-hysteria-bloc-rearmament-remains-a-joke.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-28T10:00:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "‘Terror’ incident near RAF base used for Iran war: What we know",
       "url": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know",
       "source": "Al Jazeera English",
@@ -75,44 +187,20 @@
       "_label": "Iran War"
     },
     {
-      "title": "'Thrown under the bus': Former defence chief's memoir lays bare his battles with the Trudeau government",
-      "url": "https://www.cbc.ca/news/politics/military-canada-trudeau-defence-eyre-9.7358924",
-      "source": "CBC News",
-      "publishedAt": "2026-09-28T08:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Swiss reject 'pro-Russian' bid to toughen country's neutrality in referendum",
-      "url": "https://www.dailymail.com/news/article-16165763/Switzerland-Russia-neutrality-referendum.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-28T07:29:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Nato states prepare evacuation plan for Russian attack amid mounting fears of incursion into alliance's 'Achilles heel'",
-      "url": "https://www.dailymail.com/news/article-16165721/Nato-states-prepare-evacuation-plan-Russian-attack-amid-mounting-fears-incursion-alliances-Achilles-heel.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-28T07:21:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Seoul demands apology after Zelenskyy reveals North Korean prisoners of war transfer",
       "url": "https://abcnews.com/International/wireStory/seoul-demands-apology-after-zelenskyy-unilaterally-reveals-north-136814400",
       "source": "Abcnews.com",
       "publishedAt": "2026-09-28T06:41:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Seoul demands apology after Zelensky reveals secret North Korean prisoner transfer",
       "url": "https://www.yahoo.com/news/world/articles/seoul-demands-apology-zelenskyy-unilaterally-062918978.html",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-09-28T06:29:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Tucker Carlson Urges 25th Amendment Against Trump Over Iran War, Axios Reports",
@@ -123,42 +211,10 @@
       "_label": "Iran War"
     },
     {
-      "title": "Refrigeration Failures at Military Commissaries Draw Scrutiny Over Infrastructure Security",
-      "url": "https://www.naturalnews.com/2026-09-28-refrigeration-failures-at-military-commissaries-draw-scrutiny.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-28T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "LPU protest chaos: 5 videos capture highway blockade, police lathicharge, vehicles set on fire",
       "url": "https://timesofindia.indiatimes.com/city/chandigarh/lpu-protest-chaos-5-videos-capture-highway-blockade-police-lathicharge-vehicles-set-on-fire/articleshow/134531321.cms",
       "source": "The Times of India",
       "publishedAt": "2026-09-28T04:19:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'Unacceptable cynical attempt': Why US rejected Iran's ceasefire proposal",
-      "url": "https://timesofindia.indiatimes.com/world/us/unacceptable-cynical-attempt-why-us-rejected-irans-ceasefire-proposal/articleshow/134531526.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-28T04:15:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Over 30 killed in 3 separate attacks overnight in South Africa shootings; manhunt launched",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/over-30-killed-in-3-separate-attacks-overnight-in-south-africa-shootings-manhunt-launched/articleshow/134530741.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-28T04:12:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Parked BMW on highway catches fire; consumer court orders insurer to pay Rs 70 lakh",
-      "url": "https://timesofindia.indiatimes.com/legal/news/parked-bmw-on-highway-catches-fire-consumer-court-orders-insurer-to-pay-rs-70-lakh/articleshow/134531316.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-28T04:10:52Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -169,14 +225,6 @@
       "publishedAt": "2026-09-27T23:00:33Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Supersonic Russian jets trigger joint scramble by NATO allies amid Putin 'clowns' jab",
-      "url": "https://www.foxnews.com/world/supersonic-russian-jets-trigger-joint-scramble-nato-allies-putin-clowns-jab",
-      "source": "Fox News",
-      "publishedAt": "2026-09-27T20:47:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",

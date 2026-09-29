@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-28T22:56:42Z",
-  "count": 26,
+  "updated": "2026-09-29T04:20:20Z",
+  "count": 24,
   "articles": [
+    {
+      "title": "LPU protest chaos: 5 videos capture highway blockade, police lathicharge, vehicles set on fire",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/lpu-protest-chaos-5-videos-capture-highway-blockade-police-lathicharge-vehicles-set-on-fire/articleshow/134531321.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-28T04:19:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Unacceptable cynical attempt': Why US rejected Iran's ceasefire proposal",
+      "url": "https://timesofindia.indiatimes.com/world/us/unacceptable-cynical-attempt-why-us-rejected-irans-ceasefire-proposal/articleshow/134531526.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-28T04:15:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Over 30 killed in 3 separate attacks overnight in South Africa shootings; manhunt launched",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/over-30-killed-in-3-separate-attacks-overnight-in-south-africa-shootings-manhunt-launched/articleshow/134530741.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-28T04:12:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Parked BMW on highway catches fire; consumer court orders insurer to pay Rs 70 lakh",
+      "url": "https://timesofindia.indiatimes.com/legal/news/parked-bmw-on-highway-catches-fire-consumer-court-orders-insurer-to-pay-rs-70-lakh/articleshow/134531316.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-28T04:10:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "70% Swiss say no: Switzerland rejects push for tighter neutrality amid Russia tensions",
+      "url": "https://timesofindia.indiatimes.com/world/europe/70-swiss-say-no-switzerland-rejects-push-for-tighter-neutrality-amid-russia-tensions/articleshow/134530906.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-28T04:07:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Marking Two Years Since Israel Eliminated Hezbollah Terror Chief Hassan Nasrallah",
+      "url": "https://legalinsurrection.com/2026/09/marking-two-years-since-israel-eliminated-hezbollah-terror-chief-hassan-nasrallah/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-09-27T23:00:33Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Men accused of planning terrorist attack near RAF base used to strike Iran",
       "url": "https://www.abc.net.au/news/2026-09-28/uk-counterterror-investigation-after-men-arrested-near-airbase/107202334",
@@ -91,44 +139,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
-      "url": "https://www.yahoo.com/news/articles/iran-insists-diplomatic-solution-trump-223552721.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-27T15:45:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Says It is Ready For War and Also Offers Diplomatic Option",
-      "url": "https://sputnikglobe.com/20260927/iran-says-it-is-ready-for-war-and-also-offers-diplomatic-option-1124802055.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-09-27T15:35:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says RAF Fairford terror suspects were 'looking to do big damage' to US forces and says they were being 'watched' for a long time",
-      "url": "https://www.dailymail.com/news/article-16164417/Trump-says-RAF-Fairford-terror-suspects-looking-big-damage-US-forces-says-watched-long-time.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-27T15:08:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Russia builds doomsday nuclear bunker in remote mountain to launch strikes against West",
       "url": "https://www.dailymail.com/news/article-16163981/Russia-doomsday-nuclear-bunker-strikes-West.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-09-27T14:47:01Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
-      "url": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-27T14:36:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Swiss voters set to reject tighter neutrality rules that would curb NATO co-operation",
@@ -155,14 +171,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran Says It is Ready For War and Also Offers Diplomatic Option",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260927-sputnik01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-27T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel continues to bomb southern Lebanon despite framework deal",
       "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260927-presstv03.htm",
       "source": "Globalsecurity.org",
@@ -183,30 +191,6 @@
       "url": "https://www.israelnationalnews.com/news/433689",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-09-27T06:44:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF strikes Hezbollah weapons depot threatening troops in Lebanon",
-      "url": "https://www.israelnationalnews.com/news/433669",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-26T16:20:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Eliminating Nuclear Weapons: an Urgent Existential Threat",
-      "url": "https://www.commondreams.org/opinion/eliminating-nuclear-weapons",
-      "source": "Common Dreams",
-      "publishedAt": "2026-09-26T11:42:03Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Iran War: Trump Rejects Iranian Offer, Saudi-Yemeni War On the Boil",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-trump-rejects-iranian-offer-saudi-yemeni-war.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-26T10:15:41Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

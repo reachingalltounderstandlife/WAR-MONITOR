@@ -1,7 +1,135 @@
 {
-  "updated": "2026-09-29T04:20:20Z",
-  "count": 24,
+  "updated": "2026-09-29T12:09:37Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "How Biden Averted a War With Iran",
+      "url": "https://www.theatlantic.com/ideas/2026/09/israel-biden-gaza-hamas-netanyahu/688750/?utm_source=feed",
+      "source": "The Atlantic",
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "New front will open if Iran is attacked again, Leader's advisor warns",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260928-presstv03.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Strengthening Partnerships and Advancing the Future Force of Ukraine",
+      "url": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/09/ukraine-260928-nato-nsatu01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea issue dwarfed by more pressing concerns during Trump-Xi summit",
+      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260928-rfa01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-28T12:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran, US send mixed signals over talks to end war",
+      "url": "https://www.hurriyetdailynews.com/iran-us-send-mixed-signals-over-talks-to-end-war-227469",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-09-28T11:35:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Here We Remain: A World That Abides Slaughter",
+      "url": "https://www.commondreams.org/further/here-we-remain-a-world-that-abides-slaughter",
+      "source": "Common Dreams",
+      "publishedAt": "2026-09-28T11:14:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 9/28/2026",
+      "url": "https://www.nakedcapitalism.com/2026/09/links-9-28-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-28T10:55:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Amid EU War Hysteria, Bloc Rearmament Remains a Joke",
+      "url": "https://www.nakedcapitalism.com/2026/09/amid-eu-war-hysteria-bloc-rearmament-remains-a-joke.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-28T10:00:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘Terror’ incident near RAF base used for Iran war: What we know",
+      "url": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-28T08:44:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Thrown under the bus': Former defence chief's memoir lays bare his battles with the Trudeau government",
+      "url": "https://www.cbc.ca/news/politics/military-canada-trudeau-defence-eyre-9.7358924",
+      "source": "CBC News",
+      "publishedAt": "2026-09-28T08:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Swiss reject 'pro-Russian' bid to toughen country's neutrality in referendum",
+      "url": "https://www.dailymail.com/news/article-16165763/Switzerland-Russia-neutrality-referendum.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-28T07:29:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Nato states prepare evacuation plan for Russian attack amid mounting fears of incursion into alliance's 'Achilles heel'",
+      "url": "https://www.dailymail.com/news/article-16165721/Nato-states-prepare-evacuation-plan-Russian-attack-amid-mounting-fears-incursion-alliances-Achilles-heel.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-28T07:21:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Seoul demands apology after Zelenskyy reveals North Korean prisoners of war transfer",
+      "url": "https://abcnews.com/International/wireStory/seoul-demands-apology-after-zelenskyy-unilaterally-reveals-north-136814400",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-28T06:41:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Seoul demands apology after Zelensky reveals secret North Korean prisoner transfer",
+      "url": "https://www.yahoo.com/news/world/articles/seoul-demands-apology-zelenskyy-unilaterally-062918978.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-28T06:29:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Tucker Carlson Urges 25th Amendment Against Trump Over Iran War, Axios Reports",
+      "url": "https://www.naturalnews.com/2026-09-28-carlson-urges-25th-amendment-trump-iran-war.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-28T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Refrigeration Failures at Military Commissaries Draw Scrutiny Over Infrastructure Security",
+      "url": "https://www.naturalnews.com/2026-09-28-refrigeration-failures-at-military-commissaries-draw-scrutiny.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-28T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "LPU protest chaos: 5 videos capture highway blockade, police lathicharge, vehicles set on fire",
       "url": "https://timesofindia.indiatimes.com/city/chandigarh/lpu-protest-chaos-5-videos-capture-highway-blockade-police-lathicharge-vehicles-set-on-fire/articleshow/134531321.cms",
@@ -35,28 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "70% Swiss say no: Switzerland rejects push for tighter neutrality amid Russia tensions",
-      "url": "https://timesofindia.indiatimes.com/world/europe/70-swiss-say-no-switzerland-rejects-push-for-tighter-neutrality-amid-russia-tensions/articleshow/134530906.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-28T04:07:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Marking Two Years Since Israel Eliminated Hezbollah Terror Chief Hassan Nasrallah",
       "url": "https://legalinsurrection.com/2026/09/marking-two-years-since-israel-eliminated-hezbollah-terror-chief-hassan-nasrallah/",
       "source": "Legalinsurrection.com",
       "publishedAt": "2026-09-27T23:00:33Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Men accused of planning terrorist attack near RAF base used to strike Iran",
-      "url": "https://www.abc.net.au/news/2026-09-28/uk-counterterror-investigation-after-men-arrested-near-airbase/107202334",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-27T21:36:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Supersonic Russian jets trigger joint scramble by NATO allies amid Putin 'clowns' jab",
@@ -67,92 +179,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Urgent warning issued for Americans in the UK after attempted 'terrorist attack' as citizens are told to 'exercise caution'",
-      "url": "https://www.dailymail.com/news/article-16164803/warning-americans-UK-terrorist-attack-caution.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-27T19:54:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "More questions than answers after major incident near RAF Fairford",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gd1r8dk1ko",
-      "source": "BBC News",
-      "publishedAt": "2026-09-27T19:32:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO article 5 is not what you think it is",
-      "url": "https://www.rt.com/news/646324-nato-article-5-myths/",
-      "source": "RT",
-      "publishedAt": "2026-09-27T19:24:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia's hybrid attacks have Germans rethinking Nazi-era protections",
-      "url": "https://www.abc.net.au/news/2026-09-28/russian-attacks-could-force-germany-to-rethink-wwii-safeguards/107188800",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-27T18:46:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
       "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-27-2026/",
       "source": "CBS News",
       "publishedAt": "2026-09-27T18:06:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Has prelude to World War III arrived? ‘Key players greatly underestimate the potential for disaster’",
-      "url": "https://www.wnd.com/2026/09/has-prelude-world-war-iii-arrived-key-players/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-09-27T17:12:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Swiss voters reject plan to toughen neutrality",
-      "url": "https://www.thejournal.ie/swiss-neutrality-referendum-results-7175091-Sep2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-09-27T16:30:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Switzerland rejects stricter interpretation of its neutrality",
-      "url": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo",
-      "source": "BBC News",
-      "publishedAt": "2026-09-27T16:02:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Five arrested in suspected Iranian attempt to attack USAF base",
-      "url": "https://www.israelnationalnews.com/news/433722",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-27T15:57:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia builds doomsday nuclear bunker in remote mountain to launch strikes against West",
-      "url": "https://www.dailymail.com/news/article-16163981/Russia-doomsday-nuclear-bunker-strikes-West.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-27T14:47:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Swiss voters set to reject tighter neutrality rules that would curb NATO co-operation",
-      "url": "https://www.cbc.ca/news/world/swiss-voters-reject-tighter-neutrality-9.7360123",
-      "source": "CBC News",
-      "publishedAt": "2026-09-27T13:04:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "China Leads Robot Arms Race, US Attacks Larak Island, Trump Falsely Claims Venezuelan Oil Can Refill the SPR",
@@ -161,14 +193,6 @@
       "publishedAt": "2026-09-27T13:00:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Swiss voters set to reject tighter neutrality rules in referendum",
-      "url": "https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-27T12:45:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Israel continues to bomb southern Lebanon despite framework deal",

@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-29T21:53:12Z",
-  "count": 33,
+  "updated": "2026-09-30T04:04:43Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "'I offered nothing': Trump rejects report of Iran sanctions relief, frozen funds offer",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-denies-sanctions-relief-offer-to-iran-amid-ongoing-nuclear-talks/articleshow/134555038.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-29T03:22:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Five Trends Driving Change In Europe",
+      "url": "https://www.thefreedomfrequency.org/p/five-trends-driving-change-in-europe",
+      "source": "Thefreedomfrequency.org",
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin’s Next Target May Be NATO Itself",
+      "url": "https://www.19fortyfive.com/2026/09/putins-next-target-may-be-nato-itself/",
+      "source": "19fortyfive.com",
+      "publishedAt": "2026-09-29T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "INTERNET APOCALYPSE: Providers Collapsing, SURRENDER LEAFLETS: Russia Closes the Ring.",
+      "url": "https://freerepublic.com/focus/f-bloggers/4397220/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-09-28T23:38:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Trump on Iran: I stopped them from having a nuclear weapon",
       "url": "https://www.israelnationalnews.com/news/433798",
@@ -25,6 +57,14 @@
       "publishedAt": "2026-09-28T19:42:10Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea Celebrates Its Nukes at U.N. General Assembly",
+      "url": "https://www.breitbart.com/asia/2026/09/28/north-korea-celebrates-its-nukes-u-n-general-assembly/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-09-28T19:10:02Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Iran under scrutiny after plot foiled near UK base used by US military",
@@ -91,14 +131,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Michael Hudson: A Clean Slate – How the Oil War’s Aftermath Will Transform the World Economic Order",
-      "url": "https://www.nakedcapitalism.com/2026/09/michael-hudson-a-clean-slate-how-the-oil-wars-aftermath-will-transform-the-world-economic-order.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-28T14:33:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "South Korea fumes at Ukraine after Zelensky dishes on transfer of captured North Korean soldiers",
       "url": "https://nypost.com/2026/09/28/world-news/south-korea-fumes-at-ukraine-after-zelensky-dishes-on-transfer-of-captured-north-korean-soldiers/",
       "source": "New York Post",
@@ -113,22 +145,6 @@
       "publishedAt": "2026-09-28T13:36:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Poland’s Perennial Leadership Problem Surfaces Again",
-      "url": "https://www.globalresearch.ca/poland-perennial-leadership-problem-surfaces-again/5941998",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-09-28T13:32:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia hammers Ukraine's capital with major daytime drone strike",
-      "url": "https://www.cbsnews.com/news/russia-ukraine-war-kyiv-strikes-national-academy-sciences/",
-      "source": "CBS News",
-      "publishedAt": "2026-09-28T13:26:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "S. Korea says border blasts injured 3 officers was likely caused by N. Korean mines",
@@ -209,62 +225,6 @@
       "publishedAt": "2026-09-28T06:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "LPU protest chaos: 5 videos capture highway blockade, police lathicharge, vehicles set on fire",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/lpu-protest-chaos-5-videos-capture-highway-blockade-police-lathicharge-vehicles-set-on-fire/articleshow/134531321.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-28T04:19:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Marking Two Years Since Israel Eliminated Hezbollah Terror Chief Hassan Nasrallah",
-      "url": "https://legalinsurrection.com/2026/09/marking-two-years-since-israel-eliminated-hezbollah-terror-chief-hassan-nasrallah/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-09-27T23:00:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Full transcript of \"Face the Nation with Margaret Brennan,\" Sept. 27, 2026",
-      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-09-27-2026/",
-      "source": "CBS News",
-      "publishedAt": "2026-09-27T18:06:57Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "China Leads Robot Arms Race, US Attacks Larak Island, Trump Falsely Claims Venezuelan Oil Can Refill the SPR",
-      "url": "https://activistpost.com/china-leads-robot-arms-race-us-attacks-larak-island-trump-falsely-claims-venezuelan-oil-can-refill-the-spr/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-09-27T13:00:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Israel continues to bomb southern Lebanon despite framework deal",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260927-presstv03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-27T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Finland's Stubb credits Trump for pushing Ukraine peace talks while dismissing Russian invasion fears",
-      "url": "https://www.foxnews.com/world/finlands-stubb-credits-trump-pushing-ukraine-peace-talks-while-dismissing-russian-invasion-fears",
-      "source": "Fox News",
-      "publishedAt": "2026-09-27T10:00:14Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "IDF strikes Hezbollah after explosive drone attack on troops",
-      "url": "https://www.israelnationalnews.com/news/433689",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-27T06:44:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

@@ -1,7 +1,103 @@
 {
-  "updated": "2026-09-30T11:56:45Z",
-  "count": 32,
+  "updated": "2026-09-30T17:46:28Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "Militarizing the Final Frontier — How Space Became the New Battleground",
+      "url": "https://www.fairobserver.com/interview/militarizing-the-final-frontier-how-space-became-the-new-battleground/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-09-29T17:30:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "More NATO countries are buying a US-made interceptor that has downed thousands of Russian drones in Ukraine",
+      "url": "https://www.businessinsider.com/more-nato-countries-want-us-made-interceptor-proven-ukraine-2026-9#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-09-29T16:27:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon’s Environmental Defenders Say Israel Is Deliberately Targeting Them",
+      "url": "https://truthout.org/articles/lebanons-environmental-defenders-say-israel-is-deliberately-targeting-them/",
+      "source": "Truthout",
+      "publishedAt": "2026-09-29T16:23:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "“War is Coming, War is Coming”, “Prepare Your Kids to Defend Europe”",
+      "url": "https://www.globalresearch.ca/war-coming-defeat-swiss-neutrality-initiative/5942182",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-29T15:58:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "When War Crimes Become Normal: The Price of Impunity",
+      "url": "https://www.commondreams.org/opinion/no-more-impunity-for-war-crimes",
+      "source": "Common Dreams",
+      "publishedAt": "2026-09-29T15:20:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-Iran talks in New York: What’s the latest?",
+      "url": "https://www.aljazeera.com/news/2026/9/29/us-iran-talks-in-new-york-whats-the-latest",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-29T15:09:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ozempic in Iran",
+      "url": "https://www.lrb.co.uk/blog/2026/september/ozempic-in-iran",
+      "source": "London Review of Books",
+      "publishedAt": "2026-09-29T15:02:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why has Putin added 15,000 new soldiers to Russia’s army?",
+      "url": "https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-29T14:46:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Is Europe About to Fabricate an Event to Have a Pretext for a Hot War With Russia?",
+      "url": "https://www.globalresearch.ca/europe-fabricate-event-pretext-hot-war-russia/5942156",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-29T14:11:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lithuania and Other NATO Members Plotting Blockade of Kaliningrad",
+      "url": "https://www.globalresearch.ca/lithuania-nato-members-plotting-blockade-kaliningrad/5942120",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-09-29T14:05:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Are Houthis using new modified cruise missiles in Yemen’s war?",
+      "url": "https://www.aljazeera.com/features/2026/9/29/are-houthis-using-new-modified-cruise-missiles-in-yemens-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-29T13:22:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Norway authorises defence exports to Moldova",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260929-govno01.htm",
+      "source": "Globalsecurity.org",
+      "publishedAt": "2026-09-29T12:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Estonia blames Russia for arson at defence factory that produces vehicles Ukraine has used",
       "url": "https://www.cbc.ca/news/world/estonia-russia-allegation-9.7362016",
@@ -43,30 +139,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Wider Europe Briefing: Will The EU Soon Lift Potash Sanctions On Belarus?",
-      "url": "https://www.rferl.org/a/wider-europe-briefing-will-the-eu-soon-lift-potash-sanctions-on-belarus/33866407.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-09-29T10:05:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why Nobody Can End the War in Ukraine",
-      "url": "http://foreignpolicy.com/2026/09/29/why-nobody-can-end-the-war-in-ukraine/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-29T07:35:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why Nobody Can End the War in Ukraine",
-      "url": "http://foreignpolicy.com/2026/09/29/ukraine-war-russia-putin-trump-zelensky-stalemate-united-states-negotiations/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-29T07:35:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump denies offering Iran sanctions relief as indirect talks continue",
       "url": "https://www.yahoo.com/news/politics/articles/iran-says-trump-choose-between-092115082.html",
       "source": "Yahoo Entertainment",
@@ -89,14 +161,6 @@
       "publishedAt": "2026-09-29T06:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "White House Rushes To Unload $400M in Ukraine Aid Before Congress Can Take It Back",
-      "url": "https://www.naturalnews.com/2026-09-29-white-house-rushes-unload-funds-ukraine-aid.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-29T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Russia is not isolated: North Korea troops are widening Putin’s war in Ukraine",
@@ -127,32 +191,8 @@
       "url": "https://www.thefreedomfrequency.org/p/five-trends-driving-change-in-europe",
       "source": "Thefreedomfrequency.org",
       "publishedAt": "2026-09-29T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin’s Next Target May Be NATO Itself",
-      "url": "https://www.19fortyfive.com/2026/09/putins-next-target-may-be-nato-itself/",
-      "source": "19fortyfive.com",
-      "publishedAt": "2026-09-29T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "INTERNET APOCALYPSE: Providers Collapsing, SURRENDER LEAFLETS: Russia Closes the Ring.",
-      "url": "https://freerepublic.com/focus/f-bloggers/4397220/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-09-28T23:38:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump on Iran: I stopped them from having a nuclear weapon",
-      "url": "https://www.israelnationalnews.com/news/433798",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-09-28T21:22:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "In a relatively mild speech, North Korea uses UN platform to lament 'mutual distrust' and tension",
@@ -169,22 +209,6 @@
       "publishedAt": "2026-09-28T19:10:02Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Iran under scrutiny after plot foiled near UK base used by US military",
-      "url": "https://www.foxnews.com/world/iran-under-scrutiny-after-plot-foiled-near-uk-base-used-us-military",
-      "source": "Fox News",
-      "publishedAt": "2026-09-28T18:24:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Sleeper cells and lone wolves. The West could be Iran’s next front",
-      "url": "https://economictimes.indiatimes.com/news/defence/rafs-fairford-airbase-sleeper-cells-and-lone-wolves-the-west-could-be-irans-next-front/articleshow/134546903.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-28T16:16:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "South Korea fumes at Ukraine after Zelensky dishes on transfer of captured North Korean soldiers",
@@ -215,8 +239,8 @@
       "url": "https://www.theatlantic.com/ideas/2026/09/israel-biden-gaza-hamas-netanyahu/688750/?utm_source=feed",
       "source": "The Atlantic",
       "publishedAt": "2026-09-28T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "North Korea issue dwarfed by more pressing concerns during Trump-Xi summit",

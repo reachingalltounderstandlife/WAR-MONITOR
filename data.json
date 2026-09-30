@@ -1,7 +1,119 @@
 {
-  "updated": "2026-09-30T04:04:43Z",
-  "count": 28,
+  "updated": "2026-09-30T11:56:45Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Estonia blames Russia for arson at defence factory that produces vehicles Ukraine has used",
+      "url": "https://www.cbc.ca/news/world/estonia-russia-allegation-9.7362016",
+      "source": "CBC News",
+      "publishedAt": "2026-09-29T11:29:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia's nuke threat to Britain: Putin's London embassy warns of nuclear strike following Sky wargame TV show",
+      "url": "https://www.dailymail.com/news/article-16168985/Russia-UK-nuclear-weapons-Wargame.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-29T11:06:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 9/29/2026 + Short Iran Note",
+      "url": "https://www.nakedcapitalism.com/2026/09/links-9-29-2026-short-iran-note.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-09-29T10:59:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Middle East Institute: Ankara’s Nuclear Ambitions in the Post-Iran War Environment",
+      "url": "https://i-epikaira.blogspot.com/2026/09/middle-east-institute-ankaras-nuclear.html",
+      "source": "Blogspot.com",
+      "publishedAt": "2026-09-29T10:44:40Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Rising Rates, Construction Costs Force Developers to Get Creative With Financing",
+      "url": "http://commercialobserver.com/2026/09/rates-construction-costs-development-financing/",
+      "source": "Commercial Observer",
+      "publishedAt": "2026-09-29T10:17:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Wider Europe Briefing: Will The EU Soon Lift Potash Sanctions On Belarus?",
+      "url": "https://www.rferl.org/a/wider-europe-briefing-will-the-eu-soon-lift-potash-sanctions-on-belarus/33866407.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-09-29T10:05:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Nobody Can End the War in Ukraine",
+      "url": "http://foreignpolicy.com/2026/09/29/why-nobody-can-end-the-war-in-ukraine/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-29T07:35:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Nobody Can End the War in Ukraine",
+      "url": "http://foreignpolicy.com/2026/09/29/ukraine-war-russia-putin-trump-zelensky-stalemate-united-states-negotiations/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-29T07:35:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump denies offering Iran sanctions relief as indirect talks continue",
+      "url": "https://www.yahoo.com/news/politics/articles/iran-says-trump-choose-between-092115082.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-09-29T07:21:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Manhattan Project Mindset: How Nuclear Analogies Are Steering AI Policy Off Course",
+      "url": "https://warontherocks.com/the-manhattan-project-mindset-how-nuclear-analogies-are-steering-ai-policy-off-course/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-09-29T07:15:45Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Tasnim Reports Iran Relocates Key Defense Capabilities Underground",
+      "url": "https://www.naturalnews.com/2026-09-29-tasnim-reports-iran-relocates-defense-capabilities-underground.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-29T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "White House Rushes To Unload $400M in Ukraine Aid Before Congress Can Take It Back",
+      "url": "https://www.naturalnews.com/2026-09-29-white-house-rushes-unload-funds-ukraine-aid.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-29T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia is not isolated: North Korea troops are widening Putin’s war in Ukraine",
+      "url": "https://www.naturalnews.com/2026-09-29-russia-is-not-isolated-north-korea-troops-are-widening-putins-war-in-ukraine.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-09-29T06:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Rubio, Saudi Arabia’s foreign minister hold talks on Yemen, Hormuz Strait",
+      "url": "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-29T04:46:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "'I offered nothing': Trump rejects report of Iran sanctions relief, frozen funds offer",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-denies-sanctions-relief-offer-to-iran-amid-ongoing-nuclear-talks/articleshow/134555038.cms",
@@ -51,14 +163,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Can we predict genocide by listening to what leaders say? Research finds common threads",
-      "url": "https://theconversation.com/can-we-predict-genocide-by-listening-to-what-leaders-say-research-finds-common-threads-289042",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-09-28T19:42:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea Celebrates Its Nukes at U.N. General Assembly",
       "url": "https://www.breitbart.com/asia/2026/09/28/north-korea-celebrates-its-nukes-u-n-general-assembly/",
       "source": "Breitbart News",
@@ -75,60 +179,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Russian strikes kill five and target Kyiv science academy",
-      "url": "https://www.rte.ie/news/2026/0928/1593267-deadly-russian-strikes-kill-five-and-target-kyiv-academy/",
-      "source": "RTE",
-      "publishedAt": "2026-09-28T17:56:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Bulgaria is walking a tightrope between NATO and Moscow",
-      "url": "https://voxeurop.eu/en/bulgaria-nato-russia/",
-      "source": "Voxeurop.eu",
-      "publishedAt": "2026-09-28T16:50:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian drone hits Kyiv scientific centre near embassies",
-      "url": "https://www.abc.net.au/news/2026-09-29/ukraine-russia-poland-strikes-scientific-centre/107205900",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-28T16:40:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Sleeper cells and lone wolves. The West could be Iran’s next front",
       "url": "https://economictimes.indiatimes.com/news/defence/rafs-fairford-airbase-sleeper-cells-and-lone-wolves-the-west-could-be-irans-next-front/articleshow/134546903.cms",
       "source": "The Times of India",
       "publishedAt": "2026-09-28T16:16:12Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "What’s Putin’s Secret Post-Election Strategy To Test NATO?",
-      "url": "https://oilprice.com/Energy/Energy-General/Whats-Putins-Secret-Post-Election-Strategy-To-Test-NATO.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-09-28T16:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Escalation watch: West ramping up war rhetoric, ‘terror plotters’ given bail in UK",
-      "url": "https://www.rt.com/news/646370-uk-fairford-escalation-rhetoric-russia/",
-      "source": "RT",
-      "publishedAt": "2026-09-28T15:39:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian drones hit science academy in the historic heart of Kyiv",
-      "url": "https://www.yahoo.com/news/world/articles/russia-pummels-kyiv-latest-deadly-133512181.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-09-28T15:18:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "South Korea fumes at Ukraine after Zelensky dishes on transfer of captured North Korean soldiers",
@@ -163,14 +219,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "New front will open if Iran is attacked again, Leader's advisor warns",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260928-presstv03.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea issue dwarfed by more pressing concerns during Trump-Xi summit",
       "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260928-rfa01.htm",
       "source": "Globalsecurity.org",
@@ -183,24 +231,16 @@
       "url": "https://www.hurriyetdailynews.com/iran-us-send-mixed-signals-over-talks-to-end-war-227469",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-09-28T11:35:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Here We Remain: A World That Abides Slaughter",
       "url": "https://www.commondreams.org/further/here-we-remain-a-world-that-abides-slaughter",
       "source": "Common Dreams",
       "publishedAt": "2026-09-28T11:14:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘Terror’ incident near RAF base used for Iran war: What we know",
-      "url": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-28T08:44:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Seoul demands apology after Zelenskyy reveals North Korean prisoners of war transfer",
@@ -217,14 +257,6 @@
       "publishedAt": "2026-09-28T06:29:18Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Tucker Carlson Urges 25th Amendment Against Trump Over Iran War, Axios Reports",
-      "url": "https://www.naturalnews.com/2026-09-28-carlson-urges-25th-amendment-trump-iran-war.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-28T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     }
   ]
 }

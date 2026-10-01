@@ -1,22 +1,126 @@
 {
-  "updated": "2026-10-01T12:28:12Z",
+  "updated": "2026-10-01T22:21:29Z",
   "count": 37,
   "articles": [
     {
-      "title": "Germany is buying every missile it can get. What is Berlin preparing for?",
-      "url": "https://www.rt.com/news/646415-germany-is-buying-every-missile/",
-      "source": "RT",
-      "publishedAt": "2026-09-30T12:04:33Z",
+      "title": "Fired-up Pete Hegseth goes on unhinged rant to US service members… as he unveils terrifying new 'autonomous' battlefield revolution plan",
+      "url": "https://www.dailymail.com/news/article-16173885/pete-hegseth-unveils-new-autonomous-battlefield-command.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-30T21:32:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. Forces Leave Behind a Power Vacuum in Iraq",
+      "url": "http://foreignpolicy.com/2026/09/30/us-military-withdraws-troops-iraq-power-vacuum-iran-islamic-state-hegseth/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-30T20:31:31Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Russia sends nuclear warning to NATO as tensions rise in the Baltic",
-      "url": "https://economictimes.indiatimes.com/news/defence/russia-sends-nuclear-warning-to-nato-as-tensions-rise-in-the-baltic/articleshow/134593422.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-30T11:56:51Z",
+      "title": "How Far Can Russia Probe NATO’s Collective Defense?",
+      "url": "http://foreignpolicy.com/2026/09/30/russia-nato-latvia-drones-baltics-article-five/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-30T20:22:44Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "Donald Trump drops demands to own Greenland, but the harm has been done",
+      "url": "https://www.nrc.nl/nieuws/2026/09/30/donald-trump-drops-demands-to-own-greenland-but-the-harm-has-been-done-a4937555",
+      "source": "Www.nrc.nl",
+      "publishedAt": "2026-09-30T20:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
+      "url": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-30T18:52:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Case for Trump’s Global Strategy",
+      "url": "http://foreignpolicy.com/2026/09/30/mike-waltz-trump-global-strategy-iran-sudan-venezuela-china-policy-international-law-united-nations/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-09-30T18:47:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Are you watching Streeting? Putin's war chest to rise to record 35% of state budget by next year as he slashes welfare, education and healthcare to fund 17.1trillion ruble (£154bn) military",
+      "url": "https://www.dailymail.com/news/article-16172369/Are-you-watching-Streeting-Putins-war-chest-rise-record-35-state-budget-year-slashes-welfare-education-healthcare-fund-17-1trillion-ruble-154bn-military.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-30T17:49:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Moscow threatens nuclear response over tiny fortress wedged between US allies as clash fears grow",
+      "url": "https://www.foxnews.com/world/moscow-threatens-nuclear-response-over-tiny-fortress-wedged-between-us-allies-clash-fears-grow",
+      "source": "Fox News",
+      "publishedAt": "2026-09-30T17:41:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia warns NATO of a possible nuclear response if Kaliningrad is cut off",
+      "url": "https://economictimes.indiatimes.com/news/defence/russia-warns-nato-of-a-possible-nuclear-response-if-kaliningrad-is-cut-off/articleshow/134599816.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-09-30T17:39:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia Sends Nuclear Warning to NATO as Tensions Rise in the Baltic",
+      "url": "https://gcaptain.com/russia-sends-nuclear-warning-to-nato-as-tensions-rise-in-the-baltic/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-09-30T17:37:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia warns NATO of a possible nuclear response if Kaliningrad is cut off",
+      "url": "https://abcnews.com/International/wireStory/russia-warns-nato-nuclear-response-kaliningrad-cut-off-136893915",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-09-30T17:31:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "After two decades, US forces leave Iraq to an uncertain future",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/09/30/after-two-decades-us-forces-leave-iraq-to-an-uncertain-future/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-09-30T16:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia threatens to strike Nato with nuclear weapons 'right from the outset' if the alliance tries to cut off its European outpost Kaliningrad",
+      "url": "https://www.dailymail.com/news/article-16173147/Russia-Nato-nuclear-weapons-Kaliningrad.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-09-30T15:48:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Passenger on flight bound for Israel said co-pilot attacked pilot in 'suicide attack'",
+      "url": "https://www.thejournal.ie/tel-aviv-bound-flight-co-pilot-attacks-pilot-7178080-Sep2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-09-30T13:12:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Report: North Korea Operating Extra-Legal Underground Prison in Beijing",
+      "url": "https://www.breitbart.com/asia/2026/09/30/report-north-korea-operating-extra-legal-underground-prison-in-beijing/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-09-30T12:35:11Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Israel-bound plane makes emergency landing in Saudi Arabia after reported fight between pilots",
@@ -25,30 +129,6 @@
       "publishedAt": "2026-09-30T11:47:44Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Links 9/30/2026",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-30-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-30T10:55:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian airstrikes kill 4 in Kyiv region, including child, Ukraine officials say",
-      "url": "https://www.cbc.ca/news/world/kyiv-attacked-russian-missiles-drones-9.7363623",
-      "source": "CBC News",
-      "publishedAt": "2026-09-30T10:05:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia issues NATO nuclear warning amid Baltic tensions",
-      "url": "https://www.rte.ie/news/2026/0930/1593475-russia-issues-nato-nuclear-warning-amid-baltic-tensions/",
-      "source": "RTE",
-      "publishedAt": "2026-09-30T10:03:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Naked Capitalism: Your Antidote for the Madness",
@@ -75,14 +155,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "In search of a new geopolitics",
-      "url": "https://mondediplo.com/2026/10/01edito",
-      "source": "Mondediplo.com",
-      "publishedAt": "2026-09-30T09:27:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "South Korea says Zelenskyy's revelation of a secret POW transfer was likely a play for more support",
       "url": "https://abcnews.com/International/wireStory/south-korea-zelenskyys-revelation-secret-pow-transfer-play-136879997",
       "source": "Abcnews.com",
@@ -91,28 +163,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Four killed in Russian drone and missile attacks on Kyiv",
-      "url": "https://www.rte.ie/news/2026/0930/1593468-russia-ukraine/",
-      "source": "RTE",
-      "publishedAt": "2026-09-30T09:06:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "‘National Embarrassment’: Trump Ripped Over ‘Disgusting’ Praise For Ruthless Dictator",
       "url": "https://www.huffpost.com/entry/trump-kim-jong-un_n_6abcbb9fe4b0ecc03a1d99b7",
       "source": "HuffPost",
       "publishedAt": "2026-09-30T09:05:32Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’",
-      "url": "https://www.cnbc.com/2026/09/30/ukraine-war-russia-nato-nuclear-kyiv.html",
-      "source": "CNBC",
-      "publishedAt": "2026-09-30T08:16:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Lobster and steak-loving Kim Jong-un is 'extremely obese' after ballooning to 310lbs and at 'high risk of cardiovascular disease', spies in Seoul reveal",
@@ -137,14 +193,6 @@
       "publishedAt": "2026-09-30T06:48:09Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "url": "https://www.thelocal.de/20260930/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-140",
-      "source": "The Local Germany",
-      "publishedAt": "2026-09-30T06:31:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Veterans in Virginia Signal Discontent With Trump Over Iran War Ahead of Midterms",
@@ -179,14 +227,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Classified Document Leak Shows US Is Militarily Overextended in Iran",
-      "url": "https://activistpost.com/classified-document-leak-shows-us-is-militarily-overextended-in-iran/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-09-30T01:39:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump Says 'Friend' Kim Jong Un Sets North Korea Apart From Iran on Nukes",
       "url": "https://biztoc.com/x/806ecd9b5eeea2d1",
       "source": "Biztoc.com",
@@ -195,42 +235,10 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
-      "url": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-29T23:06:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "\"If Bolsonaro wins, they kill us; if Lula wins, they let us die.” : On the 2026 Elections in Brazil",
-      "url": "https://crimethinc.com/2026/09/29/if-bolsonaro-wins-they-kill-us-if-lula-wins-they-let-us-die-on-the-2026-elections-in-brazil",
-      "source": "Crimethinc.com",
-      "publishedAt": "2026-09-29T22:37:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Poland braces for potential confrontation as Russia tests NATO defenses",
-      "url": "https://www.pbs.org/newshour/show/poland-braces-for-potential-confrontation-as-russia-tests-nato-defenses",
-      "source": "PBS",
-      "publishedAt": "2026-09-29T22:30:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump: Iran is doing very poorly and will eventually give up",
       "url": "https://www.israelnationalnews.com/news/433855",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-09-29T20:40:40Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Dennis Rodman set to meet with Trump as prez plots Kim Jong Un reunion",
-      "url": "https://nypost.com/2026/09/29/us-news/dennis-rodman-set-to-travel-with-trump-as-prez-plots-kim-jong-un-reunion/",
-      "source": "New York Post",
-      "publishedAt": "2026-09-29T19:47:36Z",
       "_cat": "korea",
       "_label": "N. Korea"
     },
@@ -249,14 +257,6 @@
       "publishedAt": "2026-09-29T16:23:35Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "When War Crimes Become Normal: The Price of Impunity",
-      "url": "https://www.commondreams.org/opinion/no-more-impunity-for-war-crimes",
-      "source": "Common Dreams",
-      "publishedAt": "2026-09-29T15:20:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Middle East Institute: Ankara’s Nuclear Ambitions in the Post-Iran War Environment",

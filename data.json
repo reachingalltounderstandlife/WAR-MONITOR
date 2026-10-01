@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-30T21:52:58Z",
-  "count": 38,
+  "updated": "2026-10-01T04:15:55Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "Iran appeals to US voters as American troops leave Iraq",
+      "url": "https://www.rte.ie/news/2026/0930/1593433-iran-voters/",
+      "source": "RTE",
+      "publishedAt": "2026-09-30T03:46:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Classified Document Leak Shows US Is Militarily Overextended in Iran",
+      "url": "https://activistpost.com/classified-document-leak-shows-us-is-militarily-overextended-in-iran/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-09-30T01:39:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Says 'Friend' Kim Jong Un Sets North Korea Apart From Iran on Nukes",
+      "url": "https://biztoc.com/x/806ecd9b5eeea2d1",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-09-30T01:27:34Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iraq begins high-stakes security balancing act as US troops withdraw",
+      "url": "https://www.aljazeera.com/news/2026/9/29/iraq-begins-high-stakes-security-balancing-act-as-us-troops-withdraw",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-09-29T23:06:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "\"If Bolsonaro wins, they kill us; if Lula wins, they let us die.” : On the 2026 Elections in Brazil",
+      "url": "https://crimethinc.com/2026/09/29/if-bolsonaro-wins-they-kill-us-if-lula-wins-they-let-us-die-on-the-2026-elections-in-brazil",
+      "source": "Crimethinc.com",
+      "publishedAt": "2026-09-29T22:37:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Poland braces for potential confrontation as Russia tests NATO defenses",
+      "url": "https://www.pbs.org/newshour/show/poland-braces-for-potential-confrontation-as-russia-tests-nato-defenses",
+      "source": "PBS",
+      "publishedAt": "2026-09-29T22:30:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Oscars International Feature Category Nears 90 Films: Complete List of Entries (So Far)",
       "url": "https://www.thewrap.com/industry-news/awards/oscars-international-category-2026-complete-list-of-entries/",
@@ -139,14 +187,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Russia's nuke threat to Britain: Putin's London embassy warns of nuclear strike following Sky wargame TV show",
-      "url": "https://www.dailymail.com/news/article-16168985/Russia-UK-nuclear-weapons-Wargame.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-29T11:06:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Links 9/29/2026 + Short Iran Note",
       "url": "https://www.nakedcapitalism.com/2026/09/links-9-29-2026-short-iran-note.html",
       "source": "Nakedcapitalism.com",
@@ -175,8 +215,8 @@
       "url": "https://www.yahoo.com/news/politics/articles/iran-says-trump-choose-between-092115082.html",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-09-29T07:21:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The Manhattan Project Mindset: How Nuclear Analogies Are Steering AI Policy Off Course",
@@ -185,14 +225,6 @@
       "publishedAt": "2026-09-29T07:15:45Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Tasnim Reports Iran Relocates Key Defense Capabilities Underground",
-      "url": "https://www.naturalnews.com/2026-09-29-tasnim-reports-iran-relocates-defense-capabilities-underground.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-29T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Russia is not isolated: North Korea troops are widening Putin’s war in Ukraine",
@@ -207,16 +239,8 @@
       "url": "https://www.aljazeera.com/news/2026/9/29/rubio-saudi-arabias-foreign-minister-hold-talks-on-yemen-hormuz-strait",
       "source": "Al Jazeera English",
       "publishedAt": "2026-09-29T04:46:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'I offered nothing': Trump rejects report of Iran sanctions relief, frozen funds offer",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-denies-sanctions-relief-offer-to-iran-amid-ongoing-nuclear-talks/articleshow/134555038.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-09-29T03:22:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Five Trends Driving Change In Europe",
@@ -225,86 +249,6 @@
       "publishedAt": "2026-09-29T00:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "In a relatively mild speech, North Korea uses UN platform to lament 'mutual distrust' and tension",
-      "url": "https://abcnews.com/US/wireStory/mild-speech-north-korea-platform-lament-mutual-distrust-136831545",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-28T20:01:53Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea Celebrates Its Nukes at U.N. General Assembly",
-      "url": "https://www.breitbart.com/asia/2026/09/28/north-korea-celebrates-its-nukes-u-n-general-assembly/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-09-28T19:10:02Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "South Korea fumes at Ukraine after Zelensky dishes on transfer of captured North Korean soldiers",
-      "url": "https://nypost.com/2026/09/28/world-news/south-korea-fumes-at-ukraine-after-zelensky-dishes-on-transfer-of-captured-north-korean-soldiers/",
-      "source": "New York Post",
-      "publishedAt": "2026-09-28T13:43:38Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Lee Asks Trump to Help Revive North Korea Talks During New York Trip",
-      "url": "https://thediplomat.com/2026/09/lee-asks-trump-to-help-revive-north-korea-talks-during-new-york-trip/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-09-28T13:36:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "S. Korea says border blasts injured 3 officers was likely caused by N. Korean mines",
-      "url": "https://abcnews.com/International/wireStory/south-korea-border-blasts-injured-3-officers-caused-136818573",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-28T12:47:32Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "How Biden Averted a War With Iran",
-      "url": "https://www.theatlantic.com/ideas/2026/09/israel-biden-gaza-hamas-netanyahu/688750/?utm_source=feed",
-      "source": "The Atlantic",
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea issue dwarfed by more pressing concerns during Trump-Xi summit",
-      "url": "https://www.globalsecurity.org/wmd/library/news/dprk/2026/dprk-260928-rfa01.htm",
-      "source": "Globalsecurity.org",
-      "publishedAt": "2026-09-28T12:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iran, US send mixed signals over talks to end war",
-      "url": "https://www.hurriyetdailynews.com/iran-us-send-mixed-signals-over-talks-to-end-war-227469",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-09-28T11:35:04Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Here We Remain: A World That Abides Slaughter",
-      "url": "https://www.commondreams.org/further/here-we-remain-a-world-that-abides-slaughter",
-      "source": "Common Dreams",
-      "publishedAt": "2026-09-28T11:14:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Seoul demands apology after Zelenskyy reveals North Korean prisoners of war transfer",
-      "url": "https://abcnews.com/International/wireStory/seoul-demands-apology-after-zelenskyy-unilaterally-reveals-north-136814400",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-28T06:41:49Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

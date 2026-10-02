@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-02T17:29:26Z",
-  "count": 35,
+  "updated": "2026-10-02T21:50:11Z",
+  "count": 36,
   "articles": [
+    {
+      "title": "Putin warns West not to escalate, claims concerns about Russia's Kaliningrad region",
+      "url": "https://www.cbc.ca/news/world/putin-warns-west-escalation-kaliningrad-9.7365845",
+      "source": "CBC News",
+      "publishedAt": "2026-10-01T20:20:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin warns of using 'all weapons' in its arsenal if any Russia territory is attacked",
+      "url": "https://abcnews.com/International/wireStory/putin-warns-weapons-arsenal-russia-territory-attacked-136930888",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-10-01T19:58:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin warns West Russia will use 'all weapons' if Kaliningrad threatened",
+      "url": "https://www.abc.net.au/news/2026-10-02/putin-kaliningrad-threat-nuclear-weapons/107219366",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-10-01T19:15:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "9,000 more U.S. troops head to Middle East as Trump weighs new Iran strikes",
+      "url": "https://www.yahoo.com/news/politics/articles/us-moving-thousands-troops-aboard-183827057.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-01T18:38:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "9,000 more U.S. troops head to Middle East as Trump weighs new Iran strikes",
+      "url": "https://www.yahoo.com/news/politics/articles/US--Iran-US-183827057.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-01T18:38:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Latvians head to the polls with Russia on their minds",
+      "url": "https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-01T17:57:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "9/11's Forgotten Lesson",
       "url": "https://www.rand.org/pubs/commentary/2026/10/911s-forgotten-lesson.html",
@@ -83,16 +131,16 @@
       "_label": "Ukraine"
     },
     {
-      "title": "U.A.E. announces investigation into FlyDubai stabbing",
-      "url": "https://www.cbc.ca/news/world/flydubai-investigations-pilot-stabbing-9.7364851",
+      "title": "U.A.E. announces investigation into FlyDubai incident",
+      "url": "https://www.cbc.ca/news/world/flydubai-investigations-pilot-hero-9.7364851",
       "source": "CBC News",
       "publishedAt": "2026-10-01T12:09:52Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "U.A.E. announces investigation into FlyDubai incident",
-      "url": "https://www.cbc.ca/news/world/flydubai-investigations-pilot-hero-9.7364851",
+      "title": "U.A.E. announces investigation into FlyDubai stabbing",
+      "url": "https://www.cbc.ca/news/world/flydubai-investigations-pilot-stabbing-9.7364851",
       "source": "CBC News",
       "publishedAt": "2026-10-01T12:09:52Z",
       "_cat": "lebanon",
@@ -131,30 +179,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Latvian Defense Minister Says Russia's Hybrid Attacks, Not Nuclear Rhetoric, Are The Main Concern",
-      "url": "https://www.rferl.org/a/latvia-russia-nuclear-warning-kaliningrad/33867766.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-10-01T09:47:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Chief of NATO ‘defensive alliance’ advocates war of aggression",
-      "url": "https://www.rt.com/news/646547-nato-chief-iran-war/",
-      "source": "RT",
-      "publishedAt": "2026-10-01T09:32:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "On Being Awarded the Women Waging Peace Award",
-      "url": "https://www.thenation.com/?post_type=article&p=611090",
-      "source": "Thenation.com",
-      "publishedAt": "2026-10-01T09:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Passengers describe rushing cockpit of Dubai-Tel Aviv flight after 'co-pilot tried to murder pilot'",
       "url": "https://www.thejournal.ie/flydubai-pilot-crash-attempt-7178702-Oct2026/",
       "source": "TheJournal.ie",
@@ -183,22 +207,6 @@
       "url": "https://www.dailymail.com/news/article-16173885/pete-hegseth-unveils-new-autonomous-battlefield-command.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-09-30T21:32:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Case for Trump’s Global Strategy",
-      "url": "http://foreignpolicy.com/2026/09/30/mike-waltz-trump-global-strategy-iran-sudan-venezuela-china-policy-international-law-united-nations/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-30T18:47:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "After two decades, US forces leave Iraq to an uncertain future",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/09/30/after-two-decades-us-forces-leave-iraq-to-an-uncertain-future/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-09-30T16:30:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

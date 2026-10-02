@@ -1,7 +1,103 @@
 {
-  "updated": "2026-10-02T04:09:00Z",
-  "count": 29,
+  "updated": "2026-10-02T11:54:42Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Jared Kushner’s company has large stake in firm with Israeli military links | CNN",
+      "url": "https://www.cnn.com/2026/10/01/us/jared-kushner-israel-gaza-investments-invs-vis",
+      "source": "CNN",
+      "publishedAt": "2026-10-01T11:40:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Next Front",
+      "url": "https://www.theatlantic.com/magazine/2026/11/baltic-defense-russia/688692/?utm_source=feed",
+      "source": "The Atlantic",
+      "publishedAt": "2026-10-01T11:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 10/1/2026",
+      "url": "https://www.nakedcapitalism.com/2026/10/links-10-1-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-01T10:55:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel Vows To Get To 'Root' Of Flydubai Attack",
+      "url": "https://www.huffpost.com/entry/israel-flydubai-attack-investigation_n_6abe2d4ce4b0ecc03a1f099d",
+      "source": "HuffPost",
+      "publishedAt": "2026-10-01T10:05:22Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Latvian Defense Minister Says Russia's Hybrid Attacks, Not Nuclear Rhetoric, Are The Main Concern",
+      "url": "https://www.rferl.org/a/latvia-russia-nuclear-warning-kaliningrad/33867766.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-10-01T09:47:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Chief of NATO ‘defensive alliance’ advocates war of aggression",
+      "url": "https://www.rt.com/news/646547-nato-chief-iran-war/",
+      "source": "RT",
+      "publishedAt": "2026-10-01T09:32:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "On Being Awarded the Women Waging Peace Award",
+      "url": "https://www.thenation.com/?post_type=article&p=611090",
+      "source": "Thenation.com",
+      "publishedAt": "2026-10-01T09:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Passengers describe rushing cockpit of Dubai-Tel Aviv flight after 'co-pilot tried to murder pilot'",
+      "url": "https://www.thejournal.ie/flydubai-pilot-crash-attempt-7178702-Oct2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-10-01T06:29:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A TV show on a detached piece of Russian land triggers nuke warning",
+      "url": "https://economictimes.indiatimes.com/news/defence/a-tv-show-on-a-detached-piece-of-russian-land-triggers-nuke-warning/articleshow/134609971.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-01T06:14:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Germany news: Merz lauds NATO with Westphalian Peace Prize",
+      "url": "https://www.dw.com/en/germany-news-merz-lauds-nato-with-westphalian-peace-prize/live-79496180",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-01T06:12:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "DMZ mine blasts ignite new crisis: North Korea denies responsibility as tensions surge on Korean border",
+      "url": "https://www.naturalnews.com/2026-10-01-dmz-mine-blasts-north-korea-denies-responsibility.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-01T06:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "NATO tells Russia to stop nuclear threats, Rutte says",
+      "url": "https://www.hurriyetdailynews.com/nato-tells-russia-to-stop-nuclear-threats-rutte-says-227573",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-10-01T05:43:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "From East to West: Why Turkey is Playing both Sides",
       "url": "https://www.juancole.com/2026/10/turkey-playing-sides.html",
@@ -27,14 +123,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo",
-      "source": "BBC News",
-      "publishedAt": "2026-09-30T23:10:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Fired-up Pete Hegseth goes on unhinged rant to US service members… as he unveils terrifying new 'autonomous' battlefield revolution plan",
       "url": "https://www.dailymail.com/news/article-16173885/pete-hegseth-unveils-new-autonomous-battlefield-command.html",
       "source": "Dailymail.com",
@@ -43,60 +131,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "U.S. Forces Leave Behind a Power Vacuum in Iraq",
-      "url": "http://foreignpolicy.com/2026/09/30/us-military-withdraws-troops-iraq-power-vacuum-iran-islamic-state-hegseth/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-30T20:31:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How Far Can Russia Probe NATO’s Collective Defense?",
-      "url": "http://foreignpolicy.com/2026/09/30/russia-nato-latvia-drones-baltics-article-five/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-09-30T20:22:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Donald Trump drops demands to own Greenland, but the harm has been done",
-      "url": "https://www.nrc.nl/nieuws/2026/09/30/donald-trump-drops-demands-to-own-greenland-but-the-harm-has-been-done-a4937555",
-      "source": "Www.nrc.nl",
-      "publishedAt": "2026-09-30T20:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
-      "url": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-30T18:52:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The Case for Trump’s Global Strategy",
       "url": "http://foreignpolicy.com/2026/09/30/mike-waltz-trump-global-strategy-iran-sudan-venezuela-china-policy-international-law-united-nations/",
       "source": "Foreign Policy",
       "publishedAt": "2026-09-30T18:47:10Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Are you watching Streeting? Putin's war chest to rise to record 35% of state budget by next year as he slashes welfare, education and healthcare to fund 17.1trillion ruble (£154bn) military",
-      "url": "https://www.dailymail.com/news/article-16172369/Are-you-watching-Streeting-Putins-war-chest-rise-record-35-state-budget-year-slashes-welfare-education-healthcare-fund-17-1trillion-ruble-154bn-military.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-30T17:49:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Moscow threatens nuclear response over tiny fortress wedged between US allies as clash fears grow",
-      "url": "https://www.foxnews.com/world/moscow-threatens-nuclear-response-over-tiny-fortress-wedged-between-us-allies-clash-fears-grow",
-      "source": "Fox News",
-      "publishedAt": "2026-09-30T17:41:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "After two decades, US forces leave Iraq to an uncertain future",
@@ -147,14 +187,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Baghdad celebrates, Kurds concerned as US completes Iraq withdrawal",
-      "url": "https://www.abc.net.au/news/2026-09-30/us-military-completes-iraq-withdrawal/107214128",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-09-30T09:54:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "South Korea says Zelenskyy's revelation of a secret POW transfer was likely a play for more support",
       "url": "https://abcnews.com/International/wireStory/south-korea-zelenskyys-revelation-secret-pow-transfer-play-136879997",
       "source": "Abcnews.com",
@@ -195,14 +227,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Veterans in Virginia Signal Discontent With Trump Over Iran War Ahead of Midterms",
-      "url": "https://www.naturalnews.com/2026-09-30-virginia-veterans-signal-discontent-trump-iran-war.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-09-30T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea denies planting mines that injured 3 South Korean soldiers, accuses Seoul of conspiracy",
       "url": "https://abcnews.com/International/wireStory/north-korea-denies-planting-mines-injured-3-south-136874623",
       "source": "Abcnews.com",
@@ -215,8 +239,8 @@
       "url": "https://www.business-standard.com/world-news/iran-urges-us-voters-to-oust-trump-s-allies-as-american-troops-leave-iraq-126093000279_1.html",
       "source": "Business Standard",
       "publishedAt": "2026-09-30T05:15:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran appeals to US voters as American troops leave Iraq",

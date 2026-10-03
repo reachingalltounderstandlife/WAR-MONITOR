@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-03T15:44:20Z",
-  "count": 31,
+  "updated": "2026-10-03T20:36:15Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Life on the edge of Israel’s occupation in southern Lebanon",
+      "url": "https://mondoweiss.net/2026/10/life-on-the-edge-of-israels-occupation-in-southern-lebanon/",
+      "source": "Mondoweiss",
+      "publishedAt": "2026-10-02T19:06:35Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "'Worst president in American history': Iran official mocks Trump",
+      "url": "https://www.israelnationalnews.com/news/434018",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-02T18:34:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump's 'excursion into hell' commentary may come back to bite",
+      "url": "https://www.abc.net.au/news/2026-10-03/global-excursion-into-hell-bigger-expensive-iraq/107220592",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-10-02T18:30:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What in the World?",
+      "url": "http://foreignpolicy.com/2026/10/02/news-quiz-trump-zelensky-ukraine-venezuela-protest-morocco-prime-minister/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-02T18:24:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
+      "url": "https://gcaptain.com/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-10-02T17:07:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Prince Harry admits he lost ‘part of my purpose and identity’ after leaving military in surprise NATO address",
+      "url": "https://pagesix.com/2026/10/02/royal-family/prince-harry-reveals-impact-of-leaving-military-in-surprise-nato-address/",
+      "source": "Page Six",
+      "publishedAt": "2026-10-02T16:59:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "South Korea’s President Lee threatens action against Ukraine over transfer of North Korean soldiers",
+      "url": "https://nypost.com/2026/10/02/world-news/south-koreas-president-lee-threatens-action-against-ukraine-over-transfer-of-north-korean-soldiers/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-02T16:04:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "The Kremlin Consolidates Power as Russia’s Economic Pain Mounts",
       "url": "https://oilprice.com/Geopolitics/Europe/The-Kremlin-Consolidates-Power-as-Russias-Economic-Pain-Mounts.html",
@@ -75,14 +131,6 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Europe rearms: files reveal extent of plans for a new ‘defence union’",
-      "url": "https://www.irishtimes.com/world/europe/2026/10/02/europe-rearms-files-reveal-extent-of-plans-for-a-new-defence-union/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-10-02T11:48:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran War: Narratives Continue to Diverge Under ‘President of Peace’ Trump",
       "url": "https://www.nakedcapitalism.com/2026/10/iran-war-narratives-president-of-peace-trump-netanyahu-missiles.html",
       "source": "Nakedcapitalism.com",
@@ -105,30 +153,6 @@
       "publishedAt": "2026-10-02T09:54:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Putin Warns Russia Could Use 'All Weapons' if Kaliningrad Is Attacked, Admits Ukraine Strikes Cost 1% of GDP",
-      "url": "https://www.ibtimes.com.au/putin-warns-all-weapons-kaliningrad-attack-1876177",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-10-02T08:28:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin says Russia will use ‘all weapons’ in its arsenal if any of its territory is attacked",
-      "url": "https://nypost.com/2026/10/02/world-news/putin-says-russia-will-use-all-weapons-in-its-arsenal-if-any-of-its-territory-is-attacked/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-02T08:21:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia tries to freeze Ukraine as it suffers record casualties and retreats",
-      "url": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-02T08:03:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Epic Fury Escalates: Washington Sends Third Carrier, More Troops to Middle East",
@@ -159,22 +183,6 @@
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-troop-buildup-in-middle-east-trump-considers-strikes-on-iran-amid-heightened-tensions/articleshow/134631488.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-02T04:05:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US sends thousands of troops to West Asia as Trump weighs new Iran strikes",
-      "url": "https://www.business-standard.com/world-news/us-sends-thousands-of-troops-to-west-asia-as-trump-weighs-new-iran-strikes-126100200058_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-02T02:18:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why the War in Iran Is Likely to Heat Up Again",
-      "url": "https://www.newyorker.com/news/q-and-a/why-the-war-in-iran-is-likely-to-heat-up-again",
-      "source": "The New Yorker",
-      "publishedAt": "2026-10-02T00:16:05Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -219,16 +227,16 @@
       "_label": "N. Korea"
     },
     {
-      "title": "U.A.E. announces investigation into FlyDubai incident",
-      "url": "https://www.cbc.ca/news/world/flydubai-investigations-pilot-hero-9.7364851",
+      "title": "U.A.E. announces investigation into FlyDubai stabbing",
+      "url": "https://www.cbc.ca/news/world/flydubai-investigations-pilot-stabbing-9.7364851",
       "source": "CBC News",
       "publishedAt": "2026-10-01T12:09:52Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     },
     {
-      "title": "U.A.E. announces investigation into FlyDubai stabbing",
-      "url": "https://www.cbc.ca/news/world/flydubai-investigations-pilot-stabbing-9.7364851",
+      "title": "U.A.E. announces investigation into FlyDubai incident",
+      "url": "https://www.cbc.ca/news/world/flydubai-investigations-pilot-hero-9.7364851",
       "source": "CBC News",
       "publishedAt": "2026-10-01T12:09:52Z",
       "_cat": "lebanon",

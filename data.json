@@ -1,7 +1,71 @@
 {
-  "updated": "2026-10-02T21:50:11Z",
-  "count": 36,
+  "updated": "2026-10-03T03:52:02Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "US sends thousands of troops to West Asia as Trump weighs new Iran strikes",
+      "url": "https://www.business-standard.com/world-news/us-sends-thousands-of-troops-to-west-asia-as-trump-weighs-new-iran-strikes-126100200058_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-02T02:18:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia will use all weapons in arsenal if territory attacked, says Putin",
+      "url": "https://www.business-standard.com/world-news/russia-will-use-all-weapons-in-arsenal-if-territory-attacked-says-putin-126100200048_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-02T02:13:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Countries supplying Ukraine with weapons are 'a threat', Putin says - while insisting Russia is 'not threatening anyone'",
+      "url": "https://www.dailymail.com/news/article-16176811/Ukraine-weapons-threat-Putin.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-02T00:49:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘Playing a dangerous game’: Putin threatens using ‘all its arsenal’ if there is a ‘direct attack on the Russian Federation’",
+      "url": "https://fortune.com/2026/10/01/putin-threatens-retaliation-direct-attack-russia/",
+      "source": "Fortune",
+      "publishedAt": "2026-10-02T00:18:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why the War in Iran Is Likely to Heat Up Again",
+      "url": "https://www.newyorker.com/news/q-and-a/why-the-war-in-iran-is-likely-to-heat-up-again",
+      "source": "The New Yorker",
+      "publishedAt": "2026-10-02T00:16:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Tyranny of One Man’s Opinion",
+      "url": "https://original.antiwar.com/andrew-p-napolitano/2026/10/01/the-tyranny-of-one-mans-opinion/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-10-02T00:00:50Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "‘Bad Boy’ Dennis Rodman joins Trump for red state tour, praised for North Korea knowledge",
+      "url": "https://nypost.com/2026/10/01/us-news/dennis-rodman-joins-trump-for-red-state-tour-praised-for-north-korea-knowledge/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-01T23:05:36Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Third Aircraft Carrier, Thousands Of Troops Head To Mideast As Trump Weighs New Iran Strikes",
+      "url": "https://www.huffpost.com/entry/ap-us-iran-us_n_6abee0ade4b02a789b34e50f",
+      "source": "HuffPost",
+      "publishedAt": "2026-10-01T22:44:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Putin warns West not to escalate, claims concerns about Russia's Kaliningrad region",
       "url": "https://www.cbc.ca/news/world/putin-warns-west-escalation-kaliningrad-9.7365845",
@@ -91,14 +155,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "As Baltic states face Russian hybrid aggression, our research shows what Europe can do",
-      "url": "https://theconversation.com/as-baltic-states-face-russian-hybrid-aggression-our-research-shows-what-europe-can-do-292757",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-10-01T14:17:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran Will 'Flex Their Muscles' In Iraq After US Military Pullout",
       "url": "https://www.rferl.org/a/us-withdrawal-iraq-iran/33867963.html",
       "source": "Radio Free Europe/ Radio Liberty",
@@ -121,14 +177,6 @@
       "publishedAt": "2026-10-01T13:25:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Russian official warns country will eventually 'go nuclear' and there will be 'little left' of some European countries if they continue to back Ukraine in latest WW3 threat",
-      "url": "https://www.dailymail.com/news/article-16175545/Russian-official-warns-country-eventually-nuclear-little-left-European-countries-continue-Ukraine-latest-WW3-threat.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-01T13:13:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "U.A.E. announces investigation into FlyDubai incident",
@@ -155,14 +203,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "The Next Front",
-      "url": "https://www.theatlantic.com/magazine/2026/11/baltic-defense-russia/688692/?utm_source=feed",
-      "source": "The Atlantic",
-      "publishedAt": "2026-10-01T11:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Links 10/1/2026",
       "url": "https://www.nakedcapitalism.com/2026/10/links-10-1-2026.html",
       "source": "Nakedcapitalism.com",
@@ -179,116 +219,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Passengers describe rushing cockpit of Dubai-Tel Aviv flight after 'co-pilot tried to murder pilot'",
-      "url": "https://www.thejournal.ie/flydubai-pilot-crash-attempt-7178702-Oct2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-10-01T06:29:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "DMZ mine blasts ignite new crisis: North Korea denies responsibility as tensions surge on Korean border",
       "url": "https://www.naturalnews.com/2026-10-01-dmz-mine-blasts-north-korea-denies-responsibility.html",
       "source": "Naturalnews.com",
       "publishedAt": "2026-10-01T06:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Reporting of the RAF Fairford Arrests Blows the Idea of a ‘Free Press’ Out of the Water",
-      "url": "https://original.antiwar.com/cook/2026/09/30/reporting-of-the-raf-fairford-arrests-blows-the-idea-of-a-free-press-out-of-the-water/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-10-01T00:00:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Fired-up Pete Hegseth goes on unhinged rant to US service members… as he unveils terrifying new 'autonomous' battlefield revolution plan",
-      "url": "https://www.dailymail.com/news/article-16173885/pete-hegseth-unveils-new-autonomous-battlefield-command.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-30T21:32:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Report: North Korea Operating Extra-Legal Underground Prison in Beijing",
-      "url": "https://www.breitbart.com/asia/2026/09/30/report-north-korea-operating-extra-legal-underground-prison-in-beijing/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-09-30T12:35:11Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Naked Capitalism: Your Antidote for the Madness",
-      "url": "https://www.nakedcapitalism.com/2026/09/naked-capitalism-your-antidote-for-the-madness.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-09-30T10:00:53Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "South Korea says Zelenskyy's revelation of a secret POW transfer was likely a play for more support",
-      "url": "https://abcnews.com/International/wireStory/south-korea-zelenskyys-revelation-secret-pow-transfer-play-136879997",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-30T09:19:32Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "‘National Embarrassment’: Trump Ripped Over ‘Disgusting’ Praise For Ruthless Dictator",
-      "url": "https://www.huffpost.com/entry/trump-kim-jong-un_n_6abcbb9fe4b0ecc03a1d99b7",
-      "source": "HuffPost",
-      "publishedAt": "2026-09-30T09:05:32Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Lobster and steak-loving Kim Jong-un is 'extremely obese' after ballooning to 310lbs and at 'high risk of cardiovascular disease', spies in Seoul reveal",
-      "url": "https://www.dailymail.com/news/article-16171777/Kim-Jong-extremely-obese-high-risk-cardiovascular-disease.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-09-30T08:12:45Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea denies planting mines that injured 3 South Korean soldiers, accuses Seoul of conspiracy",
-      "url": "https://nypost.com/2026/09/30/world-news/north-korea-denies-planting-mines-that-injured-3-south-korean-soldiers-accuses-seoul-of-conspiracy/",
-      "source": "New York Post",
-      "publishedAt": "2026-09-30T07:03:37Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump calls Kim Jong Un a ‘friend’ and plays down N Korea’s nuclear arsenal",
-      "url": "https://www.aljazeera.com/news/2026/9/30/trump-calls-kim-jong-un-a-friend-and-plays-down-n-koreas-nuclear-arsenal",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-09-30T06:48:09Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea denies planting mines that injured 3 South Korean soldiers, accuses Seoul of conspiracy",
-      "url": "https://abcnews.com/International/wireStory/north-korea-denies-planting-mines-injured-3-south-136874623",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-09-30T05:44:17Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iran urges US voters to oust Trump's allies as American troops leave Iraq",
-      "url": "https://www.business-standard.com/world-news/iran-urges-us-voters-to-oust-trump-s-allies-as-american-troops-leave-iraq-126093000279_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-09-30T05:15:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran appeals to US voters as American troops leave Iraq",
-      "url": "https://www.rte.ie/news/2026/0930/1593433-iran-voters/",
-      "source": "RTE",
-      "publishedAt": "2026-09-30T03:46:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

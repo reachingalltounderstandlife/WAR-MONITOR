@@ -1,14 +1,142 @@
 {
-  "updated": "2026-10-04T04:23:32Z",
-  "count": 26,
+  "updated": "2026-10-04T11:48:18Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Latvians vote in election in shadow of drone incursions and war in Ukraine",
+      "url": "https://www.irishtimes.com/world/europe/2026/10/03/latvians-vote-in-election-in-shadow-of-drone-incursions-and-war-in-ukraine/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-10-03T11:38:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Daniel Ellsberg’s Stories of Courage and Foreboding",
+      "url": "https://www.motherjones.com/politics/2026/10/daniel-ellsberg-obituary-book-truth-consequence-media-independence-whistleblowers-pentagon-papers-nuclear-weapons-secrets/",
+      "source": "Mother Jones",
+      "publishedAt": "2026-10-03T11:30:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Retired DGP R Sreelekha resigns as Thiruvananthapuram councillor; BJP loses majority in corporation",
+      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/retired-dgp-r-sreelekha-resigns-as-thiruvananthapuram-councillor-bjp-loses-majority-in-corporation/articleshow/134655688.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-03T09:00:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'No evidence of fracture': Suvendu Adhikari says Bengal govt to probe Mamata Banerjee's 2021 'injury'",
+      "url": "https://timesofindia.indiatimes.com/india/no-evidence-of-fracture-suvendu-adhikari-says-bengal-govt-to-probe-mamata-banerjees-2021-injury/articleshow/134655269.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-03T08:44:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'No evidence of fracture': Bengal govt to probe Mamata Banerjee's 2021 'injury'",
+      "url": "https://timesofindia.indiatimes.com/india/no-evidence-of-fracture-bengal-govt-to-probe-mamata-banerjees-2021-injury/articleshow/134655269.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-03T08:43:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Third Asian Para Throwball Championship trophy unveiled; tournament from March 17-19 at Singhania University campus in Pacheri, Jhunjhunu",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/third-asian-para-throwball-championship-trophy-unveiled-tournament-from-march-17-19-at-singhania-university-campus-in-pacheri-jhunjhunu/articleshow/134655439.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-03T08:32:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Latvians vote in election in shadow of drone incursions",
+      "url": "https://www.rte.ie/news/world/2026/1003/1593873-latvia-election/",
+      "source": "RTE",
+      "publishedAt": "2026-10-03T08:26:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "In 2011, Judy Garland's former Bel-Air home sold for $5.2 million; after successive renovations, the 1938 house on nearly 2.7 acres changed hands again for $11.1 million in July 2024",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2011-judy-garlands-former-bel-air-home-sold-for-5-2-million-after-successive-renovations-the-1938-house-on-nearly-2-7-acres-changed-hands-again-for-11-1-million-in-july-2024/articleshow/134654957.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-03T08:21:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "In 1945, a British submarine sank Nazi U-864 off Norway; 81 years later, authorities recovered 22 mercury containers from a wreck believed to have carried as much as 67 tons of mercury",
+      "url": "https://timesofindia.indiatimes.com/world/europe/in-1945-a-british-submarine-sank-nazi-u-864-off-norway-81-years-later-authorities-recovered-22-mercury-containers-from-a-wreck-believed-to-have-carried-as-much-as-67-tons-of-mercury/articleshow/134636278.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-03T08:21:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A Florida owner planned 52 ten-acre homesites across his 625-acre cattle ranch if the county would not buy it; after two years of talks, officials agreed to pay $7.8 million and stop the development",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-florida-owner-planned-52-ten-acre-homesites-across-his-625-acre-cattle-ranch-if-the-county-would-not-buy-it-after-two-years-of-talks-officials-agreed-to-pay-7-8-million-and-stop-the-development/articleshow/134654660.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-03T08:20:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "GATE 2027 registration closing on Octover 5 at gate2027.iitm.ac.in: Check eligibility criteria, eligibility criteria, direct link to apply here",
+      "url": "https://timesofindia.indiatimes.com/education/news/gate-2027-registration-closing-on-oct-5-at-gate2027-iitm-ac-in-check-eligibility-criteria-eligibility-criteria-direct-link-to-apply-here/articleshow/134654985.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-03T08:15:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Came to stay at Airbnb': 28-year-old man dies by suicide after jumping from 41st floor of Noida's Spyra Building",
+      "url": "https://timesofindia.indiatimes.com/city/noida/came-to-stay-at-airbnb-28-year-old-man-dies-by-suicide-after-jumping-from-41st-floor-of-noidas-spyra-building/articleshow/134654999.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-03T08:15:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A signal from beyond: Astronomers detect radio waves from a planet 63 light-years away",
+      "url": "https://timesofindia.indiatimes.com/science/a-signal-from-beyond-astronomers-detect-radio-waves-from-a-planet-63-light-years-away/articleshow/134654964.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-03T08:12:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Russia Is Behaving Like A Rogue State': Historian Margaret MacMillan On The Risk Of A Wider Global Conflict",
+      "url": "https://www.rferl.org/a/margaret-macmillan-russia-ukraine-global-conflict/33869360.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-10-03T07:45:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Report: Secret Meeting of Hezbollah, Syrian Officials Held in Turkey",
+      "url": "https://www.naturalnews.com/2026-10-03-report-meeting-hezbollah-syrian-officials-in-turkey.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-03T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "When All Else Fails, Start a War: Europe’s Descent From Net Zero Folly to Military Mobilization",
+      "url": "https://wattsupwiththat.com/2026/10/02/when-all-else-fails-start-a-war-europes-descent-from-net-zero-folly-to-military-mobilization/",
+      "source": "Wattsupwiththat.com",
+      "publishedAt": "2026-10-03T05:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Saudi Arabia plans assault on Houthis to break Red Sea chokehold",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-plans-assault-on-houthis-to-break-red-sea-chokehold/articleshow/134651063.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-03T02:53:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "North Korea test-fires missiles amid tensions over blasts across the border",
@@ -55,8 +183,8 @@
       "url": "https://www.rt.com/news/646650-rt-top-stories-lavrov-putin/",
       "source": "RT",
       "publishedAt": "2026-10-02T21:00:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Life on the edge of Israel’s occupation in southern Lebanon",
@@ -67,14 +195,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "'Worst president in American history': Iran official mocks Trump",
-      "url": "https://www.israelnationalnews.com/news/434018",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-02T18:34:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump's 'excursion into hell' commentary may come back to bite",
       "url": "https://www.abc.net.au/news/2026-10-03/global-excursion-into-hell-bigger-expensive-iraq/107220592",
       "source": "ABC News (AU)",
@@ -83,44 +203,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "What in the World?",
-      "url": "http://foreignpolicy.com/2026/10/02/news-quiz-trump-zelensky-ukraine-venezuela-protest-morocco-prime-minister/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-10-02T18:24:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
       "url": "https://gcaptain.com/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
       "source": "gcaptain.com",
       "publishedAt": "2026-10-02T17:07:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Prince Harry admits he lost ‘part of my purpose and identity’ after leaving military in surprise NATO address",
-      "url": "https://pagesix.com/2026/10/02/royal-family/prince-harry-reveals-impact-of-leaving-military-in-surprise-nato-address/",
-      "source": "Page Six",
-      "publishedAt": "2026-10-02T16:59:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "South Korea’s President Lee threatens action against Ukraine over transfer of North Korean soldiers",
-      "url": "https://nypost.com/2026/10/02/world-news/south-koreas-president-lee-threatens-action-against-ukraine-over-transfer-of-north-korean-soldiers/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-02T16:04:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Kremlin Consolidates Power as Russia’s Economic Pain Mounts",
-      "url": "https://oilprice.com/Geopolitics/Europe/The-Kremlin-Consolidates-Power-as-Russias-Economic-Pain-Mounts.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-10-02T14:45:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israeli officials to question co-pilot of flydubai flight, source says",
@@ -131,68 +219,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "At the Bottom of the Oil Barrel, There Is No Baseline for the Future",
-      "url": "https://www.nakedcapitalism.com/2026/10/at-the-bottom-of-the-oil-barrel-there-is-no-baseline-for-the-future.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-02T13:55:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Saudi Arabia Once Counted on US Protection. Now It’s Pivoting to New Alliances",
-      "url": "https://military.com/saudi-arabia-once-counted-on-us-protection-now-its-pivoting-to-new-alliances",
-      "source": "Military.com",
-      "publishedAt": "2026-10-02T13:53:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "France’s Austerity Program – and Student Protests",
-      "url": "https://www.globalresearch.ca/french-austerity-program-student-protests/5942390",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-10-02T13:32:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Taiwan’s New F-16s: Why They Still Matter",
       "url": "https://thediplomat.com/2026/10/taiwans-new-f-16s-why-they-still-matter/",
       "source": "The Diplomat",
       "publishedAt": "2026-10-02T13:10:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Iran War: Narratives Continue to Diverge Under ‘President of Peace’ Trump",
-      "url": "https://www.nakedcapitalism.com/2026/10/iran-war-narratives-president-of-peace-trump-netanyahu-missiles.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-02T10:01:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s Strikes on Kurdish Parties: CCF’s Unenforceability as a Sign of Structural Inequality in IHL",
-      "url": "http://opiniojuris.org/2026/10/02/irans-strikes-on-kurdish-parties-ccfs-unenforceability-as-a-sign-of-structural-inequality-in-ihl/",
-      "source": "Opiniojuris.org",
-      "publishedAt": "2026-10-02T10:00:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Collapse of the Saudi-American Alliance?",
-      "url": "https://activistpost.com/the-collapse-of-the-saudi-american-alliance/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-10-02T09:54:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Epic Fury Escalates: Washington Sends Third Carrier, More Troops to Middle East",
-      "url": "https://www.naturalnews.com/2026-10-02-washington-sends-third-carrier-more-troops-mideast.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-10-02T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Chances of Chinese Attack on Taiwan in the Near Term Seem to Be Diminishing",

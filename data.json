@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-03T20:36:15Z",
-  "count": 32,
+  "updated": "2026-10-04T04:23:32Z",
+  "count": 26,
   "articles": [
+    {
+      "title": "Saudi Arabia plans assault on Houthis to break Red Sea chokehold",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-plans-assault-on-houthis-to-break-red-sea-chokehold/articleshow/134651063.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-03T02:53:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea test-fires missiles amid tensions over blasts across the border",
+      "url": "https://nypost.com/2026/10/02/world-news/north-korea-test-fires-missiles-amid-tensions-over-blasts-across-the-border/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-03T01:28:48Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea test-fires ballistic missile as tensions grow over border mine blasts",
+      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-test-fires-ballistic-missile-as-tensions-grow-over-border-mine-blasts/articleshow/134650336.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-03T01:12:56Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "As Russia Tests Western Alliance, US Lawmakers Push ‘NATO Shield’ Bill",
+      "url": "https://www.rferl.org/a/russia-tests-nato-us-bill/33869367.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-10-02T23:13:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea fires ballistic missile into sea, Seoul says",
+      "url": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-02T22:06:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Ukraine drone chief targeted by $20 million Russian bounty warns 'humanity is losing control' as AI becomes a 'digital panopticon'",
+      "url": "https://www.techradar.com/pro/ukraine-drone-chief-targeted-by-usd20-million-russian-bounty-warns-humanity-is-losing-control-as-ai-becomes-a-digital-panopticon",
+      "source": "TechRadar",
+      "publishedAt": "2026-10-02T21:10:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UK plays the blame game, terror in the skies, Russia’s red lines: RT stories that shaped the week",
+      "url": "https://www.rt.com/news/646650-rt-top-stories-lavrov-putin/",
+      "source": "RT",
+      "publishedAt": "2026-10-02T21:00:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Life on the edge of Israel’s occupation in southern Lebanon",
       "url": "https://mondoweiss.net/2026/10/life-on-the-edge-of-israels-occupation-in-southern-lebanon/",
@@ -99,30 +155,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump’s superpower is fading. Can he recharge before the midterms?",
-      "url": "https://www.salon.com/2026/10/02/trumps-superpower-is-fading-can-he-recharge-before-the-midterms/",
-      "source": "Salon",
-      "publishedAt": "2026-10-02T13:16:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump vs Europe as US presses for release of emergency diesel stocks",
-      "url": "https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-02T13:16:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin 'orders his military leaders to abandon the rules of war' as Ukraine sees increase in attacks on civilians",
-      "url": "https://www.dailymail.com/news/article-16178423/Putin-orders-military-leaders-abandon-rules-war-Ukraine-sees-increase-attacks-civilians.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-02T13:12:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Taiwan’s New F-16s: Why They Still Matter",
       "url": "https://thediplomat.com/2026/10/taiwans-new-f-16s-why-they-still-matter/",
       "source": "The Diplomat",
@@ -163,14 +195,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "US to deploy third aircraft carrier and 10,000 more troops to Middle East as Trump considers strikes on Iran",
-      "url": "https://www.dailymail.com/news/article-16177631/Donald-Trump-US-troops-strikes-Middle-East.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-02T05:55:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Chances of Chinese Attack on Taiwan in the Near Term Seem to Be Diminishing",
       "url": "https://freerepublic.com/focus/f-news/4397632/posts",
       "source": "Freerepublic.com",
@@ -179,84 +203,12 @@
       "_label": "Taiwan"
     },
     {
-      "title": "Trump weighs fresh Iran strikes as US sends 9,000 more troops to Middle East",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-troop-buildup-in-middle-east-trump-considers-strikes-on-iran-amid-heightened-tensions/articleshow/134631488.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-02T04:05:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Tyranny of One Man’s Opinion",
       "url": "https://original.antiwar.com/andrew-p-napolitano/2026/10/01/the-tyranny-of-one-mans-opinion/",
       "source": "Antiwar.com",
       "publishedAt": "2026-10-02T00:00:50Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "‘Bad Boy’ Dennis Rodman joins Trump for red state tour, praised for North Korea knowledge",
-      "url": "https://nypost.com/2026/10/01/us-news/dennis-rodman-joins-trump-for-red-state-tour-praised-for-north-korea-knowledge/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-01T23:05:36Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Flydubai hijacker 'was suicidal' and 'had undergone Islamist radical indoctrination', Benjamin Netanyahu says",
-      "url": "https://www.dailymail.com/news/article-16175891/Flydubai-hijacker-suicidal-undergone-Islamist-radical-indoctrination-Benjamin-Netanyahu-says.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-01T14:55:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iran Undermines United States Economic Warfare in West Asia",
-      "url": "https://www.globalresearch.ca/iran-undermines-united-states-economic-warfare-west-asia/5942278",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-10-01T14:03:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump unveils South Korean investment in US energy projects",
-      "url": "https://www.dw.com/en/trump-south-korea-korean-investment-lng-alaska/a-79502998",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-01T13:25:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "U.A.E. announces investigation into FlyDubai stabbing",
-      "url": "https://www.cbc.ca/news/world/flydubai-investigations-pilot-stabbing-9.7364851",
-      "source": "CBC News",
-      "publishedAt": "2026-10-01T12:09:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.A.E. announces investigation into FlyDubai incident",
-      "url": "https://www.cbc.ca/news/world/flydubai-investigations-pilot-hero-9.7364851",
-      "source": "CBC News",
-      "publishedAt": "2026-10-01T12:09:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel Vows To Get To 'Root' Of Flydubai Attack",
-      "url": "https://www.huffpost.com/entry/israel-flydubai-attack-investigation_n_6abe2d4ce4b0ecc03a1f099d",
-      "source": "HuffPost",
-      "publishedAt": "2026-10-01T10:05:22Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "DMZ mine blasts ignite new crisis: North Korea denies responsibility as tensions surge on Korean border",
-      "url": "https://www.naturalnews.com/2026-10-01-dmz-mine-blasts-north-korea-denies-responsibility.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-10-01T06:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

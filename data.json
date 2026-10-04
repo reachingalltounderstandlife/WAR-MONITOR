@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-04T11:48:18Z",
-  "count": 30,
+  "updated": "2026-10-04T16:27:54Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "North Korea Says It Test-Fired an Intermediate-Range Missile as Tensions Grow Over Mine Blasts",
+      "url": "https://military.com/north-korea-test-fired-intermediate-range-missile-tensions-grow-over-mine-blasts",
+      "source": "Military.com",
+      "publishedAt": "2026-10-03T16:16:42Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
+      "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-03T13:00:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Latvians vote in election in shadow of drone incursions and war in Ukraine",
       "url": "https://www.irishtimes.com/world/europe/2026/10/03/latvians-vote-in-election-in-shadow-of-drone-incursions-and-war-in-ukraine/",
@@ -95,14 +111,6 @@
       "url": "https://timesofindia.indiatimes.com/city/noida/came-to-stay-at-airbnb-28-year-old-man-dies-by-suicide-after-jumping-from-41st-floor-of-noidas-spyra-building/articleshow/134654999.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-03T08:15:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "A signal from beyond: Astronomers detect radio waves from a planet 63 light-years away",
-      "url": "https://timesofindia.indiatimes.com/science/a-signal-from-beyond-astronomers-detect-radio-waves-from-a-planet-63-light-years-away/articleshow/134654964.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-03T08:12:24Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

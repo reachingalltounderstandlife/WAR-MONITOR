@@ -1,7 +1,71 @@
 {
-  "updated": "2026-10-05T13:39:03Z",
-  "count": 26,
+  "updated": "2026-10-05T23:45:24Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "US withdraws bombers from RAF Fairford after suspected terror plot",
+      "url": "https://www.irishtimes.com/world/uk/2026/10/04/us-withdraws-bombers-from-raf-fairford-after-suspected-terror-plot/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-10-04T22:27:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea missile could put Guam in range as Kim rebuffs Trump outreach: expert",
+      "url": "https://www.foxnews.com/world/north-korea-missile-could-put-guam-range-kim-rebuffs-trump-outreach-expert",
+      "source": "Fox News",
+      "publishedAt": "2026-10-04T21:08:50Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran is going after America's debt it's targeting the $40T America owes",
+      "url": "https://jaymartin.substack.com/p/iran-is-going-after-americas-debt",
+      "source": "Substack.com",
+      "publishedAt": "2026-10-04T20:42:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Don’t put Donald Trump and Kim Jong Un in a room together",
+      "url": "https://www.nrc.nl/nieuws/2026/10/04/dont-put-donald-trump-and-kim-jong-un-in-a-room-together-a4938051",
+      "source": "Www.nrc.nl",
+      "publishedAt": "2026-10-04T20:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The Flydubai thriller: new war scenarios in the wake of the flight of terror, and the implications for the Israeli and US ballots",
+      "url": "https://en.protothema.gr/2026/10/04/the-flydubai-thriller-new-war-scenarios-in-the-wake-of-the-flight-of-terror-and-the-implications-for-the-israeli-and-us-ballots/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-10-04T18:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Key Biden aide recalls \"draconian measures\" being considered against Israel",
+      "url": "https://www.cbsnews.com/news/brett-mcgurk-biden-israel-hamas-iran-brink/",
+      "source": "CBS News",
+      "publishedAt": "2026-10-04T16:25:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin launches strikes on Kyiv while German Chancellor Merz visits Ukrainian capital in show of support for Zelensky",
+      "url": "https://www.dailymail.com/news/article-16182113/Putin-launches-strikes-Kyiv-German-Chancellor-Merz-visits-Ukrainian-capital-support-Zelensky.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-04T15:17:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Transcript: Brett McGurk on \"Face the Nation with Margaret Brennan,\" Oct. 4, 2026",
+      "url": "https://www.cbsnews.com/news/brett-mcgurk-face-the-nation-transcript-10-04-2026/",
+      "source": "CBS News",
+      "publishedAt": "2026-10-04T15:16:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "‘Russia is not our enemy’: Hundreds rally in Paris against Ukraine aid (VIDEO)",
       "url": "https://www.rt.com/news/646699-france-ukraine-aid-frexit-rally/",
@@ -91,14 +155,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "U hosts Gulf States Forum offering insight into geopolitics and diplomacy",
-      "url": "https://dailyutahchronicle.com/2026/10/03/u-hosts-gulf-states-forum-offering-insight-into-geopolitics-and-diplomacy/",
-      "source": "Dailyutahchronicle.com",
-      "publishedAt": "2026-10-04T03:23:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Post 9/11 Era: 25 Years of Revisionist History and Imperial Terrorism",
       "url": "https://activistpost.com/the-post-9-11-era-25-years-of-revisionist-history-and-imperial-terrorism/",
       "source": "Activistpost.com",
@@ -113,14 +169,6 @@
       "publishedAt": "2026-10-03T16:16:42Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
-      "url": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-03T13:00:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Latvians vote in election in shadow of drone incursions and war in Ukraine",
@@ -139,42 +187,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Retired DGP R Sreelekha resigns as Thiruvananthapuram councillor; BJP loses majority in corporation",
-      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/retired-dgp-r-sreelekha-resigns-as-thiruvananthapuram-councillor-bjp-loses-majority-in-corporation/articleshow/134655688.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-03T09:00:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'No evidence of fracture': Suvendu Adhikari says Bengal govt to probe Mamata Banerjee's 2021 'injury'",
-      "url": "https://timesofindia.indiatimes.com/india/no-evidence-of-fracture-suvendu-adhikari-says-bengal-govt-to-probe-mamata-banerjees-2021-injury/articleshow/134655269.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-03T08:44:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'No evidence of fracture': Bengal govt to probe Mamata Banerjee's 2021 'injury'",
-      "url": "https://timesofindia.indiatimes.com/india/no-evidence-of-fracture-bengal-govt-to-probe-mamata-banerjees-2021-injury/articleshow/134655269.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-03T08:43:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Latvians vote in election in shadow of drone incursions",
       "url": "https://www.rte.ie/news/world/2026/1003/1593873-latvia-election/",
       "source": "RTE",
       "publishedAt": "2026-10-03T08:26:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "'Russia Is Behaving Like A Rogue State': Historian Margaret MacMillan On The Risk Of A Wider Global Conflict",
-      "url": "https://www.rferl.org/a/margaret-macmillan-russia-ukraine-global-conflict/33869360.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-10-03T07:45:52Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

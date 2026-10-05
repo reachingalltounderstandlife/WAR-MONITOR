@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-04T20:52:52Z",
-  "count": 31,
+  "updated": "2026-10-05T04:09:23Z",
+  "count": 21,
   "articles": [
+    {
+      "title": "U hosts Gulf States Forum offering insight into geopolitics and diplomacy",
+      "url": "https://dailyutahchronicle.com/2026/10/03/u-hosts-gulf-states-forum-offering-insight-into-geopolitics-and-diplomacy/",
+      "source": "Dailyutahchronicle.com",
+      "publishedAt": "2026-10-04T03:23:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Post 9/11 Era: 25 Years of Revisionist History and Imperial Terrorism",
+      "url": "https://activistpost.com/the-post-9-11-era-25-years-of-revisionist-history-and-imperial-terrorism/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-10-04T01:02:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "North Korea Says It Test-Fired an Intermediate-Range Missile as Tensions Grow Over Mine Blasts",
       "url": "https://military.com/north-korea-test-fired-intermediate-range-missile-tensions-grow-over-mine-blasts",
@@ -107,14 +123,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "'Came to stay at Airbnb': 28-year-old man dies by suicide after jumping from 41st floor of Noida's Spyra Building",
-      "url": "https://timesofindia.indiatimes.com/city/noida/came-to-stay-at-airbnb-28-year-old-man-dies-by-suicide-after-jumping-from-41st-floor-of-noidas-spyra-building/articleshow/134654999.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-03T08:15:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "'Russia Is Behaving Like A Rogue State': Historian Margaret MacMillan On The Risk Of A Wider Global Conflict",
       "url": "https://www.rferl.org/a/margaret-macmillan-russia-ukraine-global-conflict/33869360.html",
       "source": "Radio Free Europe/ Radio Liberty",
@@ -161,94 +169,6 @@
       "publishedAt": "2026-10-03T01:12:56Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "As Russia Tests Western Alliance, US Lawmakers Push ‘NATO Shield’ Bill",
-      "url": "https://www.rferl.org/a/russia-tests-nato-us-bill/33869367.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-10-02T23:13:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "North Korea fires ballistic missile into sea, Seoul says",
-      "url": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-02T22:06:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Ukraine drone chief targeted by $20 million Russian bounty warns 'humanity is losing control' as AI becomes a 'digital panopticon'",
-      "url": "https://www.techradar.com/pro/ukraine-drone-chief-targeted-by-usd20-million-russian-bounty-warns-humanity-is-losing-control-as-ai-becomes-a-digital-panopticon",
-      "source": "TechRadar",
-      "publishedAt": "2026-10-02T21:10:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UK plays the blame game, terror in the skies, Russia’s red lines: RT stories that shaped the week",
-      "url": "https://www.rt.com/news/646650-rt-top-stories-lavrov-putin/",
-      "source": "RT",
-      "publishedAt": "2026-10-02T21:00:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Life on the edge of Israel’s occupation in southern Lebanon",
-      "url": "https://mondoweiss.net/2026/10/life-on-the-edge-of-israels-occupation-in-southern-lebanon/",
-      "source": "Mondoweiss",
-      "publishedAt": "2026-10-02T19:06:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump's 'excursion into hell' commentary may come back to bite",
-      "url": "https://www.abc.net.au/news/2026-10-03/global-excursion-into-hell-bigger-expensive-iraq/107220592",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-10-02T18:30:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Saudis Plan Assault on Houthis to Break Red Sea Chokehold",
-      "url": "https://gcaptain.com/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-10-02T17:07:10Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli officials to question co-pilot of flydubai flight, source says",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/israeli-officials-to-question-co-pilot-of-flydubai-flight-source-says/articleshow/134641975.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-02T14:36:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Taiwan’s New F-16s: Why They Still Matter",
-      "url": "https://thediplomat.com/2026/10/taiwans-new-f-16s-why-they-still-matter/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-10-02T13:10:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Chances of Chinese Attack on Taiwan in the Near Term Seem to Be Diminishing",
-      "url": "https://freerepublic.com/focus/f-news/4397632/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-10-02T04:19:01Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "The Tyranny of One Man’s Opinion",
-      "url": "https://original.antiwar.com/andrew-p-napolitano/2026/10/01/the-tyranny-of-one-mans-opinion/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-10-02T00:00:50Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

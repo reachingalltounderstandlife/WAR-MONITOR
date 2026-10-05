@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-05T04:09:23Z",
-  "count": 21,
+  "updated": "2026-10-05T13:39:03Z",
+  "count": 26,
   "articles": [
+    {
+      "title": "‘Russia is not our enemy’: Hundreds rally in Paris against Ukraine aid (VIDEO)",
+      "url": "https://www.rt.com/news/646699-france-ukraine-aid-frexit-rally/",
+      "source": "RT",
+      "publishedAt": "2026-10-04T12:39:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran says Hormuz to remain closed until US meets conditions",
+      "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-04T11:11:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 10/4/2026",
+      "url": "https://www.nakedcapitalism.com/2026/10/links-10-4-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-04T10:58:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran War: Team Trump at Camp David, Iran Flexes, Riyadh Burns",
+      "url": "https://www.nakedcapitalism.com/2026/10/iran-war-trump-camp-david-iran-missile-test-ansar-allah-riyadh-hit.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-04T10:07:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran FM rejects military solution to conflict with US",
+      "url": "https://www.hurriyetdailynews.com/iran-fm-rejects-military-solution-to-conflict-with-us-227682",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-10-04T09:16:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Germany's Merz visits Kyiv as Russia strikes bridge",
+      "url": "https://www.dw.com/en/germanys-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-04T08:13:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Latvian PM on track to lead pro-Ukraine coalition after election win",
+      "url": "https://www.irishtimes.com/world/europe/2026/10/04/latvian-pm-on-track-to-lead-pro-ukraine-coalition-after-election-win/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-10-04T08:03:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What a US-China thaw could cost India",
+      "url": "https://www.rt.com/india/646677-india-weighs-what-us-china-summit/",
+      "source": "RT",
+      "publishedAt": "2026-10-04T06:47:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S. Deploys Additional Patriot Missiles to Saudi Arabia, Qatar as Trump Weighs Renewed Iran Attacks: Report",
+      "url": "https://www.naturalnews.com/2026-10-04-us-deploys-missiles-to-saudi-arabia-qatar.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-04T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Praises Ties With Nuclear-Armed DPRK While Ruling out Nukes for Iran",
+      "url": "https://sputnikglobe.com/20261004/trump-praises-ties-with-nuclear-armed-dprk-while-ruling-out-nukes-for-iran-1124831205.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-10-04T04:46:43Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Kim Jong-un Oversees 1,000-km Hypersonic Missile Drill",
+      "url": "https://sputnikglobe.com/20261004/kim-jong-un-oversees-1000-km-hypersonic-missile-drill-1124830910.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-10-04T04:42:17Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "U hosts Gulf States Forum offering insight into geopolitics and diplomacy",
       "url": "https://dailyutahchronicle.com/2026/10/03/u-hosts-gulf-states-forum-offering-insight-into-geopolitics-and-diplomacy/",
@@ -75,52 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Third Asian Para Throwball Championship trophy unveiled; tournament from March 17-19 at Singhania University campus in Pacheri, Jhunjhunu",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/third-asian-para-throwball-championship-trophy-unveiled-tournament-from-march-17-19-at-singhania-university-campus-in-pacheri-jhunjhunu/articleshow/134655439.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-03T08:32:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Latvians vote in election in shadow of drone incursions",
       "url": "https://www.rte.ie/news/world/2026/1003/1593873-latvia-election/",
       "source": "RTE",
       "publishedAt": "2026-10-03T08:26:05Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "In 2011, Judy Garland's former Bel-Air home sold for $5.2 million; after successive renovations, the 1938 house on nearly 2.7 acres changed hands again for $11.1 million in July 2024",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2011-judy-garlands-former-bel-air-home-sold-for-5-2-million-after-successive-renovations-the-1938-house-on-nearly-2-7-acres-changed-hands-again-for-11-1-million-in-july-2024/articleshow/134654957.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-03T08:21:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "In 1945, a British submarine sank Nazi U-864 off Norway; 81 years later, authorities recovered 22 mercury containers from a wreck believed to have carried as much as 67 tons of mercury",
-      "url": "https://timesofindia.indiatimes.com/world/europe/in-1945-a-british-submarine-sank-nazi-u-864-off-norway-81-years-later-authorities-recovered-22-mercury-containers-from-a-wreck-believed-to-have-carried-as-much-as-67-tons-of-mercury/articleshow/134636278.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-03T08:21:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "A Florida owner planned 52 ten-acre homesites across his 625-acre cattle ranch if the county would not buy it; after two years of talks, officials agreed to pay $7.8 million and stop the development",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-florida-owner-planned-52-ten-acre-homesites-across-his-625-acre-cattle-ranch-if-the-county-would-not-buy-it-after-two-years-of-talks-officials-agreed-to-pay-7-8-million-and-stop-the-development/articleshow/134654660.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-03T08:20:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "GATE 2027 registration closing on Octover 5 at gate2027.iitm.ac.in: Check eligibility criteria, eligibility criteria, direct link to apply here",
-      "url": "https://timesofindia.indiatimes.com/education/news/gate-2027-registration-closing-on-oct-5-at-gate2027-iitm-ac-in-check-eligibility-criteria-eligibility-criteria-direct-link-to-apply-here/articleshow/134654985.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-03T08:15:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "'Russia Is Behaving Like A Rogue State': Historian Margaret MacMillan On The Risk Of A Wider Global Conflict",
@@ -137,14 +185,6 @@
       "publishedAt": "2026-10-03T06:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "When All Else Fails, Start a War: Europe’s Descent From Net Zero Folly to Military Mobilization",
-      "url": "https://wattsupwiththat.com/2026/10/02/when-all-else-fails-start-a-war-europes-descent-from-net-zero-folly-to-military-mobilization/",
-      "source": "Wattsupwiththat.com",
-      "publishedAt": "2026-10-03T05:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Saudi Arabia plans assault on Houthis to break Red Sea chokehold",

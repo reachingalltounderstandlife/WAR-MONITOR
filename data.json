@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-05T23:45:24Z",
-  "count": 28,
+  "updated": "2026-10-06T04:58:09Z",
+  "count": 22,
   "articles": [
+    {
+      "title": "Rubio Heads To NATO Allies As Russian Threat, Middle East War Shape Agenda",
+      "url": "https://www.rferl.org/a/rubio-russia-nato-iceland/33870383.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-10-05T02:18:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Cold War Era: We Loved the “Communist Russians”. Now Western Governments Hate “The Russians”. Why?",
+      "url": "https://www.globalresearch.ca/cold-war-era-we-loved-the-communist-russians-now-we-hate-the-russians-why/5942566",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-10-05T00:44:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "US withdraws bombers from RAF Fairford after suspected terror plot",
       "url": "https://www.irishtimes.com/world/uk/2026/10/04/us-withdraws-bombers-from-raf-fairford-after-suspected-terror-plot/",
@@ -161,70 +177,6 @@
       "publishedAt": "2026-10-04T01:02:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "North Korea Says It Test-Fired an Intermediate-Range Missile as Tensions Grow Over Mine Blasts",
-      "url": "https://military.com/north-korea-test-fired-intermediate-range-missile-tensions-grow-over-mine-blasts",
-      "source": "Military.com",
-      "publishedAt": "2026-10-03T16:16:42Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Latvians vote in election in shadow of drone incursions and war in Ukraine",
-      "url": "https://www.irishtimes.com/world/europe/2026/10/03/latvians-vote-in-election-in-shadow-of-drone-incursions-and-war-in-ukraine/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-10-03T11:38:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Daniel Ellsberg’s Stories of Courage and Foreboding",
-      "url": "https://www.motherjones.com/politics/2026/10/daniel-ellsberg-obituary-book-truth-consequence-media-independence-whistleblowers-pentagon-papers-nuclear-weapons-secrets/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-10-03T11:30:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Latvians vote in election in shadow of drone incursions",
-      "url": "https://www.rte.ie/news/world/2026/1003/1593873-latvia-election/",
-      "source": "RTE",
-      "publishedAt": "2026-10-03T08:26:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Report: Secret Meeting of Hezbollah, Syrian Officials Held in Turkey",
-      "url": "https://www.naturalnews.com/2026-10-03-report-meeting-hezbollah-syrian-officials-in-turkey.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-10-03T06:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Saudi Arabia plans assault on Houthis to break Red Sea chokehold",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-plans-assault-on-houthis-to-break-red-sea-chokehold/articleshow/134651063.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-03T02:53:13Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea test-fires missiles amid tensions over blasts across the border",
-      "url": "https://nypost.com/2026/10/02/world-news/north-korea-test-fires-missiles-amid-tensions-over-blasts-across-the-border/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-03T01:28:48Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea test-fires ballistic missile as tensions grow over border mine blasts",
-      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-test-fires-ballistic-missile-as-tensions-grow-over-border-mine-blasts/articleshow/134650336.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-03T01:12:56Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

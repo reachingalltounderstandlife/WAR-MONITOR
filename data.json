@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-06T22:20:58Z",
-  "count": 25,
+  "updated": "2026-10-07T04:24:58Z",
+  "count": 17,
   "articles": [
+    {
+      "title": "Why America's Gulf Allies Are Rethinking Aid - And Why It Matters",
+      "url": "https://www.hoover.org/research/why-americas-gulf-allies-are-rethinking-aid-and-why-it-matters",
+      "source": "Hoover.org",
+      "publishedAt": "2026-10-06T00:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "AI Made the List—but Humans Still Did the Killing",
       "url": "http://foreignpolicy.com/2026/10/05/israel-gaza-palestine-ai-war-naza-civilians/",
@@ -129,78 +137,6 @@
       "publishedAt": "2026-10-05T09:38:26Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "NATO builds a drone and AI plan to blunt a Russian attack fast",
-      "url": "https://cryptobriefing.com/nato-drones-ai-russia-defense-plan/",
-      "source": "Crypto Briefing",
-      "publishedAt": "2026-10-05T08:18:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US withdraws bombers from RAF Fairford after suspected terror plot",
-      "url": "https://www.irishtimes.com/world/uk/2026/10/04/us-withdraws-bombers-from-raf-fairford-after-suspected-terror-plot/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-10-04T22:27:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "North Korea missile could put Guam in range as Kim rebuffs Trump outreach: expert",
-      "url": "https://www.foxnews.com/world/north-korea-missile-could-put-guam-range-kim-rebuffs-trump-outreach-expert",
-      "source": "Fox News",
-      "publishedAt": "2026-10-04T21:08:50Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iran is going after America's debt it's targeting the $40T America owes",
-      "url": "https://jaymartin.substack.com/p/iran-is-going-after-americas-debt",
-      "source": "Substack.com",
-      "publishedAt": "2026-10-04T20:42:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Don’t put Donald Trump and Kim Jong Un in a room together",
-      "url": "https://www.nrc.nl/nieuws/2026/10/04/dont-put-donald-trump-and-kim-jong-un-in-a-room-together-a4938051",
-      "source": "Www.nrc.nl",
-      "publishedAt": "2026-10-04T20:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The Flydubai thriller: new war scenarios in the wake of the flight of terror, and the implications for the Israeli and US ballots",
-      "url": "https://en.protothema.gr/2026/10/04/the-flydubai-thriller-new-war-scenarios-in-the-wake-of-the-flight-of-terror-and-the-implications-for-the-israeli-and-us-ballots/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-10-04T18:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Transcript: Brett McGurk on \"Face the Nation with Margaret Brennan,\" Oct. 4, 2026",
-      "url": "https://www.cbsnews.com/news/brett-mcgurk-face-the-nation-transcript-10-04-2026/",
-      "source": "CBS News",
-      "publishedAt": "2026-10-04T15:16:20Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Praises Ties With Nuclear-Armed DPRK While Ruling out Nukes for Iran",
-      "url": "https://sputnikglobe.com/20261004/trump-praises-ties-with-nuclear-armed-dprk-while-ruling-out-nukes-for-iran-1124831205.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-10-04T04:46:43Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim Jong-un Oversees 1,000-km Hypersonic Missile Drill",
-      "url": "https://sputnikglobe.com/20261004/kim-jong-un-oversees-1000-km-hypersonic-missile-drill-1124830910.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-10-04T04:42:17Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

@@ -1,7 +1,111 @@
 {
-  "updated": "2026-10-07T04:24:58Z",
-  "count": 17,
+  "updated": "2026-10-07T12:40:45Z",
+  "count": 20,
   "articles": [
+    {
+      "title": "Police arrest 22-year-old British man on suspicion of terror offences over alleged RAF Fairford plot",
+      "url": "https://www.dailymail.com/news/article-16186951/Police-arrest-22-year-old-British-man-suspicion-terror-offences-alleged-RAF-Fairford-plot.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-06T12:31:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine's Possible Admission to NATO Not on Agenda - Rubio",
+      "url": "https://sputnikglobe.com/20261006/ukraines-possible-admission-to-nato-not-on-agenda---rubio-1124843231.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-10-06T12:18:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Crew of ship missing after drone attacks on 2 commercial vessels in Black Sea near Bulgaria",
+      "url": "https://www.cbc.ca/news/world/bulgaria-black-sea-drone-attacks-reported-9.7370638",
+      "source": "CBC News",
+      "publishedAt": "2026-10-06T11:55:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How Palestinian reporters defied Israel’s genocide to redefine journalism",
+      "url": "https://www.aljazeera.com/news/2026/10/6/how-palestinian-reporters-defied-israels-genocide-to-redefine-journalism",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-06T11:47:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia’s drones are getting faster and deadlier. The West is racing to catch up.",
+      "url": "https://www.businessinsider.com/russian-drones-faster-deadlier-west-racing-catch-up-with-interceptors-2026-10#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-06T11:07:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Wider Europe Briefing: The New EU Enlargement Strategy",
+      "url": "https://www.rferl.org/a/wider-europe-briefing-the-new-eu-enlargement-strategy/33871257.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-10-06T10:01:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "It’s Time to Bring Back Congress’s Nerd Squad",
+      "url": "https://newrepublic.com/article/215564/bring-back-office-technology-assessment",
+      "source": "The New Republic",
+      "publishedAt": "2026-10-06T10:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Germany faces a triple threat from Russia, China and domestic far-right extremists",
+      "url": "https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-06T09:41:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "South Korea considers steps to force North Korea apology for DMZ mine blast",
+      "url": "https://www.aljazeera.com/news/2026/10/6/south-korea-considers-steps-to-force-north-korea-apology-for-dmz-mine-blast",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-06T08:58:36Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Kemi Badenoch blames US Fairford bomber pullout on UK's lack of missile and drone defences as she vows to spend £10bn on 'Britannia Shield'",
+      "url": "https://www.dailymail.com/news/article-16186345/Kemi-Badenoch-US-Fairford-UK-missile-drone-defences-Britannia-Shield.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-06T08:53:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Saudi-backed forces 'run over surrendering Houthi rebels using armoured vehicles' as battle rages over Red Sea shipping route",
+      "url": "https://www.dailymail.com/news/article-16186083/Saudi-backed-forces-drive-surrendering-Houthi-rebels.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-06T08:34:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian agents 'defecated in Finnish politicians' toilets after breaking into their homes in bizarre new hybrid war'",
+      "url": "https://www.dailymail.com/news/article-16186187/Russian-agents-defecated-Finnish-politicians-toilets-new-hybrid-war.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-06T07:59:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran Faces Severe Challenges to Rebuild Missile and Drone Production",
+      "url": "https://warontherocks.com/iran-faces-severe-challenges-to-rebuild-missile-and-drone-production/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-10-06T07:30:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Why America's Gulf Allies Are Rethinking Aid - And Why It Matters",
       "url": "https://www.hoover.org/research/why-americas-gulf-allies-are-rethinking-aid-and-why-it-matters",
@@ -35,60 +139,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "President Kennedy: MAD & the lessons of Berlin and Cuba",
-      "url": "https://www.wnd.com/2026/10/president-kennedy-mad-lessons-berlin-cuba/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-10-05T17:45:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Dark clouds ahead: Energy outlooks for winter",
-      "url": "https://www.iss.europa.eu/publications/commentary/dark-clouds-ahead-energy-outlooks-winter",
-      "source": "Europa.eu",
-      "publishedAt": "2026-10-05T15:05:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Donroe Trump’s 10-Day Immoral Crescendo",
-      "url": "https://www.globalresearch.ca/donroe-trump-10-day-immoral-crescendo/5942670",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-10-05T14:07:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "German spy chief warns of escalation in Russia's 'shadow war'",
-      "url": "https://www.thelocal.de/20261005/german-spy-chief-warns-of-escalation-in-russias-shadow-war",
-      "source": "The Local Germany",
-      "publishedAt": "2026-10-05T14:06:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "'Don't You Have A Smart TV?': Iranian General's Smartwatch Defense Fuels Security Concerns",
       "url": "https://www.rferl.org/a/iran-smartwatch-gholamreza-jalali-criticism-security/33870633.html",
       "source": "Radio Free Europe/ Radio Liberty",
       "publishedAt": "2026-10-05T14:06:14Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Rubio Opens 4-Day NATO Tour in Iceland to Discuss Arctic Security",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Rubio-Opens-4-Day-NATO-Tour-in-Iceland-to-Discuss-Arctic-Security.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-10-05T14:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Germany facing potential ‘violent conflict’ with Russia – spy chief",
-      "url": "https://www.rt.com/news/646748-germany-conflict-russia-intelligence/",
-      "source": "RT",
-      "publishedAt": "2026-10-05T12:51:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Downing Street insists RAF Fairford is safe despite the US withdrawing its bombers over security concerns following 'terror plot' arrests",
@@ -103,38 +159,6 @@
       "url": "https://www.dailymail.com/news/article-16183767/Saudi-oil-boss-stockpiles-low-chaos-Middle-East.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-10-05T12:13:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "After 47 years of confronting Iran, does America have a strategy for ending this war?",
-      "url": "https://www.foxnews.com/opinion/after-47-years-confronting-iran-does-america-have-strategy-ending-war",
-      "source": "Fox News",
-      "publishedAt": "2026-10-05T11:00:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Germany is at risk of being drawn into violent conflict with Russia due to Putin's hybrid 'shadow war', Berlin's intelligence chief warns",
-      "url": "https://www.dailymail.com/news/article-16183727/Germany-Berlin-hybrid-war-Russia-Putin.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-05T10:50:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Scandal Behind the Scandal: US Ambassador to Greece Issues Coup Threats but EU Elite Embrace It",
-      "url": "https://www.nakedcapitalism.com/2026/10/the-scandal-behind-the-scandal-us-ambassador-to-greece-issues-coup-threats-but-eu-elite-embrace-it.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-05T10:00:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Yemen war: What’s the latest, as government forces claim advances?",
-      "url": "https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-05T09:38:26Z",
       "_cat": "iran",
       "_label": "Iran War"
     }

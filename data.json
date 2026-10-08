@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-07T22:44:05Z",
+  "updated": "2026-10-08T04:36:12Z",
   "count": 21,
   "articles": [
+    {
+      "title": "The Race to an AI Apocalypse: How an Obsession with Autonomous Weapons Ignores Decades of Warnings",
+      "url": "https://www.juancole.com/2026/10/apocalypse-obsession-autonomous.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-10-07T04:15:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israelis mark 3 years since Oct. 7 attack as Palestinians struggle amid Gaza’s ruins",
+      "url": "https://www.yahoo.com/news/us/articles/israelis-mourn-anniversary-oct-7-040304806.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-07T04:03:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Drone strike sinks ship in NATO waters as Zelenskyy warns of looming ‘massive strike’",
+      "url": "https://www.foxnews.com/world/drone-strike-sinks-ship-nato-waters-zelenskyy-warns-looming-massive-strike",
+      "source": "Fox News",
+      "publishedAt": "2026-10-06T23:42:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Trump says Iran could ‘take out’ LA. Its missiles can’t reach that far.",
       "url": "https://www.businessinsider.com/iran-los-angeles-san-diego-nuclear-weapon-strike-trump-2026-10#article",
@@ -99,14 +123,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Why Might Putin Finally Decide To Bring Ukraine To Its Knees After Nearly Five Years?",
-      "url": "https://freerepublic.com/focus/f-news/4398131/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-10-06T13:44:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Police arrest 22-year-old British man on suspicion of terror offences over alleged RAF Fairford plot",
       "url": "https://www.dailymail.com/news/article-16186951/Police-arrest-22-year-old-British-man-suspicion-terror-offences-alleged-RAF-Fairford-plot.html",
       "source": "Dailymail.com",
@@ -151,22 +167,6 @@
       "url": "https://warontherocks.com/iran-faces-severe-challenges-to-rebuild-missile-and-drone-production/",
       "source": "War on the Rocks",
       "publishedAt": "2026-10-06T07:30:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why America's Gulf Allies Are Rethinking Aid - And Why It Matters",
-      "url": "https://www.hoover.org/research/why-americas-gulf-allies-are-rethinking-aid-and-why-it-matters",
-      "source": "Hoover.org",
-      "publishedAt": "2026-10-06T00:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "AI Made the List—but Humans Still Did the Killing",
-      "url": "http://foreignpolicy.com/2026/10/05/israel-gaza-palestine-ai-war-naza-civilians/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-10-05T21:08:51Z",
       "_cat": "iran",
       "_label": "Iran War"
     }

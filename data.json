@@ -1,7 +1,87 @@
 {
-  "updated": "2026-10-09T04:39:25Z",
-  "count": 28,
+  "updated": "2026-10-09T12:35:54Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "South Korea test-flies its first domestically developed hypersonic weapon",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
+      "source": "NPR",
+      "publishedAt": "2026-10-08T12:01:34Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?",
+      "url": "https://www.aljazeera.com/news/2026/10/8/india-to-turkiye-can-new-proposals-to-broker-russia-ukraine-truce-succeed",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-08T11:45:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
+      "url": "https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europes-defense-against-threats-from-russia/a-79592663",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-08T11:45:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "More Drones, More Missiles, No Air Defenses: Moldova In The Cross Fire Of Russia's War On Ukraine",
+      "url": "https://www.rferl.org/a/moldova-russia-ukraine-war-drones-missiles-cross-fire-/33872784.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-10-08T11:35:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "South Korea test-flies its first domestically developed hypersonic weapon",
+      "url": "https://economictimes.indiatimes.com/news/defence/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon/articleshow/134789027.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-08T11:31:12Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "South Korea test-flies its first domestically developed hypersonic weapon",
+      "url": "https://abcnews.com/International/wireStory/south-korea-test-flies-domestically-developed-hypersonic-weapon-137090542",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-10-08T11:27:18Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+      "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+      "source": "NPR",
+      "publishedAt": "2026-10-08T11:25:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran War: Iran Ups the Ante in the Gulf, Ansar Allah Blasts Saudi Airports, Trump Threats",
+      "url": "https://www.nakedcapitalism.com/2026/10/iran-war-persian-gulf-tanker-attacks-yemen-saudi-airports-trump-escalation.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-08T10:00:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "American Alliances Can Outlast Trump. But They Might Not Survive What Comes After Him.",
+      "url": "https://slate.com/news-and-politics/2026/10/trump-nato-allies-biden-china.html",
+      "source": "Slate Magazine",
+      "publishedAt": "2026-10-08T09:35:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Crude Awakening",
+      "url": "https://prospect.org/2026/10/08/crude-awakening-alejandro-betancourt-venezuela-oil/",
+      "source": "The American Prospect",
+      "publishedAt": "2026-10-08T09:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Report: Pentagon orders preparations for renewed war with Iran",
       "url": "https://www.israelnationalnews.com/news/434281",
@@ -87,8 +167,8 @@
       "url": "https://www.vox.com/today-explained-newsletter/505337/october-7-attack-anniversary",
       "source": "Vox",
       "publishedAt": "2026-10-07T21:31:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israelis Mourn Oct. 7 Attack As Palestinians In Gaza Languish In Ruins Of The War It Sparked",
@@ -107,14 +187,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "[Ilya Somin] Compendium of Writings on the October 7 War and Related Issues",
-      "url": "https://reason.com/volokh/2026/10/07/compendium-of-writings-on-the-october-7-war-and-related-issues/",
-      "source": "Reason",
-      "publishedAt": "2026-10-07T17:51:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Europe is in revolt – its leaders are preparing for war",
       "url": "https://www.rt.com/news/646897-eu-revolt-protest-wave/",
       "source": "RT",
@@ -131,44 +203,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Senators push the Trump administration to act swiftly on Russian sanctions to help Ukraine",
-      "url": "https://abcnews.com/US/wireStory/senators-push-trump-administration-act-swiftly-russian-sanctions-137068915",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-07T16:41:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Six teams to check food adulteration in East Singhbhum",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/six-teams-to-check-food-adulteration-in-east-singhbhum/articleshow/134770305.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-07T16:19:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Tikait calls for statewide stir over land acquisition, compensation",
-      "url": "https://timesofindia.indiatimes.com/city/patna/tikait-calls-for-statewide-stir-over-land-acquisition-compensation/articleshow/134770296.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-07T16:17:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Festive food safety drive stares at resource, manpower shortage",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/festive-food-safety-drive-stares-at-resource-manpower-shortage/articleshow/134770290.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-07T16:16:39Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The Alert Level For The Iranian Military Has Been Raised To The Highest Possible Level As A Massive Escalation Appears To Be Imminent",
       "url": "https://activistpost.com/the-alert-level-for-the-iranian-military-has-been-raised-to-the-highest-possible-level-as-a-massive-escalation-appears-to-be-imminent/",
       "source": "Activistpost.com",
       "publishedAt": "2026-10-07T16:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Three years after October 7: What changed for Israel, the Middle East and Russia?",

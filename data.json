@@ -1,7 +1,183 @@
 {
-  "updated": "2026-10-09T12:35:54Z",
-  "count": 33,
+  "updated": "2026-10-09T22:16:29Z",
+  "count": 37,
   "articles": [
+    {
+      "title": "Iranian operatives used AI to plant fake stories in multiple US media outlets | CNN Politics",
+      "url": "https://www.cnn.com/2026/10/08/politics/iranian-operatives-used-ai-to-plant-fake-stories-in-us-media",
+      "source": "CNN",
+      "publishedAt": "2026-10-08T20:46:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Is Reopening the Middle East’s Deadliest Sectarian Fault Lines",
+      "url": "http://foreignpolicy.com/2026/10/08/iraq-trump-sectarian-war/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-08T20:34:49Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The Next Iran War Is This Iran War",
+      "url": "http://foreignpolicy.com/2026/10/08/next-iran-war-regime-change/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-08T19:57:39Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "‘Secure our security through our own strength’: South Korea tests its first homegrown hypersonic weapon a week after North Korea’s own launch",
+      "url": "https://fortune.com/2026/10/08/south-korea-north-missile-first-hypersonic-weapon/",
+      "source": "Fortune",
+      "publishedAt": "2026-10-08T19:36:21Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "30 Killed in Russian Air Strike on Civilian Bus Stop",
+      "url": "https://www.breitbart.com/europe/2026/10/08/30-killed-in-russian-air-strike-on-civilian-bus-stop/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-10-08T18:16:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Wired for War: The German spymaster caught in Mossad’s web",
+      "url": "https://www.rt.com/news/646944-germany-august-hanning-mossad/",
+      "source": "RT",
+      "publishedAt": "2026-10-08T17:53:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Callous Kallas: The bitter diplomat dragging the EU down the warpath with Russia",
+      "url": "https://www.rt.com/news/646947-callous-kallas-warpath-russia/",
+      "source": "RT",
+      "publishedAt": "2026-10-08T17:53:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "America’s Best Answer to the China-Russia Alliance",
+      "url": "http://foreignpolicy.com/2026/10/08/russia-china-alliance-united-states-xi-putin/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-08T17:13:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US imposes sanctions targeting 17 vessels of Iran 'shadow fleet'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-imposes-sanctions-targeting-17-vessels-of-iran-shadow-fleet/articleshow/134796606.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-08T17:12:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "MEP blasts ‘Euro-Gestapo’ for lecturing Russia on democracy (VIDEO)",
+      "url": "https://www.rt.com/news/646931-mep-blasts-euro-gestapo-democracy-russia/",
+      "source": "RT",
+      "publishedAt": "2026-10-08T16:53:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump rules out Iran strike till 2026 US midterms, vows Tehran will never have a nuclear weapon",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-rules-out-iran-strike-till-2026-us-midterms-vows-tehran-will-never-have-a-nuclear-weapon/articleshow/134795521.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-08T16:25:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "South Korea test-flies its first domestically developed hypersonic weapon",
+      "url": "https://nypost.com/2026/10/08/world-news/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-08T16:12:47Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Rubio Warns Russia's War Could Spill Beyond Ukraine's Borders",
+      "url": "https://www.rferl.org/a/rubio-russia-war-spill-beyond-ukraine-borders/33872989.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-10-08T16:06:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian Strike On Ukrainian Buses Leaves 30 Dead As Blackouts Worsen In Kyiv",
+      "url": "https://www.huffpost.com/entry/russian-strike-ukrainian-buses-30-dead-kyiv_n_6ac7ba01e4b01d1704f7eb5e",
+      "source": "HuffPost",
+      "publishedAt": "2026-10-08T15:53:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Elite Ukrainian 'Night Watch' unit 'intercepts Russian hypersonic missiles using radio signals and diverts them into river'",
+      "url": "https://www.dailymail.com/news/article-16193249/Elite-Ukrainian-Night-Watch-unit-intercepts-Russian-hypersonic-missiles-using-radio-signals-diverts-river.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-08T15:33:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Afghanistan and Yemen: Two Geographies of Resistance Anchored in the Mountains",
+      "url": "https://www.globalresearch.ca/afghanistan-yemen-two-geographies-resistance-anchored-mountains/5943091",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-10-08T14:31:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Turkey Says Russia, Ukraine Increasing Attacks in Black Sea Ahead of Winter",
+      "url": "https://gcaptain.com/turkey-says-russia-ukraine-increasing-attacks-in-black-sea-ahead-of-winter/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-10-08T14:05:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How Drones Went From Tools of the Powerful to Weapons of the Masses",
+      "url": "https://reason.com/2026/10/08/how-drones-went-from-tools-of-the-powerful-to-weapons-of-the-masses/",
+      "source": "Reason",
+      "publishedAt": "2026-10-08T13:45:01Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Iran's Araghchi says Tehran to respond to US peace plan within days as Pentagon prepares fresh strikes",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-araghchi-says-tehran-to-respond-to-us-peace-plan-within-days-as-pentagon-prepares-fresh-strikes/articleshow/134792075.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-08T13:28:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "South Korea Test-Flies Its First Domestically Developed Hypersonic Weapon",
+      "url": "https://military.com/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
+      "source": "Military.com",
+      "publishedAt": "2026-10-08T13:21:46Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Good news for Aussie flyers as official travel warnings eased for the Middle East",
+      "url": "https://www.dailymail.com/news/article-16192845/Australia-Qatar-Dubai-UAE-travel-advice-safe.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-08T13:16:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "81 US aircraft lost in Iran war: Why the MQ-9 Reaper losses could be a bigger warning for America than the billions spent replacing them",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/81-us-aircraft-lost-in-iran-war-why-the-mq-9-reaper-losses-could-be-a-bigger-warning-for-america-than-the-billions-spent-replacing-them/articleshow/134790865.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-08T13:03:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "South Korea test-flies its first domestically developed hypersonic weapon",
       "url": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
@@ -51,116 +227,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
-      "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
-      "source": "NPR",
-      "publishedAt": "2026-10-08T11:25:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran War: Iran Ups the Ante in the Gulf, Ansar Allah Blasts Saudi Airports, Trump Threats",
-      "url": "https://www.nakedcapitalism.com/2026/10/iran-war-persian-gulf-tanker-attacks-yemen-saudi-airports-trump-escalation.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-08T10:00:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "American Alliances Can Outlast Trump. But They Might Not Survive What Comes After Him.",
-      "url": "https://slate.com/news-and-politics/2026/10/trump-nato-allies-biden-china.html",
-      "source": "Slate Magazine",
-      "publishedAt": "2026-10-08T09:35:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Crude Awakening",
-      "url": "https://prospect.org/2026/10/08/crude-awakening-alejandro-betancourt-venezuela-oil/",
-      "source": "The American Prospect",
-      "publishedAt": "2026-10-08T09:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Report: Pentagon orders preparations for renewed war with Iran",
-      "url": "https://www.israelnationalnews.com/news/434281",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-08T04:38:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Geopolitical Earthquake of the Iran War",
       "url": "https://www.juancole.com/2026/10/geopolitical-earthquake-iran.html",
       "source": "Juancole.com",
       "publishedAt": "2026-10-08T04:04:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "German Chancellor Merz Goes to Kiev With Nothing to Offer but His Own Political Survival",
-      "url": "https://www.lewrockwell.com/2026/10/no_author/german-chancellor-merz-goes-to-kiev-with-nothing-to-offer-but-his-own-political-survival/",
-      "source": "Lewrockwell.com",
-      "publishedAt": "2026-10-08T04:01:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europe is playing a high-risk game of chicken with Russia",
-      "url": "https://www.americanthinker.com/blog/2026/10/europe-is-playing-a-high-risk-game-of-chicken-with-russia/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-10-08T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "White House Directs Pentagon to Prepare Options for Strikes on Iran – Reports",
-      "url": "https://sputnikglobe.com/20261008/white-house-directs-pentagon-to-prepare-options-for-strikes-on-iran--reports-1124850042.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-10-08T03:35:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US prepares military for possible new Iran strikes, Trump yet to decide",
-      "url": "https://www.business-standard.com/world-news/us-prepares-military-for-possible-new-iran-strikes-trump-yet-to-decide-126100800105_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-08T03:20:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US puts military in ready mode for possible new strikes on Iran: Report",
-      "url": "https://english.khabarhub.com/2026/08/571149/",
-      "source": "Khabarhub.com",
-      "publishedAt": "2026-10-08T02:13:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US puts military in ready mode for possible new strikes on Iran: Report",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-puts-military-in-ready-mode-for-possible-new-strikes-on-iran-report/articleshow/134777449.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-08T01:30:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump weighs huge strike on Iran to show voters bold display of US power before crucial midterm elections, report says",
-      "url": "https://www.dailymail.com/news/article-16191579/Trump-weighs-huge-strike-Iran-midterms.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-08T00:59:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Putin and Russia are losing — the least desperate move is to accept a truce",
-      "url": "https://nypost.com/2026/10/07/opinion/putins-least-desperate-move-now-is-to-accept-a-truce/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-07T23:20:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "How October 7 changed everything",
@@ -177,30 +249,6 @@
       "publishedAt": "2026-10-07T18:29:10Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "EU’s Continuing Expansion – Greater Threat to Russia",
-      "url": "https://www.globalresearch.ca/eu-continuing-expansion-greater-threat-russia/5943026",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-10-07T18:22:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europe is in revolt – its leaders are preparing for war",
-      "url": "https://www.rt.com/news/646897-eu-revolt-protest-wave/",
-      "source": "RT",
-      "publishedAt": "2026-10-07T17:47:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Rubio calls for \"unapologetic pursuit of national power\" in Acropolis speech",
-      "url": "https://www.cbsnews.com/news/rubio-athens-acropolis-speech/",
-      "source": "CBS News",
-      "publishedAt": "2026-10-07T17:20:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "The Alert Level For The Iranian Military Has Been Raised To The Highest Possible Level As A Massive Escalation Appears To Be Imminent",
@@ -247,22 +295,6 @@
       "url": "https://www.npr.org/2026/10/07/nx-s1-5993459/israelis-oct-7-palestinians-war",
       "source": "NPR",
       "publishedAt": "2026-10-07T06:02:57Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Three years since October 7: The day that changed Israel, the Middle East and the world",
-      "url": "https://en.protothema.gr/2026/10/07/three-years-since-october-7-the-day-that-changed-israel-the-middle-east-and-the-world/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-10-07T05:52:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israelis mourn Oct 7 attack as Palestinians grapple with war it sparked",
-      "url": "https://www.business-standard.com/world-news/israelis-mourn-oct-7-attack-as-palestinians-grapple-with-war-it-sparked-126100700183_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-07T04:56:20Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

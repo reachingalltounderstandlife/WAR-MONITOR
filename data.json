@@ -1,7 +1,87 @@
 {
-  "updated": "2026-10-10T11:56:14Z",
-  "count": 30,
+  "updated": "2026-10-10T17:04:15Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Why Kim Jong Un Should Want a 4th Summit With Donald Trump",
+      "url": "https://thediplomat.com/2026/10/why-kim-jong-un-should-want-a-4th-summit-with-donald-trump/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-10-09T15:06:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "3 killed in Russian strikes across Ukraine as Kyiv struggles to counter escalating attacks",
+      "url": "https://nypost.com/2026/10/09/world-news/3-killed-in-russian-strikes-across-ukraine-as-kyiv-struggles-to-counter-escalating-attacks/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-09T15:04:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO – A Globalized Military Network",
+      "url": "https://www.globalresearch.ca/nato-globalized-military-network/5943232",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-10-09T14:41:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran struck tanker transiting Hormuz via 'illegal route'",
+      "url": "https://www.rte.ie/news/middle-east/2026/1009/1594747-middle-east/",
+      "source": "RTE",
+      "publishedAt": "2026-10-09T14:27:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Rubio Warns Ukraine Stalemate Could Turn Into Wider Conflict",
+      "url": "https://oilprice.com/Geopolitics/International/Rubio-Warns-Ukraine-Stalemate-Could-Turn-Into-Wider-Conflict.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-10-09T14:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Mecca pact: Pakistan and Turkey have answered Saudi Arabia’s call for help – but don’t expect them to fight the Houthis",
+      "url": "https://theconversation.com/mecca-pact-pakistan-and-turkey-have-answered-saudi-arabias-call-for-help-but-dont-expect-them-to-fight-the-houthis-293873",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-10-09T13:58:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The UN at the Breaking Point and What Could Come Next",
+      "url": "https://www.nakedcapitalism.com/2026/10/the-un-at-the-breaking-point-and-what-could-come-next.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-09T13:55:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Strikes Mossad Proxies As Yemen Collapses Saudi-Israeli Plot In Dramatic Fashion",
+      "url": "https://activistpost.com/iran-strikes-mossad-proxies-as-yemen-collapses-saudi-israeli-plot-in-dramatic-fashion/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-10-09T13:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Global warming could make Russia richer. It could also bring NATO closer to its doorstep",
+      "url": "https://timesofindia.indiatimes.com/world/europe/global-warming-could-make-russia-richer-it-could-also-bring-nato-closer-to-its-doorstep/articleshow/134833457.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-09T12:52:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Head Of Russian Pro-War Blog Detained In Montenegro",
+      "url": "https://www.rferl.org/a/russian-pro-war-blog-detained-montenegro-eu/33873531.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-10-09T12:07:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Recent Russian strikes have caused 'extensive damage': Zelensky",
       "url": "https://www.hurriyetdailynews.com/recent-russian-strikes-have-caused-extensive-damage-zelensky-227931",
@@ -59,14 +139,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Finland, the world's happiest nation, faces a glum winter",
-      "url": "https://www.dw.com/en/finland-the-worlds-happiest-nation-faces-a-glum-winter/a-79544348",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-09T08:12:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Three years after October 7, prolonged war takes its toll on Israelis",
       "url": "https://www.aljazeera.com/news/2026/10/9/three-years-after-october-7-prolonged-war-takes-its-toll-on-israelis",
       "source": "Al Jazeera English",
@@ -83,38 +155,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Russian Strike on Ukrainian Public Buses Kills 30",
-      "url": "https://www.newser.com/story/397839/russian-strike-on-ukrainian-public-buses-kills-30.html",
-      "source": "Newser",
-      "publishedAt": "2026-10-09T07:15:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US, Ukraine Set For Talks In Miami Amid Onslaught Of Russian Air Strikes",
-      "url": "https://www.rferl.org/a/us-ukraine-talks-miami-russian-air-strikes/33873365.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-10-09T07:14:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia claims Sumy settlement as deadly strikes escalate and U.S., Ukraine open new talks",
-      "url": "https://www.naturalnews.com/2026-10-09-russia-sumy-strikes-ukraine-talks.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-10-09T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Witkoff and Kushner May Visit Moscow Later in October to Hold Talks With Putin - Reports",
-      "url": "https://sputnikglobe.com/20261009/witkoff-and-kushner-may-visit-moscow-later-in-october-to-hold-talks-with-putin---reports-1124854280.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-10-09T03:16:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "'Con man' vs 'sock puppet': Michigan Senate rivals trade savage insults as 'glitchy AI chatbot' jab lights up debate",
       "url": "https://www.dailymail.com/news/article-16193985/Michigan-Senate-rivals-trade-debate.html",
       "source": "Dailymail.com",
@@ -129,14 +169,6 @@
       "publishedAt": "2026-10-09T00:00:12Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Iranian operatives used AI to plant fake stories in multiple US media outlets | CNN Politics",
-      "url": "https://www.cnn.com/2026/10/08/politics/iranian-operatives-used-ai-to-plant-fake-stories-in-us-media",
-      "source": "CNN",
-      "publishedAt": "2026-10-08T20:46:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Trump Is Reopening the Middle East’s Deadliest Sectarian Fault Lines",
@@ -167,24 +199,8 @@
       "url": "https://www.rt.com/news/646944-germany-august-hanning-mossad/",
       "source": "RT",
       "publishedAt": "2026-10-08T17:53:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US imposes sanctions targeting 17 vessels of Iran 'shadow fleet'",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-imposes-sanctions-targeting-17-vessels-of-iran-shadow-fleet/articleshow/134796606.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-08T17:12:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump rules out Iran strike till 2026 US midterms, vows Tehran will never have a nuclear weapon",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-rules-out-iran-strike-till-2026-us-midterms-vows-tehran-will-never-have-a-nuclear-weapon/articleshow/134795521.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-08T16:25:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "South Korea test-flies its first domestically developed hypersonic weapon",

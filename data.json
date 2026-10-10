@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-10T17:04:15Z",
+  "updated": "2026-10-10T21:10:39Z",
   "count": 32,
   "articles": [
+    {
+      "title": "Macron’s nuclear throwdown, Mossad’s man in Germany, Ukraine in flames: RT stories that shaped the week",
+      "url": "https://www.rt.com/news/646985-rt-top-stories-macron-germany-houthis/",
+      "source": "RT",
+      "publishedAt": "2026-10-09T21:04:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The two elections that revolve around Iran",
+      "url": "https://www.rt.com/news/647010-iran-us-elections-iran/",
+      "source": "RT",
+      "publishedAt": "2026-10-09T20:56:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump: War with Iran will be over soon, one way or another",
+      "url": "https://www.israelnationalnews.com/news/434374",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-09T19:28:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The 8 wars Trump claims to have 'settled' in his last-minute Nobel Peace Prize pitch",
+      "url": "https://nationalpost.com/news/the-8-wars-trump-claims-to-have-settled",
+      "source": "National Post",
+      "publishedAt": "2026-10-09T18:02:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine battles deadly Russian strikes, seeks more NATO support",
+      "url": "https://economictimes.indiatimes.com/news/defence/ukraine-battles-deadly-russian-strikes-seeks-more-nato-support/articleshow/134840377.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-09T17:57:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Why Kim Jong Un Should Want a 4th Summit With Donald Trump",
       "url": "https://thediplomat.com/2026/10/why-kim-jong-un-should-want-a-4th-summit-with-donald-trump/",
@@ -115,50 +155,10 @@
       "_label": "Iran War"
     },
     {
-      "title": "Russian strikes kill 2 in Ukraine as Kyiv struggles to counter Russian attacks",
-      "url": "https://abcnews.com/International/wireStory/russian-strikes-kill-2-ukraine-kyiv-struggles-counter-137121911",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-09T09:49:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Houthis Kill Three in Strikes on Saudi Arabian Airports",
       "url": "https://gcaptain.com/houthis-kill-three-in-strikes-on-saudi-arabian-airports/",
       "source": "gcaptain.com",
       "publishedAt": "2026-10-09T09:20:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Finland: The world's happiest country has a debt problem it can no longer ignore",
-      "url": "https://www.dw.com/en/finland-the-worlds-happiest-country-has-a-debt-problem-it-can-no-longer-ignore/a-79544348",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-09T08:12:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Three years after October 7, prolonged war takes its toll on Israelis",
-      "url": "https://www.aljazeera.com/news/2026/10/9/three-years-after-october-7-prolonged-war-takes-its-toll-on-israelis",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-09T07:57:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why has Iraq decided to ban online map service Waze?",
-      "url": "https://www.aljazeera.com/news/2026/10/9/why-has-iraq-decided-to-ban-online-map-service-waze",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-09T07:48:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'Con man' vs 'sock puppet': Michigan Senate rivals trade savage insults as 'glitchy AI chatbot' jab lights up debate",
-      "url": "https://www.dailymail.com/news/article-16193985/Michigan-Senate-rivals-trade-debate.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-09T00:32:37Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-09T22:16:29Z",
-  "count": 37,
+  "updated": "2026-10-10T04:25:10Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Witkoff and Kushner May Visit Moscow Later in October to Hold Talks With Putin - Reports",
+      "url": "https://sputnikglobe.com/20261009/witkoff-and-kushner-may-visit-moscow-later-in-october-to-hold-talks-with-putin---reports-1124854280.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-10-09T03:16:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "'Con man' vs 'sock puppet': Michigan Senate rivals trade savage insults as 'glitchy AI chatbot' jab lights up debate",
+      "url": "https://www.dailymail.com/news/article-16193985/Michigan-Senate-rivals-trade-debate.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-09T00:32:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Three Years of Gaza as a Ghetto of Genocidal Extermination",
+      "url": "https://original.antiwar.com/worthington/2026/10/08/three-years-of-gaza-as-a-ghetto-of-genocidal-extermination/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-10-09T00:00:12Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "Iranian operatives used AI to plant fake stories in multiple US media outlets | CNN Politics",
       "url": "https://www.cnn.com/2026/10/08/politics/iranian-operatives-used-ai-to-plant-fake-stories-in-us-media",
@@ -187,26 +211,10 @@
       "_label": "N. Korea"
     },
     {
-      "title": "India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?",
-      "url": "https://www.aljazeera.com/news/2026/10/8/india-to-turkiye-can-new-proposals-to-broker-russia-ukraine-truce-succeed",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-08T11:45:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
       "url": "https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europes-defense-against-threats-from-russia/a-79592663",
       "source": "DW (English)",
       "publishedAt": "2026-10-08T11:45:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "More Drones, More Missiles, No Air Defenses: Moldova In The Cross Fire Of Russia's War On Ukraine",
-      "url": "https://www.rferl.org/a/moldova-russia-ukraine-war-drones-missiles-cross-fire-/33872784.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-10-08T11:35:48Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -231,70 +239,6 @@
       "url": "https://www.juancole.com/2026/10/geopolitical-earthquake-iran.html",
       "source": "Juancole.com",
       "publishedAt": "2026-10-08T04:04:27Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "How October 7 changed everything",
-      "url": "https://www.vox.com/today-explained-newsletter/505337/october-7-attack-anniversary",
-      "source": "Vox",
-      "publishedAt": "2026-10-07T21:31:26Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israelis Mourn Oct. 7 Attack As Palestinians In Gaza Languish In Ruins Of The War It Sparked",
-      "url": "https://www.huffpost.com/entry/israel-mourns-october-7-palestinians-gaza_n_6ac68b1ae4b09d2661d3b50f",
-      "source": "HuffPost",
-      "publishedAt": "2026-10-07T18:29:10Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "The Alert Level For The Iranian Military Has Been Raised To The Highest Possible Level As A Massive Escalation Appears To Be Imminent",
-      "url": "https://activistpost.com/the-alert-level-for-the-iranian-military-has-been-raised-to-the-highest-possible-level-as-a-massive-escalation-appears-to-be-imminent/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-10-07T16:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Three years after October 7: What changed for Israel, the Middle East and Russia?",
-      "url": "https://www.rt.com/news/646890-three-years-after-october-7/",
-      "source": "RT",
-      "publishedAt": "2026-10-07T15:34:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israelis mourn on anniversary of Oct. 7 attack as Palestinians grapple with war it sparked",
-      "url": "https://www.cbc.ca/news/world/israel-attack-oct-7-anniversary-9.7372125",
-      "source": "CBC News",
-      "publishedAt": "2026-10-07T09:48:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israelis mourn on October 7 as Palestinians live in devastated Gaza",
-      "url": "https://www.abc.net.au/news/2026-10-07/october-7-israel-palestine-third-anniversary-memorial/107240588",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-10-07T08:52:06Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel marks third anniversary of October 7 atrocity, with tearful mourners gathered at Nova festival site and across the nation",
-      "url": "https://www.dailymail.com/news/article-16189139/Israel-marks-anniversary-October-7-atrocity-tearful-mourners-gathered-Nova-festival-site-nation.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-07T06:31:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked",
-      "url": "https://www.npr.org/2026/10/07/nx-s1-5993459/israelis-oct-7-palestinians-war",
-      "source": "NPR",
-      "publishedAt": "2026-10-07T06:02:57Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

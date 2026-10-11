@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-11T04:06:45Z",
-  "count": 21,
+  "updated": "2026-10-11T12:08:04Z",
+  "count": 22,
   "articles": [
+    {
+      "title": "Trump is not changing North Korea strategy as Kim Jong Un appears unbothered by Iran war",
+      "url": "https://www.dailymail.com/news/us-politics/article-15613905/trump-north-korea-threat-iran-war.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-10T12:02:25Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Operations Plan Germany: How the Bundeswehr trains for NATO collective defense",
+      "url": "https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-10T12:02:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Saturday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/10/10/saturday-hili-dialogue-603/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-10-10T11:45:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "3 children among 11 dead in Russian strikes on Ukraine",
+      "url": "https://www.rte.ie/news/2026/1010/1594829-3-children-among-11-dead-in-russian-strikes-on-ukraine/",
+      "source": "RTE",
+      "publishedAt": "2026-10-10T10:16:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "\"Far more than necessary to win\": Trump again takes credit for India-Pakistan ceasefire in Nobel Prize claim",
+      "url": "https://economictimes.indiatimes.com/news/india/far-more-than-necessary-to-win-trump-again-takes-credit-for-india-pakistan-ceasefire-in-nobel-prize-claim/articleshow/134849255.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-10T06:53:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Strait of Hormuz in World History & the Present Crisis",
+      "url": "https://www.juancole.com/2026/10/strait-history-present.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-10-10T04:15:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Europe and Russia Flirt with Nuclear War",
       "url": "https://www.americanthinker.com/articles/2026/10/europe-and-russia-flirt-with-nuclear-war/",
@@ -83,28 +131,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Ukraine battles deadly Russian strikes, seeks more NATO support",
-      "url": "https://economictimes.indiatimes.com/news/defence/ukraine-battles-deadly-russian-strikes-seeks-more-nato-support/articleshow/134840377.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-09T17:57:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Why Kim Jong Un Should Want a 4th Summit With Donald Trump",
       "url": "https://thediplomat.com/2026/10/why-kim-jong-un-should-want-a-4th-summit-with-donald-trump/",
       "source": "The Diplomat",
       "publishedAt": "2026-10-09T15:06:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "3 killed in Russian strikes across Ukraine as Kyiv struggles to counter escalating attacks",
-      "url": "https://nypost.com/2026/10/09/world-news/3-killed-in-russian-strikes-across-ukraine-as-kyiv-struggles-to-counter-escalating-attacks/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-09T15:04:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran struck tanker transiting Hormuz via 'illegal route'",
@@ -135,30 +167,6 @@
       "url": "https://activistpost.com/iran-strikes-mossad-proxies-as-yemen-collapses-saudi-israeli-plot-in-dramatic-fashion/",
       "source": "Activistpost.com",
       "publishedAt": "2026-10-09T13:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 10/9/2026",
-      "url": "https://www.nakedcapitalism.com/2026/10/links-10-9-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-09T10:55:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Is Trump signalling a return to war with Iran after the midterms?",
-      "url": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-09T10:40:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Houthis Kill Three in Strikes on Saudi Arabian Airports",
-      "url": "https://gcaptain.com/houthis-kill-three-in-strikes-on-saudi-arabian-airports/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-10-09T09:20:41Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

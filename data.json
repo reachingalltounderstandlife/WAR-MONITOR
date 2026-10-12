@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-11T21:29:44Z",
-  "count": 27,
+  "updated": "2026-10-12T04:25:29Z",
+  "count": 21,
   "articles": [
+    {
+      "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
+      "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-11T03:13:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Drone Familiarization for Cadets Helps Build Assurance, Proficiency as Future Officers",
+      "url": "https://soldiersystems.net/2026/10/11/drone-familiarization-for-cadets-helps-build-assurance-proficiency-as-future-officers/",
+      "source": "Soldiersystems.net",
+      "publishedAt": "2026-10-11T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Explosive report alleges US pressured ally to bomb Iran to protect Trump ahead of midterms",
       "url": "https://www.rawstory.com/iran-war-2678070313/",
@@ -131,14 +147,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "\"Far more than necessary to win\": Trump again takes credit for India-Pakistan ceasefire in Nobel Prize claim",
-      "url": "https://economictimes.indiatimes.com/news/india/far-more-than-necessary-to-win-trump-again-takes-credit-for-india-pakistan-ceasefire-in-nobel-prize-claim/articleshow/134849255.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-10T06:53:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Europe and Russia Flirt with Nuclear War",
       "url": "https://www.americanthinker.com/articles/2026/10/europe-and-russia-flirt-with-nuclear-war/",
       "source": "Americanthinker.com",
@@ -159,62 +167,6 @@
       "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border",
       "source": "Al Jazeera English",
       "publishedAt": "2026-10-10T00:22:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Zelensky says Trump gave Putin a 'happy birthday present' with diesel deal",
-      "url": "https://www.yahoo.com/news/politics/articles/zelenskyy-furious-trump-announces-deal-233931848.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-09T23:39:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US leads fresh Ukraine peace push with Miami talks",
-      "url": "https://punchng.com/us-leads-fresh-ukraine-peace-push-with-miami-talks/",
-      "source": "The Punch",
-      "publishedAt": "2026-10-09T23:25:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-      "url": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
-      "source": "CNBC",
-      "publishedAt": "2026-10-09T23:16:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The two elections that revolve around Iran",
-      "url": "https://www.rt.com/news/647010-iran-us-elections-iran/",
-      "source": "RT",
-      "publishedAt": "2026-10-09T20:56:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why Kim Jong Un Should Want a 4th Summit With Donald Trump",
-      "url": "https://thediplomat.com/2026/10/why-kim-jong-un-should-want-a-4th-summit-with-donald-trump/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-10-09T15:06:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iran Strikes Mossad Proxies As Yemen Collapses Saudi-Israeli Plot In Dramatic Fashion",
-      "url": "https://activistpost.com/iran-strikes-mossad-proxies-as-yemen-collapses-saudi-israeli-plot-in-dramatic-fashion/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-10-09T13:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Three Years of Gaza as a Ghetto of Genocidal Extermination",
-      "url": "https://original.antiwar.com/worthington/2026/10/08/three-years-of-gaza-as-a-ghetto-of-genocidal-extermination/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-10-09T00:00:12Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

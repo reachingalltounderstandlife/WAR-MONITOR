@@ -1,7 +1,87 @@
 {
-  "updated": "2026-10-12T04:25:29Z",
-  "count": 21,
+  "updated": "2026-10-12T14:28:08Z",
+  "count": 22,
   "articles": [
+    {
+      "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
+      "url": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-11T14:25:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+      "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-11T14:04:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "WATCH: American among at least 12 killed as Houthis launch missile attack on Riyadh airport in Saudi capital",
+      "url": "https://www.wnd.com/2026/10/watch-american-among-least-12-killed-as-houthis/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-10-11T13:06:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Saudi Arabia extends airport closure as Houthis warn 'worse is yet to come'",
+      "url": "https://www.abc.net.au/news/2026-10-11/houthi-airport-attack-saudi-arabia-riyadh-closure/107253872",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-10-11T12:44:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UK does not support Trump's Russia diesel deal, says Streeting",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn92nj423o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-11T11:00:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 10/11/2026",
+      "url": "https://www.nakedcapitalism.com/2026/10/links-10-11-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-11T10:55:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin'",
+      "url": "https://www.foxnews.com/world/inside-israels-plot-kill-hezbollah-chief-netanyahu-warned-biden-aide-would-jump-out-his-skin",
+      "source": "Fox News",
+      "publishedAt": "2026-10-11T10:00:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Attack on Riyadh 'a dangerous escalation'",
+      "url": "https://www.rte.ie/news/middle-east/2026/1011/1594905-riyadh-attack-reaction/",
+      "source": "RTE",
+      "publishedAt": "2026-10-11T09:42:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "After calling for Zelenskyy to be replaced, Trump claims Putin wants peace deal with Ukraine",
+      "url": "https://www.thejournal.ie/zelenskyy-trump-putin-russia-settlement-diesel-7189647-Oct2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-10-11T09:08:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "No flights in or out of Riyadh after spate of Houthi attacks on airports",
+      "url": "https://www.abc.net.au/news/2026-10-11/riyadh-airport-suspends-flights-houthi-attacks-middle-east/107253260",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-10-11T04:49:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
       "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman",
@@ -17,14 +97,6 @@
       "publishedAt": "2026-10-11T00:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Explosive report alleges US pressured ally to bomb Iran to protect Trump ahead of midterms",
-      "url": "https://www.rawstory.com/iran-war-2678070313/",
-      "source": "Raw Story",
-      "publishedAt": "2026-10-10T20:18:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine’s Labour Collapse and the Migration Challenge: Indian Workers Between Economic Necessity and Social Tensions",
@@ -43,22 +115,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "New Delhi 2026: The Summit of the Disunited BRICS",
-      "url": "https://www.fairobserver.com/politics/new-delhi-2026-the-summit-of-the-disunited-brics/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-10-10T18:09:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump rails against Nobel committee again for denying him peace prize",
-      "url": "https://nypost.com/2026/10/10/world-news/trump-rails-against-nobel-committee-for-denying-peace-prize/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-10T16:37:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Drone strike in Sudan kills 40, including children: rights group",
       "url": "https://newsroom.ap.org/detail/DronestrikeinSudankills40LebanonwelcomesUSflightbanliftandotherMideastdevelopments/a5f40b5e0ab08ae8128db5ed749114d8/text?vs=false&#038;currentItemNo=1&#038;startingItemNo=0&#038;sourceLocation=Home%20Page%20",
       "source": "Ap.org",
@@ -67,52 +123,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Zelensky blasts diesel deal after Russian strikes kill 15",
-      "url": "https://nationalpost.com/news/world/zelensky-blasts-diesel-deal-after-russian-strikes-kill-15",
-      "source": "National Post",
-      "publishedAt": "2026-10-10T14:27:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why is the US sanctioning the International Criminal Court?",
-      "url": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-10T14:19:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Russia, the paper tiger that still bites",
       "url": "https://www.wnd.com/2026/10/russia-paper-tiger-that-still-bites/",
       "source": "Wnd.com",
       "publishedAt": "2026-10-10T14:10:25Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Has Yemen returned to ‘full-scale war’?",
-      "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-10T14:10:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Bankruptcy Comes For American Trucking Companies As Diesel Prices Skyrocket: ‘They’re Killing Me’",
-      "url": "https://dailycaller.com/2026/10/10/amerian-trucking-iran-war-diesel-prices",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-10-10T14:06:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-10T13:09:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Trump is not changing North Korea strategy as Kim Jong Un appears unbothered by Iran war",
@@ -129,14 +145,6 @@
       "publishedAt": "2026-10-10T12:02:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Saturday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/10/10/saturday-hili-dialogue-603/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-10-10T11:45:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "3 children among 11 dead in Russian strikes on Ukraine",

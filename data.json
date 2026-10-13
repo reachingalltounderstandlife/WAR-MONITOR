@@ -1,22 +1,110 @@
 {
-  "updated": "2026-10-13T13:35:59Z",
+  "updated": "2026-10-13T22:17:46Z",
   "count": 26,
   "articles": [
     {
-      "title": "Russian Military’s AI Integration Work Is Tit-for-Tat Response to NATO’s Experiments in Ukraine",
-      "url": "https://sputnikglobe.com/20261012/russian-militarys-ai-integration-work-is-tit-for-tat-response-to-natos-experiments-in-ukraine-1124870801.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-10-12T13:10:12Z",
+      "title": "Chinese Military Reaping Benefits From Ukraine War Without Having To Fire A Single Shot",
+      "url": "https://dailycaller.com/2026/10/12/china-ukraine-war",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-10-12T20:37:32Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "War and Peace? Trump Wants to Import Diesel From Russia, “Enemy No: 1 On the Eastern Front”",
-      "url": "https://www.globalresearch.ca/war-and-peace-trump-wants-to-import-diesel-from-russia-enemy-no-1-on-the-eastern-front/5943391",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-10-12T12:49:11Z",
+      "title": "US Army’s Old School Howitzer Gets A South Korean Replacement",
+      "url": "https://dailycaller.com/2026/10/12/howitzer-replacement-xm1776-south-korea",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-10-12T20:28:11Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "Dario Strangelove, or: How I Learned to Stop Worrying and Love the AI Bomb",
+      "url": "https://fortune.com/2026/10/12/ai-doomsday-anxiety-fears-like-cold-war-nuclear/",
+      "source": "Fortune",
+      "publishedAt": "2026-10-12T20:26:11Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "NATO says will do ‘anything and everything’ if alliance is attacked",
+      "url": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-12T19:27:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Europe at back of US arms queue – NATO envoy",
+      "url": "https://rt-english.com/news/647100-us-nato-factories-busy/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-12T18:56:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s Message to Ukraine Is Now Crystal Clear",
+      "url": "https://www.theatlantic.com/ideas/2026/10/trump-ukraine-putin-fuel/688974/?utm_source=feed",
+      "source": "The Atlantic",
+      "publishedAt": "2026-10-12T16:36:37Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s squeeze on Ukraine exposes Europe’s strategic weakness",
+      "url": "https://www.irishtimes.com/world/europe/2026/10/12/trumps-squeeze-on-ukraine-exposes-europes-strategic-weakness/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-10-12T15:41:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Will Ukraine survive the winter?",
+      "url": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-12T15:04:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Transcript: Trump’s Two Choices in Iran",
+      "url": "https://newrepublic.com/article/216500/transcript-trump-running-foreign-policy-options",
+      "source": "The New Republic",
+      "publishedAt": "2026-10-12T15:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Opposition MPs Call for Constitutional Reforms in Ukraine and Talks With Russia",
+      "url": "https://www.globalresearch.ca/opposition-mps-call-constitutional-reforms-ukraine-talks-russia/5943374",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-10-12T14:38:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
+      "url": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-12T14:27:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz",
+      "url": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-12T14:25:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran will destroy US data centers and AI facilities if attacked again – security chief",
+      "url": "https://rt-english.com/news/647096-iran-us-tech-targets/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-12T14:07:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "Ukraine backs Trump’s energy ‘ceasefire’. But is Russia on board?",
@@ -25,30 +113,6 @@
       "publishedAt": "2026-10-12T11:02:51Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Europe Grapples With 'Hybrid Warfare' While Rebuilding Its Defense Capabilities",
-      "url": "https://reason.com/2026/10/12/europe-grapples-with-hybrid-warfare-while-rebuilding-its-defense-capabilities/",
-      "source": "Reason",
-      "publishedAt": "2026-10-12T11:00:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "European Nationalism in Service of the Empire: Rubio Urges Europe to Embrace Civilizational Struggle—and Sacrifice Itself",
-      "url": "https://www.nakedcapitalism.com/2026/10/european-nationalism-in-service-of-the-empire-rubio-urges-europe-to-embrace-civilizational-struggle-and-sacrifice-itself.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-12T10:00:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia striking fuel reserves despite 'energy ceasefire', Zelenskyy says",
-      "url": "https://www.abc.net.au/news/2026-10-12/russia-attacking-ukraine-energy-zelenskyy-ceasefire/107257666",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-10-12T09:32:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Writing About War as Bombs Fall",
@@ -67,36 +131,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump announced a Russia-Ukraine 'energy ceasefire.' Zelensky says strikes continued.",
-      "url": "https://www.bbc.com/news/articles/c6pvg4jyz1m0o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-12T06:18:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump shifts position on Ukraine as fuel prices pose existential threat",
-      "url": "https://www.abc.net.au/news/2026-10-12/trump-russia-ukraine-energy/107255500",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-10-12T04:23:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea fires multiple ballistic missiles after Seoul's hypersonic test",
       "url": "https://www.business-standard.com/world-news/north-korea-fires-multiple-ballistic-missiles-after-seoul-s-hypersonic-test-126101200058_1.html",
       "source": "Business Standard",
       "publishedAt": "2026-10-12T04:01:02Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "A Long-Term Plan to Secure Peace for Ukraine",
-      "url": "https://www.theamericanconservative.com/a-long-term-plan-to-secure-peace-for-ukraine/",
-      "source": "The American Conservative",
-      "publishedAt": "2026-10-12T04:01:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea fires multiple ballistic missiles, adding to streak of weapons tests",
@@ -121,22 +161,6 @@
       "publishedAt": "2026-10-12T03:37:12Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Ukrainian Prez risks rupture with Trump as US midterms pressure mounts",
-      "url": "https://www.business-standard.com/world-news/ukrainian-prez-risks-rupture-with-trump-as-us-midterms-pressure-mounts-126101200084_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-12T03:28:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump ‘really mad’ with Zelensky – media",
-      "url": "https://www.rt.com/news/647063-trump-really-mad-with-zelensky/",
-      "source": "RT",
-      "publishedAt": "2026-10-12T03:02:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea fires multiple ballistic missiles in continued weapons tests",
@@ -177,30 +201,6 @@
       "publishedAt": "2026-10-12T01:19:30Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Iran-US War: Tehran rejects Donald Trump administration's proposal to end war, threatens major escalation by striking regional data center, cables",
-      "url": "https://economictimes.indiatimes.com/news/international/us/iran-us-war-tehran-rejects-donald-trump-administrations-proposal-to-end-war-threatens-major-escalation-by-striking-regional-data-center-cables/articleshow/134880148.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-12T01:16:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "One dead in new attack on Saudi airport, a day after Houthi strike kills 13",
-      "url": "https://economictimes.indiatimes.com/news/defence/one-dead-in-new-attack-on-saudi-airport-a-day-after-houthi-strike-kills-13/articleshow/134880126.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-12T00:57:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "One dead, 11 injured in fresh attack on Riyadh airport",
-      "url": "https://www.rte.ie/news/middle-east/2026/1012/1594955-middle-east-saudi/",
-      "source": "RTE",
-      "publishedAt": "2026-10-12T00:47:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Senior Iranian official threatens to attack cables, data centers, and AI facilities in the region if the war escalates sharply again",

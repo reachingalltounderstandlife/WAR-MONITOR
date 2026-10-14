@@ -1,7 +1,135 @@
 {
-  "updated": "2026-10-14T03:36:41Z",
-  "count": 27,
+  "updated": "2026-10-14T11:13:18Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "Trump slams ‘radical lunatics’ over claims Russia and China aid Iran",
+      "url": "https://rt-english.com/news/647128-trump-russia-china-iran-aid/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-13T11:05:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 10/13/2026",
+      "url": "https://www.nakedcapitalism.com/?p=318040",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-13T10:55:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Eleven sailors missing after drone attack sinks cargo ship off Bulgarian coast",
+      "url": "https://www.irishtimes.com/world/europe/2026/10/13/eleven-sailors-missing-after-drone-attack-sinks-cargo-ship-off-bulgarian-coast/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-10-13T10:44:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Wider Europe Briefing: What To Expect At The EU's October Summit",
+      "url": "https://www.rferl.org/a/wider-europe-eu-summit-ukraine-funding-russia-sanctions-enlargement/33875302.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-10-13T10:18:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/drones-hit-ships-in-black-sea-sinking-1-and-prompting-rescue-operations-bulgaria-says/articleshow/134914137.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-13T10:15:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-13T08:52:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How Taiwan Activates Beijing’s Chosen Fear",
+      "url": "https://warontherocks.com/how-taiwan-activates-beijings-chosen-fear/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-10-13T07:30:25Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Germany To Start Nord Stream 'War Crime' Trial With Prosecutors Blaming Ukrainian 'State Authorities'",
+      "url": "https://www.rferl.org/a/germany-trial-nord-stream-gas-pipeline-russia-ukraine/33873494.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-10-13T07:09:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Cold War Era: We Loved the “Communist Russians.” Now Western Governments Hate “The Capitalist Russians.” Why?",
+      "url": "https://michelchossudovsky.substack.com/p/cold-war-era-loved-communist-russian-now-western-governments-hate-capitalist-russians",
+      "source": "Substack.com",
+      "publishedAt": "2026-10-13T06:57:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What to know about the Nord Stream pipeline explosions trial opening in Germany this week",
+      "url": "https://abcnews.com/Business/wireStory/nord-stream-pipeline-explosions-trial-opening-germany-week-137215516",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-10-13T06:02:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran calls Britainâs Fairford plot claim a âfalse flagâ after U.S. bombers leave the base",
+      "url": "https://www.naturalnews.com/2026-10-13-iran-britain-fairford-plot-false-flag.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-13T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Rezaei: Iran Will Obliterate U.S. Tech Assets If Attacked",
+      "url": "https://www.naturalnews.com/2026-10-13-iran-obliterate-us-tech-assets-if-attacked.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-13T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Top Oil CEOs Flee Saudi Summit Following Houthi Strikes on Kingdom",
+      "url": "https://www.naturalnews.com/2026-10-13-oil-ceos-flee-saudi-summit-after-strikes.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-13T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "South Korea goes on missile manoeuvres amid tensions with Washington",
+      "url": "https://www.irishtimes.com/world/2026/10/13/south-korea-goes-on-missile-manoeuvres-amid-tensions-with-washington/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-10-13T05:37:39Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "South Korea says US raises intelligence cooperation concerns, Yonhap says",
+      "url": "https://www.channelnewsasia.com/east-asia/south-korea-us-intelligence-cooperation-concerns-6454721",
+      "source": "CNA",
+      "publishedAt": "2026-10-13T04:37:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "UN and The Hague Confront Impunity for War Crimes",
+      "url": "https://www.nakedcapitalism.com/2026/10/un-and-the-hague-confront-impunity-for-war-crimes.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-13T04:32:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Britain Blames Iran’s IRGC for Attempted Terror Plot That Forced U.S. Bombers Out of the UK",
       "url": "https://www.breitbart.com/europe/2026/10/12/britain-blames-irans-irgc-attempted-terror-plot-forced-u-s-bombers-uk/",
@@ -35,44 +163,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "NATO warns Russia: 'We will break' forces, destroy 'anything and everything' if you attack",
-      "url": "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack",
-      "source": "Fox News",
-      "publishedAt": "2026-10-13T00:22:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Fast Takes: Dithering over Putin’s sabotage, Dems’ Rx to ice Alaska and other commentary",
-      "url": "https://nypost.com/2026/10/12/opinion/fast-takes-dithering-over-putins-sabotage-dems-rx-to-ice-alaska-and-other-commentary/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-13T00:09:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UN and The Hague Confront Impunity for War Crimes",
-      "url": "https://original.antiwar.com/nicolas_davies/2026/10/12/un-and-the-hague-confront-impunity-for-war-crimes/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-10-13T00:00:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Chinese Military Reaping Benefits From Ukraine War Without Having To Fire A Single Shot",
       "url": "https://dailycaller.com/2026/10/12/china-ukraine-war",
       "source": "The Daily Caller",
       "publishedAt": "2026-10-12T20:37:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US Army’s Old School Howitzer Gets A South Korean Replacement",
-      "url": "https://dailycaller.com/2026/10/12/howitzer-replacement-xm1776-south-korea",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-10-12T20:28:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "taiwan",
+      "_label": "Taiwan"
     },
     {
       "title": "Dario Strangelove, or: How I Learned to Stop Worrying and Love the AI Bomb",
@@ -81,30 +177,6 @@
       "publishedAt": "2026-10-12T20:26:11Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "NATO says will do ‘anything and everything’ if alliance is attacked",
-      "url": "https://www.aljazeera.com/news/2026/10/12/nato-says-will-do-anything-and-everything-if-alliance-is-attacked",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-12T19:27:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europe at back of US arms queue – NATO envoy",
-      "url": "https://rt-english.com/news/647100-us-nato-factories-busy/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-12T18:56:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump’s Message to Ukraine Is Now Crystal Clear",
-      "url": "https://www.theatlantic.com/ideas/2026/10/trump-ukraine-putin-fuel/688974/?utm_source=feed",
-      "source": "The Atlantic",
-      "publishedAt": "2026-10-12T16:36:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
@@ -131,30 +203,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Ukraine backs Trump’s energy ‘ceasefire’. But is Russia on board?",
-      "url": "https://www.irishtimes.com/world/europe/2026/10/12/ukraine-backs-trumps-energy-ceasefire-but-is-russia-on-board/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-10-12T11:02:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Writing About War as Bombs Fall",
-      "url": "https://www.thenation.com/?post_type=article&p=612158",
-      "source": "Thenation.com",
-      "publishedAt": "2026-10-12T09:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Houthis show military reach with deadly missile strikes on Riyadh",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/10/12/houthis-show-military-reach-with-deadly-missile-strikes-on-riyadh/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-10-12T06:42:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea fires multiple ballistic missiles after Seoul's hypersonic test",
       "url": "https://www.business-standard.com/world-news/north-korea-fires-multiple-ballistic-missiles-after-seoul-s-hypersonic-test-126101200058_1.html",
       "source": "Business Standard",
@@ -171,14 +219,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "President Trump is right to buy diesel from Russia: Here’s why",
-      "url": "https://www.americanthinker.com/blog/2026/10/president-trump-is-right-to-buy-diesel-from-russia-here-s-why/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-10-12T04:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea fires multiple ballistic missiles towards the sea",
       "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea",
       "source": "Al Jazeera English",
@@ -193,14 +233,6 @@
       "publishedAt": "2026-10-12T02:37:19Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Saudi Arabia says 1 dead, 11 injured in latest attack on Riyadh airport",
-      "url": "https://www.aljazeera.com/news/2026/10/12/saudi-arabia-says-1-dead-11-injured-in-latest-attack-on-riyadh-airport",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-12T02:11:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Iran calls latest US response to proposal 'insufficient'",

@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-13T22:17:46Z",
-  "count": 26,
+  "updated": "2026-10-14T03:36:41Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Britain Blames Iran’s IRGC for Attempted Terror Plot That Forced U.S. Bombers Out of the UK",
+      "url": "https://www.breitbart.com/europe/2026/10/12/britain-blames-irans-irgc-attempted-terror-plot-forced-u-s-bombers-uk/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-10-13T02:38:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea's Kim Jong Un shows off missile that can reach U.S. as Trump floats meeting",
+      "url": "https://www.yahoo.com/news/articles/north-korea-test-fires-tactical-214449098.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-13T02:19:46Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Russian bot traffic decimated overnight after Ukraine drone strikes knock multiple Yandex data centers offline",
+      "url": "https://www.techradar.com/pro/russian-bot-traffic-decimated-overnight-after-ukraine-drone-strikes-knock-multiple-yandex-data-centers-offline",
+      "source": "TechRadar",
+      "publishedAt": "2026-10-13T01:10:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Blaine Holt to Newsmax: Europe Impediment to Peace in Ukraine",
+      "url": "https://freerepublic.com/focus/f-bloggers/4398960/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-10-13T00:22:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO warns Russia: 'We will break' forces, destroy 'anything and everything' if you attack",
+      "url": "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack",
+      "source": "Fox News",
+      "publishedAt": "2026-10-13T00:22:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Fast Takes: Dithering over Putin’s sabotage, Dems’ Rx to ice Alaska and other commentary",
+      "url": "https://nypost.com/2026/10/12/opinion/fast-takes-dithering-over-putins-sabotage-dems-rx-to-ice-alaska-and-other-commentary/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-13T00:09:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UN and The Hague Confront Impunity for War Crimes",
+      "url": "https://original.antiwar.com/nicolas_davies/2026/10/12/un-and-the-hague-confront-impunity-for-war-crimes/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-10-13T00:00:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Chinese Military Reaping Benefits From Ukraine War Without Having To Fire A Single Shot",
       "url": "https://dailycaller.com/2026/10/12/china-ukraine-war",
@@ -47,38 +103,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/10/trump-ukraine-putin-fuel/688974/?utm_source=feed",
       "source": "The Atlantic",
       "publishedAt": "2026-10-12T16:36:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump’s squeeze on Ukraine exposes Europe’s strategic weakness",
-      "url": "https://www.irishtimes.com/world/europe/2026/10/12/trumps-squeeze-on-ukraine-exposes-europes-strategic-weakness/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-10-12T15:41:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Will Ukraine survive the winter?",
-      "url": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-12T15:04:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Transcript: Trump’s Two Choices in Iran",
-      "url": "https://newrepublic.com/article/216500/transcript-trump-running-foreign-policy-options",
-      "source": "The New Republic",
-      "publishedAt": "2026-10-12T15:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Opposition MPs Call for Constitutional Reforms in Ukraine and Talks With Russia",
-      "url": "https://www.globalresearch.ca/opposition-mps-call-constitutional-reforms-ukraine-talks-russia/5943374",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-10-12T14:38:45Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -179,20 +203,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Oil climbs as Mideast conflict, tanker attacks persist",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-as-mideast-conflict-tanker-attacks-persist/articleshow/134880638.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-12T02:08:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Iran calls latest US response to proposal 'insufficient'",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-calls-latest-us-response-to-proposal-insufficient/articleshow/134880513.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-12T01:59:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "South Korea’s military says North Korea fired a projectile toward the sea",
@@ -201,14 +217,6 @@
       "publishedAt": "2026-10-12T01:19:30Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Senior Iranian official threatens to attack cables, data centers, and AI facilities in the region if the war escalates sharply again",
-      "url": "https://fortune.com/2026/10/11/iran-war-cables-data-centers-ai-facilities-gulf-region/",
-      "source": "Fortune",
-      "publishedAt": "2026-10-11T20:22:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

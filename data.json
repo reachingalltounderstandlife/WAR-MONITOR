@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-14T11:13:18Z",
+  "updated": "2026-10-14T16:34:18Z",
   "count": 31,
   "articles": [
+    {
+      "title": "11 Missing as Drone Attacks Strike Two Ships Near NATO Waters",
+      "url": "https://gcaptain.com/11-missing-as-drone-attacks-strike-two-ships-near-nato-waters/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-10-13T16:07:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘He’s with Putin’: Ukrainians recoil at Trump’s pressure campaign",
+      "url": "https://www.irishtimes.com/world/europe/2026/10/13/hes-with-putin-ukrainians-recoil-at-trumps-pressure-campaign/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-10-13T15:35:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How Iran made the Houthis into such a problem",
+      "url": "https://www.cbsnews.com/news/how-iran-made-houthis-threat-saudi-arabia-us-interests/",
+      "source": "CBS News",
+      "publishedAt": "2026-10-13T14:55:47Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
+      "url": "https://www.aljazeera.com/news/2026/10/13/block-blunt-break-whats-in-natos-new-russia-war-plan",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-13T14:52:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The unthinkable becomes thinkable: Ukraine’s politicians begin discussing compromise",
+      "url": "https://rt-english.com/russia/647133-unthinkable-becomes-thinkable-ukraine-peace/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-13T14:33:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How is Lithuania preparing for the worst",
+      "url": "https://www.rte.ie/news/a-european-perspective/2026/1013/1595242-lithuania-war-preparations/",
+      "source": "RTE",
+      "publishedAt": "2026-10-13T14:20:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Gloves Have Finally Come Off: The “Old Restrictions” Are No More in the “Ukrainian Proxy War”. Russia’s Deputy Defence Minister Yevkurov",
+      "url": "https://www.globalresearch.ca/russian-yevkurov-says-old-restrictions-no-more-ukrainian-proxy-war/5943616",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-10-13T14:05:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UN and The Hague Confront Impunity for War Crimes",
+      "url": "https://www.globalresearch.ca/un-hague-confront-impunity-war-crimes/5943637",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-10-13T13:55:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Warsaw Security Forum is dangerously deluded",
+      "url": "https://rt-english.com/news/647136-warsaw-security-forum-russia/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-13T13:28:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s diesel deal opens a new rift with Europe over Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/10/13/trumps-diesel-deal-opens-a-new-rift-with-europe-over-ukraine",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-13T13:06:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Bulgaria Points to Russia as Drones Hit More Cargo Ships",
+      "url": "https://www.insurancejournal.com/news/international/2026/10/13/888718.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-10-13T12:51:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Trump slams ‘radical lunatics’ over claims Russia and China aid Iran",
       "url": "https://rt-english.com/news/647128-trump-russia-china-iran-aid/",
@@ -19,68 +107,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Eleven sailors missing after drone attack sinks cargo ship off Bulgarian coast",
-      "url": "https://www.irishtimes.com/world/europe/2026/10/13/eleven-sailors-missing-after-drone-attack-sinks-cargo-ship-off-bulgarian-coast/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-10-13T10:44:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Wider Europe Briefing: What To Expect At The EU's October Summit",
-      "url": "https://www.rferl.org/a/wider-europe-eu-summit-ukraine-funding-russia-sanctions-enlargement/33875302.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-10-13T10:18:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/drones-hit-ships-in-black-sea-sinking-1-and-prompting-rescue-operations-bulgaria-says/articleshow/134914137.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-13T10:15:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-13T08:52:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "How Taiwan Activates Beijing’s Chosen Fear",
       "url": "https://warontherocks.com/how-taiwan-activates-beijings-chosen-fear/",
       "source": "War on the Rocks",
       "publishedAt": "2026-10-13T07:30:25Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Germany To Start Nord Stream 'War Crime' Trial With Prosecutors Blaming Ukrainian 'State Authorities'",
-      "url": "https://www.rferl.org/a/germany-trial-nord-stream-gas-pipeline-russia-ukraine/33873494.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-10-13T07:09:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Cold War Era: We Loved the “Communist Russians.” Now Western Governments Hate “The Capitalist Russians.” Why?",
-      "url": "https://michelchossudovsky.substack.com/p/cold-war-era-loved-communist-russian-now-western-governments-hate-capitalist-russians",
-      "source": "Substack.com",
-      "publishedAt": "2026-10-13T06:57:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "What to know about the Nord Stream pipeline explosions trial opening in Germany this week",
-      "url": "https://abcnews.com/Business/wireStory/nord-stream-pipeline-explosions-trial-opening-germany-week-137215516",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-13T06:02:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran calls Britainâs Fairford plot claim a âfalse flagâ after U.S. bombers leave the base",
@@ -123,14 +155,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "UN and The Hague Confront Impunity for War Crimes",
-      "url": "https://www.nakedcapitalism.com/2026/10/un-and-the-hague-confront-impunity-for-war-crimes.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-13T04:32:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Britain Blames Iran’s IRGC for Attempted Terror Plot That Forced U.S. Bombers Out of the UK",
       "url": "https://www.breitbart.com/europe/2026/10/12/britain-blames-irans-irgc-attempted-terror-plot-forced-u-s-bombers-uk/",
       "source": "Breitbart News",
@@ -155,14 +179,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Blaine Holt to Newsmax: Europe Impediment to Peace in Ukraine",
-      "url": "https://freerepublic.com/focus/f-bloggers/4398960/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-10-13T00:22:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Chinese Military Reaping Benefits From Ukraine War Without Having To Fire A Single Shot",
       "url": "https://dailycaller.com/2026/10/12/china-ukraine-war",
       "source": "The Daily Caller",
@@ -183,22 +199,6 @@
       "url": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran",
       "source": "Al Jazeera English",
       "publishedAt": "2026-10-12T14:27:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz",
-      "url": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-12T14:25:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran will destroy US data centers and AI facilities if attacked again – security chief",
-      "url": "https://rt-english.com/news/647096-iran-us-tech-targets/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-12T14:07:44Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

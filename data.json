@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-14T16:34:18Z",
-  "count": 31,
+  "updated": "2026-10-14T21:17:34Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Ігор Смешко: THE STATE PYRAMID AND THE LAWS OF DEMOCRACY. Theses for the Strategy to Rebuild Ukraine (Part 7.2)",
+      "url": "https://blogs.pravda.com.ua/authors/smeshko/6ace912c82adc/",
+      "source": "Pravda.com.ua",
+      "publishedAt": "2026-10-13T20:14:36Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "North Korea Opens Museum to Show Off Its ICBMs",
+      "url": "https://www.breitbart.com/asia/2026/10/13/north-korea-opens-museum-to-show-off-icbms/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-10-13T19:34:24Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Zelensky claims West gave no warning of latest Russian strike",
+      "url": "https://rt-english.com/news/647155-zelensky-west-missile-warning/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-13T19:11:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Drones and Missiles Are Rewriting the Military Balance on the Korean Peninsula",
+      "url": "https://thediplomat.com/2026/10/drones-and-missiles-are-rewriting-the-military-balance-on-the-korean-peninsula/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-10-13T18:35:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "11 Missing as Drone Attacks Strike Two Ships Near NATO Waters",
       "url": "https://gcaptain.com/11-missing-as-drone-attacks-strike-two-ships-near-nato-waters/",
@@ -81,14 +113,6 @@
       "publishedAt": "2026-10-13T13:06:42Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Bulgaria Points to Russia as Drones Hit More Cargo Ships",
-      "url": "https://www.insurancejournal.com/news/international/2026/10/13/888718.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-10-13T12:51:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Trump slams ‘radical lunatics’ over claims Russia and China aid Iran",
@@ -227,28 +251,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "North Korea fires multiple ballistic missiles in continued weapons tests",
-      "url": "https://www.cbsnews.com/news/north-korea-fires-ballistic-missiles-tests/",
-      "source": "CBS News",
-      "publishedAt": "2026-10-12T02:37:19Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Iran calls latest US response to proposal 'insufficient'",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-calls-latest-us-response-to-proposal-insufficient/articleshow/134880513.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-12T01:59:39Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "South Korea’s military says North Korea fired a projectile toward the sea",
-      "url": "https://abcnews.com/International/wireStory/south-koreas-military-north-korea-fired-projectile-sea-137184009",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-12T01:19:30Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

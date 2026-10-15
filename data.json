@@ -1,22 +1,142 @@
 {
-  "updated": "2026-10-15T10:52:51Z",
-  "count": 30,
+  "updated": "2026-10-15T16:20:08Z",
+  "count": 31,
   "articles": [
     {
-      "title": "A 94-year-old Chicago billionaire hired workers to scatter nuts around Lincoln Park to feed squirrels for years; leftover food attracted rats, damaged park property and disrupted a nearby farmers' market",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-94-year-old-chicago-billionaire-hired-workers-to-scatter-nuts-around-lincoln-park-to-feed-squirrels-for-years-leftover-food-attracted-rats-damaged-park-property-and-disrupted-a-nearby-farmers-market/articleshow/134937221.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-14T09:14:57Z",
+      "title": "Today's news and jokes",
+      "url": "https://www.superpunch.net/2026/10/todays-news-and-jokes_01720123625.html",
+      "source": "Superpunch.net",
+      "publishedAt": "2026-10-14T16:00:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "A Saudi-Iran dean may keep the Bab al-Mandab Strait open",
+      "url": "https://www.globalresearch.ca/a-saudi-iran-dean-may-keep-the-bab-al-mandab-strait-open/5943819",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-10-14T15:58:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Deterrence is not a threat: UK statement to the OSCE",
+      "url": "https://www.gov.uk/government/speeches/deterrence-is-not-a-threat-uk-statement-to-the-osce",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-10-14T15:20:46Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "EU proposes one-year delay to methane rules for oil and gas imports",
-      "url": "https://timesofindia.indiatimes.com/world/europe/eu-proposes-one-year-delay-to-methane-rules-for-oil-and-gas-imports/articleshow/134937516.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-14T09:09:26Z",
+      "title": "The Painful Paradox of European Rearmament",
+      "url": "http://foreignpolicy.com/2026/10/14/europe-militarization-russia-paradox/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-14T14:58:19Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "Law of the Sea comes to life in the hunt for sanctioned Russian oil",
+      "url": "https://www.aljazeera.com/news/2026/10/14/law-of-the-sea-comes-to-life-in-the-hunt-for-sanctioned-russian-oil",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-14T14:38:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why can’t Saudi Arabia stop the Houthi attacks?",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/10/14/why-cant-saudi-arabia-stop-the-houthi-attacks/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-10-14T14:34:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ethnic Strife Looms Large As Trump’s Weighs Options In Iran",
+      "url": "https://www.fairobserver.com/region/middle_east_north_africa/ethnic-strife-looms-large-as-trumps-weighs-options-in-iran/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-10-14T14:02:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Nord Stream Sabotage Trial Begins With Explosive Allegations Against Ukraine",
+      "url": "https://oilprice.com/Geopolitics/Europe/Nord-Stream-Sabotage-Trial-Begins-With-Explosive-Allegations-Against-Ukraine.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-10-14T14:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia Hits Ukraine Energy Plants",
+      "url": "https://www.rigzone.com/news/wire/russia_hits_ukraine_energy_plants-14-oct-2026-184847-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-10-14T13:55:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelenskyy Accuses Trump, Musk of Throttling Satellite Usage",
+      "url": "https://www.rigzone.com/news/wire/zelenskyy_accuses_trump_musk_of_throttling_satellite_usage-14-oct-2026-184847-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-10-14T13:55:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Netanyahu says he is not seeking to attack Iran again before Israel election",
+      "url": "https://economictimes.indiatimes.com/news/defence/netanyahu-says-he-is-not-seeking-to-attack-iran-again-before-israel-election/articleshow/134943633.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-14T13:24:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "AMB GORDON SONDLAND: Threading the needle on Ukraine, Russia and China",
+      "url": "https://www.foxnews.com/opinion/amb-gordon-sondland-threading-needle-ukraine-russia-china",
+      "source": "Fox News",
+      "publishedAt": "2026-10-14T13:00:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Katz threatens Hezbollah: Join Iran's attack, lose more of Lebanon",
+      "url": "https://www.israelnationalnews.com/news/434598",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-14T12:53:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Zelenskyy says Russia keeps striking Ukraine's energy sites despite Trump ceasefire push",
+      "url": "https://economictimes.indiatimes.com/news/defence/zelenskyy-says-russia-keeps-striking-ukraines-energy-sites-despite-trump-ceasefire-push/articleshow/134942672.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-14T12:25:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Bulgaria says Russia likely behind Black Sea strikes as rescue operations continue",
+      "url": "https://abcnews.com/International/wireStory/bulgaria-russia-black-sea-drone-strikes-rescue-operations-137252912",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-10-14T12:20:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Wednesday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/10/14/wednesday-hili-dialogue-601/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-10-14T11:45:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: September 2026: Atrocities 1281-1352",
+      "url": "https://www.mcsweeneys.net/articles/september-2026-atrocities-1281-1352",
+      "source": "Mcsweeneys.net",
+      "publishedAt": "2026-10-14T11:35:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "‘Extending Russia’: Successes, Failures, and What Comes Next?",
@@ -25,62 +145,6 @@
       "publishedAt": "2026-10-14T09:00:20Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "One arrested in fake surety bail case",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/one-arrested-in-fake-surety-bail-case/articleshow/134937327.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-14T08:59:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "AAI JE admit card 2026 released for 379 vacancies: Check direct link to download hall tickets here",
-      "url": "https://timesofindia.indiatimes.com/education/news/aai-je-admit-card-2026-released-for-379-vacancies-check-direct-link-to-download-hall-tickets-here/articleshow/134937307.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-14T08:57:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A UK charity started a book club in 2018 with one simple idea, that reading could help families after disasters; eight years later more than 10,000 readers have received 160,169 books and raised £2 million",
-      "url": "https://timesofindia.indiatimes.com/world/uk/a-uk-charity-started-a-book-club-in-2018-with-one-simple-idea-that-reading-could-help-families-after-disasters-eight-years-later-more-than-10000-readers-have-received-160169-books-and-raised-2-million/articleshow/134937109.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-14T08:52:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "From Harvard to MIT: Where did the 2026 Nobel laureates study?",
-      "url": "https://timesofindia.indiatimes.com/education/news/from-harvard-to-mit-where-did-the-2026-nobel-laureates-study/articleshow/134936816.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-14T08:46:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "'Manager's wife attacked with bottles': A night out, a beer spill and a killing at Delhi club",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/managers-wife-attacked-with-bottles-a-night-out-a-beer-spill-and-a-killing-at-delhi-club/articleshow/134937087.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-14T08:44:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "In 2022 US Department of Agriculture funded a trial by spreading cardboard in gardens to avoid weeds; by the second season weeds covered only 15% of the cardboard beds compared to 45% in tilted beds",
-      "url": "https://timesofindia.indiatimes.com/science/discovery/in-2022-us-department-of-agriculture-funded-a-trial-by-spreading-cardboard-in-gardens-to-avoid-weeds-by-the-second-season-weeds-covered-only-15-of-the-cardboard-beds-compared-to-45-in-tilted-beds/articleshow/134936457.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-14T08:44:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Now Mumbai crime branch to probe fake caste certificate case",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/now-mumbai-crime-branch-to-probe-fake-caste-certificate-case/articleshow/134937088.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-14T08:42:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon",
@@ -115,60 +179,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Vincent Durac: For Houthis, war in Gaza is a chance to strengthen role in Iran’s ‘axis of resistance’",
-      "url": "https://www.irishtimes.com/opinion/2026/10/14/vincent-durac-for-houthis-war-in-gaza-is-a-chance-to-strengthen-role-in-irans-axis-of-resistance/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-10-14T05:00:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "China and North Korea to open New Yalu River Bridge, state media reports",
       "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports",
       "source": "Al Jazeera English",
       "publishedAt": "2026-10-14T04:27:18Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Australia’s defence establishment is incompetent and leading us to disaster",
-      "url": "http://www.crikey.com.au/2026/10/14/donald-trump-aukus-australia-defence-security/",
-      "source": "Crikey",
-      "publishedAt": "2026-10-14T00:59:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran shifting tactics to step up attacks on shipping before US vote: Officials",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-shifting-tactics-to-step-up-attacks-on-shipping-before-us-vote-officials/articleshow/134929470.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-14T00:53:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran shifting tactics to step up attacks on shipping before U.S. vote, officials say",
-      "url": "https://www.yahoo.com/news/us/articles/iran-shifting-tactics-step-attacks-000632093.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-14T00:11:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump must answer Houthis’ airport strike — and punish Iran for its chaos",
-      "url": "https://nypost.com/2026/10/13/opinion/trump-must-answer-houthis-airport-strike-to-punish-irans-chaos/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-13T23:28:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Fortifies Nuclear Sites, Threatens Wider War as U.S. Weighs New Strikes",
-      "url": "https://www.breitbart.com/politics/2026/10/13/iran-fortifies-nuclear-sites-threatens-wider-war-as-u-s-weighs-new-strikes/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-10-13T23:23:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ігор Смешко: THE STATE PYRAMID AND THE LAWS OF DEMOCRACY. Theses for the Strategy to Rebuild Ukraine (Part 7.2)",
@@ -201,14 +217,6 @@
       "publishedAt": "2026-10-13T14:55:47Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan?",
-      "url": "https://www.aljazeera.com/news/2026/10/13/block-blunt-break-whats-in-natos-new-russia-war-plan",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-13T14:52:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "How Taiwan Activates Beijing’s Chosen Fear",

@@ -1,7 +1,87 @@
 {
-  "updated": "2026-10-15T16:20:08Z",
-  "count": 31,
+  "updated": "2026-10-15T20:56:24Z",
+  "count": 33,
   "articles": [
+    {
+      "title": "The Nord Stream trial: Ukraine’s strategy of silence",
+      "url": "https://rt-english.com/news/647209-nord-stream-trial-germany/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-14T19:18:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Progressives Shouldn’t Call on Trump to Restore Military Exercises in Korea",
+      "url": "https://truthout.org/articles/progressives-shouldnt-call-on-trump-to-restore-military-exercises-in-korea/",
+      "source": "Truthout",
+      "publishedAt": "2026-10-14T19:02:16Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "How Trump Is Selling Out Ukraine",
+      "url": "https://www.theatlantic.com/podcasts/2026/10/david-frum-show-illia-ponomarenko-ukraine-trump/688994/?utm_source=feed",
+      "source": "The Atlantic",
+      "publishedAt": "2026-10-14T18:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How Trump’s diesel deal with Russia will impact the United States and Ukraine",
+      "url": "https://www.dw.com/en/how-trumps-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-14T17:55:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UN peacekeeping chief says major questions hang over southern Lebanon as UNIFIL exit nears",
+      "url": "https://abcnews.com/International/wireStory/peacekeeping-chief-major-questions-hang-southern-lebanon-unifil-137265005",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-10-14T17:49:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine Says Elon Musk’s SpaceX Hampers Drones For Attack And Defence, As U.S. Ties Fray",
+      "url": "https://www.huffpost.com/entry/ukraine-zelenskyy-elon-musk-starlink_n_6acfbaa2e4b0bfd25653976d",
+      "source": "HuffPost",
+      "publishedAt": "2026-10-14T17:30:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Attacks in Strait of Hormuz reach highest level since start of US Iran war, security data shows",
+      "url": "https://economictimes.indiatimes.com/news/defence/attacks-in-strait-of-hormuz-reach-highest-level-since-start-of-us-iran-war-security-data-shows/articleshow/134947229.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-14T17:12:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Report: Iran Steps Up Attacks on Hormuz Oil Shipments to Hurt Trump in Midterms",
+      "url": "https://legalinsurrection.com/2026/10/report-iran-steps-up-attacks-on-hormuz-oil-shipments-to-hurt-trump-in-midterms/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-10-14T17:00:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Poland considers reinstating conscription",
+      "url": "https://rt-english.com/news/647201-poland-considers-reinstating-conscription/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-14T16:54:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says oil, gas and mineral exploration in Greenland is set to begin. It's not that simple",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-says-oil-gas-and-mineral-exploration-in-greenland-is-set-to-begin-its-not-that-simple/articleshow/134947171.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-14T16:48:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Today's news and jokes",
       "url": "https://www.superpunch.net/2026/10/todays-news-and-jokes_01720123625.html",
@@ -67,22 +147,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Russia Hits Ukraine Energy Plants",
-      "url": "https://www.rigzone.com/news/wire/russia_hits_ukraine_energy_plants-14-oct-2026-184847-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-10-14T13:55:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy Accuses Trump, Musk of Throttling Satellite Usage",
-      "url": "https://www.rigzone.com/news/wire/zelenskyy_accuses_trump_musk_of_throttling_satellite_usage-14-oct-2026-184847-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-10-14T13:55:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Netanyahu says he is not seeking to attack Iran again before Israel election",
       "url": "https://economictimes.indiatimes.com/news/defence/netanyahu-says-he-is-not-seeking-to-attack-iran-again-before-israel-election/articleshow/134943633.cms",
       "source": "The Times of India",
@@ -107,60 +171,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Zelenskyy says Russia keeps striking Ukraine's energy sites despite Trump ceasefire push",
-      "url": "https://economictimes.indiatimes.com/news/defence/zelenskyy-says-russia-keeps-striking-ukraines-energy-sites-despite-trump-ceasefire-push/articleshow/134942672.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-14T12:25:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Bulgaria says Russia likely behind Black Sea strikes as rescue operations continue",
-      "url": "https://abcnews.com/International/wireStory/bulgaria-russia-black-sea-drone-strikes-rescue-operations-137252912",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-14T12:20:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Wednesday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/10/14/wednesday-hili-dialogue-601/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-10-14T11:45:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lest We Forget the Horrors: An Unending Catalog of Trump’s Cruelties, Collusions, Corruptions, and Crimes: September 2026: Atrocities 1281-1352",
-      "url": "https://www.mcsweeneys.net/articles/september-2026-atrocities-1281-1352",
-      "source": "Mcsweeneys.net",
-      "publishedAt": "2026-10-14T11:35:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘Extending Russia’: Successes, Failures, and What Comes Next?",
-      "url": "https://www.nakedcapitalism.com/2026/10/extending-russia-successes-failures-and-what-comes-next.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-14T09:00:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon",
       "url": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon",
       "source": "Al Jazeera English",
       "publishedAt": "2026-10-14T07:38:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran aims to humiliate Trump and ensure mid-term elections defeat with new Strait of Hormuz tactics",
-      "url": "https://www.dailymail.com/news/article-16207667/Iran-aims-humiliate-Trump-ensure-mid-term-elections-defeat-new-Straits-Hormuz-tactics.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-14T07:30:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "New bridge linking China and North Korea will open more than a decade late",

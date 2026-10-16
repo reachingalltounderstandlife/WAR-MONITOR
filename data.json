@@ -1,7 +1,127 @@
 {
-  "updated": "2026-10-16T10:43:53Z",
+  "updated": "2026-10-16T16:06:26Z",
   "count": 35,
   "articles": [
+    {
+      "title": "Trump Denies Cutting Ukraine Intelligence Amid Satellite Restrictions",
+      "url": "https://oilprice.com/Geopolitics/Europe/Trump-Denies-Cutting-Ukraine-Intelligence-Amid-Satellite-Restrictions.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-10-15T16:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Defence Secretary Wes Streeting Speech at the Center for Strategic and International Studies",
+      "url": "https://www.gov.uk/government/speeches/defence-secretary-wes-streeting-speech-at-the-center-for-strategic-and-international-studies",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-10-15T15:53:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hezbollah admits ownership of Lebanese-seized explosives: 'Bound for Attacks on IDF'",
+      "url": "https://www.israelnationalnews.com/news/434676",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-15T15:38:02Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Why Spain Is Standing Up to Trump",
+      "url": "http://foreignpolicy.com/2026/10/15/jose-manuel-albares-spain-foreign-policy-nato-trump-international-law/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-15T14:52:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea Holds First Underwater-Launched Missile Tests in Nearly 3 Years",
+      "url": "https://military.com/north-korea-holds-first-underwater-launched-missile-tests-in-nearly-3-years",
+      "source": "Military.com",
+      "publishedAt": "2026-10-15T14:06:25Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Russia is escalating rapidly: Builds large drone launch base near Ukraine in Just six weeks",
+      "url": "https://en.protothema.gr/2026/10/15/russia-is-escalating-rapidly-builds-large-drone-launch-base-near-ukraine-in-just-six-weeks/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-10-15T13:48:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What is Starshield, and who limited Ukraine’s access to it?",
+      "url": "https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-15T13:32:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Saudi Phase of the Iran War Signals More Chaos to Come",
+      "url": "https://www.thenation.com/article/world/iran-war-saudi-arabia-houthis-trump/",
+      "source": "Thenation.com",
+      "publishedAt": "2026-10-15T13:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Same Old, Same Old European Runaround",
+      "url": "https://freerepublic.com/focus/f-news/4399246/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-10-15T12:46:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hypersonic missiles highlight arms race on Korean Peninsula",
+      "url": "https://www.dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-15T12:02:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Yemen: The Endless Siege",
+      "url": "https://www.nybooks.com/articles/2026/11/05/yemen-the-endless-siege-the-yemen-model-stark/",
+      "source": "The New York Review of Books",
+      "publishedAt": "2026-10-15T12:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US considers hitting Iran with ‘mother of all bombs’: Report",
+      "url": "https://www.hurriyetdailynews.com/us-considers-hitting-iran-with-mother-of-all-bombs-report-228170",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-10-15T11:52:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "China-North Korea Bridge Opens After 10+ Years of Delays",
+      "url": "https://www.newser.com/story/398173/china-north-korea-bridge-opens-after-10-years-of-delays.html",
+      "source": "Newser",
+      "publishedAt": "2026-10-15T11:44:41Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US-Iran stalemate: What are Trump’s next military options?",
+      "url": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-15T11:41:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
+      "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-were-done/a-79667757",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-15T11:32:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "West Asia War: Riyadh Ravaged, Battles in Yemen, Iranian Mines Sink Ship",
       "url": "https://www.nakedcapitalism.com/?p=318128",
@@ -51,36 +171,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Uncertainty is the point: The growing drone campaign stalking NATO’s skies",
-      "url": "https://www.cbc.ca/news/world/growing-drone-campaign-nato-9.7381020",
-      "source": "CBC News",
-      "publishedAt": "2026-10-15T08:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Germany's AfD and populist BSW pass motion to end aid for Ukraine",
-      "url": "https://www.thelocal.de/20261015/germanys-afd-and-populist-bsw-pass-motion-to-end-aid-for-ukraine",
-      "source": "The Local Germany",
-      "publishedAt": "2026-10-15T07:45:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "New China-North Korea bridge opens after more than a decade of delay",
       "url": "https://abcnews.com/International/wireStory/new-china-north-korea-bridge-opens-after-decade-137277411",
       "source": "Abcnews.com",
       "publishedAt": "2026-10-15T07:30:18Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "How Sudan Became a Laboratory for Drone Warfare, Thanks to Abu Dhabi",
-      "url": "https://warontherocks.com/how-sudan-became-a-laboratory-for-drone-warfare-thanks-to-abu-dhabi/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-10-15T07:30:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "China opens joint airfield in Laos with eyes on its military role",
@@ -107,22 +203,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Ships burn and sailors vanish as the Black Sea shadow war spills into NATO waters",
-      "url": "https://www.naturalnews.com/2026-10-15-ships-sailors-black-sea-war-nato.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-10-15T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine says SpaceX restricted service for drone missions",
-      "url": "https://www.rte.ie/news/ukraine/2026/1015/1595431-ukraine-russia/",
-      "source": "RTE",
-      "publishedAt": "2026-10-15T04:35:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Short Iran War + Ansar Allah v. Saudis Update",
       "url": "https://www.nakedcapitalism.com/2026/10/short-iran-war-ansar-allah-v-saudis-update.html",
       "source": "Nakedcapitalism.com",
@@ -137,14 +217,6 @@
       "publishedAt": "2026-10-15T04:01:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "NATO’s top commander: “We must be ready to win a war with Russia — so we never have to fight one”",
-      "url": "https://europe.repubblica.it/en/news/2026/10/14/news/nato_giuseppe_cavo_dragone_interview_russia_war_deterrence-425644911/",
-      "source": "La Repubblica",
-      "publishedAt": "2026-10-15T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea tests submarine-launched missiles amid Trump-Kim meeting plans",
@@ -163,76 +235,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "North Korea and China open new bridge after 12-year delay",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o",
-      "source": "BBC News",
-      "publishedAt": "2026-10-15T02:59:30Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Yemen's Houthis look to build ballistic missiles with Chinese parts: Report",
       "url": "https://www.business-standard.com/world-news/yemen-s-houthis-look-to-build-ballistic-missiles-with-chinese-parts-report-126101500035_1.html",
       "source": "Business Standard",
       "publishedAt": "2026-10-15T02:02:25Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Houthis hit Aramco headquarters as Iran war widens across Saudi Arabia",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/houthis-hit-aramco-headquarters-as-iran-war-widens-across-saudi-arabia/articleshow/134954884.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-15T00:49:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "North Korea says it tested cruise missiles to be launched from sub",
-      "url": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-14T23:37:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The Strait of Hormuz Could Become America’s Suez Moment",
-      "url": "https://activistpost.com/the-strait-of-hormuz-could-become-americas-suez-moment/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-10-14T22:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Your alternative update on #COVID19 for 2026-10-14. Severe CV patients lacked bifido bacteria, also autism, alzheimer’s, crohn’s, lyme, IBS, mental health, invasive cancer",
-      "url": "https://paulthepaperbear.wordpress.com/2026/10/14/your-alternative-update-on-covid19-for-2026-10-14-severe-cv-patients-lacked-bifido-bacteria-also-autism-alzheimers-crohns-lyme-ibs-mental-health-invasive-cancer/",
-      "source": "Wordpress.com",
-      "publishedAt": "2026-10-14T21:23:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Nord Stream trial: Ukraine’s strategy of silence",
-      "url": "https://rt-english.com/news/647209-nord-stream-trial-germany/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-14T19:18:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Progressives Shouldn’t Call on Trump to Restore Military Exercises in Korea",
-      "url": "https://truthout.org/articles/progressives-shouldnt-call-on-trump-to-restore-military-exercises-in-korea/",
-      "source": "Truthout",
-      "publishedAt": "2026-10-14T19:02:16Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "How Trump’s diesel deal with Russia will impact the United States and Ukraine",
-      "url": "https://www.dw.com/en/how-trumps-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-14T17:55:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "UN peacekeeping chief says major questions hang over southern Lebanon as UNIFIL exit nears",
@@ -273,14 +281,6 @@
       "publishedAt": "2026-10-14T07:38:09Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "New bridge linking China and North Korea will open more than a decade late",
-      "url": "https://nypost.com/2026/10/14/world-news/new-bridge-linking-china-and-north-korea-will-open-more-than-a-decade-late/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-14T07:28:27Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

@@ -1,7 +1,119 @@
 {
-  "updated": "2026-10-17T14:58:47Z",
-  "count": 35,
+  "updated": "2026-10-17T20:08:38Z",
+  "count": 38,
   "articles": [
+    {
+      "title": "Things Have Changed",
+      "url": "https://freerepublic.com/focus/f-news/4399439/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-10-16T19:17:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran boosts defences after POTUS leaves room for 'Mother of all Bombs'",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-boosts-defences-after-potus-leaves-room-for-mother-of-all-bombs/articleshow/135002736.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-16T19:04:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli Military Raises Alert Level as Iran Tells Hezbollah to ‘Prepare For War’",
+      "url": "https://legalinsurrection.com/2026/10/israeli-military-raises-alert-level-as-iran-tells-hezbollah-to-prepare-for-war/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-10-16T19:00:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Boosts Air Defenses as It Braces for Fresh US Attacks",
+      "url": "https://military.com/iran-boosts-air-defenses-as-it-braces-for-fresh-us-attacks",
+      "source": "Military.com",
+      "publishedAt": "2026-10-16T18:53:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "349 slum rehab homes not given in 30 yrs, FIR on Royal Palms developer",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/349-slum-rehab-homes-not-given-in-30-yrs-fir-on-royal-palms-developer/articleshow/135002509.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-16T18:47:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Nigdi man loses ₹25 lakh in online share-trading fraud",
+      "url": "https://timesofindia.indiatimes.com/city/pune/nigdi-man-loses-25-lakh-in-online-share-trading-fraud/articleshow/135002511.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-16T18:46:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Railways, MSRTC step up efforts to conserve water",
+      "url": "https://timesofindia.indiatimes.com/city/pune/railways-msrtc-step-up-efforts-to-conserve-water/articleshow/135002507.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-16T18:46:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "2 minor brothers drown in rainwater-filled pit at Sonipat cow shelter",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/2-minor-brothers-drown-in-rainwater-filled-pit-at-sonipat-cow-shelter/articleshow/135002446.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-16T18:45:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Four in fray for GFA president’s post",
+      "url": "https://timesofindia.indiatimes.com/city/goa/four-in-fray-for-gfa-presidents-post/articleshow/135002426.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-16T18:44:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Fake beauty products with ₹6.9L face value seized from two shops; owners arrested",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/fake-beauty-products-with-6-9l-face-value-seized-from-two-shops-owners-arrested/articleshow/135002484.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-16T18:44:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Unveiling of The New India Assurance team’s T-shirt for Corporate Golf League in Jaipur",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/unveiling-of-the-new-india-assurance-teams-t-shirt-for-corporate-golf-league-in-jaipur/articleshow/135002482.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-16T18:44:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Sending Syrian Soldiers to Yemen Would Be a Mistake",
+      "url": "http://foreignpolicy.com/2026/10/16/syria-yemen-saudi-arabia-iran-houthis-sharaa/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-16T16:42:50Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Report to Congress on North Korea’s Nuclear Weapons and Missile Programs",
+      "url": "https://freerepublic.com/focus/f-chat/4399416/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-10-16T16:31:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Britain faces a 'frank conversation' over 'sacrifices' needed to defend the nation, warns Army chief in wake up call to Labour",
+      "url": "https://www.dailymail.com/news/article-16215031/Britain-faces-frank-conversation-sacrifices-needed-defend-nation-warns-Army-chief-wake-call-Labour.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-16T16:30:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "In space, no-one hears Zelensky scream: No euros can buy Kiev options in orbit",
       "url": "https://rt-english.com/russia/647295-ukraine-alternatives-starlink-intelligence/",
@@ -39,32 +151,8 @@
       "url": "https://www.nakedcapitalism.com/2026/10/links-10-16-2026.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-10-16T10:55:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
-      "url": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-16T10:21:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "West Asian War: Ansar Allah Hits Enemy HQ in Aden",
-      "url": "https://www.nakedcapitalism.com/2026/10/west-asian-war-ansar-allah-hit-al-maashiq-saudi-arabia-centcom-hormuz.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-16T10:05:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Mohammed bin Salman faces most consequential test yet as Saudi Arabia comes under Houthi fire",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/crisis-in-saudi-arabia-mohammed-bin-salman-confronts-escalating-houthi-attacks-amidst-regional-chaos-yemen-mbs-donald-trump-riyadh-saudi-aramco/articleshow/134985115.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-16T10:01:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "China-North Korea border bridge may do little to spur trade, experts say",
@@ -107,30 +195,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Changing the Narrative: What Does a Whole-of-Society Approach to Defense Entail?",
-      "url": "https://smallwarsjournal.com/2026/10/16/changing-the-narrative-what-does-a-whole-of-society-approach-to-defense-entail/",
-      "source": "Smallwarsjournal.com",
-      "publishedAt": "2026-10-16T06:00:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Pentagon’s Desperate MOAB Plan: A Symbolic Attack That Won’t Win the War",
-      "url": "https://www.naturalnews.com/2026-10-16-the-pentagons-desperate-moab-plan.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-10-16T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump’s Russian diesel deal shifts Ukraine war dynamic, alarms European allies",
-      "url": "https://www.naturalnews.com/2026-10-16-trump-russian-diesel-shifts-ukraine-war-dynamic.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-10-16T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea accuses US of working with Japanese militarists to develop nuclear weapons",
       "url": "https://www.naturalnews.com/2026-10-16-north-korea-accuses-us-of-working-with-japanese-militarists-to-develop-nuclear-weapons.html",
       "source": "Naturalnews.com",
@@ -139,36 +203,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Houthis are helping Iran turn Saudi Arabia into a pressure point: Here's how",
-      "url": "https://economictimes.indiatimes.com/news/defence/houthis-are-helping-iran-turn-saudi-arabia-into-a-pressure-point-heres-how/articleshow/134982057.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-16T04:09:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel unlikely to attack Iran before elections – media",
-      "url": "https://rt-english.com/news/647268-israeli-unlikely-attack-iran-elections/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-16T04:08:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Rubio urges Lebanon to not return confiscated explosives to Hezbollah: US official",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/rubio-urges-lebanon-to-not-return-confiscated-explosives-to-hezbollah-us-official/articleshow/134980866.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-16T02:50:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump rules out nuclear strike on Iran, says no plans for ground troops",
-      "url": "https://www.israelnationalnews.com/news/434698",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-16T00:37:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Rubio to Lebanon's President: Confiscated explosives must not be returned to Hezbollah",
@@ -177,14 +217,6 @@
       "publishedAt": "2026-10-16T00:08:27Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "GOP hawks urge Trump to force Putin to make a deal: ‘Need a Churchill’",
-      "url": "https://nypost.com/2026/10/15/us-news/gop-hawks-urge-trump-to-force-putin-to-make-a-deal-need-a-churchill/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-15T22:44:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "China Opens Long-Delayed Bridge to North Korea After Years of Diplomatic Strain",
@@ -265,14 +297,6 @@
       "publishedAt": "2026-10-15T06:55:43Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "North Korea holds first underwater-launched missile tests in nearly 3 years",
-      "url": "https://economictimes.indiatimes.com/news/defence/north-korea-holds-first-underwater-launched-missile-tests-in-nearly-3-years/articleshow/134959323.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-15T06:23:18Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "Yemen's Houthis look to build ballistic missiles with Chinese parts: Report",

@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-16T20:30:53Z",
-  "count": 36,
+  "updated": "2026-10-17T03:03:43Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "Rubio urges Lebanon to not return confiscated explosives to Hezbollah: US official",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/rubio-urges-lebanon-to-not-return-confiscated-explosives-to-hezbollah-us-official/articleshow/134980866.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-16T02:50:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump rules out nuclear strike on Iran, says no plans for ground troops",
+      "url": "https://www.israelnationalnews.com/news/434698",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-16T00:37:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Rubio to Lebanon's President: Confiscated explosives must not be returned to Hezbollah",
+      "url": "https://www.israelnationalnews.com/news/434697",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-16T00:08:27Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "GOP hawks urge Trump to force Putin to make a deal: ‘Need a Churchill’",
+      "url": "https://nypost.com/2026/10/15/us-news/gop-hawks-urge-trump-to-force-putin-to-make-a-deal-need-a-churchill/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-15T22:44:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "China Opens Long-Delayed Bridge to North Korea After Years of Diplomatic Strain",
+      "url": "https://www.breitbart.com/asia/2026/10/15/china-opens-long-delayed-bridge-to-north-korea-after-years-of-diplomatic-strain/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-10-15T20:42:18Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "Tehran has asked Hezbollah to prepare for a new regional war: What Iran’s “mosaic defense” doctrine entails",
       "url": "https://en.protothema.gr/2026/10/15/tehran-has-asked-hezbollah-to-prepare-for-a-new-regional-war-what-irans-mosaic-defense-doctrine-entails/",
@@ -183,8 +223,8 @@
       "url": "https://www.nakedcapitalism.com/?p=318128",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-10-15T10:15:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "North Korea holds first underwater-launched missile tests in nearly 3 years",
@@ -193,14 +233,6 @@
       "publishedAt": "2026-10-15T09:30:44Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Houthis 'have started producing their own advanced missiles using Chinese parts'",
-      "url": "https://www.dailymail.com/news/article-16210897/Houthis-China-advanced-missiles-Chinese-parts.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-15T08:17:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "New China-North Korea bridge opens after more than a decade of delay",
@@ -235,58 +267,10 @@
       "_label": "N. Korea"
     },
     {
-      "title": "North Korea tests two submarine-launched missiles, state media reports",
-      "url": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-15T03:23:49Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Yemen's Houthis look to build ballistic missiles with Chinese parts: Report",
       "url": "https://www.business-standard.com/world-news/yemen-s-houthis-look-to-build-ballistic-missiles-with-chinese-parts-report-126101500035_1.html",
       "source": "Business Standard",
       "publishedAt": "2026-10-15T02:02:25Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "UN peacekeeping chief says major questions hang over southern Lebanon as UNIFIL exit nears",
-      "url": "https://abcnews.com/International/wireStory/peacekeeping-chief-major-questions-hang-southern-lebanon-unifil-137265005",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-14T17:49:16Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Today's news and jokes",
-      "url": "https://www.superpunch.net/2026/10/todays-news-and-jokes_01720123625.html",
-      "source": "Superpunch.net",
-      "publishedAt": "2026-10-14T16:00:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Netanyahu says he is not seeking to attack Iran again before Israel election",
-      "url": "https://economictimes.indiatimes.com/news/defence/netanyahu-says-he-is-not-seeking-to-attack-iran-again-before-israel-election/articleshow/134943633.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-14T13:24:32Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Katz threatens Hezbollah: Join Iran's attack, lose more of Lebanon",
-      "url": "https://www.israelnationalnews.com/news/434598",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-14T12:53:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon",
-      "url": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-14T07:38:09Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

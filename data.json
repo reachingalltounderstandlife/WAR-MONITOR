@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-17T10:09:47Z",
+  "updated": "2026-10-17T14:58:47Z",
   "count": 35,
   "articles": [
+    {
+      "title": "In space, no-one hears Zelensky scream: No euros can buy Kiev options in orbit",
+      "url": "https://rt-english.com/russia/647295-ukraine-alternatives-starlink-intelligence/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-16T14:28:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "'This is my answer': Zelensky smiles when asked about Trump making him a 'scapegoat' as he faces disastrous mid-terms",
+      "url": "https://www.dailymail.com/news/article-16214805/This-answer-Zelensky-smiles-asked-Trump-making-scapegoat-face-disastrous-mid-terms.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-16T14:04:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Things Have Changed",
+      "url": "https://www.kunstler.com/p/things-have-changed-78b",
+      "source": "Kunstler.com",
+      "publishedAt": "2026-10-16T12:29:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The death of humanity",
+      "url": "https://fortune.com/2026/10/16/the-death-of-humanity-stephen-messer/",
+      "source": "Fortune",
+      "publishedAt": "2026-10-16T11:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Links 10/16/2026",
+      "url": "https://www.nakedcapitalism.com/2026/10/links-10-16-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-16T10:55:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump rules out using a nuclear bomb on Iran: Why that matters",
+      "url": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-16T10:21:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "West Asian War: Ansar Allah Hits Enemy HQ in Aden",
       "url": "https://www.nakedcapitalism.com/2026/10/west-asian-war-ansar-allah-hit-al-maashiq-saudi-arabia-centcom-hormuz.html",
@@ -91,22 +139,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Ukraine Abandons Truce That Moscow Did Not Heed, Attacks Russian Oil Refinery",
-      "url": "https://www.huffpost.com/entry/russia-ukraine-war_n_6ad1a9a4e4b0bfd256577839",
-      "source": "HuffPost",
-      "publishedAt": "2026-10-16T04:50:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine Hits Russian Refinery; Zelenskiy Says ‘We’re Done’ with Trump’s Energy Truce",
-      "url": "https://www.insurancejournal.com/news/international/2026/10/16/889153.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-10-16T04:30:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Houthis are helping Iran turn Saudi Arabia into a pressure point: Here's how",
       "url": "https://economictimes.indiatimes.com/news/defence/houthis-are-helping-iran-turn-saudi-arabia-into-a-pressure-point-heres-how/articleshow/134982057.cms",
       "source": "The Times of India",
@@ -169,38 +201,6 @@
       "publishedAt": "2026-10-15T19:53:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Trump could have Zelensky arrested – Galloway",
-      "url": "https://rt-english.com/news/647229-zelensky-us-trump-confrontation/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-15T18:57:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Western Europe is giving its spies teeth",
-      "url": "https://rt-english.com/news/647259-europe-gives-spies-teeth/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-15T18:02:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How the Houthis are Helping Iran Turn Saudi Arabia Into a Pressure Point",
-      "url": "https://gcaptain.com/how-the-houthis-are-helping-iran-turn-saudi-arabia-into-a-pressure-point/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-10-15T18:00:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump's ‘mother of all bombs’ hit on Iran could be a fireworks show",
-      "url": "https://economictimes.indiatimes.com/news/defence/trumps-mother-of-all-bombs-hit-on-iran-could-be-a-fireworks-show/articleshow/134972313.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-15T17:07:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Hezbollah admits ownership of Lebanese-seized explosives: 'Bound for Attacks on IDF'",

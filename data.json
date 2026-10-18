@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-17T20:08:38Z",
-  "count": 38,
+  "updated": "2026-10-18T03:06:17Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "North Korea says tested AI-assisted torpedo system",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-ai-torpedo-system-6467791",
+      "source": "CNA",
+      "publishedAt": "2026-10-17T02:11:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "How the Iran Conflict Opened a New Threat to the Global Monetary System",
+      "url": "https://activistpost.com/how-the-iran-conflict-opened-a-new-threat-to-the-global-monetary-system/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-10-17T01:29:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine’s strikes on Russian oil refineries is not impacting US gas prices: report",
+      "url": "https://nypost.com/2026/10/16/world-news/ukraines-strikes-on-russian-oil-refineries-is-not-impacting-us-gas-prices-report/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-17T00:48:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "BORIS JOHNSON: Putin has a plan for Ukraine - a hideous and genocidal one. We're all disgusted at Trump's betrayal but what's Europe's plan to end this terrible war?",
+      "url": "https://www.dailymail.com/debate/article-16215627/BORIS-JOHNSON-Putin-Ukraine-Trumps-Europe.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-17T00:19:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Picked Putin Over Ukraine This Week. Will It Stick?",
+      "url": "https://slate.com/news-and-politics/2026/10/ukraine-russia-war-trump-putin-zelensky.html",
+      "source": "Slate Magazine",
+      "publishedAt": "2026-10-16T21:13:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine Resumes Oil Refinery Strikes as Trump’s Russia Diesel Deal Faces Test",
+      "url": "https://military.com/ukraine-resumes-oil-refinery-strikes-as-trumps-russia-diesel-deal-faces-test",
+      "source": "Military.com",
+      "publishedAt": "2026-10-16T20:47:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "An Underwater Shadow War Is Raging",
+      "url": "http://foreignpolicy.com/2026/10/16/undersea-war-book-review-cables-ocean-gray-zone-tactics/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-16T20:20:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Things Have Changed",
       "url": "https://freerepublic.com/focus/f-news/4399439/posts",
@@ -71,22 +127,6 @@
       "url": "https://timesofindia.indiatimes.com/city/goa/four-in-fray-for-gfa-presidents-post/articleshow/135002426.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-16T18:44:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Fake beauty products with ₹6.9L face value seized from two shops; owners arrested",
-      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/fake-beauty-products-with-6-9l-face-value-seized-from-two-shops-owners-arrested/articleshow/135002484.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-16T18:44:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Unveiling of The New India Assurance team’s T-shirt for Corporate Golf League in Jaipur",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/unveiling-of-the-new-india-assurance-teams-t-shirt-for-corporate-golf-league-in-jaipur/articleshow/135002482.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-16T18:44:13Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -163,38 +203,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Drone strikes in Black Sea raise fears of Russian escalation",
-      "url": "https://www.hurriyetdailynews.com/drone-strikes-in-black-sea-raise-fears-of-russian-escalation-228205",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-10-16T08:48:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelensky rallies European allies as Trump ties slump",
-      "url": "https://www.hurriyetdailynews.com/zelensky-rallies-european-allies-as-trump-ties-slump-228199",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-10-16T07:01:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Drone strikes in the Black Sea raise fears of Russian escalation to test NATO",
-      "url": "https://abcnews.com/Business/wireStory/drone-strikes-black-sea-raise-fears-russian-escalation-137309941",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-16T06:27:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump calls Ukraine's strikes on Russian oil a 'disgrace' after his 'energy ceasefire' collapses",
-      "url": "https://www.thejournal.ie/trump-zelenskyy-russia-oil-strikes-7195047-Oct2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-10-16T06:10:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea accuses US of working with Japanese militarists to develop nuclear weapons",
       "url": "https://www.naturalnews.com/2026-10-16-north-korea-accuses-us-of-working-with-japanese-militarists-to-develop-nuclear-weapons.html",
       "source": "Naturalnews.com",
@@ -215,94 +223,6 @@
       "url": "https://www.israelnationalnews.com/news/434697",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-10-16T00:08:27Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "China Opens Long-Delayed Bridge to North Korea After Years of Diplomatic Strain",
-      "url": "https://www.breitbart.com/asia/2026/10/15/china-opens-long-delayed-bridge-to-north-korea-after-years-of-diplomatic-strain/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-10-15T20:42:18Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Tehran has asked Hezbollah to prepare for a new regional war: What Iran’s “mosaic defense” doctrine entails",
-      "url": "https://en.protothema.gr/2026/10/15/tehran-has-asked-hezbollah-to-prepare-for-a-new-regional-war-what-irans-mosaic-defense-doctrine-entails/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-10-15T19:53:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Hezbollah admits ownership of Lebanese-seized explosives: 'Bound for Attacks on IDF'",
-      "url": "https://www.israelnationalnews.com/news/434676",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-15T15:38:02Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea Holds First Underwater-Launched Missile Tests in Nearly 3 Years",
-      "url": "https://military.com/north-korea-holds-first-underwater-launched-missile-tests-in-nearly-3-years",
-      "source": "Military.com",
-      "publishedAt": "2026-10-15T14:06:25Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Hypersonic missiles highlight arms race on Korean Peninsula",
-      "url": "https://www.dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-15T12:02:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "China-North Korea Bridge Opens After 10+ Years of Delays",
-      "url": "https://www.newser.com/story/398173/china-north-korea-bridge-opens-after-10-years-of-delays.html",
-      "source": "Newser",
-      "publishedAt": "2026-10-15T11:44:41Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "West Asia War: Riyadh Ravaged, Battles in Yemen, Iranian Mines Sink Ship",
-      "url": "https://www.nakedcapitalism.com/?p=318128",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-15T10:15:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea holds first underwater-launched missile tests in nearly 3 years",
-      "url": "https://nypost.com/2026/10/15/world-news/north-korea-holds-first-underwater-launched-missile-tests-in-nearly-3-years/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-15T09:30:44Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "New China-North Korea bridge opens after more than a decade of delay",
-      "url": "https://abcnews.com/International/wireStory/new-china-north-korea-bridge-opens-after-decade-137277411",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-15T07:30:18Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "China opens joint airfield in Laos with eyes on its military role",
-      "url": "https://abcnews.com/International/wireStory/china-opens-joint-airfield-laos-construction-ongoing-eyes-137275971",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-15T06:55:43Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Yemen's Houthis look to build ballistic missiles with Chinese parts: Report",
-      "url": "https://www.business-standard.com/world-news/yemen-s-houthis-look-to-build-ballistic-missiles-with-chinese-parts-report-126101500035_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-15T02:02:25Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

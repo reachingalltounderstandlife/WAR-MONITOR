@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-18T20:07:07Z",
-  "count": 31,
+  "updated": "2026-10-19T03:20:13Z",
+  "count": 22,
   "articles": [
+    {
+      "title": "Inside the Chinese city helping sustain hermit kingdom North Korea",
+      "url": "https://www.abc.net.au/news/2026-10-18/china-dandong-north-korea-ties/107275378",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-10-18T02:36:23Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump says Iran war will end ‘very quickly’, predicts lower US gas prices",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-says-iran-war-will-end-very-quickly-predicts-lower-us-gas-prices/article71598997.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-18T02:17:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump asserts Iran war will end 'very quickly,' touts military strikes on Tehran's nuclear sites",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-asserts-iran-war-will-end-very-quickly-touts-military-strikes-on-tehrans-nuclear-sites/articleshow/135022688.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-18T01:19:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin doesn't have to declare war to wage war on us. If we don't start preparing soon for the battle ahead, I fear it will be too late: PHILIP INGRAM",
+      "url": "https://www.dailymail.com/debate/article-16217335/Putin-declare-war-preparing-battle-late-Philip-Ingram.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-18T00:10:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Zelensky reveals evidence he says PROVES US has slowed down Starlink satellite system in Ukraine as Elon Musk is blamed",
       "url": "https://www.dailymail.com/news/article-16217017/Zelenksy-evidence-PROVES-US-slowed-Starlink.html",
@@ -83,14 +115,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "In Canada's drone-killing 'Sandbox,' companies compete for a $1M prize",
-      "url": "https://www.cbc.ca/news/politics/counter-drone-sandbox-competition-alberta-9.7382438",
-      "source": "CBC News",
-      "publishedAt": "2026-10-17T08:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Yemen Civil War scenarios: The role of Turkey and Pakistan, possible US intervention and Iran’s potential gains",
       "url": "https://en.protothema.gr/2026/10/17/yemen-civil-war-scenarios-the-role-of-turkey-and-pakistan-possible-us-intervention-and-irans-potential-gains/",
       "source": "Protothema.gr",
@@ -153,102 +177,6 @@
       "publishedAt": "2026-10-17T00:48:52Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Iran boosts defences after POTUS leaves room for 'Mother of all Bombs'",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-boosts-defences-after-potus-leaves-room-for-mother-of-all-bombs/articleshow/135002736.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-16T19:04:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli Military Raises Alert Level as Iran Tells Hezbollah to ‘Prepare For War’",
-      "url": "https://legalinsurrection.com/2026/10/israeli-military-raises-alert-level-as-iran-tells-hezbollah-to-prepare-for-war/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-10-16T19:00:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Boosts Air Defenses as It Braces for Fresh US Attacks",
-      "url": "https://military.com/iran-boosts-air-defenses-as-it-braces-for-fresh-us-attacks",
-      "source": "Military.com",
-      "publishedAt": "2026-10-16T18:53:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "349 slum rehab homes not given in 30 yrs, FIR on Royal Palms developer",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/349-slum-rehab-homes-not-given-in-30-yrs-fir-on-royal-palms-developer/articleshow/135002509.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-16T18:47:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Nigdi man loses ₹25 lakh in online share-trading fraud",
-      "url": "https://timesofindia.indiatimes.com/city/pune/nigdi-man-loses-25-lakh-in-online-share-trading-fraud/articleshow/135002511.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-16T18:46:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Sending Syrian Soldiers to Yemen Would Be a Mistake",
-      "url": "http://foreignpolicy.com/2026/10/16/syria-yemen-saudi-arabia-iran-houthis-sharaa/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-10-16T16:42:50Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Report to Congress on North Korea’s Nuclear Weapons and Missile Programs",
-      "url": "https://freerepublic.com/focus/f-chat/4399416/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-10-16T16:31:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The death of humanity",
-      "url": "https://fortune.com/2026/10/16/the-death-of-humanity-stephen-messer/",
-      "source": "Fortune",
-      "publishedAt": "2026-10-16T11:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "China-North Korea border bridge may do little to spur trade, experts say",
-      "url": "https://www.aljazeera.com/economy/2026/10/16/china-north-korea-border-bridge-may-do-little-to-spur-trade-experts-say",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-16T09:21:40Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea accuses US of working with Japanese militarists to develop nuclear weapons",
-      "url": "https://www.naturalnews.com/2026-10-16-north-korea-accuses-us-of-working-with-japanese-militarists-to-develop-nuclear-weapons.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-10-16T06:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Rubio urges Lebanon to not return confiscated explosives to Hezbollah: US official",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/rubio-urges-lebanon-to-not-return-confiscated-explosives-to-hezbollah-us-official/articleshow/134980866.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-16T02:50:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Rubio to Lebanon's President: Confiscated explosives must not be returned to Hezbollah",
-      "url": "https://www.israelnationalnews.com/news/434697",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-16T00:08:27Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

@@ -1,7 +1,127 @@
 {
-  "updated": "2026-10-19T12:10:52Z",
-  "count": 25,
+  "updated": "2026-10-19T21:59:52Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "America Is Now an Ally of Russia",
+      "url": "https://www.theatlantic.com/ideas/2026/10/america-now-ally-russia/689066/?utm_source=feed",
+      "source": "The Atlantic",
+      "publishedAt": "2026-10-18T21:51:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Analysis: For Trump, Results Have Often Revealed The Art Of No Deal",
+      "url": "https://www.huffpost.com/entry/trump-dealmaker-analysis_n_6ad53dcde4b00caf853cbda1",
+      "source": "HuffPost",
+      "publishedAt": "2026-10-18T21:48:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump endorses 'great warrior' Netanyahu ahead of Israeli election",
+      "url": "https://www.abc.net.au/news/2026-10-19/trump-endorses-netanyahu-ahead-of-israeli-election/107281646",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-10-18T21:13:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Exclusive — Secretary Marco Rubio after Acropolis Address: Americans ‘the Heirs’ of Western Civilization, ‘Things We Believe as a Country Are Important’",
+      "url": "https://www.breitbart.com/politics/2026/10/18/exclusive-secretary-marco-rubio-after-acropolis-address-americans-the-heirs-of-western-civilization-things-we-believe-as-a-country-are-important/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-10-18T21:04:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu unveils new security doctrine: From defense to offense",
+      "url": "https://www.israelnationalnews.com/news/434801",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-18T20:08:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What Australia could learn from its Southeast Asian neighbours about power and the changing global order",
+      "url": "https://theconversation.com/what-australia-could-learn-from-its-southeast-asian-neighbours-about-power-and-the-changing-global-order-285694",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-10-18T19:12:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump endorses embattled Israeli Prime Minister Benjamin Netanyahu for reelection",
+      "url": "https://abcnews.com/Politics/wireStory/trump-endorses-embattled-israeli-prime-minister-benjamin-netanyahu-137361719",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-10-18T18:10:17Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump Gives Benjamin Netanyahu The Endorsement He's Been Waiting For",
+      "url": "https://www.huffpost.com/entry/donald-trump-endorses-benjamin-netanyahu_n_6ad4ec7ee4b0ce24aeda0ec4",
+      "source": "HuffPost",
+      "publishedAt": "2026-10-18T16:10:51Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Benjamin Netanyahu: 'We are heading for a great victory; it's not far off'",
+      "url": "https://www.israelnationalnews.com/news/434792",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-18T15:30:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Treasury secretary refuses to say if the U.S. sees Ukraine as an ally",
+      "url": "https://www.nbcnews.com/politics/trump-administration/treasury-secretary-bessent-refuses-us-ukraine-ally-starlink-rcna604129",
+      "source": "NBC News",
+      "publishedAt": "2026-10-18T15:24:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A former Trump Organization executive vice president says Trump ‘could be a better negotiator if his ego didn’t get in the way’",
+      "url": "https://fortune.com/2026/10/18/former-trump-organization-executive-vice-president-negotiation-sklls-dealmaking-ego-compromise/",
+      "source": "Fortune",
+      "publishedAt": "2026-10-18T15:08:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Says Strait of Hormuz Reopening Offer Still Stands as Mine Strikes and Tanker Fires Choke Oil Flows",
+      "url": "https://www.ibtimes.com.au/iran-strait-hormuz-reopening-us-conditions-1876960",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-10-18T14:27:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine sets Saint Petersburg refinery ablaze in attack",
+      "url": "https://www.rte.ie/news/ukraine/2026/1018/1595862-ukraine-russia-conflict/",
+      "source": "RTE",
+      "publishedAt": "2026-10-18T13:14:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia has moved past ‘hybrid war.’ Why hasn’t Washington?",
+      "url": "https://www.defenseone.com/ideas/2026/10/russia-has-moved-past-hybrid-war-why-hasnt-washington/416629/",
+      "source": "Defense One",
+      "publishedAt": "2026-10-18T13:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Is FIFA scrapping its peace prize after awarding it to US President Trump?",
+      "url": "https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-18T12:49:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine",
       "url": "https://www.foxnews.com/politics/trump-tries-different-approach-russia-bring-americans-relief-amid-ongoing-war-ukraine",
@@ -23,22 +143,6 @@
       "url": "https://www.nakedcapitalism.com/2026/10/west-asia-wars-egypt-parliament-yemen-saudi-arabia-hormuz.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-10-18T10:05:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "EXCLUSIVE: The Iran War Is Going To Go Ballistic After Midterms",
-      "url": "https://dailycaller.com/2026/10/18/united-states-military-iran-war-escalation-midterm-elections-polling",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-10-18T09:10:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Gulf States Suppressed Information About Infrastructure Damage from Iranian Attacks",
-      "url": "https://www.naturalnews.com/2026-10-18-gulf-states-suppressed-information-about-infrastructure-damage.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-10-18T06:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -67,34 +171,10 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Trump says Iran war will end ‘very quickly’, predicts lower US gas prices",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-says-iran-war-will-end-very-quickly-predicts-lower-us-gas-prices/article71598997.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-10-18T02:17:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump asserts Iran war will end 'very quickly,' touts military strikes on Tehran's nuclear sites",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-asserts-iran-war-will-end-very-quickly-touts-military-strikes-on-tehrans-nuclear-sites/articleshow/135022688.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-18T01:19:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Putin doesn't have to declare war to wage war on us. If we don't start preparing soon for the battle ahead, I fear it will be too late: PHILIP INGRAM",
       "url": "https://www.dailymail.com/debate/article-16217335/Putin-declare-war-preparing-battle-late-Philip-Ingram.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-10-18T00:10:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelensky reveals evidence he says PROVES US has slowed down Starlink satellite system in Ukraine as Elon Musk is blamed",
-      "url": "https://www.dailymail.com/news/article-16217017/Zelenksy-evidence-PROVES-US-slowed-Starlink.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-17T18:25:32Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -105,54 +185,6 @@
       "publishedAt": "2026-10-17T17:57:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Zelensky treating Europe as his ‘personal ATM’ – MEP",
-      "url": "https://rt-english.com/news/647339-zelensky-europe-personal-atm-vannacci/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-17T16:27:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How big is Russia's threat against Germany?",
-      "url": "https://www.dw.com/en/how-big-is-russias-threat-against-germany/a-79688426",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-17T15:23:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Kasparov Says Talks With Putin Pointless, War Is 'Ideological Basis' Of His Rule",
-      "url": "https://www.rferl.org/a/kasparov-says-talks-with-putin-pointless-war-is-ideological-basis-of-his-rule/33877974.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-10-17T14:02:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump's war with the EU: How US president's hatred of the European bloc has exploded - fuelled by migrant crisis, rise of radical Islam and NATO 'freeloading'",
-      "url": "https://www.dailymail.com/news/article-16204775/Trumps-war-EU-US-presidents-hatred-European-bloc-exploded-fuelled-migrant-crisis-rise-radical-Islam-NATO-freeloading.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-17T13:13:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
-      "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro",
-      "source": "BBC News",
-      "publishedAt": "2026-10-17T12:56:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Yemen Civil War scenarios: The role of Turkey and Pakistan, possible US intervention and Iran’s potential gains",
-      "url": "https://en.protothema.gr/2026/10/17/yemen-civil-war-scenarios-the-role-of-turkey-and-pakistan-possible-us-intervention-and-irans-potential-gains/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-10-17T06:17:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea claims successful test of AI-powered 'Zam-2.0' torpedo system",
@@ -175,16 +207,16 @@
       "url": "https://www.aljazeera.com/news/2026/10/17/the-israeli-politicians-seeking-to-replace-netanyahu",
       "source": "Al Jazeera English",
       "publishedAt": "2026-10-17T05:00:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump move to restart direct US flights with Lebanon hits roadblock",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-move-to-restart-direct-us-flights-with-lebanon-hits-roadblock/articleshow/135006602.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-17T03:52:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "North Korea says tested AI-assisted torpedo system",
@@ -193,14 +225,6 @@
       "publishedAt": "2026-10-17T02:11:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "How the Iran Conflict Opened a New Threat to the Global Monetary System",
-      "url": "https://activistpost.com/how-the-iran-conflict-opened-a-new-threat-to-the-global-monetary-system/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-10-17T01:29:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     }
   ]
 }

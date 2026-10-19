@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-19T03:20:13Z",
-  "count": 22,
+  "updated": "2026-10-19T12:10:52Z",
+  "count": 25,
   "articles": [
+    {
+      "title": "Trump tries different approach with Russia to bring Americans relief amid ongoing war with Ukraine",
+      "url": "https://www.foxnews.com/politics/trump-tries-different-approach-russia-bring-americans-relief-amid-ongoing-war-ukraine",
+      "source": "Fox News",
+      "publishedAt": "2026-10-18T12:00:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 10/18/2026",
+      "url": "https://www.nakedcapitalism.com/2026/10/links-10-18-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-18T10:55:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "West Asia Wars: Egyptian Parliament Weighs Defense of Saudi Arabia, Why Ansar Allah’s Missile Accuracy Has Improved",
+      "url": "https://www.nakedcapitalism.com/2026/10/west-asia-wars-egypt-parliament-yemen-saudi-arabia-hormuz.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-18T10:05:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "EXCLUSIVE: The Iran War Is Going To Go Ballistic After Midterms",
+      "url": "https://dailycaller.com/2026/10/18/united-states-military-iran-war-escalation-midterm-elections-polling",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-10-18T09:10:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Gulf States Suppressed Information About Infrastructure Damage from Iranian Attacks",
+      "url": "https://www.naturalnews.com/2026-10-18-gulf-states-suppressed-information-about-infrastructure-damage.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-18T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Warsaw Security Forum: A message of confidence, not panic",
+      "url": "https://www.rte.ie/news/2026/1018/1595769-warsaw-security-forum-a-message-of-confidence-not-panic/",
+      "source": "RTE",
+      "publishedAt": "2026-10-18T05:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A message of confidence, not panic, at security forum",
+      "url": "https://www.rte.ie/news/2026/1018/1595769-warsaw-security-forum/",
+      "source": "RTE",
+      "publishedAt": "2026-10-18T05:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Inside the Chinese city helping sustain hermit kingdom North Korea",
       "url": "https://www.abc.net.au/news/2026-10-18/china-dandong-north-korea-ties/107275378",
@@ -91,30 +147,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "What Has Anti-Imperialism Gotten Iran?",
-      "url": "https://www.theatlantic.com/international/2026/10/west-iran-economy-us/689039/?utm_source=feed",
-      "source": "The Atlantic",
-      "publishedAt": "2026-10-17T11:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "New York Times analysis: How Trump and Zelensky reached the brink of a complete break in just one week – What it could mean for the war in Ukraine",
-      "url": "https://en.protothema.gr/2026/10/17/new-york-times-analysis-how-trump-and-zelensky-reached-the-brink-of-a-complete-break-in-just-one-week-what-it-could-mean-for-the-war-in-ukraine/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-10-17T08:52:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Elon Musk 'was responsible' for slowdown of Starlink satellite system that stopped Ukraine intercepting Russian drones and hitting back behind enemy lines",
-      "url": "https://www.dailymail.com/news/article-16216429/Elon-Musk-responsible-slowdown-Starlink-satellite-stopped-Ukraine-intercepting-Russian-drones-hitting-enemy-lines.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-17T08:15:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Yemen Civil War scenarios: The role of Turkey and Pakistan, possible US intervention and Iran’s potential gains",
       "url": "https://en.protothema.gr/2026/10/17/yemen-civil-war-scenarios-the-role-of-turkey-and-pakistan-possible-us-intervention-and-irans-potential-gains/",
       "source": "Protothema.gr",
@@ -167,14 +199,6 @@
       "url": "https://activistpost.com/how-the-iran-conflict-opened-a-new-threat-to-the-global-monetary-system/",
       "source": "Activistpost.com",
       "publishedAt": "2026-10-17T01:29:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine’s strikes on Russian oil refineries is not impacting US gas prices: report",
-      "url": "https://nypost.com/2026/10/16/world-news/ukraines-strikes-on-russian-oil-refineries-is-not-impacting-us-gas-prices-report/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-17T00:48:52Z",
       "_cat": "iran",
       "_label": "Iran War"
     }

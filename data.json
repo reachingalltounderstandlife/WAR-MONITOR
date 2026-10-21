@@ -1,7 +1,87 @@
 {
-  "updated": "2026-10-21T16:38:20Z",
-  "count": 37,
+  "updated": "2026-10-21T21:15:47Z",
+  "count": 42,
   "articles": [
+    {
+      "title": "China Sends Navy After US Warship As Separate Maritime Standoff Erupts Near Taiwan",
+      "url": "https://dailycaller.com/2026/10/20/china-sends-navy-after-us-warship-taiwan-maritime-standoff",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-10-20T20:51:20Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Trump weighs next move against Iran: The nice way or the not nice way",
+      "url": "https://www.israelnationalnews.com/news/434918",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-20T20:41:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o",
+      "source": "BBC News",
+      "publishedAt": "2026-10-20T19:38:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "One Kurdish Peace Deal Could Ignite Another Middle Eastern Conflict",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/One-Kurdish-Peace-Deal-Could-Ignite-Another-Middle-Eastern-Conflict.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-10-20T19:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Planned deadlock: 'Iran is dragging talks to influence US midterms'",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/planned-deadlock-iran-is-dragging-talks-to-influence-us-midterms/articleshow/135075892.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-20T18:59:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Aid to Ukraine has fallen dramatically since Trump took over — after Biden sent $130 billion",
+      "url": "https://nypost.com/2026/10/20/world-news/aid-to-ukraine-has-fallen-dramatically-since-trump-took-over-after-biden-sent-130-billion/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-20T18:36:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon faces uncertainty as UNIFIL mandate nears end",
+      "url": "https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-20T18:19:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Coffee Break: Armed Madhouse – Weapons Fetishism: When the Tools of War no Longer Serve Strategic Ends",
+      "url": "https://www.nakedcapitalism.com/2026/10/coffee-break-armed-madhouse-weapons-fetishism-when-the-tools-of-war-no-longer-serve-strategic-ends.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-20T18:00:16Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "As Macron visits Gulf, can France forge its own energy-for-security future?",
+      "url": "https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-20T17:22:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu Says He Discussed Change of Power in Iran With Trump on October 18",
+      "url": "https://sputnikglobe.com/20261020/netanyahu-says-he-discussed-change-of-power-in-iran-with-trump-on-october-18-1124912613.html",
+      "source": "Sputnikglobe.com",
+      "publishedAt": "2026-10-20T16:54:10Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "European Deception of Winning in Ukraine",
       "url": "https://www.globalresearch.ca/european-deception-of-winning-in-ukraine/5944133",
@@ -67,28 +147,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Russia’s Shadow Role in Iran War Comes Under Fresh Scrutiny",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/Russias-Shadow-Role-in-Iran-War-Comes-Under-Fresh-Scrutiny.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-10-20T14:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "A Framework for Peace in Ukraine",
       "url": "https://www.commondreams.org/opinion/framework-for-peace-in-ukraine",
       "source": "Common Dreams",
       "publishedAt": "2026-10-20T13:55:53Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy says if Trump can't stop Putin, help Ukraine do it",
-      "url": "https://www.cbsnews.com/news/ukraine-war-trump-zelenskyy-putin-us-interceptor-missiles-star/",
-      "source": "CBS News",
-      "publishedAt": "2026-10-20T13:26:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea Wants Security Talks With the US, Not Nuclear Talks",
@@ -103,8 +167,8 @@
       "url": "https://activistpost.com/empire-of-lies-restoring-the-history-the-warlords-need-us-to-forget/",
       "source": "Activistpost.com",
       "publishedAt": "2026-10-20T12:56:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Kim Jong Un Health Rumors Persist Despite New Photos as Daughter Kim Ju Ae's Rise Fuels Succession Talk",
@@ -113,14 +177,6 @@
       "publishedAt": "2026-10-20T12:08:30Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Iran regime under pressure as rebel groups escalate attacks in volatile southeast",
-      "url": "https://www.foxnews.com/world/iran-regime-under-pressure-rebel-groups-escalate-attacks-volatile-southeast",
-      "source": "Fox News",
-      "publishedAt": "2026-10-20T11:51:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Links 10/20/2026",
@@ -215,22 +271,6 @@
       "url": "https://freerepublic.com/focus/f-news/4399821/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-10-19T22:09:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A New Chapter with Russia",
-      "url": "https://dailyreckoning.com/a-new-chapter-with-russia/",
-      "source": "Dailyreckoning.com",
-      "publishedAt": "2026-10-19T22:00:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump faces bipartisan backlash over waiving Russia sanctions",
-      "url": "https://www.cbsnews.com/news/trump-faces-bipartisan-backlash-over-waiving-russia-sanctions/",
-      "source": "CBS News",
-      "publishedAt": "2026-10-19T21:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

@@ -1,7 +1,103 @@
 {
-  "updated": "2026-10-21T03:23:15Z",
-  "count": 31,
+  "updated": "2026-10-21T11:11:50Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "Links 10/20/2026",
+      "url": "https://www.nakedcapitalism.com/2026/10/links-10-20-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-20T10:59:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran War: Kinetic Action and US Threats Continue at Low Boil as Tanker Attacks and Resulting Nosebleed Charges Plus Continues Supply Choking Increase Economic Toll",
+      "url": "https://www.nakedcapitalism.com/2026/10/iran-war-kinetic-action-and-us-threats-continue-at-low-boil-as-tanker-attacks-and-resulting-nosebleed-charges-plus-continues-supply-choking-increase-economic-toll.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-20T10:57:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hegseth and Netanyahu hold secret talks – Axios",
+      "url": "https://rt-english.com/news/647429-hegseth-netanyahu-secret-visit/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-20T10:41:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea issues 'proof of life' images of Kim Jong Un after rumours he had died from a brain haemorrhage",
+      "url": "https://www.dailymail.com/news/article-16222833/North-Korea-Kim-Jong-death-rumours.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-20T08:50:25Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "South Korea to withdraw some Kyiv embassy staff as row over POW transfer deepens",
+      "url": "https://abcnews.com/International/wireStory/south-korea-withdraw-kyiv-embassy-staff-row-pow-137404006",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-10-20T07:41:45Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Guns, Growth, and the German Reinvention of Military Keynesianism",
+      "url": "https://warontherocks.com/guns-growth-and-the-german-reinvention-of-military-keynesianism/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-10-20T07:30:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian Foreign Ministry Accuses Ukraine of Striking Own Infrastructure to Discredit Russia",
+      "url": "https://www.naturalnews.com/2026-10-20-russia-accuses-ukraine-of-striking-own-infrastructure.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-20T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine Depletes U.S. Patriot Interceptor Stockpile as Russia Steps Up Ballistic Missile Attacks, Report Says",
+      "url": "https://www.naturalnews.com/2026-10-20-ukraine-depletes-patriot-stockpile-russia-escalates-attacks.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-20T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump approval hits record low of 31% ahead of US midterm elections: Poll",
+      "url": "https://www.business-standard.com/world-news/trump-approval-hits-record-low-of-31-ahead-of-us-midterm-elections-poll-126102000205_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-20T05:52:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump open to idea of joint meeting with Xi Jinping, Putin next month",
+      "url": "https://www.business-standard.com/world-news/trump-open-to-idea-of-joint-meeting-with-xi-jinping-putin-next-month-126102000202_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-20T05:45:06Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Hegseth meets Netanyahu ahead of elections, possible Iran war restart",
+      "url": "https://www.cbsnews.com/news/hegseth-visits-israel-elections-iran-war-netanyahu/",
+      "source": "CBS News",
+      "publishedAt": "2026-10-20T04:50:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Kim Jong Un Alive? North Korea Releases Exhibition Photos After Viral Death and Brain Hemorrhage Rumors",
+      "url": "https://www.ibtimes.com.au/north-korea-kim-jong-un-photos-death-rumours-1877025",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-10-20T04:40:57Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "Donald Trump Approval At Record Low — Disastrous Economy & Inflation Might Play A Part",
       "url": "https://cleantechnica.com/2026/10/19/donald-trump-approval-at-record-low-disastrous-economy-inflation-might-play-a-part/",
@@ -83,14 +179,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "How the Iran war is ruining Saudi Arabia’s plans",
-      "url": "https://www.vox.com/podcasts/506853/saudi-arabia-airport-houthis-yemen-iran-war",
-      "source": "Vox",
-      "publishedAt": "2026-10-19T21:05:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump faces bipartisan backlash over waiving Russia sanctions",
       "url": "https://www.cbsnews.com/news/trump-faces-bipartisan-backlash-over-waiving-russia-sanctions/",
       "source": "CBS News",
@@ -107,28 +195,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Women favor Democrats by 18 points as Trump's approval falls to a new low",
-      "url": "https://www.yahoo.com/news/politics/articles/exclusive-trump-approval-falls-record-194154076.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-19T20:22:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel threatens to impose ‘Gaza model’ on Lebanon (VIDEO)",
       "url": "https://rt-english.com/news/647399-israel-lebanon-destruction-military/",
       "source": "Rt-english.com",
       "publishedAt": "2026-10-19T20:00:50Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Senate Democrats Demand Public Release of Pentagon's Secret Data Detailing Costs of Iran War",
-      "url": "https://www.commondreams.org/news/democrats-iran-war-cost",
-      "source": "Common Dreams",
-      "publishedAt": "2026-10-19T19:16:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Why Pete Hegseth’s remarks on Nato’s Afghanistan role have drawn UK rebuke and raised fresh questions over US-Europe relations",
@@ -147,34 +219,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran chillingly warns it has ‘unfinished jobs’ in latest threat to US",
-      "url": "https://nypost.com/2026/10/19/world-news/iran-warns-it-has-unfinished-jobs-in-latest-threat-to-us/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-19T16:13:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump is Selling Out Ukraine to Putin",
       "url": "http://www.rollingstone.com/politics/political-commentary/trump-selling-out-ukraine-volodymyr-zelensky-putin-1235644662/",
       "source": "Rolling Stone",
       "publishedAt": "2026-10-19T15:45:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin Proposes Trump-Xi Summit on Ukraine War, Leaving Kyiv Outside Talks",
-      "url": "https://military.com/putin-proposes-trump-xi-summit-on-ukraine-war-leaving-kyiv-outside-talks",
-      "source": "Military.com",
-      "publishedAt": "2026-10-19T15:35:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO reshapes military strategy amid warning of possible Russian attack by 2029",
-      "url": "https://en.protothema.gr/2026/10/19/nato-reshapes-military-strategy-amid-warning-of-possible-russian-attack-by-2029/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-10-19T14:27:13Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -195,28 +243,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Links 10/19/2026",
-      "url": "https://www.nakedcapitalism.com/2026/10/links-10-19-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-19T10:55:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The Iran War Has Changed the World Forever",
       "url": "http://foreignpolicy.com/2026/10/19/iran-war-effects-world-gulf-china-israel/",
       "source": "Foreign Policy",
       "publishedAt": "2026-10-19T10:00:09Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "What Comes Next in Europe? The ‘Years of Lead’ Offer a Preview",
-      "url": "https://www.nakedcapitalism.com/2026/10/years-of-lead-await-europe.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-19T09:00:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Hezbollah funding plan indicates a new challenge to Lebanon’s government",

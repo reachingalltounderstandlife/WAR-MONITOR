@@ -1,7 +1,103 @@
 {
-  "updated": "2026-10-22T16:39:17Z",
-  "count": 37,
+  "updated": "2026-10-22T21:12:13Z",
+  "count": 41,
   "articles": [
+    {
+      "title": "Washington orders U.S. embassy staff to leave Saudi Arabia after near-daily Houthi attacks",
+      "url": "https://www.yahoo.com/news/us/articles/washington-orders-us-embassy-staff-203401687.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-21T20:34:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Witkoff Pushes Putin to Restart Peace Talks",
+      "url": "http://foreignpolicy.com/2026/10/21/witkoff-putin-russia-ukraine-peace-talks-zelensky-trump/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-21T20:04:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Report: IAF conducts show of force near Iranian border",
+      "url": "https://www.israelnationalnews.com/news/434974",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-21T19:55:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+      "url": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-21T19:32:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What China wants from a Trump-Putin summit on Ukraine",
+      "url": "https://www.dw.com/en/what-china-wants-from-a-trump-putin-summit-on-ukraine/a-79726190",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-21T19:32:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Selected Articles: France’s Economic Strain: Public Debt, Monetary Constraints, and Political Deadlock",
+      "url": "https://www.globalresearch.ca/selected-articles-france-economic-strain-public-debt-monetary-constraints-political-deadlock/5944269",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-10-21T19:02:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+      "url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-21T18:58:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli robot APC goes rogue, IDF airstrikes nearly spark diplomatic crisis",
+      "url": "https://www.israelnationalnews.com/news/434969",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-21T18:49:18Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Netanyahu says 'toppling' Iran government only way to end threat",
+      "url": "https://www.channelnewsasia.com/world/netanyahu-says-toppling-iran-government-only-way-end-threat-6480096",
+      "source": "CNA",
+      "publishedAt": "2026-10-21T18:45:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How Israel has redrawn the map since the October 7 terrorist attack",
+      "url": "https://www.abc.net.au/news/2026-10-22/israel-redraws-the-map-in-gaza-lebanon-syria-and-the-west-bank/107180346",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-10-21T18:35:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "There Might Be a Cover-Up Going on Over the Latest Lithuanian Drone Incident",
+      "url": "https://korybko.substack.com/p/there-might-be-a-cover-up-going-on",
+      "source": "Substack.com",
+      "publishedAt": "2026-10-21T18:00:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A ‘pipe dream of EU hawks’: What’s in Brussels’ new Arctic Strategy?",
+      "url": "https://rt-english.com/news/647492-eu-arctic-strategy-russia/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-21T17:17:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Israeli Forces Detain and Then Release US Congressional Candidate at West Bank Harvest",
       "url": "https://military.com/israeli-forces-detain-and-then-release-us-congressional-candidate-at-west-bank-harvest",
@@ -59,36 +155,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "U.S. envoy Witkoff meets with Putin in Russia amid report Musk throttled Starlink",
-      "url": "https://www.cbc.ca/news/world/russia-ukraine-witkoff-putin-starlink-musk-9.7389616",
-      "source": "CBC News",
-      "publishedAt": "2026-10-21T11:40:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Links 10/21/2026",
-      "url": "https://www.nakedcapitalism.com/2026/10/links-10-21-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-21T10:55:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran War: Iran Hardens Position as Israel Promises Strikes on Energy Infrastructure, US Moves in New Carrier Group; Will Saudis Get Mecca Accord Help?",
       "url": "https://www.nakedcapitalism.com/2026/10/iran-war-iran-hardens-position-as-israel-promises-strikes-on-energy-infrastructure-us-moves-in-new-carrier-group-will-saudis-get-mecca-accord-help.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-10-21T10:54:24Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "US envoy Witkoff meets with Putin in effort to advance proposals to end war in Ukraine",
-      "url": "https://krdo.com/news/national-world/cnn-world/2026/10/21/us-envoy-witkoff-lands-in-russia-for-talks-with-putin/",
-      "source": "KRDO",
-      "publishedAt": "2026-10-21T10:31:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran Says Mines Set Three Tankers Ablaze in Strait of Hormuz as US Military Calls Tehran's Claims False",
@@ -107,28 +179,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Putin Hosts Witkoff For New Ukraine Peace Talks, Frees U.S. Citizen Held In Russia",
-      "url": "https://www.huffpost.com/entry/putin-witkoff-us-citizen-release_n_6ad88657e4b0ba084e1377a6",
-      "source": "HuffPost",
-      "publishedAt": "2026-10-21T09:39:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israel eliminates Hamas October 7 terrorist who killed and abducted Shani Louk before parading her semi-naked body in the back of a truck in scenes that sickened the world",
       "url": "https://www.dailymail.com/news/article-16225759/Israel-eliminates-Hamas-October-7-terrorist-killed-abducted-Shani-Louk-parading-semi-naked-body-truck-scenes-sickened-world.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-10-21T07:43:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy",
-      "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-21T07:37:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Tehran is a Different Beast Now",
@@ -139,36 +195,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Ukraine peace talks make progress as US envoy prepares to meet Putin",
-      "url": "https://en.protothema.gr/2026/10/21/ukraine-peace-talks-make-progress-as-us-envoy-prepares-to-meet-putin/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-10-21T06:45:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Report: Trump blocked new Israeli campaign against Iran",
-      "url": "https://www.israelnationalnews.com/news/434931",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-21T05:00:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'We have no trust in the Americans' — Araghchi",
-      "url": "https://sputnikglobe.com/20261021/we-have-no-trust-in-the-americans--araghchi-1124913076.html",
-      "source": "Sputnikglobe.com",
-      "publishedAt": "2026-10-21T03:38:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump Weighs Next Move Against Iran: ‘The Nice Way or the Not Nice Way’",
       "url": "https://www.breitbart.com/politics/2026/10/20/trump-weighs-next-move-against-iran-nice-way-notnice-way/",
       "source": "Breitbart News",
       "publishedAt": "2026-10-21T00:58:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Middle East Conflicts Exacerbate Transatlantic Differences, Highlight Alliance Solidarity Problem",
@@ -191,8 +223,8 @@
       "url": "https://www.iranintl.com/en/202610207766",
       "source": "Iranintl.com",
       "publishedAt": "2026-10-20T21:18:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "China Sends Navy After US Warship As Separate Maritime Standoff Erupts Near Taiwan",

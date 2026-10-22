@@ -1,7 +1,71 @@
 {
-  "updated": "2026-10-22T11:10:33Z",
-  "count": 35,
+  "updated": "2026-10-22T16:39:17Z",
+  "count": 37,
   "articles": [
+    {
+      "title": "Israeli Forces Detain and Then Release US Congressional Candidate at West Bank Harvest",
+      "url": "https://military.com/israeli-forces-detain-and-then-release-us-congressional-candidate-at-west-bank-harvest",
+      "source": "Military.com",
+      "publishedAt": "2026-10-21T16:29:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "European Civil Unrest Highlights the Social Crisis in the Western Industrial States",
+      "url": "https://www.globalresearch.ca/european-civil-unrest-highlights-social-crisis-western-industrial-states/5944198",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-10-21T16:16:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO 3.0 Is a Dangerous Gamble",
+      "url": "http://foreignpolicy.com/2026/10/21/nato-us-nuclear-weapons-military-defense-strategy-colby/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-21T16:11:33Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Iran Tells US to Prove It Wants Peace by Lifting Blockade",
+      "url": "https://military.com/iran-tells-us-to-prove-it-wants-peace-by-lifting-blockade",
+      "source": "Military.com",
+      "publishedAt": "2026-10-21T14:58:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Starlink is getting dragged into Russia's hybrid war against the West",
+      "url": "https://www.businessinsider.com/starlink-is-getting-drawn-into-russias-hybrid-war-against-west-2026-10#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-10-21T13:17:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Poland has no Patriot missiles to spare for Ukraine",
+      "url": "https://rt-english.com/news/647468-poland-nato-ukraine-patriot-missiles/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-21T12:57:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
+      "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-21T12:18:10Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "U.S. envoy Witkoff meets with Putin in Russia amid report Musk throttled Starlink",
+      "url": "https://www.cbc.ca/news/world/russia-ukraine-witkoff-putin-starlink-musk-9.7389616",
+      "source": "CBC News",
+      "publishedAt": "2026-10-21T11:40:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Links 10/21/2026",
       "url": "https://www.nakedcapitalism.com/2026/10/links-10-21-2026.html",
@@ -83,36 +147,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Rubio acknowledges Ukraine strains, denies policy shift",
-      "url": "https://www.hurriyetdailynews.com/rubio-acknowledges-ukraine-strains-denies-policy-shift-228401",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-10-21T06:14:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Report: Trump blocked new Israeli campaign against Iran",
       "url": "https://www.israelnationalnews.com/news/434931",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-10-21T05:00:39Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "US envoy to meet Putin after Oslo talks with Zelenskiy",
-      "url": "https://www.perthnow.com.au/news/conflict/zelenskiy-meets-witkoff-as-us-ukraine-relations-ebb-c-23050350",
-      "source": "PerthNow",
-      "publishedAt": "2026-10-21T04:24:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The ‘War of Grand Design’ Transforms to More Narrowly Bolster US Hegemony",
-      "url": "https://www.lewrockwell.com/2026/10/no_author/the-war-of-grand-design-transforms-to-more-narrowly-bolster-us-hegemony/",
-      "source": "Lewrockwell.com",
-      "publishedAt": "2026-10-21T04:01:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "'We have no trust in the Americans' — Araghchi",
@@ -161,30 +201,6 @@
       "publishedAt": "2026-10-20T20:51:20Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Trump weighs next move against Iran: The nice way or the not nice way",
-      "url": "https://www.israelnationalnews.com/news/434918",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-20T20:41:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "One Kurdish Peace Deal Could Ignite Another Middle Eastern Conflict",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/One-Kurdish-Peace-Deal-Could-Ignite-Another-Middle-Eastern-Conflict.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-10-20T19:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Planned deadlock: 'Iran is dragging talks to influence US midterms'",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/planned-deadlock-iran-is-dragging-talks-to-influence-us-midterms/articleshow/135075892.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-20T18:59:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Lebanon faces uncertainty as UNIFIL mandate nears end",

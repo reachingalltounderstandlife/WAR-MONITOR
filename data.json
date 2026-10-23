@@ -1,7 +1,143 @@
 {
-  "updated": "2026-10-23T11:02:08Z",
-  "count": 29,
+  "updated": "2026-10-23T16:29:16Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Israeli Prime Minister Netanyahu orders IDF, Mossad to pursue overthrow of Iranian regime",
+      "url": "https://nypost.com/2026/10/22/world-news/netanyahu-orders-idf-mossad-to-pursue-overthrow-of-iranian-regime/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-22T16:22:28Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "The possible October surprise attack on Iran that Trump may be envisaging",
+      "url": "https://freethoughtblogs.com/singham/2026/10/22/the-possible-october-surprise-attack-on-iran-that-trump-may-be-envisaging/",
+      "source": "Freethoughtblogs.com",
+      "publishedAt": "2026-10-22T16:11:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "This Time, the Korean Loudspeaker Standoff Is Different",
+      "url": "https://thediplomat.com/2026/10/this-time-the-korean-loudspeaker-standoff-is-different/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-10-22T15:16:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran's Hardliners Push for Nuclear Weapons as U.S. War Drags On",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Hardliners-Push-for-Nuclear-Weapons-as-US-War-Drags-On.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-10-22T15:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
+      "url": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-22T14:55:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "India, Poland agree to ‘Defence Industry Dialogue’ to revive historical military cooperation",
+      "url": "https://www.thehindubusinessline.com/news/india-poland-agree-to-defence-industry-dialogue-to-revive-historical-military-cooperation/article71612248.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-22T14:47:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Is Iran ready for another major US attack after midterm elections?",
+      "url": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-22T14:16:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu’s National Security Doctrine Revealed as Election Nears",
+      "url": "https://www.globalresearch.ca/netanyahu-national-security-doctrine-revealed/5944194",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-10-22T14:13:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Black Sea Maritime Security and Türkiye’s Inescapable Responsibility",
+      "url": "https://www.globalresearch.ca/black-sea-maritime-security-turkiye-inescapable-responsibility/5944242",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-10-22T14:10:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The view from Russia: The Ukraine conflict is entering its final phase",
+      "url": "https://rt-english.com/news/647500-ukraine-conflict-final-stage/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-22T13:40:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Donald Trump’s Diesel Deal Shows How Western Leaders Are Losing Control",
+      "url": "https://www.fairobserver.com/united-states/donald-trumps-diesel-deal-shows-how-western-leaders-are-losing-control/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-10-22T13:12:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump is trying ‘The Art of the Deal’ in Ukraine but what must Putin give up?",
+      "url": "https://www.foxnews.com/opinion/trump-trying-art-deal-ukraine-what-must-putin-give-up",
+      "source": "Fox News",
+      "publishedAt": "2026-10-22T13:00:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US, Israel develop plans for renewed strikes on Iran: Report",
+      "url": "https://www.hurriyetdailynews.com/us-israel-develop-plans-for-renewed-strikes-on-iran-report-228484",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-10-22T13:00:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Nightmare for Trump as oil prices rocket with 12 days to midterms after report reveals president plotting 'Mother of All Bombs' Iran blitz",
+      "url": "https://www.dailymail.com/news/article-16230003/trump-oil-prices-iran-blitz.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-22T12:48:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
+      "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-22T12:12:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia pounds Ukraine's capital Kyiv with missiles and drones, hours after agreeing to peace talks",
+      "url": "https://www.cbc.ca/news/world/ukraine-russia-missile-attack-9.7391250",
+      "source": "CBC News",
+      "publishedAt": "2026-10-22T11:39:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia Drones Are Already Killing People Within EU Territory",
+      "url": "https://www.insurancejournal.com/news/international/2026/10/22/889958.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-10-22T11:17:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Links 10/22/2026",
       "url": "https://www.nakedcapitalism.com/2026/10/links-10-22-2026.html",
@@ -9,70 +145,6 @@
       "publishedAt": "2026-10-22T10:55:15Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran War: Iran Believes Attack Imminent as Netanyahu Reported to Persuade Trump to Launch Before Midterms ; Global Stocks Fall as Oil Price Increases Continue",
-      "url": "https://www.nakedcapitalism.com/2026/10/iran-war-iran-believes-attack-imminent-as-netanyahu-reported-to-persuade-trump-to-launch-before-midterms-global-stocks-fall-as-oil-price-increases-continue.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-22T10:54:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli forces kill disabled man in southern Syria raid, state media says",
-      "url": "https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-22T10:01:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu to Arutz Sheva: Report Trump blocked Iran strike is 'incorrect'",
-      "url": "https://www.israelnationalnews.com/news/435006",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-22T09:21:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro",
-      "source": "BBC News",
-      "publishedAt": "2026-10-22T09:14:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
-      "url": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-22T09:00:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US orders embassy staff, families to leave Saudi Arabia",
-      "url": "https://punchng.com/us-orders-embassy-staff-families-to-leave-saudi-arabia/",
-      "source": "The Punch",
-      "publishedAt": "2026-10-22T08:09:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "NYT: US and Israel plan major new strikes on Iran after midterm elections, weighing three-day assault",
-      "url": "https://en.protothema.gr/2026/10/22/nyt-us-and-israel-plan-major-new-strikes-on-iran-after-midterm-elections-weighing-three-day-assault/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-10-22T07:51:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran's IRGC claims four oil ships hit, three others strike mines in Hormuz",
-      "url": "https://www.business-standard.com/world-news/iran-s-irgc-claims-four-oil-ships-hit-three-others-strike-mines-in-hormuz-126102200404_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-22T07:22:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea says it will resume propaganda broadcasts across border into South Korea",
@@ -99,66 +171,18 @@
       "_label": "Ukraine"
     },
     {
-      "title": "\"Not negotiating\": Trump says \"something will happen fairly soon\" with Iran, as US mulls fresh strikes",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/not-negotiating-trump-says-something-will-happen-fairly-soon-with-iran-as-us-mulls-fresh-strikes/articleshow/135107174.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-22T04:45:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Beyond the ballot: Why Israel's next leader may stick to Netanyahu's doctrine",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/beyond-the-ballot-why-israels-next-leader-may-stick-to-netanyahus-doctrine/articleshow/135106940.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-22T04:19:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The Radical Left’s War On The West: From Tirana To Paris",
       "url": "https://www.americanthinker.com/articles/2026/10/the-radical-left-s-war-on-the-west-from-tirana-to-paris/",
       "source": "Americanthinker.com",
       "publishedAt": "2026-10-22T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Curious What Canada’s PM Considers Threat to ‘Peace’",
-      "url": "https://original.antiwar.com/yves_engler/2026/10/21/curious-what-canadas-pm-considers-threat-to-peace/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-10-22T00:00:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A Framework for Peace in Ukraine",
-      "url": "https://original.antiwar.com/jeffrey_sachs/2026/10/21/a-framework-for-peace-in-ukraine/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-10-22T00:00:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Witkoff Pushes Putin to Restart Peace Talks",
-      "url": "http://foreignpolicy.com/2026/10/21/witkoff-putin-russia-ukraine-peace-talks-zelensky-trump/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-10-21T20:04:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
-      "url": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-21T19:32:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "What China wants from a Trump-Putin summit on Ukraine",
-      "url": "https://www.dw.com/en/what-china-wants-from-a-trump-putin-summit-on-ukraine/a-79726190",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-21T19:32:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

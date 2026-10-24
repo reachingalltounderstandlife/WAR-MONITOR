@@ -1,7 +1,87 @@
 {
-  "updated": "2026-10-23T21:00:17Z",
-  "count": 35,
+  "updated": "2026-10-24T03:21:56Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "Israelis are heading to the polls in their most seismic election in decades",
+      "url": "https://www.abc.net.au/news/2026-10-23/israel-election-2026-explained/107287156",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-10-23T02:34:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Australia hits North Korean 'shadow bankers' with fresh sanctions",
+      "url": "https://www.abc.net.au/news/2026-10-23/penny-wong-north-korea-company-sanctions/107301184",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-10-23T02:32:50Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+      "url": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-23T01:46:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Two Kinds Of War: Ukraine, Gaza, And The Strategic Watershed",
+      "url": "https://www.thefp.com/p/niall-ferguson-the-method-to-trumps-nixon-realism",
+      "source": "Thefp.com",
+      "publishedAt": "2026-10-23T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Signals More Iran Strikes — ‘We May Do It a Little Bit Further’",
+      "url": "https://www.breitbart.com/politics/2026/10/22/trump-signals-more-iran-strikes-we-may-do-it-a-little-bit-further/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-10-22T23:52:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran pushes hard on its nuclear rebuild — daring Trump to strike again",
+      "url": "https://nypost.com/2026/10/22/opinion/iran-pushes-its-nuclear-rebuild-daring-trump-to-strike-again/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-22T23:51:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Report: Trump eyes multi-day Iran offensive after midterms",
+      "url": "https://www.israelnationalnews.com/news/435037",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-22T23:05:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Presidential Address to Federal Assembly",
+      "url": "https://freerepublic.com/focus/f-news/4400214/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-10-22T22:08:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s Gamble to End the Iran War",
+      "url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/?utm_source=feed",
+      "source": "The Atlantic",
+      "publishedAt": "2026-10-22T21:41:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump signals more strikes on Iran: We may do it a little bit further",
+      "url": "https://www.israelnationalnews.com/news/435034",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-22T21:08:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Trump Puts His Faith in Putin",
       "url": "http://foreignpolicy.com/2026/10/22/trump-putin-russia-ukraine-peace-talks/",
@@ -51,22 +131,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Both Sides Are Preparing To Greatly Escalate The Great Middle East War, And So The Global Energy Crisis And The Global Food Crisis Will Both Intensify",
-      "url": "http://theeconomiccollapseblog.com/both-sides-are-preparing-to-greatly-escalate-the-great-middle-east-war-and-so-the-global-energy-crisis-and-the-global-food-crisis-will-both-intensify/",
-      "source": "Theeconomiccollapseblog.com",
-      "publishedAt": "2026-10-22T17:53:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US and Israel drawing up plans to resume attacks on Iran post-election, sources say",
-      "url": "https://abcnews.com/Politics/us-israel-drawing-plans-resume-attacks-iran-post/story?id=137479897",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-22T17:51:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North and South Korea tensions rise as Pyongyang fortifies border",
       "url": "https://www.abc.net.au/news/2026-10-23/tensions-rise-on-korea-border/107299192",
       "source": "ABC News (AU)",
@@ -83,14 +147,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "The possible October surprise attack on Iran that Trump may be envisaging",
-      "url": "https://freethoughtblogs.com/singham/2026/10/22/the-possible-october-surprise-attack-on-iran-that-trump-may-be-envisaging/",
-      "source": "Freethoughtblogs.com",
-      "publishedAt": "2026-10-22T16:11:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "This Time, the Korean Loudspeaker Standoff Is Different",
       "url": "https://thediplomat.com/2026/10/this-time-the-korean-loudspeaker-standoff-is-different/",
       "source": "The Diplomat",
@@ -103,16 +159,8 @@
       "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Hardliners-Push-for-Nuclear-Weapons-as-US-War-Drags-On.html",
       "source": "OilPrice.com",
       "publishedAt": "2026-10-22T15:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
-      "url": "https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-22T14:55:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "India, Poland agree to ‘Defence Industry Dialogue’ to revive historical military cooperation",
@@ -121,14 +169,6 @@
       "publishedAt": "2026-10-22T14:47:02Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Is Iran ready for another major US attack after midterm elections?",
-      "url": "https://www.dw.com/en/is-iran-ready-for-another-major-us-attack-after-midterm-elections/a-79734082",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-22T14:16:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Netanyahu’s National Security Doctrine Revealed as Election Nears",
@@ -163,30 +203,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump is trying ‘The Art of the Deal’ in Ukraine but what must Putin give up?",
-      "url": "https://www.foxnews.com/opinion/trump-trying-art-deal-ukraine-what-must-putin-give-up",
-      "source": "Fox News",
-      "publishedAt": "2026-10-22T13:00:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia pounds Ukraine's capital Kyiv with missiles and drones, hours after agreeing to peace talks",
-      "url": "https://www.cbc.ca/news/world/ukraine-russia-missile-attack-9.7391250",
-      "source": "CBC News",
-      "publishedAt": "2026-10-22T11:39:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia Drones Are Already Killing People Within EU Territory",
-      "url": "https://www.insurancejournal.com/news/international/2026/10/22/889958.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-10-22T11:17:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea says it will resume propaganda broadcasts across border into South Korea",
       "url": "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts",
       "source": "NPR",
@@ -207,78 +223,6 @@
       "url": "https://economictimes.indiatimes.com/news/international/world-news/beyond-the-ballot-why-israels-next-leader-may-stick-to-netanyahus-doctrine/articleshow/135106940.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-22T04:19:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israeli robot APC goes rogue, IDF airstrikes nearly spark diplomatic crisis",
-      "url": "https://www.israelnationalnews.com/news/434969",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-21T18:49:18Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "How Israel has redrawn the map since the October 7 terrorist attack",
-      "url": "https://www.abc.net.au/news/2026-10-22/israel-redraws-the-map-in-gaza-lebanon-syria-and-the-west-bank/107180346",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-10-21T18:35:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "NATO 3.0 Is a Dangerous Gamble",
-      "url": "http://foreignpolicy.com/2026/10/21/nato-us-nuclear-weapons-military-defense-strategy-colby/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-10-21T16:11:33Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
-      "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-21T12:18:10Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Kim Jong Un Coma Rumor Debunked as North Korea Releases Expo Photos While Border Tensions With Seoul Flare",
-      "url": "https://www.ibtimes.com.au/kim-jong-un-photos-counter-death-rumours-1877103",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-10-21T09:42:49Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Israel eliminates Hamas October 7 terrorist who killed and abducted Shani Louk before parading her semi-naked body in the back of a truck in scenes that sickened the world",
-      "url": "https://www.dailymail.com/news/article-16225759/Israel-eliminates-Hamas-October-7-terrorist-killed-abducted-Shani-Louk-parading-semi-naked-body-truck-scenes-sickened-world.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-21T07:43:10Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Tehran is a Different Beast Now",
-      "url": "https://warontherocks.com/tehran-is-a-different-beast-now/",
-      "source": "War on the Rocks",
-      "publishedAt": "2026-10-21T07:30:35Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump Weighs Next Move Against Iran: ‘The Nice Way or the Not Nice Way’",
-      "url": "https://www.breitbart.com/politics/2026/10/20/trump-weighs-next-move-against-iran-nice-way-notnice-way/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-10-21T00:58:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Middle East Conflicts Exacerbate Transatlantic Differences, Highlight Alliance Solidarity Problem",
-      "url": "https://www.hoover.org/research/middle-east-conflicts-exacerbate-transatlantic-differences-highlight-alliance-solidarity",
-      "source": "Hoover.org",
-      "publishedAt": "2026-10-21T00:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

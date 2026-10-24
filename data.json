@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-24T03:21:56Z",
-  "count": 28,
+  "updated": "2026-10-24T10:18:26Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "Ahead of APEC summit, Donald Trump comes knocking on Kim Jong Un's door",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/ahead-of-apec-summit-donald-trump-comes-knocking-on-kim-jong-uns-door/articleshow/135138701.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-23T07:11:32Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The Imminent Iran Attack Is Netanyahu’s Attempted Election Insurance — At the Cost of Global Food and Energy Chaos",
+      "url": "https://www.naturalnews.com/2026-10-23-imminent-iran-attack-netanyahus-attempted-election-insurance.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-23T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Cyber Attack Wave Smells Like a False Flag … But To What End?",
+      "url": "https://www.naturalnews.com/2026-10-23-cyber-attack-wave-smells-like-false-flag.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-23T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian lawmaker calls for nuclear response if US launches new attack",
+      "url": "https://www.israelnationalnews.com/news/435043",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-23T03:28:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Israelis are heading to the polls in their most seismic election in decades",
       "url": "https://www.abc.net.au/news/2026-10-23/israel-election-2026-explained/107287156",
@@ -95,24 +127,8 @@
       "url": "https://abcnews.com/Politics/trump-us-gave-russia-free-american-reality-complicated/story?id=137447570",
       "source": "Abcnews.com",
       "publishedAt": "2026-10-22T19:17:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Aramco asks staff to evacuate Dhahran HQ; US pulls out some Saudi diplomats",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/aramco-asks-staff-to-evacuate-dhahran-hq-us-pulls-out-some-saudi-diplomats/articleshow/135126575.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-22T19:10:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Reports: US and Israel Set to Restart Major Operations in Iran After Midterms",
-      "url": "https://truthout.org/articles/reports-us-and-israel-set-to-restart-major-operations-in-iran-after-midterms/",
-      "source": "Truthout",
-      "publishedAt": "2026-10-22T18:39:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Europe Is Asking the Wrong Question About Russia’s Hybrid War",
@@ -191,14 +207,6 @@
       "url": "https://rt-english.com/news/647500-ukraine-conflict-final-stage/",
       "source": "Rt-english.com",
       "publishedAt": "2026-10-22T13:40:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Donald Trump’s Diesel Deal Shows How Western Leaders Are Losing Control",
-      "url": "https://www.fairobserver.com/united-states/donald-trumps-diesel-deal-shows-how-western-leaders-are-losing-control/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-10-22T13:12:53Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

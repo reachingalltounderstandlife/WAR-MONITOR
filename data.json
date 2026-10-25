@@ -1,14 +1,190 @@
 {
-  "updated": "2026-10-25T03:16:55Z",
-  "count": 26,
+  "updated": "2026-10-25T10:45:35Z",
+  "count": 31,
   "articles": [
     {
-      "title": "Nuclear power use could more than triple by 2060, says IAEA chief",
-      "url": "https://www.business-standard.com/world-news/nuclear-power-use-could-more-than-triple-by-2060-says-iaea-chief-126102400062_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-24T02:28:20Z",
+      "title": "Nuclear power could more than triple by 2060, UN agency says",
+      "url": "https://www.wdsu.com/article/nuclear-power-could-triple-2060-un-agency/74235659",
+      "source": "WDSU New Orleans",
+      "publishedAt": "2026-10-24T10:28:52Z",
       "_cat": "korea",
       "_label": "N. Korea"
+    },
+    {
+      "title": "Nuclear power could more than triple by 2060, UN agency says",
+      "url": "https://www.kcci.com/article/nuclear-power-could-triple-2060-un-agency/74235659",
+      "source": "KCCI Des Moines",
+      "publishedAt": "2026-10-24T10:27:44Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain",
+      "url": "https://abcnews.com/International/wireStory/ukraine-russia-eye-new-peace-talks-melania-trumps-137534005",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-10-24T09:39:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Black Sea sailors thought a rescue boat was racing toward them. Instead, it was a drone that sank their ship",
+      "url": "https://www.cbc.ca/news/world/black-sea-attacks-deadly-9.7393312",
+      "source": "CBC News",
+      "publishedAt": "2026-10-24T08:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why a new round in the U.S.-Iran conflict could be the most devastating yet",
+      "url": "https://www.cbc.ca/news/world/united-states-iran-conflict-next-round-9.7392215",
+      "source": "CBC News",
+      "publishedAt": "2026-10-24T08:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Nuclear power could more than triple by 2060, UN agency says",
+      "url": "https://www.thehindubusinessline.com/economy/nuclear-power-could-more-than-triple-by-2060-un-agency-says/article71619029.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-24T07:31:43Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korean leader Kim Jong Un arrived in China's border city",
+      "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-24T07:29:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
+      "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-24T07:29:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Kim Jong Un tells North Korean army units to prepare for 'new-era military build-up'",
+      "url": "https://www.channelnewsasia.com/east-asia/kim-jong-un-tells-north-korean-army-units-prepare-new-era-military-build-up-6488631",
+      "source": "CNA",
+      "publishedAt": "2026-10-24T07:17:46Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea’s Kim Jong Un arrives in China, South Korean media says",
+      "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-24T07:07:20Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Russia agrees to new Ukraine peace talks in Abu Dhabi",
+      "url": "https://www.hurriyetdailynews.com/russia-agrees-to-new-ukraine-peace-talks-in-abu-dhabi-228542",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-10-24T06:32:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Strait of Hormuz Status Today: Ship Attacks Hit Record High in October as Tankers Burn and War Fears Mount",
+      "url": "https://www.ibtimes.com.au/strait-hormuz-ship-attacks-record-oil-traffic-1877334",
+      "source": "Ibtimes.com.au",
+      "publishedAt": "2026-10-24T06:26:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea’s Kim orders training of world’s ‘strongest’ military",
+      "url": "https://punchng.com/north-koreas-kim-orders-training-of-worlds-strongest-military/",
+      "source": "The Punch",
+      "publishedAt": "2026-10-24T06:09:23Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "U.S. and Israel Reportedly Drafting Major Assault Plans Against Iran After Midterm Elections",
+      "url": "https://www.naturalnews.com/2026-10-24-us-israel-planning-iran-assault-after-midterms.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-24T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Europe’s Energy Policy Is Economic Suicide",
+      "url": "https://www.nakedcapitalism.com/2026/10/europes-energy-policy-is-economic-suicide.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-24T05:55:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Chilling US intelligence memo warns Iran's plots to assassinate American officials are in 'advanced stages'...as diplomats are pulled from Middle East embassies",
+      "url": "https://www.dailymail.com/news/article-16234901/US-intelligence-memo-Iran-plots-assassinations.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-24T05:35:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Journalist or spy? Russia's arrest of a Japanese reporter sparks a high-stakes diplomatic showdown.",
+      "url": "https://www.dw.com/en/journalist-or-spy-russias-arrest-of-a-japanese-reporter-sparks-a-high-stakes-diplomatic-showdown/a-79742995",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-24T05:29:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
+      "url": "https://www.dw.com/en/why-russias-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-24T05:29:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Nuclear power could more than triple by 2060, UN agency says",
+      "url": "https://abcnews.com/US/wireStory/nuclear-power-triple-2060-agency-137525631",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-10-24T05:01:13Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Years of conflict splits voters in former Netanyahu stronghold",
+      "url": "https://www.abc.net.au/news/2026-10-24/israel-election-wars-split-opinions-on-benjamin-netanyahu/107287178",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-10-24T04:11:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine joins NATO's NSPA partnership, gains access to Alliance contracts for defence industry",
+      "url": "https://economictimes.indiatimes.com/news/defence/ukraine-joins-natos-nspa-partnership-gains-access-to-alliance-contracts-for-defence-industry/articleshow/135161531.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-24T04:10:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Another October Surprise?",
+      "url": "https://www.americanthinker.com/articles/2026/10/another-october-surprise/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-10-24T04:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Globalist Assault On America",
+      "url": "https://www.americanthinker.com/articles/2026/10/the-globalist-assault-on-america/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-10-24T04:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "U.S. Has For Years Asked Musk To Alter Starlink Service In Ukraine, Middle East, Sources Say",
@@ -17,14 +193,6 @@
       "publishedAt": "2026-10-24T01:47:15Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Nuclear power could more than triple by 2060, UN agency says",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/nuclear-power-could-more-than-triple-by-2060-un-agency-says/articleshow/135159329.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-24T01:03:17Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "The U.S. has reportedly relied on Elon Musk to help shape foreign policy for years",
@@ -43,14 +211,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Serbia at a crossroads: What’s at stake and what Moscow can expect",
-      "url": "https://rt-english.com/news/647523-serbia-elections-vucic-russia/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-23T21:21:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Peace talks, Zelensky, the EU, ‘political schizophrenia’ and a new Cold War: RT stories that shaped the week",
       "url": "https://rt-english.com/news/647589-rt-top-stories-putin-zelensky-witkoff/",
       "source": "Rt-english.com",
@@ -67,124 +227,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran-US War: Ahead of US midterm polls, Israel elections day, Donald Trump threatens another likely military operation 'little epic fury' against Tehran",
-      "url": "https://economictimes.indiatimes.com/news/international/us/iran-us-war-ahead-of-us-midterm-polls-israel-elections-day-donald-trump-threatens-another-likely-military-operation-little-epic-fury-against-tehran/articleshow/135155453.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-23T20:29:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump’s Big Lie about Ukraine - by Timothy Snyder",
-      "url": "https://snyder.substack.com/p/trumps-big-lie-about-ukraine",
-      "source": "Substack.com",
-      "publishedAt": "2026-10-23T19:48:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "10/23/26 National Security and Korean News and Commentary",
-      "url": "https://smallwarsjournal.com/2026/10/23/10-23-26-national-security-and-korean-news-and-commentary/",
-      "source": "Smallwarsjournal.com",
-      "publishedAt": "2026-10-23T19:00:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump on Iran: We could take the whole country",
-      "url": "https://www.israelnationalnews.com/news/435073",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-23T18:07:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump and Netanyahu Want to “Finish the Job” on Iran",
-      "url": "https://www.globalresearch.ca/trump-netanyahu-want-finish-job-iran/5944332",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-10-23T17:24:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US midterms: what a new Congress could – and could not – change for Europe",
-      "url": "https://theconversation.com/us-midterms-what-a-new-congress-could-and-could-not-change-for-europe-295007",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-10-23T15:26:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "What States Make of Military Exercises: Ulchi and Beyond",
-      "url": "https://thediplomat.com/2026/10/what-states-make-of-military-exercises-ulchi-and-beyond/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-10-23T14:42:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Japan-Russia ties erode as journalist sits in Moscow jail",
-      "url": "https://www.dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-23T12:42:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Regional powers, European heavyweights meet in Istanbul for 1st joint talks",
-      "url": "https://www.hurriyetdailynews.com/regional-powers-european-heavyweights-meet-in-istanbul-for-1st-joint-talks-228515",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-10-23T11:51:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "US-Iran war, then and now: How the landscape has changed since February",
       "url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february",
       "source": "Al Jazeera English",
       "publishedAt": "2026-10-23T11:43:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "There’s little chance of Trump-Kim Jong Un meeting this year, US and South Korean officials say",
-      "url": "https://nypost.com/2026/10/23/us-news/us-south-korean-officials-see-little-chance-of-trump-meeting-with-north-korea-leader-kim-jong-un-this-year/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-23T11:14:55Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Why Trump Can’t Sell Putin a Deal",
-      "url": "https://www.theatlantic.com/international/2026/10/trump-putin-ukraine-nato/689118/?utm_source=feed",
-      "source": "The Atlantic",
-      "publishedAt": "2026-10-23T11:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Man in the Middle of Trump’s Deeply Conflicted Ukraine Policy",
-      "url": "https://www.theatlantic.com/national-security/2026/10/ukraine-russia-trump-john-ratcliffe/689090/?utm_source=feed",
-      "source": "The Atlantic",
-      "publishedAt": "2026-10-23T11:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Nicușor Dan warns Russia is trying to expand the war in Ukraine: „They want to provoke other European countries”",
-      "url": "https://www.mediafax.ro/english/nicusor-dan-warns-russia-is-trying-to-expand-the-war-in-ukraine-they-want-to-provoke-other-european-countries-23830585",
-      "source": "Mediafax.ro",
-      "publishedAt": "2026-10-23T10:49:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ahead of APEC summit, Donald Trump comes knocking on Kim Jong Un's door",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/ahead-of-apec-summit-donald-trump-comes-knocking-on-kim-jong-uns-door/articleshow/135138701.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-23T07:11:32Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iranian lawmaker calls for nuclear response if US launches new attack",
@@ -201,14 +249,6 @@
       "publishedAt": "2026-10-23T02:34:15Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Australia hits North Korean 'shadow bankers' with fresh sanctions",
-      "url": "https://www.abc.net.au/news/2026-10-23/penny-wong-north-korea-company-sanctions/107301184",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-10-23T02:32:50Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

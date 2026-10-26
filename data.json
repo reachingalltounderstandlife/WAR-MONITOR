@@ -1,7 +1,111 @@
 {
-  "updated": "2026-10-26T03:18:21Z",
+  "updated": "2026-10-26T12:16:57Z",
   "count": 35,
   "articles": [
+    {
+      "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
+      "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-25T11:39:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran says resumption of war would not change its stances",
+      "url": "https://www.hurriyetdailynews.com/iran-says-resumption-of-war-would-not-change-its-stances-228590",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-10-25T11:25:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Price Tags of War",
+      "url": "https://www.nakedcapitalism.com/2026/10/the-price-tags-of-war.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-25T10:15:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Did the United States and Russia Just Agree to Collaborate on Data Centers?",
+      "url": "https://freerepublic.com/focus/f-news/4400514/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-10-25T09:43:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Did the United States and Russia Just Agree to Collaborate on Data Centers?",
+      "url": "https://freerepublic.com/focus/f-chat/4400514/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-10-25T09:43:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
+      "url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemens-houthis-up-pressure/a-79735138",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-25T09:13:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu 'fighting for his political life' in 1st Israeli vote since Oct. 7. He might still survive",
+      "url": "https://www.cbc.ca/news/world/netanyahu-israel-election-9.7394784",
+      "source": "CBC News",
+      "publishedAt": "2026-10-25T08:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why is Egypt so wary of getting involved in Yemen’s conflict?",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-25T07:59:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
+      "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-25T07:19:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
+      "url": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-25T07:19:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli fighter jets stage provocative flight toward Iranian border",
+      "url": "https://www.naturalnews.com/2026-10-25-israeli-jets-stage-provocative-flight-iran-border.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-25T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Canadian PM Carney: U.S.-Russia Diesel Deal Opposes Peace Efforts",
+      "url": "https://www.naturalnews.com/2026-10-25-carney-us-russia-diesel-agreement-opposes-peace.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-25T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Bulgaria votes for president after Black Sea attacks",
+      "url": "https://www.hurriyetdailynews.com/bulgaria-votes-for-president-after-black-sea-attacks-228552",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-10-25T05:59:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Israelis hold final rally against Netanyahu ahead of consequential election",
       "url": "https://www.business-standard.com/world-news/israelis-hold-final-rally-against-netanyahu-ahead-of-consequential-election-126102500010_1.html",
@@ -27,14 +131,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-      "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-24T21:30:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Arctic giant: How Russia dominates the frozen frontier",
       "url": "https://rt-english.com/russia/647527-arctic-giant-how-russia-dominates-frozen-frontier/",
       "source": "Rt-english.com",
@@ -51,28 +147,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran reportedly ready to target submarine cables if war resumes",
-      "url": "https://www.israelnationalnews.com/news/435089",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-24T20:00:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Strike first: Israel’s inevitable doctrine for the Iranian axis",
       "url": "https://www.wnd.com/2026/10/strike-first-israels-inevitable-doctrine-iranian-axis/",
       "source": "Wnd.com",
       "publishedAt": "2026-10-24T15:51:11Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Britain Deploys Royal Air Force to Support Saudi Monarchy Against Yemeni Resistance",
-      "url": "https://www.globalresearch.ca/britain-deploys-royal-air-force-support-saudi-yemeni-resistance/5944265",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-10-24T15:39:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Putin-Witkoff talks expose broken Western unity on Ukraine",
@@ -91,62 +171,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Is Iran planning attacks on Americans; why is the US on alert?",
-      "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-24T12:51:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine and Russia eye new peace talks and Melania Trump's mission, but major obstacles remain",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/ukraine-and-russia-eye-new-peace-talks-and-melania-trumps-mission-but-major-obstacles-remain/articleshow/135170067.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-24T12:03:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A NATO drone maker says Ukraine's underground factories hold a lesson for the West. It's learning that firsthand.",
-      "url": "https://www.businessinsider.com/ukraine-nato-drone-maker-says-underground-factories-lesson-for-west-2026-10#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-10-24T11:54:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Saturday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/10/24/saturday-hili-dialogue-605/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-10-24T11:45:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The rapid Ukraine war arms race means weapons makers can never truly consider a product finished",
-      "url": "https://www.businessinsider.com/ukraine-weapons-makers-never-consider-product-complete-development-race-russia-2026-10#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-10-24T11:43:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "To End the Iran War, the US Must Understand Tehran's Perspective",
-      "url": "https://internationalpolicy.org/publications/war-has-changed-tehran-washington-should-take-notice/",
-      "source": "Internationalpolicy.org",
-      "publishedAt": "2026-10-24T11:18:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "As Brits are warned to stockpile food and water, the terrifying range of options Putin has to attack UK: 'PM has his head in the sand'",
-      "url": "https://www.dailymail.com/news/article-16229289/britain-russia-warning-attack-war-vladimir-putin.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-24T10:53:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Nuclear power could more than triple by 2060, UN agency says",
       "url": "https://www.wdsu.com/article/nuclear-power-could-triple-2060-un-agency/74235659",
       "source": "WDSU New Orleans",
@@ -161,22 +185,6 @@
       "publishedAt": "2026-10-24T10:27:44Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain",
-      "url": "https://abcnews.com/International/wireStory/ukraine-russia-eye-new-peace-talks-melania-trumps-137534005",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-24T09:39:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Black Sea sailors thought a rescue boat was racing toward them. Instead, it was a drone that sank their ship",
-      "url": "https://www.cbc.ca/news/world/black-sea-attacks-deadly-9.7393312",
-      "source": "CBC News",
-      "publishedAt": "2026-10-24T08:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Why a new round in the U.S.-Iran conflict could be the most devastating yet",
@@ -225,14 +233,6 @@
       "publishedAt": "2026-10-24T07:07:20Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Strait of Hormuz Status Today: Ship Attacks Hit Record High in October as Tankers Burn and War Fears Mount",
-      "url": "https://www.ibtimes.com.au/strait-hormuz-ship-attacks-record-oil-traffic-1877334",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-10-24T06:26:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea’s Kim orders training of world’s ‘strongest’ military",

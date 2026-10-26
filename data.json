@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-25T20:23:26Z",
-  "count": 37,
+  "updated": "2026-10-26T03:18:21Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "Israelis hold final rally against Netanyahu ahead of consequential election",
+      "url": "https://www.business-standard.com/world-news/israelis-hold-final-rally-against-netanyahu-ahead-of-consequential-election-126102500010_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-25T02:31:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Report: US military has strike plans ready for Iran",
+      "url": "https://www.israelnationalnews.com/news/435095",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-25T00:22:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Holding Iran accountable for its cyber operations",
+      "url": "https://www.wnd.com/2026/10/holding-iran-accountable-its-cyber-operations/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-10-25T00:12:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-24T21:30:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Arctic giant: How Russia dominates the frozen frontier",
+      "url": "https://rt-english.com/russia/647527-arctic-giant-how-russia-dominates-frozen-frontier/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-24T21:08:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Moment hundreds of British troops parachute into Germany in 'biggest drop since World War II' as they prepare for Putin",
+      "url": "https://www.dailymail.com/news/article-16236209/hundreds-British-troops-parachute-Germany-World-War-II-Putin.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-24T21:02:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Iran reportedly ready to target submarine cables if war resumes",
       "url": "https://www.israelnationalnews.com/news/435089",
@@ -179,14 +227,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Russia agrees to new Ukraine peace talks in Abu Dhabi",
-      "url": "https://www.hurriyetdailynews.com/russia-agrees-to-new-ukraine-peace-talks-in-abu-dhabi-228542",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-10-24T06:32:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Strait of Hormuz Status Today: Ship Attacks Hit Record High in October as Tankers Burn and War Fears Mount",
       "url": "https://www.ibtimes.com.au/strait-hormuz-ship-attacks-record-oil-traffic-1877334",
       "source": "Ibtimes.com.au",
@@ -203,22 +243,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "U.S. and Israel Reportedly Drafting Major Assault Plans Against Iran After Midterm Elections",
-      "url": "https://www.naturalnews.com/2026-10-24-us-israel-planning-iran-assault-after-midterms.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-10-24T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Chilling US intelligence memo warns Iran's plots to assassinate American officials are in 'advanced stages'...as diplomats are pulled from Middle East embassies",
-      "url": "https://www.dailymail.com/news/article-16234901/US-intelligence-memo-Iran-plots-assassinations.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-24T05:35:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Nuclear power could more than triple by 2060, UN agency says",
       "url": "https://abcnews.com/US/wireStory/nuclear-power-triple-2060-agency-137525631",
       "source": "Abcnews.com",
@@ -231,16 +255,8 @@
       "url": "https://www.abc.net.au/news/2026-10-24/israel-election-wars-split-opinions-on-benjamin-netanyahu/107287178",
       "source": "ABC News (AU)",
       "publishedAt": "2026-10-24T04:11:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Another October Surprise?",
-      "url": "https://www.americanthinker.com/articles/2026/10/another-october-surprise/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-10-24T04:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "U.S. Has For Years Asked Musk To Alter Starlink Service In Ukraine, Middle East, Sources Say",
@@ -263,38 +279,6 @@
       "url": "https://economictimes.indiatimes.com/news/international/world-news/us-has-for-years-asked-musk-to-alter-starlink-service-in-ukraine-middle-east-sources-say/articleshow/135159117.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-24T00:48:39Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Peace talks, Zelensky, the EU, ‘political schizophrenia’ and a new Cold War: RT stories that shaped the week",
-      "url": "https://rt-english.com/news/647589-rt-top-stories-putin-zelensky-witkoff/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-23T21:04:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US-Iran war, then and now: How the landscape has changed since February",
-      "url": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-23T11:43:53Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iranian lawmaker calls for nuclear response if US launches new attack",
-      "url": "https://www.israelnationalnews.com/news/435043",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-23T03:28:24Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Israelis are heading to the polls in their most seismic election in decades",
-      "url": "https://www.abc.net.au/news/2026-10-23/israel-election-2026-explained/107287156",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-10-23T02:34:15Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

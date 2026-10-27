@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-26T22:18:24Z",
-  "count": 34,
+  "updated": "2026-10-27T03:47:06Z",
+  "count": 22,
   "articles": [
+    {
+      "title": "Messages are still being passed to US amid war concerns, says Iran",
+      "url": "https://www.business-standard.com/world-news/messages-are-still-being-passed-to-us-amid-war-concerns-says-iran-126102600052_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-26T03:31:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UAE's Nusseibeh vows independence, dialogue with Iran if elected UN chief",
+      "url": "https://www.business-standard.com/world-news/uae-s-nusseibeh-vows-independence-dialogue-with-iran-if-elected-un-chief-126102600079_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-26T02:58:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "On Iran war, Trump weighs two options: 'make a deal' or 'finish it off'",
+      "url": "https://economictimes.indiatimes.com/news/defence/on-iran-war-trump-weighs-two-options-make-a-deal-or-finish-it-off/articleshow/135200501.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-26T01:50:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelenskiy says US warnings on ballistic strikes have fully resumed",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/zelenskiy-says-us-warnings-on-ballistic-strikes-have-fully-resumed/articleshow/135200258.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-26T01:02:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel drills for surprise attack with massive military exercise as expert invokes 1973 war",
+      "url": "https://www.foxnews.com/world/israel-drills-surprise-attack-massive-military-exercise-expert-invokes-1973-war",
+      "source": "Fox News",
+      "publishedAt": "2026-10-26T00:42:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia Is No Threat to America",
+      "url": "https://original.antiwar.com/david_stockman/2026/10/25/russia-is-no-threat-to-america/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-10-26T00:00:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran says messages are still being passed to the US amid war concerns, and other Mideast news",
+      "url": "https://abcnews.com/Politics/wireStory/iran-messages-passed-us-amid-war-concerns-mideast-137558362",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-10-25T22:45:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US has for years asked Musk to turn Starlink on or off in various countries",
       "url": "https://www.itnews.com.au/news/us-has-for-years-asked-musk-to-turn-starlink-on-or-off-in-various-countries-629887?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
@@ -59,44 +115,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iranians fear a possible return to all-out war as US and Israeli elections approach",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iranians-fear-escalating-conflict-as-us-and-israeli-elections-approach-amid-rising-tensions/articleshow/135194383.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-25T16:28:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Ukraine's Starlink scare exposed a problem Europe can't quickly fix",
       "url": "https://www.bbc.com/news/articles/c65yn97xe7ypo",
       "source": "BBC News",
       "publishedAt": "2026-10-25T15:27:53Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "FO Talks: The End of Unipolar Power? How Türkiye Shapes Geopolitics",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/fo-talks-the-end-of-unipolar-power-how-turkiye-shapes-geopolitics/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-10-25T15:26:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
-      "url": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-25T14:47:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "When is Israel election 2026? Benjamin Netanyahu shares nuclear blast image, warns of ‘second Holocaust’ over Iran",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/when-is-israel-election-2026-benjamin-netanyahu-shares-nuclear-blast-image-warns-of-second-holocaust-over-iran/articleshow/135192624.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-25T14:20:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Wes Streeting warns Britain must be ready for war 'in 1,000 days' as Russia steps up threats to NATO - but Chancellor will only make 'downpayment' on extra defence spending at Budget",
@@ -111,8 +135,8 @@
       "url": "https://www.dailymail.com/news/article-16229095/British-Islamic-preacher-accused-celebrating-terrorists-radicalising-followers-sets-religious-training-camp-Thailand.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-10-25T13:41:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "As Israel goes to the polls, West Asia holds its breath",
@@ -153,126 +177,6 @@
       "publishedAt": "2026-10-25T07:19:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Canadian PM Carney: U.S.-Russia Diesel Deal Opposes Peace Efforts",
-      "url": "https://www.naturalnews.com/2026-10-25-carney-us-russia-diesel-agreement-opposes-peace.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-10-25T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Bulgaria votes for president after Black Sea attacks",
-      "url": "https://www.hurriyetdailynews.com/bulgaria-votes-for-president-after-black-sea-attacks-228552",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-10-25T05:59:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Strike first: Israel’s inevitable doctrine for the Iranian axis",
-      "url": "https://www.wnd.com/2026/10/strike-first-israels-inevitable-doctrine-iranian-axis/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-10-24T15:51:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Nuclear power could more than triple by 2060, UN agency says",
-      "url": "https://www.wdsu.com/article/nuclear-power-could-triple-2060-un-agency/74235659",
-      "source": "WDSU New Orleans",
-      "publishedAt": "2026-10-24T10:28:52Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Nuclear power could more than triple by 2060, UN agency says",
-      "url": "https://www.kcci.com/article/nuclear-power-could-triple-2060-un-agency/74235659",
-      "source": "KCCI Des Moines",
-      "publishedAt": "2026-10-24T10:27:44Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Why a new round in the U.S.-Iran conflict could be the most devastating yet",
-      "url": "https://www.cbc.ca/news/world/united-states-iran-conflict-next-round-9.7392215",
-      "source": "CBC News",
-      "publishedAt": "2026-10-24T08:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Nuclear power could more than triple by 2060, UN agency says",
-      "url": "https://www.thehindubusinessline.com/economy/nuclear-power-could-more-than-triple-by-2060-un-agency-says/article71619029.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-10-24T07:31:43Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korean leader Kim Jong Un arrived in China's border city",
-      "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-24T07:29:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
-      "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-24T07:29:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim Jong Un tells North Korean army units to prepare for 'new-era military build-up'",
-      "url": "https://www.channelnewsasia.com/east-asia/kim-jong-un-tells-north-korean-army-units-prepare-new-era-military-build-up-6488631",
-      "source": "CNA",
-      "publishedAt": "2026-10-24T07:17:46Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea’s Kim Jong Un arrives in China, South Korean media says",
-      "url": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-24T07:07:20Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea’s Kim orders training of world’s ‘strongest’ military",
-      "url": "https://punchng.com/north-koreas-kim-orders-training-of-worlds-strongest-military/",
-      "source": "The Punch",
-      "publishedAt": "2026-10-24T06:09:23Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Nuclear power could more than triple by 2060, UN agency says",
-      "url": "https://abcnews.com/US/wireStory/nuclear-power-triple-2060-agency-137525631",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-24T05:01:13Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Years of conflict splits voters in former Netanyahu stronghold",
-      "url": "https://www.abc.net.au/news/2026-10-24/israel-election-wars-split-opinions-on-benjamin-netanyahu/107287178",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-10-24T04:11:35Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "U.S. Has For Years Asked Musk To Alter Starlink Service In Ukraine, Middle East, Sources Say",
-      "url": "https://www.huffpost.com/entry/us-musk-alter-starlink-service-ukraine-middle-east_n_6adc0acbe4b027da9ae6c271",
-      "source": "HuffPost",
-      "publishedAt": "2026-10-24T01:47:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

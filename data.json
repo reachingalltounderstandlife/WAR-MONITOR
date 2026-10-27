@@ -1,7 +1,103 @@
 {
-  "updated": "2026-10-27T03:47:06Z",
-  "count": 22,
+  "updated": "2026-10-27T11:37:19Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "5 Foreign-Policy Priorities for Democrats After the Midterms",
+      "url": "http://foreignpolicy.com/2026/10/26/democrats-midterms-priorities-corruption-iran-ukraine-nato-venezuela-ai/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-26T10:00:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How war, security and coalition math are shaping the Israeli election",
+      "url": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
+      "source": "CNBC",
+      "publishedAt": "2026-10-26T09:46:59Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Delegations meet in Iran with Middle East on edge over potential for renewed fighting",
+      "url": "https://nypost.com/2026/10/26/world-news/delegations-meet-in-iran-with-middle-east-on-edge-over-potential-for-renewed-fighting/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-26T09:28:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Did Elon Musk Commit Some Light Treason?",
+      "url": "https://prospect.org/2026/10/26/did-elon-musk-commit-some-light-treason-ukraine-starlink/",
+      "source": "The American Prospect",
+      "publishedAt": "2026-10-26T09:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "“The plans are ready, we’re waiting for approval”: US Forces poised to strike Iran hard within 96 hours of a Trump order",
+      "url": "https://en.protothema.gr/2026/10/26/the-plans-are-ready-were-waiting-for-approval-us-forces-poised-to-strike-iran-hard-within-96-hours-of-a-trump-order/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-10-26T08:43:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Saudi, Pak, Turkey officials meet Iranian authorities to avert renewed war",
+      "url": "https://www.business-standard.com/world-news/saudi-pak-turkey-officials-meet-iranian-authorities-to-avert-renewed-war-126102600462_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-26T08:11:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Saudi coalition says struck Houthi missile facilities",
+      "url": "https://www.rte.ie/news/2026/1026/1596838-middle-east/",
+      "source": "RTE",
+      "publishedAt": "2026-10-26T06:54:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Helen McEntee visits Lebanon to meet Beirut government and Irish troops in war-ravaged south",
+      "url": "https://www.thejournal.ie/helen-mcentee-lebanon-beirut-unifil-7205059-Oct2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-10-26T06:00:51Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Fears of Renewed War Grow as U.S. and Israel Reportedly Eye Iran Strikes",
+      "url": "https://www.naturalnews.com/2026-10-26-fears-renewed-war-grow-us-israel-strikes.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-26T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. Troops Say Pentagon Abandoned Them During Iranian Attacks",
+      "url": "https://www.naturalnews.com/2026-10-26-us-troops-pentagon-abandoned-them-iranian-attacks.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-26T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+      "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-26T04:05:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. military ready to strike Iran within 96 hours if Trump gives the order",
+      "url": "https://www.cnn.com/2026/10/26/politics/us-iran-strike-plans-trump",
+      "source": "CNN",
+      "publishedAt": "2026-10-26T04:00:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Messages are still being passed to US amid war concerns, says Iran",
       "url": "https://www.business-standard.com/world-news/messages-are-still-being-passed-to-us-amid-war-concerns-says-iran-126102600052_1.html",
@@ -19,28 +115,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "On Iran war, Trump weighs two options: 'make a deal' or 'finish it off'",
-      "url": "https://economictimes.indiatimes.com/news/defence/on-iran-war-trump-weighs-two-options-make-a-deal-or-finish-it-off/articleshow/135200501.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-26T01:50:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Zelenskiy says US warnings on ballistic strikes have fully resumed",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/zelenskiy-says-us-warnings-on-ballistic-strikes-have-fully-resumed/articleshow/135200258.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-26T01:02:01Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel drills for surprise attack with massive military exercise as expert invokes 1973 war",
-      "url": "https://www.foxnews.com/world/israel-drills-surprise-attack-massive-military-exercise-expert-invokes-1973-war",
-      "source": "Fox News",
-      "publishedAt": "2026-10-26T00:42:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Russia Is No Threat to America",
@@ -51,44 +131,36 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran says messages are still being passed to the US amid war concerns, and other Mideast news",
-      "url": "https://abcnews.com/Politics/wireStory/iran-messages-passed-us-amid-war-concerns-mideast-137558362",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-25T22:45:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "US has for years asked Musk to turn Starlink on or off in various countries",
       "url": "https://www.itnews.com.au/news/us-has-for-years-asked-musk-to-turn-starlink-on-or-off-in-various-countries-629887?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
       "source": "iTnews",
       "publishedAt": "2026-10-25T19:53:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US has for years asked Musk to turn Starlink on or off in various countries",
       "url": "https://www.itnews.com.au/news/us-has-for-years-asked-musk-to-turn-starlink-on-or-off-in-various-countries-629887?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed",
       "source": "iTnews",
       "publishedAt": "2026-10-25T19:52:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US has for years asked Musk to turn Starlink on or off in various countries",
       "url": "https://www.itnews.com.au/news/us-has-for-years-asked-musk-to-turn-starlink-on-or-off-in-various-countries-629887?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Telco%2fISP+feed",
       "source": "iTnews",
       "publishedAt": "2026-10-25T19:51:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US has for years asked Musk to turn Starlink on or off in various countries",
       "url": "https://www.itnews.com.au/news/us-has-for-years-asked-musk-to-turn-starlink-on-or-off-in-various-countries-629887?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed",
       "source": "iTnews",
       "publishedAt": "2026-10-25T19:50:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "'Missiles from Iran': Facebook, TikTok and Instagram feed us scary news from the past",
@@ -105,14 +177,6 @@
       "publishedAt": "2026-10-25T19:29:30Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iranians fear a possible return to all-out war as US and Israeli elections approach",
-      "url": "https://abcnews.com/International/wireStory/iranians-fear-return-war-us-israeli-elections-approach-137554143",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-25T16:41:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Ukraine's Starlink scare exposed a problem Europe can't quickly fix",
@@ -159,22 +223,6 @@
       "url": "https://freerepublic.com/focus/f-chat/4400514/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-10-25T09:43:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
-      "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-25T07:19:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
-      "url": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-25T07:19:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-27T17:29:07Z",
-  "count": 29,
+  "updated": "2026-10-27T21:49:36Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "Berlin plans to buy ‘drone missiles’ from Kiev – media",
+      "url": "https://rt-english.com/news/647766-berlin-buy-drone-missiles-kiev/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-26T21:21:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korean Dictator Kim Jong-un Makes Surprise China Visit",
+      "url": "https://www.breitbart.com/asia/2026/10/26/north-korean-dictator-kim-jong-un-makes-surprise-china-visit/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-10-26T20:24:53Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "‘Mow The Lawn’: More Signs Point To US Readying Offensive Against Iran",
+      "url": "https://dailycaller.com/2026/10/26/us-readying-offensive-against-iran-centcom",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-10-26T19:12:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli military breaks silence on purported feud with Netanyahu",
+      "url": "https://www.abc.net.au/news/2026-10-27/israel-election-military-netanyahu-feud/107312270",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-10-26T18:55:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "E5 Defence Ministers' Statement: 26 October 2026",
+      "url": "https://www.gov.uk/government/news/e5-defence-ministers-statement-26-october-2026",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-10-26T17:44:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Saudi Arabia, Turkey and Pakistan hold high-level talks with Iran",
       "url": "https://www.israelnationalnews.com/news/435195",
@@ -97,14 +137,6 @@
       "publishedAt": "2026-10-26T09:46:59Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Delegations meet in Iran with Middle East on edge over potential for renewed fighting",
-      "url": "https://nypost.com/2026/10/26/world-news/delegations-meet-in-iran-with-middle-east-on-edge-over-potential-for-renewed-fighting/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-26T09:28:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Did Elon Musk Commit Some Light Treason?",
@@ -215,22 +247,6 @@
       "url": "https://www.livemint.com/opinion/columns/as-israel-goes-to-the-polls-west-asia-holds-its-breath-11792921468940.html",
       "source": "Livemint",
       "publishedAt": "2026-10-25T13:06:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Did the United States and Russia Just Agree to Collaborate on Data Centers?",
-      "url": "https://freerepublic.com/focus/f-news/4400514/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-10-25T09:43:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Did the United States and Russia Just Agree to Collaborate on Data Centers?",
-      "url": "https://freerepublic.com/focus/f-chat/4400514/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-10-25T09:43:17Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     }

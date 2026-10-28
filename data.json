@@ -1,7 +1,119 @@
 {
-  "updated": "2026-10-27T21:49:36Z",
-  "count": 31,
+  "updated": "2026-10-28T04:04:46Z",
+  "count": 26,
   "articles": [
+    {
+      "title": "Three Times Netanyahu Failed To Reignite War",
+      "url": "https://www.lewrockwell.com/2026/10/no_author/three-times-netanyahu-failed-to-reignite-war/",
+      "source": "Lewrockwell.com",
+      "publishedAt": "2026-10-27T04:01:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelensky Accuses Hegseth of Delaying Patriot Missile Deliveries For Weeks",
+      "url": "https://freerepublic.com/focus/f-news/4400723/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-10-27T03:24:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Netanyahu's political survival on the line as Israel votes",
+      "url": "https://www.channelnewsasia.com/world/israel-election-prime-minister-netanyahu-6494976",
+      "source": "CNA",
+      "publishedAt": "2026-10-27T01:50:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-brokered truce in Russian-occupied city of Oleshky begins",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-brokered-truce-in-russian-occupied-city-of-oleshky-begins/articleshow/135222323.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-27T01:13:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Romania says Russia-run sabotage network set fire near weapons factory",
+      "url": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-27T00:33:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia, Ukraine begin US-brokered ceasefire in Oleshky",
+      "url": "https://www.rte.ie/news/world/2026/1027/1596897-ukraine-russia/",
+      "source": "RTE",
+      "publishedAt": "2026-10-27T00:29:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia, Ukraine begin US-brokered ceasefire in Oleshky",
+      "url": "https://www.rte.ie/news/world/2026/1027/1596897-oleshky-ceasefire/",
+      "source": "RTE",
+      "publishedAt": "2026-10-27T00:29:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Norway, Finland leaders hold 'frank' call with Putin",
+      "url": "https://www.rte.ie/news/world/2026/1027/1596897-ukraine-russia-talks/",
+      "source": "RTE",
+      "publishedAt": "2026-10-27T00:29:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israelis go to the polls with Netanyahu's political survival on the line",
+      "url": "https://www.yahoo.com/news/articles/netanyahus-political-survival-line-israel-000240854.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-27T00:02:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Japan’s Disputed Islands May Cause a Headache for Washington",
+      "url": "https://original.antiwar.com/ted_galen_carpenter/2026/10/26/japans-disputed-islands-may-cause-a-headache-for-washington/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-10-27T00:00:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Hoover’s Military History Working Group Questions Whether US Is Staying on Top of Rapid Advances in Strategy, Tactics, and Science of Armed Conflict",
+      "url": "https://www.hoover.org/news/hoovers-military-history-working-group-questions-whether-us-staying-top-rapid-advances",
+      "source": "Hoover.org",
+      "publishedAt": "2026-10-27T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Ukrainian Gordian Knot",
+      "url": "https://victorhanson.com/the-ukrainian-gordian-knot-2/",
+      "source": "Victorhanson.com",
+      "publishedAt": "2026-10-27T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin’s Strategy Is Working",
+      "url": "https://www.foreignaffairs.com/russia/putins-strategy-working-michael-mcfaul",
+      "source": "Foreign Affairs",
+      "publishedAt": "2026-10-27T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli PM Netanyahu and challenger Gadi Eisenkot have very different views on how to end the Iran war",
+      "url": "https://nypost.com/2026/10/26/world-news/how-netanyahu-and-challenger-eisenkot-split-on-iran-war/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-26T22:11:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Berlin plans to buy ‘drone missiles’ from Kiev – media",
       "url": "https://rt-english.com/news/647766-berlin-buy-drone-missiles-kiev/",
@@ -51,60 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "If Netanyahu loses, what happens next in the US-Israeli war on Iran?",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/netanyahu-election-defeat-what-happens-next-us-israel-war-iran-trump-gadi-eisenkot-iran-nuclear-programme-strait-of-hormuz/articleshow/135214879.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-26T16:04:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu denies reports about escalation with Iran in last day before election",
-      "url": "https://www.wisn.com/article/netanyahu-denies-escalation-iran-last-day-election/74247368",
-      "source": "WISN Milwaukee",
-      "publishedAt": "2026-10-26T14:58:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
-      "url": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-26T14:38:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Iran’s anti-negotiation hardliners turn against President Pezeshkian",
       "url": "https://www.aljazeera.com/news/2026/10/26/irans-anti-negotiation-hardliners-turn-against-president-pezeshkian",
       "source": "Al Jazeera English",
       "publishedAt": "2026-10-26T14:27:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel heads to the polls: Netanyahu seeks to survive another election",
-      "url": "https://rt-english.com/news/647731-israel-election-2026-netanyahu-political-survival/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-26T14:12:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Alice in Threatland: The Gray Lady in the Rabbit Hole",
-      "url": "https://www.fairobserver.com/world-news/us-news/alice-in-threatland-the-gray-lady-in-the-rabbit-hole/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-10-26T13:44:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "With Regional Tensions High, Mecca Alliance Partners Meet In Tehran",
-      "url": "https://www.rferl.org/a/tensions-mecca-alliance-partners-tehran-saudi-turkey-pakistan/33884432.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-10-26T13:43:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Germany's Merz heads to Asia as security issues loom large",
@@ -139,116 +203,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Did Elon Musk Commit Some Light Treason?",
-      "url": "https://prospect.org/2026/10/26/did-elon-musk-commit-some-light-treason-ukraine-starlink/",
-      "source": "The American Prospect",
-      "publishedAt": "2026-10-26T09:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Helen McEntee visits Lebanon to meet Beirut government and Irish troops in war-ravaged south",
       "url": "https://www.thejournal.ie/helen-mcentee-lebanon-beirut-unifil-7205059-Oct2026/",
       "source": "TheJournal.ie",
       "publishedAt": "2026-10-26T06:00:51Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Zelenskiy says US warnings on ballistic strikes have fully resumed",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/zelenskiy-says-us-warnings-on-ballistic-strikes-have-fully-resumed/articleshow/135200258.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-26T01:02:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia Is No Threat to America",
-      "url": "https://original.antiwar.com/david_stockman/2026/10/25/russia-is-no-threat-to-america/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-10-26T00:00:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US has for years asked Musk to turn Starlink on or off in various countries",
-      "url": "https://www.itnews.com.au/news/us-has-for-years-asked-musk-to-turn-starlink-on-or-off-in-various-countries-629887?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "source": "iTnews",
-      "publishedAt": "2026-10-25T19:53:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US has for years asked Musk to turn Starlink on or off in various countries",
-      "url": "https://www.itnews.com.au/news/us-has-for-years-asked-musk-to-turn-starlink-on-or-off-in-various-countries-629887?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Technology+feed",
-      "source": "iTnews",
-      "publishedAt": "2026-10-25T19:52:13Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US has for years asked Musk to turn Starlink on or off in various countries",
-      "url": "https://www.itnews.com.au/news/us-has-for-years-asked-musk-to-turn-starlink-on-or-off-in-various-countries-629887?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Telco%2fISP+feed",
-      "source": "iTnews",
-      "publishedAt": "2026-10-25T19:51:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US has for years asked Musk to turn Starlink on or off in various countries",
-      "url": "https://www.itnews.com.au/news/us-has-for-years-asked-musk-to-turn-starlink-on-or-off-in-various-countries-629887?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed",
-      "source": "iTnews",
-      "publishedAt": "2026-10-25T19:50:14Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "'Missiles from Iran': Facebook, TikTok and Instagram feed us scary news from the past",
-      "url": "https://www.haaretz.com/israel-news/security-aviation/2026-10-25/ty-article-magazine/missiles-from-iran-tiktok-and-instagram-feed-us-scary-news-from-the-past/000001a1-5ea2-df33-a7e5-5faaa9220000",
-      "source": "Haaretz",
-      "publishedAt": "2026-10-25T19:43:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Former Russian President Medvedev tells Trump to ASSASSINATE Zelensky for 'damaging his interests'",
-      "url": "https://www.dailymail.com/news/article-16237567/Putin-Trump-assasinate-Zelensky.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-25T19:29:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine's Starlink scare exposed a problem Europe can't quickly fix",
-      "url": "https://www.bbc.com/news/articles/c65yn97xe7ypo",
-      "source": "BBC News",
-      "publishedAt": "2026-10-25T15:27:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Wes Streeting warns Britain must be ready for war 'in 1,000 days' as Russia steps up threats to NATO - but Chancellor will only make 'downpayment' on extra defence spending at Budget",
-      "url": "https://www.dailymail.com/news/article-16237177/Wes-Streeting-warns-Britain-ready-war-1-000-days-Russia-steps-threats-NATO-Chancellor-make-downpayment-extra-defence-spending-Budget.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-25T13:52:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "British Islamic preacher accused of celebrating terrorists and radicalising followers sets up 'religious training camp' in Thailand",
-      "url": "https://www.dailymail.com/news/article-16229095/British-Islamic-preacher-accused-celebrating-terrorists-radicalising-followers-sets-religious-training-camp-Thailand.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-25T13:41:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "As Israel goes to the polls, West Asia holds its breath",
-      "url": "https://www.livemint.com/opinion/columns/as-israel-goes-to-the-polls-west-asia-holds-its-breath-11792921468940.html",
-      "source": "Livemint",
-      "publishedAt": "2026-10-25T13:06:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

@@ -1,54 +1,182 @@
 {
-  "updated": "2026-10-28T12:08:21Z",
-  "count": 26,
+  "updated": "2026-10-28T22:11:25Z",
+  "count": 32,
   "articles": [
     {
-      "title": "Trump Has Lost the Foreign-Policy Debate",
-      "url": "http://foreignpolicy.com/2026/10/27/trump-polling-midterms-foreign-policy/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-10-27T12:00:54Z",
+      "title": "Video: No, War is Not Good For the Economy",
+      "url": "https://corbettreport.com/no-war-is-not-good-for-the-economy/",
+      "source": "Corbettreport.com",
+      "publishedAt": "2026-10-27T22:05:29Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "France Pushes The Envelope On Global Nuclear War",
-      "url": "https://dailycaller.com/2026/10/27/france-pushes-the-envelope-on-global-nuclear-war",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-10-27T12:00:26Z",
+      "title": "European leaders are ‘political masochists’ – Lavrov",
+      "url": "https://rt-english.com/news/647839-lavrov-european-leaders-political-masochists/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-27T21:02:08Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Amid Legal Uncertainty, US Lawmakers Warn Banks, Ports Over Russian Diesel Imports",
-      "url": "https://www.rferl.org/a/amid-legal-uncertainty-us-lawmakers-warn-banks-ports-over-russian-diesel-imports/33885120.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-10-27T11:06:48Z",
+      "title": "UK Must Be Ready for War in 1,000 Days, Says British Defense Secretary",
+      "url": "https://freerepublic.com/focus/f-news/4400806/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-10-27T19:23:18Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Trump’s Blob",
-      "url": "https://www.nybooks.com/online/2026/10/27/trumps-blob-foreign-policy/",
-      "source": "The New York Review of Books",
-      "publishedAt": "2026-10-27T11:00:00Z",
+      "title": "Coffee Break: Armed Madhouse – Tactical Nuclear Weapons: A Deadly Temptation",
+      "url": "https://www.nakedcapitalism.com/2026/10/coffee-break-armed-madhouse-tactical-nuclear-weapons-a-deadly-temptation.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-27T18:00:30Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "How Would China Actually Govern Taiwan?",
+      "url": "https://thediplomat.com/2026/10/how-would-china-actually-govern-taiwan/",
+      "source": "The Diplomat",
+      "publishedAt": "2026-10-27T17:49:00Z",
+      "_cat": "taiwan",
+      "_label": "Taiwan"
+    },
+    {
+      "title": "Britain signs landmark deal with Poland to develop new missiles to combat Russian drones",
+      "url": "https://www.dailymail.com/news/article-16243389/Britain-deal-Poland-missiles-Russia.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-27T17:30:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel’s genocide in Gaza never stopped – UN commission",
+      "url": "https://rt-english.com/news/647801-israeli-genocide-palestinians-un/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-27T16:54:21Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "UK and Poland strengthen defences on Europe's Eastern flank",
-      "url": "https://www.gov.uk/government/news/uk-and-poland-strengthen-defences-on-europes-eastern-flank--2",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-10-27T10:59:30Z",
+      "title": "Is Israel a Good Ally?",
+      "url": "http://foreignpolicy.com/2026/10/27/israel-gaza-hamas-hezbollah-netanyahu-trump/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-27T16:52:34Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israelis shatter turnout records to pass wartime judgment on Netanyahu",
+      "url": "https://www.thedailystar.net/news/world/middle-east/news/israelis-shatter-turnout-records-pass-wartime-judgment-netanyahu-4308986",
+      "source": "The Daily Star",
+      "publishedAt": "2026-10-27T16:12:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu's future on the line as polls open in Israeli elections",
+      "url": "https://abcnews.com/International/netanyahus-future-line-polls-open-israeli-elections/story?id=137594835",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-10-27T15:48:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Minister hits out over triple lock 'misinformation'",
+      "url": "https://www.rte.ie/news/2026/1027/1596989-triple-lock-misinformation/",
+      "source": "RTE",
+      "publishedAt": "2026-10-27T15:27:11Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Wider Europe Briefing: Can The EU Put Russia's GRU On Its Terror List?",
-      "url": "https://www.rferl.org/a/wider-europe-briefing-can-the-eu-put-russia-s-gru-on-its-terror-list/33885122.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-10-27T10:55:02Z",
+      "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
+      "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-27T15:26:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pentagon Fears Drone Attacks on U.S. and Foreign Bases",
+      "url": "https://theintercept.com/2026/10/27/pentagon-drone-attacks-military-bases/",
+      "source": "The Intercept",
+      "publishedAt": "2026-10-27T15:00:07Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "Black Sea Brinkmanship: Is Europe Closer to Clashing With Moscow?",
+      "url": "https://www.globalresearch.ca/black-sea-brinkmanship-europe-closer-clashing-moscow/5944573",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-10-27T14:44:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "European fury after Finland and Norway's leaders hold direct talks with Putin about ending Ukraine war",
+      "url": "https://www.dailymail.com/news/article-16242117/European-fury-Finland-Norways-leaders-hold-direct-talks-Putin-ending-Ukraine-war.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-27T13:46:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Will elections in Israel change its Iran approach?",
+      "url": "https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-27T13:31:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Will Israel elections change its Iran approach?",
+      "url": "https://www.dw.com/en/will-israel-elections-change-its-iran-approach/a-79776122",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-27T13:31:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranians brace for renewed attacks after Israeli, US elections",
+      "url": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-27T13:23:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Greatest Ever! Here are 70 Major Trump Accomplishments Since He Retook the White House in 2025",
+      "url": "https://www.thegatewaypundit.com/2026/10/greatest-ever-here-are-70-major-trump-accomplishments/",
+      "source": "Thegatewaypundit.com",
+      "publishedAt": "2026-10-27T13:00:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Extremely destabilizing development’: France pushes the envelope on global nuclear war",
+      "url": "https://www.wnd.com/2026/10/extremely-destabilizing-development-france-pushes-envelope-global-nuclear/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-10-27T12:55:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Same Old, Same Old European Runaround",
+      "url": "https://freerepublic.com/focus/f-news/4400743/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-10-27T12:30:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel’s opposition say they want to oust Netanyahu, but not if it means working with Palestinians",
+      "url": "https://www.thejournal.ie/israel-elections-netanyahu-opposition-7205859-Oct2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-10-27T12:18:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "Netanyahu's political survival on the line as Israel votes",
@@ -59,100 +187,36 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Iran War: Western Media Ignores Mecca-Alliance-Sought Regional Security Meeting in Tehran; Would Republican Midterm Wipeout Force Trump into Iran and Ukraine Retreats?",
-      "url": "https://www.nakedcapitalism.com/2026/10/iran-war-western-media-ignores-mecca-alliance-sought-regional-security-meeting-in-tehran-would-republican-midterm-wipeout-force-trump-into-iran-and-ukraine-retreats.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-27T09:55:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel election: Netanyahu fights for political survival as October 7 fallout looms",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-election-netanyahu-fights-for-political-survival-as-october-7-fallout-looms/articleshow/135228007.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-27T07:51:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel goes to the polls with Netanyahu’s political survival on the line",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/10/27/israel-election-latest-news/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-10-27T07:19:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US lawmakers warn banks, ports of probe over Russian diesel imports",
-      "url": "https://www.business-standard.com/world-news/us-lawmakers-warn-banks-ports-of-probe-over-russian-diesel-imports-126102700513_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-27T07:02:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Netanyahu's political survival on the line in Israel vote",
       "url": "https://www.rte.ie/news/middle-east/2026/1027/1596901-israel-election/",
       "source": "RTE",
       "publishedAt": "2026-10-27T06:24:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israelis go to the polls with Netanyahu's political survival on the line",
       "url": "https://uk.news.yahoo.com/netanyahus-political-survival-line-israel-000240854.html",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-10-27T05:36:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Saudi-led coalition says it downed Houthi missiles and drones",
-      "url": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-27T04:54:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Three Times Netanyahu Failed To Reignite War",
-      "url": "https://www.lewrockwell.com/2026/10/no_author/three-times-netanyahu-failed-to-reignite-war/",
-      "source": "Lewrockwell.com",
-      "publishedAt": "2026-10-27T04:01:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Zelensky Accuses Hegseth of Delaying Patriot Missile Deliveries For Weeks",
-      "url": "https://freerepublic.com/focus/f-news/4400723/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-10-27T03:24:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Netanyahu's political survival on the line as Israel votes",
       "url": "https://www.channelnewsasia.com/world/israel-election-prime-minister-netanyahu-6494976",
       "source": "CNA",
       "publishedAt": "2026-10-27T01:50:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-brokered truce in Russian-occupied city of Oleshky begins",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-brokered-truce-in-russian-occupied-city-of-oleshky-begins/articleshow/135222323.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-27T01:13:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Romania says Russia-run sabotage network set fire near weapons factory",
-      "url": "https://www.aljazeera.com/news/2026/10/27/romania-says-russia-run-sabotage-network-set-fire-near-weapons-factory",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-27T00:33:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Israelis go to the polls with Netanyahu's political survival on the line",
@@ -193,22 +257,6 @@
       "publishedAt": "2026-10-26T13:32:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "How war, security and coalition math are shaping the Israeli election",
-      "url": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html",
-      "source": "CNBC",
-      "publishedAt": "2026-10-26T09:46:59Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Helen McEntee visits Lebanon to meet Beirut government and Irish troops in war-ravaged south",
-      "url": "https://www.thejournal.ie/helen-mcentee-lebanon-beirut-unifil-7205059-Oct2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-10-26T06:00:51Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

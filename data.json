@@ -1,7 +1,119 @@
 {
-  "updated": "2026-10-28T04:04:46Z",
+  "updated": "2026-10-28T12:08:21Z",
   "count": 26,
   "articles": [
+    {
+      "title": "Trump Has Lost the Foreign-Policy Debate",
+      "url": "http://foreignpolicy.com/2026/10/27/trump-polling-midterms-foreign-policy/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-27T12:00:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "France Pushes The Envelope On Global Nuclear War",
+      "url": "https://dailycaller.com/2026/10/27/france-pushes-the-envelope-on-global-nuclear-war",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-10-27T12:00:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Amid Legal Uncertainty, US Lawmakers Warn Banks, Ports Over Russian Diesel Imports",
+      "url": "https://www.rferl.org/a/amid-legal-uncertainty-us-lawmakers-warn-banks-ports-over-russian-diesel-imports/33885120.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-10-27T11:06:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s Blob",
+      "url": "https://www.nybooks.com/online/2026/10/27/trumps-blob-foreign-policy/",
+      "source": "The New York Review of Books",
+      "publishedAt": "2026-10-27T11:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UK and Poland strengthen defences on Europe's Eastern flank",
+      "url": "https://www.gov.uk/government/news/uk-and-poland-strengthen-defences-on-europes-eastern-flank--2",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-10-27T10:59:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Wider Europe Briefing: Can The EU Put Russia's GRU On Its Terror List?",
+      "url": "https://www.rferl.org/a/wider-europe-briefing-can-the-eu-put-russia-s-gru-on-its-terror-list/33885122.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-10-27T10:55:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Netanyahu's political survival on the line as Israel votes",
+      "url": "https://www.cbc.ca/news/world/israel-election-9.7397565",
+      "source": "CBC News",
+      "publishedAt": "2026-10-27T10:16:11Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran War: Western Media Ignores Mecca-Alliance-Sought Regional Security Meeting in Tehran; Would Republican Midterm Wipeout Force Trump into Iran and Ukraine Retreats?",
+      "url": "https://www.nakedcapitalism.com/2026/10/iran-war-western-media-ignores-mecca-alliance-sought-regional-security-meeting-in-tehran-would-republican-midterm-wipeout-force-trump-into-iran-and-ukraine-retreats.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-10-27T09:55:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel election: Netanyahu fights for political survival as October 7 fallout looms",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-election-netanyahu-fights-for-political-survival-as-october-7-fallout-looms/articleshow/135228007.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-27T07:51:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel goes to the polls with Netanyahu’s political survival on the line",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/10/27/israel-election-latest-news/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-10-27T07:19:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US lawmakers warn banks, ports of probe over Russian diesel imports",
+      "url": "https://www.business-standard.com/world-news/us-lawmakers-warn-banks-ports-of-probe-over-russian-diesel-imports-126102700513_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-27T07:02:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Netanyahu's political survival on the line in Israel vote",
+      "url": "https://www.rte.ie/news/middle-east/2026/1027/1596901-israel-election/",
+      "source": "RTE",
+      "publishedAt": "2026-10-27T06:24:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israelis go to the polls with Netanyahu's political survival on the line",
+      "url": "https://uk.news.yahoo.com/netanyahus-political-survival-line-israel-000240854.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-10-27T05:36:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Saudi-led coalition says it downed Houthi missiles and drones",
+      "url": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-27T04:54:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Three Times Netanyahu Failed To Reignite War",
       "url": "https://www.lewrockwell.com/2026/10/no_author/three-times-netanyahu-failed-to-reignite-war/",
@@ -43,84 +155,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Russia, Ukraine begin US-brokered ceasefire in Oleshky",
-      "url": "https://www.rte.ie/news/world/2026/1027/1596897-ukraine-russia/",
-      "source": "RTE",
-      "publishedAt": "2026-10-27T00:29:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia, Ukraine begin US-brokered ceasefire in Oleshky",
-      "url": "https://www.rte.ie/news/world/2026/1027/1596897-oleshky-ceasefire/",
-      "source": "RTE",
-      "publishedAt": "2026-10-27T00:29:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Norway, Finland leaders hold 'frank' call with Putin",
-      "url": "https://www.rte.ie/news/world/2026/1027/1596897-ukraine-russia-talks/",
-      "source": "RTE",
-      "publishedAt": "2026-10-27T00:29:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israelis go to the polls with Netanyahu's political survival on the line",
       "url": "https://www.yahoo.com/news/articles/netanyahus-political-survival-line-israel-000240854.html",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-10-27T00:02:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Japan’s Disputed Islands May Cause a Headache for Washington",
-      "url": "https://original.antiwar.com/ted_galen_carpenter/2026/10/26/japans-disputed-islands-may-cause-a-headache-for-washington/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-10-27T00:00:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hoover’s Military History Working Group Questions Whether US Is Staying on Top of Rapid Advances in Strategy, Tactics, and Science of Armed Conflict",
-      "url": "https://www.hoover.org/news/hoovers-military-history-working-group-questions-whether-us-staying-top-rapid-advances",
-      "source": "Hoover.org",
-      "publishedAt": "2026-10-27T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Ukrainian Gordian Knot",
-      "url": "https://victorhanson.com/the-ukrainian-gordian-knot-2/",
-      "source": "Victorhanson.com",
-      "publishedAt": "2026-10-27T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin’s Strategy Is Working",
-      "url": "https://www.foreignaffairs.com/russia/putins-strategy-working-michael-mcfaul",
-      "source": "Foreign Affairs",
-      "publishedAt": "2026-10-27T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israeli PM Netanyahu and challenger Gadi Eisenkot have very different views on how to end the Iran war",
-      "url": "https://nypost.com/2026/10/26/world-news/how-netanyahu-and-challenger-eisenkot-split-on-iran-war/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-26T22:11:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Berlin plans to buy ‘drone missiles’ from Kiev – media",
-      "url": "https://rt-english.com/news/647766-berlin-buy-drone-missiles-kiev/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-26T21:21:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "North Korean Dictator Kim Jong-un Makes Surprise China Visit",
@@ -129,38 +169,6 @@
       "publishedAt": "2026-10-26T20:24:53Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "‘Mow The Lawn’: More Signs Point To US Readying Offensive Against Iran",
-      "url": "https://dailycaller.com/2026/10/26/us-readying-offensive-against-iran-centcom",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-10-26T19:12:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli military breaks silence on purported feud with Netanyahu",
-      "url": "https://www.abc.net.au/news/2026-10-27/israel-election-military-netanyahu-feud/107312270",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-10-26T18:55:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "E5 Defence Ministers' Statement: 26 October 2026",
-      "url": "https://www.gov.uk/government/news/e5-defence-ministers-statement-26-october-2026",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-10-26T17:44:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Saudi Arabia, Turkey and Pakistan hold high-level talks with Iran",
-      "url": "https://www.israelnationalnews.com/news/435195",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-26T17:28:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Iran’s anti-negotiation hardliners turn against President Pezeshkian",
@@ -185,14 +193,6 @@
       "publishedAt": "2026-10-26T13:32:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "5 Foreign-Policy Priorities for Democrats After the Midterms",
-      "url": "http://foreignpolicy.com/2026/10/26/democrats-midterms-priorities-corruption-iran-ukraine-nato-venezuela-ai/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-10-26T10:00:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "How war, security and coalition math are shaping the Israeli election",

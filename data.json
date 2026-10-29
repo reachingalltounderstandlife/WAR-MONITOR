@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-28T22:11:25Z",
-  "count": 32,
+  "updated": "2026-10-29T04:27:47Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "SI Data Center Reality Check",
+      "url": "https://www.americanthinker.com/articles/2026/10/si-data-center-reality-check/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-10-28T04:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Iran hasn't tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-hasnt-tried-to-repair-nuclear-facilities-damaged-in-us-strikes-un-nuclear-chief-says/article71634183.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-10-28T03:45:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran hasn't tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-hasnt-tried-to-repair-nuclear-facilities-damaged-in-us-strikes-un-nuclear-chief-says/articleshow/135250775.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-28T03:29:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran hasn't tried to repair nuclear sites hit in US strikes: IAEA chief",
+      "url": "https://www.business-standard.com/world-news/iran-hasn-t-tried-to-repair-nuclear-sites-hit-in-us-strikes-iaea-chief-126102800135_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-28T03:26:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US tells Gulf allies to brace for ‘intense’ war with Iran – WSJ",
+      "url": "https://rt-english.com/news/647862-us-warns-renewed-iran-war/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-28T03:21:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US warns Gulf allies of possible strikes against Iran after midterm elections as president declares at Texas rally the war will end 'whenever i want it to be over'",
+      "url": "https://www.dailymail.com/news/article-16244495/US-warns-Gulf-allies-possible-strikes-Iran-midterms.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-28T02:17:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Scandal-hit German special forces prepare for war with Russia – commander",
+      "url": "https://rt-english.com/news/647859-german-elite-unit-fight-russia/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-28T00:07:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Video: No, War is Not Good For the Economy",
       "url": "https://corbettreport.com/no-war-is-not-good-for-the-economy/",
@@ -123,60 +179,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Will elections in Israel change its Iran approach?",
-      "url": "https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-27T13:31:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Will Israel elections change its Iran approach?",
-      "url": "https://www.dw.com/en/will-israel-elections-change-its-iran-approach/a-79776122",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-27T13:31:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranians brace for renewed attacks after Israeli, US elections",
-      "url": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-27T13:23:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Greatest Ever! Here are 70 Major Trump Accomplishments Since He Retook the White House in 2025",
-      "url": "https://www.thegatewaypundit.com/2026/10/greatest-ever-here-are-70-major-trump-accomplishments/",
-      "source": "Thegatewaypundit.com",
-      "publishedAt": "2026-10-27T13:00:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "‘Extremely destabilizing development’: France pushes the envelope on global nuclear war",
       "url": "https://www.wnd.com/2026/10/extremely-destabilizing-development-france-pushes-envelope-global-nuclear/",
       "source": "Wnd.com",
       "publishedAt": "2026-10-27T12:55:59Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "The Same Old, Same Old European Runaround",
-      "url": "https://freerepublic.com/focus/f-news/4400743/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-10-27T12:30:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel’s opposition say they want to oust Netanyahu, but not if it means working with Palestinians",
-      "url": "https://www.thejournal.ie/israel-elections-netanyahu-opposition-7205859-Oct2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-10-27T12:18:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Netanyahu's political survival on the line as Israel votes",
@@ -225,38 +233,6 @@
       "publishedAt": "2026-10-27T00:02:40Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "North Korean Dictator Kim Jong-un Makes Surprise China Visit",
-      "url": "https://www.breitbart.com/asia/2026/10/26/north-korean-dictator-kim-jong-un-makes-surprise-china-visit/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-10-26T20:24:53Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iran’s anti-negotiation hardliners turn against President Pezeshkian",
-      "url": "https://www.aljazeera.com/news/2026/10/26/irans-anti-negotiation-hardliners-turn-against-president-pezeshkian",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-26T14:27:33Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Germany's Merz heads to Asia as security issues loom large",
-      "url": "https://www.dw.com/en/germanys-merz-heads-to-asia-as-security-issues-loom-large/a-79764065",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-26T13:32:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Germany's Merz in Asia as security issues loom large",
-      "url": "https://www.dw.com/en/germanys-merz-in-asia-as-security-issues-loom-large/a-79764065",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-26T13:32:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

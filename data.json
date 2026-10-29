@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-29T04:27:47Z",
+  "updated": "2026-10-29T12:18:51Z",
   "count": 29,
   "articles": [
+    {
+      "title": "Stubb's call with Putin draws praise, criticism at home and abroad",
+      "url": "https://yle.fi/a/74-20253775",
+      "source": "YLE News",
+      "publishedAt": "2026-10-28T11:20:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Norway and Finland hold rare phone call with Putin: What that means",
+      "url": "https://www.aljazeera.com/news/2026/10/28/norway-and-finland-hold-rare-phone-call-with-putin-what-that-means",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-28T10:31:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Starlink and the geopolitical role of space tech: Lessons India should take from the Ukraine war",
+      "url": "https://www.livemint.com/opinion/online-views/starlink-and-the-geopolitical-role-of-space-tech-lessons-india-should-take-from-the-ukraine-war-11793113751107.html",
+      "source": "Livemint",
+      "publishedAt": "2026-10-28T10:30:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump: Putin-Zelensky talks to be set up ‘very soon’",
+      "url": "https://www.hurriyetdailynews.com/trump-putin-zelensky-talks-to-be-set-up-very-soon-228702",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-10-28T10:25:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "We’re nearing five years of the Ukraine war — and no one knows how to stop untold slaughter",
+      "url": "https://nypost.com/2026/10/28/opinion/were-nearing-five-years-of-ukraine-war-no-one-knows-how-to-stop-untold-slaughter/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-28T10:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Saudi Arabia vs Houthi rebels: It's time to look beyond the US",
+      "url": "https://www.livemint.com/opinion/online-views/saudi-arabia-vs-houthi-rebels-time-to-look-beyond-the-us-11793113556230.html",
+      "source": "Livemint",
+      "publishedAt": "2026-10-28T09:30:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine: Time to End the War",
+      "url": "https://www.thenation.com/article/world/trump-putin-russia-ukraine-war-peace-negotiations/",
+      "source": "Thenation.com",
+      "publishedAt": "2026-10-28T09:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How the United States Retrenches Matters",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA5006-1.html",
+      "source": "Rand.org",
+      "publishedAt": "2026-10-28T08:30:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Next Congress Needs to Reclaim Its Oversight of the Department of Defense",
+      "url": "https://warontherocks.com/the-next-congress-needs-to-reclaim-its-oversight-of-the-department-of-defense/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-10-28T07:30:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel exit polls show tight contest between Netanyahu and Eisenkot",
+      "url": "https://www.business-standard.com/world-news/israel-exit-polls-show-tight-contest-between-netanyahu-and-eisenkot-126102800624_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-28T07:16:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "I’d Like Some Choices, Please",
+      "url": "https://thehealthcareblog.com/blog/2026/10/28/id-like-some-choices-please/",
+      "source": "Thehealthcareblog.com",
+      "publishedAt": "2026-10-28T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "SI Data Center Reality Check",
       "url": "https://www.americanthinker.com/articles/2026/10/si-data-center-reality-check/",
@@ -51,38 +139,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Scandal-hit German special forces prepare for war with Russia – commander",
-      "url": "https://rt-english.com/news/647859-german-elite-unit-fight-russia/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-28T00:07:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Video: No, War is Not Good For the Economy",
-      "url": "https://corbettreport.com/no-war-is-not-good-for-the-economy/",
-      "source": "Corbettreport.com",
-      "publishedAt": "2026-10-27T22:05:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "European leaders are ‘political masochists’ – Lavrov",
-      "url": "https://rt-english.com/news/647839-lavrov-european-leaders-political-masochists/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-27T21:02:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UK Must Be Ready for War in 1,000 Days, Says British Defense Secretary",
-      "url": "https://freerepublic.com/focus/f-news/4400806/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-10-27T19:23:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Coffee Break: Armed Madhouse – Tactical Nuclear Weapons: A Deadly Temptation",
       "url": "https://www.nakedcapitalism.com/2026/10/coffee-break-armed-madhouse-tactical-nuclear-weapons-a-deadly-temptation.html",
       "source": "Nakedcapitalism.com",
@@ -97,14 +153,6 @@
       "publishedAt": "2026-10-27T17:49:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Britain signs landmark deal with Poland to develop new missiles to combat Russian drones",
-      "url": "https://www.dailymail.com/news/article-16243389/Britain-deal-Poland-missiles-Russia.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-27T17:30:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Israel’s genocide in Gaza never stopped – UN commission",
@@ -135,56 +183,8 @@
       "url": "https://abcnews.com/International/netanyahus-future-line-polls-open-israeli-elections/story?id=137594835",
       "source": "Abcnews.com",
       "publishedAt": "2026-10-27T15:48:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Minister hits out over triple lock 'misinformation'",
-      "url": "https://www.rte.ie/news/2026/1027/1596989-triple-lock-misinformation/",
-      "source": "RTE",
-      "publishedAt": "2026-10-27T15:27:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
-      "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-27T15:26:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Pentagon Fears Drone Attacks on U.S. and Foreign Bases",
-      "url": "https://theintercept.com/2026/10/27/pentagon-drone-attacks-military-bases/",
-      "source": "The Intercept",
-      "publishedAt": "2026-10-27T15:00:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Black Sea Brinkmanship: Is Europe Closer to Clashing With Moscow?",
-      "url": "https://www.globalresearch.ca/black-sea-brinkmanship-europe-closer-clashing-moscow/5944573",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-10-27T14:44:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "European fury after Finland and Norway's leaders hold direct talks with Putin about ending Ukraine war",
-      "url": "https://www.dailymail.com/news/article-16242117/European-fury-Finland-Norways-leaders-hold-direct-talks-Putin-ending-Ukraine-war.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-27T13:46:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘Extremely destabilizing development’: France pushes the envelope on global nuclear war",
-      "url": "https://www.wnd.com/2026/10/extremely-destabilizing-development-france-pushes-envelope-global-nuclear/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-10-27T12:55:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Netanyahu's political survival on the line as Israel votes",

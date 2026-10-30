@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-29T22:26:39Z",
-  "count": 36,
+  "updated": "2026-10-30T04:27:44Z",
+  "count": 26,
   "articles": [
+    {
+      "title": "Hegseth ousts top military planner at Pentagon as Trump considers launching strikes on Iran after midterms",
+      "url": "https://www.dailymail.com/news/article-16248013/Hegseth-fires-Army-Lieutenant-military-planner-Iran.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-29T03:58:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Hezbollah leader: Israel's election won't change our fight against them",
+      "url": "https://www.israelnationalnews.com/news/435328",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-29T03:44:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran says plan to end war with US could be implemented in under a week",
+      "url": "https://www.business-standard.com/world-news/iran-says-plan-to-end-war-with-us-could-be-implemented-in-under-a-week-126102900052_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-10-29T03:09:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil Price Today (October 29): Crude oil dips to $113 as diplomatic talks outweigh infra attacks. Can oil fall further?",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-29-crude-oil-dips-to-113-as-diplomatic-talks-outweigh-infra-attacks-can-oil-fall-further/articleshow/135286659.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-29T02:24:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Supporting Freedom Abroad Is Still In America’s National Interests",
+      "url": "https://www.thefreedomfrequency.org/p/supporting-freedom-abroad-is-still",
+      "source": "Thefreedomfrequency.org",
+      "publishedAt": "2026-10-29T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Report: Qatar Offers Iran Deal to End War with U.S.",
+      "url": "https://www.breitbart.com/middle-east/2026/10/28/report-qatar-offers-iran-deal-to-end-war-with-u-s/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-10-28T22:58:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Oil Rises with Iran Attack Report, Israeli Election in Focus",
       "url": "https://www.rigzone.com/news/wire/oil_rises_with_iran_attack_report_israeli_election_in_focus-28-oct-2026-184958-article/",
@@ -147,14 +195,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Netanyahu barely hanging on after Israeli election — what that means for Iran war",
-      "url": "https://nypost.com/2026/10/28/world-news/what-netanyahus-lead-means-for-iran-war-after-israeli-election/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-28T14:00:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "U.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal",
       "url": "https://oilprice.com/Energy/Energy-General/US-Lawmakers-Warn-Banks-Against-Trumps-Russian-Diesel-Deal.html",
       "source": "OilPrice.com",
@@ -163,132 +203,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump sends secret diplomatic message to allies as thousands of American troops prepare for fresh blitz on Iran",
-      "url": "https://www.dailymail.com/news/article-16245667/Trump-sends-secret-diplomatic-message-allies-thousands-American-troops-prepare-fresh-blitz-Iran.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-28T12:36:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Stubb's call with Putin draws praise, criticism at home and abroad",
-      "url": "https://yle.fi/a/74-20253775",
-      "source": "YLE News",
-      "publishedAt": "2026-10-28T11:20:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Saudi Arabia vs Houthi rebels: It's time to look beyond the US",
-      "url": "https://www.livemint.com/opinion/online-views/saudi-arabia-vs-houthi-rebels-time-to-look-beyond-the-us-11793113556230.html",
-      "source": "Livemint",
-      "publishedAt": "2026-10-28T09:30:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "SI Data Center Reality Check",
       "url": "https://www.americanthinker.com/articles/2026/10/si-data-center-reality-check/",
       "source": "Americanthinker.com",
       "publishedAt": "2026-10-28T04:00:00Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Coffee Break: Armed Madhouse – Tactical Nuclear Weapons: A Deadly Temptation",
-      "url": "https://www.nakedcapitalism.com/2026/10/coffee-break-armed-madhouse-tactical-nuclear-weapons-a-deadly-temptation.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-27T18:00:30Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "How Would China Actually Govern Taiwan?",
-      "url": "https://thediplomat.com/2026/10/how-would-china-actually-govern-taiwan/",
-      "source": "The Diplomat",
-      "publishedAt": "2026-10-27T17:49:00Z",
-      "_cat": "taiwan",
-      "_label": "Taiwan"
-    },
-    {
-      "title": "Israel’s genocide in Gaza never stopped – UN commission",
-      "url": "https://rt-english.com/news/647801-israeli-genocide-palestinians-un/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-27T16:54:21Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Is Israel a Good Ally?",
-      "url": "http://foreignpolicy.com/2026/10/27/israel-gaza-hamas-hezbollah-netanyahu-trump/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-10-27T16:52:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israelis shatter turnout records to pass wartime judgment on Netanyahu",
-      "url": "https://www.thedailystar.net/news/world/middle-east/news/israelis-shatter-turnout-records-pass-wartime-judgment-netanyahu-4308986",
-      "source": "The Daily Star",
-      "publishedAt": "2026-10-27T16:12:24Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu's future on the line as polls open in Israeli elections",
-      "url": "https://abcnews.com/International/netanyahus-future-line-polls-open-israeli-elections/story?id=137594835",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-27T15:48:09Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu's political survival on the line as Israel votes",
-      "url": "https://www.cbc.ca/news/world/israel-election-9.7397565",
-      "source": "CBC News",
-      "publishedAt": "2026-10-27T10:16:11Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel election: Netanyahu fights for political survival as October 7 fallout looms",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-election-netanyahu-fights-for-political-survival-as-october-7-fallout-looms/articleshow/135228007.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-27T07:51:48Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu's political survival on the line in Israel vote",
-      "url": "https://www.rte.ie/news/middle-east/2026/1027/1596901-israel-election/",
-      "source": "RTE",
-      "publishedAt": "2026-10-27T06:24:05Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israelis go to the polls with Netanyahu's political survival on the line",
-      "url": "https://uk.news.yahoo.com/netanyahus-political-survival-line-israel-000240854.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-27T05:36:25Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Netanyahu's political survival on the line as Israel votes",
-      "url": "https://www.channelnewsasia.com/world/israel-election-prime-minister-netanyahu-6494976",
-      "source": "CNA",
-      "publishedAt": "2026-10-27T01:50:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israelis go to the polls with Netanyahu's political survival on the line",
-      "url": "https://www.yahoo.com/news/articles/netanyahus-political-survival-line-israel-000240854.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-27T00:02:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

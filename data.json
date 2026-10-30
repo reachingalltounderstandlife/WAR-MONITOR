@@ -1,14 +1,158 @@
 {
-  "updated": "2026-10-30T04:27:44Z",
-  "count": 26,
+  "updated": "2026-10-30T12:09:32Z",
+  "count": 30,
   "articles": [
     {
-      "title": "Hegseth ousts top military planner at Pentagon as Trump considers launching strikes on Iran after midterms",
-      "url": "https://www.dailymail.com/news/article-16248013/Hegseth-fires-Army-Lieutenant-military-planner-Iran.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-29T03:58:20Z",
+      "title": "Biden’s Choice",
+      "url": "https://www.nybooks.com/articles/2026/11/19/bidens-choice-crossing-the-red-line-ahmed/",
+      "source": "The New York Review of Books",
+      "publishedAt": "2026-10-29T12:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "What we know of Vance’s letter to Rezaei, as Trump warns Gulf to ‘prepare’",
+      "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-29T11:41:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israelis await final election results as difficult choices lie ahead",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/10/29/israelis-await-final-election-results-as-difficult-choices-lie-ahead/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-10-29T11:29:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israeli minister seeks arrest of Arab party leaders",
+      "url": "https://www.rte.ie/news/2026/1029/1597180-israeli-minister-seeks-arrest-of-arab-party-leaders/",
+      "source": "RTE",
+      "publishedAt": "2026-10-29T09:17:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Eisenkot warns of campaign to 'delegitimise' election",
+      "url": "https://www.rte.ie/news/2026/1029/1597180-israeli-election/",
+      "source": "RTE",
+      "publishedAt": "2026-10-29T09:17:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israelis await final election results as Netanyahu's bloc holds slight edge",
+      "url": "https://www.cbc.ca/news/world/israel-election-9.7400701",
+      "source": "CBC News",
+      "publishedAt": "2026-10-29T09:10:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Obama and Trump spar at rallies in Georgia and Ohio: Key takeaways",
+      "url": "https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-29T08:51:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump takes the credit as Netanyahu edges ahead in Israeli elections",
+      "url": "https://www.dailymail.com/news/article-16248389/Trump-credit-Netanyahu-Israeli-elections.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-29T08:35:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How to stop the US-Israel war on Iran",
+      "url": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-29T07:54:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Sitting Ducks or Strategic Shields: What Does the Small Reactor Promise Mean for Future Conflicts?",
+      "url": "https://warontherocks.com/sitting-ducks-or-strategic-shields-what-does-the-small-reactor-promise-mean-for-future-conflicts/",
+      "source": "War on the Rocks",
+      "publishedAt": "2026-10-29T07:30:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "North Korea fires missiles as row over landmine blast intensifies",
+      "url": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-29T07:24:47Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "A framework for peace in Ukraine",
+      "url": "https://theecologist.org/2026/oct/29/framework-peace-ukraine",
+      "source": "Theecologist.org",
+      "publishedAt": "2026-10-29T07:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korean workers sold into Russia then stripped of wages, report finds",
+      "url": "https://www.abc.net.au/news/2026-10-29/north-korea-russia-labour-funding-missile-program/107318780",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-10-29T06:43:55Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Hegseth fires top Pentagon war planner Brett Sylvia in latest military shake-up",
+      "url": "https://nypost.com/2026/10/29/us-news/hegseth-fires-top-pentagon-war-planner-brett-sylvia-in-latest-military-shake-up/",
+      "source": "New York Post",
+      "publishedAt": "2026-10-29T06:20:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia’s alleged sabotage campaign in Europe raises fears of escalation",
+      "url": "https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-29T06:01:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Jaded rhetoric and trite stereotypes about neutrality are inflaming triple lock debate",
+      "url": "https://www.irishtimes.com/opinion/2026/10/29/jaded-rhetoric-and-trite-stereotypes-about-neutrality-are-inflaming-triple-lock-debate/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-10-29T06:00:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kim Jong Un Calls for “World’s Strongest Armed Forces” After Sister’s Border Warning",
+      "url": "https://www.naturalnews.com/2026-10-29-kim-jong-un-calls-for-strongest-armed-forces.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-10-29T06:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea fires around 10 ballistic missiles into sea",
+      "url": "https://www.dw.com/en/north-korea-south-korea-japan-kim-jong-un-missile/a-79791900",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-29T04:57:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea fires unknown projectile into East Sea: Seoul defence ministry",
+      "url": "https://www.channelnewsasia.com/east-asia/north-korea-fires-unknown-projectile-east-sea-6502256",
+      "source": "CNA",
+      "publishedAt": "2026-10-29T04:47:10Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Hezbollah leader: Israel's election won't change our fight against them",
@@ -19,22 +163,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Iran says plan to end war with US could be implemented in under a week",
-      "url": "https://www.business-standard.com/world-news/iran-says-plan-to-end-war-with-us-could-be-implemented-in-under-a-week-126102900052_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-29T03:09:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil Price Today (October 29): Crude oil dips to $113 as diplomatic talks outweigh infra attacks. Can oil fall further?",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-29-crude-oil-dips-to-113-as-diplomatic-talks-outweigh-infra-attacks-can-oil-fall-further/articleshow/135286659.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-29T02:24:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Supporting Freedom Abroad Is Still In America’s National Interests",
       "url": "https://www.thefreedomfrequency.org/p/supporting-freedom-abroad-is-still",
       "source": "Thefreedomfrequency.org",
@@ -43,36 +171,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Report: Qatar Offers Iran Deal to End War with U.S.",
-      "url": "https://www.breitbart.com/middle-east/2026/10/28/report-qatar-offers-iran-deal-to-end-war-with-u-s/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-10-28T22:58:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil Rises with Iran Attack Report, Israeli Election in Focus",
-      "url": "https://www.rigzone.com/news/wire/oil_rises_with_iran_attack_report_israeli_election_in_focus-28-oct-2026-184958-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-10-28T20:50:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "No seat for Europe at Ukraine peace talks – Kremlin",
       "url": "https://rt-english.com/russia/647970-europe-sidelined-russia-us-ukraine-talks/",
       "source": "Rt-english.com",
       "publishedAt": "2026-10-28T20:23:18Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Israel election: Netanyahu set to remain caretaker prime minister after inconclusive vote",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/10/28/israel-election-netanyahu-set-to-remain-caretaker-prime-minister-after-inconclusive-vote/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-10-28T19:17:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Five key takeaways from the UK Autumn Budget",
@@ -87,30 +191,6 @@
       "url": "https://www.abc.net.au/news/2026-10-29/russia-jet-powered-shahed-geran-drones-ukraine-war-kyiv-attacks/107232266",
       "source": "ABC News (AU)",
       "publishedAt": "2026-10-28T18:40:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel’s Next Leader Remains Unclear, Neither Candidate Offers An America First Shift",
-      "url": "https://dailycaller.com/2026/10/28/israel-election-netanyahu-coalition-iran-us-relations",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-10-28T17:24:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Incredible Shrinking Superpower",
-      "url": "https://theintercept.com/2026/10/28/yemen-saudi-arabia-iran/",
-      "source": "The Intercept",
-      "publishedAt": "2026-10-28T17:04:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia Turns to Arctic WW2 Route to Export Grain",
-      "url": "https://gcaptain.com/russia-turns-to-arctic-ww2-route-to-export-grain/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-10-28T16:32:21Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -147,60 +227,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Ukraine's Zelenskyy irked by US-Russia-China summit",
-      "url": "https://www.dw.com/en/ukraines-zelenskyy-irked-by-us-russia-china-summit/a-79788616",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-28T15:49:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Budget 2026 speech",
-      "url": "https://www.gov.uk/government/speeches/budget-2026-speech",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-10-28T15:45:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "From hydrogen buses to nuclear power, green energy to drive Odisha’s next industrial wave: Vishal Dev",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/from-hydrogen-buses-to-nuclear-power-green-energy-to-drive-odishas-next-industrial-wave-vishal-dev/articleshow/135271601.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-28T15:35:38Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "The Evolution of Taiwan’s Military",
       "url": "https://thediplomat.com/2026/10/the-evolution-of-taiwans-military/",
       "source": "The Diplomat",
       "publishedAt": "2026-10-28T15:25:00Z",
       "_cat": "taiwan",
       "_label": "Taiwan"
-    },
-    {
-      "title": "Pete Hegseth's Pentagon hammers Trump days before midterms as it reveals staggering cost of Iran war",
-      "url": "https://www.dailymail.com/news/article-16246071/Pete-Hegseths-Pentagon-hammers-Trump-days-midterms-reveals-staggering-cost-Iran-war.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-28T14:59:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Are GCC countries looking for a regional security pact with Iran?",
-      "url": "https://www.aljazeera.com/news/2026/10/28/are-gcc-countries-looking-for-a-regional-security-pact-with-iran",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-28T14:51:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. Lawmakers Warn Banks Against Trump's Russian Diesel Deal",
-      "url": "https://oilprice.com/Energy/Energy-General/US-Lawmakers-Warn-Banks-Against-Trumps-Russian-Diesel-Deal.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-10-28T13:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "SI Data Center Reality Check",

@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-30T12:09:32Z",
-  "count": 30,
+  "updated": "2026-10-30T21:56:22Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Oil Wavers on Conflicting Reports of USA Military Moves",
+      "url": "https://www.rigzone.com/news/wire/oil_wavers_on_conflicting_reports_of_usa_military_moves-29-oct-2026-184969-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-10-29T21:16:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A Global Port Strike Could Freeze $2 Billion in Freight",
+      "url": "https://www.motherjones.com/politics/2026/10/global-port-strike-workers-unions-israel-iran-war-protest/",
+      "source": "Mother Jones",
+      "publishedAt": "2026-10-29T21:04:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin Has Shown No Willingness To End Ukraine War, Says Mike Pompeo",
+      "url": "https://www.rferl.org/a/mike-pompeo-interview-putin-ukraine-russia-china-iran/33886869.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-10-29T20:54:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine’s War Goes Underground As Troops Battle Inside Gas Pipelines",
+      "url": "https://dailycaller.com/2026/10/29/ukraine-russia-war-underground-gas-pipelines",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-10-29T19:52:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pentagon fires general it says leaked classified information to media",
+      "url": "https://www.aljazeera.com/news/2026/10/29/pentagon-fires-general-it-says-leaked-classified-information-to-media",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-10-29T19:02:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin warns the West he is 'prepared for war' and if 'things go too far, there will be no winners'",
+      "url": "https://www.dailymail.com/news/article-16250309/putin-warn-war-europe-nato.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-29T18:26:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "No seat at the table: Israel’s post-election message to its Palestinian citizens",
+      "url": "https://mondoweiss.net/2026/10/no-seat-at-the-table-israels-post-election-message-to-its-palestinian-citizens/",
+      "source": "Mondoweiss",
+      "publishedAt": "2026-10-29T18:25:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "“Color Revolutions”: EU-Backed Technocratic Governments Spread in Europe. Serbia Falls",
+      "url": "https://www.globalresearch.ca/eu-backed-technocratic-governments-spread-europe-serbia-falls/5944745",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-10-29T15:15:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "70 years ago the Suez crisis exposed British relative decline. Today, the Iran conflict could be doing the same for the US",
+      "url": "https://theconversation.com/70-years-ago-the-suez-crisis-exposed-british-relative-decline-today-the-iran-conflict-could-be-doing-the-same-for-the-us-292833",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-10-29T13:21:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Bulldozers, glyphosate, white phosphorus: Israel’s destruction of South Lebanon’s olive groves",
+      "url": "https://mondoweiss.net/2026/10/bulldozers-glyphosate-white-phosphorus-israels-destruction-of-south-lebanons-olive-groves/",
+      "source": "Mondoweiss",
+      "publishedAt": "2026-10-29T13:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israeli election deadlock leaves door open to fresh Iran strikes",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/10/29/israeli-election-deadlock-leaves-door-open-to-fresh-iran-strikes/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-10-29T12:20:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Biden’s Choice",
       "url": "https://www.nybooks.com/articles/2026/11/19/bidens-choice-crossing-the-red-line-ahmed/",
@@ -31,46 +119,6 @@
       "url": "https://www.rte.ie/news/2026/1029/1597180-israeli-minister-seeks-arrest-of-arab-party-leaders/",
       "source": "RTE",
       "publishedAt": "2026-10-29T09:17:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Eisenkot warns of campaign to 'delegitimise' election",
-      "url": "https://www.rte.ie/news/2026/1029/1597180-israeli-election/",
-      "source": "RTE",
-      "publishedAt": "2026-10-29T09:17:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israelis await final election results as Netanyahu's bloc holds slight edge",
-      "url": "https://www.cbc.ca/news/world/israel-election-9.7400701",
-      "source": "CBC News",
-      "publishedAt": "2026-10-29T09:10:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Obama and Trump spar at rallies in Georgia and Ohio: Key takeaways",
-      "url": "https://www.aljazeera.com/news/2026/10/29/obama-and-trump-rally-in-georgia-and-ohio-key-takeaways",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-29T08:51:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump takes the credit as Netanyahu edges ahead in Israeli elections",
-      "url": "https://www.dailymail.com/news/article-16248389/Trump-credit-Netanyahu-Israeli-elections.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-29T08:35:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How to stop the US-Israel war on Iran",
-      "url": "https://www.aljazeera.com/opinions/2026/10/29/how-to-stop-the-us-israel-war-on-iran",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-29T07:54:51Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -105,14 +153,6 @@
       "publishedAt": "2026-10-29T06:43:55Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Hegseth fires top Pentagon war planner Brett Sylvia in latest military shake-up",
-      "url": "https://nypost.com/2026/10/29/us-news/hegseth-fires-top-pentagon-war-planner-brett-sylvia-in-latest-military-shake-up/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-29T06:20:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Russia’s alleged sabotage campaign in Europe raises fears of escalation",
@@ -167,32 +207,8 @@
       "url": "https://www.thefreedomfrequency.org/p/supporting-freedom-abroad-is-still",
       "source": "Thefreedomfrequency.org",
       "publishedAt": "2026-10-29T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "No seat for Europe at Ukraine peace talks – Kremlin",
-      "url": "https://rt-english.com/russia/647970-europe-sidelined-russia-us-ukraine-talks/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-28T20:23:18Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Five key takeaways from the UK Autumn Budget",
-      "url": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-28T18:46:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Faster, deadlier Russian drones shift warfare into horrifying new phase",
-      "url": "https://www.abc.net.au/news/2026-10-29/russia-jet-powered-shahed-geran-drones-ukraine-war-kyiv-attacks/107232266",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-10-28T18:40:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Jamia Millia Islamia extends online classes till November 24 amid ongoing student protests",

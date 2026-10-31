@@ -1,7 +1,119 @@
 {
-  "updated": "2026-10-31T11:42:39Z",
-  "count": 34,
+  "updated": "2026-10-31T16:50:25Z",
+  "count": 35,
   "articles": [
+    {
+      "title": "'Missile shield at Mar-a-Lago, mass burial drills': Is Trump ready?",
+      "url": "https://economictimes.indiatimes.com/news/defence/missile-shield-at-mar-a-lago-mass-burial-drills-is-trump-ready/articleshow/135369594.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-30T16:21:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Dockworkers launch global strike against Israeli and US military shipments (VIDEOS)",
+      "url": "https://rt-english.com/news/648123-global-dockworker-strike-war/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-30T15:52:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How Kim Jong Un has built the world's most feared team of hackers - with skilled youngsters identified early and trained to become elite cyber thieves",
+      "url": "https://www.dailymail.com/news/article-16252467/How-Kim-Jong-built-worlds-feared-team-hackers-skilled-youngsters-identified-early-trained-elite-cyber-thieves.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-30T15:30:54Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "G20 group photo of diplomats 'is scrapped after ministers refused to stand beside Russia's Sergey Lavrov'",
+      "url": "https://www.dailymail.com/news/article-16252751/G20-group-photo-scrapped-ministers-refused-stand-Russia-Sergey-Lavrov.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-30T15:05:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Qatari delegation visits Iran as US peace talks intensify",
+      "url": "https://punchng.com/qatari-delegation-visits-iran-as-us-peace-talks-intensify/",
+      "source": "The Punch",
+      "publishedAt": "2026-10-30T14:54:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How US and Israeli money turned Latvia into a drone workshop for Ukraine",
+      "url": "https://rt-english.com/russia/648128-us-israel-latvia-ukraine-drones/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-10-30T14:32:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S. Scraps G20 Photo After European Allies Object To Russia’s Participation",
+      "url": "https://www.huffpost.com/entry/g20-foreign-ministers-rifts-drama_n_6ae4a389e4b09cd24b6e499a",
+      "source": "HuffPost",
+      "publishedAt": "2026-10-30T14:10:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Seoul fears being sidelined as US reaches out to North Korea",
+      "url": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-30T14:08:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Seoul fears being slighted as US reaches out to North Korea",
+      "url": "https://www.dw.com/en/seoul-fears-being-slighted-as-us-reaches-out-to-north-korea/a-79808098",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-30T14:08:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Seoul fears being left out as US reaches out to North Korea",
+      "url": "https://www.dw.com/en/seoul-fears-being-left-out-as-us-reaches-out-to-north-korea/a-79808098",
+      "source": "DW (English)",
+      "publishedAt": "2026-10-30T14:08:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "‘We’re fighting the war of the future’: How a charity became one of Ukraine’s most powerful weapons",
+      "url": "https://www.irishtimes.com/world/europe/2026/10/30/were-fighting-the-war-of-the-future-how-a-charity-became-one-of-ukraines-most-powerful-weapons/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-10-30T14:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "100 Unhinged Things Trump Did That You May Have Forgotten",
+      "url": "http://www.rollingstone.com/politics/political-commentary/trump-second-term-100-actions-forgotten-1235650305/",
+      "source": "Rolling Stone",
+      "publishedAt": "2026-10-30T13:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Aid operation, evacuations underway in Ukraine's stricken city of Oleshky",
+      "url": "https://www.cbc.ca/news/world/israel-election-final-results-9.7402167",
+      "source": "CBC News",
+      "publishedAt": "2026-10-30T12:20:37Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Evacuation begins from ravaged Russian-controlled Ukrainian city",
+      "url": "https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-10-30T11:56:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Qatari delegation in Tehran to resume talks with US",
       "url": "https://www.hurriyetdailynews.com/qatari-delegation-in-tehran-to-resume-talks-with-us-228805",
@@ -75,46 +187,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Why the war in Iran might cost Trump and the Republicans at the ballot box",
-      "url": "https://www.cbc.ca/news/world/us-midterms-foreign-policy-inflation-9.7400163",
-      "source": "CBC News",
-      "publishedAt": "2026-10-30T08:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US tells Europeans to cool their rhetoric on Russia",
-      "url": "https://www.irishtimes.com/world/europe/2026/10/30/us-tells-europeans-to-cool-their-rhetoric-on-russia/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-10-30T07:36:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "G20 diplomats, including from China and Russia, face deep rifts as they prepare to meet in Atlanta",
-      "url": "https://abcnews.com/US/wireStory/g20-diplomats-including-china-russia-face-deep-rifts-137695571",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-10-30T06:40:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia’s Air Defenses Intercept 1,214 Drones Overnight; Expert Cites Layered System and New Weapons",
-      "url": "https://www.naturalnews.com/2026-10-30-russia-air-defenses-intercept-ukraine-drones-overnight.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-10-30T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Sviatlana Tsikhanouskaya: From Chernobyl child to president-elect of Belarus",
-      "url": "https://www.irishtimes.com/ireland/2026/10/30/sviatlana-tsikhanouskaya-from-chernobyl-child-to-president-elect-of-belarus/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-10-30T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Kim Jong Unâs drone army is learning from Ukraine, and itâs aiming at South Korea",
       "url": "https://www.naturalnews.com/2026-10-30-kim-jong-un-drone-army-ukraine-korea.html",
       "source": "Naturalnews.com",
@@ -129,22 +201,6 @@
       "publishedAt": "2026-10-30T05:04:32Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "G20 diplomats, including from China and Russia, face deep rifts as they prepare to meet in Atlanta",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/g20-diplomats-grapple-with-divisions-as-russia-and-china-join-tense-talks-in-atlanta/articleshow/135344157.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-30T04:47:54Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "U.S. scraps G20 group photo after European diplomats refuse to pose with Russia's Lavrov",
-      "url": "https://www.yahoo.com/news/politics/articles/g20-diplomats-including-china-russia-040255027.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-10-30T04:02:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Who sent $2 bn military equipment to Iran past US blockade? More than 5,000 agencies",
@@ -169,30 +225,6 @@
       "publishedAt": "2026-10-30T01:20:22Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "The Houthi Threat America Cannot Afford to Ignore",
-      "url": "https://www.hoover.org/research/houthi-threat-america-cannot-afford-ignore",
-      "source": "Hoover.org",
-      "publishedAt": "2026-10-30T00:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "EU Satellite Imagery Delayed Over Gaza and Parts of West Bank by 24-hours",
-      "url": "https://www.bellingcat.com/news/2026/10/29/eu-satellite-imagery-delayed-over-gaza-and-parts-of-west-bank-by-24-hours/",
-      "source": "Bellingcat.com",
-      "publishedAt": "2026-10-29T22:15:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Putin Has Shown No Willingness To End Ukraine War, Says Mike Pompeo",
-      "url": "https://freerepublic.com/focus/f-bloggers/4401068/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-10-29T22:14:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Bulldozers, glyphosate, white phosphorus: Israel’s destruction of South Lebanon’s olive groves",
@@ -235,30 +267,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Kim Jong Un Calls for “World’s Strongest Armed Forces” After Sister’s Border Warning",
-      "url": "https://www.naturalnews.com/2026-10-29-kim-jong-un-calls-for-strongest-armed-forces.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-10-29T06:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea fires around 10 ballistic missiles into sea",
-      "url": "https://www.dw.com/en/north-korea-south-korea-japan-kim-jong-un-missile/a-79791900",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-29T04:57:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea fires unknown projectile into East Sea: Seoul defence ministry",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-fires-unknown-projectile-east-sea-6502256",
-      "source": "CNA",
-      "publishedAt": "2026-10-29T04:47:10Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "Hezbollah leader: Israel's election won't change our fight against them",
       "url": "https://www.israelnationalnews.com/news/435328",
       "source": "Israelnationalnews.com",
@@ -271,8 +279,8 @@
       "url": "https://www.thefreedomfrequency.org/p/supporting-freedom-abroad-is-still",
       "source": "Thefreedomfrequency.org",
       "publishedAt": "2026-10-29T00:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     }
   ]
 }

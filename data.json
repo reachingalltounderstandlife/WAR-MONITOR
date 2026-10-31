@@ -1,7 +1,71 @@
 {
-  "updated": "2026-10-31T16:50:25Z",
+  "updated": "2026-10-31T20:59:21Z",
   "count": 35,
   "articles": [
+    {
+      "title": "Trump: Iran wants talks, war could end soon",
+      "url": "https://www.israelnationalnews.com/news/435413",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-30T20:28:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Tone down Russia rhetoric: Pentagon to NATO Allies",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/tone-down-russia-rhetoric-pentagon-to-nato-allies/articleshow/135376327.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-30T19:24:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia the Disruptor",
+      "url": "http://foreignpolicy.com/2026/10/30/russia-war-ukraine-books-us-history-kinzer-haslam-notte/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-30T19:15:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kim Jong Un Unleashes Suicide Drones On Mock American Tanks",
+      "url": "https://dailycaller.com/2026/10/30/kim-jong-un-unleashes-suicide-drones-mock-american-tanks",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-10-30T19:15:40Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "John Swinney accused of 'playing party politics with national defence' after making 'irresponsible' warning over threats from Russia",
+      "url": "https://www.dailymail.com/news/article-16253351/John-Swinney-accused-playing-party-politics-national-defence-making-irresponsible-warning-threats-Russia.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-30T19:05:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S. scraps G20’s opening photo after Europeans balk at posing with Russia’s Lavrov",
+      "url": "https://fortune.com/2026/10/30/g20-photo-scrapped-europeans-russia-lavrov-trump-golf-club/",
+      "source": "Fortune",
+      "publishedAt": "2026-10-30T18:12:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What in the World?",
+      "url": "http://foreignpolicy.com/2026/10/30/news-quiz-lula-brazil-election-serbia-vucic-israel-china-fifth-plenum-ccp/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-10-30T17:47:37Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Houston Activists Are Working to Disrupt the Flow of Weapons to Israel",
+      "url": "https://truthout.org/articles/houston-activists-are-working-to-disrupt-the-flow-of-weapons-to-israel/",
+      "source": "Truthout",
+      "publishedAt": "2026-10-30T17:10:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "'Missile shield at Mar-a-Lago, mass burial drills': Is Trump ready?",
       "url": "https://economictimes.indiatimes.com/news/defence/missile-shield-at-mar-a-lago-mass-burial-drills-is-trump-ready/articleshow/135369594.cms",
@@ -99,22 +163,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Aid operation, evacuations underway in Ukraine's stricken city of Oleshky",
-      "url": "https://www.cbc.ca/news/world/israel-election-final-results-9.7402167",
-      "source": "CBC News",
-      "publishedAt": "2026-10-30T12:20:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Evacuation begins from ravaged Russian-controlled Ukrainian city",
-      "url": "https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-10-30T11:56:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Qatari delegation in Tehran to resume talks with US",
       "url": "https://www.hurriyetdailynews.com/qatari-delegation-in-tehran-to-resume-talks-with-us-228805",
       "source": "Hurriyet Daily News",
@@ -155,36 +203,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump Promised Poland More Troops. They’re Still Not There.",
-      "url": "http://foreignpolicy.com/2026/10/30/trump-poland-troops-deployment-delay-europe-review/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-10-30T10:00:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Kim attends North Korean drone exhibition and calls for boosting technology",
       "url": "https://nypost.com/2026/10/30/world-news/kim-attends-a-north-korean-drone-exhibition-and-calls-for-boosting-the-technology/",
       "source": "New York Post",
       "publishedAt": "2026-10-30T09:57:34Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Pentagon warns European leaders to stop 'poking' Russia - as Putin warns he is 'prepared for war'",
-      "url": "https://www.dailymail.com/news/article-16251761/Pentagon-European-leaders-stop-poking-Russia.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-30T09:09:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How the Serbian Student Movement Is a Victory for Organizing Power",
-      "url": "https://www.thenation.com/?post_type=article&p=614175",
-      "source": "Thenation.com",
-      "publishedAt": "2026-10-30T09:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Kim Jong Unâs drone army is learning from Ukraine, and itâs aiming at South Korea",
@@ -201,22 +225,6 @@
       "publishedAt": "2026-10-30T05:04:32Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Who sent $2 bn military equipment to Iran past US blockade? More than 5,000 agencies",
-      "url": "https://economictimes.indiatimes.com/news/defence/who-sent-2-bn-military-equipment-to-iran-past-us-blockade-more-than-5000-agencies/articleshow/135340923.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-30T03:14:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Fired top Pentagon strategist accused of leaking Iran and Ukraine secrets – Axios",
-      "url": "https://rt-english.com/news/648104-pentagon-general-accused-leaking/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-10-30T02:54:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea displays drones, missiles as Kim urges AI weapons push",
@@ -255,14 +263,6 @@
       "url": "https://www.aljazeera.com/news/2026/10/29/north-korea-fires-missiles-as-row-over-landmine-blast-intensifies",
       "source": "Al Jazeera English",
       "publishedAt": "2026-10-29T07:24:47Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korean workers sold into Russia then stripped of wages, report finds",
-      "url": "https://www.abc.net.au/news/2026-10-29/north-korea-russia-labour-funding-missile-program/107318780",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-10-29T06:43:55Z",
       "_cat": "korea",
       "_label": "N. Korea"
     },

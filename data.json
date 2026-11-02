@@ -1,7 +1,135 @@
 {
-  "updated": "2026-11-01T21:42:24Z",
+  "updated": "2026-11-02T04:31:25Z",
   "count": 31,
   "articles": [
+    {
+      "title": "As Trump ‘Makes Nice’ with Moscow, the CIA Has Other Ideas",
+      "url": "https://www.theamericanconservative.com/as-trump-makes-nice-with-moscow-the-cia-has-other-ideas/",
+      "source": "The American Conservative",
+      "publishedAt": "2026-11-01T04:03:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US has to 'take care' of one or two Iran targets - Trump",
+      "url": "https://www.rte.ie/news/2026/1101/1597505-trump-iran/",
+      "source": "RTE",
+      "publishedAt": "2026-11-01T03:14:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US has to 'take care' of one or two Iran targets - Trump",
+      "url": "https://www.rte.ie/news/2026/1101/1597505-middle-east-iran/",
+      "source": "RTE",
+      "publishedAt": "2026-11-01T03:14:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian envoys meet Qatar mediators as US strike threat looms post-midterms",
+      "url": "https://www.business-standard.com/world-news/iranian-envoys-meet-qatar-mediators-as-us-strike-threat-looms-post-midterms-126110100052_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-01T02:30:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Canada see growing interest in limited ceasefire in Black Sea",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-canada-see-growing-interest-in-limited-ceasefire-in-black-sea/articleshow/135415528.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-01T02:08:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "G20 foreign ministers end Atlanta meeting without consensus on key issue",
+      "url": "https://www.business-standard.com/world-news/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-key-issue-126110100019_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-01T02:05:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "FBI says North Korea behind $6bn crypto theft",
+      "url": "https://www.rte.ie/news/2026/1101/1597504-binance-theft/",
+      "source": "RTE",
+      "publishedAt": "2026-11-01T01:58:13Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "FBI says North Korea behind $6bn crypto theft",
+      "url": "https://www.rte.ie/news/2026/1101/1597504-fbi-crypyo/",
+      "source": "RTE",
+      "publishedAt": "2026-11-01T01:58:13Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump discusses Iran with Netanyahu as US weighs fresh strikes: Report",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-discusses-iran-with-netanyahu-as-us-weighs-fresh-strikes-report/articleshow/135415222.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-01T01:21:37Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "G20 foreign ministers end Atlanta meeting without consensus on key issue, group photo cancelled",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-key-issue-group-photo-cancelled/articleshow/135414976.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-01T00:57:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "FBI says North Korea behind $6 billion crypto theft from Binance",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/fbi-says-north-korea-behind-6-billion-crypto-theft-from-binance/articleshow/135414898.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-01T00:45:10Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Washington cannot ignore Afghanistan’s weapons legacy",
+      "url": "https://www.wnd.com/2026/10/washington-cannot-ignore-afghanistans-weapons-legacy/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-11-01T00:11:24Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Trump, Netanyahu hold talks amid Iran tensions",
+      "url": "https://www.israelnationalnews.com/news/435434",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-10-31T23:17:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Rubio Casts Doubts On Quick Deal To End War In Ukraine, Defends Russian Contacts",
+      "url": "https://www.rferl.org/a/rubio-atlanta-ukraine-russia-putin-lavrov-20/33888075.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-10-31T23:02:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran-US war to erupt again? Iranian Supreme Leader Warns US, Israel but Tehran offers Strait of Hormuz deal",
+      "url": "https://economictimes.indiatimes.com/news/international/us/iran-us-war-to-erupt-again-iranian-supreme-leader-warns-us-israel-but-tehran-offers-strait-of-hormuz-deal/articleshow/135414002.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-10-31T22:37:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Call for 'guard rails' to protect crypto currency in Britain after the record $6.3billion hack",
+      "url": "https://www.dailymail.com/news/article-16255419/Call-guard-rails-protect-crypto-currency-Britain-record-6-3billion-hack.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-10-31T22:08:42Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "If Iran war erupts, Israel may be plotting another ‘Operation Grim Beeper’ style attack: sources",
       "url": "https://nypost.com/2026/10/31/world-news/israel-plotting-pagers-style-operation-to-wipe-out-military-junta-ruling-iran-sources/",
@@ -47,38 +175,6 @@
       "url": "https://punchng.com/iran-warns-us-israel-against-new-attacks-after-trump-netanyahu-threats/",
       "source": "The Punch",
       "publishedAt": "2026-10-31T17:40:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran warns of wider retaliation even as diplomatic talks with US progress",
-      "url": "https://www.business-standard.com/world-news/iran-warns-of-wider-retaliation-even-as-diplomatic-talks-with-us-progress-126103101346_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-10-31T16:36:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran race to revive Qatar talks as Trump weighs new strikes after midterms",
-      "url": "https://nypost.com/2026/10/31/world-news/us-delegation-set-to-join-iran-talks-in-qatar/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-31T15:59:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Evacuees from Russian-occupied Oleshky arrive in Ukraine under Trump-brokered deal",
-      "url": "https://www.thejournal.ie/oleshky-evacuation-ukraine-7210963-Oct2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-10-31T14:10:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran's supreme leader warns US, Israel against new attacks",
-      "url": "https://economictimes.indiatimes.com/news/defence/irans-supreme-leader-warns-us-israel-against-new-attacks/articleshow/135403160.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-31T14:01:06Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -147,106 +243,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "The Jungle Devours Europe",
-      "url": "https://www.americanthinker.com/articles/2026/10/the-jungle-devours-europe/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-10-31T04:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "US, South Korea, Japan vow 'complete' North Korea denuclearisation",
       "url": "https://www.channelnewsasia.com/east-asia/us-south-korea-japan-vow-complete-north-korea-denuclearisation-6509071",
       "source": "CNA",
       "publishedAt": "2026-10-31T03:34:29Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Consensus looks elusive at G20 talks after the photo was canceled",
-      "url": "https://www.koco.com/article/consensus-g20-talks-european-objections-russia-cancel-group-photo/74300311",
-      "source": "KOCO Oklahoma City",
-      "publishedAt": "2026-10-31T01:10:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Tone down Russia rhetoric: Pentagon to NATO Allies",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/tone-down-russia-rhetoric-pentagon-to-nato-allies/articleshow/135376327.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-30T19:24:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia the Disruptor",
-      "url": "http://foreignpolicy.com/2026/10/30/russia-war-ukraine-books-us-history-kinzer-haslam-notte/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-10-30T19:15:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Kim Jong Un Unleashes Suicide Drones On Mock American Tanks",
-      "url": "https://dailycaller.com/2026/10/30/kim-jong-un-unleashes-suicide-drones-mock-american-tanks",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-10-30T19:15:40Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "John Swinney accused of 'playing party politics with national defence' after making 'irresponsible' warning over threats from Russia",
-      "url": "https://www.dailymail.com/news/article-16253351/John-Swinney-accused-playing-party-politics-national-defence-making-irresponsible-warning-threats-Russia.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-30T19:05:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How Kim Jong Un has built the world's most feared team of hackers - with skilled youngsters identified early and trained to become elite cyber thieves",
-      "url": "https://www.dailymail.com/news/article-16252467/How-Kim-Jong-built-worlds-feared-team-hackers-skilled-youngsters-identified-early-trained-elite-cyber-thieves.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-30T15:30:54Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Seoul fears being sidelined as US reaches out to North Korea",
-      "url": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-30T14:08:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Seoul fears being slighted as US reaches out to North Korea",
-      "url": "https://www.dw.com/en/seoul-fears-being-slighted-as-us-reaches-out-to-north-korea/a-79808098",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-30T14:08:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Seoul fears being left out as US reaches out to North Korea",
-      "url": "https://www.dw.com/en/seoul-fears-being-left-out-as-us-reaches-out-to-north-korea/a-79808098",
-      "source": "DW (English)",
-      "publishedAt": "2026-10-30T14:08:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim attends North Korean drone exhibition and calls for boosting technology",
-      "url": "https://nypost.com/2026/10/30/world-news/kim-attends-a-north-korean-drone-exhibition-and-calls-for-boosting-the-technology/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-30T09:57:34Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim Jong Unâs drone army is learning from Ukraine, and itâs aiming at South Korea",
-      "url": "https://www.naturalnews.com/2026-10-30-kim-jong-un-drone-army-ukraine-korea.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-10-30T06:00:00Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

@@ -1,7 +1,119 @@
 {
-  "updated": "2026-11-02T04:31:25Z",
-  "count": 31,
+  "updated": "2026-11-02T14:48:01Z",
+  "count": 34,
   "articles": [
+    {
+      "title": "Melania Trump-Negotiated Ceasefire in Kherson Set to Expire",
+      "url": "https://www.breitbart.com/europe/2026/11/01/melania-trump-negotiated-ceasefire-in-kherson-set-to-expire/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-11-01T14:03:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran warns new war could last longer after Trump threatens strikes",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-new-war-could-last-longer-after-trump-threatens-strikes/articleshow/135428091.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-01T13:11:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran and US explore diplomacy amid rising threats of war",
+      "url": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-01T13:02:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Sunday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/11/01/sunday-hili-dialogue-610/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-11-01T12:45:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The EU Met Its Waterloo In Warsaw",
+      "url": "https://freerepublic.com/focus/f-chat/4401359/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-11-01T12:27:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How Trump can smash Iran after the mid-terms - from missile strikes to bombing nuclear facilities as the US gathers 20,000 sailors and marines in the region",
+      "url": "https://www.dailymail.com/news/article-16241753/donald-trump-iran-war-resume-midterms.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-01T12:17:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 11/1/2026",
+      "url": "https://www.nakedcapitalism.com/?p=318898",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-01T11:55:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
+      "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-01T11:14:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-China Competition In Arctic Intensifies",
+      "url": "https://www.rferl.org/a/us-china-competition-in-arctic-intensifies/33888021.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-11-01T08:27:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
+      "url": "https://www.irishtimes.com/world/2026/11/01/binance-says-90-of-losses-from-63bn-hack-covered-as-fbi-says-north-korea-behind-attack/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-01T07:55:17Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump ‘checks in’ with Netanyahu amid fears of renewed hostilities – WSJ",
+      "url": "https://rt-english.com/news/648191-trump-checks-in-with-netanyahu/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-01T07:48:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says US still has 'one or two' targets remaining in Iran",
+      "url": "https://www.thejournal.ie/trump-iran-targets-7211416-Nov2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-11-01T07:25:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump at odds with his own FBI as president disputes agency's confirmation that North Korea was behind 'biggest hack in history'... while president risks being made to look like a fool by 'Little Rocket Man'",
+      "url": "https://www.dailymail.com/news/article-16255969/donald-trump-fbi-north-korea-binance-hack.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-01T06:04:31Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Israel ready for renewed Iran conflict: Report",
+      "url": "https://www.hurriyetdailynews.com/israel-ready-for-renewed-iran-conflict-report-228846",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-11-01T05:19:08Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "As Trump ‘Makes Nice’ with Moscow, the CIA Has Other Ideas",
       "url": "https://www.theamericanconservative.com/as-trump-makes-nice-with-moscow-the-cia-has-other-ideas/",
@@ -9,30 +121,6 @@
       "publishedAt": "2026-11-01T04:03:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US has to 'take care' of one or two Iran targets - Trump",
-      "url": "https://www.rte.ie/news/2026/1101/1597505-trump-iran/",
-      "source": "RTE",
-      "publishedAt": "2026-11-01T03:14:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US has to 'take care' of one or two Iran targets - Trump",
-      "url": "https://www.rte.ie/news/2026/1101/1597505-middle-east-iran/",
-      "source": "RTE",
-      "publishedAt": "2026-11-01T03:14:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iranian envoys meet Qatar mediators as US strike threat looms post-midterms",
-      "url": "https://www.business-standard.com/world-news/iranian-envoys-meet-qatar-mediators-as-us-strike-threat-looms-post-midterms-126110100052_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-01T02:30:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "US, Canada see growing interest in limited ceasefire in Black Sea",
@@ -99,28 +187,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Trump, Netanyahu hold talks amid Iran tensions",
-      "url": "https://www.israelnationalnews.com/news/435434",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-10-31T23:17:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Rubio Casts Doubts On Quick Deal To End War In Ukraine, Defends Russian Contacts",
       "url": "https://www.rferl.org/a/rubio-atlanta-ukraine-russia-putin-lavrov-20/33888075.html",
       "source": "Radio Free Europe/ Radio Liberty",
       "publishedAt": "2026-10-31T23:02:01Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran-US war to erupt again? Iranian Supreme Leader Warns US, Israel but Tehran offers Strait of Hormuz deal",
-      "url": "https://economictimes.indiatimes.com/news/international/us/iran-us-war-to-erupt-again-iranian-supreme-leader-warns-us-israel-but-tehran-offers-strait-of-hormuz-deal/articleshow/135414002.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-31T22:37:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Call for 'guard rails' to protect crypto currency in Britain after the record $6.3billion hack",
@@ -135,32 +207,8 @@
       "url": "https://nypost.com/2026/10/31/world-news/israel-plotting-pagers-style-operation-to-wipe-out-military-junta-ruling-iran-sources/",
       "source": "New York Post",
       "publishedAt": "2026-10-31T20:44:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "With ‘Largest Coordinated Port Action Ever,’ Dockworkers in 22 Countries Strike Against Gaza Genocide",
-      "url": "https://www.globalresearch.ca/dockworkers-22-countries-strike-against-gaza-genocide/5944875",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-10-31T19:28:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran hardliner demands atomic bomb as Khamenei threatens ‘unrestricted’ retaliation against US",
-      "url": "https://nypost.com/2026/10/31/world-news/iranian-lawmaker-renews-call-to-build-atomic-bomb/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-31T19:26:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump's midterm deadline has the Middle East bracing for another round of war",
-      "url": "https://www.cnn.com/2026/10/31/middleeast/gulf-braces-us-midterms-intl",
-      "source": "CNN",
-      "publishedAt": "2026-10-31T17:49:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Putin, Ukraine and Elon Musk’s Starlink and Starshield",
@@ -169,14 +217,6 @@
       "publishedAt": "2026-10-31T17:41:43Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Iran warns US, Israel against new attacks after Trump, Netanyahu threats",
-      "url": "https://punchng.com/iran-warns-us-israel-against-new-attacks-after-trump-netanyahu-threats/",
-      "source": "The Punch",
-      "publishedAt": "2026-10-31T17:40:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Israel Prepares For Iran-Lebanon Strikes As Saudi Airspace Closes Under Missile Threats",
@@ -219,28 +259,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "G20 foreign ministers to end Atlanta meeting without consensus on key issues",
-      "url": "https://www.thehindubusinessline.com/news/world/g20-foreign-ministers-to-end-atlanta-meeting-without-consensus-on-key-issues/article71648278.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-10-31T06:58:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korean hackers linked to crypto thefts among world's best, experts say",
       "url": "https://economictimes.indiatimes.com/tech/technology/north-korean-hackers-linked-to-crypto-thefts-among-worlds-best-experts-say/articleshow/135391045.cms",
       "source": "The Times of India",
       "publishedAt": "2026-10-31T06:18:03Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "G20 foreign ministers to end Atlanta meeting without consensus on key issues",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/g20-foreign-ministers-to-end-atlanta-meeting-without-consensus-on-key-issues/articleshow/135388197.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-31T04:39:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "US, South Korea, Japan vow 'complete' North Korea denuclearisation",

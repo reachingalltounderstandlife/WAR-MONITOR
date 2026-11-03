@@ -1,14 +1,190 @@
 {
-  "updated": "2026-11-03T00:31:54Z",
-  "count": 27,
+  "updated": "2026-11-03T13:39:15Z",
+  "count": 32,
   "articles": [
     {
-      "title": "Iran warns of 'longer' war after Trump threatens strikes",
-      "url": "https://www.rte.ie/news/2026/1102/1597573-iran-strikes/",
-      "source": "RTE",
-      "publishedAt": "2026-11-02T00:13:44Z",
+      "title": "Is Europe In Iran's Crosshairs? Tehran Hints At Wider Military Reach",
+      "url": "https://www.rferl.org/a/iran-europe-target-missile-range/33888908.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-11-02T13:20:21Z",
       "_cat": "iran",
       "_label": "Iran War"
+    },
+    {
+      "title": "Iran official says 'the ball is now in the U.S.' court' regarding peace talks",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-good-call-netanyahu/?id=137762456",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-11-02T12:15:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iliana Yotova wins the presidential election in Bulgaria, portraying herself as the 'president of peace'",
+      "url": "https://www.dw.com/en/iliana-yotova-wins-the-presidential-election-in-bulgaria-portraying-herself-as-the-president-of-peace/a-79829019",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-02T12:15:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How Iliana Yotova won the presidential election in Bulgaria",
+      "url": "https://www.dw.com/en/how-iliana-yotova-won-the-presidential-election-in-bulgaria/a-79829019",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-02T12:15:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 11/2/2026",
+      "url": "https://www.nakedcapitalism.com/2026/11/links-11-2-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-02T11:55:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US greatest threat to nuclear non-proliferation regime: Iran blasts Washington over strike threats",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-greatest-threat-to-nuclear-non-proliferation-regime-iran-blasts-washington-over-strike-threats/articleshow/135461024.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-02T11:55:15Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Tucker Carlson claims Trump may be days away from using a nuke on Iran to destroy its Pickaxe mountain lair in move that would mean 'WW3 is inevitable'",
+      "url": "https://www.dailymail.com/news/article-16258265/Tucker-Carlson-warns-Trump-days-away-using-nuke-Iran-destroy-Pickaxe-mountain-lair-mean-WW3-inevitable.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-02T11:33:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How Will Trump Hide An Election Blowout?",
+      "url": "https://crooksandliars.com/2026/10/how-will-trump-hide-election-blowout",
+      "source": "Crooksandliars.com",
+      "publishedAt": "2026-11-02T11:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea’s Hackers Supercharge Crypto Heists With AI Skills",
+      "url": "https://www.insurancejournal.com/news/international/2026/11/02/891092.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-11-02T11:08:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Poland’s Rule of Law Crisis Echoes Increasingly Undemocratic EU: Is Standoff in Preparation for Something Bigger?",
+      "url": "https://www.nakedcapitalism.com/2026/11/polands-rule-of-law-crisis-echoes-increasingly-undemocratic-eu.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-02T11:00:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Junk Bond Market Starts to Crack, in Further Sign AI End Game is Nearing",
+      "url": "https://www.nakedcapitalism.com/2026/11/junk-bond-market-starts-to-crack-in-further-sign-ai-end-game-is-nearing.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-02T10:55:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. strikes Iranian targets in the Strait of Hormuz on eve of midterms",
+      "url": "https://www.yahoo.com/news/us/articles/where-things-stand-iran-tense-085523514.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-02T08:55:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil eases 3% on optimism for talks on ending Iran war",
+      "url": "https://www.rte.ie/news/business/2026/1102/1597595-world-oil-prices/",
+      "source": "RTE",
+      "publishedAt": "2026-11-02T08:47:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Emergency alert apps hacked in Russia and Ukraine as truce ends",
+      "url": "https://www.thejournal.ie/russia-ukraine-alert-apps-hacked-truce-7212269-Nov2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-11-02T07:14:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Cyberattacks hit Russia, Ukraine emergency warning apps",
+      "url": "https://www.rte.ie/news/ukraine/2026/1102/1597579-ukraine-russia/",
+      "source": "RTE",
+      "publishedAt": "2026-11-02T06:46:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian Officials, UK and European Leaders Trade Statements on War in Europe",
+      "url": "https://www.naturalnews.com/2026-11-02-russian-officials-uk-european-leaders-europe-war.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-11-02T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Netanyahu’s blind authoritarianism is destroying Israel from within and the Democrats party is calling out his poor leadership",
+      "url": "https://www.naturalnews.com/2026-11-02-netanyahus-blind-authoritarianism-is-destroying-israel-from-within.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-11-02T06:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Gulf states fear fierce Iran retaliation if US strikes",
+      "url": "https://www.thehindubusinessline.com/news/world/gulf-states-fear-fierce-iran-retaliation-if-us-strikes/article71655382.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-11-02T05:33:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Worldview: Ireland and Switzerland are having the same debate about neutrality",
+      "url": "https://www.irishtimes.com/opinion/2026/10/31/worldview-ireland-and-switzerland-are-having-the-same-debate-about-neutrality/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-02T05:20:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Salvini and the pro-Russia camp: why so many in Italy are rooting for Putin",
+      "url": "https://www.repubblica.it/en/europe/news/2026/11/02/news/salvini_italy_pro_putin_politicians_kremlin_political_spectrum-425687949/",
+      "source": "La Repubblica",
+      "publishedAt": "2026-11-02T05:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "\"We take you down with us!\" - Putin threatens mutually assured destruction",
+      "url": "https://freerepublic.com/focus/f-news/4401440/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-11-02T01:17:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "\"We take you down with us!\" - Putin threatens mutually assured destruction",
+      "url": "https://freerepublic.com/focus/f-bloggers/4401440/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-11-02T01:17:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Bulgaria's incumbent president Iotova wins runoff vote",
+      "url": "https://www.rte.ie/news/2026/1102/1597575-bulgaria-runoff/",
+      "source": "RTE",
+      "publishedAt": "2026-11-02T01:01:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
     },
     {
       "title": "Trump Is Dealing With a Different North Korea",
@@ -17,110 +193,6 @@
       "publishedAt": "2026-11-02T00:00:15Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Iranian scientists in the United States face major upheaval",
-      "url": "https://www.nature.com/articles/d41586-026-03346-y",
-      "source": "Nature.com",
-      "publishedAt": "2026-11-02T00:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine's air raid app 'is hacked': Kyiv and Lviv residents 'get fake alerts about radiation threats'",
-      "url": "https://www.dailymail.com/news/article-16257343/Ukraine-air-raid-app-hacked-fake-alerts-radiation-threats.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-01T23:08:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Renewed war with US could be longer — Iran",
-      "url": "https://punchng.com/renewed-war-with-us-could-be-longer-iran/",
-      "source": "The Punch",
-      "publishedAt": "2026-11-01T21:39:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Bulgaria election exit polls suggest Iliana Yotova will become country's first elected female president - after she was endorsed by Moscow-friendly party",
-      "url": "https://www.dailymail.com/news/article-16257073/Bulgaria-election-exit-polls-suggest-Iliana-Yotova-countrys-elected-female-president-endorsed-Moscow-friendly-party.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-01T20:51:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Bulgarian president wins election, exit polls show",
-      "url": "https://www.thejournal.ie/bulgarian-elections-2026-7212138-Nov2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-11-01T19:29:22Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israeli President Isaac Herzog calls for calm ahead of election mediations",
-      "url": "https://www.abc.net.au/news/2026-11-02/israel-president-isaac-herzog-calls-for-calm-in-election/107334602",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-11-01T19:16:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Searches for a Fall Guy to Blame for Iran",
-      "url": "https://www.theatlantic.com/national-security/2026/11/trump-advisers-iran-war/689247/?utm_source=feed",
-      "source": "The Atlantic",
-      "publishedAt": "2026-11-01T19:16:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "As Governments Around The World Urge Their Citizens To Prepare, Here Are 3 Key Things To Watch This Week",
-      "url": "http://theeconomiccollapseblog.com/as-governments-around-the-world-urge-their-citizens-to-prepare-here-are-3-key-things-to-watch-this-week/",
-      "source": "Theeconomiccollapseblog.com",
-      "publishedAt": "2026-11-01T18:36:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US midterms: Republican victory could hurt India on H-1B visas, tariffs",
-      "url": "https://www.thehindubusinessline.com/news/us-midterms-republican-victory-could-hurt-india-on-h-1b-visas-tariffs/article71654162.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-11-01T18:21:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "After Coalition Withdrawal, Iraqi Kurds Want More Protection",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/after-coalition-withdrawal-iraqi-kurds-want-more-protection/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-11-01T17:27:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'Prepared to defend ourselves' if US attacks, says representative of Iran's Supreme Leader in India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/prepared-to-defend-ourselves-if-us-attacks-says-representative-of-irans-supreme-leader-in-india/articleshow/135431172.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-01T15:34:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The EU Met Its Waterloo In Warsaw",
-      "url": "https://freerepublic.com/focus/f-chat/4401359/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-11-01T12:27:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US-China Competition In Arctic Intensifies",
-      "url": "https://www.rferl.org/a/us-china-competition-in-arctic-intensifies/33888021.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-11-01T08:27:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
@@ -147,30 +219,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "As Trump ‘Makes Nice’ with Moscow, the CIA Has Other Ideas",
-      "url": "https://www.theamericanconservative.com/as-trump-makes-nice-with-moscow-the-cia-has-other-ideas/",
-      "source": "The American Conservative",
-      "publishedAt": "2026-11-01T04:03:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US, Canada see growing interest in limited ceasefire in Black Sea",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-canada-see-growing-interest-in-limited-ceasefire-in-black-sea/articleshow/135415528.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-01T02:08:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "G20 foreign ministers end Atlanta meeting without consensus on key issue",
-      "url": "https://www.business-standard.com/world-news/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-key-issue-126110100019_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-01T02:05:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "FBI says North Korea behind $6bn crypto theft",
       "url": "https://www.rte.ie/news/2026/1101/1597504-binance-theft/",
       "source": "RTE",
@@ -193,14 +241,6 @@
       "publishedAt": "2026-11-01T01:21:37Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "G20 foreign ministers end Atlanta meeting without consensus on key issue, group photo cancelled",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-key-issue-group-photo-cancelled/articleshow/135414976.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-01T00:57:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "FBI says North Korea behind $6 billion crypto theft from Binance",

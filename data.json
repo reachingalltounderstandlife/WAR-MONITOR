@@ -1,36 +1,108 @@
 {
-  "updated": "2026-11-02T14:48:01Z",
-  "count": 34,
+  "updated": "2026-11-03T00:31:54Z",
+  "count": 27,
   "articles": [
     {
-      "title": "Melania Trump-Negotiated Ceasefire in Kherson Set to Expire",
-      "url": "https://www.breitbart.com/europe/2026/11/01/melania-trump-negotiated-ceasefire-in-kherson-set-to-expire/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-11-01T14:03:36Z",
+      "title": "Iran warns of 'longer' war after Trump threatens strikes",
+      "url": "https://www.rte.ie/news/2026/1102/1597573-iran-strikes/",
+      "source": "RTE",
+      "publishedAt": "2026-11-02T00:13:44Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "Iran warns new war could last longer after Trump threatens strikes",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-new-war-could-last-longer-after-trump-threatens-strikes/articleshow/135428091.cms",
+      "title": "Trump Is Dealing With a Different North Korea",
+      "url": "https://original.antiwar.com/kyle_anzalone/2026/11/01/trump-is-dealing-with-a-different-north-korea/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-11-02T00:00:15Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iranian scientists in the United States face major upheaval",
+      "url": "https://www.nature.com/articles/d41586-026-03346-y",
+      "source": "Nature.com",
+      "publishedAt": "2026-11-02T00:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine's air raid app 'is hacked': Kyiv and Lviv residents 'get fake alerts about radiation threats'",
+      "url": "https://www.dailymail.com/news/article-16257343/Ukraine-air-raid-app-hacked-fake-alerts-radiation-threats.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-01T23:08:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Renewed war with US could be longer — Iran",
+      "url": "https://punchng.com/renewed-war-with-us-could-be-longer-iran/",
+      "source": "The Punch",
+      "publishedAt": "2026-11-01T21:39:20Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Bulgaria election exit polls suggest Iliana Yotova will become country's first elected female president - after she was endorsed by Moscow-friendly party",
+      "url": "https://www.dailymail.com/news/article-16257073/Bulgaria-election-exit-polls-suggest-Iliana-Yotova-countrys-elected-female-president-endorsed-Moscow-friendly-party.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-01T20:51:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Bulgarian president wins election, exit polls show",
+      "url": "https://www.thejournal.ie/bulgarian-elections-2026-7212138-Nov2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-11-01T19:29:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli President Isaac Herzog calls for calm ahead of election mediations",
+      "url": "https://www.abc.net.au/news/2026-11-02/israel-president-isaac-herzog-calls-for-calm-in-election/107334602",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-11-01T19:16:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Searches for a Fall Guy to Blame for Iran",
+      "url": "https://www.theatlantic.com/national-security/2026/11/trump-advisers-iran-war/689247/?utm_source=feed",
+      "source": "The Atlantic",
+      "publishedAt": "2026-11-01T19:16:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "As Governments Around The World Urge Their Citizens To Prepare, Here Are 3 Key Things To Watch This Week",
+      "url": "http://theeconomiccollapseblog.com/as-governments-around-the-world-urge-their-citizens-to-prepare-here-are-3-key-things-to-watch-this-week/",
+      "source": "Theeconomiccollapseblog.com",
+      "publishedAt": "2026-11-01T18:36:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US midterms: Republican victory could hurt India on H-1B visas, tariffs",
+      "url": "https://www.thehindubusinessline.com/news/us-midterms-republican-victory-could-hurt-india-on-h-1b-visas-tariffs/article71654162.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-11-01T18:21:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "After Coalition Withdrawal, Iraqi Kurds Want More Protection",
+      "url": "https://www.fairobserver.com/region/middle_east_north_africa/after-coalition-withdrawal-iraqi-kurds-want-more-protection/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-11-01T17:27:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Prepared to defend ourselves' if US attacks, says representative of Iran's Supreme Leader in India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/prepared-to-defend-ourselves-if-us-attacks-says-representative-of-irans-supreme-leader-in-india/articleshow/135431172.cms",
       "source": "The Times of India",
-      "publishedAt": "2026-11-01T13:11:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran and US explore diplomacy amid rising threats of war",
-      "url": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-01T13:02:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Sunday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/11/01/sunday-hili-dialogue-610/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-11-01T12:45:40Z",
+      "publishedAt": "2026-11-01T15:34:05Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -41,30 +113,6 @@
       "publishedAt": "2026-11-01T12:27:14Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "How Trump can smash Iran after the mid-terms - from missile strikes to bombing nuclear facilities as the US gathers 20,000 sailors and marines in the region",
-      "url": "https://www.dailymail.com/news/article-16241753/donald-trump-iran-war-resume-midterms.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-01T12:17:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 11/1/2026",
-      "url": "https://www.nakedcapitalism.com/?p=318898",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-01T11:55:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Mediators continue US-Iran negotiations amid war rhetoric: What we know",
-      "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-01T11:14:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "US-China Competition In Arctic Intensifies",
@@ -81,22 +129,6 @@
       "publishedAt": "2026-11-01T07:55:17Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump ‘checks in’ with Netanyahu amid fears of renewed hostilities – WSJ",
-      "url": "https://rt-english.com/news/648191-trump-checks-in-with-netanyahu/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-01T07:48:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says US still has 'one or two' targets remaining in Iran",
-      "url": "https://www.thejournal.ie/trump-iran-targets-7211416-Nov2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-11-01T07:25:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Trump at odds with his own FBI as president disputes agency's confirmation that North Korea was behind 'biggest hack in history'... while president risks being made to look like a fool by 'Little Rocket Man'",
@@ -185,94 +217,6 @@
       "publishedAt": "2026-11-01T00:11:24Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Rubio Casts Doubts On Quick Deal To End War In Ukraine, Defends Russian Contacts",
-      "url": "https://www.rferl.org/a/rubio-atlanta-ukraine-russia-putin-lavrov-20/33888075.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-10-31T23:02:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Call for 'guard rails' to protect crypto currency in Britain after the record $6.3billion hack",
-      "url": "https://www.dailymail.com/news/article-16255419/Call-guard-rails-protect-crypto-currency-Britain-record-6-3billion-hack.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-31T22:08:42Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "If Iran war erupts, Israel may be plotting another ‘Operation Grim Beeper’ style attack: sources",
-      "url": "https://nypost.com/2026/10/31/world-news/israel-plotting-pagers-style-operation-to-wipe-out-military-junta-ruling-iran-sources/",
-      "source": "New York Post",
-      "publishedAt": "2026-10-31T20:44:33Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Putin, Ukraine and Elon Musk’s Starlink and Starshield",
-      "url": "https://www.globalresearch.ca/putin-ukraine-elon-musk-starlink-starshield/5944840",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-10-31T17:41:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel Prepares For Iran-Lebanon Strikes As Saudi Airspace Closes Under Missile Threats",
-      "url": "https://activistpost.com/israel-prepares-for-iran-lebanon-strikes-as-saudi-airspace-closes-under-missile-threats/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-10-31T13:05:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Links 10/31/2026",
-      "url": "https://www.nakedcapitalism.com/2026/10/links-10-31-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-10-31T10:55:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia is developing doomsday space nuke capable of destroying thousands of satellites at once, with devastating global effect",
-      "url": "https://www.dailymail.com/news/article-16251669/russia-nuclear-weapons-space-putin-pentagon-report.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-10-31T10:07:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Are Houthis using Russian satellites as Saudi Arabia fends off strikes?",
-      "url": "https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-31T08:08:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea",
-      "url": "https://www.aljazeera.com/news/2026/10/31/us-south-korea-japan-call-for-complete-denuclearisation-of-north-korea",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-10-31T07:20:45Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korean hackers linked to crypto thefts among world's best, experts say",
-      "url": "https://economictimes.indiatimes.com/tech/technology/north-korean-hackers-linked-to-crypto-thefts-among-worlds-best-experts-say/articleshow/135391045.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-10-31T06:18:03Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "US, South Korea, Japan vow 'complete' North Korea denuclearisation",
-      "url": "https://www.channelnewsasia.com/east-asia/us-south-korea-japan-vow-complete-north-korea-denuclearisation-6509071",
-      "source": "CNA",
-      "publishedAt": "2026-10-31T03:34:29Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

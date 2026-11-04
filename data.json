@@ -1,30 +1,174 @@
 {
-  "updated": "2026-11-04T04:54:26Z",
-  "count": 31,
+  "updated": "2026-11-04T13:47:47Z",
+  "count": 32,
   "articles": [
     {
-      "title": "A new Islamic defense axis? Why India is watching the Badr accord closely",
-      "url": "https://rt-english.com/india/648239-turkiye-qatar-pakistan-indonesia-pact-badr/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-03T04:27:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US conducts defensive strikes on Iranian targets in Strait of Hormuz, official says",
-      "url": "https://www.wcvb.com/article/us-defensive-strikes-iran-strait-of-hormuz/74317498",
-      "source": "WCVB Boston",
-      "publishedAt": "2026-11-03T04:10:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "As Trump ‘Makes Nice’ With Moscow, the CIA Has Other Ideas",
-      "url": "https://www.lewrockwell.com/2026/11/no_author/as-trump-makes-nice-with-moscow-the-cia-has-other-ideas/",
-      "source": "Lewrockwell.com",
-      "publishedAt": "2026-11-03T04:01:00Z",
+      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.com/news/articles/cjy56dndlyz0o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T13:26:23Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
+      "url": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
+      "source": "CNBC",
+      "publishedAt": "2026-11-03T13:22:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran commander sets out five conditions for regional security",
+      "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-03T13:21:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran releases footage of vast tunnel network lined with missile launchers amid growing fears Trump will launch major bombing campaign",
+      "url": "https://www.dailymail.com/news/article-16261937/Iran-releases-footage-vast-tunnel-network-lined-missile-launchers-amid-growing-fears-Trump-launch-major-bombing-campaign.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-03T13:08:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "War Widens in the Black Sea in a Test of NATO Red Lines",
+      "url": "https://gcaptain.com/war-widens-in-the-black-sea-in-a-test-of-nato-red-lines/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-11-03T12:35:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Death toll hits 31 after Russian strike on Ukrainian aid site, with dozens still missing",
+      "url": "https://www.wapt.com/article/russian-strike-ukrainian-aid-dozens-missing/74321047",
+      "source": "WAPT Jackson",
+      "publishedAt": "2026-11-03T12:28:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
+      "url": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-03T12:10:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump is 'considering nuclear strike on Iran', former CIA agent claims",
+      "url": "https://www.dailymail.com/news/article-16261459/donald-trump-nuclear-weapon-strike-iran-claim.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-03T11:50:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s Election Day Message on Iran: ‘I’m Not Looking to Kill Lots of People, but If We Have To, We’ll Have To’",
+      "url": "https://www.jezebel.com/iran-war-trump-plans-post-midterm-kill-lots-of-people-quote-pickaxe-mountain-nuclear-strike-enriched-uranium",
+      "source": "Jezebel",
+      "publishedAt": "2026-11-03T11:39:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "10 Other Times That Oil Ruled the World",
+      "url": "http://www.denofgeek.com/msn/10-other-times-that-oil-ruled-the-world/",
+      "source": "Den of Geek US",
+      "publishedAt": "2026-11-03T11:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
+      "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-03T10:40:34Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran unveils billboard with threat against Trump’s life",
+      "url": "https://punchng.com/iran-unveils-billboard-with-threat-against-trumps-life/",
+      "source": "The Punch",
+      "publishedAt": "2026-11-03T10:35:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "At least 73 injured as Russia bombs Ukrainian hospital and power plants",
+      "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-03T10:18:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US, Iran Study Proposals amid Limited Strikes",
+      "url": "https://www.rigzone.com/news/wire/us_iran_study_proposals_amid_limited_strikes-03-nov-2026-184996-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-11-03T10:12:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "British troops will be allowed to fire on Russian forces if they come under attack while peacekeeping in Ukraine, Western officials reveal",
+      "url": "https://www.dailymail.com/news/article-16261483/British-troops-fire-Russian-peacekeeping-Ukraine-Western-officials.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-03T10:07:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Italy: right, far right and even further right",
+      "url": "https://mondediplo.com/2026/11/04italy",
+      "source": "Mondediplo.com",
+      "publishedAt": "2026-11-03T09:49:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Boiling Point: The Road to War and Ukraine’s Uncertain Future",
+      "url": "https://www.nakedcapitalism.com/2026/11/boiling-point-the-road-to-war-and-ukraines-uncertain-future.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-03T09:42:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin pushes the myth of Russian invincibility, seemingly to set his terms for peace",
+      "url": "https://www.cbc.ca/news/world/putin-ukraine-russia-military-peace-talks-9.7405910",
+      "source": "CBC News",
+      "publishedAt": "2026-11-03T09:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How North Korea became a world leader in state-sponsored hacking",
+      "url": "https://theconversation.com/how-north-korea-became-a-world-leader-in-state-sponsored-hacking-295597",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-11-03T08:52:18Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Russia-Ukraine war widens in the Black Sea in a test of NATO red lines",
+      "url": "https://www.channelnewsasia.com/world/russia-ukraine-war-black-sea-nato-6516256",
+      "source": "CNA",
+      "publishedAt": "2026-11-03T08:35:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea rejects U.S. allegation over $6 billion Binance crypto heist",
+      "url": "https://www.yahoo.com/news/world/articles/north-korea-says-claims-linking-221106741.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-03T08:24:18Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Israel warns Lebanon: Fighting will resume if Hezbollah joins renewed Iran conflict",
@@ -35,44 +179,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Reflecting Pool vs. the state of the economy: Trump and Democrats clash in closing messages",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/reflecting-pool-vs-the-state-of-the-economy-trump-and-democrats-clash-in-closing-messages/articleshow/135480754.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-03T03:47:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea blasts FBI for Binance hack allegations",
       "url": "https://www.rte.ie/news/world/2026/1103/1597715-korea-binance-world/",
       "source": "RTE",
       "publishedAt": "2026-11-03T03:43:18Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "US strikes Iran ahead of midterm elections",
-      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T03:39:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia bombs aid center and shelter in southern Ukraine, killing 26",
-      "url": "https://economictimes.indiatimes.com/news/defence/russia-bombs-aid-center-and-shelter-in-southern-ukraine-killing-26/articleshow/135479098.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-03T03:12:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Netanyahu presses Trump for fresh Iran strikes after US midterm elections",
-      "url": "https://www.business-standard.com/world-news/netanyahu-presses-trump-for-fresh-iran-strikes-after-us-midterm-elections-126110300023_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-03T02:52:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "North Korea denies role in Binance crypto heist, criticizes FBI probe",
@@ -83,36 +195,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "US launches ‘defensive’ strikes after Iran downs American drone (VIDEO)",
-      "url": "https://rt-english.com/news/648262-us-iran-queshm-strikes/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-03T02:21:12Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US had good conversations with Iran on finding deal to end conflict: Vance",
-      "url": "https://www.business-standard.com/world-news/us-had-good-conversations-with-iran-on-finding-deal-to-end-conflict-vance-126110300076_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-03T02:11:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "'A trite provocation': North Korea denies involvement in $6 billion Binance hack, criticizes FBI probe",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/a-trite-provocation-north-korea-denies-involvement-in-6-billion-binance-hack-criticizes-fbi-probe/articleshow/135478331.cms",
       "source": "The Times of India",
       "publishedAt": "2026-11-03T01:28:12Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump envoy announces new US-Russia-Ukraine talks",
-      "url": "https://rt-english.com/news/648261-witkoff-russia-ukraine-talks/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-03T00:58:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea denies involvement in Binance hack, criticizes FBI probe",
@@ -131,92 +219,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Hundreds of British troops deploy to Poland in first test of UK-led task force designed to rebuild Ukrainian army amid warning Russia may seek to 'oppose' effort",
-      "url": "https://www.dailymail.com/news/article-16259295/british-soldiers-ukraine-deploy-poland-peace-russia.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-03T00:01:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy on his 'emotional' relationship with Trump and fighting Russia",
-      "url": "https://www.pbs.org/newshour/show/zelenskyy-on-his-emotional-relationship-with-trump-and-fighting-russia",
-      "source": "PBS",
-      "publishedAt": "2026-11-02T23:45:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia plotting 'massive strike' during midterms, Zelenskyy warns, urges US to stop Putin",
-      "url": "https://www.foxnews.com/world/russia-planning-massive-strike-midterms-zelenskyy-warns-urges-us-stop-putin",
-      "source": "Fox News",
-      "publishedAt": "2026-11-02T22:35:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump’s Closing Midterm Message",
-      "url": "http://foreignpolicy.com/2026/11/02/us-midterm-elections-trump-speech-reflecting-pool-democrats-republicans/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-11-02T22:03:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Lockheed Ramps Up Missile Production As Iran War Drains US Arsenal",
-      "url": "https://dailycaller.com/2026/11/02/lockheed-missile-production-expansion-iran-war",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-11-02T21:18:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Who Is Iliana Iotova? The former journalist who became Bulgaria’s first female President and is consolidating the country’s shift toward Russia",
-      "url": "https://en.protothema.gr/2026/11/02/who-is-iliana-iotova-the-former-journalist-who-became-bulgarias-first-female-president-and-is-consolidating-the-countrys-shift-toward-russia/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-11-02T20:45:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "UN peacekeepers’ exit risks ‘security vacuum’ in Lebanon – RT report",
       "url": "https://rt-english.com/news/648246-un-peacekeepers-lebanon-withdrawal-security/",
       "source": "Rt-english.com",
       "publishedAt": "2026-11-02T20:22:01Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Iran pushing accelerated plan for ceasefire talks with US",
-      "url": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-02T18:49:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Bulgaria elects first female head of state — as acting president Iliana Yotova wins race",
-      "url": "https://nypost.com/2026/11/02/world-news/bulgaria-elects-first-female-head-of-state-as-acting-president-iliana-yotova-wins-race/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-02T18:21:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Drain Pipe: The Free World Is A Tinderbox. The Left Is Eager To Light It",
-      "url": "https://dailycaller.com/2026/11/02/the-drain-pipe-free-world-tinderbox-elissa-slotkin-election",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-11-02T17:33:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "NATO fears Trump could turn on Europe if Republicans suffer heavy midterm defeat",
-      "url": "https://freerepublic.com/focus/f-bloggers/4401513/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-11-02T16:42:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "US greatest threat to nuclear non-proliferation regime: Iran blasts Washington over strike threats",

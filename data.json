@@ -1,7 +1,151 @@
 {
-  "updated": "2026-11-03T22:54:54Z",
-  "count": 33,
+  "updated": "2026-11-04T04:54:26Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "A new Islamic defense axis? Why India is watching the Badr accord closely",
+      "url": "https://rt-english.com/india/648239-turkiye-qatar-pakistan-indonesia-pact-badr/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-03T04:27:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US conducts defensive strikes on Iranian targets in Strait of Hormuz, official says",
+      "url": "https://www.wcvb.com/article/us-defensive-strikes-iran-strait-of-hormuz/74317498",
+      "source": "WCVB Boston",
+      "publishedAt": "2026-11-03T04:10:55Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "As Trump ‘Makes Nice’ With Moscow, the CIA Has Other Ideas",
+      "url": "https://www.lewrockwell.com/2026/11/no_author/as-trump-makes-nice-with-moscow-the-cia-has-other-ideas/",
+      "source": "Lewrockwell.com",
+      "publishedAt": "2026-11-03T04:01:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel warns Lebanon: Fighting will resume if Hezbollah joins renewed Iran conflict",
+      "url": "https://www.israelnationalnews.com/news/435564",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-03T03:57:01Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Reflecting Pool vs. the state of the economy: Trump and Democrats clash in closing messages",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/reflecting-pool-vs-the-state-of-the-economy-trump-and-democrats-clash-in-closing-messages/articleshow/135480754.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-03T03:47:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea blasts FBI for Binance hack allegations",
+      "url": "https://www.rte.ie/news/world/2026/1103/1597715-korea-binance-world/",
+      "source": "RTE",
+      "publishedAt": "2026-11-03T03:43:18Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US strikes Iran ahead of midterm elections",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo",
+      "source": "BBC News",
+      "publishedAt": "2026-11-03T03:39:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia bombs aid center and shelter in southern Ukraine, killing 26",
+      "url": "https://economictimes.indiatimes.com/news/defence/russia-bombs-aid-center-and-shelter-in-southern-ukraine-killing-26/articleshow/135479098.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-03T03:12:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Netanyahu presses Trump for fresh Iran strikes after US midterm elections",
+      "url": "https://www.business-standard.com/world-news/netanyahu-presses-trump-for-fresh-iran-strikes-after-us-midterm-elections-126110300023_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-03T02:52:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea denies role in Binance crypto heist, criticizes FBI probe",
+      "url": "https://www.business-standard.com/world-news/north-korea-denies-role-in-binance-crypto-heist-criticizes-fbi-probe-126110300081_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-03T02:40:32Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US launches ‘defensive’ strikes after Iran downs American drone (VIDEO)",
+      "url": "https://rt-english.com/news/648262-us-iran-queshm-strikes/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-03T02:21:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US had good conversations with Iran on finding deal to end conflict: Vance",
+      "url": "https://www.business-standard.com/world-news/us-had-good-conversations-with-iran-on-finding-deal-to-end-conflict-vance-126110300076_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-03T02:11:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'A trite provocation': North Korea denies involvement in $6 billion Binance hack, criticizes FBI probe",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/a-trite-provocation-north-korea-denies-involvement-in-6-billion-binance-hack-criticizes-fbi-probe/articleshow/135478331.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-03T01:28:12Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump envoy announces new US-Russia-Ukraine talks",
+      "url": "https://rt-english.com/news/648261-witkoff-russia-ukraine-talks/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-03T00:58:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea denies involvement in Binance hack, criticizes FBI probe",
+      "url": "https://abcnews.com/International/wireStory/north-korea-denies-involvement-binance-hack-criticizes-fbi-137788208",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-11-03T00:56:43Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea Calls US Claim on Binance Hack 'Absurd Rhetoric'",
+      "url": "https://www.newser.com/story/399259/north-korea-calls-us-claim-on-binance-hack-absurd-rhetoric.html",
+      "source": "Newser",
+      "publishedAt": "2026-11-03T00:50:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Hundreds of British troops deploy to Poland in first test of UK-led task force designed to rebuild Ukrainian army amid warning Russia may seek to 'oppose' effort",
+      "url": "https://www.dailymail.com/news/article-16259295/british-soldiers-ukraine-deploy-poland-peace-russia.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-03T00:01:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelenskyy on his 'emotional' relationship with Trump and fighting Russia",
+      "url": "https://www.pbs.org/newshour/show/zelenskyy-on-his-emotional-relationship-with-trump-and-fighting-russia",
+      "source": "PBS",
+      "publishedAt": "2026-11-02T23:45:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Russia plotting 'massive strike' during midterms, Zelenskyy warns, urges US to stop Putin",
       "url": "https://www.foxnews.com/world/russia-planning-massive-strike-midterms-zelenskyy-warns-urges-us-stop-putin",
@@ -67,106 +211,10 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump May Be Days Away From Nuking Iran, Tucker Carlson Warns",
-      "url": "https://dailycaller.com/2026/11/02/trump-may-be-days-away-from-nuking-iran-carlson-warns",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-11-02T17:21:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran talks end without deal",
-      "url": "https://rt-english.com/news/648234-us-iran-renewed-war-concerns/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-02T17:07:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "NATO fears Trump could turn on Europe if Republicans suffer heavy midterm defeat",
       "url": "https://freerepublic.com/focus/f-bloggers/4401513/posts",
       "source": "Freerepublic.com",
       "publishedAt": "2026-11-02T16:42:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "How the US midterms factor into Donald Trump's plans for the Iran war",
-      "url": "https://www.dw.com/en/how-the-us-midterms-factor-into-donald-trumps-plans-for-the-iran-war/a-79831816",
-      "source": "DW (English)",
-      "publishedAt": "2026-11-02T15:41:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What might Trump have planned for Iran following the midterm election?",
-      "url": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816",
-      "source": "DW (English)",
-      "publishedAt": "2026-11-02T15:41:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump, US midterms, Tehran: 8 key factors driving Iran war",
-      "url": "https://www.dw.com/en/trump-us-midterms-tehran-8-key-factors-driving-iran-war/a-79831816",
-      "source": "DW (English)",
-      "publishedAt": "2026-11-02T15:25:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The West Wants Netanyahu Gone – So Palestinians Can Be Killed More Quietly Again",
-      "url": "https://www.globalresearch.ca/west-wants-netanyahu-gone-palestinians-killed-more-quietly-again/5944960",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-11-02T15:14:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "NATO fears Trump could turn on Europe if Republicans suffer heavy midterm defeat",
-      "url": "https://en.protothema.gr/2026/11/02/nato-fears-trump-could-turn-on-europe-if-republicans-suffer-heavy-midterm-defeat/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-11-02T14:32:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Oil Prices Plunge as Draft Proposal to End U.S.-Iran War is Circulated",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-as-Draft-Proposal-to-End-US-Iran-War-is-Circulated.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-11-02T14:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "EU state’s civilian factories start manufacturing arms in Cold War revival – media",
-      "url": "https://rt-english.com/news/648243-csg-cold-war-explosives-plants/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-02T14:07:33Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "EU budget rules push Belgian government to brink of collapse",
-      "url": "https://rt-english.com/news/648240-belgium-pm-submits-resignation/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-02T14:00:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Things Have Changed",
-      "url": "https://activistpost.com/things-have-changed/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-11-02T14:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iliana Yotova wins the presidential election in Bulgaria, portraying herself as the 'president of peace'",
-      "url": "https://www.dw.com/en/iliana-yotova-wins-the-presidential-election-in-bulgaria-portraying-herself-as-the-president-of-peace/a-79829019",
-      "source": "DW (English)",
-      "publishedAt": "2026-11-02T12:15:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -201,70 +249,6 @@
       "publishedAt": "2026-11-02T00:00:15Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-      "url": "https://www.irishtimes.com/world/2026/11/01/binance-says-90-of-losses-from-63bn-hack-covered-as-fbi-says-north-korea-behind-attack/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-01T07:55:17Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump at odds with his own FBI as president disputes agency's confirmation that North Korea was behind 'biggest hack in history'... while president risks being made to look like a fool by 'Little Rocket Man'",
-      "url": "https://www.dailymail.com/news/article-16255969/donald-trump-fbi-north-korea-binance-hack.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-01T06:04:31Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Israel ready for renewed Iran conflict: Report",
-      "url": "https://www.hurriyetdailynews.com/israel-ready-for-renewed-iran-conflict-report-228846",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-11-01T05:19:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "FBI says North Korea behind $6bn crypto theft",
-      "url": "https://www.rte.ie/news/2026/1101/1597504-binance-theft/",
-      "source": "RTE",
-      "publishedAt": "2026-11-01T01:58:13Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "FBI says North Korea behind $6bn crypto theft",
-      "url": "https://www.rte.ie/news/2026/1101/1597504-fbi-crypyo/",
-      "source": "RTE",
-      "publishedAt": "2026-11-01T01:58:13Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump discusses Iran with Netanyahu as US weighs fresh strikes: Report",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-discusses-iran-with-netanyahu-as-us-weighs-fresh-strikes-report/articleshow/135415222.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-01T01:21:37Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "FBI says North Korea behind $6 billion crypto theft from Binance",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/fbi-says-north-korea-behind-6-billion-crypto-theft-from-binance/articleshow/135414898.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-01T00:45:10Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Washington cannot ignore Afghanistan’s weapons legacy",
-      "url": "https://www.wnd.com/2026/10/washington-cannot-ignore-afghanistans-weapons-legacy/",
-      "source": "Wnd.com",
-      "publishedAt": "2026-11-01T00:11:24Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

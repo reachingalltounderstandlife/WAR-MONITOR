@@ -1,150 +1,150 @@
 {
-  "updated": "2026-11-04T13:47:47Z",
-  "count": 32,
+  "updated": "2026-11-04T23:13:11Z",
+  "count": 30,
   "articles": [
     {
-      "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
-      "url": "https://www.bbc.com/news/articles/cjy56dndlyz0o",
-      "source": "BBC News",
-      "publishedAt": "2026-11-03T13:26:23Z",
+      "title": "Israel privately warns Iran is considering use of chemical weapons: report",
+      "url": "https://nypost.com/2026/11/03/world-news/israel-privately-warns-iran-is-considering-use-of-chemical-weapons-report/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-03T22:19:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks",
+      "url": "https://www.rferl.org/a/ukraine-russia-oleshky-melania-trump-talks/33889941.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-11-03T21:18:10Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-      "url": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
-      "source": "CNBC",
-      "publishedAt": "2026-11-03T13:22:25Z",
+      "title": "Why Trump only has a few weeks to restart Iran war — and what he could target with new strikes",
+      "url": "https://nypost.com/2026/11/03/world-news/why-trump-has-just-a-few-weeks-to-restart-iran-war-and-what-he-could-target-with-new-strikes/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-03T20:42:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "In The Aftermath Of The Midterm Elections, How Soon Will The U.S. And Israel Start Bombing Iran?",
+      "url": "http://theeconomiccollapseblog.com/in-the-aftermath-of-the-midterm-elections-how-soon-will-the-u-s-and-israel-start-bombing-iran/",
+      "source": "Theeconomiccollapseblog.com",
+      "publishedAt": "2026-11-03T20:35:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Neo-Nazi torture chambers are on the frontier of ‘European values’ projected through Ukraine",
+      "url": "https://rt-english.com/news/648320-ukraine-nazi-torture-chambers/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-03T19:03:55Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Iran commander sets out five conditions for regional security",
-      "url": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-03T13:21:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran releases footage of vast tunnel network lined with missile launchers amid growing fears Trump will launch major bombing campaign",
-      "url": "https://www.dailymail.com/news/article-16261937/Iran-releases-footage-vast-tunnel-network-lined-missile-launchers-amid-growing-fears-Trump-launch-major-bombing-campaign.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-03T13:08:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "War Widens in the Black Sea in a Test of NATO Red Lines",
-      "url": "https://gcaptain.com/war-widens-in-the-black-sea-in-a-test-of-nato-red-lines/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-11-03T12:35:15Z",
+      "title": "Death toll in Russian attack on Ukraine reaches 33, with dozens still missing",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/03/death-toll-in-russian-attack-on-ukraine-reaches-33-with-dozens-still-missing/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-03T18:43:09Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Death toll hits 31 after Russian strike on Ukrainian aid site, with dozens still missing",
-      "url": "https://www.wapt.com/article/russian-strike-ukrainian-aid-dozens-missing/74321047",
-      "source": "WAPT Jackson",
-      "publishedAt": "2026-11-03T12:28:23Z",
+      "title": "Poland launches major security operation along border with Russia",
+      "url": "https://www.cbsnews.com/news/poland-russia-border-operation-kaliningrad-sabotage-provocation-nato/",
+      "source": "CBS News",
+      "publishedAt": "2026-11-03T17:32:02Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply",
-      "url": "https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-03T12:10:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump is 'considering nuclear strike on Iran', former CIA agent claims",
-      "url": "https://www.dailymail.com/news/article-16261459/donald-trump-nuclear-weapon-strike-iran-claim.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-03T11:50:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump’s Election Day Message on Iran: ‘I’m Not Looking to Kill Lots of People, but If We Have To, We’ll Have To’",
-      "url": "https://www.jezebel.com/iran-war-trump-plans-post-midterm-kill-lots-of-people-quote-pickaxe-mountain-nuclear-strike-enriched-uranium",
-      "source": "Jezebel",
-      "publishedAt": "2026-11-03T11:39:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "10 Other Times That Oil Ruled the World",
-      "url": "http://www.denofgeek.com/msn/10-other-times-that-oil-ruled-the-world/",
-      "source": "Den of Geek US",
-      "publishedAt": "2026-11-03T11:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest",
-      "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-03T10:40:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran unveils billboard with threat against Trump’s life",
-      "url": "https://punchng.com/iran-unveils-billboard-with-threat-against-trumps-life/",
-      "source": "The Punch",
-      "publishedAt": "2026-11-03T10:35:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "At least 73 injured as Russia bombs Ukrainian hospital and power plants",
-      "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-03T10:18:18Z",
+      "title": "31 dead, dozens missing after Russian strike on Ukrainian aid site",
+      "url": "https://nypost.com/2026/11/03/world-news/31-dead-dozens-missing-after-russian-strike-on-ukrainian-aid-site/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-03T17:26:16Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "US, Iran Study Proposals amid Limited Strikes",
-      "url": "https://www.rigzone.com/news/wire/us_iran_study_proposals_amid_limited_strikes-03-nov-2026-184996-article/",
+      "title": "US, Iran review fresh peace proposals amid limited strikes, war tensions",
+      "url": "https://www.business-standard.com/world-news/us-iran-review-fresh-peace-proposals-amid-limited-strikes-war-tensions-126110302025_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-03T17:04:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelensky says dozens dead and missing in Russian strike",
+      "url": "https://www.thelocal.de/20261103/zelensky-says-dozens-dead-and-missing-in-russian-strike",
+      "source": "The Local Germany",
+      "publishedAt": "2026-11-03T16:27:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The 11th Hour?",
+      "url": "https://dailycaller.com/2026/11/03/trump-iran-nuclear-strike-tucker-carlson-warning",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-11-03T16:14:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Timothy Snyder: Trump’s Big Lie About Ukraine",
+      "url": "https://dianeravitch.net/2026/11/03/timothy-snyder-trumps-big-lie-about-ukraine/",
+      "source": "Dianeravitch.net",
+      "publishedAt": "2026-11-03T16:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Downplays Iran War as US Launches Strikes Near Strait of Hormuz on Midterm Election Day: 'We Might Have to Go After Pickaxe, But That's Not a Big Deal'",
+      "url": "https://radaronline.com/p/trump-iran-war-us-launches-strikes-near-strait-of-hormuz-midterm-election-day/",
+      "source": "Radaronline.com",
+      "publishedAt": "2026-11-03T15:59:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran Restore Diplomacy amid Limited Strikes",
+      "url": "https://www.rigzone.com/news/wire/us_iran_restore_diplomacy_amid_limited_strikes-03-nov-2026-184996-article/",
       "source": "Rigzone",
-      "publishedAt": "2026-11-03T10:12:53Z",
+      "publishedAt": "2026-11-03T15:57:55Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
     {
-      "title": "British troops will be allowed to fire on Russian forces if they come under attack while peacekeeping in Ukraine, Western officials reveal",
-      "url": "https://www.dailymail.com/news/article-16261483/British-troops-fire-Russian-peacekeeping-Ukraine-Western-officials.html",
+      "title": "US Envoy Steve Witkoff Announces Russia-Ukraine Negotiations As 'Next Steps Toward Peace'",
+      "url": "https://military.com/us-envoy-steve-witkoff-announces-russia-ukraine-negotiations-next-step-towards-peace",
+      "source": "Military.com",
+      "publishedAt": "2026-11-03T15:57:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The signs Putin is stepping up his hybrid war as fridges are hacked, planes diverted by bomb threats and Russian troops show signs of new European incursion",
+      "url": "https://www.dailymail.com/news/article-16262285/The-signs-Putin-stepping-hybrid-war-fridges-hacked-planes-diverted-bomb-threats-Russian-troops-signs-new-European-incursion.html",
       "source": "Dailymail.com",
-      "publishedAt": "2026-11-03T10:07:41Z",
+      "publishedAt": "2026-11-03T15:36:52Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Italy: right, far right and even further right",
-      "url": "https://mondediplo.com/2026/11/04italy",
-      "source": "Mondediplo.com",
-      "publishedAt": "2026-11-03T09:49:39Z",
+      "title": "Global food security is under threat",
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-03T14:58:10Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Boiling Point: The Road to War and Ukraine’s Uncertain Future",
-      "url": "https://www.nakedcapitalism.com/2026/11/boiling-point-the-road-to-war-and-ukraines-uncertain-future.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-03T09:42:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin pushes the myth of Russian invincibility, seemingly to set his terms for peace",
-      "url": "https://www.cbc.ca/news/world/putin-ukraine-russia-military-peace-talks-9.7405910",
-      "source": "CBC News",
-      "publishedAt": "2026-11-03T09:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "title": "North Korea blasts US over $6 bn crypto theft allegations",
+      "url": "https://rt-english.com/news/648294-north-korea-us-binance-hack-accusations/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-03T14:29:36Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "How North Korea became a world leader in state-sponsored hacking",
@@ -153,14 +153,6 @@
       "publishedAt": "2026-11-03T08:52:18Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Russia-Ukraine war widens in the Black Sea in a test of NATO red lines",
-      "url": "https://www.channelnewsasia.com/world/russia-ukraine-war-black-sea-nato-6516256",
-      "source": "CNA",
-      "publishedAt": "2026-11-03T08:35:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea rejects U.S. allegation over $6 billion Binance crypto heist",
@@ -249,14 +241,6 @@
       "publishedAt": "2026-11-02T06:00:00Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Trump Is Dealing With a Different North Korea",
-      "url": "https://original.antiwar.com/kyle_anzalone/2026/11/01/trump-is-dealing-with-a-different-north-korea/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-11-02T00:00:15Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

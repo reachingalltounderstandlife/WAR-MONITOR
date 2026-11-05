@@ -1,7 +1,127 @@
 {
-  "updated": "2026-11-05T13:59:55Z",
-  "count": 27,
+  "updated": "2026-11-05T23:16:09Z",
+  "count": 32,
   "articles": [
+    {
+      "title": "Iranians celebrate setback for Trump in US election, and other Mideast news",
+      "url": "https://abcnews.com/International/wireStory/iranians-celebrate-setback-trump-us-election-mideast-news-137854076",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-11-04T21:06:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Democrats Won Big in the U.S. Midterms. What’s Next?",
+      "url": "http://foreignpolicy.com/2026/11/04/us-midterm-election-democrats-congress-iran-war-economy-corruption-trump/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-11-04T20:51:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
+      "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-04T20:31:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Coffee Break: Armed Madhouse – The Wordsmiths of War",
+      "url": "https://www.nakedcapitalism.com/2026/11/coffee-break-armed-madhouse-the-wordsmiths-of-war.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-04T19:00:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
+      "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-04T18:35:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Plays Down Prospect of Iran Strikes After Midterm Rout",
+      "url": "https://gcaptain.com/trump-plays-down-prospect-of-iran-strikes-after-midterm-rout/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-11-04T17:19:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia-Africa Summit Concludes with the Signing of Key Joint Agreements. The Moscow Declaration",
+      "url": "https://www.globalresearch.ca/third-russia-africa-summit-key-joint-agreements/5945170",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-11-04T16:50:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran takes a victory lap over stunning US election results, claims 'collapse has accelerated'",
+      "url": "https://www.foxnews.com/politics/iran-victory-lap-stunning-us-election-results-claims-collapse-accelerated",
+      "source": "Fox News",
+      "publishedAt": "2026-11-04T16:43:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump’s Election Defeat Leaves Iran War With No Easy Exit",
+      "url": "https://gcaptain.com/trumps-election-defeat-leaves-iran-war-with-no-easy-exit/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-11-04T16:35:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Horrifying moment Ukrainians flee to bomb shelter, thinking they would be safe... only to be hit by 'bunker buster' bomb during attack that killed 40 villagers",
+      "url": "https://www.dailymail.com/news/article-16265457/Ukrainians-flee-shelter-bunker-bomb-attack-killed.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-04T16:23:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO draws up plans for long range strikes deep into Russia in the event of war breaking out following invasion into Europe",
+      "url": "https://www.dailymail.com/news/article-16265177/NATO-draws-plans-long-range-strikes-deep-Russia-event-war-breaking-following-invasion-Europe.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-04T16:01:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian attacks disrupt power in Kyiv, while the death toll in a stricken village rises to 40",
+      "url": "https://economictimes.indiatimes.com/news/defence/russian-attacks-disrupt-power-in-kyiv-while-the-death-toll-in-a-stricken-village-rises-to-40/articleshow/135544080.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-04T15:34:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iranian officials gloat as US voters deal blow to Trump",
+      "url": "https://www.channelnewsasia.com/world/iran-gloat-us-midterm-election-trump-6524731",
+      "source": "CNA",
+      "publishedAt": "2026-11-04T15:23:36Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iranian leaders welcome US midterms, but Trump may still attack",
+      "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-04T15:13:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia and Ukraine Head to White House for Melania Trump-Led Talks",
+      "url": "https://oilprice.com/Geopolitics/Africa/Russia-and-Ukraine-Head-to-White-House-for-Melania-Trump-Led-Talks.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-11-04T15:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "How Regime Change Agendas Fuel Middle Eastern Strife",
       "url": "https://www.fairobserver.com/region/middle_east_north_africa/how-regime-change-agendas-fuel-middle-eastern-strife/",
@@ -35,14 +155,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Blood banks are struck by hackers raising storage temperatures - after supermarket freezers hit",
-      "url": "https://www.dailymail.com/news/article-16264945/Blood-banks-struck-hackers-raising-storage-temperatures-supermarket-freezers-hit.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-04T12:35:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iranian officials gloat as US voters deal blow to Donald Trump",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-officials-gloat-as-us-voters-deal-blow-to-donald-trump/articleshow/135539219.cms",
       "source": "The Times of India",
@@ -51,68 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iranian officials say midterm results show US voters have rejected Trump's war",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-officials-say-midterm-results-show-us-voters-have-rejected-trumps-war/articleshow/135539127.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-04T12:25:04Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Iranian Officials Gloat Over Trump’s Midterm Rout, But Also Fear His Next Move",
       "url": "https://www.huffpost.com/entry/iran-responds-midterms-donald-trump_n_6aeb1d09e4b0f78622d7c30c",
       "source": "HuffPost",
       "publishedAt": "2026-11-04T12:12:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 11/4/2026",
-      "url": "https://www.nakedcapitalism.com/2026/11/links-11-4-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-04T11:55:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump's grip on America has been broken, but he could be more dangerous in the next two years",
-      "url": "https://www.thejournal.ie/readme/trump-fright-night-7213872-Nov2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-11-04T11:03:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Midterms Deliver Epic Trump Rebuke. So What Might Come Next?",
-      "url": "https://www.nakedcapitalism.com/2026/11/midterms-deliver-epic-trump-rebuke-so-what-might-come-next.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-04T10:55:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Melania Trump is awarded state honour by President Zelensky in recognition of her work organising Ukraine front line evacuation",
-      "url": "https://www.dailymail.com/news/article-16264601/Melania-Trump-awarded-state-honour-President-Zelensky-recognition-work-organising-Ukraine-line-evacuation.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-04T10:51:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia is suspected of carrying out bomb threat hoaxes that grounded UK planes and closed European airports - amid fears Putin is escalating 'shadow war' against Britain",
-      "url": "https://www.dailymail.com/news/article-16264399/Russia-suspected-carrying-bomb-threat-hoaxes-grounded-UK-planes-closed-European-airports-amid-fears-Putin-escalating-shadow-war-against-Britain.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-04T09:58:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europe must stand up to Trump if our freedoms are to be preserved",
-      "url": "https://www.irishtimes.com/opinion/2026/11/04/europe-must-stand-up-to-trump-if-our-freedoms-are-to-be-preserved/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-04T06:00:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Fake job interviews and a $6.3 billion crypto heist: North Korea fires back as FBI points the finger",
@@ -147,28 +203,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Moscow reveals who will lead delegation at trilateral talks",
-      "url": "https://rt-english.com/russia/648309-moscow-lead-delegation-trilateral-talks/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-04T00:57:37Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea laundering Binance billions with Chinese help — to spend on new missiles",
       "url": "https://nypost.com/2026/11/03/tech/north-korea-laundering-binance-billions-with-chinese-help-to-spend-on-new-missiles/",
       "source": "New York Post",
       "publishedAt": "2026-11-03T23:17:10Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Europeans concerned about Trump’s reaction to possible election defeat",
-      "url": "https://www.globalresearch.ca/europeans-concerned-about-trumps-reaction-to-possible-election-defeat/5945081",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-11-03T23:14:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea blasts US over $6 bn crypto theft allegations",

@@ -1,7 +1,79 @@
 {
-  "updated": "2026-11-04T23:13:11Z",
-  "count": 30,
+  "updated": "2026-11-05T05:12:11Z",
+  "count": 28,
   "articles": [
+    {
+      "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
+      "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-04T05:11:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "When A Warhawk Is Actually A ‘Peace-Monger’",
+      "url": "https://www.americanthinker.com/articles/2026/11/when-a-warhawk-is-actually-a-peace-monger/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-11-04T05:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran warns against return to conflict after US strikes",
+      "url": "https://www.rte.ie/news/world/2026/1104/1597895-iran-us/",
+      "source": "RTE",
+      "publishedAt": "2026-11-04T04:14:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US, Iran remain far apart on deal as Trump signals no rush to strike",
+      "url": "https://www.business-standard.com/world-news/us-iran-remain-far-apart-on-deal-as-trump-signals-no-rush-to-strike-126110400352_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-04T04:00:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says U.S. is ready to strike Iran as negotiators struggle to reach deal",
+      "url": "https://uk.news.yahoo.com/irans-foreign-minister-says-talks-071254829.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-04T02:08:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Tucker Carlson says Trump is on the brink of a nuclear strike against Iran. Now, military experts map the horrifying path to WW3",
+      "url": "https://www.dailymail.com/news/article-16259219/tucker-carlson-trump-nuclear-iran.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-04T02:08:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Moscow reveals who will lead delegation at trilateral talks",
+      "url": "https://rt-english.com/russia/648309-moscow-lead-delegation-trilateral-talks/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-04T00:57:37Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea laundering Binance billions with Chinese help — to spend on new missiles",
+      "url": "https://nypost.com/2026/11/03/tech/north-korea-laundering-binance-billions-with-chinese-help-to-spend-on-new-missiles/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-03T23:17:10Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Europeans concerned about Trump’s reaction to possible election defeat",
+      "url": "https://www.globalresearch.ca/europeans-concerned-about-trumps-reaction-to-possible-election-defeat/5945081",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-11-03T23:14:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Israel privately warns Iran is considering use of chemical weapons: report",
       "url": "https://nypost.com/2026/11/03/world-news/israel-privately-warns-iran-is-considering-use-of-chemical-weapons-report/",
@@ -67,28 +139,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US, Iran review fresh peace proposals amid limited strikes, war tensions",
-      "url": "https://www.business-standard.com/world-news/us-iran-review-fresh-peace-proposals-amid-limited-strikes-war-tensions-126110302025_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-03T17:04:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Zelensky says dozens dead and missing in Russian strike",
       "url": "https://www.thelocal.de/20261103/zelensky-says-dozens-dead-and-missing-in-russian-strike",
       "source": "The Local Germany",
       "publishedAt": "2026-11-03T16:27:45Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "The 11th Hour?",
-      "url": "https://dailycaller.com/2026/11/03/trump-iran-nuclear-strike-tucker-carlson-warning",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-11-03T16:14:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Timothy Snyder: Trump’s Big Lie About Ukraine",
@@ -99,42 +155,10 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Trump Downplays Iran War as US Launches Strikes Near Strait of Hormuz on Midterm Election Day: 'We Might Have to Go After Pickaxe, But That's Not a Big Deal'",
-      "url": "https://radaronline.com/p/trump-iran-war-us-launches-strikes-near-strait-of-hormuz-midterm-election-day/",
-      "source": "Radaronline.com",
-      "publishedAt": "2026-11-03T15:59:44Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran Restore Diplomacy amid Limited Strikes",
-      "url": "https://www.rigzone.com/news/wire/us_iran_restore_diplomacy_amid_limited_strikes-03-nov-2026-184996-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-11-03T15:57:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "US Envoy Steve Witkoff Announces Russia-Ukraine Negotiations As 'Next Steps Toward Peace'",
       "url": "https://military.com/us-envoy-steve-witkoff-announces-russia-ukraine-negotiations-next-step-towards-peace",
       "source": "Military.com",
       "publishedAt": "2026-11-03T15:57:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The signs Putin is stepping up his hybrid war as fridges are hacked, planes diverted by bomb threats and Russian troops show signs of new European incursion",
-      "url": "https://www.dailymail.com/news/article-16262285/The-signs-Putin-stepping-hybrid-war-fridges-hacked-planes-diverted-bomb-threats-Russian-troops-signs-new-European-incursion.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-03T15:36:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Global food security is under threat",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/3/global-food-security-is-under-threat",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-03T14:58:10Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -201,46 +225,6 @@
       "publishedAt": "2026-11-03T00:56:43Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea Calls US Claim on Binance Hack 'Absurd Rhetoric'",
-      "url": "https://www.newser.com/story/399259/north-korea-calls-us-claim-on-binance-hack-absurd-rhetoric.html",
-      "source": "Newser",
-      "publishedAt": "2026-11-03T00:50:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "UN peacekeepers’ exit risks ‘security vacuum’ in Lebanon – RT report",
-      "url": "https://rt-english.com/news/648246-un-peacekeepers-lebanon-withdrawal-security/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-02T20:22:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "US greatest threat to nuclear non-proliferation regime: Iran blasts Washington over strike threats",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-greatest-threat-to-nuclear-non-proliferation-regime-iran-blasts-washington-over-strike-threats/articleshow/135461024.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-02T11:55:15Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "North Korea’s Hackers Supercharge Crypto Heists With AI Skills",
-      "url": "https://www.insurancejournal.com/news/international/2026/11/02/891092.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-11-02T11:08:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Netanyahu’s blind authoritarianism is destroying Israel from within and the Democrats party is calling out his poor leadership",
-      "url": "https://www.naturalnews.com/2026-11-02-netanyahus-blind-authoritarianism-is-destroying-israel-from-within.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-02T06:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

@@ -1,7 +1,135 @@
 {
-  "updated": "2026-11-05T05:12:11Z",
-  "count": 28,
+  "updated": "2026-11-05T13:59:55Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "How Regime Change Agendas Fuel Middle Eastern Strife",
+      "url": "https://www.fairobserver.com/region/middle_east_north_africa/how-regime-change-agendas-fuel-middle-eastern-strife/",
+      "source": "Fair Observer",
+      "publishedAt": "2026-11-04T13:15:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian strikes disrupt water and power in Kyiv as rescuers still search for survivors in the south",
+      "url": "https://abcnews.com/International/wireStory/russian-strikes-disrupt-water-power-kyiv-rescuers-search-137839563",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-11-04T13:09:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Wednesday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/11/04/wednesday-hili-dialogue-604/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-11-04T13:00:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran warns of wider war if US attacks after Trump election rout",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-of-wider-war-if-us-attacks-after-trump-election-rout/articleshow/135539710.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-04T12:41:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Blood banks are struck by hackers raising storage temperatures - after supermarket freezers hit",
+      "url": "https://www.dailymail.com/news/article-16264945/Blood-banks-struck-hackers-raising-storage-temperatures-supermarket-freezers-hit.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-04T12:35:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iranian officials gloat as US voters deal blow to Donald Trump",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-officials-gloat-as-us-voters-deal-blow-to-donald-trump/articleshow/135539219.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-04T12:33:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian officials say midterm results show US voters have rejected Trump's war",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-officials-say-midterm-results-show-us-voters-have-rejected-trumps-war/articleshow/135539127.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-04T12:25:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranian Officials Gloat Over Trump’s Midterm Rout, But Also Fear His Next Move",
+      "url": "https://www.huffpost.com/entry/iran-responds-midterms-donald-trump_n_6aeb1d09e4b0f78622d7c30c",
+      "source": "HuffPost",
+      "publishedAt": "2026-11-04T12:12:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 11/4/2026",
+      "url": "https://www.nakedcapitalism.com/2026/11/links-11-4-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-04T11:55:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump's grip on America has been broken, but he could be more dangerous in the next two years",
+      "url": "https://www.thejournal.ie/readme/trump-fright-night-7213872-Nov2026/",
+      "source": "TheJournal.ie",
+      "publishedAt": "2026-11-04T11:03:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Midterms Deliver Epic Trump Rebuke. So What Might Come Next?",
+      "url": "https://www.nakedcapitalism.com/2026/11/midterms-deliver-epic-trump-rebuke-so-what-might-come-next.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-04T10:55:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Melania Trump is awarded state honour by President Zelensky in recognition of her work organising Ukraine front line evacuation",
+      "url": "https://www.dailymail.com/news/article-16264601/Melania-Trump-awarded-state-honour-President-Zelensky-recognition-work-organising-Ukraine-line-evacuation.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-04T10:51:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia is suspected of carrying out bomb threat hoaxes that grounded UK planes and closed European airports - amid fears Putin is escalating 'shadow war' against Britain",
+      "url": "https://www.dailymail.com/news/article-16264399/Russia-suspected-carrying-bomb-threat-hoaxes-grounded-UK-planes-closed-European-airports-amid-fears-Putin-escalating-shadow-war-against-Britain.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-04T09:58:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Europe must stand up to Trump if our freedoms are to be preserved",
+      "url": "https://www.irishtimes.com/opinion/2026/11/04/europe-must-stand-up-to-trump-if-our-freedoms-are-to-be-preserved/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-04T06:00:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Fake job interviews and a $6.3 billion crypto heist: North Korea fires back as FBI points the finger",
+      "url": "https://www.naturalnews.com/2026-11-04-job-crypto-heist-north-korea-fires-back.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-11-04T06:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "U.S., South Korea and Japan Reaffirm Commitment to North Korea’s Complete Denuclearization",
+      "url": "https://www.naturalnews.com/2026-11-04-us-sokor-japan-reaffirm-complete-nokor-denuclearization.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-11-04T06:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
       "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack",
@@ -11,44 +139,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "When A Warhawk Is Actually A ‘Peace-Monger’",
-      "url": "https://www.americanthinker.com/articles/2026/11/when-a-warhawk-is-actually-a-peace-monger/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-11-04T05:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran warns against return to conflict after US strikes",
-      "url": "https://www.rte.ie/news/world/2026/1104/1597895-iran-us/",
-      "source": "RTE",
-      "publishedAt": "2026-11-04T04:14:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US, Iran remain far apart on deal as Trump signals no rush to strike",
-      "url": "https://www.business-standard.com/world-news/us-iran-remain-far-apart-on-deal-as-trump-signals-no-rush-to-strike-126110400352_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-04T04:00:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says U.S. is ready to strike Iran as negotiators struggle to reach deal",
-      "url": "https://uk.news.yahoo.com/irans-foreign-minister-says-talks-071254829.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-04T02:08:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Tucker Carlson says Trump is on the brink of a nuclear strike against Iran. Now, military experts map the horrifying path to WW3",
       "url": "https://www.dailymail.com/news/article-16259219/tucker-carlson-trump-nuclear-iran.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-11-04T02:08:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Moscow reveals who will lead delegation at trilateral talks",
@@ -71,94 +167,6 @@
       "url": "https://www.globalresearch.ca/europeans-concerned-about-trumps-reaction-to-possible-election-defeat/5945081",
       "source": "Globalresearch.ca",
       "publishedAt": "2026-11-03T23:14:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel privately warns Iran is considering use of chemical weapons: report",
-      "url": "https://nypost.com/2026/11/03/world-news/israel-privately-warns-iran-is-considering-use-of-chemical-weapons-report/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-03T22:19:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Following Oleshky Truce, Melania Trump To Host Russia-Ukraine Talks",
-      "url": "https://www.rferl.org/a/ukraine-russia-oleshky-melania-trump-talks/33889941.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-11-03T21:18:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why Trump only has a few weeks to restart Iran war — and what he could target with new strikes",
-      "url": "https://nypost.com/2026/11/03/world-news/why-trump-has-just-a-few-weeks-to-restart-iran-war-and-what-he-could-target-with-new-strikes/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-03T20:42:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "In The Aftermath Of The Midterm Elections, How Soon Will The U.S. And Israel Start Bombing Iran?",
-      "url": "http://theeconomiccollapseblog.com/in-the-aftermath-of-the-midterm-elections-how-soon-will-the-u-s-and-israel-start-bombing-iran/",
-      "source": "Theeconomiccollapseblog.com",
-      "publishedAt": "2026-11-03T20:35:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Neo-Nazi torture chambers are on the frontier of ‘European values’ projected through Ukraine",
-      "url": "https://rt-english.com/news/648320-ukraine-nazi-torture-chambers/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-03T19:03:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Death toll in Russian attack on Ukraine reaches 33, with dozens still missing",
-      "url": "https://www.irishtimes.com/world/europe/2026/11/03/death-toll-in-russian-attack-on-ukraine-reaches-33-with-dozens-still-missing/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-03T18:43:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Poland launches major security operation along border with Russia",
-      "url": "https://www.cbsnews.com/news/poland-russia-border-operation-kaliningrad-sabotage-provocation-nato/",
-      "source": "CBS News",
-      "publishedAt": "2026-11-03T17:32:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "31 dead, dozens missing after Russian strike on Ukrainian aid site",
-      "url": "https://nypost.com/2026/11/03/world-news/31-dead-dozens-missing-after-russian-strike-on-ukrainian-aid-site/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-03T17:26:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelensky says dozens dead and missing in Russian strike",
-      "url": "https://www.thelocal.de/20261103/zelensky-says-dozens-dead-and-missing-in-russian-strike",
-      "source": "The Local Germany",
-      "publishedAt": "2026-11-03T16:27:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Timothy Snyder: Trump’s Big Lie About Ukraine",
-      "url": "https://dianeravitch.net/2026/11/03/timothy-snyder-trumps-big-lie-about-ukraine/",
-      "source": "Dianeravitch.net",
-      "publishedAt": "2026-11-03T16:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US Envoy Steve Witkoff Announces Russia-Ukraine Negotiations As 'Next Steps Toward Peace'",
-      "url": "https://military.com/us-envoy-steve-witkoff-announces-russia-ukraine-negotiations-next-step-towards-peace",
-      "source": "Military.com",
-      "publishedAt": "2026-11-03T15:57:14Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -207,22 +215,6 @@
       "url": "https://www.business-standard.com/world-news/north-korea-denies-role-in-binance-crypto-heist-criticizes-fbi-probe-126110300081_1.html",
       "source": "Business Standard",
       "publishedAt": "2026-11-03T02:40:32Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "'A trite provocation': North Korea denies involvement in $6 billion Binance hack, criticizes FBI probe",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/a-trite-provocation-north-korea-denies-involvement-in-6-billion-binance-hack-criticizes-fbi-probe/articleshow/135478331.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-03T01:28:12Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea denies involvement in Binance hack, criticizes FBI probe",
-      "url": "https://abcnews.com/International/wireStory/north-korea-denies-involvement-binance-hack-criticizes-fbi-137788208",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-11-03T00:56:43Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

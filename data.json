@@ -1,7 +1,103 @@
 {
-  "updated": "2026-11-05T23:16:09Z",
-  "count": 32,
+  "updated": "2026-11-06T05:12:10Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-05T04:49:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How a Democratic-controlled Congress could curb Trump’s foreign policy",
+      "url": "https://www.thehindubusinessline.com/news/world/how-a-democratic-controlled-congress-could-curb-trumps-foreign-policy/article71668470.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-11-05T03:58:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ari Fleischer rebukes Vance: Iran ceasefire, not war, cost Republicans the election",
+      "url": "https://www.israelnationalnews.com/news/435692",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-05T03:13:46Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump's midterm defeat dims hopes of North Korea meeting",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-midterm-loss-stalls-prospects-for-north-korea-summit-as-tensions-rise/articleshow/135556860.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-05T03:06:18Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran's leaders say midterm results show US voters have rejected Trump's war",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-leaders-say-midterm-results-show-us-voters-have-rejected-trumps-war/articleshow/135555937.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-05T02:10:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran vows to use 'new weapons' if US steps up bomb blitz",
+      "url": "https://www.dailymail.com/news/article-16267043/Iran-vows-use-new-weapons-US-steps-bomb-blitz.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-05T01:29:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Did Tucker Carlson Warn Trump that going to war with Iran was a bad Idea.",
+      "url": "https://freerepublic.com/focus/f-chat/4401860/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-11-05T01:16:47Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Greatest Existential Risk of the Early 21st Century",
+      "url": "https://original.antiwar.com/dan_steinbock/2026/11/04/the-greatest-existential-risk-of-the-early-21st-century/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-11-05T00:00:41Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Europe's Israeli Paradox: Strategic Autonomy and Military Dependence",
+      "url": "https://www.hoover.org/research/europes-israeli-paradox-strategic-autonomy-and-military-dependence",
+      "source": "Hoover.org",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "How the Ukrainian Soviet Socialist Republic Became a Country",
+      "url": "https://original.antiwar.com/david_stockman/2026/11/04/how-the-ukrainian-soviet-socialist-republic-became-a-country/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s Foreign Policy Is Not America’s Fate",
+      "url": "https://www.persuasion.community/p/trumps-foreign-policy-is-not-americas",
+      "source": "Persuasion.community",
+      "publishedAt": "2026-11-05T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "News Wrap: Officials in Iran welcome midterm results as vote against war",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-officials-in-iran-welcome-midterm-results-as-vote-against-war",
+      "source": "PBS",
+      "publishedAt": "2026-11-04T23:50:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Iranians celebrate setback for Trump in US election, and other Mideast news",
       "url": "https://abcnews.com/International/wireStory/iranians-celebrate-setback-trump-us-election-mideast-news-137854076",
@@ -67,14 +163,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump’s Election Defeat Leaves Iran War With No Easy Exit",
-      "url": "https://gcaptain.com/trumps-election-defeat-leaves-iran-war-with-no-easy-exit/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-11-04T16:35:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Horrifying moment Ukrainians flee to bomb shelter, thinking they would be safe... only to be hit by 'bunker buster' bomb during attack that killed 40 villagers",
       "url": "https://www.dailymail.com/news/article-16265457/Ukrainians-flee-shelter-bunker-bomb-attack-killed.html",
       "source": "Dailymail.com",
@@ -91,14 +179,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Russian attacks disrupt power in Kyiv, while the death toll in a stricken village rises to 40",
-      "url": "https://economictimes.indiatimes.com/news/defence/russian-attacks-disrupt-power-in-kyiv-while-the-death-toll-in-a-stricken-village-rises-to-40/articleshow/135544080.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-04T15:34:49Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iranian officials gloat as US voters deal blow to Trump",
       "url": "https://www.channelnewsasia.com/world/iran-gloat-us-midterm-election-trump-6524731",
       "source": "CNA",
@@ -107,60 +187,20 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Iranian leaders welcome US midterms, but Trump may still attack",
-      "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-04T15:13:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia and Ukraine Head to White House for Melania Trump-Led Talks",
-      "url": "https://oilprice.com/Geopolitics/Africa/Russia-and-Ukraine-Head-to-White-House-for-Melania-Trump-Led-Talks.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-11-04T15:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "How Regime Change Agendas Fuel Middle Eastern Strife",
       "url": "https://www.fairobserver.com/region/middle_east_north_africa/how-regime-change-agendas-fuel-middle-eastern-strife/",
       "source": "Fair Observer",
       "publishedAt": "2026-11-04T13:15:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russian strikes disrupt water and power in Kyiv as rescuers still search for survivors in the south",
-      "url": "https://abcnews.com/International/wireStory/russian-strikes-disrupt-water-power-kyiv-rescuers-search-137839563",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-11-04T13:09:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Wednesday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/11/04/wednesday-hili-dialogue-604/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-11-04T13:00:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran warns of wider war if US attacks after Trump election rout",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-of-wider-war-if-us-attacks-after-trump-election-rout/articleshow/135539710.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-04T12:41:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iranian officials gloat as US voters deal blow to Donald Trump",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-officials-gloat-as-us-voters-deal-blow-to-donald-trump/articleshow/135539219.cms",
       "source": "The Times of India",
       "publishedAt": "2026-11-04T12:33:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iranian Officials Gloat Over Trump’s Midterm Rout, But Also Fear His Next Move",
@@ -201,62 +241,6 @@
       "publishedAt": "2026-11-04T02:08:23Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "North Korea laundering Binance billions with Chinese help — to spend on new missiles",
-      "url": "https://nypost.com/2026/11/03/tech/north-korea-laundering-binance-billions-with-chinese-help-to-spend-on-new-missiles/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-03T23:17:10Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea blasts US over $6 bn crypto theft allegations",
-      "url": "https://rt-english.com/news/648294-north-korea-us-binance-hack-accusations/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-03T14:29:36Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "How North Korea became a world leader in state-sponsored hacking",
-      "url": "https://theconversation.com/how-north-korea-became-a-world-leader-in-state-sponsored-hacking-295597",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-11-03T08:52:18Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea rejects U.S. allegation over $6 billion Binance crypto heist",
-      "url": "https://www.yahoo.com/news/world/articles/north-korea-says-claims-linking-221106741.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-03T08:24:18Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Israel warns Lebanon: Fighting will resume if Hezbollah joins renewed Iran conflict",
-      "url": "https://www.israelnationalnews.com/news/435564",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-03T03:57:01Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "North Korea blasts FBI for Binance hack allegations",
-      "url": "https://www.rte.ie/news/world/2026/1103/1597715-korea-binance-world/",
-      "source": "RTE",
-      "publishedAt": "2026-11-03T03:43:18Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea denies role in Binance crypto heist, criticizes FBI probe",
-      "url": "https://www.business-standard.com/world-news/north-korea-denies-role-in-binance-crypto-heist-criticizes-fbi-probe-126110300081_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-03T02:40:32Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

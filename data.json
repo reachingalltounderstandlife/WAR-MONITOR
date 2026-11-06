@@ -1,7 +1,87 @@
 {
-  "updated": "2026-11-06T13:45:25Z",
-  "count": 29,
+  "updated": "2026-11-06T22:43:23Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Why Voters Backed Democrats in Midterm Blowout",
+      "url": "https://freerepublic.com/focus/f-news/4401958/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-11-05T21:40:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Pentagon’s Own Intel Undercuts Claims Of Space Superiority Over Iran",
+      "url": "https://dailycaller.com/2026/11/05/pentagon-intel-iran-space-superiority-raises-questions",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-11-05T21:13:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil Rebounds After Sharp Iran War Selloff",
+      "url": "https://www.rigzone.com/news/wire/oil_rebounds_after_sharp_iran_war_selloff-05-nov-2026-185023-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-11-05T21:08:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Is Trump admin planning nuclear strike on Iran in wake of midterms? What we know",
+      "url": "https://www.snopes.com//news/2026/11/05/trump-iran-nuclear-strike/",
+      "source": "Snopes.com",
+      "publishedAt": "2026-11-05T18:58:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "War Comes to NATO’s Black Sea Coast, and Shipping Starts Saying No",
+      "url": "https://gcaptain.com/war-comes-to-natos-black-sea-coast-and-shipping-starts-saying-no/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-11-05T18:53:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Opinion: The U.S. should support Ukraine",
+      "url": "https://dailyutahchronicle.com/2026/11/05/opinion-the-u-s-should-support-ukraine/",
+      "source": "Dailyutahchronicle.com",
+      "publishedAt": "2026-11-05T18:03:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "War, Deal, Or Stalemate? What The Midterms Mean For Trump's Iran War",
+      "url": "https://www.rferl.org/a/iran-war-us-midterms-trump-options/33891689.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-11-05T16:43:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Vance’s Election Postmortem Leaves Out One Key Player: Himself",
+      "url": "https://legalinsurrection.com/2026/11/vances-election-postmortem-leaves-out-one-key-player-himself/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-11-05T16:00:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Democrats Would Be Insane Not to Break With Israel Now",
+      "url": "https://www.thenation.com/article/politics/democrats-israel-midterm-elections/",
+      "source": "Thenation.com",
+      "publishedAt": "2026-11-05T15:07:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Could the US midterms further isolate Israel in Washington?",
+      "url": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-05T14:19:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "First Gen Z Congresswoman: DSA's Melat Kiros on Corruption, Medicare for All & Israel",
       "url": "https://www.democracynow.org/2026/11/5/melat_kiros",
@@ -27,30 +107,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
-      "url": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-05T11:32:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "“Regime Change Came in Texas Before Tehran”",
-      "url": "https://www.newyorker.com/news/global-notes/regime-change-came-in-texas-before-tehran",
-      "source": "The New Yorker",
-      "publishedAt": "2026-11-05T11:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump 'days away' from launching nuclear strike on Iran, Tucker Carlson claims",
-      "url": "https://i-epikaira.blogspot.com/2026/11/trump-days-away-from-launching-nuclear.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-11-05T10:31:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Democrats’ Power in the Lame-Duck Session",
       "url": "https://prospect.org/2026/11/05/democrats-power-in-the-lame-duck-session/",
       "source": "The American Prospect",
@@ -59,44 +115,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Congress defeat: How Trump’s allies are distancing themselves from Iran war",
-      "url": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-05T10:24:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "If the Iran War is resumed, how will Hezbollah react?",
       "url": "https://www.israelnationalnews.com/news/435705",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-11-05T08:13:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil extends slide amid heightened hopes of end to Iran war",
-      "url": "https://www.irishtimes.com/business/markets/2026/11/05/oil-extends-slide-amid-heightened-hopes-of-end-to-iran-war/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-05T06:36:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. Midterms Draw Scrutiny Over Party Alignment With War Lobby, Ex-UN Expert Says",
-      "url": "https://www.naturalnews.com/2026-11-05-midterms-draw-scrutiny-party-alignment-war-lobby.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-05T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Nuclear Risk Didnât End with the Midterms: Trump Still Has Two Months to Destroy the World",
-      "url": "https://www.naturalnews.com/2026-11-05-nuclear-risk-didnt-end-with-the-midterms.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-05T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "State’s ability to defend itself compromised by lack of security strategy, says Defence Forces",
@@ -139,20 +163,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "How the Ukrainian Soviet Socialist Republic Became a Country",
-      "url": "https://original.antiwar.com/david_stockman/2026/11/04/how-the-ukrainian-soviet-socialist-republic-became-a-country/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump’s Foreign Policy Is Not America’s Fate",
       "url": "https://www.persuasion.community/p/trumps-foreign-policy-is-not-americas",
       "source": "Persuasion.community",
       "publishedAt": "2026-11-05T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Iranians celebrate setback for Trump in US election, and other Mideast news",
@@ -161,14 +177,6 @@
       "publishedAt": "2026-11-04T21:06:15Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Democrats Won Big in the U.S. Midterms. What’s Next?",
-      "url": "http://foreignpolicy.com/2026/11/04/us-midterm-election-democrats-congress-iran-war-economy-corruption-trump/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-11-04T20:51:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iranian officials gloat as US voters deal blow to Trump",

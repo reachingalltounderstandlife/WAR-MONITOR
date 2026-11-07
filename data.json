@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-06T22:43:23Z",
-  "count": 30,
+  "updated": "2026-11-07T04:44:00Z",
+  "count": 24,
   "articles": [
+    {
+      "title": "Japan protests as Putin orders takeover of Japan Tobacco's Russia unit",
+      "url": "https://www.business-standard.com/world-news/japan-protests-as-putin-orders-takeover-of-japan-tobacco-s-russia-unit-126110600441_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-06T04:02:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Turkish lawmakers approve defence pact with Pakistan, Saudi Arabia",
+      "url": "https://www.business-standard.com/world-news/turkish-lawmakers-approve-defence-pact-with-pakistan-saudi-arabia-126110600066_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-06T02:33:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Sceptic on Climate, Conventional on Russia: A Review of ‘The Age of Error and the West’s Undoing’ by Rupert Darwall",
+      "url": "https://wattsupwiththat.com/2026/11/05/sceptic-on-climate-conventional-on-russia-a-review-of-the-age-of-error-and-the-wests-undoing-by-rupert-darwall/",
+      "source": "Wattsupwiththat.com",
+      "publishedAt": "2026-11-06T02:14:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official says",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-sent-nuclear-proposal-to-the-us-via-qatar-senior-iranian-official-says/articleshow/135590142.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-06T01:51:49Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "US midterms upended Congress but Trump still commands foreign policy",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-midterms-upended-congress-but-trump-still-commands-foreign-policy/articleshow/135589895.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-06T01:43:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump predicts deal with Russia on Ukraine and Europe",
+      "url": "https://www.rte.ie/news/2026/1106/1598206-trump-russia-ukraine/",
+      "source": "RTE",
+      "publishedAt": "2026-11-06T01:23:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US-Iran Tensions Escalate as Israel Signals Possible New Offensive; Fears of Wider Regional War Mount",
+      "url": "https://www.globalresearch.ca/us-iran-tensions-escalate-israel-signals-possible-new-offensive-fears/5945252",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-11-06T00:42:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+      "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-06T00:15:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "What are the 4 greatest threats to the survival of humanity?",
+      "url": "https://www.lifesciencesworld.com/what-are-the-4-greatest-threats-to-the-survival-of-humanity/",
+      "source": "Lifesciencesworld.com",
+      "publishedAt": "2026-11-06T00:10:24Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Russia hawk appointed as Germany’s top commander",
+      "url": "https://rt-english.com/news/648491-russia-hawk-lead-german-forces/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-06T00:04:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Top US commander launches podcast joking about retirement — as Trump weighs next Iran move",
+      "url": "https://nypost.com/2026/11/05/us-news/top-us-commander-launches-podcast-joking-about-retirement-as-trump-weighs-next-iran-move/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-05T23:12:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Why Voters Backed Democrats in Midterm Blowout",
       "url": "https://freerepublic.com/focus/f-news/4401958/posts",
@@ -59,52 +147,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Vance’s Election Postmortem Leaves Out One Key Player: Himself",
-      "url": "https://legalinsurrection.com/2026/11/vances-election-postmortem-leaves-out-one-key-player-himself/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-11-05T16:00:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Democrats Would Be Insane Not to Break With Israel Now",
-      "url": "https://www.thenation.com/article/politics/democrats-israel-midterm-elections/",
-      "source": "Thenation.com",
-      "publishedAt": "2026-11-05T15:07:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Could the US midterms further isolate Israel in Washington?",
-      "url": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-05T14:19:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "First Gen Z Congresswoman: DSA's Melat Kiros on Corruption, Medicare for All & Israel",
-      "url": "https://www.democracynow.org/2026/11/5/melat_kiros",
-      "source": "Democracy Now!",
-      "publishedAt": "2026-11-05T13:32:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Presidential Advisor Valentin Naumescu says Putin will intensify attacks on Ukraine",
       "url": "https://www.mediafax.ro/english/presidential-advisor-valentin-naumescu-says-putin-will-intensify-attacks-on-ukraine-23838119",
       "source": "Mediafax.ro",
       "publishedAt": "2026-11-05T12:09:09Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US vote setback puts Trump’s Mideast policy under pressure",
-      "url": "https://www.hurriyetdailynews.com/us-vote-setback-puts-trumps-mideast-policy-under-pressure-229067",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-11-05T11:52:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Democrats’ Power in the Lame-Duck Session",
@@ -123,22 +171,6 @@
       "_label": "Lebanon"
     },
     {
-      "title": "State’s ability to defend itself compromised by lack of security strategy, says Defence Forces",
-      "url": "https://www.irishtimes.com/ireland/2026/11/05/states-ability-to-defend-itself-compromised-by-lack-of-security-strategy-says-defence-forces/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-05T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
-      "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-05T04:49:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump's midterm defeat dims hopes of North Korea meeting",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-midterm-loss-stalls-prospects-for-north-korea-summit-as-tensions-rise/articleshow/135556860.cms",
       "source": "The Times of India",
@@ -155,90 +187,10 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Europe's Israeli Paradox: Strategic Autonomy and Military Dependence",
-      "url": "https://www.hoover.org/research/europes-israeli-paradox-strategic-autonomy-and-military-dependence",
-      "source": "Hoover.org",
-      "publishedAt": "2026-11-05T00:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump’s Foreign Policy Is Not America’s Fate",
       "url": "https://www.persuasion.community/p/trumps-foreign-policy-is-not-americas",
       "source": "Persuasion.community",
       "publishedAt": "2026-11-05T00:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Iranians celebrate setback for Trump in US election, and other Mideast news",
-      "url": "https://abcnews.com/International/wireStory/iranians-celebrate-setback-trump-us-election-mideast-news-137854076",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-11-04T21:06:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iranian officials gloat as US voters deal blow to Trump",
-      "url": "https://www.channelnewsasia.com/world/iran-gloat-us-midterm-election-trump-6524731",
-      "source": "CNA",
-      "publishedAt": "2026-11-04T15:23:36Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "How Regime Change Agendas Fuel Middle Eastern Strife",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/how-regime-change-agendas-fuel-middle-eastern-strife/",
-      "source": "Fair Observer",
-      "publishedAt": "2026-11-04T13:15:47Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iranian officials gloat as US voters deal blow to Donald Trump",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iranian-officials-gloat-as-us-voters-deal-blow-to-donald-trump/articleshow/135539219.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-04T12:33:45Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iranian Officials Gloat Over Trump’s Midterm Rout, But Also Fear His Next Move",
-      "url": "https://www.huffpost.com/entry/iran-responds-midterms-donald-trump_n_6aeb1d09e4b0f78622d7c30c",
-      "source": "HuffPost",
-      "publishedAt": "2026-11-04T12:12:43Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Fake job interviews and a $6.3 billion crypto heist: North Korea fires back as FBI points the finger",
-      "url": "https://www.naturalnews.com/2026-11-04-job-crypto-heist-north-korea-fires-back.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-04T06:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "U.S., South Korea and Japan Reaffirm Commitment to North Korea’s Complete Denuclearization",
-      "url": "https://www.naturalnews.com/2026-11-04-us-sokor-japan-reaffirm-complete-nokor-denuclearization.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-04T06:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "N Korea fires multiple missiles, denies US claims on Binance hack",
-      "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-04T05:11:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Tucker Carlson says Trump is on the brink of a nuclear strike against Iran. Now, military experts map the horrifying path to WW3",
-      "url": "https://www.dailymail.com/news/article-16259219/tucker-carlson-trump-nuclear-iran.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-04T02:08:23Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
     }

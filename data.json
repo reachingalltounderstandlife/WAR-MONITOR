@@ -1,86 +1,158 @@
 {
-  "updated": "2026-11-07T12:29:21Z",
-  "count": 24,
+  "updated": "2026-11-07T21:27:37Z",
+  "count": 26,
   "articles": [
     {
-      "title": "Trump envoy lays out plans to reshape European security with Russia",
-      "url": "https://rt-english.com/news/648520-trump-envoy-europe-security/",
+      "title": "Ro Khanna Allies Push Him to Declare 2028 Bid, Emboldened by Progressive Midterm Surge",
+      "url": "https://www.commondreams.org/news/run-ro-khanna",
+      "source": "Common Dreams",
+      "publishedAt": "2026-11-06T21:05:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Midterm meltdown, horror in Ukraine, ceasefire breakthrough: RT coverage of the week’s key events",
+      "url": "https://rt-english.com/news/648527-rt-top-stories-midterms-trump-ukraine/",
       "source": "Rt-english.com",
-      "publishedAt": "2026-11-06T12:29:02Z",
+      "publishedAt": "2026-11-06T21:04:01Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "Death toll from Russian attack in Ukraine's Zaporizhzhia region climbs to 53",
-      "url": "https://www.cbc.ca/news/world/ukraine-zaporizhzhia-attack-russia-melania-trump-9.7411754",
-      "source": "CBC News",
-      "publishedAt": "2026-11-06T12:25:34Z",
+      "title": "Europe is gearing up for a future war Russia is already waging",
+      "url": "https://www.nrc.nl/nieuws/2026/11/06/europe-is-gearing-up-for-a-future-war-russia-is-already-waging-a4940691",
+      "source": "Www.nrc.nl",
+      "publishedAt": "2026-11-06T21:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
     {
-      "title": "NATO seeks 'just' end to Ukraine war as Trump touts deal involving Europe",
-      "url": "https://www.hurriyetdailynews.com/nato-seeks-just-end-to-ukraine-war-as-trump-touts-deal-involving-europe-229104",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-11-06T11:54:46Z",
+      "title": "Iran distributes iodine tablets amid fears of strike on Pickaxe Mountain",
+      "url": "https://www.israelnationalnews.com/news/435790",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-06T20:58:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin confirms date for trilateral Ukraine talks",
+      "url": "https://rt-english.com/russia/648536-trilateral-ukraine-talks-putin/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-06T20:45:14Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "Alarming satellite images show construction near Iran missile bases: report",
+      "url": "https://nypost.com/2026/11/06/world-news/alarming-satellite-images-show-construction-near-iran-missile-bases-report/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-06T20:40:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Report: US and Iran near possible breakthrough in talks to end war",
+      "url": "https://www.israelnationalnews.com/news/435788",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-06T20:02:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Alarm in Europe over US plans for ‘security deal’ with Russia",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/06/alarm-in-europe-over-us-plans-for-security-deal-with-russia/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-06T19:18:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump: Israel would not exist if I hadn't stopped Iran",
+      "url": "https://www.israelnationalnews.com/news/435786",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-06T19:00:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Prowling the coast of Scotland, sinister Kremlin spy ships that could plunge us ALL into darkness",
+      "url": "https://www.dailymail.com/news/article-16272563/Prowling-coast-Scotland-sinister-Kremlin-spy-ships-plunge-darkness.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-06T18:43:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Jared Kushner’s European security plan isn’t convincing Europe",
+      "url": "https://www.politico.eu/article/jared-kushner-european-security-plan-is-not-convincing-europe/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-11-06T17:58:32Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump meets Putin envoy, says Ukraine peace deal could come very soon",
+      "url": "https://www.business-standard.com/world-news/trump-meets-putin-envoy-says-ukraine-peace-deal-could-come-very-soon-126110602047_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-06T17:30:15Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Poland’s Deployment Near Russia’s Kaliningrad Fuels European Militarization",
+      "url": "https://www.globalresearch.ca/poland-deployment-near-russia-kaliningrad-fuels-european-militarization/5945319",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-11-06T16:12:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Fact check: 3 viral Iran war posts debunked",
+      "url": "https://www.dw.com/en/fact-check-3-viral-iran-war-posts-debunked/a-79867353",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-06T15:29:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Fact check: Three viral Iran war posts debunked",
+      "url": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-06T15:29:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Claims of a Ukrainian ‘torture chamber’ went viral. What really happened?",
+      "url": "https://www.aljazeera.com/news/2026/11/6/claims-of-a-ukrainian-torture-chamber-went-viral-what-really-happened",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-06T15:14:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s Iran Strategy Reaches a Critical Crossroads After Midterm Defeat",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/Trumps-Iran-Strategy-Reaches-a-Critical-Crossroads-After-Midterm-Defeat.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-11-06T15:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranians face looming war threat with no reliable info",
+      "url": "https://www.dw.com/en/iranians-face-looming-war-threat-with-no-reliable-info/a-79875438",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-06T12:56:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "US, Iran weigh proposals as mediation efforts intensify",
       "url": "https://www.hurriyetdailynews.com/us-iran-weigh-proposals-as-mediation-efforts-intensify-229103",
       "source": "Hurriyet Daily News",
       "publishedAt": "2026-11-06T11:17:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Melania hosts Russia, Ukraine as Trump touts big Europe deal",
-      "url": "https://punchng.com/melania-hosts-russia-ukraine-as-trump-touts-big-europe-deal/",
-      "source": "The Punch",
-      "publishedAt": "2026-11-06T08:55:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Tanks or drones? Defense earnings reveal a more complicated rearmament boom",
-      "url": "https://www.cnbc.com/2026/11/06/defense-military-tech-earnings.html",
-      "source": "CNBC",
-      "publishedAt": "2026-11-06T08:52:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine attacks Russian frontline with 28 ground robots in one of the largest clashes involving UGVs caught on camera",
-      "url": "https://www.dailymail.com/news/article-16270905/Ukraine-attacks-Russian-frontline-28-ground-robots-one-largest-clashes-involving-UGVs-caught-camera.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-06T08:33:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "White House Outlines Broader European Security Plan Ahead Of Ukraine Peace Talks",
-      "url": "https://www.rferl.org/a/white-house-outlines-broader-european-security-plan-ahead-of-ukraine-peace-talks/33892135.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-11-06T07:37:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran war divides Republicans after midterm defeat",
-      "url": "https://www.hurriyetdailynews.com/iran-war-divides-republicans-after-midterm-defeat-229082",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-11-06T06:00:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Is the blank-check era ending? Kushnerâs peace push makes room for Russia",
-      "url": "https://www.naturalnews.com/2026-11-06-blank-check-ending-kushner-peace-russia.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-06T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump could woo North Korea after midterm setback, but Kim may not respond",
@@ -91,22 +163,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Japan protests as Putin orders takeover of Japan Tobacco's Russia unit",
-      "url": "https://www.business-standard.com/world-news/japan-protests-as-putin-orders-takeover-of-japan-tobacco-s-russia-unit-126110600441_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-06T04:02:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Turkish lawmakers approve defence pact with Pakistan, Saudi Arabia",
-      "url": "https://www.business-standard.com/world-news/turkish-lawmakers-approve-defence-pact-with-pakistan-saudi-arabia-126110600066_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-06T02:33:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official says",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-sent-nuclear-proposal-to-the-us-via-qatar-senior-iranian-official-says/articleshow/135590142.cms",
       "source": "The Times of India",
@@ -115,52 +171,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "US midterms upended Congress but Trump still commands foreign policy",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-midterms-upended-congress-but-trump-still-commands-foreign-policy/articleshow/135589895.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-06T01:43:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-Iran Tensions Escalate as Israel Signals Possible New Offensive; Fears of Wider Regional War Mount",
-      "url": "https://www.globalresearch.ca/us-iran-tensions-escalate-israel-signals-possible-new-offensive-fears/5945252",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-11-06T00:42:45Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
-      "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-06T00:15:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "What are the 4 greatest threats to the survival of humanity?",
       "url": "https://www.lifesciencesworld.com/what-are-the-4-greatest-threats-to-the-survival-of-humanity/",
       "source": "Lifesciencesworld.com",
       "publishedAt": "2026-11-06T00:10:24Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Top US commander launches podcast joking about retirement — as Trump weighs next Iran move",
-      "url": "https://nypost.com/2026/11/05/us-news/top-us-commander-launches-podcast-joking-about-retirement-as-trump-weighs-next-iran-move/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-05T23:12:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why Voters Backed Democrats in Midterm Blowout",
-      "url": "https://freerepublic.com/focus/f-news/4401958/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-11-05T21:40:19Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "If the Iran War is resumed, how will Hezbollah react?",

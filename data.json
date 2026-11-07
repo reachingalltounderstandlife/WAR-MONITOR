@@ -1,7 +1,95 @@
 {
-  "updated": "2026-11-07T04:44:00Z",
+  "updated": "2026-11-07T12:29:21Z",
   "count": 24,
   "articles": [
+    {
+      "title": "Trump envoy lays out plans to reshape European security with Russia",
+      "url": "https://rt-english.com/news/648520-trump-envoy-europe-security/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-06T12:29:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Death toll from Russian attack in Ukraine's Zaporizhzhia region climbs to 53",
+      "url": "https://www.cbc.ca/news/world/ukraine-zaporizhzhia-attack-russia-melania-trump-9.7411754",
+      "source": "CBC News",
+      "publishedAt": "2026-11-06T12:25:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO seeks 'just' end to Ukraine war as Trump touts deal involving Europe",
+      "url": "https://www.hurriyetdailynews.com/nato-seeks-just-end-to-ukraine-war-as-trump-touts-deal-involving-europe-229104",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-11-06T11:54:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US, Iran weigh proposals as mediation efforts intensify",
+      "url": "https://www.hurriyetdailynews.com/us-iran-weigh-proposals-as-mediation-efforts-intensify-229103",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-11-06T11:17:28Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Melania hosts Russia, Ukraine as Trump touts big Europe deal",
+      "url": "https://punchng.com/melania-hosts-russia-ukraine-as-trump-touts-big-europe-deal/",
+      "source": "The Punch",
+      "publishedAt": "2026-11-06T08:55:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Tanks or drones? Defense earnings reveal a more complicated rearmament boom",
+      "url": "https://www.cnbc.com/2026/11/06/defense-military-tech-earnings.html",
+      "source": "CNBC",
+      "publishedAt": "2026-11-06T08:52:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine attacks Russian frontline with 28 ground robots in one of the largest clashes involving UGVs caught on camera",
+      "url": "https://www.dailymail.com/news/article-16270905/Ukraine-attacks-Russian-frontline-28-ground-robots-one-largest-clashes-involving-UGVs-caught-camera.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-06T08:33:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "White House Outlines Broader European Security Plan Ahead Of Ukraine Peace Talks",
+      "url": "https://www.rferl.org/a/white-house-outlines-broader-european-security-plan-ahead-of-ukraine-peace-talks/33892135.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-11-06T07:37:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran war divides Republicans after midterm defeat",
+      "url": "https://www.hurriyetdailynews.com/iran-war-divides-republicans-after-midterm-defeat-229082",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-11-06T06:00:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Is the blank-check era ending? Kushnerâs peace push makes room for Russia",
+      "url": "https://www.naturalnews.com/2026-11-06-blank-check-ending-kushner-peace-russia.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-11-06T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump could woo North Korea after midterm setback, but Kim may not respond",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-could-woo-north-korea-after-midterm-setback-but-kim-may-not-respond/articleshow/135594629.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-06T05:06:42Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "Japan protests as Putin orders takeover of Japan Tobacco's Russia unit",
       "url": "https://www.business-standard.com/world-news/japan-protests-as-putin-orders-takeover-of-japan-tobacco-s-russia-unit-126110600441_1.html",
@@ -19,14 +107,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Sceptic on Climate, Conventional on Russia: A Review of ‘The Age of Error and the West’s Undoing’ by Rupert Darwall",
-      "url": "https://wattsupwiththat.com/2026/11/05/sceptic-on-climate-conventional-on-russia-a-review-of-the-age-of-error-and-the-wests-undoing-by-rupert-darwall/",
-      "source": "Wattsupwiththat.com",
-      "publishedAt": "2026-11-06T02:14:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official says",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-sent-nuclear-proposal-to-the-us-via-qatar-senior-iranian-official-says/articleshow/135590142.cms",
       "source": "The Times of India",
@@ -41,14 +121,6 @@
       "publishedAt": "2026-11-06T01:43:56Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Trump predicts deal with Russia on Ukraine and Europe",
-      "url": "https://www.rte.ie/news/2026/1106/1598206-trump-russia-ukraine/",
-      "source": "RTE",
-      "publishedAt": "2026-11-06T01:23:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "US-Iran Tensions Escalate as Israel Signals Possible New Offensive; Fears of Wider Regional War Mount",
@@ -75,14 +147,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Russia hawk appointed as Germany’s top commander",
-      "url": "https://rt-english.com/news/648491-russia-hawk-lead-german-forces/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-06T00:04:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Top US commander launches podcast joking about retirement — as Trump weighs next Iran move",
       "url": "https://nypost.com/2026/11/05/us-news/top-us-commander-launches-podcast-joking-about-retirement-as-trump-weighs-next-iran-move/",
       "source": "New York Post",
@@ -97,70 +161,6 @@
       "publishedAt": "2026-11-05T21:40:19Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Pentagon’s Own Intel Undercuts Claims Of Space Superiority Over Iran",
-      "url": "https://dailycaller.com/2026/11/05/pentagon-intel-iran-space-superiority-raises-questions",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-11-05T21:13:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Oil Rebounds After Sharp Iran War Selloff",
-      "url": "https://www.rigzone.com/news/wire/oil_rebounds_after_sharp_iran_war_selloff-05-nov-2026-185023-article/",
-      "source": "Rigzone",
-      "publishedAt": "2026-11-05T21:08:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Is Trump admin planning nuclear strike on Iran in wake of midterms? What we know",
-      "url": "https://www.snopes.com//news/2026/11/05/trump-iran-nuclear-strike/",
-      "source": "Snopes.com",
-      "publishedAt": "2026-11-05T18:58:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "War Comes to NATO’s Black Sea Coast, and Shipping Starts Saying No",
-      "url": "https://gcaptain.com/war-comes-to-natos-black-sea-coast-and-shipping-starts-saying-no/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-11-05T18:53:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Opinion: The U.S. should support Ukraine",
-      "url": "https://dailyutahchronicle.com/2026/11/05/opinion-the-u-s-should-support-ukraine/",
-      "source": "Dailyutahchronicle.com",
-      "publishedAt": "2026-11-05T18:03:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "War, Deal, Or Stalemate? What The Midterms Mean For Trump's Iran War",
-      "url": "https://www.rferl.org/a/iran-war-us-midterms-trump-options/33891689.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-11-05T16:43:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Presidential Advisor Valentin Naumescu says Putin will intensify attacks on Ukraine",
-      "url": "https://www.mediafax.ro/english/presidential-advisor-valentin-naumescu-says-putin-will-intensify-attacks-on-ukraine-23838119",
-      "source": "Mediafax.ro",
-      "publishedAt": "2026-11-05T12:09:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Democrats’ Power in the Lame-Duck Session",
-      "url": "https://prospect.org/2026/11/05/democrats-power-in-the-lame-duck-session/",
-      "source": "The American Prospect",
-      "publishedAt": "2026-11-05T10:30:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "If the Iran War is resumed, how will Hezbollah react?",

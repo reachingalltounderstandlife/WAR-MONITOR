@@ -1,7 +1,63 @@
 {
-  "updated": "2026-11-08T12:46:58Z",
-  "count": 22,
+  "updated": "2026-11-08T21:41:20Z",
+  "count": 23,
   "articles": [
+    {
+      "title": "Germany can’t spare more Patriots for Ukraine – defense minister",
+      "url": "https://rt-english.com/news/648549-germany-cant-spare-more-patriots-for-ukraine-defense-minister/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-07T20:59:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel Eliminates Senior Hamas Terror Commanders in Recent Strikes",
+      "url": "https://legalinsurrection.com/2026/11/israel-eliminates-senior-hamas-terror-commanders-in-recent-strikes/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-11-07T19:00:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why Trump lost; send in the clowns",
+      "url": "https://www.israelnationalnews.com/news/435810",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-07T19:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Military Chose a Strange Moment to Launch a Lifestyle Podcast",
+      "url": "https://www.motherjones.com/politics/2026/11/inside-centcom-podcast-lifestyle-military-war-iran-trump/",
+      "source": "Mother Jones",
+      "publishedAt": "2026-11-07T18:30:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran won’t surrender. Can Russia give Trump another way out?",
+      "url": "https://rt-english.com/news/648548-iran-russia-us-rezaei-putin/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-07T18:15:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Expanding on naval blockade, U.S. military looks to restrict Iranian land commerce",
+      "url": "https://www.yahoo.com/news/articles/exclusive-expanding-naval-blockade-us-133922238.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-07T16:51:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran’s IRGC says building underground sites for weapons production, storage",
+      "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-07T15:34:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Trump: We Carried Out 'Minor' Strikes on Iran",
       "url": "https://www.newser.com/story/399609/trump-we-carried-out-minor-strikes-on-iran.html",
@@ -59,38 +115,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
-      "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-07T08:45:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "State Dept. offers $20 million reward for information about Iran’s nuke program",
-      "url": "https://nypost.com/2026/11/07/us-news/state-dept-offers-20-million-reward-for-information-about-irans-nuke-program/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-07T05:16:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "If Trump Resumes attacking Iran, US and Europe will Pay an Extreme Price",
-      "url": "https://www.juancole.com/2026/11/resumes-attacking-extreme.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-11-07T05:06:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US offers $29m reward for details on Iran's nuclear program",
-      "url": "https://www.abc.net.au/news/2026-11-07/us-20-million-rewards-for-justice-iran-nuclear-program-details/107359156",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-11-07T03:27:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Rubio to visit France on first post-midterm foreign trip to face questions on Trump policies",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/rubio-to-visit-france-on-first-post-midterm-foreign-trip-to-face-questions-on-trump-policies/articleshow/135624263.cms",
       "source": "The Times of India",
@@ -127,22 +151,6 @@
       "url": "https://www.irishtimes.com/world/europe/2026/11/06/alarm-in-europe-over-us-plans-for-security-deal-with-russia/",
       "source": "The Irish Times",
       "publishedAt": "2026-11-06T19:18:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Prowling the coast of Scotland, sinister Kremlin spy ships that could plunge us ALL into darkness",
-      "url": "https://www.dailymail.com/news/article-16272563/Prowling-coast-Scotland-sinister-Kremlin-spy-ships-plunge-darkness.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-06T18:43:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Jared Kushner’s European security plan isn’t convincing Europe",
-      "url": "https://www.politico.eu/article/jared-kushner-european-security-plan-is-not-convincing-europe/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-11-06T17:58:32Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

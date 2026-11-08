@@ -1,44 +1,92 @@
 {
-  "updated": "2026-11-08T04:32:37Z",
-  "count": 23,
+  "updated": "2026-11-08T12:46:58Z",
+  "count": 22,
   "articles": [
+    {
+      "title": "Trump: We Carried Out 'Minor' Strikes on Iran",
+      "url": "https://www.newser.com/story/399609/trump-we-carried-out-minor-strikes-on-iran.html",
+      "source": "Newser",
+      "publishedAt": "2026-11-07T12:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+      "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-07T12:22:18Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+      "url": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-07T11:59:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Links 11/7/2026",
+      "url": "https://www.nakedcapitalism.com/2026/11/links-11-7-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-07T11:55:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The tank isn’t dead. The way it used to wage war might be.",
+      "url": "https://www.businessinsider.com/tanks-arent-dead-changing-role-warfare-ukraine-2026-11#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-11-07T11:47:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "MAPPED: How dozens of bomb threats caused flight chaos in Europe this week",
+      "url": "https://www.businessinsider.com/airline-bomb-threats-flight-chaos-europe-jets-scrambled-hybrid-warfare-2026-11#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-11-07T11:38:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Trump Should Still Talk to North Korea",
+      "url": "https://biztoc.com/x/ebc24f7fcc4e7847",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-07T10:05:27Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+      "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-07T08:45:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "State Dept. offers $20 million reward for information about Iran’s nuke program",
+      "url": "https://nypost.com/2026/11/07/us-news/state-dept-offers-20-million-reward-for-information-about-irans-nuke-program/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-07T05:16:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "If Trump Resumes attacking Iran, US and Europe will Pay an Extreme Price",
+      "url": "https://www.juancole.com/2026/11/resumes-attacking-extreme.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-11-07T05:06:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US offers $29m reward for details on Iran's nuclear program",
       "url": "https://www.abc.net.au/news/2026-11-07/us-20-million-rewards-for-justice-iran-nuclear-program-details/107359156",
       "source": "ABC News (AU)",
       "publishedAt": "2026-11-07T03:27:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump, Qatar's emir discuss West Asia de-escalation; 30 killed in Yemen",
-      "url": "https://www.business-standard.com/world-news/trump-qatar-s-emir-discuss-west-asia-de-escalation-30-killed-in-yemen-126110700034_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-07T03:10:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran reviewing Qatar's proposals on nuclear deal with US amid war",
-      "url": "https://www.business-standard.com/world-news/iran-reviewing-qatar-s-proposals-on-nuclear-deal-with-us-amid-war-126110700056_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-07T02:33:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US carries out fresh targeted strikes on Iran's air defences: Trump",
-      "url": "https://www.business-standard.com/world-news/us-carries-out-fresh-targeted-strikes-on-iran-s-air-defences-trump-126110700064_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-07T02:07:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump discusses West Asia de-escalation with Qatar's emir; at least 30 killed in airstrikes in Yemen",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-discusses-west-asia-de-escalation-with-qatars-emir-at-least-30-killed-in-airstrikes-in-yemen/articleshow/135624311.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-07T01:58:27Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -49,30 +97,6 @@
       "publishedAt": "2026-11-07T01:54:28Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "US military carries out new targeted strike on Iran as Tehran's leaders weigh mediator's proposals",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-military-carries-out-new-targeted-strike-on-iran-as-tehrans-leaders-weigh-mediators-proposals/articleshow/135624223.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-07T01:41:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran reviewing proposals on Tehran's nuclear programme, officials say",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-reviewing-proposals-on-tehrans-nuclear-programme-officials-say/articleshow/135624016.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-07T01:26:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ro Khanna Allies Push Him to Declare 2028 Bid, Emboldened by Progressive Midterm Surge",
-      "url": "https://www.commondreams.org/news/run-ro-khanna",
-      "source": "Common Dreams",
-      "publishedAt": "2026-11-06T21:05:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Midterm meltdown, horror in Ukraine, ceasefire breakthrough: RT coverage of the week’s key events",
@@ -91,28 +115,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Iran distributes iodine tablets amid fears of strike on Pickaxe Mountain",
-      "url": "https://www.israelnationalnews.com/news/435790",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-06T20:58:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Putin confirms date for trilateral Ukraine talks",
       "url": "https://rt-english.com/russia/648536-trilateral-ukraine-talks-putin/",
       "source": "Rt-english.com",
       "publishedAt": "2026-11-06T20:45:14Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Alarming satellite images show construction near Iran missile bases: report",
-      "url": "https://nypost.com/2026/11/06/world-news/alarming-satellite-images-show-construction-near-iran-missile-bases-report/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-06T20:40:38Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Alarm in Europe over US plans for ‘security deal’ with Russia",
@@ -135,22 +143,6 @@
       "url": "https://www.politico.eu/article/jared-kushner-european-security-plan-is-not-convincing-europe/",
       "source": "POLITICO.eu",
       "publishedAt": "2026-11-06T17:58:32Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump meets Putin envoy, says Ukraine peace deal could come very soon",
-      "url": "https://www.business-standard.com/world-news/trump-meets-putin-envoy-says-ukraine-peace-deal-could-come-very-soon-126110602047_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-06T17:30:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Poland’s Deployment Near Russia’s Kaliningrad Fuels European Militarization",
-      "url": "https://www.globalresearch.ca/poland-deployment-near-russia-kaliningrad-fuels-european-militarization/5945319",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-11-06T16:12:17Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },

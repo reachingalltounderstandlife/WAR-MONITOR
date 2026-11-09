@@ -1,7 +1,103 @@
 {
-  "updated": "2026-11-09T04:44:24Z",
-  "count": 16,
+  "updated": "2026-11-09T15:13:46Z",
+  "count": 21,
   "articles": [
+    {
+      "title": "Trump ‘holds all the cards’ in war against Iran’s regime, White House says",
+      "url": "https://www.foxnews.com/opinion/trump-holds-all-cards-war-against-irans-regime-white-house-says",
+      "source": "Fox News",
+      "publishedAt": "2026-11-08T15:13:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump ‘holds all the cards’ in war against Iran’s regime, White House says",
+      "url": "https://www.foxnews.com/politics/trump-holds-all-cards-war-against-irans-regime-white-house-says",
+      "source": "Fox News",
+      "publishedAt": "2026-11-08T15:13:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How Scott Adams built his empire of influence",
+      "url": "https://nypost.com/2026/11/08/opinion/how-scott-adams-built-his-empire-of-influence/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-08T15:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran Suggests Blasts Are Not US Attacks As Both Sides Report Ships Hit",
+      "url": "https://gcaptain.com/iran-suggests-blasts-are-not-us-attacks-as-both-sides-report-ships-hit/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-11-08T14:44:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran suggests blasts are not US attacks as both sides report ships hit",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-suggests-blasts-are-not-us-attacks-as-both-sides-report-ships-hit/article71681040.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-11-08T14:36:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Stephen Kinzer's case on US role in Ukraine meets a sovereignty caveat",
+      "url": "https://www.business-standard.com/book/stephen-kinzer-s-case-on-us-role-in-ukraine-meets-a-sovereignty-caveat-126110800542_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-08T14:18:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "British Soldier on Russian Border Blackmailed, Hacked After Failing to Remove SIM Card",
+      "url": "https://uk.pcmag.com/security/168299/british-soldier-on-russian-border-blackmailed-hacked-after-failing-to-remove-sim-card",
+      "source": "PCMag.com",
+      "publishedAt": "2026-11-08T12:53:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 11/8/2026",
+      "url": "https://www.nakedcapitalism.com/2026/11/links-11-8-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-08T11:55:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
+      "url": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-08T08:47:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "It Was All the Things",
+      "url": "https://pollvault.substack.com/p/it-was-all-the-things",
+      "source": "Substack.com",
+      "publishedAt": "2026-11-08T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Qatar’s Delicate Diplomacy: Mediating the U.S.-Iran Standoff Amid Hormuz Tensions",
+      "url": "https://www.naturalnews.com/2026-11-08-qatar-delicate-diplomacy-mediating-us-iran-standoff.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-11-08T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel slams Francesca Albanese's 'grotesque accusations' before Irish parliament",
+      "url": "https://www.israelnationalnews.com/news/435825",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-08T04:53:15Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "DeSantis criticizes Iran war: Regime change cannot be imposed by the US",
       "url": "https://www.israelnationalnews.com/news/435821",
@@ -19,30 +115,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran lifts ballistic missile range limit amid threats of war",
-      "url": "https://www.israelnationalnews.com/news/435820",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-08T01:06:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors",
-      "url": "https://nypost.com/2026/11/07/world-news/trump-confirms-fresh-us-strike-on-iran-defenses/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-07T23:02:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "MARK ALMOND: Humiliated Trump must now keep his nerve - and pound Tehran's blood-soaked mullahs into submission",
-      "url": "https://www.dailymail.com/news/article-16274625/Humiliated-Trump-nerve-pound-Tehrans-blood-soaked-mullahs-submission.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-07T22:00:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Germany can’t spare more Patriots for Ukraine – defense minister",
       "url": "https://rt-english.com/news/648549-germany-cant-spare-more-patriots-for-ukraine-defense-minister/",
       "source": "Rt-english.com",
@@ -55,8 +127,8 @@
       "url": "https://legalinsurrection.com/2026/11/israel-eliminates-senior-hamas-terror-commanders-in-recent-strikes/",
       "source": "Legalinsurrection.com",
       "publishedAt": "2026-11-07T19:00:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Why Trump lost; send in the clowns",
@@ -65,38 +137,6 @@
       "publishedAt": "2026-11-07T19:00:00Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "The Military Chose a Strange Moment to Launch a Lifestyle Podcast",
-      "url": "https://www.motherjones.com/politics/2026/11/inside-centcom-podcast-lifestyle-military-war-iran-trump/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-11-07T18:30:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran won’t surrender. Can Russia give Trump another way out?",
-      "url": "https://rt-english.com/news/648548-iran-russia-us-rezaei-putin/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-07T18:15:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Expanding on naval blockade, U.S. military looks to restrict Iranian land commerce",
-      "url": "https://www.yahoo.com/news/articles/exclusive-expanding-naval-blockade-us-133922238.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-07T16:51:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-      "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-07T15:34:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "The tank isn’t dead. The way it used to wage war might be.",

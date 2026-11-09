@@ -1,7 +1,47 @@
 {
-  "updated": "2026-11-08T21:41:20Z",
-  "count": 23,
+  "updated": "2026-11-09T04:44:24Z",
+  "count": 16,
   "articles": [
+    {
+      "title": "DeSantis criticizes Iran war: Regime change cannot be imposed by the US",
+      "url": "https://www.israelnationalnews.com/news/435821",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-08T02:04:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump offers £15million reward for intelligence on Iran's nuclear sites... despite telling the world they had been wiped out by bunker-busting bombs last year",
+      "url": "https://www.dailymail.com/news/article-16275069/Trump-offers-reward-intelligence-Iran-nuclear-sites-despite-bunker-busting-bombs.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-08T01:12:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran lifts ballistic missile range limit amid threats of war",
+      "url": "https://www.israelnationalnews.com/news/435820",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-08T01:06:09Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors",
+      "url": "https://nypost.com/2026/11/07/world-news/trump-confirms-fresh-us-strike-on-iran-defenses/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-07T23:02:51Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "MARK ALMOND: Humiliated Trump must now keep his nerve - and pound Tehran's blood-soaked mullahs into submission",
+      "url": "https://www.dailymail.com/news/article-16274625/Humiliated-Trump-nerve-pound-Tehrans-blood-soaked-mullahs-submission.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-07T22:00:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Germany can’t spare more Patriots for Ukraine – defense minister",
       "url": "https://rt-english.com/news/648549-germany-cant-spare-more-patriots-for-ukraine-defense-minister/",
@@ -59,38 +99,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump: We Carried Out 'Minor' Strikes on Iran",
-      "url": "https://www.newser.com/story/399609/trump-we-carried-out-minor-strikes-on-iran.html",
-      "source": "Newser",
-      "publishedAt": "2026-11-07T12:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-      "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-07T12:22:18Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
-      "url": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-07T11:59:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 11/7/2026",
-      "url": "https://www.nakedcapitalism.com/2026/11/links-11-7-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-07T11:55:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The tank isn’t dead. The way it used to wage war might be.",
       "url": "https://www.businessinsider.com/tanks-arent-dead-changing-role-warfare-ukraine-2026-11#article",
       "source": "Business Insider",
@@ -121,70 +129,6 @@
       "publishedAt": "2026-11-07T01:54:28Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
-    },
-    {
-      "title": "Midterm meltdown, horror in Ukraine, ceasefire breakthrough: RT coverage of the week’s key events",
-      "url": "https://rt-english.com/news/648527-rt-top-stories-midterms-trump-ukraine/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-06T21:04:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europe is gearing up for a future war Russia is already waging",
-      "url": "https://www.nrc.nl/nieuws/2026/11/06/europe-is-gearing-up-for-a-future-war-russia-is-already-waging-a4940691",
-      "source": "Www.nrc.nl",
-      "publishedAt": "2026-11-06T21:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin confirms date for trilateral Ukraine talks",
-      "url": "https://rt-english.com/russia/648536-trilateral-ukraine-talks-putin/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-06T20:45:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Alarm in Europe over US plans for ‘security deal’ with Russia",
-      "url": "https://www.irishtimes.com/world/europe/2026/11/06/alarm-in-europe-over-us-plans-for-security-deal-with-russia/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-06T19:18:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US, Iran weigh proposals as mediation efforts intensify",
-      "url": "https://www.hurriyetdailynews.com/us-iran-weigh-proposals-as-mediation-efforts-intensify-229103",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-11-06T11:17:28Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump could woo North Korea after midterm setback, but Kim may not respond",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-could-woo-north-korea-after-midterm-setback-but-kim-may-not-respond/articleshow/135594629.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-06T05:06:42Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official says",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-sent-nuclear-proposal-to-the-us-via-qatar-senior-iranian-official-says/articleshow/135590142.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-06T01:51:49Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "What are the 4 greatest threats to the survival of humanity?",
-      "url": "https://www.lifesciencesworld.com/what-are-the-4-greatest-threats-to-the-survival-of-humanity/",
-      "source": "Lifesciencesworld.com",
-      "publishedAt": "2026-11-06T00:10:24Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

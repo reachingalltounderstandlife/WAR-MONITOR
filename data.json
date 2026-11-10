@@ -1,7 +1,87 @@
 {
-  "updated": "2026-11-09T15:13:46Z",
-  "count": 21,
+  "updated": "2026-11-10T01:11:32Z",
+  "count": 16,
   "articles": [
+    {
+      "title": "Democrats, Please Take Note: Peace Is Good Politics",
+      "url": "https://original.antiwar.com/jeffrey_sachs/2026/11/08/democrats-please-take-note-peace-is-good-politics/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-11-09T00:00:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "60 Minutes Transcript: Trump, the 2026 post-midterms interview",
+      "url": "https://www.cbsnews.com/news/donald-trump-2026-post-midterm-elections-interview-60-minutes-transcript/",
+      "source": "CBS News",
+      "publishedAt": "2026-11-09T00:00:12Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Full transcript: Trump on 60 Minutes",
+      "url": "https://www.cbsnews.com/news/read-the-full-transcript-of-ross-douthats-interview-with-president-trump/",
+      "source": "CBS News",
+      "publishedAt": "2026-11-09T00:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran vows ‘astonishing’ strikes and lifts missile-range limit as US targets land routes",
+      "url": "https://www.foxnews.com/world/iran-vows-astonishing-strikes-lifts-missile-range-limit-us-targets-land-routes",
+      "source": "Fox News",
+      "publishedAt": "2026-11-08T23:08:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Iran strikes unlikely if peace talks keep moving",
+      "url": "https://www.dw.com/en/trump-says-iran-strikes-unlikely-if-peace-talks-keep-moving/a-79894190",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-08T20:55:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran: Trump says strikes unlikely if peace talks keep moving",
+      "url": "https://www.dw.com/en/iran-trump-says-strikes-unlikely-if-peace-talks-keep-moving/a-79894190",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-08T20:55:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+      "source": "NPR",
+      "publishedAt": "2026-11-08T19:25:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Washington blinked. Now Israel enters the Blame Game",
+      "url": "https://www.israelnationalnews.com/news/435863",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-08T19:05:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel threatens Iran yet again",
+      "url": "https://rt-english.com/news/648580-israel-new-threat-against-iran/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-08T17:14:45Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iranians Rise Up For Pahlavi - Islamists & Leftists Target Anti-IRGC Rally In Frankfurt",
+      "url": "https://freerepublic.com/focus/f-news/4402278/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-11-08T16:07:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Trump ‘holds all the cards’ in war against Iran’s regime, White House says",
       "url": "https://www.foxnews.com/opinion/trump-holds-all-cards-war-against-irans-regime-white-house-says",
@@ -27,22 +107,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Iran Suggests Blasts Are Not US Attacks As Both Sides Report Ships Hit",
-      "url": "https://gcaptain.com/iran-suggests-blasts-are-not-us-attacks-as-both-sides-report-ships-hit/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-11-08T14:44:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran suggests blasts are not US attacks as both sides report ships hit",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-suggests-blasts-are-not-us-attacks-as-both-sides-report-ships-hit/article71681040.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-11-08T14:36:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Stephen Kinzer's case on US role in Ukraine meets a sovereignty caveat",
       "url": "https://www.business-standard.com/book/stephen-kinzer-s-case-on-us-role-in-ukraine-meets-a-sovereignty-caveat-126110800542_1.html",
       "source": "Business Standard",
@@ -59,116 +123,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Links 11/8/2026",
-      "url": "https://www.nakedcapitalism.com/2026/11/links-11-8-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-08T11:55:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
-      "url": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-08T08:47:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "It Was All the Things",
-      "url": "https://pollvault.substack.com/p/it-was-all-the-things",
-      "source": "Substack.com",
-      "publishedAt": "2026-11-08T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Qatar’s Delicate Diplomacy: Mediating the U.S.-Iran Standoff Amid Hormuz Tensions",
-      "url": "https://www.naturalnews.com/2026-11-08-qatar-delicate-diplomacy-mediating-us-iran-standoff.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-08T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Israel slams Francesca Albanese's 'grotesque accusations' before Irish parliament",
       "url": "https://www.israelnationalnews.com/news/435825",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-11-08T04:53:15Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "DeSantis criticizes Iran war: Regime change cannot be imposed by the US",
-      "url": "https://www.israelnationalnews.com/news/435821",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-08T02:04:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump offers £15million reward for intelligence on Iran's nuclear sites... despite telling the world they had been wiped out by bunker-busting bombs last year",
-      "url": "https://www.dailymail.com/news/article-16275069/Trump-offers-reward-intelligence-Iran-nuclear-sites-despite-bunker-busting-bombs.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-08T01:12:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Germany can’t spare more Patriots for Ukraine – defense minister",
-      "url": "https://rt-english.com/news/648549-germany-cant-spare-more-patriots-for-ukraine-defense-minister/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-07T20:59:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel Eliminates Senior Hamas Terror Commanders in Recent Strikes",
-      "url": "https://legalinsurrection.com/2026/11/israel-eliminates-senior-hamas-terror-commanders-in-recent-strikes/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-11-07T19:00:54Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Why Trump lost; send in the clowns",
-      "url": "https://www.israelnationalnews.com/news/435810",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-07T19:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The tank isn’t dead. The way it used to wage war might be.",
-      "url": "https://www.businessinsider.com/tanks-arent-dead-changing-role-warfare-ukraine-2026-11#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-11-07T11:47:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "MAPPED: How dozens of bomb threats caused flight chaos in Europe this week",
-      "url": "https://www.businessinsider.com/airline-bomb-threats-flight-chaos-europe-jets-scrambled-hybrid-warfare-2026-11#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-11-07T11:38:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Why Trump Should Still Talk to North Korea",
-      "url": "https://biztoc.com/x/ebc24f7fcc4e7847",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-07T10:05:27Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Rubio to visit France on first post-midterm foreign trip to face questions on Trump policies",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/rubio-to-visit-france-on-first-post-midterm-foreign-trip-to-face-questions-on-trump-policies/articleshow/135624263.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-07T01:54:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     }
   ]
 }

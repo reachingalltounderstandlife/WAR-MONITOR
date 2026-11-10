@@ -1,7 +1,151 @@
 {
-  "updated": "2026-11-10T14:21:40Z",
-  "count": 22,
+  "updated": "2026-11-10T22:51:08Z",
+  "count": 25,
   "articles": [
+    {
+      "title": "Farley Weiss: \"The Jewish People Are Too Much on the Defensive\"",
+      "url": "https://www.israelnationalnews.com/news/435925",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-09T22:26:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran vows to ‘rain down hell’ if US escalates war",
+      "url": "https://rt-english.com/news/648615-iran-us-war-threat-hormuz/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-09T21:54:02Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Former NATO Commander: Putin Wants China to Take Asia, Russia to Take Europe and America to Stay Home",
+      "url": "https://www.thegatewaypundit.com/2026/11/former-nato-commander-putin-wants-china-take-asia/",
+      "source": "Thegatewaypundit.com",
+      "publishedAt": "2026-11-09T21:40:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Aggression Against Iran Has Been Bipartisan. Will Midterm Results Change That?",
+      "url": "https://truthout.org/articles/aggression-against-iran-has-been-bipartisan-will-midterm-results-change-that/",
+      "source": "Truthout",
+      "publishedAt": "2026-11-09T21:05:23Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Rubio's defense of Trump's Iran war draws sharp contrast with Vance's midterm blame",
+      "url": "https://www.foxnews.com/politics/rubios-defense-trumps-iran-war-draws-sharp-contrast-vances-midterm-blame",
+      "source": "Fox News",
+      "publishedAt": "2026-11-09T20:42:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Is This The ‘Second Coming’ Of The US-Russia Detente?",
+      "url": "https://dailycaller.com/2026/11/09/opinion-us-russia-detente-stephen-james-hubbard-kenneth-rapoza",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-11-09T19:06:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia-US-Ukraine trilateral: what you need to know about the talks that could define Europe’s security architecture",
+      "url": "https://rt-english.com/russia/648600-russia-us-ukraine-trilateral/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-09T18:43:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia-Ukraine peace talks: In Abu Dhabi, US to look for security guarantees for both",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/russia-ukraine-peace-talks-in-abu-dhabi-us-to-look-for-security-guarantees-for-both/articleshow/135690919.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-09T18:16:14Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UN Report Highlights North Korea’s Deepening Repression",
+      "url": "https://www.hrw.org/news/2026/11/09/un-report-highlights-north-koreas-deepening-repression",
+      "source": "Human Rights Watch",
+      "publishedAt": "2026-11-09T18:01:26Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "G7 allies assess Trump's midterm setback at Paris talks on global crises",
+      "url": "https://www.business-standard.com/world-news/g7-allies-assess-trump-s-midterm-setback-at-paris-talks-on-global-crises-126110901586_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-09T17:46:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Volodymyr Zelensky Claims Russia Attacking Ukraine with North Korean Missiles",
+      "url": "https://www.breitbart.com/national-security/2026/11/09/volodymyr-zelensky-claims-russia-attacking-ukraine-with-north-korean-missiles/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-11-09T17:24:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "G7 Talks in Paris Try to Tackle Unresolved Global Crises With Uncertainty High Over the US Approach",
+      "url": "https://military.com/g7-talks-in-paris-try-to-tackle-unresolved-global-crises-with-uncertainty-high-over-the-us-approach",
+      "source": "Military.com",
+      "publishedAt": "2026-11-09T16:56:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Nuclear war fears rise as radiation drug is distributed to Iranians living near US strike targets",
+      "url": "https://www.dailymail.com/sciencetech/article-16278337/nuclear-war-iran-radiation-drug-distribution.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-09T16:32:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "After Midterm Failure, Trump’s Foreign Strategy May Be Even More Dangerous",
+      "url": "https://oilprice.com/Geopolitics/Middle-East/After-Midterm-Failure-Trumps-Foreign-Strategy-May-Be-Even-More-Dangerous.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-11-09T16:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A Short History of Ukraine and Russia",
+      "url": "https://www.globalresearch.ca/short-history-ukraine-russia/5945040",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-11-09T15:36:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-09T15:31:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "10 Reasons Hakeem Jeffries Should Not Be the Next Speaker of the House",
+      "url": "https://www.globalresearch.ca/10-reasons-hakeem-jeffries-should-not-next-speaker-house/5945489",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-11-09T15:27:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran stands by demands to end the war as US ramps up military pressure",
+      "url": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-09T14:39:32Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Trump Makes Explosive Declaration on Israel: “Israel Would Not Exist Except for Donald Trump” — Defends Devastating B-2 Bomber Strikes on Iran and Demands Allies Repay America (VIDEO)",
       "url": "https://www.thegatewaypundit.com/2026/11/trump-makes-explosive-declaration-israel-israel-would-not/",
@@ -35,130 +179,10 @@
       "_label": "Iran War"
     },
     {
-      "title": "Can Trump broker peace in Ukraine? The key questions ahead of Abu Dhabi talks",
-      "url": "https://www.irishtimes.com/world/europe/2026/11/09/can-trump-broker-peace-in-ukraine-the-key-questions-ahead-of-abu-dhabi-talks/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-09T12:34:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "400,000 Russians have been killed in Ukraine, with the death rate accelerating, data hack reveals",
-      "url": "https://www.dailymail.com/news/article-16277947/400-000-Russians-killed-Ukraine-death-rate-accelerating-data-hack-reveals.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-09T12:21:48Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Links 11/9/2026",
       "url": "https://www.nakedcapitalism.com/2026/11/links-11-9-2026.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-11-09T11:55:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "A day before US-brokered talks, Russia and Ukraine batter each other with long-range strikes",
-      "url": "https://economictimes.indiatimes.com/news/defence/a-day-before-us-brokered-talks-russia-and-ukraine-batter-each-other-with-long-range-strikes/articleshow/135680214.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-09T11:22:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran War: Trump Signals No Big Attack in CBS Interview; Barmy CENTCOM “Iron Gate” Plan Proof of Weakness or Perhaps Cover for Iraq Ground Operation?",
-      "url": "https://www.nakedcapitalism.com/2026/11/iran-war-trump-signals-no-big-attack-in-cbs-interview-barmy-centcom-iron-gate-plan-proof-of-weakness-or-perhaps-cover-for-iraq-ground-operation.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-09T11:20:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides",
-      "url": "https://abcnews.com/International/wireStory/us-led-peace-talks-russia-ukraine-security-guarantees-137966016",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-11-09T11:15:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Black Sea Is Now World’s Most Dangerous Waterway: NATO Pushes Militarization, Will Türkiye Relent?",
-      "url": "https://www.nakedcapitalism.com/2026/11/black-sea-is-now-worlds-most-dangerous-waterway-nato-pushes-militarization-will-turkiye-relent.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-09T11:00:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "He fought France's far right for half a century. Now Mélenchon's presidential bid may hand it power",
-      "url": "https://abcnews.com/International/wireStory/fought-frances-half-century-now-mlenchons-presidential-bid-137966011",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-11-09T10:07:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia, Ukraine, US set for peace talks",
-      "url": "https://www.hurriyetdailynews.com/russia-ukraine-us-set-for-peace-talks-229188",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-11-09T10:04:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran’s authorities harden domestic security controls amid US strike threats",
-      "url": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-09T09:56:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukrainian drone attack sets Russia's Kirishi refinery ablaze",
-      "url": "https://www.abc.net.au/news/2026-11-09/ukrainian-drone-attack-at-russia-kirishi-refinery-woman-dies/107365888",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-11-09T09:22:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump’s 60 Minutes interview: Election defeat, mass deportations, Ukraine, Iran, business interests and UFOs",
-      "url": "https://en.protothema.gr/2026/11/09/trumps-60-minutes-interview-election-defeat-mass-deportations-ukraine-iran-business-interests-and-ufos/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-11-09T06:55:24Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S. Midterm Elections Expose Eroding Bipartisan Support for Israel as Debate Over Military Aid Intensifies",
-      "url": "https://www.naturalnews.com/2026-11-09-midterm-elections-eroding-bipartisan-support-for-israel.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-09T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Third Carrier Is the Tell: Why I Believe Trump Is About to Light the World on Fire Over Iran",
-      "url": "https://www.naturalnews.com/2026-11-09-the-third-carrier-is-the-tell.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-09T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia Excludes Europe from Ukraine Negotiations, Threatens Strikes on NATO Nations",
-      "url": "https://www.naturalnews.com/2026-11-09-russia-excludes-europe-ukraine-negotiations-threatens-nato-nations.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-09T06:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump defends Hegseth amid impeachment push, calls him 'most responsible for the war' in Iran",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-defends-hegseth-amid-impeachment-push-calls-him-most-responsible-for-the-war-in-iran/articleshow/135672564.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-09T05:57:06Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

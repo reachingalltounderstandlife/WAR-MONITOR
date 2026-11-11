@@ -1,118 +1,190 @@
 {
-  "updated": "2026-11-11T04:47:10Z",
-  "count": 24,
+  "updated": "2026-11-11T13:35:14Z",
+  "count": 27,
   "articles": [
+    {
+      "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
+      "url": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-10T12:56:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Blue Wave—III",
+      "url": "https://www.nybooks.com/online/2026/11/10/the-blue-wave-iii/",
+      "source": "The New York Review of Books",
+      "publishedAt": "2026-11-10T12:45:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi/articleshow/135709980.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-10T11:55:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Maduro and the U.S. midterm elections",
+      "url": "https://peoplesreview.com.np/2026/11/10/maduro-and-the-u-s-midterm-elections/",
+      "source": "Peoplesreview.com.np",
+      "publishedAt": "2026-11-10T11:27:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "L'Ukraine, la Russie et les États-Unis reprennent des pourparlers de paix trilatéraux à Abou Dabi après une interruption de neuf mois (Anglais)",
+      "url": "https://kyivindependent.com/ukraine-russia-us-resume-trilateral-peace-talks-in-abu-dhabi-after-9-month-pause/",
+      "source": "Kyivindependent.com",
+      "publishedAt": "2026-11-10T11:24:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kushner enters Ukraine peace talks as Trump eyes securing safeguards against another Russian invasion",
+      "url": "https://www.foxnews.com/politics/kushner-enters-ukraine-peace-talks-trump-eyes-securing-safeguards-against-another-russian-invasion",
+      "source": "Fox News",
+      "publishedAt": "2026-11-10T11:24:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S.-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+      "url": "https://www.npr.org/2026/11/10/g-s1-152773/russia-ukraine-war-talks",
+      "source": "NPR",
+      "publishedAt": "2026-11-10T10:58:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Representative Thomas Massie Introduces Impeachment Articles Against Pete Hegseth",
+      "url": "https://www.nakedcapitalism.com/2026/11/representative-thomas-massie-introduces-impeachment-articles-against-pete-hegseth.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-10T10:45:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Brent crude falls below $90 for first time since August on Iran war de-escalation hopes",
+      "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
+      "source": "CNBC",
+      "publishedAt": "2026-11-10T10:38:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Sees 'Real Shot' At Ukraine Peace Progress As Abu Dhabi Talks Begin",
+      "url": "https://www.rferl.org/a/us-ukraine-peace-abu-dhabi-talks-russia-witkoff/33894497.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-11-10T10:24:37Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US-mediated talks on ending Russia-Ukraine war begin in Abu Dhabi",
+      "url": "https://nypost.com/2026/11/10/world-news/us-mediated-talks-on-ending-russia-ukraine-war-begin-in-abu-dhabi/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-10T10:24:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S.-mediated talks between Russia and Ukraine begin in Abu Dhabi",
+      "url": "https://www.cbc.ca/news/world/talks-between-russia-and-ukraine-begin-in-abu-dhabi-9.7416014",
+      "source": "CBC News",
+      "publishedAt": "2026-11-10T09:57:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S.-Mediated Talks On Ending Russia-Ukraine War Begin In Abu Dhabi",
+      "url": "https://www.huffpost.com/entry/russia-ukraine-us-abu-dhabi-talks_n_6af2e591e4b0a8468d8a807d",
+      "source": "HuffPost",
+      "publishedAt": "2026-11-10T09:45:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Holds Off Strikes after Qatari Mediation",
+      "url": "https://www.rigzone.com/news/wire/us_holds_off_strikes_after_qatari_mediation-10-nov-2026-185048-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-11-10T09:42:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Streeting warns Putin could trigger world war by mistake as he calls for military-level communications with Russia to help avoid 'miscalculation'",
+      "url": "https://www.dailymail.com/news/article-16280603/Streeting-Putin-trigger-world-war-mistake-communications-Russia.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-10T09:25:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia, Ukraine and US meet for Abu Dhabi talks as Trump says war can 'end soon'",
+      "url": "https://abcnews.com/International/russia-ukraine-us-meet-abu-dhabi-talks-trump/story?id=137970621",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-11-10T09:21:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Congressman files resolution to impeach Defence Secretary Hegseth",
+      "url": "https://peoplesreview.com.np/2026/11/10/us-congressman-files-resolution-to-impeach-defence-secretary-hegseth/",
+      "source": "Peoplesreview.com.np",
+      "publishedAt": "2026-11-10T09:20:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia-Ukraine peace talks begin in Abu Dhabi",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/10/russia-ukraine-peace-talks-begin-in-abu-dhabi/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-10T09:05:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korean defectors see Kim Jong Un’s daughter as heir apparent: ‘Like gods reigning over humans’",
+      "url": "https://nypost.com/2026/11/10/world-news/north-korean-defectors-see-kim-jong-uns-daughter-as-heir-apparent/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-10T09:00:22Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Gas prices drop below $4 a gallon after months of pain at the pump",
+      "url": "https://finance.yahoo.com/energy/articles/us-gasoline-prices-drop-below-083950459.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-10T08:39:50Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "‘Like gods reigning over humans’: Many defectors see daughter of North Korea's Kim as heir apparent",
+      "url": "https://abcnews.com/International/wireStory/gods-reigning-humans-defectors-daughter-north-koreas-kim-137999978",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-11-10T06:16:10Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "Trump says Iran war is 'effectively over': How the conflict unfolded",
       "url": "https://www.business-standard.com/world-news/trump-says-iran-war-is-effectively-over-how-the-conflict-unfolded-126111000144_1.html",
       "source": "Business Standard",
       "publishedAt": "2026-11-10T04:17:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump signals end of Iran war, says further airstrikes won't be necessary",
-      "url": "https://www.business-standard.com/world-news/trump-signals-ending-iran-war-says-further-airstrikes-won-t-be-necessary-126111000125_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-10T03:55:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump: Iran War ‘Effectively Over’ Militarily — Renewed Offensive ‘Quite Unlikely’",
-      "url": "https://www.breitbart.com/politics/2026/11/09/trump-iran-war-effectively-over-militarily-renewed-offensive-quite-unlikely/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-11-10T02:44:49Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Report: Netanyahu pressing Trump for renewed Iran strikes",
-      "url": "https://www.israelnationalnews.com/news/435928",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-10T01:47:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia, Ukraine meet for US-backed talks in Abu Dhabi",
-      "url": "https://www.rte.ie/news/ukraine/2026/1110/1598616-ukraine-russia/",
-      "source": "RTE",
-      "publishedAt": "2026-11-10T01:35:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia, Ukraine meet for US-backed talks in Abu Dhabi",
-      "url": "https://www.rte.ie/news/ukraine/2026/1110/1598616-ukraine-russia-world/",
-      "source": "RTE",
-      "publishedAt": "2026-11-10T01:35:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Pete Hegseth's downfall begins: 'Stubborn' defense secretary believes God wants him to run the Pentagon... but insiders holding a lethal dossier of secrets are 'giddy' with excitement as his path to destruction is revealed",
-      "url": "https://www.dailymail.com/news/us-politics/article-16269375/pete-hegseth-defense-secretary-downfall-dossier.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-10T00:00:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The October 7 attack and Hamas nuclear logic",
       "url": "https://www.hoover.org/research/october-7-attack-and-hamas-nuclear-logic",
       "source": "Hoover.org",
       "publishedAt": "2026-11-10T00:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
-      "url": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-09T23:53:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
-      "url": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734",
-      "source": "DW (English)",
-      "publishedAt": "2026-11-09T23:46:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Rep Thomas Massie of Kentucky launches bid to impeach Defense Secretary Pete Hegseth",
-      "url": "https://www.thehindubusinessline.com/news/world/rep-thomas-massie-of-kentucky-launches-bid-to-impeach-defense-secretary-pete-hegseth/article71684127.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-11-09T23:43:58Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Congress vs. Hegseth",
-      "url": "https://www.theatlantic.com/podcasts/2026/11/ra-iran-fallout/689349/?utm_source=feed",
-      "source": "The Atlantic",
-      "publishedAt": "2026-11-09T23:33:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Farley Weiss: \"The Jewish People Are Too Much on the Defensive\"",
-      "url": "https://www.israelnationalnews.com/news/435925",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-09T22:26:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Former NATO Commander: Putin Wants China to Take Asia, Russia to Take Europe and America to Stay Home",
-      "url": "https://www.thegatewaypundit.com/2026/11/former-nato-commander-putin-wants-china-take-asia/",
-      "source": "Thegatewaypundit.com",
-      "publishedAt": "2026-11-09T21:40:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Aggression Against Iran Has Been Bipartisan. Will Midterm Results Change That?",
@@ -123,60 +195,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Is This The ‘Second Coming’ Of The US-Russia Detente?",
-      "url": "https://dailycaller.com/2026/11/09/opinion-us-russia-detente-stephen-james-hubbard-kenneth-rapoza",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-11-09T19:06:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia-US-Ukraine trilateral: what you need to know about the talks that could define Europe’s security architecture",
-      "url": "https://rt-english.com/russia/648600-russia-us-ukraine-trilateral/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-09T18:43:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia-Ukraine peace talks: In Abu Dhabi, US to look for security guarantees for both",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/russia-ukraine-peace-talks-in-abu-dhabi-us-to-look-for-security-guarantees-for-both/articleshow/135690919.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-09T18:16:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "UN Report Highlights North Korea’s Deepening Repression",
       "url": "https://www.hrw.org/news/2026/11/09/un-report-highlights-north-koreas-deepening-repression",
       "source": "Human Rights Watch",
       "publishedAt": "2026-11-09T18:01:26Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "G7 allies assess Trump's midterm setback at Paris talks on global crises",
-      "url": "https://www.business-standard.com/world-news/g7-allies-assess-trump-s-midterm-setback-at-paris-talks-on-global-crises-126110901586_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-09T17:46:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Volodymyr Zelensky Claims Russia Attacking Ukraine with North Korean Missiles",
-      "url": "https://www.breitbart.com/national-security/2026/11/09/volodymyr-zelensky-claims-russia-attacking-ukraine-with-north-korean-missiles/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-11-09T17:24:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "G7 Talks in Paris Try to Tackle Unresolved Global Crises With Uncertainty High Over the US Approach",
-      "url": "https://military.com/g7-talks-in-paris-try-to-tackle-unresolved-global-crises-with-uncertainty-high-over-the-us-approach",
-      "source": "Military.com",
-      "publishedAt": "2026-11-09T16:56:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "The Danger of Making Military Pressure the New Normal Around Taiwan",

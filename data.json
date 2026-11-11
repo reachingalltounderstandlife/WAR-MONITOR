@@ -1,20 +1,108 @@
 {
-  "updated": "2026-11-10T22:51:08Z",
-  "count": 25,
+  "updated": "2026-11-11T04:47:10Z",
+  "count": 24,
   "articles": [
+    {
+      "title": "Trump says Iran war is 'effectively over': How the conflict unfolded",
+      "url": "https://www.business-standard.com/world-news/trump-says-iran-war-is-effectively-over-how-the-conflict-unfolded-126111000144_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-10T04:17:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump signals end of Iran war, says further airstrikes won't be necessary",
+      "url": "https://www.business-standard.com/world-news/trump-signals-ending-iran-war-says-further-airstrikes-won-t-be-necessary-126111000125_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-10T03:55:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump: Iran War ‘Effectively Over’ Militarily — Renewed Offensive ‘Quite Unlikely’",
+      "url": "https://www.breitbart.com/politics/2026/11/09/trump-iran-war-effectively-over-militarily-renewed-offensive-quite-unlikely/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-11-10T02:44:49Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Report: Netanyahu pressing Trump for renewed Iran strikes",
+      "url": "https://www.israelnationalnews.com/news/435928",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-10T01:47:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia, Ukraine meet for US-backed talks in Abu Dhabi",
+      "url": "https://www.rte.ie/news/ukraine/2026/1110/1598616-ukraine-russia/",
+      "source": "RTE",
+      "publishedAt": "2026-11-10T01:35:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia, Ukraine meet for US-backed talks in Abu Dhabi",
+      "url": "https://www.rte.ie/news/ukraine/2026/1110/1598616-ukraine-russia-world/",
+      "source": "RTE",
+      "publishedAt": "2026-11-10T01:35:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pete Hegseth's downfall begins: 'Stubborn' defense secretary believes God wants him to run the Pentagon... but insiders holding a lethal dossier of secrets are 'giddy' with excitement as his path to destruction is revealed",
+      "url": "https://www.dailymail.com/news/us-politics/article-16269375/pete-hegseth-defense-secretary-downfall-dossier.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-10T00:00:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The October 7 attack and Hamas nuclear logic",
+      "url": "https://www.hoover.org/research/october-7-attack-and-hamas-nuclear-logic",
+      "source": "Hoover.org",
+      "publishedAt": "2026-11-10T00:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
+      "url": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-09T23:53:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+      "url": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-09T23:46:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Rep Thomas Massie of Kentucky launches bid to impeach Defense Secretary Pete Hegseth",
+      "url": "https://www.thehindubusinessline.com/news/world/rep-thomas-massie-of-kentucky-launches-bid-to-impeach-defense-secretary-pete-hegseth/article71684127.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-11-09T23:43:58Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Congress vs. Hegseth",
+      "url": "https://www.theatlantic.com/podcasts/2026/11/ra-iran-fallout/689349/?utm_source=feed",
+      "source": "The Atlantic",
+      "publishedAt": "2026-11-09T23:33:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Farley Weiss: \"The Jewish People Are Too Much on the Defensive\"",
       "url": "https://www.israelnationalnews.com/news/435925",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-11-09T22:26:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran vows to ‘rain down hell’ if US escalates war",
-      "url": "https://rt-english.com/news/648615-iran-us-war-threat-hormuz/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-09T21:54:02Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -33,14 +121,6 @@
       "publishedAt": "2026-11-09T21:05:23Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Rubio's defense of Trump's Iran war draws sharp contrast with Vance's midterm blame",
-      "url": "https://www.foxnews.com/politics/rubios-defense-trumps-iran-war-draws-sharp-contrast-vances-midterm-blame",
-      "source": "Fox News",
-      "publishedAt": "2026-11-09T20:42:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Is This The ‘Second Coming’ Of The US-Russia Detente?",
@@ -99,62 +179,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Nuclear war fears rise as radiation drug is distributed to Iranians living near US strike targets",
-      "url": "https://www.dailymail.com/sciencetech/article-16278337/nuclear-war-iran-radiation-drug-distribution.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-09T16:32:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "After Midterm Failure, Trump’s Foreign Strategy May Be Even More Dangerous",
-      "url": "https://oilprice.com/Geopolitics/Middle-East/After-Midterm-Failure-Trumps-Foreign-Strategy-May-Be-Even-More-Dangerous.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-11-09T16:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A Short History of Ukraine and Russia",
-      "url": "https://www.globalresearch.ca/short-history-ukraine-russia/5945040",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-11-09T15:36:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-09T15:31:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "10 Reasons Hakeem Jeffries Should Not Be the Next Speaker of the House",
-      "url": "https://www.globalresearch.ca/10-reasons-hakeem-jeffries-should-not-next-speaker-house/5945489",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-11-09T15:27:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran stands by demands to end the war as US ramps up military pressure",
-      "url": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-09T14:39:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Makes Explosive Declaration on Israel: “Israel Would Not Exist Except for Donald Trump” — Defends Devastating B-2 Bomber Strikes on Iran and Demands Allies Repay America (VIDEO)",
-      "url": "https://www.thegatewaypundit.com/2026/11/trump-makes-explosive-declaration-israel-israel-would-not/",
-      "source": "Thegatewaypundit.com",
-      "publishedAt": "2026-11-09T14:15:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Danger of Making Military Pressure the New Normal Around Taiwan",
       "url": "https://english.khabarhub.com/2026/09/575070/",
       "source": "Khabarhub.com",
@@ -167,38 +191,6 @@
       "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis",
       "source": "Al Jazeera English",
       "publishedAt": "2026-11-09T13:15:27Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Monday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/11/09/monday-hili-dialogue-594/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-11-09T12:45:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 11/9/2026",
-      "url": "https://www.nakedcapitalism.com/2026/11/links-11-9-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-09T11:55:53Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How Scott Adams built his empire of influence",
-      "url": "https://nypost.com/2026/11/08/opinion/how-scott-adams-built-his-empire-of-influence/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-08T15:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Israel slams Francesca Albanese's 'grotesque accusations' before Irish parliament",
-      "url": "https://www.israelnationalnews.com/news/435825",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-08T04:53:15Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

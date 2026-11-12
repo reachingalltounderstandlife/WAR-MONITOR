@@ -1,7 +1,135 @@
 {
-  "updated": "2026-11-12T14:38:59Z",
-  "count": 29,
+  "updated": "2026-11-12T23:13:38Z",
+  "count": 31,
   "articles": [
+    {
+      "title": "Abu Dhabi Talks Advance Diplomacy, Not Peace, as Russia Seeks Wider Security Bargain",
+      "url": "https://www.rferl.org/a/33895568.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-11-11T23:08:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "MARK ALMOND: I fear Trump's summit with Putin and Xi next week will be like Yalta in 1945 when three leaders carved up the world",
+      "url": "https://www.dailymail.com/news/article-16285627/Trumps-summit-Putin-Xi-Yalta-1945.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-11T23:00:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Podcast – Scott Horton – AIPAC, Israel & The War Machine: Who Really Drives U.S. Foreign Policy",
+      "url": "https://activistpost.com/podcast-scott-horton-aipac-israel-the-war-machine-who-really-drives-u-s-foreign-policy/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-11-11T23:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Fear united Europe. Nationalism may tear it apart",
+      "url": "https://www.nrc.nl/nieuws/2026/11/11/fear-united-europe-nationalism-may-tear-it-apart-a4940709",
+      "source": "Www.nrc.nl",
+      "publishedAt": "2026-11-11T21:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S. Asks Russia for New Security Agreement with Europe",
+      "url": "https://politicalwire.com/2026/11/11/u-s-asks-russia-for-new-security-agreement-with-europe/",
+      "source": "Politicalwire.com",
+      "publishedAt": "2026-11-11T20:40:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran security chief threatens US bases in Europe if used for strikes",
+      "url": "https://punchng.com/iran-security-chief-threatens-us-bases-in-europe-if-used-for-strikes/",
+      "source": "The Punch",
+      "publishedAt": "2026-11-11T20:23:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Charges 3 Men With Plotting Terror Attacks, Including Planned Assault on UK Air Base",
+      "url": "https://military.com/us-charges-3-men-with-plotting-terror-attacks-including-planned-assault-on-uk-air-base",
+      "source": "Military.com",
+      "publishedAt": "2026-11-11T17:45:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Can Iran attack Israel with its own Operation Spiderweb?",
+      "url": "https://www.haaretz.com/israel-news/security-aviation/2026-11-11/ty-article-magazine/drones-from-within-could-iran-launch-its-own-operation-spiderweb-in-israel/000001a1-bffe-d7bb-a7a5-ffff7e900000",
+      "source": "Haaretz",
+      "publishedAt": "2026-11-11T17:16:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran threatens strikes on US bases in Europe",
+      "url": "https://www.rte.ie/news/middle-east/2026/1111/1598872-iran-middle-east/",
+      "source": "RTE",
+      "publishedAt": "2026-11-11T17:06:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-11T16:45:11Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran threatens strikes on US bases in Europe and stands firm over enriched uranium",
+      "url": "https://en.protothema.gr/2026/11/11/iran-threatens-strikes-on-us-bases-in-europe-and-stands-firm-over-enriched-uranium/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-11-11T16:18:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IRAN VOWS TO KEEP URANIUM",
+      "url": "https://www.yahoo.com/news/articles/iran-not-allow-enriched-nuclear-102614440.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-11T15:25:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia, Ukraine agree to large prisoner exchange as talks conclude with no major breakthrough",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/russia-ukraine-agree-to-large-prisoner-exchange-as-talks-conclude-with-no-major-breakthrough/articleshow/135741850.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-11T15:15:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "France fears Germany could trigger nuclear war – FT",
+      "url": "https://rt-english.com/news/648708-germany-france-ukraine-nuclear/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-11T15:00:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Inside the Korean DMZ: Reporting from the border where the war never ended",
+      "url": "https://en.protothema.gr/2026/11/11/inside-the-korean-dmz-reporting-from-the-border-where-the-war-never-ended/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-11-11T14:58:08Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Obsolete and Overdue: Withdrawing US Forces from the Gulf",
+      "url": "https://www.globalresearch.ca/withdrawing-us-forces-gulf/5945652",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-11-11T14:54:36Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US envoys to meet Putin after Ukraine talks in Abu Dhabi",
       "url": "https://www.channelnewsasia.com/world/russia-ukraine-abu-dhabi-talks-us-putin-6543276",
@@ -19,14 +147,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Russia-Ukraine talks mediated by U.S. end with news of 'good momentum,' large-scale prisoner swap",
-      "url": "https://www.cbc.ca/news/world/us-russia-ukraine-abu-dhabi-peace-talks-9.7417687",
-      "source": "CBC News",
-      "publishedAt": "2026-11-11T12:55:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Wednesday: Hili dialogue",
       "url": "https://whyevolutionistrue.com/2026/11/11/wednesday-hili-dialogue-605/",
       "source": "Whyevolutionistrue.com",
@@ -39,110 +159,6 @@
       "url": "https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris",
       "source": "Www.gov.uk",
       "publishedAt": "2026-11-11T12:42:15Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "A Ukrainian drone maker explains why letting soldiers swap parts and mix models is crucial in a rapidly changing war",
-      "url": "https://www.businessinsider.com/ukraine-drone-firm-makes-swappable-parts-can-merge-keep-flying-2026-11#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-11-11T12:37:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "More and More Veterans Say Their Duty Is to Resist Trump",
-      "url": "https://www.motherjones.com/politics/2026/11/more-and-more-veterans-say-their-duty-is-to-resist-trump/",
-      "source": "Mother Jones",
-      "publishedAt": "2026-11-11T12:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "What is northern Europe’s new drone and warship plan to counter Russia?",
-      "url": "https://www.aljazeera.com/news/2026/11/11/whats-northern-europes-new-drones-and-warships-plan-to-counter-russia",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-11T12:13:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iranian Security Chief Insists Enriched Uranium Won't Leave Country",
-      "url": "https://www.rferl.org/a/iran-enriched-uranium-transfer-russia-us-war/33895253.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-11-11T11:28:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The Spook Wave: Elections Usher in More Democrat Military-Intelligence Vets",
-      "url": "https://www.nakedcapitalism.com/2026/11/the-spook-wave-elections-usher-in-more-democrat-military-intelligence-vets.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-11T11:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine-Russia Talks End In Abu Dhabi After Night Of Air Attacks",
-      "url": "https://www.rferl.org/a/ukraine-russia-talks-resume-in-abu-dhabi-amid-drone-attacks/33895197.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-11-11T10:52:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran vows no enriched uranium will leave country, warns US against fresh strikes",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-vows-no-enriched-uranium-will-leave-country-warns-us-against-fresh-strikes/articleshow/135733805.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-11T10:30:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Russia and Ukraine agree to a large exchange of prisoners of war, officials say",
-      "url": "https://www.yahoo.com/news/world/articles/russia-ukraine-hold-second-day-093945694.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-11T09:39:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran slams US $20m nuclear intelligence reward",
-      "url": "https://punchng.com/iran-slams-us-20m-nuclear-intelligence-reward/",
-      "source": "The Punch",
-      "publishedAt": "2026-11-11T09:37:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine peace talks which 'could be first step toward complete ceasefire' continue, with Zelensky saying he's 'very happy' with US approach",
-      "url": "https://www.dailymail.com/news/article-16283607/Ukraine-peace-talks-step-complete-ceasefire-continue-Zelensky-saying-hes-happy-US-approach.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-11T08:54:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "After the 2026 Republican meltdown, where now for the GOP and Israel?",
-      "url": "https://www.christiantoday.com/news/after-the-2026-republican-meltdown-where-now-for-the-gop-and-israel",
-      "source": "Christiantoday.com",
-      "publishedAt": "2026-11-11T07:28:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US Rules Out New Iran Strikes as Rubio Rejects Tehran’s Peace Terms as “Absurd”",
-      "url": "https://www.naturalnews.com/2026-11-11-us-no-new-iran-strikes-rejects-peace-terms.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-11T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "National Average Gas Price Falls Below $4 a Gallon for First Time Since July",
-      "url": "https://www.naturalnews.com/2026-11-11-national-average-gas-cost-falls-since-july.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-11T06:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

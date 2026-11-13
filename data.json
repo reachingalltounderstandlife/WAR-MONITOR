@@ -1,7 +1,111 @@
 {
-  "updated": "2026-11-13T13:56:52Z",
+  "updated": "2026-11-13T23:15:32Z",
   "count": 30,
   "articles": [
+    {
+      "title": "Exclusive: Dr. Condoleezza Rice One-On-One With Guy Benson",
+      "url": "https://radio.foxnews.com/2026/11/12/exclusive-dr-condoleezza-rice-one-on-one-with-guy-benson/",
+      "source": "Fox News",
+      "publishedAt": "2026-11-12T23:00:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
+      "url": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-12T22:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "EU leaders tussle over who to send to Ukraine, Russia peace talks",
+      "url": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-12T22:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump warns he could strike Iran again with no hesitation",
+      "url": "https://www.israelnationalnews.com/news/436115",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-12T21:30:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Fantasy vs. reality: Why the EU can’t find its Putin envoy",
+      "url": "https://rt-english.com/news/648763-europe-ukraine-russia-talks/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-12T20:55:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Finland Says it Detects Strike on Russian Warship in Baltic Sea",
+      "url": "https://gcaptain.com/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-11-12T17:14:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Show HN: GraphsWithStraightLines.com – 126 trends extended to 2050",
+      "url": "https://graphswithstraightlines.com/",
+      "source": "Graphswithstraightlines.com",
+      "publishedAt": "2026-11-12T17:03:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine says Starshield throttled again as U.S. pushes for a deal",
+      "url": "https://www.cbsnews.com/news/russia-ukraine-war-elon-musk-starshield-limited-us-witkoff-kushner-diplomacy/",
+      "source": "CBS News",
+      "publishedAt": "2026-11-12T16:56:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Envoys Meet With Putin In Moscow For Ukraine Talks As Conflict Nears 5 Years",
+      "url": "https://www.huffpost.com/entry/witkoff-kushner-putin-ukraine-negotiations_n_6af5e6abe4b0914f133d16fd",
+      "source": "HuffPost",
+      "publishedAt": "2026-11-12T16:47:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Again Freely Admits the U.S. Has Zero Plan of How to End the Iran War",
+      "url": "https://www.jezebel.com/iran-war-trump-no-plans-peace-ending-oil-prices-officials-safety-nuclear-dont-need-a-deal",
+      "source": "Jezebel",
+      "publishedAt": "2026-11-12T16:27:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Defence Secretary Wes Streeting speech at Atlantic Future Forum",
+      "url": "https://www.gov.uk/government/speeches/defence-secretary-wes-streeting-speech-at-atlantic-future-forum",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-11-12T16:06:27Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Deploy British and French Armies to Ukraine, Warships to Black Sea, to End Ukraine War Says Former NATO Boss",
+      "url": "https://www.breitbart.com/europe/2026/11/12/deploy-british-and-french-troops-to-ukraine-now-says-fmr-nato-boss/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-11-12T15:59:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "European Demonstrations and Strikes Continue",
+      "url": "https://www.globalresearch.ca/european-demonstrations-strikes-continue/5945701",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-11-12T15:02:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "US demands that Iraq disarms brigades misread the nation’s complicated security landscape",
       "url": "https://theconversation.com/us-demands-that-iraq-disarms-brigades-misread-the-nations-complicated-security-landscape-293491",
@@ -9,22 +113,6 @@
       "publishedAt": "2026-11-12T13:41:52Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Zelensky cautions Europe over US-Russia security talks",
-      "url": "https://punchng.com/zelensky-cautions-europe-over-us-russia-security-talks/",
-      "source": "The Punch",
-      "publishedAt": "2026-11-12T13:39:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine peace talks end with no breakthrough – but Europe may be set to return from the cold",
-      "url": "https://theconversation.com/ukraine-peace-talks-end-with-no-breakthrough-but-europe-may-be-set-to-return-from-the-cold-296207",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-11-12T13:38:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Israeli defence minister says no need for opposition approval to launch strikes",
@@ -35,36 +123,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Europe views US with ‘much less horror’ after Trump’s midterms defeat",
-      "url": "https://www.aljazeera.com/news/2026/11/12/europe-views-us-with-much-less-horror-after-trumps-midterms-defeat",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-12T12:51:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
       "url": "https://www.aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy",
       "source": "Al Jazeera English",
       "publishedAt": "2026-11-12T12:39:21Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "U.S. Army Officer Arrested in Britain on Suspicion of Spying for Russia",
-      "url": "https://legalinsurrection.com/2026/11/u-s-army-officer-arrested-in-britain-on-suspicion-of-spying-for-russia/",
-      "source": "Legalinsurrection.com",
-      "publishedAt": "2026-11-12T12:00:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Links 11/12/2026",
-      "url": "https://www.nakedcapitalism.com/2026/11/links-11-12-2026-2.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-12T11:55:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Can a new US Congress mean an end to the Iran war?",
@@ -83,38 +147,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Speaking for Europe key issue as leaders meet",
-      "url": "https://www.rte.ie/news/analysis-and-comment/2026/1112/1598946-epc-analysis/",
-      "source": "RTE",
-      "publishedAt": "2026-11-12T11:05:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Week In Russia: Arrests, Attacks, And A Familiar Kremlin Refrain",
-      "url": "https://www.rferl.org/a/gutterman-week-in-russia-newsletter/33895561.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-11-12T11:03:44Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "U.S. envoys arrive at Kremlin for Putin meeting after Ukraine talks",
-      "url": "https://www.yahoo.com/news/politics/articles/us-mediated-talks-russia-ukraine-025843578.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-12T10:39:25Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelensky reveals new 'systematic' restrictions on troops' use of Elon Musk's crucial Starshield satellite internet: 'These are not random errors'",
-      "url": "https://www.dailymail.com/news/article-16286585/Zelensky-systematic-restrictions-Starshield-errors.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-12T10:27:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
       "url": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities",
       "source": "Al Jazeera English",
@@ -127,38 +159,6 @@
       "url": "https://www.israelnationalnews.com/news/436075",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-11-12T09:17:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Steve Witkoff and Jared Kushner arrive in Moscow for talks with Putin - with the Kremlin continuing to sideline Europe",
-      "url": "https://www.dailymail.com/news/article-16286355/Steve-Witkoff-Jared-Kushner-arrive-Moscow-talks-Putin-Kremlin-continuing-sideline-Europe.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-12T08:52:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Iran threatens US bases in Europe if attacks resume - Greece and Cyprus in the list...",
-      "url": "https://i-epikaira.blogspot.com/2026/11/iran-threatens-us-bases-in-europe-if.html",
-      "source": "Blogspot.com",
-      "publishedAt": "2026-11-12T07:34:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran says it will not allow enriched nuclear material to leave country",
-      "url": "https://www.business-standard.com/world-news/iran-says-it-will-not-allow-enriched-nuclear-material-to-leave-country-126111200277_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-12T05:14:06Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran tells COP31 it wants compensation for environmental damage from US-Israeli strikes",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-tells-cop31-it-wants-compensation-for-environmental-damage-from-us-israeli-strikes/article71692293.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-11-12T04:58:18Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

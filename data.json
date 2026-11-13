@@ -1,7 +1,159 @@
 {
-  "updated": "2026-11-13T05:09:30Z",
-  "count": 26,
+  "updated": "2026-11-13T13:56:52Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "US demands that Iraq disarms brigades misread the nation’s complicated security landscape",
+      "url": "https://theconversation.com/us-demands-that-iraq-disarms-brigades-misread-the-nations-complicated-security-landscape-293491",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-11-12T13:41:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelensky cautions Europe over US-Russia security talks",
+      "url": "https://punchng.com/zelensky-cautions-europe-over-us-russia-security-talks/",
+      "source": "The Punch",
+      "publishedAt": "2026-11-12T13:39:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine peace talks end with no breakthrough – but Europe may be set to return from the cold",
+      "url": "https://theconversation.com/ukraine-peace-talks-end-with-no-breakthrough-but-europe-may-be-set-to-return-from-the-cold-296207",
+      "source": "The Conversation Africa",
+      "publishedAt": "2026-11-12T13:38:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli defence minister says no need for opposition approval to launch strikes",
+      "url": "https://www.channelnewsasia.com/world/israel-caretaker-defence-minister-launch-strikes-6546291",
+      "source": "CNA",
+      "publishedAt": "2026-11-12T12:54:23Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Europe views US with ‘much less horror’ after Trump’s midterms defeat",
+      "url": "https://www.aljazeera.com/news/2026/11/12/europe-views-us-with-much-less-horror-after-trumps-midterms-defeat",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-12T12:51:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
+      "url": "https://www.aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-12T12:39:21Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "U.S. Army Officer Arrested in Britain on Suspicion of Spying for Russia",
+      "url": "https://legalinsurrection.com/2026/11/u-s-army-officer-arrested-in-britain-on-suspicion-of-spying-for-russia/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-11-12T12:00:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 11/12/2026",
+      "url": "https://www.nakedcapitalism.com/2026/11/links-11-12-2026-2.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-12T11:55:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Can a new US Congress mean an end to the Iran war?",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/can-a-new-us-congress-mean-an-end-to-the-iran-war/articleshow/135767888.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-12T11:42:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Macron Talks to Gulf Countries About Providing Hormuz Insurance",
+      "url": "https://www.insurancejournal.com/news/international/2026/11/12/892369.htm",
+      "source": "Insurance Journal",
+      "publishedAt": "2026-11-12T11:36:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Speaking for Europe key issue as leaders meet",
+      "url": "https://www.rte.ie/news/analysis-and-comment/2026/1112/1598946-epc-analysis/",
+      "source": "RTE",
+      "publishedAt": "2026-11-12T11:05:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Week In Russia: Arrests, Attacks, And A Familiar Kremlin Refrain",
+      "url": "https://www.rferl.org/a/gutterman-week-in-russia-newsletter/33895561.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-11-12T11:03:44Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S. envoys arrive at Kremlin for Putin meeting after Ukraine talks",
+      "url": "https://www.yahoo.com/news/politics/articles/us-mediated-talks-russia-ukraine-025843578.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-12T10:39:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelensky reveals new 'systematic' restrictions on troops' use of Elon Musk's crucial Starshield satellite internet: 'These are not random errors'",
+      "url": "https://www.dailymail.com/news/article-16286585/Zelensky-systematic-restrictions-Starshield-errors.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-12T10:27:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-12T09:38:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "President Trump, architect and victim of a self-inflicted wound",
+      "url": "https://www.israelnationalnews.com/news/436075",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-12T09:17:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Steve Witkoff and Jared Kushner arrive in Moscow for talks with Putin - with the Kremlin continuing to sideline Europe",
+      "url": "https://www.dailymail.com/news/article-16286355/Steve-Witkoff-Jared-Kushner-arrive-Moscow-talks-Putin-Kremlin-continuing-sideline-Europe.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-12T08:52:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran threatens US bases in Europe if attacks resume - Greece and Cyprus in the list...",
+      "url": "https://i-epikaira.blogspot.com/2026/11/iran-threatens-us-bases-in-europe-if.html",
+      "source": "Blogspot.com",
+      "publishedAt": "2026-11-12T07:34:13Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran says it will not allow enriched nuclear material to leave country",
+      "url": "https://www.business-standard.com/world-news/iran-says-it-will-not-allow-enriched-nuclear-material-to-leave-country-126111200277_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-12T05:14:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Iran tells COP31 it wants compensation for environmental damage from US-Israeli strikes",
       "url": "https://www.thehindubusinessline.com/news/world/iran-tells-cop31-it-wants-compensation-for-environmental-damage-from-us-israeli-strikes/article71692293.ece",
@@ -11,124 +163,28 @@
       "_label": "Iran War"
     },
     {
-      "title": "UN Security Council to meet on \"situation in the Middle East\"",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/un-security-council-to-meet-on-situation-in-the-middle-east/articleshow/135755324.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-12T04:38:41Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
-      "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-12T03:50:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How the fog of war puts journalism in the frame",
-      "url": "https://theconversation.com/how-the-fog-of-war-puts-journalism-in-the-frame-295855",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-11-12T02:54:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hormuz will never return to pre-war status, says Iran's chief negotiator",
-      "url": "https://www.business-standard.com/world-news/hormuz-will-never-return-to-pre-war-status-says-iran-s-chief-negotiator-126111200051_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-12T02:22:17Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Trump and Netanyahu reportedly get into 'shouting match from hell' amid argument to resume all-out war in Iran",
       "url": "https://www.dailymail.com/news/article-16285749/Trump-Netanyahu-reportedly-shouting-match-hell-amid-argument-resume-war-Iran.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-11-12T02:20:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "“Shouting Match From Hell”: Trump And Netanyahu Bitterly Disagree About New Military Action Against Iran",
-      "url": "http://theeconomiccollapseblog.com/shouting-match-from-hell-trump-and-netanyahu-bitterly-disagree-about-new-military-action-against-iran/",
-      "source": "Theeconomiccollapseblog.com",
-      "publishedAt": "2026-11-12T02:05:08Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Netanyahu asks military to prepare for Iran 2.0 as opposition demands no strikes before next govt",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahu-asks-military-to-prepare-for-iran-2-0-as-opposition-demands-no-strikes-before-next-govt/articleshow/135752080.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-12T01:55:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Strait of Hormuz will \"never return\" to pre-war status: Ghalibaf says \"ball in US court\" on peace talks",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf-says-ball-in-us-court-on-peace-talks/articleshow/135751878.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-12T01:22:59Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
-      "url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-12T00:42:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "US election results could be positive for Lebanon, Hezbollah chief says",
       "url": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says",
       "source": "Al Jazeera English",
       "publishedAt": "2026-11-12T00:06:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Abu Dhabi Talks Advance Diplomacy, Not Peace, as Russia Seeks Wider Security Bargain",
-      "url": "https://www.rferl.org/a/33895568.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-11-11T23:08:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "MARK ALMOND: I fear Trump's summit with Putin and Xi next week will be like Yalta in 1945 when three leaders carved up the world",
       "url": "https://www.dailymail.com/news/article-16285627/Trumps-summit-Putin-Xi-Yalta-1945.html",
       "source": "Dailymail.com",
       "publishedAt": "2026-11-11T23:00:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Podcast – Scott Horton – AIPAC, Israel & The War Machine: Who Really Drives U.S. Foreign Policy",
-      "url": "https://activistpost.com/podcast-scott-horton-aipac-israel-the-war-machine-who-really-drives-u-s-foreign-policy/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-11-11T23:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Fear united Europe. Nationalism may tear it apart",
-      "url": "https://www.nrc.nl/nieuws/2026/11/11/fear-united-europe-nationalism-may-tear-it-apart-a4940709",
-      "source": "Www.nrc.nl",
-      "publishedAt": "2026-11-11T21:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "U.S. Asks Russia for New Security Agreement with Europe",
-      "url": "https://politicalwire.com/2026/11/11/u-s-asks-russia-for-new-security-agreement-with-europe/",
-      "source": "Politicalwire.com",
-      "publishedAt": "2026-11-11T20:40:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "korea",
+      "_label": "N. Korea"
     },
     {
       "title": "Can Iran attack Israel with its own Operation Spiderweb?",
@@ -139,36 +195,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "Russia, Ukraine agree to large prisoner exchange as talks conclude with no major breakthrough",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/russia-ukraine-agree-to-large-prisoner-exchange-as-talks-conclude-with-no-major-breakthrough/articleshow/135741850.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-11T15:15:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "France fears Germany could trigger nuclear war – FT",
-      "url": "https://rt-english.com/news/648708-germany-france-ukraine-nuclear/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-11T15:00:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Inside the Korean DMZ: Reporting from the border where the war never ended",
       "url": "https://en.protothema.gr/2026/11/11/inside-the-korean-dmz-reporting-from-the-border-where-the-war-never-ended/",
       "source": "Protothema.gr",
       "publishedAt": "2026-11-11T14:58:08Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "US envoys to meet Putin after Ukraine talks in Abu Dhabi",
-      "url": "https://www.channelnewsasia.com/world/russia-ukraine-abu-dhabi-talks-us-putin-6543276",
-      "source": "CNA",
-      "publishedAt": "2026-11-11T14:28:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Joint declaration following the G7 Foreign Ministers' Meeting in Paris",

@@ -1,7 +1,127 @@
 {
-  "updated": "2026-11-14T04:59:29Z",
+  "updated": "2026-11-14T12:58:39Z",
   "count": 23,
   "articles": [
+    {
+      "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/europe-pushes-for-seat-at-ukraine-peace-talks-but-lacks-unified-voice/articleshow/135802594.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-13T12:12:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?",
+      "url": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-13T12:06:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia demands Finland leave Nato in Ukraine peace talks, Bild reports",
+      "url": "https://yle.fi/a/74-20256829",
+      "source": "YLE News",
+      "publishedAt": "2026-11-13T12:05:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanon’s president reassures Christians as they remain under pressure",
+      "url": "https://www.ewtnnews.com/world/middle-east/lebanon-s-president-reassures-christians-as-they-remain-under-pressure",
+      "source": "Ewtnnews.com",
+      "publishedAt": "2026-11-13T12:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Links 11/13/2026",
+      "url": "https://www.nakedcapitalism.com/2026/11/links-11-13-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-13T11:55:18Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Moscow warns NATO over troop buildup",
+      "url": "https://rt-english.com/russia/648796-nato-russia-military-buildup/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-13T10:48:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli military sees no urgent need to attack Iran: What emerged from Netanyahu-Eisenkot meeting",
+      "url": "https://en.protothema.gr/2026/11/13/israeli-military-sees-no-urgent-need-to-attack-iran-what-emerged-from-netanyahu-eisenkot-meeting/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-11-13T10:30:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
+      "url": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-13T10:26:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
+      "url": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-13T10:11:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Man weeps over the body of loved one killed by Putin drone as Ukraine is blitzed by latest wave of Russian drones",
+      "url": "https://www.dailymail.com/news/article-16289547/Man-weeps-body-loved-one-killed-Putin-drone-Ukraine-blitzed-latest-wave-Russian-drones.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-13T09:32:39Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "CENTCOM Tells Israel to Brace For Impact As Fears of Renewed Iran War Emerge",
+      "url": "https://www.naturalnews.com/2026-11-13-centcom-warns-israel-prepare-renewed-iran-conflict.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-11-13T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Claims U.S.-Iran Deal No Longer Necessary",
+      "url": "https://www.naturalnews.com/2026-11-13-trump-claims-iran-deal-no-longer-necessary.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-11-13T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The War With Iran Isn’t Over, And America Will Never Control the Strait of Hormuz",
+      "url": "https://www.naturalnews.com/2026-11-13-the-war-with-iran-isnt-over.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-11-13T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin hosts Trumpâs envoys with a record prisoner swap on the table and Europe sidelined",
+      "url": "https://www.naturalnews.com/2026-11-13-putin-hosts-trump-envoys-europe-sidelined.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-11-13T06:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
+      "url": "https://abcnews.com/International/wireStory/europe-pushes-seat-ukraine-peace-talks-lacks-unified-138101804",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-11-13T05:39:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
       "url": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival",
@@ -39,126 +159,6 @@
       "url": "https://www.channelnewsasia.com/business/oil-prices-set-second-weekly-decline-trump-sticks-iran-blockade-6548391",
       "source": "CNA",
       "publishedAt": "2026-11-13T03:00:43Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How the US Brought War to Ukraine",
-      "url": "https://original.antiwar.com/david_swanson/2026/11/12/how-the-us-brought-war-to-ukraine/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-11-13T00:00:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Exclusive: Dr. Condoleezza Rice One-On-One With Guy Benson",
-      "url": "https://radio.foxnews.com/2026/11/12/exclusive-dr-condoleezza-rice-one-on-one-with-guy-benson/",
-      "source": "Fox News",
-      "publishedAt": "2026-11-12T23:00:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
-      "url": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468",
-      "source": "DW (English)",
-      "publishedAt": "2026-11-12T22:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "EU leaders tussle over who to send to Ukraine, Russia peace talks",
-      "url": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468",
-      "source": "DW (English)",
-      "publishedAt": "2026-11-12T22:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump warns he could strike Iran again with no hesitation",
-      "url": "https://www.israelnationalnews.com/news/436115",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-12T21:30:40Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Fantasy vs. reality: Why the EU can’t find its Putin envoy",
-      "url": "https://rt-english.com/news/648763-europe-ukraine-russia-talks/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-12T20:55:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Finland Says it Detects Strike on Russian Warship in Baltic Sea",
-      "url": "https://gcaptain.com/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea/",
-      "source": "gcaptain.com",
-      "publishedAt": "2026-11-12T17:14:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Show HN: GraphsWithStraightLines.com – 126 trends extended to 2050",
-      "url": "https://graphswithstraightlines.com/",
-      "source": "Graphswithstraightlines.com",
-      "publishedAt": "2026-11-12T17:03:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine says Starshield throttled again as U.S. pushes for a deal",
-      "url": "https://www.cbsnews.com/news/russia-ukraine-war-elon-musk-starshield-limited-us-witkoff-kushner-diplomacy/",
-      "source": "CBS News",
-      "publishedAt": "2026-11-12T16:56:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Envoys Meet With Putin In Moscow For Ukraine Talks As Conflict Nears 5 Years",
-      "url": "https://www.huffpost.com/entry/witkoff-kushner-putin-ukraine-negotiations_n_6af5e6abe4b0914f133d16fd",
-      "source": "HuffPost",
-      "publishedAt": "2026-11-12T16:47:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Again Freely Admits the U.S. Has Zero Plan of How to End the Iran War",
-      "url": "https://www.jezebel.com/iran-war-trump-no-plans-peace-ending-oil-prices-officials-safety-nuclear-dont-need-a-deal",
-      "source": "Jezebel",
-      "publishedAt": "2026-11-12T16:27:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Defence Secretary Wes Streeting speech at Atlantic Future Forum",
-      "url": "https://www.gov.uk/government/speeches/defence-secretary-wes-streeting-speech-at-atlantic-future-forum",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-11-12T16:06:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "European Demonstrations and Strikes Continue",
-      "url": "https://www.globalresearch.ca/european-demonstrations-strikes-continue/5945701",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-11-12T15:02:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US demands that Iraq disarms brigades misread the nation’s complicated security landscape",
-      "url": "https://theconversation.com/us-demands-that-iraq-disarms-brigades-misread-the-nations-complicated-security-landscape-293491",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-11-12T13:41:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israeli defence minister says no need for opposition approval to launch strikes",
-      "url": "https://www.channelnewsasia.com/world/israel-caretaker-defence-minister-launch-strikes-6546291",
-      "source": "CNA",
-      "publishedAt": "2026-11-12T12:54:23Z",
       "_cat": "iran",
       "_label": "Iran War"
     },

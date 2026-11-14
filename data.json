@@ -1,7 +1,55 @@
 {
-  "updated": "2026-11-13T23:15:32Z",
-  "count": 30,
+  "updated": "2026-11-14T04:59:29Z",
+  "count": 23,
   "articles": [
+    {
+      "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
+      "url": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-13T04:48:40Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil prices set for second weekly drop as Trump to stay with Iran blockade",
+      "url": "https://www.business-standard.com/markets/commodities/oil-prices-set-for-second-weekly-drop-as-trump-to-stay-with-iran-blockade-126111300106_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-13T04:39:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump: Middle East allies asked me to hold off on new Iran strikes",
+      "url": "https://www.israelnationalnews.com/news/436127",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-13T04:23:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil prices set for second weekly decline as Trump to stay with Iran blockade",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-set-second-weekly-decline-trump-stay-iran-blockade-6548391",
+      "source": "CNA",
+      "publishedAt": "2026-11-13T03:00:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Oil prices set for second weekly decline as Trump sticks with Iran blockade",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-set-second-weekly-decline-trump-sticks-iran-blockade-6548391",
+      "source": "CNA",
+      "publishedAt": "2026-11-13T03:00:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "How the US Brought War to Ukraine",
+      "url": "https://original.antiwar.com/david_swanson/2026/11/12/how-the-us-brought-war-to-ukraine/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-11-13T00:00:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "Exclusive: Dr. Condoleezza Rice One-On-One With Guy Benson",
       "url": "https://radio.foxnews.com/2026/11/12/exclusive-dr-condoleezza-rice-one-on-one-with-guy-benson/",
@@ -91,14 +139,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Deploy British and French Armies to Ukraine, Warships to Black Sea, to End Ukraine War Says Former NATO Boss",
-      "url": "https://www.breitbart.com/europe/2026/11/12/deploy-british-and-french-troops-to-ukraine-now-says-fmr-nato-boss/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-11-12T15:59:57Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "European Demonstrations and Strikes Continue",
       "url": "https://www.globalresearch.ca/european-demonstrations-strikes-continue/5945701",
       "source": "Globalresearch.ca",
@@ -123,44 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
-      "url": "https://www.aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-12T12:39:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Can a new US Congress mean an end to the Iran war?",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/can-a-new-us-congress-mean-an-end-to-the-iran-war/articleshow/135767888.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-12T11:42:29Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Macron Talks to Gulf Countries About Providing Hormuz Insurance",
-      "url": "https://www.insurancejournal.com/news/international/2026/11/12/892369.htm",
-      "source": "Insurance Journal",
-      "publishedAt": "2026-11-12T11:36:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
-      "url": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-12T09:38:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "President Trump, architect and victim of a self-inflicted wound",
       "url": "https://www.israelnationalnews.com/news/436075",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-11-12T09:17:56Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Trump and Netanyahu reportedly get into 'shouting match from hell' amid argument to resume all-out war in Iran",
@@ -177,70 +185,6 @@
       "publishedAt": "2026-11-12T00:06:50Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "MARK ALMOND: I fear Trump's summit with Putin and Xi next week will be like Yalta in 1945 when three leaders carved up the world",
-      "url": "https://www.dailymail.com/news/article-16285627/Trumps-summit-Putin-Xi-Yalta-1945.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-11T23:00:46Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Can Iran attack Israel with its own Operation Spiderweb?",
-      "url": "https://www.haaretz.com/israel-news/security-aviation/2026-11-11/ty-article-magazine/drones-from-within-could-iran-launch-its-own-operation-spiderweb-in-israel/000001a1-bffe-d7bb-a7a5-ffff7e900000",
-      "source": "Haaretz",
-      "publishedAt": "2026-11-11T17:16:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Inside the Korean DMZ: Reporting from the border where the war never ended",
-      "url": "https://en.protothema.gr/2026/11/11/inside-the-korean-dmz-reporting-from-the-border-where-the-war-never-ended/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-11-11T14:58:08Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Joint declaration following the G7 Foreign Ministers' Meeting in Paris",
-      "url": "https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-11-11T12:42:15Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "G7 warns of security vacuum in Lebanon as UN peacekeeping mission nears end",
-      "url": "https://www.israelnationalnews.com/news/436001",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-11T04:50:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Watch: Anti-Israel protesters target Biden in Ireland",
-      "url": "https://www.israelnationalnews.com/news/436000",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-11T04:06:08Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel Bombs Lebanon’s Churches",
-      "url": "https://original.antiwar.com/harrison_berger/2026/11/10/israel-bombs-lebanons-churches/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-11-11T00:00:52Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Former National Security Advisor H.R. McMaster Speaks On Current National Security Challenges",
-      "url": "https://www.dailycardinal.com/article/2026/11/former-national-security-advisor-h-r-mcmaster-speaks-on-current-national-security-challenges",
-      "source": "Dailycardinal.com",
-      "publishedAt": "2026-11-11T00:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

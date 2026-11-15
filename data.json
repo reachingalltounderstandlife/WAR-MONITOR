@@ -1,7 +1,111 @@
 {
-  "updated": "2026-11-15T13:27:18Z",
+  "updated": "2026-11-15T22:28:57Z",
   "count": 24,
   "articles": [
+    {
+      "title": "U.S. facilitating direct engagement between Europe and Russia",
+      "url": "https://www.cbsnews.com/news/us-europe-russia-engagement-ukraine-war/",
+      "source": "CBS News",
+      "publishedAt": "2026-11-14T22:07:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Fact check: 'Iranian' content farms reach millions",
+      "url": "https://www.dw.com/en/fact-check-iranian-content-farms-reach-millions/a-79934190",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-14T20:26:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin demands Britain and France rule out nuclear defence of Europe as condition for Ukraine peace",
+      "url": "https://en.protothema.gr/2026/11/14/putin-demands-britain-and-france-rule-out-nuclear-defence-of-europe-as-condition-for-ukraine-peace/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-11-14T19:11:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
+      "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273",
+      "source": "CBC News",
+      "publishedAt": "2026-11-14T19:06:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Poland and Bulgaria put brakes on Ukraine weapons funding",
+      "url": "https://rt-english.com/news/648838-poland-bulgaria-put-brakes-ukraine-weapons-funding/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-14T17:38:26Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelensky: US Wants Ukraine to Give Up Donbas to Join NATO",
+      "url": "https://www.newser.com/story/400037/zelensky-us-wants-ukraine-to-give-up-donbas-to-join-nato.html",
+      "source": "Newser",
+      "publishedAt": "2026-11-14T17:30:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "All Your Bases Are Belong to Us",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/11/all-your-bases-are-belong-to-us",
+      "source": "Lawyersgunsmoneyblog.com",
+      "publishedAt": "2026-11-14T17:26:59Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Where did another enrichment site in Iran come from?",
+      "url": "https://www.israelnationalnews.com/news/436176",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-14T16:53:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelensky Says USA Floats NATO Membership in Deal for Donbas...",
+      "url": "https://www.cnbc.com/2026/11/14/zelenskyy-us-ukraine-donbas-nato-membership.html",
+      "source": "CNBC",
+      "publishedAt": "2026-11-14T16:00:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US suggested idea of Ukraine ceding Donbas for membership of Nato, says Zelenskiy",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/14/us-suggested-idea-of-ukraine-ceding-donbas-for-membership-of-nato-says-zelenskiy/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-14T15:53:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelenskyy says US-proposed Europe security framework could benefit Putin",
+      "url": "https://www.business-standard.com/world-news/zelenskyy-says-us-proposed-europe-security-framework-could-benefit-putin-126111401042_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-14T14:10:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Zelenskyy Says A New European Security Framework Floated By US Could Benefit Putin",
+      "url": "https://www.huffpost.com/entry/ap-eu-russia-ukraine-war_n_6af86afae4b0016f2eb7d5de",
+      "source": "HuffPost",
+      "publishedAt": "2026-11-14T14:09:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The Muslim Brotherhood: Program, Strategy, Organisation",
+      "url": "https://www.globalresearch.ca/muslim-brotherhood-program-strategy-organisation/5945793",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-11-14T14:09:05Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "How does Iran view shift in US approach after JD Vance ordered away?",
       "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away",
@@ -9,30 +113,6 @@
       "publishedAt": "2026-11-14T13:24:44Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Zelensky Says U.S. Suggested Ceding Donbas to Russia In Exchange for NATO Membership",
-      "url": "https://www.breitbart.com/europe/2026/11/14/zelensky-says-european-security-framework-floated-by-u-s-could-benefit-putin/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-11-14T13:21:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-new-european-security-framework-floated-us-benefit-138138301",
-      "source": "Abcnews.com",
-      "publishedAt": "2026-11-14T12:26:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "U.S. floated idea of Ukraine surrendering territory for NATO membership, Zelensky says",
-      "url": "https://www.yahoo.com/news/us/articles/us-floated-idea-ukraine-ceding-122531169.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-14T12:25:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
@@ -43,46 +123,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-      "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-14T11:43:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine: Zelenskyy says security deal could go to referendum",
-      "url": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535",
-      "source": "DW (English)",
-      "publishedAt": "2026-11-14T11:40:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US proposes Ukraine cede territory for NATO membership — Zelensky",
-      "url": "https://punchng.com/us-proposes-ukraine-cede-territory-for-nato-membership-zelensky/",
-      "source": "The Punch",
-      "publishedAt": "2026-11-14T11:24:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US proposed Donbas swap for NATO membership - Zelensky",
-      "url": "https://www.rte.ie/news/europe/2026/1114/1599202-us-ukraine-russia/",
-      "source": "RTE",
-      "publishedAt": "2026-11-14T10:51:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US proposed Donbas swap for NATO membership - Zelensky",
-      "url": "https://www.rte.ie/news/ukraine/2026/1114/1599202-us-ukraine-russia/",
-      "source": "RTE",
-      "publishedAt": "2026-11-14T10:51:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
       "url": "https://abcnews.com/US/wireStory/shifting-iran-rhetoric-us-elections-trump-leaves-mideast-138136269",
       "source": "Abcnews.com",
@@ -91,28 +131,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo",
-      "source": "BBC News",
-      "publishedAt": "2026-11-14T10:30:38Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iranian lawmaker says Iran's resistance has pushed us into strategic dead end, warns Washington against further miscalculations",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-us-against-miscalculations-as-tensions-escalate-in-strait-of-hormuz/articleshow/135828413.cms",
       "source": "The Times of India",
       "publishedAt": "2026-11-14T09:23:13Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "EU seeks 'united voice' ahead of Ukraine peace talks",
-      "url": "https://www.rte.ie/news/analysis-and-comment/2026/1114/1599180-eu-summit-ukraine/",
-      "source": "RTE",
-      "publishedAt": "2026-11-14T07:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "With shifting Iran rhetoric, Trump leaves W Asia in limbo about path ahead",
@@ -139,36 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "After midterm losses, Trump's shifting Iran stance leaves allies seeking clarity",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_3793f998-545b-4b73-9e69-78b1f91aac19",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-14T05:56:33Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "News Summary-Intelligence Report 11/13/2026*Newsdump Friday*Trump-Xi-Putin Meet*Debt-Laden German Budget*US Airports Halted*Top Israel Spy War Push*Iran, Yemen Wars*Four Killed Attack Russia*Iran Attacked, Retaliates*US Warship Command Firings*",
-      "url": "https://freerepublic.com/focus/f-bloggers/4403001/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-11-14T05:14:36Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Marco Rubio Offers Another Nearly Perfect Rebuke of Globalism in EPIC Speech (VIDEO)",
       "url": "https://www.thegatewaypundit.com/2026/11/marco-rubio-offers-another-nearly-perfect-rebuke-globalism/",
       "source": "Thegatewaypundit.com",
       "publishedAt": "2026-11-14T04:10:11Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Mossad Director Meets with US Officials in DC as Trump Resists Netanyahu’s Calls to Reignite Iran War: Report",
-      "url": "https://www.thegatewaypundit.com/2026/11/mossad-director-meets-us-officials-dc-trump-resists/",
-      "source": "Thegatewaypundit.com",
-      "publishedAt": "2026-11-14T02:00:07Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "How Lebanon Became the Middle East’s Battleground",

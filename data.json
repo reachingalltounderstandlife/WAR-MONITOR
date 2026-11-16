@@ -1,7 +1,39 @@
 {
-  "updated": "2026-11-15T22:28:57Z",
-  "count": 24,
+  "updated": "2026-11-16T04:49:55Z",
+  "count": 21,
   "articles": [
+    {
+      "title": "US intelligence: Iran still has up to 2,500 missiles",
+      "url": "https://www.israelnationalnews.com/news/436209",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-15T04:23:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine Says Starshield Restrictions Persist, Hampering Drone Defenses",
+      "url": "https://www.rferl.org/a/ukraine-starshield-spacex-russia-missile-airstrikes/33898879.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-11-15T01:13:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US threatening to starve Iranians – Tehran",
+      "url": "https://rt-english.com/news/648848-us-threatening-to-starve-iranians/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-15T01:12:04Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Nigel Farage's new defence spokesman signals 'clean break' with his past accusations of being a Vladimir Putin apologist",
+      "url": "https://www.dailymail.com/news/article-16292857/Nigel-Farage-break-comments-Putin.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-14T23:17:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
     {
       "title": "U.S. facilitating direct engagement between Europe and Russia",
       "url": "https://www.cbsnews.com/news/us-europe-russia-engagement-ukraine-war/",
@@ -75,30 +107,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "US suggested idea of Ukraine ceding Donbas for membership of Nato, says Zelenskiy",
-      "url": "https://www.irishtimes.com/world/europe/2026/11/14/us-suggested-idea-of-ukraine-ceding-donbas-for-membership-of-nato-says-zelenskiy/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-14T15:53:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy says US-proposed Europe security framework could benefit Putin",
-      "url": "https://www.business-standard.com/world-news/zelenskyy-says-us-proposed-europe-security-framework-could-benefit-putin-126111401042_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-14T14:10:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy Says A New European Security Framework Floated By US Could Benefit Putin",
-      "url": "https://www.huffpost.com/entry/ap-eu-russia-ukraine-war_n_6af86afae4b0016f2eb7d5de",
-      "source": "HuffPost",
-      "publishedAt": "2026-11-14T14:09:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "The Muslim Brotherhood: Program, Strategy, Organisation",
       "url": "https://www.globalresearch.ca/muslim-brotherhood-program-strategy-organisation/5945793",
       "source": "Globalresearch.ca",
@@ -155,44 +163,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-conflicted-iran-strategy-leaves-middle-east-in-uncertainty-post-elections/articleshow/135825146.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-14T06:40:10Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Marco Rubio Offers Another Nearly Perfect Rebuke of Globalism in EPIC Speech (VIDEO)",
       "url": "https://www.thegatewaypundit.com/2026/11/marco-rubio-offers-another-nearly-perfect-rebuke-globalism/",
       "source": "Thegatewaypundit.com",
       "publishedAt": "2026-11-14T04:10:11Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "How Lebanon Became the Middle East’s Battleground",
-      "url": "http://foreignpolicy.com/2026/11/13/lebanon-middle-east-hezbollah-history-us-israel-military-war/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-11-13T19:38:34Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Lebanon’s president reassures Christians as they remain under pressure",
-      "url": "https://www.ewtnnews.com/world/middle-east/lebanon-s-president-reassures-christians-as-they-remain-under-pressure",
-      "source": "Ewtnnews.com",
-      "publishedAt": "2026-11-13T12:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Iranophobia: Netanyahu’s bid to transform fear into political survival",
-      "url": "https://www.aljazeera.com/news/2026/11/13/iranophobia-netanyahus-bid-to-transform-fear-into-political-survival",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-13T04:48:40Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
     }
   ]
 }

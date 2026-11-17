@@ -1,7 +1,167 @@
 {
-  "updated": "2026-11-17T01:35:35Z",
-  "count": 20,
+  "updated": "2026-11-17T15:30:05Z",
+  "count": 24,
   "articles": [
+    {
+      "title": "French soldiers have secretly been deployed to Ukraine for MONTHS",
+      "url": "https://www.dailymail.com/news/article-16296351/French-soldiers-secretly-deployed-Ukraine-MONTHS.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-16T15:18:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
+      "url": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-16T14:58:30Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-16T14:58:12Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Michael Hudson: US Wars on Russia and Iran Are Pushing the World Into a Great Depression",
+      "url": "https://www.nakedcapitalism.com/2026/11/prof-michael-hudson-us-wars-on-russia-and-iran-are-pushing-the-world-into-a-great-depression.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-16T14:55:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Your Vote Doesn’t Change the War Machine",
+      "url": "https://www.globalresearch.ca/your-vote-doesnt-change-war-machine/5945928",
+      "source": "Globalresearch.ca",
+      "publishedAt": "2026-11-16T14:51:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says he ‘may meet’ North Korea’s Kim Jong Un in China",
+      "url": "https://nypost.com/2026/11/16/us-news/trump-says-he-may-meet-north-koreas-kim-jong-un-in-china/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-16T14:48:21Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb",
+      "url": "https://www.aljazeera.com/news/2026/11/16/houthis-edge-closer-to-aden-as-yemeni-forces-pull-out-of-bab-al-mandeb",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-16T13:45:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "A Ukrainian drone maker says that if it had to do business facing Western levels of bureaucracy, it wouldn't exist",
+      "url": "https://www.businessinsider.com/ukraine-drone-maker-says-with-wests-level-bureaucracy-wouldnt-exist-2026-11#article",
+      "source": "Business Insider",
+      "publishedAt": "2026-11-16T13:44:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
+      "url": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-16T13:28:23Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Turkish crew rescued as cargo ship sinks in Black Sea",
+      "url": "https://www.hurriyetdailynews.com/turkish-crew-rescued-as-cargo-ship-sinks-in-black-sea-229481",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-11-16T13:19:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Transcript: MAGA Fractures on Hegseth as Trump Iran Humiliation Grows",
+      "url": "https://newrepublic.com/article/218013/transcript-maga-fractures-hegseth-trump-iran-humiliation-grows",
+      "source": "The New Republic",
+      "publishedAt": "2026-11-16T12:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Leave ‘no seat’ for Russia at Ukraine peace talks – Estonian MP",
+      "url": "https://rt-english.com/news/648897-estonian-mp-ukraine-peace/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-16T12:17:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 11/16/2026",
+      "url": "https://www.nakedcapitalism.com/2026/11/links-11-16-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-16T11:55:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israeli military intelligence concerned Hezbollah may join a war with Iran",
+      "url": "https://www.israelnationalnews.com/news/436307",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-16T11:05:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume?",
+      "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-16T10:14:27Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IAF strikes Hezbollah weapons shipment on Syria-Lebanon border",
+      "url": "https://www.israelnationalnews.com/news/436293",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-16T08:47:03Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran Says Door to Peace Still Open after Strikes on Bahrain",
+      "url": "https://www.rigzone.com/news/wire/iran_says_door_to_peace_still_open_after_strikes_on_bahrain-16-nov-2026-185086-article/",
+      "source": "Rigzone",
+      "publishedAt": "2026-11-16T08:15:19Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "IDF arrests two brothers in overnight Shebaa raid; unusual strike reported in Beqaa",
+      "url": "https://www.israelnationalnews.com/news/436287",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-16T07:16:03Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "In demanding Iraq disarm Shiite Militias, US Misreads its Security Landscape",
+      "url": "https://www.juancole.com/2026/11/demanding-militias-landscape.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-11-16T05:04:16Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel accuses arrested AFP journalist of Hamas links",
+      "url": "https://rt-english.com/news/648878-israel-arrests-afp-journalist-over/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-16T04:03:27Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
     {
       "title": "60 Minutes Transcript: Families of U.S. soldiers killed in Iran war",
       "url": "https://www.cbsnews.com/news/cost-of-war-iran-60-minutes-transcript/",
@@ -9,30 +169,6 @@
       "publishedAt": "2026-11-16T00:00:15Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "World watching as historic meeting between Trump, Putin and Xi looms",
-      "url": "https://www.sbs.com.au/news/article/trump-xi-putin-meeting/lanttf9lg",
-      "source": "SBS News",
-      "publishedAt": "2026-11-15T23:02:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "NATO ally foils arson attack on drone factory — and says Russia is to blame",
-      "url": "https://nypost.com/2026/11/15/world-news/estonia-closes-all-russia-border-crossings-after-suspected-arson-attack/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-15T20:42:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine Donbas ask signals potential shift in Washington’s negotiation tactics",
-      "url": "https://www.irishtimes.com/world/europe/2026/11/15/ukraine-donbas-ask-signals-potential-shift-in-washingtons-negotiation-tactics/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-15T19:05:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran Hits Bahrain Again as Guards Declare Hormuz “Closed”",
@@ -43,90 +179,10 @@
       "_label": "Iran War"
     },
     {
-      "title": "Estonia to close border crossings with Russia after attack on drone maker",
-      "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-15T18:07:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian diesel under Trump deal struggles to reach U.S. market amid legal fears and criticism",
-      "url": "https://www.cnn.com/2026/11/15/politics/russia-diesel-trump-deal-oil-tankers",
-      "source": "CNN",
-      "publishedAt": "2026-11-15T17:55:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Another Round of Negotiations With Ukraine Ends Without Substantial Results",
-      "url": "https://www.globalresearch.ca/negotiations-ukraine-ends-without-substantial-results/5945876",
-      "source": "Globalresearch.ca",
-      "publishedAt": "2026-11-15T17:23:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Zelenskyy Says US Offered NATO Membership In Exchange For Giving Up Donbas To Russia",
-      "url": "https://dailycaller.com/2026/11/15/zelensky-us-putin-nato-membership-donbas-withdrawal",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-11-15T17:02:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Denying Hezbollah capabilities, not the illusion of deterrence, is the goal",
       "url": "https://www.israelnationalnews.com/news/436245",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-11-15T16:56:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Estonia to CLOSE Russian border in two weeks after 'sabotage' attack",
-      "url": "https://www.dailymail.com/news/article-16294399/Estonia-CLOSE-Russian-border.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-15T15:54:31Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Pentagon Ignored a Warning About the Danger of Iran’s Drones",
-      "url": "https://www.theatlantic.com/national-security/2026/11/pentagon-drones-iran-war-hegseth/689425/?utm_source=feed",
-      "source": "The Atlantic",
-      "publishedAt": "2026-11-15T14:52:46Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran Downs US Aircraft As Israel Prepares ‘Unprecedented Strikes’ Amidst Election Turmoil",
-      "url": "https://activistpost.com/iran-downs-us-aircraft-as-israel-prepares-unprecedented-strikes-amidst-election-turmoil/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-11-15T14:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
-      "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-15T13:37:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Al Jazeera English marks 20 years: Stories that shaped the journey",
-      "url": "https://www.aljazeera.com/news/2026/11/15/al-jazeera-english-marks-20-years-stories-that-shaped-the-journey",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-15T13:30:51Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 11/15/2026",
-      "url": "https://www.nakedcapitalism.com/2026/11/links-11-15-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-15T11:55:52Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -137,30 +193,6 @@
       "publishedAt": "2026-11-15T11:42:02Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Israel kills a top Hamas commander in Gaza",
-      "url": "https://www.abc.net.au/news/2026-11-15/israel-kills-top-hamas-commander/107388044",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-11-15T10:33:50Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Bahrain intercepts Iranian drone attacks on US military base",
-      "url": "https://www.dailymail.com/news/article-16294021/Bahrain-Iranian-drone-attacks-US-military-base.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-15T09:36:16Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Reports of Iranian Missile Attack on US Warships Remain Unverified; CENTCOM Not Commenting",
-      "url": "https://www.naturalnews.com/2026-11-15-reports-iranian-missile-attack-us-warships-remain-unverified.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-15T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     }
   ]
 }

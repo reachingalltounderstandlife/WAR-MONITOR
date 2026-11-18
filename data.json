@@ -1,7 +1,111 @@
 {
-  "updated": "2026-11-18T15:07:32Z",
-  "count": 33,
+  "updated": "2026-11-18T23:53:25Z",
+  "count": 36,
   "articles": [
+    {
+      "title": "Did NATO cancel summits until Trump leaves office over fears he'll share intel with Putin?",
+      "url": "https://www.snopes.com/news/2026/11/17/nato-cancel-summits-trump-putin/",
+      "source": "Snopes.com",
+      "publishedAt": "2026-11-17T22:12:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Pentagon Official Says Ukraine War Likely To Last Through Winter, Despite Mediation Efforts",
+      "url": "https://www.rferl.org/a/pentagon-colby-ukraine-russia-pistorius-ceasefire-talks/33900531.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-11-17T21:42:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Tells Ukraine’s Backers Deep Strikes Don’t Work, Urges Focus On Front-Line Equipment",
+      "url": "https://www.military.com/us-tells-ukraines-backers-deep-strikes-dont-work-urges-focus-on-front-line-equipment",
+      "source": "Military.com",
+      "publishedAt": "2026-11-17T21:02:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+      "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-17T20:57:56Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "CNN, NYT Push Dubious Reports on Iran That Critics Liken to Iraq WMD Lies",
+      "url": "https://truthout.org/articles/cnn-nyt-push-dubious-reports-on-iran-that-critics-liken-to-iraq-wmd-lies/",
+      "source": "Truthout",
+      "publishedAt": "2026-11-17T20:18:06Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
+      "url": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/",
+      "source": "POLITICO.eu",
+      "publishedAt": "2026-11-17T19:53:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Angry crowds rally against Slovakia's pro-Russian leader on Velvet Revolution anniversary",
+      "url": "https://abcnews.com/International/wireStory/angry-crowds-rally-slovakias-pro-russian-leader-velvet-138221924",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-11-17T19:04:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine cripples Crimean bridge in blow to Putin before meeting with Xi, Trump",
+      "url": "https://www.cbc.ca/news/world/ukraine-drones-russia-crimea-bridge-9.7425197",
+      "source": "CBC News",
+      "publishedAt": "2026-11-17T17:30:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia’s Demands",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/11/russias-demands",
+      "source": "Lawyersgunsmoneyblog.com",
+      "publishedAt": "2026-11-17T17:28:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine releases video showing damage to Putin's prized bridge following 'unprecedented operation' in Crimea",
+      "url": "https://www.foxnews.com/world/ukraine-releases-video-showing-damage-putins-prized-bridge-following-unprecedented-operation-crimea",
+      "source": "Fox News",
+      "publishedAt": "2026-11-17T17:15:42Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "European Rearmament Risks Political Peril",
+      "url": "https://foreignpolicy.com/2026/11/17/europe-rearmament-russia-ukraine-defense-social-spending-protest/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-11-17T17:11:46Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
+      "url": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-17T16:20:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Yalta 2.0? Why Trump, Xi and Putin’s meeting in Shenzhen has capitals on edge",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/11/17/yalta-20-why-trump-xi-and-putins-meeting-in-shenzhen-has-capitals-on-edge/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-17T16:15:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "A 2-Month Lull Ends With Iran’s Third Strike on US Targets in Bahrain",
       "url": "https://www.military.com/a-2-month-lull-ends-with-irans-third-strike-on-us-targets-in-bahrain",
@@ -11,36 +115,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "'A chilling development': TD criticises EU sanctioning of Irishman Chay Bowes",
-      "url": "https://www.thejournal.ie/chay-bowes-russia-sanctions-7228818-Nov2026/",
-      "source": "TheJournal.ie",
-      "publishedAt": "2026-11-17T14:02:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin’s preposterous proposals are no path to peace",
-      "url": "https://www.iss.europa.eu/publications/commentary/putins-preposterous-proposals-are-no-path-peace",
-      "source": "Europa.eu",
-      "publishedAt": "2026-11-17T14:00:02Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Beyond the Binary of War and Peace: Why the U.S., Israel, and Iran Must Return to Legal Intermediacy",
       "url": "https://opiniojuris.org/2026/11/17/beyond-the-binary-of-war-and-peace-why-the-u-s-israel-and-iran-must-return-to-legal-intermediacy/",
       "source": "Opiniojuris.org",
       "publishedAt": "2026-11-17T13:00:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "What could Putin, Xi, and Trump discuss at their meeting in China?",
-      "url": "https://rt-english.com/russia/648943-russia-china-us-summit/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-17T12:40:46Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran attacks US military radar system in Bahrain with drones",
@@ -57,14 +137,6 @@
       "publishedAt": "2026-11-17T12:33:51Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "France Quietly Deployed Troops Inside Ukraine—And Its Own Lawmakers Were Kept in the Dark, According to AFP",
-      "url": "https://freerepublic.com/focus/f-chat/4403337/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-11-17T12:32:36Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "A 2-month lull ends with Iran's third strike on US targets in Bahrain",
@@ -89,22 +161,6 @@
       "publishedAt": "2026-11-17T11:31:43Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Germany and Norway to buy more US air defences for Ukraine",
-      "url": "https://www.thelocal.de/20261117/germany-and-norway-to-buy-more-us-air-defences-for-ukraine",
-      "source": "The Local Germany",
-      "publishedAt": "2026-11-17T11:13:35Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Secret French Military Deployment to Ukraine Uncovered: Report",
-      "url": "https://www.breitbart.com/europe/2026/11/17/secret-french-military-deployment-to-ukraine-report/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-11-17T09:29:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Trump heads to Asia ahead of high-stakes meeting with Xi and Putin",
@@ -151,24 +207,8 @@
       "url": "https://www.israelnationalnews.com/news/436388",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-11-17T06:50:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Gold to fall more? Check gold price outlook for November 17, 2026",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-november-17-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/135913028.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-17T06:08:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Third U.S. Aircraft Carrier Arrives in Middle East as Iran Claims Drone Strikes; IAEA Talks Stall",
-      "url": "https://www.naturalnews.com/2026-11-17-third-us-aircraft-carrier-arrives-middle-east.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-17T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Stories of survival and pain: Children amid Israel’s war on south Lebanon",
@@ -195,14 +235,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "JD Vance promises Iran won’t turn into ‘forever war’ — and Trump will end it by 2028",
-      "url": "https://nypost.com/2026/11/16/us-news/jd-vance-promises-iran-wont-turn-into-forever-war-and-trump-will-end-it-by-2028/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-16T21:06:54Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The Middle East Is Finally on Its Own",
       "url": "http://foreignpolicy.com/2026/11/16/united-states-middle-east-intervention-era-over/",
       "source": "Foreign Policy",
@@ -223,14 +255,6 @@
       "url": "https://www.foxnews.com/politics/trump-leaves-door-open-kim-jong-un-joining-high-stakes-talks-xi-putin",
       "source": "Fox News",
       "publishedAt": "2026-11-16T17:21:56Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump heads to Asia for nuclear talks with Xi, Putin; Ukraine on agenda",
-      "url": "https://www.business-standard.com/world-news/trump-heads-to-asia-for-nuclear-talks-with-xi-putin-ukraine-on-agenda-126111601758_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-16T16:59:22Z",
       "_cat": "korea",
       "_label": "N. Korea"
     },

@@ -1,7 +1,127 @@
 {
-  "updated": "2026-11-17T15:30:05Z",
-  "count": 24,
+  "updated": "2026-11-18T00:32:38Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Kaliningrad May Be the World’s Most Dangerous Flashpoint",
+      "url": "https://original.antiwar.com/ted_galen_carpenter/2026/11/16/kaliningrad-may-be-the-worlds-most-dangerous-flashpoint/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-11-17T00:00:57Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Appeasement Does Not Work WIth Putin",
+      "url": "https://michaelmcfaul.substack.com/p/appeasement-does-not-work-with-putin",
+      "source": "Substack.com",
+      "publishedAt": "2026-11-17T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says he might meet with North Korea's Kim Jong Un in China",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6b6f5cc8-4558-44ee-b0fa-b8c6ee82b1b3",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-16T23:31:59Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "French troops secretly deployed inside Ukraine as ex-NATO chief praises Macron's 'guts'",
+      "url": "https://www.foxnews.com/world/french-troops-secretly-deployed-ukraine-ex-nato-chief-praises-macrons-guts",
+      "source": "Fox News",
+      "publishedAt": "2026-11-16T22:44:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "PM speech at the Lord Mayor's Banquet: 16 November 2026",
+      "url": "https://www.gov.uk/government/speeches/pm-speech-at-the-lord-mayors-banquet-16-november-2026",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-11-16T21:55:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "JD Vance promises Iran won’t turn into ‘forever war’ — and Trump will end it by 2028",
+      "url": "https://nypost.com/2026/11/16/us-news/jd-vance-promises-iran-wont-turn-into-forever-war-and-trump-will-end-it-by-2028/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-16T21:06:54Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The Middle East Is Finally on Its Own",
+      "url": "http://foreignpolicy.com/2026/11/16/united-states-middle-east-intervention-era-over/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-11-16T20:49:31Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Cargo Ship Capsizes Off Bulgaria After Reported Sea Drone Attack",
+      "url": "https://gcaptain.com/cargo-ship-capsizes-off-bulgaria-after-reported-sea-drone-attack/",
+      "source": "gcaptain.com",
+      "publishedAt": "2026-11-16T20:36:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel strikes deep inside Lebanon, says it targeted Hezbollah arms shipment",
+      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-11-16/ty-article/.premium/israel-strikes-deep-inside-lebanon-after-prolonged-restraint-at-u-s-request/000001a1-e597-d029-abeb-e7b725d00000",
+      "source": "Haaretz",
+      "publishedAt": "2026-11-16T20:04:30Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Demands made by Russia for Ukraine war settlement ‘absurd’, Kallas says",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/16/demands-made-by-russia-for-ukraine-war-settlement-absurd-kallas-says/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-16T18:47:17Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Despite midterm election victories, the Democrats face an uphill battle to course correct American foreign policy towards European allies",
+      "url": "https://blogs.lse.ac.uk/usappblog/2026/11/16/trump-europe-foreign-policy/",
+      "source": "Lse.ac.uk",
+      "publishedAt": "2026-11-16T17:48:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump leaves door open to Kim Jong Un joining high-stakes talks with Xi, Putin",
+      "url": "https://www.foxnews.com/politics/trump-leaves-door-open-kim-jong-un-joining-high-stakes-talks-xi-putin",
+      "source": "Fox News",
+      "publishedAt": "2026-11-16T17:21:56Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump heads to Asia for nuclear talks with Xi, Putin; Ukraine on agenda",
+      "url": "https://www.business-standard.com/world-news/trump-heads-to-asia-for-nuclear-talks-with-xi-putin-ukraine-on-agenda-126111601758_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-16T16:59:22Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "(VIDEO) Trump Says He May Meet with Kim Jong Un Ahead of Unprecedented Meeting with Xi and Putin in China",
+      "url": "https://www.thegatewaypundit.com/2026/11/video-trump-says-he-may-meet-kim-jong/",
+      "source": "Thegatewaypundit.com",
+      "publishedAt": "2026-11-16T16:45:27Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Drawing China close, is Kim Jong Un bracing to confront the U.S.?",
+      "url": "https://www.cbsnews.com/news/north-korea-china-russia-kim-jong-un-nuclear-weapons-us-confrontation/",
+      "source": "CBS News",
+      "publishedAt": "2026-11-16T15:32:54Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "French soldiers have secretly been deployed to Ukraine for MONTHS",
       "url": "https://www.dailymail.com/news/article-16296351/French-soldiers-secretly-deployed-Ukraine-MONTHS.html",
@@ -23,14 +143,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o",
       "source": "BBC News",
       "publishedAt": "2026-11-16T14:58:12Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Michael Hudson: US Wars on Russia and Iran Are Pushing the World Into a Great Depression",
-      "url": "https://www.nakedcapitalism.com/2026/11/prof-michael-hudson-us-wars-on-russia-and-iran-are-pushing-the-world-into-a-great-depression.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-16T14:55:35Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -59,52 +171,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "A Ukrainian drone maker says that if it had to do business facing Western levels of bureaucracy, it wouldn't exist",
-      "url": "https://www.businessinsider.com/ukraine-drone-maker-says-with-wests-level-bureaucracy-wouldnt-exist-2026-11#article",
-      "source": "Business Insider",
-      "publishedAt": "2026-11-16T13:44:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian attacks kill three in Ukraine, EU accuses Moscow of prolonging war",
-      "url": "https://www.aljazeera.com/news/2026/11/16/russian-attacks-kill-three-in-ukraine-eu-accuses-moscow-of-prolonging-war",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-16T13:28:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Turkish crew rescued as cargo ship sinks in Black Sea",
-      "url": "https://www.hurriyetdailynews.com/turkish-crew-rescued-as-cargo-ship-sinks-in-black-sea-229481",
-      "source": "Hurriyet Daily News",
-      "publishedAt": "2026-11-16T13:19:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Transcript: MAGA Fractures on Hegseth as Trump Iran Humiliation Grows",
       "url": "https://newrepublic.com/article/218013/transcript-maga-fractures-hegseth-trump-iran-humiliation-grows",
       "source": "The New Republic",
       "publishedAt": "2026-11-16T12:30:00Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Leave ‘no seat’ for Russia at Ukraine peace talks – Estonian MP",
-      "url": "https://rt-english.com/news/648897-estonian-mp-ukraine-peace/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-16T12:17:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Links 11/16/2026",
-      "url": "https://www.nakedcapitalism.com/2026/11/links-11-16-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-16T11:55:42Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Israeli military intelligence concerned Hezbollah may join a war with Iran",
@@ -169,30 +241,6 @@
       "publishedAt": "2026-11-16T00:00:15Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Iran Hits Bahrain Again as Guards Declare Hormuz “Closed”",
-      "url": "https://freerepublic.com/focus/f-news/4403134/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-11-15T18:25:09Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Denying Hezbollah capabilities, not the illusion of deterrence, is the goal",
-      "url": "https://www.israelnationalnews.com/news/436245",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-15T16:56:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How to Stop Trump From Burning Down the House",
-      "url": "https://fpif.org/end-stage-trumpism/",
-      "source": "Fpif.org",
-      "publishedAt": "2026-11-15T11:42:02Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

@@ -1,7 +1,79 @@
 {
-  "updated": "2026-11-18T23:53:25Z",
-  "count": 36,
+  "updated": "2026-11-19T05:58:00Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Putin attacks Western action as Trump lands in China",
+      "url": "https://www.rte.ie/news/world/2026/1118/1599626-asia-trilateral-summit/",
+      "source": "RTE",
+      "publishedAt": "2026-11-18T05:04:02Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Xi and Putin to meet ahead of historic Trump trilateral",
+      "url": "https://www.rte.ie/news/2026/1118/1599626-asia-trilateral-summit/",
+      "source": "RTE",
+      "publishedAt": "2026-11-18T05:04:02Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Pakistani man gets 27 years for foiled plot to kill Trump, Biden",
+      "url": "https://www.dw.com/en/pakistani-man-gets-27-years-for-foiled-plot-to-kill-trump-biden/a-79976086",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-18T04:03:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump wants to show strength in China, but a series of technological snafus raises concerns at home",
+      "url": "https://m.economictimes.com/news/international/world-news/trump-wants-to-show-strength-in-china-but-a-series-of-technological-snafus-raises-concerns-at-home/articleshow/135946924.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-11-18T03:21:20Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump heads to China, betting on unscripted diplomacy with Xi and Putin",
+      "url": "https://m.economictimes.com/news/international/world-news/trump-heads-to-china-betting-on-unscripted-diplomacy-with-xi-and-putin/articleshow/135946150.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-11-18T02:41:17Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "US carries out self-defense strike on IRGC missile launch site on Qeshm Island",
+      "url": "https://freerepublic.com/focus/f-news/4403437/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-11-18T02:41:10Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "US strikes Iran's Qeshm Island missile site after attack on Bahrain base",
+      "url": "https://m.economictimes.com/news/defence/us-strikes-irans-qeshm-island-missile-site-after-attack-on-bahrain-base/articleshow/135945697.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-11-18T02:25:44Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Yalta 2.0 Or Grand Photo Op?",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/yalta-2-0-or-grand-photo-op/articleshow/135945409.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-18T02:03:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kim Jong Un's daughter hits ski slopes in rare photos as North Korean dictator tours mountain resort",
+      "url": "https://www.foxnews.com/world/kim-jong-uns-daughter-hits-ski-slopes-rare-photos-north-korean-dictator-tours-mountain-resort",
+      "source": "Fox News",
+      "publishedAt": "2026-11-18T01:00:29Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
     {
       "title": "Did NATO cancel summits until Trump leaves office over fears he'll share intel with Putin?",
       "url": "https://www.snopes.com/news/2026/11/17/nato-cancel-summits-trump-putin/",
@@ -91,14 +163,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
-      "url": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289",
-      "source": "DW (English)",
-      "publishedAt": "2026-11-17T16:20:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Yalta 2.0? Why Trump, Xi and Putin’s meeting in Shenzhen has capitals on edge",
       "url": "https://www.irishtimes.com/world/asia-pacific/2026/11/17/yalta-20-why-trump-xi-and-putins-meeting-in-shenzhen-has-capitals-on-edge/",
       "source": "The Irish Times",
@@ -139,22 +203,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "A 2-month lull ends with Iran's third strike on US targets in Bahrain",
-      "url": "https://m.economictimes.com/news/defence/a-2-month-lull-ends-with-irans-third-strike-on-us-targets-in-bahrain/articleshow/135924739.cms",
-      "source": "Economictimes.com",
-      "publishedAt": "2026-11-17T12:04:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 11/17/2026",
-      "url": "https://www.nakedcapitalism.com/2026/11/links-11-17-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-17T11:55:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Show HN: Automated satellite, seismic, and radar watch on North Korea",
       "url": "https://savenorthkorea.org/watch",
       "source": "Savenorthkorea.org",
@@ -179,30 +227,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Trump-Kim Jong Un reunion looks more likely after unexpected signal from Russia",
-      "url": "https://www.yahoo.com/news/politics/articles/odds-rise-trump-kim-meeting-071348804.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-17T07:22:18Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Korea fears a second Yalta",
-      "url": "https://www.irishtimes.com/world/2026/11/17/why-does-south-korea-fear-the-second-yalta-meeting-in-china/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-17T06:55:22Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Will Netanyahu lose this time?",
-      "url": "https://www.aljazeera.com/opinions/2026/11/17/will-netanyahu-finally-lose",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-17T06:53:23Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "The window of opportunity on Iran is getting narrower",
       "url": "https://www.israelnationalnews.com/news/436388",
       "source": "Israelnationalnews.com",
@@ -215,78 +239,6 @@
       "url": "https://www.aljazeera.com/features/2026/11/17/stories-of-survival-and-pain-children-amid-israels-war-on-south-lebanon",
       "source": "Al Jazeera English",
       "publishedAt": "2026-11-17T05:50:29Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump's Asia trip: Deals in Manila and Shenzhen, nuclear summit with Xi and Putin, maybe Kim meeting",
-      "url": "https://m.economictimes.com/news/international/world-news/trumps-asia-trip-deals-in-manila-and-shenzhen-nuclear-summit-with-xi-and-putin-maybe-kim-meeting/articleshow/135907617.cms",
-      "source": "Economictimes.com",
-      "publishedAt": "2026-11-17T02:18:32Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump says he might meet with North Korea's Kim Jong Un in China",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6b6f5cc8-4558-44ee-b0fa-b8c6ee82b1b3",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-16T23:31:59Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "The Middle East Is Finally on Its Own",
-      "url": "http://foreignpolicy.com/2026/11/16/united-states-middle-east-intervention-era-over/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-11-16T20:49:31Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel strikes deep inside Lebanon, says it targeted Hezbollah arms shipment",
-      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-11-16/ty-article/.premium/israel-strikes-deep-inside-lebanon-after-prolonged-restraint-at-u-s-request/000001a1-e597-d029-abeb-e7b725d00000",
-      "source": "Haaretz",
-      "publishedAt": "2026-11-16T20:04:30Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Trump leaves door open to Kim Jong Un joining high-stakes talks with Xi, Putin",
-      "url": "https://www.foxnews.com/politics/trump-leaves-door-open-kim-jong-un-joining-high-stakes-talks-xi-putin",
-      "source": "Fox News",
-      "publishedAt": "2026-11-16T17:21:56Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Israeli military intelligence concerned Hezbollah may join a war with Iran",
-      "url": "https://www.israelnationalnews.com/news/436307",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-16T11:05:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IAF strikes Hezbollah weapons shipment on Syria-Lebanon border",
-      "url": "https://www.israelnationalnews.com/news/436293",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-16T08:47:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "IDF arrests two brothers in overnight Shebaa raid; unusual strike reported in Beqaa",
-      "url": "https://www.israelnationalnews.com/news/436287",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-16T07:16:03Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Israel accuses arrested AFP journalist of Hamas links",
-      "url": "https://rt-english.com/news/648878-israel-arrests-afp-journalist-over/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-16T04:03:27Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
     }

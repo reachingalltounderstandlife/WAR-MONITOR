@@ -1,7 +1,231 @@
 {
-  "updated": "2026-11-20T00:18:45Z",
-  "count": 36,
+  "updated": "2026-11-20T14:54:39Z",
+  "count": 39,
   "articles": [
+    {
+      "title": "'Our phones are being taken away': White House seizes reporters' phones on Air Force One as Kim Jong Un meeting rumors swirl",
+      "url": "https://www.dailymail.com/news/article-16305799/Our-phones-taken-away-White-House-seizes-reporters-phones-Air-Force-One-Kim-Jong-meeting-rumors-swirl.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-19T13:49:49Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Pentagon Official Storms Out Of NATO Meeting After Scolding Ukraine",
+      "url": "https://crooksandliars.com/2026/11/pentagon-chief-storms-out-nato-meeting",
+      "source": "Crooksandliars.com",
+      "publishedAt": "2026-11-19T13:48:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea",
+      "url": "https://m.economictimes.com/news/international/world-news/third-ukrainian-strike-in-4-days-halts-rail-traffic-on-russias-kerch-bridge-to-crimea/articleshow/135994001.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-11-19T13:44:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A New International Order? Xi, Trump & Putin Hold Historic Trilateral Summit in China",
+      "url": "https://www.democracynow.org/2026/11/19/china_us_russia",
+      "source": "Democracy Now!",
+      "publishedAt": "2026-11-19T13:14:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s heir, but not his echo: JD Vance, Iran and the limits of loyalty",
+      "url": "https://timesofindia.indiatimes.com/world/us/trumps-heir-but-not-his-echo-jd-vance-iran-and-the-limits-of-loyalty/articleshow/135990600.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-19T12:44:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Putin vows a 'much more painful response' to Ukraine's attack on Crimea bridge moments after trilateral 'world peace' talks",
+      "url": "https://www.dailymail.com/news/article-16305673/Putin-vows-painful-response-Ukraines-attack-Crimea-bridge-moments-trilateral-world-peace-talks.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-19T12:44:26Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Prince Harry would serve in the military again: ‘I will 100% be there to serve my country’",
+      "url": "https://www.celebitchy.com/1008011/prince_harry_would_serve_in_the_military_again_i_will_100_be_there_to_serve_my_country/",
+      "source": "Celebitchy.com",
+      "publishedAt": "2026-11-19T12:25:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 11/19/2026",
+      "url": "https://www.nakedcapitalism.com/2026/11/links-11-19-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-19T11:55:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'It's absolutely horrific': Observers cringe as 'beaming' Trump greets Putin as 'friend'",
+      "url": "https://www.rawstory.com/donald-trump-putin-2678453521/",
+      "source": "Raw Story",
+      "publishedAt": "2026-11-19T11:52:19Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+      "url": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-19T11:38:39Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "The Week In Russia: A Blown Bridge, A Big Meeting, And A 'Ludicrous Fantasy'",
+      "url": "https://www.rferl.org/a/week-in-russia-gutterman-crimea-china-trump/33901569.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-11-19T11:18:40Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump's wounded ego drives him to staggering new stupidity on the world stage",
+      "url": "https://www.rawstory.com/raw-investigates/trump-china-2678447808/",
+      "source": "Raw Story",
+      "publishedAt": "2026-11-19T10:30:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Xi, Trump and Putin walked into a meeting. Russia’s autocrat appeared to be the biggest winner",
+      "url": "https://www.cbc.ca/news/world/xi-putin-trump-9.7428276",
+      "source": "CBC News",
+      "publishedAt": "2026-11-19T10:25:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Neutrality Works: Why Neutral States are Critical in a Multipolar World",
+      "url": "https://www.nakedcapitalism.com/2026/11/neutrality-works-why-neutral-states-are-critical-in-a-multipolar-world.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-19T10:18:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "'Heart of its nuclear program': North Korea expands Yongbyon facility as Trump seeks talks with Kim",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/heart-of-its-nuclear-program-north-korea-expands-yongbyon-facility-as-trump-seeks-talks-with-kim/articleshow/135985062.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-19T09:37:22Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "'We're making history': Trump opens unprecedented summit with Putin and Xi",
+      "url": "https://www.israelnationalnews.com/news/436608",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-19T09:31:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
+      "url": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-19T09:16:47Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
+      "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-19T07:52:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea is expanding its original uranium enrichment facility, UN nuclear watchdog says",
+      "url": "https://abcnews.com/International/wireStory/north-korea-expanding-original-uranium-enrichment-facility-nuclear-138276975",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-11-19T07:29:33Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
+      "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-19T07:08:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump calls Vance's landmark ceasefire deal with Iran a 'waste of time' in rare critique of his own vice president",
+      "url": "https://www.dailymail.com/news/article-16304721/Trump-critique-Vance-Iran-deal.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-19T06:36:01Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Binance Targets Full Withdrawal Reopening After $6.3 Billion Hack",
+      "url": "https://www.naturalnews.com/2026-11-19-binance-targets-full-withdrawal-reopening-after-hack.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-11-19T06:00:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea expanding original uranium enrichment facility: IAEA chief",
+      "url": "https://www.business-standard.com/world-news/north-korea-expanding-original-uranium-enrichment-facility-iaea-chief-126111900251_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-19T05:33:44Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The March of the Houthis: Saudi Arabia’s Coalition Collapses",
+      "url": "https://www.juancole.com/2026/11/houthis-coalition-collapses.html",
+      "source": "Juancole.com",
+      "publishedAt": "2026-11-19T05:06:03Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why has Jordan kept U.S. troops despite Iranian attacks?",
+      "url": "https://www.americanthinker.com/blog/2026/11/why-has-jordan-kept-u-s-troops-despite-iranian-attacks/",
+      "source": "Americanthinker.com",
+      "publishedAt": "2026-11-19T05:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "China Challenges 500 Years of Anglo-Saxon Hegemony over the World’s Oceans",
+      "url": "https://michelchossudovsky.substack.com/p/china-challenges-500-years-anglo-saxon-hegemony-world-oceans",
+      "source": "Substack.com",
+      "publishedAt": "2026-11-19T04:49:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says historic summit with Xi, Putin already a 'win' before event",
+      "url": "https://www.channelnewsasia.com/world/trump-summit-china-xi-putin-6564716",
+      "source": "CNA",
+      "publishedAt": "2026-11-19T04:12:40Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Report: Netanyahu pressing Trump to join new four-to-seven-day assault on Iran",
+      "url": "https://www.israelnationalnews.com/news/436577",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-19T02:29:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "China Watchdog Warns Trump Faces ‘2-On-1’ Showdown With Xi, Putin As Taiwan Risks Mount",
       "url": "https://whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount",
@@ -27,30 +251,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Putin makes major Arctic announcement at APEC summit",
-      "url": "https://rt-english.com/russia/649039-putin-arctic-asia-pacific-investors/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-18T22:46:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Prince Harry Issues Chilling Russia War Warning, Says He’d Rejoin Army",
-      "url": "https://www.thehollywoodgossip.com/prince-harry-issues-chilling-russia-war-warning-says-hed-rejoin-army/",
-      "source": "The Hollywood Gossip",
-      "publishedAt": "2026-11-18T22:23:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US races to build bunkers across Middle East as Iranian strikes threaten American troops",
-      "url": "https://www.foxnews.com/world/us-races-build-bunkers-across-middle-east-iranian-strikes-threaten-american-troops",
-      "source": "Fox News",
-      "publishedAt": "2026-11-18T21:18:28Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Putin brings nuclear 'football' briefcase on trip to meet Trump and Xi",
       "url": "https://www.dailymail.com/news/article-16303603/Putin-brings-nuclear-football-briefcase-Trump.html",
       "source": "Dailymail.com",
@@ -67,46 +267,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "More missiles, more war: Europe pledges to keep Kiev fighting",
-      "url": "https://rt-english.com/news/649037-nato-europe-ukraine-weapons/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-18T21:01:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
-      "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-18T21:01:05Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Pentagon Blasts Ukraine’s Russia Strikes, NATO Allies Fire Back",
-      "url": "https://dailycaller.com/2026/11/18/trump-pentagon-ukraine-russia-department-war-nato/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-11-18T20:57:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "11/18/26 National Security and Korean News and Commentary",
-      "url": "https://smallwarsjournal.com/2026/11/18/11-18-26-national-security-and-korean-news-and-commentary/",
-      "source": "Smallwarsjournal.com",
-      "publishedAt": "2026-11-18T20:51:45Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Russian Bombers Rattle American Allies Days Before Trump-Putin-Xi Summit",
-      "url": "https://dailycaller.com/2026/11/18/russian-bombers-american-allies-trump-putin-xi-summit/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-11-18T20:47:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "China watchdog warns Trump faces ‘2-on-1’ showdown with Xi, Putin as Taiwan risks mount",
       "url": "https://www.foxnews.com/world/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount",
       "source": "Fox News",
@@ -115,124 +275,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Why did Vladimir Putin deploy two nuclear bombers before US-China-Russia summit?",
-      "url": "https://www.irishtimes.com/world/asia-pacific/2026/11/18/why-did-vladimir-putin-deploy-two-nuclear-bombers-before-us-china-russia-summit/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-18T18:44:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran attacks U.S. bases in Gulf countries despite diplomatic efforts to end 9-month war",
       "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2380f9b0-f447-4a27-8723-472c206da77c",
       "source": "Yahoo Entertainment",
       "publishedAt": "2026-11-18T18:30:39Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Prince Harry Says He'd Rejoin Military 'If the Need Is There,' Warns 'We Should All Be Nervous' About Russia",
-      "url": "https://www.ibtimes.com.au/prince-harry-ready-serve-british-armed-forces-again-1878897",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-11-18T18:09:59Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Hard Truths on Iran and Ukraine",
-      "url": "https://dailyreckoning.com/post/hard-truths-on-iran-and-ukraine",
-      "source": "Dailyreckoning.com",
-      "publishedAt": "2026-11-18T18:00:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "US rebukes Ukraine for ‘spectacle’ strikes",
-      "url": "https://rt-english.com/news/649006-wildberries-strikes-pentagon-stupid/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-18T17:42:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Xi urges open trade, Putin criticises sanctions as Trump lands in China",
-      "url": "https://www.business-standard.com/world-news/xi-urges-open-trade-putin-criticises-sanctions-as-trump-lands-in-china-126111801148_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-18T17:36:21Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Iran War Strikes Escalate as US Hits Qeshm Island, Tehran Fires Drones at Kuwait Base and Bahrain Radar",
-      "url": "https://www.ibtimes.com.au/us-iran-strikes-threaten-strait-hormuz-shipping-1878878",
-      "source": "Ibtimes.com.au",
-      "publishedAt": "2026-11-18T15:41:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Xi and Putin blast Western 'protectionism' and sanctions as Trump lands in China",
-      "url": "https://finance.yahoo.com/news/chinas-xi-calls-free-open-032339112.html",
-      "source": "Yahoo Entertainment",
-      "publishedAt": "2026-11-18T15:28:07Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea expanded uranium enrichment plant, says IAEA head",
-      "url": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758",
-      "source": "DW (English)",
-      "publishedAt": "2026-11-18T15:15:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Vladimir is Putin his place: Moment Xi appears to snub Russian leader's handshake... before telling him to shove along to make room for his wife",
-      "url": "https://www.dailymail.com/news/article-16302861/Putin-place-Xi-snub-Russian-leader-handshake-shove-make-room-wife.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-18T15:05:28Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "US official says Hormuz insurance hits $64m: Is the strait really open?",
-      "url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-18T14:47:34Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "‘Status quo’ between US and Iran could break out into war, analysts warn",
-      "url": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-18T14:36:20Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Death by algorithm: the human cost of AI on the battlefield",
-      "url": "https://theconversation.com/death-by-algorithm-the-human-cost-of-ai-on-the-battlefield-296080",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-11-18T13:48:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "How the US power rivalry with Russia and China is turning outer space into the next battlefront",
-      "url": "https://theconversation.com/how-the-us-power-rivalry-with-russia-and-china-is-turning-outer-space-into-the-next-battlefront-293414",
-      "source": "The Conversation Africa",
-      "publishedAt": "2026-11-18T13:36:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump Finally Gets His Dream Summit With His Favorite Ruthless Dictators",
-      "url": "https://www.huffpost.com/entry/trump-dictator-summit_n_6afb278ee4b04eba4d44f301",
-      "source": "HuffPost",
-      "publishedAt": "2026-11-18T13:00:17Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "‘An absolutely unprecedented event’: Russian experts react to Putin-Trump-Xi meeting",
@@ -243,36 +291,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "White House Silent On Israel’s Massive NDAA Windfall Despite Trump’s Aid Cut Pledge",
-      "url": "https://dailycaller.com/2026/11/18/white-house-silent-2027-ndaa-israel-carveouts/",
-      "source": "The Daily Caller",
-      "publishedAt": "2026-11-18T12:49:13Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Xi and Putin criticise western policies as Trump arrives in China",
-      "url": "https://www.irishtimes.com/world/2026/11/18/xi-and-putin-criticise-western-policies-as-trump-arrives-in-china/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-18T12:43:28Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "We Need Reykjavik 2.0 to End the Nuclear Threat",
       "url": "https://www.commondreams.org/opinion/reykjavik-2-0",
       "source": "Common Dreams",
       "publishedAt": "2026-11-18T12:33:03Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Trump seeks to show strength in China, but series of technological snafus raises concerns at home",
-      "url": "https://www.thehindubusinessline.com/news/world/trump-seeks-to-show-strength-in-china-but-series-of-technological-snafus-raises-concerns-at-home/article71715450.ece",
-      "source": "BusinessLine",
-      "publishedAt": "2026-11-18T12:11:54Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     },
     {
       "title": "Iran attacks U.S. bases in Gulf countries despite diplomatic efforts to end 9-month war",

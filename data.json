@@ -1,7 +1,231 @@
 {
-  "updated": "2026-11-20T14:54:39Z",
-  "count": 39,
+  "updated": "2026-11-20T23:41:11Z",
+  "count": 43,
   "articles": [
+    {
+      "title": "Despite Midterms Pledge, Trump Is In Zero Rush To Make A Decision On Iran",
+      "url": "https://www.huffpost.com/entry/despite-midterms-pledge-trump-is-in-zero-rush-to-bring-iran-conflict-to-an-end_n_6aff7e5de4b0976dc4a27f8f",
+      "source": "HuffPost",
+      "publishedAt": "2026-11-19T23:09:57Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "ASRA Q. NOMANI: Inside the coordinated activist blitz that crashed Anthropic’s historic Nasdaq debut",
+      "url": "https://www.foxnews.com/politics/asra-q-nomani-inside-coordinated-activist-blitz-crashed-anthropic-historic-nasdaq-debut",
+      "source": "Fox News",
+      "publishedAt": "2026-11-19T22:57:07Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "The U.S. and Iran Are Back to Trading Strikes",
+      "url": "https://foreignpolicy.com/2026/11/19/us-iran-strikes-bahrain-kuwait-trump/",
+      "source": "Foreign Policy",
+      "publishedAt": "2026-11-19T22:39:31Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "11/19/26 National Security and Korean News and Commentary",
+      "url": "https://smallwarsjournal.com/2026/11/19/11-19-26-national-security-and-korean-news-and-commentary/",
+      "source": "Smallwarsjournal.com",
+      "publishedAt": "2026-11-19T22:01:10Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump pushes Iran war decision to 2027, says he will 'see what happens' after January 1",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-pushes-iran-war-decision-to-2027-says-he-will-see-what-happens-after-january-1/articleshow/136005177.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-19T21:44:33Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Who will write the terms of peace? Trump wants to cut off aid to Ukraine and sees a deal with Putin; ‘Not without us,’ Europe replies",
+      "url": "https://en.protothema.gr/2026/11/19/who-will-write-the-terms-of-peace-trump-wants-to-cut-off-aid-to-ukraine-and-sees-a-deal-with-putin-not-without-us-europe-replies/",
+      "source": "Protothema.gr",
+      "publishedAt": "2026-11-19T21:43:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump China trip: Iran and Ukraine not in 'peace declaration' and more takeaways",
+      "url": "https://abcnews.com/Politics/trump-china-trip-iran-ukraine-peace-declaration-takeaways/story?id=138292154",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-11-19T21:24:14Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Trump to decide on renewed strikes on Iran in early 2027",
+      "url": "https://www.rte.ie/news/middle-east/2026/1119/1599925-us-iran/",
+      "source": "RTE",
+      "publishedAt": "2026-11-19T21:04:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Global security, Ukraine peace process and EU+ invitation to Moscow: Key takeaways from Putin’s APEC press meeting",
+      "url": "https://rt-english.com/russia/649131-putin-apec-press-meeting/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-19T21:00:52Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump says he still plans to meet Kim Jong Un after leaving Asia without talks",
+      "url": "https://www.yahoo.com/news/world/article/trump-says-surprise-visit-with-north-koreas-kim-jong-un-on-asia-trip-didnt-work-out--but-vows-to-have-that-meeting-in-the-future-205124200.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-19T20:54:02Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Macron urges Ukraine's allies to 'reopen the question' of NATO membership",
+      "url": "https://freerepublic.com/focus/f-news/4403666/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-11-19T20:51:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Taiwan reports 2 Russian military aircraft nearby for second time this week",
+      "url": "https://nypost.com/2026/11/19/world-news/taiwan-reports-2-russian-military-aircraft-nearby-for-second-time-this-week/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-19T20:11:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Top US General Huddles With Israel As Iran War Clouds Gather",
+      "url": "https://dailycaller.com/2026/11/19/brad-cooper-centcom-idf-mossad-meeting-iran-war/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-11-19T20:01:39Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump Pentagon Blasts Ukraine’s Russia Strikes, NATO Allies Fire Back",
+      "url": "https://freerepublic.com/focus/f-news/4403660/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-11-19T19:22:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump’s Strategic Blunder in Calling Putin and Xi “My Friends”",
+      "url": "https://www.nakedcapitalism.com/2026/11/trumps-strategic-blunder-in-calling-putin-and-xi-my-friends.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-19T19:00:52Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Hillary Clinton accuses Trump of 'aiding and abetting' humanitarian crisis in Ukraine",
+      "url": "https://www.foxnews.com/media/hillary-clinton-accuses-trump-aiding-abetting-humanitarian-crisis-ukraine",
+      "source": "Fox News",
+      "publishedAt": "2026-11-19T18:26:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel strikes Hezbollah stronghold deep in Lebanon for first time in months",
+      "url": "https://www.haaretz.com/middle-east-news/lebanonnews/2026-11-19/ty-article/.premium/israel-strikes-lebanons-bekaa-region-for-first-time-in-months/000001a1-f4f4-dad7-a9fd-f6ffce620000",
+      "source": "Haaretz",
+      "publishedAt": "2026-11-19T18:12:28Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Israel strikes Hezbollah site in Lebanon's Beqaa Valley",
+      "url": "https://biztoc.com/x/f1c512b7edeecb96",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-19T18:06:33Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Iran Rails Against 'Foreign Interference' After China, Russia, U.S. Unite on Oil and Nuclear",
+      "url": "https://www.breitbart.com/middle-east/2026/11/19/iran-rails-against-foreign-interference-after-china-russia-u-s-unite-on-oil-and-nuclear/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-11-19T17:52:57Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "European allies say more support crucial for Ukraine to withstand ‘long’ winter",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/19/european-allies-say-more-support-crucial-for-ukraine-to-withstand-long-winter/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-19T17:29:47Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
+      "url": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-19T17:15:30Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Ukraine's allies meet in Berlin after Trump-Putin-Xi talks",
+      "url": "https://www.channelnewsasia.com/world/ukraine-russia-coalition-willing-berlin-bilateral-talks-6566721",
+      "source": "CNA",
+      "publishedAt": "2026-11-19T17:09:45Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Should Withdraw U.S. Troops From Kosovo",
+      "url": "https://www.theamericanconservative.com/trump-should-withdraw-u-s-troops-from-kosovo/",
+      "source": "The American Conservative",
+      "publishedAt": "2026-11-19T17:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump's money man Scott Bessent secretly moved from home over 'Iranian chemical plot' as president weighs savage new war blitz",
+      "url": "https://www.dailymail.com/news/article-16306347/Trump-Scott-Bessent-moved-Iranian-chemical.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-19T16:51:26Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Palestinians flee as Israeli tanks cross Gaza ceasefire’s ‘yellow line’",
+      "url": "https://www.nbcnews.com/world/middle-east/gaza-ceasefire-tested-israel-tanks-cross-yellow-line-ground-raid-rcna610169",
+      "source": "NBC News",
+      "publishedAt": "2026-11-19T15:58:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Martel: the Trump-Putin-Xi Summit Is a Nightmare for Iran",
+      "url": "https://www.breitbart.com/middle-east/2026/11/19/martel-the-trump-putin-xi-summit-is-a-nightmare-for-iran/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-11-19T15:52:54Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Ukraine allies meet in Berlin following Trump-Putin-Xi talks",
+      "url": "https://www.thelocal.de/20261119/ukraine-allies-meet-in-berlin-following-trump-putin-xi-talks",
+      "source": "The Local Germany",
+      "publishedAt": "2026-11-19T15:51:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+      "source": "BBC News",
+      "publishedAt": "2026-11-19T15:23:34Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
     {
       "title": "'Our phones are being taken away': White House seizes reporters' phones on Air Force One as Kim Jong Un meeting rumors swirl",
       "url": "https://www.dailymail.com/news/article-16305799/Our-phones-taken-away-White-House-seizes-reporters-phones-Air-Force-One-Kim-Jong-meeting-rumors-swirl.html",
@@ -9,30 +233,6 @@
       "publishedAt": "2026-11-19T13:49:49Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Pentagon Official Storms Out Of NATO Meeting After Scolding Ukraine",
-      "url": "https://crooksandliars.com/2026/11/pentagon-chief-storms-out-nato-meeting",
-      "source": "Crooksandliars.com",
-      "publishedAt": "2026-11-19T13:48:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea",
-      "url": "https://m.economictimes.com/news/international/world-news/third-ukrainian-strike-in-4-days-halts-rail-traffic-on-russias-kerch-bridge-to-crimea/articleshow/135994001.cms",
-      "source": "Economictimes.com",
-      "publishedAt": "2026-11-19T13:44:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "A New International Order? Xi, Trump & Putin Hold Historic Trilateral Summit in China",
-      "url": "https://www.democracynow.org/2026/11/19/china_us_russia",
-      "source": "Democracy Now!",
-      "publishedAt": "2026-11-19T13:14:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Trump’s heir, but not his echo: JD Vance, Iran and the limits of loyalty",
@@ -51,14 +251,6 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Prince Harry would serve in the military again: ‘I will 100% be there to serve my country’",
-      "url": "https://www.celebitchy.com/1008011/prince_harry_would_serve_in_the_military_again_i_will_100_be_there_to_serve_my_country/",
-      "source": "Celebitchy.com",
-      "publishedAt": "2026-11-19T12:25:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Links 11/19/2026",
       "url": "https://www.nakedcapitalism.com/2026/11/links-11-19-2026.html",
       "source": "Nakedcapitalism.com",
@@ -67,52 +259,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "'It's absolutely horrific': Observers cringe as 'beaming' Trump greets Putin as 'friend'",
-      "url": "https://www.rawstory.com/donald-trump-putin-2678453521/",
-      "source": "Raw Story",
-      "publishedAt": "2026-11-19T11:52:19Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
       "url": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence",
       "source": "Al Jazeera English",
       "publishedAt": "2026-11-19T11:38:39Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "The Week In Russia: A Blown Bridge, A Big Meeting, And A 'Ludicrous Fantasy'",
-      "url": "https://www.rferl.org/a/week-in-russia-gutterman-crimea-china-trump/33901569.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-11-19T11:18:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump's wounded ego drives him to staggering new stupidity on the world stage",
-      "url": "https://www.rawstory.com/raw-investigates/trump-china-2678447808/",
-      "source": "Raw Story",
-      "publishedAt": "2026-11-19T10:30:03Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Xi, Trump and Putin walked into a meeting. Russia’s autocrat appeared to be the biggest winner",
-      "url": "https://www.cbc.ca/news/world/xi-putin-trump-9.7428276",
-      "source": "CBC News",
-      "publishedAt": "2026-11-19T10:25:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Neutrality Works: Why Neutral States are Critical in a Multipolar World",
-      "url": "https://www.nakedcapitalism.com/2026/11/neutrality-works-why-neutral-states-are-critical-in-a-multipolar-world.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-19T10:18:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "'Heart of its nuclear program': North Korea expands Yongbyon facility as Trump seeks talks with Kim",
@@ -139,36 +291,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
-      "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-19T07:52:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "North Korea is expanding its original uranium enrichment facility, UN nuclear watchdog says",
       "url": "https://abcnews.com/International/wireStory/north-korea-expanding-original-uranium-enrichment-facility-nuclear-138276975",
       "source": "Abcnews.com",
       "publishedAt": "2026-11-19T07:29:33Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
-      "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-19T07:08:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump calls Vance's landmark ceasefire deal with Iran a 'waste of time' in rare critique of his own vice president",
-      "url": "https://www.dailymail.com/news/article-16304721/Trump-critique-Vance-Iran-deal.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-19T06:36:01Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Binance Targets Full Withdrawal Reopening After $6.3 Billion Hack",
@@ -187,90 +315,10 @@
       "_label": "N. Korea"
     },
     {
-      "title": "The March of the Houthis: Saudi Arabia’s Coalition Collapses",
-      "url": "https://www.juancole.com/2026/11/houthis-coalition-collapses.html",
-      "source": "Juancole.com",
-      "publishedAt": "2026-11-19T05:06:03Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why has Jordan kept U.S. troops despite Iranian attacks?",
-      "url": "https://www.americanthinker.com/blog/2026/11/why-has-jordan-kept-u-s-troops-despite-iranian-attacks/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-11-19T05:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "China Challenges 500 Years of Anglo-Saxon Hegemony over the World’s Oceans",
       "url": "https://michelchossudovsky.substack.com/p/china-challenges-500-years-anglo-saxon-hegemony-world-oceans",
       "source": "Substack.com",
       "publishedAt": "2026-11-19T04:49:25Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump says historic summit with Xi, Putin already a 'win' before event",
-      "url": "https://www.channelnewsasia.com/world/trump-summit-china-xi-putin-6564716",
-      "source": "CNA",
-      "publishedAt": "2026-11-19T04:12:40Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Report: Netanyahu pressing Trump to join new four-to-seven-day assault on Iran",
-      "url": "https://www.israelnationalnews.com/news/436577",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-19T02:29:14Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "China Watchdog Warns Trump Faces ‘2-On-1’ Showdown With Xi, Putin As Taiwan Risks Mount",
-      "url": "https://whmi.com/news/fox/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount",
-      "source": "WHMI",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Trump’s Nuclear Deal Has A Three-Body Problem",
-      "url": "https://www.newsweek.com/trump-nuclear-deal-three-body-problem-apec-shenzhen-12734536",
-      "source": "Newsweek",
-      "publishedAt": "2026-11-19T00:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Israeli tanks roll into Gaza amid top US commander’s visit",
-      "url": "https://rt-english.com/news/649040-israel-gaza-ground-operation/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-18T23:56:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Putin brings nuclear 'football' briefcase on trip to meet Trump and Xi",
-      "url": "https://www.dailymail.com/news/article-16303603/Putin-brings-nuclear-football-briefcase-Trump.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-18T21:13:44Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim Jong Un's nuclear buildup sparks 'serious concern' ahead of Trump-Xi-Putin summit",
-      "url": "https://www.foxnews.com/world/kim-jong-un-nuclear-buildup-sparks-serious-concern-trump-xi-putin-summit",
-      "source": "Fox News",
-      "publishedAt": "2026-11-18T21:07:34Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "China watchdog warns Trump faces ‘2-on-1’ showdown with Xi, Putin as Taiwan risks mount",
-      "url": "https://www.foxnews.com/world/china-watchdog-warns-trump-faces-2-on-1-showdown-xi-putin-taiwan-risks-mount",
-      "source": "Fox News",
-      "publishedAt": "2026-11-18T20:33:16Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
     },
@@ -281,22 +329,6 @@
       "publishedAt": "2026-11-18T18:30:39Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "‘An absolutely unprecedented event’: Russian experts react to Putin-Trump-Xi meeting",
-      "url": "https://rt-english.com/news/648991-absolutely-unprecedented-event-russian-experts/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-18T12:52:20Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "We Need Reykjavik 2.0 to End the Nuclear Threat",
-      "url": "https://www.commondreams.org/opinion/reykjavik-2-0",
-      "source": "Common Dreams",
-      "publishedAt": "2026-11-18T12:33:03Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     },
     {
       "title": "Iran attacks U.S. bases in Gulf countries despite diplomatic efforts to end 9-month war",

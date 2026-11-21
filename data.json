@@ -1,7 +1,135 @@
 {
-  "updated": "2026-11-21T05:42:04Z",
-  "count": 39,
+  "updated": "2026-11-21T14:14:39Z",
+  "count": 41,
   "articles": [
+    {
+      "title": "Missiles hit Poland hours after Trump defended Putin, saying his 'friend' had 'been landing a couple of little missiles' in the country 'by mistake'",
+      "url": "https://www.dailymail.com/news/article-16309085/Missiles-hit-Poland-Trump-defended-Putin-landing-couple-little-missiles-country-mistake.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-20T14:05:13Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Nato jets scrambled after Russian missiles and drone hit Poland during attacks on Ukraine",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/20/nato-jets-scrambled-after-russian-missiles-and-drone-hit-poland-during-attacks-on-ukraine/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-20T13:48:48Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A foiled Russian plot? Poland’s Kaliningrad alert shows Putin’s growing appetite for risk",
+      "url": "https://freerepublic.com/focus/f-news/4403732/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-11-20T13:32:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "A foiled Russian plot? Poland’s Kaliningrad alert shows Putin’s growing appetite for risk",
+      "url": "https://freerepublic.com/focus/f-bloggers/4403732/posts",
+      "source": "Freerepublic.com",
+      "publishedAt": "2026-11-20T13:32:33Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+      "url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+      "source": "CNBC",
+      "publishedAt": "2026-11-20T13:16:47Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "UPDATE 5-Poland Condemns Russian 'Provocation' After Three Airspace Violations",
+      "url": "https://www.huffpost.com/entry/poland-condemns-russian-provocation-after-three-airspace-violations_n_6b004317e4b0976dc4a2f08e",
+      "source": "HuffPost",
+      "publishedAt": "2026-11-20T13:00:08Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Friday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/11/20/friday-hili-dialogue-604/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-11-20T12:45:34Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Russian missiles hit Poland as Moscow unleashes a massive attack on Ukraine",
+      "url": "https://www.yahoo.com/news/world/articles/russia-pummels-ukraine-putin-vowed-073406181.html",
+      "source": "Yahoo Entertainment",
+      "publishedAt": "2026-11-20T12:31:05Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin accused of 'provocation' after missile hits Poland as British troops perform military drills in the country",
+      "url": "https://www.dailymail.com/news/article-16308677/russian-missile-hits-poland-british-troops-ukraine-drills.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-20T12:29:53Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia bombards Ukraine, killing at least 8 after Putin vowed retaliation for Kerch Bridge attack",
+      "url": "https://m.economictimes.com/news/defence/russia-bombards-ukraine-killing-at-least-8-after-putin-vowed-retaliation-for-kerch-bridge-attack/articleshow/136027030.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-11-20T12:27:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
+      "source": "BBC News",
+      "publishedAt": "2026-11-20T12:09:29Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Poland condemns Russian airspace 'provocation'",
+      "url": "https://www.rte.ie/news/europe/2026/1120/1600008-poland-russia-airspace-violations/",
+      "source": "RTE",
+      "publishedAt": "2026-11-20T12:07:28Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 11/20/2026",
+      "url": "https://www.nakedcapitalism.com/2026/11/links-11-20-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-20T11:55:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran Refuses Nuclear Inspections as U.S. Military Threats Mount",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Refuses-Nuclear-Inspections-as-US-Military-Threats-Mount.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-11-20T11:30:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Why Kim didn't meet Trump, despite the hype",
+      "url": "https://m.economictimes.com/news/international/world-news/why-kim-didnt-meet-trump-despite-the-hype/articleshow/136018384.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-11-20T08:00:49Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran Attacks Kuwait, Bahrain After U.S. Strike on Qeshm Island, Officials Say",
+      "url": "https://www.naturalnews.com/2026-11-20-iran-attacks-kuwait-after-us-strike-qeshm-island.html",
+      "source": "Naturalnews.com",
+      "publishedAt": "2026-11-20T06:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Saber-Rattling, Or Coincidence?",
       "url": "https://www.americanthinker.com/articles/2026/11/saber-rattling-or-coincidence/",
@@ -11,36 +139,12 @@
       "_label": "Nuclear"
     },
     {
-      "title": "Russia open to Nato-like security guarantees for Ukraine: US envoy",
-      "url": "https://www.business-standard.com/world-news/russia-open-to-nato-like-security-guarantees-for-ukraine-us-envoy-126111901505_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-20T03:05:16Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "After meeting Putin, Trump tells Europe it could save money ending the war",
       "url": "https://www.abc.net.au/news/2026-11-20/key-takeaways-from-trump-xi-putin-meeting/107407564",
       "source": "ABC News (AU)",
       "publishedAt": "2026-11-20T02:35:44Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Russia is intent on attacking us too, Andy Burnham says",
-      "url": "https://www.dailymail.com/news/article-16307631/Russia-intent-attacking-Andy-Burnham-says.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-20T00:59:43Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Experts assess what was addressed and overlooked at trilateral meeting in China",
-      "url": "https://www.pbs.org/newshour/show/experts-assess-what-was-addressed-and-overlooked-at-trilateral-meeting-in-china",
-      "source": "PBS",
-      "publishedAt": "2026-11-19T23:50:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Despite Midterms Pledge, Trump Is In Zero Rush To Make A Decision On Iran",
@@ -83,14 +187,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Who will write the terms of peace? Trump wants to cut off aid to Ukraine and sees a deal with Putin; ‘Not without us,’ Europe replies",
-      "url": "https://en.protothema.gr/2026/11/19/who-will-write-the-terms-of-peace-trump-wants-to-cut-off-aid-to-ukraine-and-sees-a-deal-with-putin-not-without-us-europe-replies/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-11-19T21:43:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump China trip: Iran and Ukraine not in 'peace declaration' and more takeaways",
       "url": "https://abcnews.com/Politics/trump-china-trip-iran-ukraine-peace-declaration-takeaways/story?id=138292154",
       "source": "Abcnews.com",
@@ -111,8 +207,8 @@
       "url": "https://rt-english.com/russia/649131-putin-apec-press-meeting/",
       "source": "Rt-english.com",
       "publishedAt": "2026-11-19T21:00:52Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "nuclear",
+      "_label": "Nuclear"
     },
     {
       "title": "Trump says he still plans to meet Kim Jong Un after leaving Asia without talks",
@@ -123,22 +219,6 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Macron urges Ukraine's allies to 'reopen the question' of NATO membership",
-      "url": "https://freerepublic.com/focus/f-news/4403666/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-11-19T20:51:07Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Taiwan reports 2 Russian military aircraft nearby for second time this week",
-      "url": "https://nypost.com/2026/11/19/world-news/taiwan-reports-2-russian-military-aircraft-nearby-for-second-time-this-week/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-19T20:11:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Top US General Huddles With Israel As Iran War Clouds Gather",
       "url": "https://dailycaller.com/2026/11/19/brad-cooper-centcom-idf-mossad-meeting-iran-war/",
       "source": "The Daily Caller",
@@ -147,28 +227,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Trump Pentagon Blasts Ukraine’s Russia Strikes, NATO Allies Fire Back",
-      "url": "https://freerepublic.com/focus/f-news/4403660/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-11-19T19:22:55Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Trump’s Strategic Blunder in Calling Putin and Xi “My Friends”",
       "url": "https://www.nakedcapitalism.com/2026/11/trumps-strategic-blunder-in-calling-putin-and-xi-my-friends.html",
       "source": "Nakedcapitalism.com",
       "publishedAt": "2026-11-19T19:00:52Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Hillary Clinton accuses Trump of 'aiding and abetting' humanitarian crisis in Ukraine",
-      "url": "https://www.foxnews.com/media/hillary-clinton-accuses-trump-aiding-abetting-humanitarian-crisis-ukraine",
-      "source": "Fox News",
-      "publishedAt": "2026-11-19T18:26:06Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Israel strikes Hezbollah stronghold deep in Lebanon for first time in months",
@@ -195,34 +259,10 @@
       "_label": "Nuclear"
     },
     {
-      "title": "European allies say more support crucial for Ukraine to withstand ‘long’ winter",
-      "url": "https://www.irishtimes.com/world/europe/2026/11/19/european-allies-say-more-support-crucial-for-ukraine-to-withstand-long-winter/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-19T17:29:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
       "url": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope",
       "source": "Al Jazeera English",
       "publishedAt": "2026-11-19T17:15:30Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump's money man Scott Bessent secretly moved from home over 'Iranian chemical plot' as president weighs savage new war blitz",
-      "url": "https://www.dailymail.com/news/article-16306347/Trump-Scott-Bessent-moved-Iranian-chemical.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-19T16:51:26Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Palestinians flee as Israeli tanks cross Gaza ceasefire’s ‘yellow line’",
-      "url": "https://www.nbcnews.com/world/middle-east/gaza-ceasefire-tested-israel-tanks-cross-yellow-line-ground-raid-rcna610169",
-      "source": "NBC News",
-      "publishedAt": "2026-11-19T15:58:08Z",
       "_cat": "iran",
       "_label": "Iran War"
     },
@@ -249,14 +289,6 @@
       "publishedAt": "2026-11-19T13:49:49Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump’s heir, but not his echo: JD Vance, Iran and the limits of loyalty",
-      "url": "https://timesofindia.indiatimes.com/world/us/trumps-heir-but-not-his-echo-jd-vance-iran-and-the-limits-of-loyalty/articleshow/135990600.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-19T12:44:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Putin vows a 'much more painful response' to Ukraine's attack on Crimea bridge moments after trilateral 'world peace' talks",
@@ -295,22 +327,6 @@
       "url": "https://abcnews.com/International/wireStory/north-korea-expanding-original-uranium-enrichment-facility-nuclear-138276975",
       "source": "Abcnews.com",
       "publishedAt": "2026-11-19T07:29:33Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Binance Targets Full Withdrawal Reopening After $6.3 Billion Hack",
-      "url": "https://www.naturalnews.com/2026-11-19-binance-targets-full-withdrawal-reopening-after-hack.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-19T06:00:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea expanding original uranium enrichment facility: IAEA chief",
-      "url": "https://www.business-standard.com/world-news/north-korea-expanding-original-uranium-enrichment-facility-iaea-chief-126111900251_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-19T05:33:44Z",
       "_cat": "korea",
       "_label": "N. Korea"
     }

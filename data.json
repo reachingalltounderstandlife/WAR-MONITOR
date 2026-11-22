@@ -1,7 +1,111 @@
 {
-  "updated": "2026-11-22T05:10:52Z",
-  "count": 29,
+  "updated": "2026-11-22T14:04:04Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Russian cargo ship 'carrying military supplies' is hit by drones in Gulf of Finland as it drifts towards Nato waters",
+      "url": "https://www.dailymail.com/news/article-16311227/Russian-ship-military-supplies-drones-Gulf-Finland-Nato.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-21T14:01:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "What does a post-Netanyahu government in Israel mean for U.S. policy?",
+      "url": "https://mondoweiss.net/2026/11/what-does-a-post-netanyahu-government-in-israel-means-for-u-s-policy/",
+      "source": "Mondoweiss",
+      "publishedAt": "2026-11-21T14:00:00Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Russian strike on Zelenskyy's hometown in central Ukraine kills 2, wounds 60",
+      "url": "https://www.cbc.ca/news/world/russia-ukraine-zelenskyy-hometown-9.7431164",
+      "source": "CBC News",
+      "publishedAt": "2026-11-21T13:26:36Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin's recklessness could spark World War Three, warns defence intelligence chief after Russian missiles hit near British soldiers",
+      "url": "https://www.dailymail.com/news/article-16311151/Putins-War-defence-intelligence-chief-Russian-British-soldiers.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-21T13:00:02Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Horror, Horror: Peace Is at Hand",
+      "url": "https://www.commondreams.org/opinion/xi-trump-putin-meeting",
+      "source": "Common Dreams",
+      "publishedAt": "2026-11-21T12:59:03Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
+      "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-21T12:45:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Saturday: Hili dialogue",
+      "url": "https://whyevolutionistrue.com/2026/11/21/saturday-hili-dialogue-609/",
+      "source": "Whyevolutionistrue.com",
+      "publishedAt": "2026-11-21T12:45:21Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russia's Reported NATO Demands Raise Alarm In Central Asia, Caucasus",
+      "url": "https://www.rferl.org/a/russia-nato-demands-central-asia-south-caucasus/33901911.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-11-21T12:31:01Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Putin 'ready' to accept Nato-like shield for Ukraine, but with a catch",
+      "url": "https://timesofindia.indiatimes.com/world/europe/putin-ready-to-accept-nato-like-shield-for-ukraine-but-with-a-catch/articleshow/136053382.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-21T12:21:06Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "'Grave Violation': Russian Missiles Land in Poland Amid European Military Drills",
+      "url": "https://www.breitbart.com/europe/2026/11/21/russian-missiles-land-in-poland-amid-european-military-drills/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-11-21T12:16:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+      "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-21T11:02:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-21T09:30:24Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Netanyahu presses Trump for new Iran strikes: reports",
+      "url": "https://www.hurriyetdailynews.com/netanyahu-presses-trump-for-new-iran-strikes-reports-229671",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-11-21T07:49:29Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Israeli Army’s Bogus Rationale for Murdering Journalists gets Respectful Hearing from New York Times",
       "url": "https://www.juancole.com/2026/11/rationale-journalists-respectful.html",
@@ -9,22 +113,6 @@
       "publishedAt": "2026-11-21T05:04:21Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "Russian missiles, drones land in Poland, Nato calls it a 'violation'",
-      "url": "https://www.business-standard.com/world-news/russian-missiles-drones-land-in-poland-nato-calls-it-a-violation-126112100018_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-21T04:38:04Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine war briefing: European leaders react with anger and alarm after Russian missiles crash in Poland - The Guardian",
-      "url": "https://slashdot.org/firehose.pl?op=view&id=186814394",
-      "source": "Slashdot.org",
-      "publishedAt": "2026-11-21T04:33:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "North Korea's Kim visits factory sites after apparent Trump snub",
@@ -41,30 +129,6 @@
       "publishedAt": "2026-11-21T04:10:28Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "MEGA STRIKE ON BRIDGES: 70 Kh-101s, 500 Drones — Russia's Biggest Attack Since 2022",
-      "url": "https://freerepublic.com/focus/f-news/4403825/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-11-21T03:29:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "MEGA STRIKE ON BRIDGES: 70 Kh-101s, 500 Drones — Russia's Biggest Attack Since 2022",
-      "url": "https://freerepublic.com/focus/f-bloggers/4403825/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-11-21T03:29:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump defends ties with Putin as Russia intensifies attacks on Ukraine",
-      "url": "https://www.business-standard.com/world-news/trump-defends-ties-with-putin-as-russia-intensifies-attacks-on-ukraine-126112100144_1.html",
-      "source": "Business Standard",
-      "publishedAt": "2026-11-21T03:28:56Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Japan Caught Between China, Russia and Trump's Changing World Order",
@@ -89,46 +153,6 @@
       "publishedAt": "2026-11-21T01:10:46Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "ANDREW NEIL: Trump's never met a dictator he didn't like - and this week he gave Putin the seat at the top table he's always craved",
-      "url": "https://www.dailymail.com/debate/article-16309711/ANDREW-NEIL-Trump-dictator-Putin-seat-table.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-21T01:05:21Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europeans, with Ukraine’s help, brace for more Russian attacks",
-      "url": "https://www.defenseone.com/threats/2026/11/europeans-ukraines-help-brace-more-russian-attacks/417389/",
-      "source": "Defense One",
-      "publishedAt": "2026-11-21T00:58:14Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian missiles, drone crash in Poland: Warsaw flags 'provocation' as Ukraine faces aerial barrage",
-      "url": "https://timesofindia.indiatimes.com/world/europe/poland-on-alert-as-russian-missiles-drone-crash-near-nato-military-exercises/articleshow/136042254.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-21T00:47:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Donald Trump wants Ukraine peace deal by January as he brands Russian missile strike on Poland 'mistake'",
-      "url": "https://www.dailymail.com/news/article-16310391/Trump-Ukraine-peace-deal-January.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-21T00:08:17Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "No coincidence? NATO silent on Black Sea drone attacks",
-      "url": "https://rt-english.com/news/649170-bulgaria-drone-attacks-nato/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-20T22:20:47Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "'Discussed responsibility as world's 3 largest nuclear powers': Trump on first-ever trilateral with Xi, Putin",
@@ -195,28 +219,12 @@
       "_label": "Iran War"
     },
     {
-      "title": "Iran Refuses Nuclear Inspections as U.S. Military Threats Mount",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Refuses-Nuclear-Inspections-as-US-Military-Threats-Mount.html",
-      "source": "OilPrice.com",
-      "publishedAt": "2026-11-20T11:30:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Why Kim didn't meet Trump, despite the hype",
       "url": "https://m.economictimes.com/news/international/world-news/why-kim-didnt-meet-trump-despite-the-hype/articleshow/136018384.cms",
       "source": "Economictimes.com",
       "publishedAt": "2026-11-20T08:00:49Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Iran Attacks Kuwait, Bahrain After U.S. Strike on Qeshm Island, Officials Say",
-      "url": "https://www.naturalnews.com/2026-11-20-iran-attacks-kuwait-after-us-strike-qeshm-island.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-20T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
     },
     {
       "title": "Saber-Rattling, Or Coincidence?",

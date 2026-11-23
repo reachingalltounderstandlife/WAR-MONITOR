@@ -1,7 +1,63 @@
 {
-  "updated": "2026-11-22T23:14:51Z",
-  "count": 32,
+  "updated": "2026-11-23T05:51:20Z",
+  "count": 29,
   "articles": [
+    {
+      "title": "Report: Trump determined to meet with Kim Jong-un, US considering concessions on nuclear issue",
+      "url": "https://www.israelnationalnews.com/flashes/698148",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-22T05:26:21Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Lebanese President demands Israeli withdrawal, end to Iranian interference",
+      "url": "https://www.israelnationalnews.com/news/436789",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-22T04:58:27Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Report: Trump Favors Economic Stranglehold on Iran Over Renewed Major Strikes",
+      "url": "https://www.breitbart.com/politics/2026/11/21/report-trump-favors-economic-stranglehold-on-iran-over-renewed-major-strikes/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-11-22T04:18:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Russian ‘triple-tap’ missile strike on Zelenskyy’s hometown kills child, leaves 60 wounded",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/russian-triple-tap-missile-strike-on-zelenskyys-hometown-kills-child-leaves-60-wounded/articleshow/136066210.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-22T02:48:07Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "'War is spilling over': Finland accuses Ukraine of hitting Russian vessel in Baltic Sea",
+      "url": "https://timesofindia.indiatimes.com/world/europe/war-is-spilling-over-finland-accuses-ukraine-of-hitting-russian-vessel-in-baltic-sea/articleshow/136065990.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-22T02:22:35Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO vows to defend 'every inch' of Polish territory after Russian airspace violation",
+      "url": "https://m.economictimes.com/news/defence/nato-vows-to-defend-every-inch-of-polish-territory-after-russian-airspace-violation/articleshow/136065503.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-11-22T01:12:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+      "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-21T23:44:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Iran To Ration Electricity As World Awaits Trump's Next Move",
       "url": "https://www.rferl.org/a/iran-electricity-ration-bread-trump-/33903259.html",
@@ -99,22 +155,6 @@
       "_label": "Ukraine"
     },
     {
-      "title": "Russian missiles land in Poland; NATO scrambles aircraft",
-      "url": "https://www.israelnationalnews.com/news/436740",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-21T15:54:29Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "'Failed to redraw world': Zelenskyy mocks Russia over China summit, says event 'unsuccessful' for Putin",
-      "url": "https://timesofindia.indiatimes.com/world/europe/failed-to-redraw-world-zelenskyy-mocks-russia-over-china-summit-says-event-unsuccessful-for-putin/articleshow/136056398.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-21T14:24:27Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
       "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme",
       "source": "Al Jazeera English",
@@ -187,76 +227,12 @@
       "_label": "N. Korea"
     },
     {
-      "title": "As Governments Around The World Urge Their Citizens To Prepare, Here Are 3 Key Things To Watch This Week",
-      "url": "https://activistpost.com/as-governments-around-the-world-urge-their-citizens-to-prepare-here-are-3-key-things-to-watch-this-week/",
-      "source": "Activistpost.com",
-      "publishedAt": "2026-11-21T02:34:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
       "title": "Keeping up with the Kangs: A Small Addition to Yongbyon’s Original UEP",
       "url": "https://www.armscontrolwonk.com/archive/1222510/keeping-up-with-the-kangs-a-small-addition-to-yongbyons-original-uep/",
       "source": "Armscontrolwonk.com",
       "publishedAt": "2026-11-21T01:10:46Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "'Discussed responsibility as world's 3 largest nuclear powers': Trump on first-ever trilateral with Xi, Putin",
-      "url": "https://timesofindia.indiatimes.com/world/us/discussed-responsibility-as-worlds-3-largest-nuclear-powers-trump-on-first-ever-trilateral-with-xi-putin/articleshow/136037237.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-20T18:39:28Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Reporting Raises Fresh Questions About Israeli Role in CNN’s ‘Preposterous’ Iranian Dirty Bomb Story",
-      "url": "https://www.commondreams.org/news/iran-dirty-bomb-israel",
-      "source": "Common Dreams",
-      "publishedAt": "2026-11-20T17:39:31Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-      "url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
-      "source": "CNBC",
-      "publishedAt": "2026-11-20T13:16:47Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Friday: Hili dialogue",
-      "url": "https://whyevolutionistrue.com/2026/11/20/friday-hili-dialogue-604/",
-      "source": "Whyevolutionistrue.com",
-      "publishedAt": "2026-11-20T12:45:34Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Why Kim didn't meet Trump, despite the hype",
-      "url": "https://m.economictimes.com/news/international/world-news/why-kim-didnt-meet-trump-despite-the-hype/articleshow/136018384.cms",
-      "source": "Economictimes.com",
-      "publishedAt": "2026-11-20T08:00:49Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Saber-Rattling, Or Coincidence?",
-      "url": "https://www.americanthinker.com/articles/2026/11/saber-rattling-or-coincidence/",
-      "source": "Americanthinker.com",
-      "publishedAt": "2026-11-20T05:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "After meeting Putin, Trump tells Europe it could save money ending the war",
-      "url": "https://www.abc.net.au/news/2026-11-20/key-takeaways-from-trump-xi-putin-meeting/107407564",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-11-20T02:35:44Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

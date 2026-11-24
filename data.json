@@ -1,14 +1,166 @@
 {
-  "updated": "2026-11-23T17:25:58Z",
-  "count": 30,
+  "updated": "2026-11-24T03:49:07Z",
+  "count": 28,
   "articles": [
     {
-      "title": "Suspected Ukrainian Sea Drones Hit Russian Warship at Benghazi Naval Base, Libyan Officials Say",
-      "url": "https://www.breitbart.com/europe/2026/11/22/suspected-ukrainian-sea-drones-hit-russian-warship-at-benghazi-naval-base-libyan-officials-say/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-11-22T17:20:17Z",
+      "title": "Trump Getting Ghosted By Dictator Who Stole His Heart: Report",
+      "url": "https://www.huffpost.com/entry/trump-kim-jong-un-north-korea-nuclear-snub_n_6b037dade4b0e97a9407e334",
+      "source": "HuffPost",
+      "publishedAt": "2026-11-23T03:42:31Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "'Could ignite multiple fronts': Israeli military warns Netanyahu Iran strike may trigger wider regional war",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/could-ignite-multiple-fronts-israeli-military-warns-netanyahu-iran-strike-may-trigger-wider-regional-war/articleshow/136087721.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-23T03:15:48Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO-Like Guarantees For Ukraine? US Envoy Signals Possibility, But Questions Remain",
+      "url": "https://www.rferl.org/a/kushner-trump-nato-ukraine-russia-security/33903834.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-11-23T03:05:13Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
+    },
+    {
+      "title": "Russian warship sinks off Libya as suspected Ukrainian strikes take war beyond Black Sea",
+      "url": "https://www.foxnews.com/world/russian-warship-sinks-libya-suspected-ukrainian-strikes-take-war-beyond-black-sea",
+      "source": "Fox News",
+      "publishedAt": "2026-11-23T01:30:56Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea's Kim says country seeks security, not supremacy",
+      "url": "https://m.economictimes.com/news/international/world-news/north-koreas-kim-says-country-seeks-security-not-supremacy/articleshow/136086341.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-11-23T01:16:24Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump prepares for renewed strikes on Iran as he slams their negotiating as 'tap dancing bulls**t'",
+      "url": "https://www.dailymail.com/news/article-16313795/Trump-strikes-Iran-missiles-negotiations-bullshit.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-23T00:20:43Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "All the signs that 'prove' Armageddon is on our doorstep: No one believed my warnings 12 years ago, but now all these prophecies are coming eerily true",
+      "url": "https://www.dailymail.com/sciencetech/article-16290937/armageddon-prophecy-mark-davidson-iran.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-11-23T00:12:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Horror, Horror: Peace Is at Hand",
+      "url": "https://original.antiwar.com/jeffrey_sachs/2026/11/22/horror-horror-peace-is-at-hand/",
+      "source": "Antiwar.com",
+      "publishedAt": "2026-11-23T00:00:38Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Waiting For The World To Change",
+      "url": "https://chinaarticles.substack.com/p/waiting-for-the-world-to-change",
+      "source": "Substack.com",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Watch: Russian warship hit by suspected Ukrainian drones at Benghazi naval base, bursts into flames",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-russian-warship-hit-by-suspected-ukrainian-drones-at-benghazi-naval-base-bursts-into-flames/articleshow/136085577.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-22T23:22:16Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Europe Is ‘Somewhere Between Peace And War’ With Russia, Former Finnish Defense Chief Says",
+      "url": "https://www.rferl.org/a/lindberg-finland-sparta-russia-ukraine-war-europe/33903620.html",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "publishedAt": "2026-11-22T23:11:31Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Strikes Iran After Midterms, AI Ranks Embryos by IQ, Researchers Study the Sudden Rise in Cancer",
+      "url": "https://activistpost.com/trump-strikes-iran-after-midterms-ai-ranks-embryos-by-iq-researchers-study-the-sudden-rise-in-cancer/",
+      "source": "Activistpost.com",
+      "publishedAt": "2026-11-22T23:01:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Polish Elite troops went 'low-tech' to evade drones and special techniques that 'can't be shared' to launch a devastating 'attack' on US forces in war games",
+      "url": "https://www.techradar.com/pro/polish-elite-troops-went-low-tech-to-evade-drones-and-special-techniques-that-cant-be-shared-to-launch-a-devastating-attack-on-us-forces-in-war-games",
+      "source": "TechRadar",
+      "publishedAt": "2026-11-22T21:10:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "WATCH: Top Republican senator reacts to Trump summit with enemies who want to ‘eat America’s liver with fava beans and a nice Chianti’",
+      "url": "https://www.wnd.com/2026/11/watch-top-republican-senator-reacts-trump-summit-enemies/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-11-22T19:49:22Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Why build a billion-dollar warship if a cheap drone can sink it?",
+      "url": "https://www.wnd.com/2026/11/why-build-billion-dollar-warship-if-cheap-drone/",
+      "source": "Wnd.com",
+      "publishedAt": "2026-11-22T19:25:10Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "We Like War Too Much to Agree on Autonomous Weapon Regulations",
+      "url": "https://www.motherjones.com/politics/2026/11/autonomous-weapons-un-conference/",
+      "source": "Mother Jones",
+      "publishedAt": "2026-11-22T19:18:41Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel ‘Steps Up’ Gaza Strikes, Kills Hamas and Islamic Jihad Commanders",
+      "url": "https://legalinsurrection.com/2026/11/hamas-islamic-jihad-commanders-eliminated-as-israel-steps-up-strikes-against-gaza-based-terrorist-leadership/",
+      "source": "Legalinsurrection.com",
+      "publishedAt": "2026-11-22T19:00:06Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Sen Kennedy Reacts To Trump’s Summit With Adversaries Who Want To ‘Eat America’s Liver With Fava Beans And A Nice Cianti’",
+      "url": "https://dailycaller.com/2026/11/22/john-kennedy-xi-jinping-vladimir-putin-donald-trump-summit-adversaries-nbc-news-meet-press-kristen-welker/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-11-22T18:58:09Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Kim Jong Un Ignoring Donald Trump's Calls After 'Throwing Away' His Personal Letter — Despite Prez Saying They 'Fell in Love'",
+      "url": "https://radaronline.com/p/kim-jong-un-ignoring-donald-trumps-calls-throwing-letter-fell-in-love/",
+      "source": "Radaronline.com",
+      "publishedAt": "2026-11-22T18:48:48Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+      "source": "NPR",
+      "publishedAt": "2026-11-22T17:44:52Z",
+      "_cat": "iran",
+      "_label": "Iran War"
     },
     {
       "title": "Two new articles on genocide",
@@ -17,14 +169,6 @@
       "publishedAt": "2026-11-22T16:00:19Z",
       "_cat": "iran",
       "_label": "Iran War"
-    },
-    {
-      "title": "‘Ukrainian’ drones attack Russian cargo ship in Baltic Sea",
-      "url": "https://www.irishtimes.com/world/europe/2026/11/22/ukrainian-drones-attack-russian-cargo-ship-in-baltic-sea/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-22T15:53:30Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Iran taunts Trump, shows off underground ‘missile city’ with new double launcher",
@@ -59,78 +203,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-      "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-22T11:46:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Why have UN efforts to regulate ‘killer robots’ stalled?",
-      "url": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-22T11:44:50Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russian couple who met after they both defected to fight for Ukraine following Putin's invasion tie the knot in touching wedding ceremony",
-      "url": "https://www.dailymail.com/news/article-16313015/Russian-couple-defected-fight-Ukraine-married.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-22T11:42:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "RAF's next-generation jet could be 'last crewed fighter we ever build' as Air Chief Marshal admits AI is set to take over",
-      "url": "https://www.dailymail.com/news/article-16312911/RAFs-generation-jet-crewed-fighter-build-Air-Chief-Marshal-admits-AI-set-over.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-22T09:51:05Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Putin accused of 'outrageous provocation' after Russian missiles hit Poland amid warnings he could spark World War Three",
-      "url": "https://www.dailymail.com/news/article-16312923/Putin-provocation-Russian-missiles-hit-Poland.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-22T09:50:28Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Air raid sirens go off in Kaliningrad amid fears of Ukrainian drone attack in Russia's European enclave - a month after Putin threatened to use nuclear weapons to defend it",
-      "url": "https://www.dailymail.com/news/article-16312901/Air-raid-sirens-Kaliningrad-fears-Ukrainian-drone-attack-Russia-Kaliningrad.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-22T09:23:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukranian drones strike Russian cargo ship off Finland, escalating tensions over NATO involvement",
-      "url": "https://m.economictimes.com/news/defence/ukranian-drones-strike-russian-cargo-ship-off-finland-escalating-tensions-over-nato-involvement/articleshow/136070492.cms",
-      "source": "Economictimes.com",
-      "publishedAt": "2026-11-22T08:39:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Two summits with different implications for Ukraine war",
-      "url": "https://www.rte.ie/news/analysis-and-comment/2026/1122/1600167-comment-analysis-ukraine-summits/",
-      "source": "RTE",
-      "publishedAt": "2026-11-22T08:02:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Europeans dare to believe Trump could deliver security for Ukraine",
-      "url": "https://www.politico.eu/article/europeans-dare-to-believe-trump-could-deliver-security-for-ukraine/",
-      "source": "POLITICO.eu",
-      "publishedAt": "2026-11-22T07:44:01Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "‘Trump can’t get his calls returned’: Kim Jong Un ignores US President as North Korea expands nuclear arsenal capable of striking US cities",
       "url": "https://timesofindia.indiatimes.com/world/us/trump-cant-get-his-calls-returned-kim-jong-un-ignores-us-president-as-north-korea-expands-nuclear-arsenal-capable-of-striking-us-cities/articleshow/136068829.cms",
       "source": "The Times of India",
@@ -153,94 +225,6 @@
       "publishedAt": "2026-11-22T04:58:27Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Report: Trump Favors Economic Stranglehold on Iran Over Renewed Major Strikes",
-      "url": "https://www.breitbart.com/politics/2026/11/21/report-trump-favors-economic-stranglehold-on-iran-over-renewed-major-strikes/",
-      "source": "Breitbart News",
-      "publishedAt": "2026-11-22T04:18:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-      "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-21T23:44:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran To Ration Electricity As World Awaits Trump's Next Move",
-      "url": "https://www.rferl.org/a/iran-electricity-ration-bread-trump-/33903259.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-11-21T23:00:21Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-      "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-21T20:56:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "North Korea dictator Kim Jong Un appears in public to inspect factory days after apparent 'snub' by Donald Trump and speculation about health",
-      "url": "https://www.dailymail.com/news/article-16311787/North-Korea-dictator-Kim-Jong-appears-public-inspect-factory-days-apparent-snub-Donald-Trump-speculation-health.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-21T19:32:09Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-      "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-21T14:15:36Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "What does a post-Netanyahu government in Israel mean for U.S. policy?",
-      "url": "https://mondoweiss.net/2026/11/what-does-a-post-netanyahu-government-in-israel-means-for-u-s-policy/",
-      "source": "Mondoweiss",
-      "publishedAt": "2026-11-21T14:00:00Z",
-      "_cat": "lebanon",
-      "_label": "Lebanon"
-    },
-    {
-      "title": "Horror, Horror: Peace Is at Hand",
-      "url": "https://www.commondreams.org/opinion/xi-trump-putin-meeting",
-      "source": "Common Dreams",
-      "publishedAt": "2026-11-21T12:59:03Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "North Korea's Kim visits factory sites after apparent Trump snub",
-      "url": "https://www.channelnewsasia.com/east-asia/north-korea-kim-jong-un-donald-trump-snub-6571201",
-      "source": "CNA",
-      "publishedAt": "2026-11-21T04:19:04Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Japan Caught Between China, Russia and Trump's Changing World Order",
-      "url": "https://newsonjapan.com/article/151478.php",
-      "source": "Newsonjapan.com",
-      "publishedAt": "2026-11-21T02:44:59Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Keeping up with the Kangs: A Small Addition to Yongbyon’s Original UEP",
-      "url": "https://www.armscontrolwonk.com/archive/1222510/keeping-up-with-the-kangs-a-small-addition-to-yongbyons-original-uep/",
-      "source": "Armscontrolwonk.com",
-      "publishedAt": "2026-11-21T01:10:46Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
     }
   ]
 }

@@ -1,7 +1,111 @@
 {
-  "updated": "2026-11-25T16:48:43Z",
-  "count": 34,
+  "updated": "2026-11-26T01:34:49Z",
+  "count": 24,
   "articles": [
+    {
+      "title": "Iranian FM Araghchi accuses Washington of hypocrisy as OPCW faces budget crisis over US arrears",
+      "url": "https://m.economictimes.com/news/international/world-news/iranian-fm-araghchi-accuses-washington-of-hypocrisy-as-opcw-faces-budget-crisis-over-us-arrears/articleshow/136145176.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-11-25T01:10:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump says Iran war ‘funded’ through January and addresses Israel’s goal of Tehran regime change",
+      "url": "https://nypost.com/2026/11/24/us-news/trump-says-iran-war-funded-through-january-and-addresses-israels-goal-of-tehran-regime-change/",
+      "source": "New York Post",
+      "publishedAt": "2026-11-25T00:34:15Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Israel raises prospect of preemptive strike over emerging Iranian chemical weapons threat",
+      "url": "https://www.foxnews.com/world/israel-raises-prospect-preemptive-strike-emerging-iranian-chemical-weapons-threat",
+      "source": "Fox News",
+      "publishedAt": "2026-11-24T22:01:25Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Washington pushes NATO 3.0",
+      "url": "https://rt-english.com/news/649316-nato-us-europe-russia/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-24T21:27:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops",
+      "url": "https://www.foxnews.com/world/nato-jet-cleared-shoot-russian-missile-poland-warsaw-pushes-us-troops",
+      "source": "Fox News",
+      "publishedAt": "2026-11-24T20:56:51Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "European leader warns Russian aggression could escalate within weeks or months",
+      "url": "https://www.foxnews.com/world/european-leader-warns-russian-aggression-could-escalate-within-weeks-months",
+      "source": "Fox News",
+      "publishedAt": "2026-11-24T20:26:41Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Nvidia degrades U.S. national security as Chinese military snags its chips",
+      "url": "https://fortune.com/2026/11/24/nvidia-jensen-huang-national-security-chinese-military-chips/",
+      "source": "Fortune",
+      "publishedAt": "2026-11-24T19:43:25Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Russian Strike On Ukraine Kills 2 And Wounds 48, Including Children",
+      "url": "https://www.huffpost.com/entry/russian-strike-ukraine-zaporizhzhia-kills-2_n_6b05d2c7e4b01d8bd1d8b2bf",
+      "source": "HuffPost",
+      "publishedAt": "2026-11-24T18:22:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Mossad Chief Reportedly Pushed US To Attack Iran Despite His Own Analysts’ Objections",
+      "url": "https://dailycaller.com/2026/11/24/mossad-chief-pushed-iran-attack-analyst-objections/",
+      "source": "The Daily Caller",
+      "publishedAt": "2026-11-24T18:06:14Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "NATO allies anxious as war spreads beyond Ukraine, Russia borders",
+      "url": "https://www.cbsnews.com/news/ukraine-russia-war-warship-cargo-ship-attacks-nato-allies-anxiety/",
+      "source": "CBS News",
+      "publishedAt": "2026-11-24T17:16:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Defense Minister reveals: 'Iran attempting to eliminate Trump & his family'",
+      "url": "https://www.israelnationalnews.com/news/437034",
+      "source": "Israelnationalnews.com",
+      "publishedAt": "2026-11-24T17:06:35Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Zelenskiy confirms Ukrainian drone strike on Russian ship in Gulf of Finland",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/24/zelenskiy-confirms-ukrainian-drone-strike-on-russian-ship-in-gulf-of-finland/",
+      "source": "The Irish Times",
+      "publishedAt": "2026-11-24T16:58:24Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel steps up strikes across Middle East under embattled Netanyahu",
+      "url": "https://rt-english.com/news/649296-israel-netanyahu-middle-east-strikes/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-24T16:57:22Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Ukraine confirms hit on Russian ship in Gulf of Finland, as escalation fears grow",
       "url": "https://www.abc.net.au/news/2026-11-25/ukraine-gulf-of-finland-russian-ship-norway/107423526",
@@ -43,22 +147,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "First UK Defence Secretary to visit Kharkiv as UK ramps up support for Ukraine",
-      "url": "https://www.gov.uk/government/news/first-uk-defence-secretary-to-visit-kharkiv-as-uk-ramps-up-support-for-ukraine",
-      "source": "Www.gov.uk",
-      "publishedAt": "2026-11-24T15:09:26Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UK warns British firms supporting Ukraine of potential Russian sabotage attacks",
-      "url": "https://timesofindia.indiatimes.com/world/europe/uk-warns-british-firms-supporting-ukraine-of-potential-russian-sabotage-attacks/articleshow/136133842.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-24T14:55:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Israel's PR war hits a wall as Gaza backlash erodes US public support",
       "url": "https://timesofindia.indiatimes.com/world/middle-east/israels-pr-war-hits-a-wall-as-gaza-backlash-erodes-us-public-support/articleshow/136133746.cms",
       "source": "The Times of India",
@@ -75,30 +163,6 @@
       "_label": "Iran War"
     },
     {
-      "title": "Zelenskyy Wants Congress to Pressure Putin if Trump Can’t Win Deal",
-      "url": "https://www.military.com/zelenskyy-wants-congress-to-pressure-putin-if-trump-cant-win-deal",
-      "source": "Military.com",
-      "publishedAt": "2026-11-24T14:25:53Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Russia poised to put nuclear weapon in space within 60 days, Germany warns",
-      "url": "https://freerepublic.com/focus/f-news/4404138/posts",
-      "source": "Freerepublic.com",
-      "publishedAt": "2026-11-24T14:06:15Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Foreign Affairs Analysis: Time for a deal with Putin – What Trump should offer to end the war in Ukraine",
-      "url": "https://en.protothema.gr/2026/11/24/foreign-affairs-analysis-time-for-a-deal-with-putin-what-trump-should-offer-to-end-the-war-in-ukraine/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-11-24T13:49:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Report: Iran orders Revolutionary Guards to leave Beirut strongholds",
       "url": "https://www.israelnationalnews.com/news/437013",
       "source": "Israelnationalnews.com",
@@ -107,172 +171,28 @@
       "_label": "Iran War"
     },
     {
-      "title": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
-      "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
-      "source": "CNBC",
-      "publishedAt": "2026-11-24T12:32:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news - Newsday",
       "url": "https://www.newsday.com/news/nation/mideast-iran-gaza-israel-houthis-libya-november-24-2026-v21527",
       "source": "Newsday",
       "publishedAt": "2026-11-24T11:11:57Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news",
       "url": "https://www.clickondetroit.com/news/world/2026/11/24/iran-insists-no-talks-with-the-us-until-its-7-conditions-are-met-and-other-mideast-news/",
       "source": "WDIV ClickOnDetroit",
       "publishedAt": "2026-11-24T10:42:11Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "'Society Is Being Crushed': An Iranian Artist Reflects On Life In Tehran",
-      "url": "https://www.rferl.org/a/iran-parastou-forouhar-tehran-war-sanctions/33904150.html",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "publishedAt": "2026-11-24T08:55:48Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran says it will use ‘all available means’ to counter US blockade",
-      "url": "https://thechronicle.com.gh/iran-says-it-will-use-all-available-means-to-counter-us-blockade/",
-      "source": "Thechronicle.com.gh",
-      "publishedAt": "2026-11-24T06:17:47Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Saudi and Houthi Exchange Missile Fire: Will the Red Sea Become a New Frontline?",
-      "url": "https://www.naturalnews.com/2026-11-24-saudi-houthis-missile-fire-red-sea-new-frontline.html",
-      "source": "Naturalnews.com",
-      "publishedAt": "2026-11-24T06:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "The latest IDF Intelligence leak on Iran demands a knockout blow",
       "url": "https://www.israelnationalnews.com/news/436968",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-11-24T05:43:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Admin Mulls Softening Denuclearization Demand To Secure Meeting With Kim Jong Un",
-      "url": "https://biztoc.com/x/7fecfcd75dcf5060",
-      "source": "Biztoc.com",
-      "publishedAt": "2026-11-23T23:49:02Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Russia warns of 'preventive nuclear attack' as Medvedev claims Ukraine, NATO crossed line",
-      "url": "https://www.foxnews.com/world/russia-warns-preventive-nuclear-attack-medvedev-claims-ukraine-nato-crossed-line",
-      "source": "Fox News",
-      "publishedAt": "2026-11-23T21:11:06Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "11/23/26 National Security and Korean News and Commentary",
-      "url": "https://smallwarsjournal.com/2026/11/23/11-23-26-national-security-and-korean-news-and-commentary/",
-      "source": "Smallwarsjournal.com",
-      "publishedAt": "2026-11-23T20:17:03Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim Jong Un receives credentials from India's newly appointed envoy to North Korea",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/kim-jong-un-receives-credentials-from-indias-newly-appointed-envoy-to-north-korea/articleshow/136104681.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-23T13:33:37Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "One Of Trump's Favorite Dictators Has Snubbed Him AGAIN",
-      "url": "https://crooksandliars.com/2026/11/trump-has-been-snubbed-one-his-favorite",
-      "source": "Crooksandliars.com",
-      "publishedAt": "2026-11-23T12:54:25Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Barnea reveals how Mossad foiled mass attack at concert in Vienna",
-      "url": "https://www.israelnationalnews.com/news/436908",
-      "source": "Israelnationalnews.com",
-      "publishedAt": "2026-11-23T12:09:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Israel manipulating Lebanese children for propaganda – Beirut (VIDEO)",
-      "url": "https://rt-english.com/news/649232-idf-lebanon-school-scandal/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-23T10:02:03Z",
       "_cat": "lebanon",
       "_label": "Lebanon"
-    },
-    {
-      "title": "Trump has been 'ghosted' by Kim Jong Un for over a year as North Korean dictator refuses to even take his call, insiders reveal",
-      "url": "https://www.dailymail.com/news/us-politics/article-16314205/Trump-ghosted-Kim-Jong-nuclear.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-23T06:46:55Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim highlights 'sovereignty' in ties after Trump no-show",
-      "url": "https://www.rte.ie/news/2026/1123/1600245-kim-trump/",
-      "source": "RTE",
-      "publishedAt": "2026-11-23T04:49:45Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Kim highlights 'sovereignty' in ties after Trump no-show",
-      "url": "https://www.rte.ie/news/2026/1123/1600245-north-korea/",
-      "source": "RTE",
-      "publishedAt": "2026-11-23T04:49:45Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Trump Getting Ghosted By Dictator Who Stole His Heart: Report",
-      "url": "https://www.huffpost.com/entry/trump-kim-jong-un-north-korea-nuclear-snub_n_6b037dade4b0e97a9407e334",
-      "source": "HuffPost",
-      "publishedAt": "2026-11-23T03:42:31Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "North Korea's Kim says country seeks security, not supremacy",
-      "url": "https://m.economictimes.com/news/international/world-news/north-koreas-kim-says-country-seeks-security-not-supremacy/articleshow/136086341.cms",
-      "source": "Economictimes.com",
-      "publishedAt": "2026-11-23T01:16:24Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
-      "title": "Horror, Horror: Peace Is at Hand",
-      "url": "https://original.antiwar.com/jeffrey_sachs/2026/11/22/horror-horror-peace-is-at-hand/",
-      "source": "Antiwar.com",
-      "publishedAt": "2026-11-23T00:00:38Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Waiting For The World To Change",
-      "url": "https://chinaarticles.substack.com/p/waiting-for-the-world-to-change",
-      "source": "Substack.com",
-      "publishedAt": "2026-11-23T00:00:00Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
     }
   ]
 }

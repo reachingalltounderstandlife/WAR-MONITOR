@@ -1,7 +1,151 @@
 {
-  "updated": "2026-11-26T01:34:49Z",
-  "count": 24,
+  "updated": "2026-11-26T16:25:12Z",
+  "count": 30,
   "articles": [
+    {
+      "title": "Ukraine strikes major Russian air base, damaging planes",
+      "url": "https://www.rte.ie/news/ukraine/2026/1125/1600650-ukraine-russia/",
+      "source": "RTE",
+      "publishedAt": "2026-11-25T15:38:54Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Editorial. COP flop",
+      "url": "https://www.thehindubusinessline.com/opinion/cop-flop/article71742111.ece",
+      "source": "BusinessLine",
+      "publishedAt": "2026-11-25T15:30:43Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "The escalation trap tightens: A misstep can trigger a NATO-Russia face-off",
+      "url": "https://m.economictimes.com/news/defence/nato-russia-tensions-escalation-risk-ukraine-war-poland-europe-security-nuclear-threat/articleshow/136164988.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-11-25T14:36:34Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump Wants to Quiet Quit the Iran War—but the War Won’t Let Him",
+      "url": "https://www.thenation.com/article/world/donald-trump-iran-war/",
+      "source": "Thenation.com",
+      "publishedAt": "2026-11-25T14:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Libyan army says 2 officers were killed in Ukraine's attack on Russian warship",
+      "url": "https://www.cbc.ca/news/world/ukraine-russia-libya-attack-9.7435192",
+      "source": "CBC News",
+      "publishedAt": "2026-11-25T13:49:04Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "NATO is defensive. Russia is the aggressor: UK statement to the OSCE",
+      "url": "https://www.gov.uk/government/speeches/nato-is-defensive-russia-is-the-aggressor-uk-statement-to-the-osce",
+      "source": "Www.gov.uk",
+      "publishedAt": "2026-11-25T13:47:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "US debates killing Iranian leadership – NBC News",
+      "url": "https://rt-english.com/news/649347-us-iran-leadership-strikes/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-25T13:18:37Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Kanwal Sibal: No G3, no new Yalta. What the Trump-Xi-Putin summit really revealed",
+      "url": "https://rt-english.com/india/649336-putin-xi-trump-summit-shenzhen/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-25T12:49:49Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Links 11/25/2026",
+      "url": "https://www.nakedcapitalism.com/2026/11/links-11-25-2026.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-25T11:55:42Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "North Korea expels Swiss envoy over sanctions on camp accused of indoctrinating Ukrainian children",
+      "url": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648",
+      "source": "DW (English)",
+      "publishedAt": "2026-11-25T11:12:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "The black & white of why South Africa took unique step to destroy its nuclear weapons",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-black-white-of-why-south-africa-took-unique-step-to-destroy-its-nuclear-weapons/articleshow/136157303.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-11-25T10:58:37Z",
+      "_cat": "nuclear",
+      "_label": "Nuclear"
+    },
+    {
+      "title": "Could Netanyahu take Israel into another war with Iran to cling to power?",
+      "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-25T10:27:53Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
+      "url": "https://www.aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-25T10:01:08Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Caucasus Simmer in Background of Iran and Russia Wars, Approaches Boiling Point",
+      "url": "https://www.nakedcapitalism.com/2026/11/caucasus-simmer-in-background-of-iran-and-russia-wars-approaches-boiling-point.html",
+      "source": "Nakedcapitalism.com",
+      "publishedAt": "2026-11-25T10:00:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Is Russia really aiming for a new European security architecture?",
+      "url": "https://www.aljazeera.com/opinions/2026/11/25/is-russia-really-aiming-for-a-new-european-security-architecture",
+      "source": "Al Jazeera English",
+      "publishedAt": "2026-11-25T08:20:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "North Korea demands closure of Switzerland's new diplomatic office and orders diplomat to leave",
+      "url": "https://abcnews.com/International/wireStory/north-korea-demands-closure-switzerlands-new-diplomatic-office-138430806",
+      "source": "Abcnews.com",
+      "publishedAt": "2026-11-25T08:19:30Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "North Korea expels head of Swiss diplomatic office over sanctions",
+      "url": "https://www.hurriyetdailynews.com/north-korea-expels-head-of-swiss-diplomatic-office-over-sanctions-229815",
+      "source": "Hurriyet Daily News",
+      "publishedAt": "2026-11-25T05:56:00Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Iran slams US over unpaid OPCW dues, warns of threat to global security",
+      "url": "https://www.business-standard.com/world-news/iran-slams-us-over-unpaid-opcw-dues-warns-of-threat-to-global-security-126112500022_1.html",
+      "source": "Business Standard",
+      "publishedAt": "2026-11-25T02:29:17Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
     {
       "title": "Iranian FM Araghchi accuses Washington of hypocrisy as OPCW faces budget crisis over US arrears",
       "url": "https://m.economictimes.com/news/international/world-news/iranian-fm-araghchi-accuses-washington-of-hypocrisy-as-opcw-faces-budget-crisis-over-us-arrears/articleshow/136145176.cms",
@@ -35,36 +179,12 @@
       "_label": "Ukraine"
     },
     {
-      "title": "NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops",
-      "url": "https://www.foxnews.com/world/nato-jet-cleared-shoot-russian-missile-poland-warsaw-pushes-us-troops",
-      "source": "Fox News",
-      "publishedAt": "2026-11-24T20:56:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "European leader warns Russian aggression could escalate within weeks or months",
-      "url": "https://www.foxnews.com/world/european-leader-warns-russian-aggression-could-escalate-within-weeks-months",
-      "source": "Fox News",
-      "publishedAt": "2026-11-24T20:26:41Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Nvidia degrades U.S. national security as Chinese military snags its chips",
       "url": "https://fortune.com/2026/11/24/nvidia-jensen-huang-national-security-chinese-military-chips/",
       "source": "Fortune",
       "publishedAt": "2026-11-24T19:43:25Z",
       "_cat": "nuclear",
       "_label": "Nuclear"
-    },
-    {
-      "title": "Russian Strike On Ukraine Kills 2 And Wounds 48, Including Children",
-      "url": "https://www.huffpost.com/entry/russian-strike-ukraine-zaporizhzhia-kills-2_n_6b05d2c7e4b01d8bd1d8b2bf",
-      "source": "HuffPost",
-      "publishedAt": "2026-11-24T18:22:34Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Mossad Chief Reportedly Pushed US To Attack Iran Despite His Own Analysts’ Objections",
@@ -75,100 +195,28 @@
       "_label": "Iran War"
     },
     {
-      "title": "NATO allies anxious as war spreads beyond Ukraine, Russia borders",
-      "url": "https://www.cbsnews.com/news/ukraine-russia-war-warship-cargo-ship-attacks-nato-allies-anxiety/",
-      "source": "CBS News",
-      "publishedAt": "2026-11-24T17:16:20Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "Defense Minister reveals: 'Iran attempting to eliminate Trump & his family'",
       "url": "https://www.israelnationalnews.com/news/437034",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-11-24T17:06:35Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Zelenskiy confirms Ukrainian drone strike on Russian ship in Gulf of Finland",
-      "url": "https://www.irishtimes.com/world/europe/2026/11/24/zelenskiy-confirms-ukrainian-drone-strike-on-russian-ship-in-gulf-of-finland/",
-      "source": "The Irish Times",
-      "publishedAt": "2026-11-24T16:58:24Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Israel steps up strikes across Middle East under embattled Netanyahu",
-      "url": "https://rt-english.com/news/649296-israel-netanyahu-middle-east-strikes/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-24T16:57:22Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Ukraine confirms hit on Russian ship in Gulf of Finland, as escalation fears grow",
-      "url": "https://www.abc.net.au/news/2026-11-25/ukraine-gulf-of-finland-russian-ship-norway/107423526",
-      "source": "ABC News (AU)",
-      "publishedAt": "2026-11-24T16:31:10Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine's bid for NATO membership and more air defense remains controversial",
-      "url": "https://www.dw.com/en/ukraines-bid-for-nato-membership-and-more-air-defense-remains-controversial/a-80029852",
-      "source": "DW (English)",
-      "publishedAt": "2026-11-24T16:18:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine's bid for NATO membership and more air defense remain controversial",
-      "url": "https://www.dw.com/en/ukraines-bid-for-nato-membership-and-more-air-defense-remain-controversial/a-80029852",
-      "source": "DW (English)",
-      "publishedAt": "2026-11-24T16:18:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Ukraine is moving to share its battle-tested Delta combat management system with Germany as Europe learns from its war",
-      "url": "https://www.businessinsider.com/ukraine-delta-combat-management-system-germany-2026-11",
-      "source": "Business Insider",
-      "publishedAt": "2026-11-24T15:49:08Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Spinning Genocide",
       "url": "https://foreignpolicy.com/2026/11/24/israel-gaza-genocide-biden-akbar-ahmed-assal-rad/",
       "source": "Foreign Policy",
       "publishedAt": "2026-11-24T15:20:55Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Israel's PR war hits a wall as Gaza backlash erodes US public support",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/israels-pr-war-hits-a-wall-as-gaza-backlash-erodes-us-public-support/articleshow/136133746.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-24T14:30:32Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Iran War Turns Burma’s Hand-Dug Oil Wells Into a Battlefield",
-      "url": "https://www.thegatewaypundit.com/2026/11/iran-war-turns-burmas-hand-dug-oil-wells/",
-      "source": "Thegatewaypundit.com",
-      "publishedAt": "2026-11-24T14:30:02Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Report: Iran orders Revolutionary Guards to leave Beirut strongholds",
       "url": "https://www.israelnationalnews.com/news/437013",
       "source": "Israelnationalnews.com",
       "publishedAt": "2026-11-24T13:01:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
+      "_cat": "lebanon",
+      "_label": "Lebanon"
     },
     {
       "title": "Iran insists no talks with the US until its 7 conditions are met, and other Mideast news - Newsday",

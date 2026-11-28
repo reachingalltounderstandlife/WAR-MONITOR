@@ -1,12 +1,124 @@
 {
-  "updated": "2026-11-27T16:10:17Z",
-  "count": 35,
+  "updated": "2026-11-28T01:06:00Z",
+  "count": 33,
   "articles": [
     {
-      "title": "Britain calls up military reservists for first time since Cold War amid Russia threat",
-      "url": "https://timesofindia.indiatimes.com/world/uk/britain-calls-up-military-reservists-for-first-time-since-cold-war-amid-russia-threat/articleshow/136197090.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-26T15:45:13Z",
+      "title": "Trump says Putin “would like to make a deal” to end Russia-Ukraine war",
+      "url": "https://english.khabarhub.com/2026/27/577212/",
+      "source": "Khabarhub.com",
+      "publishedAt": "2026-11-27T01:03:11Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump urges Putin to end 'military aggression' in Europe",
+      "url": "https://www.rte.ie/news/2026/1127/1600845-trump-putin-ukraine/",
+      "source": "RTE",
+      "publishedAt": "2026-11-27T00:49:55Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukraine's Strike in Benghazi Threatens the Deal That Keeps Libya at Peace",
+      "url": "https://oilprice.com/Geopolitics/Africa/Ukraines-Strike-in-Benghazi-Threatens-the-Deal-That-Keeps-Libya-at-Peace.html",
+      "source": "OilPrice.com",
+      "publishedAt": "2026-11-27T00:00:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention",
+      "url": "https://www.foxnews.com/world/iran-accuses-zelenskyy-false-flag-kuwait-drone-strike-op-get-trumps-attention",
+      "source": "Fox News",
+      "publishedAt": "2026-11-26T23:19:59Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "UK tells 100,000 reservists to prepare for war",
+      "url": "https://rt-english.com/news/649403-uk-reservists-prepare-war/",
+      "source": "Rt-english.com",
+      "publishedAt": "2026-11-26T22:26:50Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "UK shields fighter jets, contacts reservists in Cold War-scale push amid Russia threat",
+      "url": "https://www.foxnews.com/world/uk-shields-fighter-jets-contacts-reservists-cold-war-scale-push-amid-russia-threat",
+      "source": "Fox News",
+      "publishedAt": "2026-11-26T21:14:20Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Israel strikes Hezbollah's rockets, launch pads",
+      "url": "https://biztoc.com/x/2feaf00ee602c66e",
+      "source": "Biztoc.com",
+      "publishedAt": "2026-11-26T20:27:02Z",
+      "_cat": "lebanon",
+      "_label": "Lebanon"
+    },
+    {
+      "title": "Trump, NATO Chief Warn Russia Against Expanding War",
+      "url": "https://www.newser.com/story/400688/trump-nato-chief-warn-russia-against-expanding-war.html",
+      "source": "Newser",
+      "publishedAt": "2026-11-26T19:55:00Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Donald Trump Urges Vladimir Putin to Stop 'All Military Aggression' Across Europe — as He Calls Conflict a 'Complete Bloodbath'",
+      "url": "https://radaronline.com/p/donald-trump-urges-vladimir-putin-to-stop-all-military-aggression-across-europe-as-he-calls-conflict-a-complete-bloodbath/",
+      "source": "Radaronline.com",
+      "publishedAt": "2026-11-26T19:11:25Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Ukrainian intelligence says North Korea paused missile deliveries to Russia amid friction over South Korea",
+      "url": "https://www.foxnews.com/world/ukrainian-intelligence-north-korea-paused-missile-deliveries-russia-friction-south-korea",
+      "source": "Fox News",
+      "publishedAt": "2026-11-26T19:10:13Z",
+      "_cat": "korea",
+      "_label": "N. Korea"
+    },
+    {
+      "title": "Trump Urged Vladimir Putin to End Military Aggression Against European Territories",
+      "url": "https://www.breitbart.com/politics/2026/11/26/trump-urged-vladimir-putin-to-end-military-aggression-against-european-territories/",
+      "source": "Breitbart News",
+      "publishedAt": "2026-11-26T18:53:58Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Two Italians killed in attack on Kuwait site, Iran denies involvement",
+      "url": "https://www.channelnewsasia.com/world/two-italians-killed-in-attack-kuwait-site-iran-denies-involvement-6585791",
+      "source": "CNA",
+      "publishedAt": "2026-11-26T18:11:38Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "'Nowhere is safe' as civilians worldwide face rise of cheap drone warfare",
+      "url": "https://www.abc.net.au/news/2026-11-27/global-drone-warfare-surge-fpv-quadcopters-ai-sudan-ukraine-gaza/107203470",
+      "source": "ABC News (AU)",
+      "publishedAt": "2026-11-26T18:00:00Z",
+      "_cat": "iran",
+      "_label": "Iran War"
+    },
+    {
+      "title": "Trump urges Putin to end military aggression in Europe",
+      "url": "https://punchng.com/trump-urges-putin-to-end-military-aggression-in-europe/",
+      "source": "The Punch",
+      "publishedAt": "2026-11-26T17:51:37Z",
+      "_cat": "ukraine",
+      "_label": "Ukraine"
+    },
+    {
+      "title": "Trump urges Putin to end 'military aggression' in Europe",
+      "url": "https://m.economictimes.com/news/international/world-news/trump-urges-putin-to-end-military-aggression-in-europe/articleshow/136200028.cms",
+      "source": "Economictimes.com",
+      "publishedAt": "2026-11-26T17:38:39Z",
       "_cat": "ukraine",
       "_label": "Ukraine"
     },
@@ -17,14 +129,6 @@
       "publishedAt": "2026-11-26T15:40:49Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump tells Putin to ‘pull back all military aggression’ as he tries for peace deal to end ‘complete bloodbath’ in Ukraine",
-      "url": "https://nypost.com/2026/11/26/us-news/trump-tells-putin-to-pull-back-all-military-aggression-as-he-tries-for-peace-deal-to-end-complete-bloodbath-in-ukraine/",
-      "source": "New York Post",
-      "publishedAt": "2026-11-26T15:39:23Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Two Italians killed after Iranian strike in Kuwait",
@@ -51,44 +155,12 @@
       "_label": "Lebanon"
     },
     {
-      "title": "‘Desperate’ Kiev seeking to draw NATO into war with Russia – ex-UK MP",
-      "url": "https://rt-english.com/russia/649382-bridgen-desperate-kiev-widen-war/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-26T15:04:09Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "'Grandmaster of politics': Trump's son-in-law hails Putin for not using nuclear weapons",
-      "url": "https://timesofindia.indiatimes.com/world/us/grandmaster-of-politics-trumps-son-in-law-hails-putin-for-not-using-nuclear-weapons/articleshow/136195283.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-26T14:23:58Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "The Chaos Theory of International Relations",
-      "url": "https://foreignpolicy.com/2026/11/26/the-chaos-theory-of-international-relations/",
-      "source": "Foreign Policy",
-      "publishedAt": "2026-11-26T14:00:11Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
       "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
       "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
       "source": "NPR",
       "publishedAt": "2026-11-26T13:31:28Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "Trump, NATO chief push Russia to avoid any actions that would 'expand the war' with Ukraine",
-      "url": "https://www.foxnews.com/politics/trump-nato-chief-push-russia-avoid-actions-expand-war-ukraine",
-      "source": "Fox News",
-      "publishedAt": "2026-11-26T13:16:51Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Satellite images reveal mysterious facility in Iran",
@@ -105,38 +177,6 @@
       "publishedAt": "2026-11-26T11:52:10Z",
       "_cat": "korea",
       "_label": "N. Korea"
-    },
-    {
-      "title": "“European Leaders Aren’t Banal, They are Evil – They Have Sold Out to US Interests”",
-      "url": "https://www.nakedcapitalism.com/2026/11/european-leaders-arent-banal-they-are-evil-they-have-sold-out-to-us-interests.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-26T11:46:40Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "UK sends letters to 100,000 veterans over possible military recall, may raise age from 55 to 65",
-      "url": "https://en.protothema.gr/2026/11/26/uk-sends-letters-to-100000-veterans-over-possible-military-recall-may-raise-age-from-55-to-65/",
-      "source": "Protothema.gr",
-      "publishedAt": "2026-11-26T11:27:13Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Britain tells 100,000 reservists to get ready for war - as Streeting admits regular soldiers' training was cut to save money",
-      "url": "https://www.dailymail.com/news/article-16323805/Ministry-Defence-letters-veterans-warning-prepare-war.html",
-      "source": "Dailymail.com",
-      "publishedAt": "2026-11-26T10:48:00Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
-    },
-    {
-      "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
-      "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
-      "source": "CNBC",
-      "publishedAt": "2026-11-26T10:45:45Z",
-      "_cat": "ukraine",
-      "_label": "Ukraine"
     },
     {
       "title": "Possible strikes on Iran? Netanyahu to convene security cabinet amid Israel-US preparations",
@@ -219,66 +259,10 @@
       "_label": "N. Korea"
     },
     {
-      "title": "Kim Jong Un tours nuclear material sites, urges wider use of tactical nuclear weapons",
-      "url": "https://www.dw.com/en/kim-jong-un-tours-nuclear-material-sites-urges-wider-use-of-tactical-nuclear-weapons/a-80055887",
-      "source": "DW (English)",
-      "publishedAt": "2026-11-26T04:12:00Z",
-      "_cat": "korea",
-      "_label": "N. Korea"
-    },
-    {
       "title": "US Strikes Russia in Gulf of Finland and Libya Through “Ukraine”",
       "url": "https://www.lewrockwell.com/2026/11/no_author/us-strikes-russia-in-gulf-of-finland-and-libya-through-ukraine/",
       "source": "Lewrockwell.com",
       "publishedAt": "2026-11-26T04:01:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-      "url": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-25T19:15:52Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Trump Wants to Quiet Quit the Iran War—but the War Won’t Let Him",
-      "url": "https://www.thenation.com/article/world/donald-trump-iran-war/",
-      "source": "Thenation.com",
-      "publishedAt": "2026-11-25T14:00:00Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "US debates killing Iranian leadership – NBC News",
-      "url": "https://rt-english.com/news/649347-us-iran-leadership-strikes/",
-      "source": "Rt-english.com",
-      "publishedAt": "2026-11-25T13:18:37Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "Links 11/25/2026",
-      "url": "https://www.nakedcapitalism.com/2026/11/links-11-25-2026.html",
-      "source": "Nakedcapitalism.com",
-      "publishedAt": "2026-11-25T11:55:42Z",
-      "_cat": "iran",
-      "_label": "Iran War"
-    },
-    {
-      "title": "The black & white of why South Africa took unique step to destroy its nuclear weapons",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-black-white-of-why-south-africa-took-unique-step-to-destroy-its-nuclear-weapons/articleshow/136157303.cms",
-      "source": "The Times of India",
-      "publishedAt": "2026-11-25T10:58:37Z",
-      "_cat": "nuclear",
-      "_label": "Nuclear"
-    },
-    {
-      "title": "Could Netanyahu take Israel into another war with Iran to cling to power?",
-      "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power",
-      "source": "Al Jazeera English",
-      "publishedAt": "2026-11-25T10:27:53Z",
       "_cat": "iran",
       "_label": "Iran War"
     }
